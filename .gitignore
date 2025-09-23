@@ -1,0 +1,20 @@
+# dati e artefatti locali
+data/*
+!data/.gitkeep
+data/**/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# ambienti locali / cache
+*.pyc
+__pycache__/
+.env
+.venv/
+.vscode/
+.ipynb_checkpoints/
+
+# file grandi
+*.pdf
+*.parquet
+*.zip

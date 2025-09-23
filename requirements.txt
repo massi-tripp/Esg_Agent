@@ -1,0 +1,3 @@
+pandas
+openpyxl
+PyMuPDF==1.24.9   # servirà a breve per i PDF
