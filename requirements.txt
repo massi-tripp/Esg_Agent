@@ -1,3 +1,8 @@
 pandas
 openpyxl
 PyMuPDF==1.24.9   # servirà a breve per i PDF
+scrapy>=2.11
+scrapy-playwright>=0.0.33
+playwright>=1.46
+langdetect>=1.0.9
+pybloom_live>=4.0.0
