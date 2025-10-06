@@ -38,6 +38,40 @@ ACCEPT_LANGUAGE = "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,fr;q=0.6,de;q=0.5,es;q=0.
 DEFAULT_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
+# === Ranking function identical to rank.py ===
+import re
+
+RE_YEAR = re.compile(r"(19\d{2}|20[0-4]\d)")
+RE_GOOD = re.compile(r"(sustainab|esg|csr|non[-_\s]?financial|integrated|annual)", re.I)
+
+def score(rec: dict) -> float:
+    """Calcola un punteggio euristico per un candidato (identico a rank.py)."""
+    s = 0.0
+    url = rec.get("target_url", "") or ""
+    anchor = rec.get("anchor_text", "") or ""
+    # PDF bonus
+    if rec.get("is_pdf"):
+        s += 25  # +5 rispetto a prima
+    # keyword signals
+    if RE_GOOD.search(url):
+        s += 15
+    if RE_GOOD.search(anchor):
+        s += 10
+    # year signal (bonus ma non obbligatorio)
+    y1 = rec.get("year_in_url")
+    y2 = rec.get("year_in_anchor")
+    if y1:
+        s += 8
+    if y2:
+        s += 5
+    # depth prior (shallower a bit better)
+    try:
+        s += max(0, 5 - int(rec.get("depth", 5)))
+    except Exception:
+        pass
+    return s
+
+
 # ---- Regex comuni ----
 RE_YEAR  = re.compile(r"(19\d{2}|20[0-4]\d)", re.I)
 RE_PDF   = re.compile(r"\.pdf(?:$|[?#])", re.I)
@@ -48,7 +82,11 @@ KW_URL = [
     r"\besg\b", r"\bcsrd\b", r"\besrs\b", r"\bdnf\b",
     r"sustainab(?:ility|le)", r"\bcsr\b", r"\brse\b",
     r"non[-_\s]?financial", r"responsibil", r"integrated[-_\s]?report",
-    r"report(s)?", r"publication(s)?", r"investors?"
+    r"report(s)?", r"publication(s)?", r"investors?",
+    r"\bgr(?:i|i-standards)\b",          # GRI
+    r"\bnon[-_\s]?financial[-_\s]?statement",  # NFS (EN)
+    r"\bnon[-_\s]?financial[-_\s]?report",
+    r"\bclimate\b", r"\benvironmental\b", r"\bdecarboni[sz]ation\b"
 ]
 
 # ---- Keyword multilingua (anchor / testo link) ----
@@ -58,7 +96,13 @@ KW_ANCHOR = [
     r"sostenibil", r"relazion[eai] di sostenibil", r"bilancio di sostenibil",
     r"durabil", r"d[eé]claration.*extra[-_\s]?financ", r"nachhaltig",
     r"nichtfinanziell", r"bericht", r"informe de sostenib", r"relatorio de sustentabilidade",
-    r"integrated report", r"annual report", r"non[-_\s]?financial"
+    r"integrated report", r"annual report", r"non[-_\s]?financial",
+    r"climate", r"environmental",
+    r"dichiarazione\s+non\s+finanziaria",     
+    r"d[ée]claration.*extra[-_\s]?financi",        
+    r"nichtfinanz",                                 
+    r"estado\s+de\s+informaci[oó]n\s+no\s+financiera",  
+    r"\bgr(?:i|i-standards)\b"
 ]
 
 RE_URL_KW    = re.compile("|".join(KW_URL), re.I)
@@ -366,7 +410,6 @@ class DiscoverySpider(scrapy.Spider):
                 year_in_anchor=None,
             )
             return
-
         # Fallback render prudente
         if (
             is_html_response(ctype)
@@ -470,6 +513,7 @@ class DiscoverySpider(scrapy.Spider):
             "year_in_url": year_in_url,
             "year_in_anchor": year_in_anchor,
         }
+        rec["score_hint"] = score(rec)
         self._append_jsonl(self.candidates_path, rec)
 
     @staticmethod

@@ -244,6 +244,7 @@ th { background: #f3f4f6; }
                     "type": tg.get("guess_type", ""),
                     "is_pdf": tg.get("is_pdf", False),
                     "year_path": tg.get("year_in_url", None),
+                    "score_hint": tg.get("score_hint","")
                 })
                 f.write(f'<h3>{cid} <span class="badge">top 5</span></h3>')
                 f.write(view.to_html(index=False, escape=False))
