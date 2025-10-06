@@ -1,9 +1,10 @@
 # scraper/run_discovery.py
-# PATCH: aggiunti parametri CLI: limit, render_budget, disable_render
+# Runner con argparse e supporto a --allow-external-pdfs
 
 import os
 import sys
 import csv
+import argparse
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 
@@ -21,9 +22,10 @@ def get_settings():
         pass
     return s
 
-def main(csv_path="data/interim/companies_urls.csv",
+def main(csv_path,
          max_depth=3, max_pages=100, whitelist="",
-         limit=None, render_budget=40, disable_render=False):
+         limit=None, render_budget=40, disable_render=False,
+         allow_external_pdfs=False):
     if not os.path.exists(csv_path):
         print(f"CSV non trovato: {csv_path}")
         sys.exit(1)
@@ -36,8 +38,8 @@ def main(csv_path="data/interim/companies_urls.csv",
         for i, row in enumerate(reader):
             if limit and i >= limit:
                 break
-            company_id = row.get("company_id") or row.get("id") or row.get("slug")
-            primary_url = row.get("primary_url") or row.get("url")
+            company_id  = row.get("company_id") or row.get("id") or row.get("slug") or row.get("company_name")
+            primary_url = row.get("primary_url") or row.get("url") or row.get("homepage_url")
             if not company_id or not primary_url:
                 continue
             process.crawl(
@@ -49,17 +51,33 @@ def main(csv_path="data/interim/companies_urls.csv",
                 whitelist=whitelist,
                 render_budget=render_budget,
                 disable_render=disable_render,
+                allow_external_pdfs=allow_external_pdfs,
             )
 
     process.start()
 
 if __name__ == "__main__":
-    args = sys.argv[1:]
-    csv_path  = args[0] if len(args) >= 1 else "data/interim/companies_urls.csv"
-    max_depth = int(args[1]) if len(args) >= 2 else 3
-    max_pages = int(args[2]) if len(args) >= 3 else 100
-    whitelist = args[3] if len(args) >= 4 else ""
-    limit     = int(args[4]) if len(args) >= 5 else None
-    render_budget = int(args[5]) if len(args) >= 6 else 40
-    disable_render = (args[6].lower() in ("true", "1", "yes")) if len(args) >= 7 else False
-    main(csv_path, max_depth, max_pages, whitelist, limit, render_budget, disable_render)
+    parser = argparse.ArgumentParser(description="Discovery ESG (crawler).")
+    parser.add_argument("csv_path", nargs="?", default="data/interim/companies_urls.csv",
+                        help="Percorso CSV con company_id e primary_url.")
+    parser.add_argument("--max-depth", type=int, default=3)
+    parser.add_argument("--max-pages", type=int, default=100)
+    parser.add_argument("--whitelist", type=str, default="", help="host extra separati da virgola")
+    parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument("--render-budget", type=int, default=40)
+    parser.add_argument("--disable-render", action="store_true")
+    parser.add_argument("--allow-external-pdfs", action="store_true",
+                        help="consenti PDF da host esterni (CDN, annualreport.* ecc.)")
+
+    args = parser.parse_args()
+    main(
+        csv_path=args.csv_path,
+        max_depth=args.max_depth,
+        max_pages=args.max_pages,
+        whitelist=args.whitelist,
+        limit=args.limit,
+        render_budget=args.render_budget,
+        disable_render=args.disable_render,
+        allow_external_pdfs=args.allow_external_pdfs,
+    )
+    print("Discovery completato. Ora esegui scraper/rank.py per classificare i risultati.")
