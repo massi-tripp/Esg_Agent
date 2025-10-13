@@ -227,15 +227,18 @@ th { background: #f3f4f6; }
             rows = []
             for cid, g in cands.groupby("company_id"):
                 tg = g.copy()
+                # ordina: PDF prima, anno più recente, profondità minore
+                # Aggiungi 'score_hint' alla logica di sorting
+                tg["score_hint"] = pd.to_numeric(tg.get("score_hint"), errors="coerce").fillna(0)
                 tg["has_pdf"] = tg.get("is_pdf", False)
                 tg["year_hint"] = pd.to_numeric(tg.get("year_in_url"), errors="coerce")
                 tg["anchor_year"] = pd.to_numeric(tg.get("year_in_anchor"), errors="coerce")
-                # ordina: PDF prima, anno più recente, profondità minore
-                sort_cols = ["has_pdf", "anchor_year", "year_hint", "depth"]
-                for col in sort_cols:
-                    if col not in tg.columns:
-                        tg[col] = None
-                tg = tg.sort_values(by=sort_cols, ascending=[False, False, False, True]).head(5)
+
+                # ordina: punteggio alto prima, PDF prima, anno più recente, profondità minore
+                tg = tg.sort_values(
+                    by=["score_hint", "has_pdf", "anchor_year", "year_hint", "depth"],
+                    ascending=[False, False, False, False, True]
+                ).head(5)
 
                 view = pd.DataFrame({
                     "target_url": tg["target_url"].apply(make_clickable),
