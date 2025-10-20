@@ -28,7 +28,6 @@ CANDS_GLOB = os.path.join(INTERIM_DIR, "candidates_raw*.jsonl")
 
 
 def list_runs() -> list[str]:
-    """Ritorna la lista dei run-id disponibili trovando i suffissi .<run>.jsonl (ordinati per mtime desc)."""
     candidates = []
     for path in glob.glob(PAGES_GLOB) + glob.glob(CANDS_GLOB):
         m = re.match(r".*\.(?P<run>[^./\\]+)\.jsonl$", path)
@@ -48,10 +47,6 @@ def list_runs() -> list[str]:
 def pick_files(run_id: str | None, use_all: bool) -> tuple[list[str], list[str], str]:
     """
     Determina quali file leggere.
-    - Se use_all=True: tutti i files * (base e per-run), aggregati.
-    - Se run_id è dato: usa quelli del run specifico.
-    - Altrimenti: se esistono, usa i base; se no prova l'ultimo run trovato.
-    Ritorna: (pages_files, cands_files, label) dove label è 'base' o il run-id o 'all'.
     """
     pages_files: list[str] = []
     cands_files: list[str] = []
@@ -60,7 +55,6 @@ def pick_files(run_id: str | None, use_all: bool) -> tuple[list[str], list[str],
     if use_all:
         pages_files = sorted(glob.glob(PAGES_GLOB))
         cands_files = sorted(glob.glob(CANDS_GLOB))
-        # includi anche i base se presenti
         if os.path.exists(BASE_PAGES):
             pages_files.append(BASE_PAGES)
         if os.path.exists(BASE_CANDS):
@@ -77,8 +71,7 @@ def pick_files(run_id: str | None, use_all: bool) -> tuple[list[str], list[str],
             cands_files = [rc]
         label = run_id
         return pages_files, cands_files, label
-
-    # Nessun run-id: prova i base
+    
     if os.path.exists(BASE_PAGES) or os.path.exists(BASE_CANDS):
         if os.path.exists(BASE_PAGES):
             pages_files = [BASE_PAGES]
@@ -87,7 +80,7 @@ def pick_files(run_id: str | None, use_all: bool) -> tuple[list[str], list[str],
         label = "base"
         return pages_files, cands_files, label
 
-    # Altrimenti prendi l'ultimo run disponibile
+    # Altrimenti prendiamo l'ultimo run disponibile
     runs = list_runs()
     if runs:
         latest = runs[0]

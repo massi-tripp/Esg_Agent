@@ -1,8 +1,7 @@
 # scraper/discover.py
-# Discovery ESG "robusto"
-# - Estrazione link con fallback regex (niente crash lxml)
-# - Canonical sicuro anche se lxml/parsel falliscono
-# - Accetta SEMPRE PDF come candidati (anche senza anno/keyword)
+# Discovery ESG
+# - Estrazione link con fallback regex
+# - Accetta SEMPRE PDF come candidati
 # - Opzione allow_external_pdfs per non limitare l'host dei PDF
 # - Logging pagine visitate e candidati
 
@@ -38,7 +37,7 @@ ACCEPT_LANGUAGE = "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,fr;q=0.6,de;q=0.5,es;q=0.
 DEFAULT_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
-# === Ranking function identical to rank.py ===
+# Ranking (identico a rank.py)
 import re
 
 RE_YEAR = re.compile(r"(19\d{2}|20[0-4]\d)")
@@ -51,20 +50,20 @@ def score(rec: dict) -> float:
     anchor = rec.get("anchor_text", "") or ""
     # PDF bonus
     if rec.get("is_pdf"):
-        s += 25  # +5 rispetto a prima
+        s += 25 
     # keyword signals
     if RE_GOOD.search(url):
         s += 15
     if RE_GOOD.search(anchor):
         s += 10
-    # year signal (bonus ma non obbligatorio)
+    # year signal
     y1 = rec.get("year_in_url")
     y2 = rec.get("year_in_anchor")
     if y1:
         s += 8
     if y2:
         s += 5
-    # depth prior (shallower a bit better)
+    # depth prior
     try:
         s += max(0, 5 - int(rec.get("depth", 5)))
     except Exception:
@@ -72,12 +71,12 @@ def score(rec: dict) -> float:
     return s
 
 
-# ---- Regex comuni ----
-RE_YEAR  = re.compile(r"(19\d{2}|20[0-4]\d)", re.I)
-RE_PDF   = re.compile(r"\.pdf(?:$|[?#])", re.I)
-RE_HTML  = re.compile(r"\.html?(?:$|[?#])", re.I)
+# Regex comuni,espressioni regolari che servono per identificare nel testo
+RE_YEAR  = re.compile(r"(19\d{2}|20[0-4]\d)", re.I) # anni dal 1900 al 2049
+RE_PDF   = re.compile(r"\.pdf(?:$|[?#])", re.I) # identifica URL PDF
+RE_HTML  = re.compile(r"\.html?(?:$|[?#])", re.I) # identifica URL HTML
 
-# ---- Keyword multilingua (URL / path) ----
+# Keyword multilingua (per l'URL)
 KW_URL = [
     r"\besg\b", r"\bcsrd\b", r"\besrs\b", r"\bdnf\b",
     r"sustainab(?:ility|le)", r"\bcsr\b", r"\brse\b",
@@ -89,7 +88,7 @@ KW_URL = [
     r"\bclimate\b", r"\benvironmental\b", r"\bdecarboni[sz]ation\b"
 ]
 
-# ---- Keyword multilingua (anchor / testo link) ----
+# Keyword multilingua (per il testo del link)
 KW_ANCHOR = [
     r"\besg\b", r"\bcsrd\b", r"\besrs\b", r"\bdnf\b",
     r"sustainab", r"\bcsr\b", r"\brse\b", r"non[-_\s]?finanzi",
@@ -108,7 +107,7 @@ KW_ANCHOR = [
 RE_URL_KW    = re.compile("|".join(KW_URL), re.I)
 RE_ANCHOR_KW = re.compile("|".join(KW_ANCHOR), re.I)
 
-# blocchi negativi (evita di espandere inutile)
+# blocchi negativi (evita di cercare in pagine non rilevanti)
 NEG_BLOCKS   = re.compile(
     r"privacy|cookie|policy|code[-_\s]?of[-_\s]?conduct|supplier|careers?|brochure|press[-_\s]?release|environmental[-_\s]?policy",
     re.I
@@ -118,7 +117,7 @@ ARCHIVE_HINT = re.compile(r"/(reports?|publications?|sustainab(?:ility|le)|inves
 def sha1(text: str) -> str:
     return hashlib.sha1(text.encode("utf-8", "ignore")).hexdigest()
 
-def canonicalize_url(url: str) -> str:
+def canonicalize_url(url: str) -> str: #funzione che normalizza gli URL
     try:
         pr = urlparse(url)
         fragment = ""
@@ -135,7 +134,7 @@ def same_or_subdomain(seed_netloc: str, candidate_netloc: str) -> bool:
         return True
     return candidate_netloc.endswith("." + seed_netloc)
 
-def is_html_response(ctype: str) -> bool:
+def is_html_response(ctype: str) -> bool: #controlla se il content-type è HTML
     ctype = (ctype or "").lower()
     return ("html" in ctype) or ctype.startswith("text/")
 
@@ -148,7 +147,7 @@ def is_lightweight_html(body: bytes) -> bool:
     script_tags = len(re.findall(br"<script[\s>]", body[:50_000], re.I))
     return text_tags <= 2 and script_tags >= 3
 
-def content_sniff(response) -> str:
+def content_sniff(response) -> str: 
     ct = (response.headers.get(b"Content-Type") or b"").decode("latin-1", "ignore").lower()
     if "pdf" in ct:
         return "application/pdf"
@@ -158,11 +157,12 @@ def content_sniff(response) -> str:
         return "application/pdf"
     return ct or "unknown"
 
-def now_iso() -> str:
+def now_iso() -> str: 
     return datetime.utcnow().isoformat(timespec="seconds") + "Z"
 
-# -------- Fallback helpers (senza lxml) --------
-
+##################
+# Fallback helpers (fallback leggeri per capire se una risposta è HTML, ripulire anchor, estrarre link)
+##################
 def is_probably_html_bytes(body: bytes) -> bool:
     if not body:
         return False
@@ -215,7 +215,7 @@ class DiscoverySpider(scrapy.Spider):
         "SCHEDULER_MEMORY_QUEUE": "scrapy.squeues.FifoMemoryQueue",
 
         "AUTOTHROTTLE_ENABLED": True,
-        "AUTOTHROTTLE_START_DELAY": 0.4,
+        "AUTOTHROTTLE_START_DELAY": 0.4, #per il ritmo di ricerca, da 0.4s a 2.5s
         "AUTOTHROTTLE_MAX_DELAY": 2.5,
         "CONCURRENT_REQUESTS": 12,
         "DOWNLOAD_DELAY": 0.25,
@@ -272,16 +272,16 @@ class DiscoverySpider(scrapy.Spider):
         self.pages_log_path = os.path.join(base, "pages_visited.jsonl")
         self.candidates_path = os.path.join(base, "candidates_raw.jsonl")
 
-    # -------- helpers di classe --------
+    # helpers di classe
 
-    def allowed_host(self, netloc: str, url: str | None = None) -> bool:
+    def allowed_host(self, netloc: str, url: str | None = None) -> bool: 
         netloc = (netloc or "").lower()
         # se PDF e consentiamo esterni -> sempre OK
         if self.allow_external_pdfs and url and RE_PDF.search(url or ""):
             return True
         return same_or_subdomain(self.seed_netloc, netloc) or netloc in self.allowed_extra_hosts
 
-    def seen_before(self, url_norm: str) -> bool:
+    def seen_before(self, url_norm: str) -> bool: # evita di rivisitare URL già visti
         h = sha1(url_norm)
         if HAS_BLOOM:
             if h in self.url_bloom:
@@ -330,7 +330,7 @@ class DiscoverySpider(scrapy.Spider):
 
     # -----------------------------------
 
-    def start_requests(self):
+    def start_requests(self): #punto di partenza
         self.logger.info(f"[{self.company_id}] START discovery\n  seed: {self.seed_url}\n  out pages: {os.path.abspath(self.pages_log_path)}\n  out candidates: {os.path.abspath(self.candidates_path)}\n  allow_external_pdfs: {self.allow_external_pdfs}")
         yield scrapy.Request(
             self.seed_url,
@@ -348,7 +348,7 @@ class DiscoverySpider(scrapy.Spider):
         depth    = response.meta.get("depth", 0)
         rendered = response.meta.get("rendered", False)
 
-        # Canonical sicuro (senza crash)
+        # Canonical
         canonical = None
         if is_html_response(ctype):
             try:
@@ -390,7 +390,7 @@ class DiscoverySpider(scrapy.Spider):
             "ts": now_iso(),
         })
 
-        # PDF diretto (registriamo SEMPRE come candidato)
+        # PDF diretto (registriamo come candidato)
         if ctype.startswith("application/pdf"):
             self._record_candidate(
                 source_url=response.request.headers.get("Referer", b"").decode("latin-1", "ignore") or "",
@@ -402,7 +402,7 @@ class DiscoverySpider(scrapy.Spider):
                 content_type=ctype,
                 lang_hint=(lang_hint or "").lower(),
                 is_pdf=True,
-                url_has_kw=True,  # è comunque un hit perché già PDF
+                url_has_kw=True,  
                 anchor_has_kw=False,
                 url_has_esg=bool(re.search(r"\besg\b", url_here, re.I)),
                 anchor_has_esg=False,
@@ -410,7 +410,7 @@ class DiscoverySpider(scrapy.Spider):
                 year_in_anchor=None,
             )
             return
-        # Fallback render prudente
+        # Fallback se non ho pdf
         if (
             is_html_response(ctype)
             and not rendered
@@ -426,14 +426,13 @@ class DiscoverySpider(scrapy.Spider):
                     "playwright": True,
                     "depth": depth,
                     "rendered": True,
-                    # niente metodi complicati: basta caricare
                 },
                 headers={"Accept-Language": ACCEPT_LANGUAGE, "User-Agent": DEFAULT_UA},
                 dont_filter=True
             )
             return
 
-        # Estrazione link + BFS (robusta)
+        # Estrazione link
         idx = 0
         for absolute, anchor_text in self.iter_links_safe(response, ctype):
             norm = canonicalize_url(absolute)
@@ -487,7 +486,7 @@ class DiscoverySpider(scrapy.Spider):
                     headers={"Accept-Language": ACCEPT_LANGUAGE, "User-Agent": DEFAULT_UA},
                 )
             idx += 1
-
+    # salviamo i dati della pagina candidata
     def _record_candidate(self, source_url, target_url, anchor_text, link_position,
                           depth, http_status, content_type, lang_hint,
                           is_pdf, url_has_kw, anchor_has_kw, url_has_esg, anchor_has_esg,
@@ -503,7 +502,6 @@ class DiscoverySpider(scrapy.Spider):
             "content_type": content_type,
             "lang_hint": (lang_hint or "").lower(),
             "ts": now_iso(),
-            # --- campi utili per ranking downstream ---
             "is_pdf": bool(is_pdf),
             "guess_type": "pdf" if is_pdf else ("html" if RE_HTML.search(target_url or "") else "unknown"),
             "url_has_kw": bool(url_has_kw),

@@ -891,3 +891,6 @@ min       3.000000
 50%      41.000000
 75%      65.000000
 max      67.000000
+
+
+ora devo farmi un benchmark con una ventina di report che sono corretti, per poi utilizzare gpt5mini per andare a verificare quali sono le attività di sostenibilità che ogni azienda affronta.

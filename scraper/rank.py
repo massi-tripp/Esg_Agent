@@ -1,5 +1,6 @@
 # rank.py
-# Tiny ranker: read data/interim/candidates_raw.jsonl and write data/output/candidates_best.csv
+# Ranker: legge data/interim/candidates_raw.jsonl e scrive su data/output/candidates_best.csv
+# mi serve per fare una 'classifica' dei candidati trovati dallo scraper
 
 import os
 import csv
@@ -20,16 +21,16 @@ def score(rec: dict) -> float:
     anchor = rec.get("anchor_text", "") or ""
     # PDF bonus
     if rec.get("is_pdf"):
-        s += 25  # +5 rispetto a prima
-    # keyword signals
+        s += 25
+    # keyword 
     if RE_GOOD.search(url): s += 15
     if RE_GOOD.search(anchor): s += 10
-    # year signal (bonus ma non obbligatorio)
+    # year 
     y1 = rec.get("year_in_url")
     y2 = rec.get("year_in_anchor")
     if y1: s += 8
     if y2: s += 5
-    # depth prior (shallower a bit better)
+    # depth
     try:
         s += max(0, 5 - int(rec.get("depth", 5)))
     except Exception:
@@ -69,9 +70,7 @@ for cid, (sc, rec) in best_by_company.items():
         "notes": "",
     })
 
-# Also include companies with no candidates? Your upstream CSV would be needed; this file only ranks candidates seen.
-
-# Write CSV
+# Creo il CSV finale
 fields = ["company_id","best_url","type","score","title","suspected_year","render_used","notes"]
 with open(OUT, "w", newline="", encoding="utf-8") as fo:
     w = csv.DictWriter(fo, fieldnames=fields)
@@ -80,3 +79,4 @@ with open(OUT, "w", newline="", encoding="utf-8") as fo:
         w.writerow(r)
 
 print(f"Wrote {len(rows)} rows to {OUT}")
+

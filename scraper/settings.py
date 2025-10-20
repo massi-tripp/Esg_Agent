@@ -1,5 +1,5 @@
 # scraper/settings.py
-# Impostazioni Scrapy centralizzate (opzionali). Il runner imposta già le principali.
+# Impostazioni Scrapy centralizzate. Il runner imposta già le principali.
 
 BOT_NAME = "esg_discovery"
 SPIDER_MODULES = ["scraper"]
@@ -21,3 +21,4 @@ DEFAULT_REQUEST_HEADERS = {
 
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 LOG_LEVEL = "INFO"
+
