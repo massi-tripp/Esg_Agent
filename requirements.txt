@@ -6,3 +6,13 @@ scrapy-playwright>=0.0.33
 playwright>=1.46
 langdetect>=1.0.9
 pybloom_live>=4.0.0
+python-dotenv
+pyyaml
+tqdm
+langchain
+langchain-chroma
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain_huggingface
+chromadb

@@ -1,0 +1,23 @@
+data:
+  text_dir: analysis_rag/data/output/text_images
+
+index:
+  type: CHROMA
+  collection_name: ESG_RAG
+  persist_directory: analysis_rag/data/benchmark/chroma  # cartella del DB Chroma
+
+chunking:
+  size: 1000
+  overlap: 200
+  min_chars: 200
+
+retriever:
+  k: 8
+  mmr: false
+
+metadata_fields: [company_id, doc_id, page, year, lang, section_title]
+
+taxonomy_yaml: configs/taxonomy.yaml
+
+outputs:
+  predictions_jsonl: analysis_rag/data/benchmark/predictions.jsonl

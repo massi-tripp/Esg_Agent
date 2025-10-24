@@ -5,6 +5,7 @@ Parte 2 — ESG Report Analysis (RAG): passo-passo
 Compilo analysis_rag/data/benchmark/metadata.csv con: company_id,year,language,url,filename.
 
 Obiettivo: definire ~20 PDF su cui fare benchmark.
+(fatto in modo manuale + chat)
 
 2) Scarico i PDF
 
@@ -28,13 +29,28 @@ Testo per pagina: analysis_rag/data/benchmark/parsed/<file>.pages.jsonl
 
 Metadati (pagine OCR, numero immagini): analysis_rag/data/benchmark/parsed_meta/<file>.meta.json
 
-Immagini estratte: analysis_rag/data/benchmark/images/…
-
 Report a console con quante pagine hanno poco testo (candidate OCR).
 
 5) Definire la tassonomia ESG
 
 Rivedi/aggiorna analysis_rag/configs/taxonomy.yaml con le attività/etichette che vuoi riconoscere (ENV, SOC, GOV, TARGET, STANDARD).
+
+nel file taxonomy.yaml, poi va validato, per evitare refusi, tramite:
+python analysis_rag/scripts/validate_taxonomy.py
+(python analysis_rag/scripts/validate_taxonomy.py
+[OK] Tassonomia valida: 26 label, version=1.0)
+
+Estraiamo attività dai testi tramite:
+
+python analysis_rag/scripts/extractor.py `
+  --texts-dir "analysis_rag\data\output\text_images" `
+  --taxonomy "analysis_rag\configs\taxonomy.yaml" `
+  --out-dir "analysis_rag\data\interim\activities" `
+  --min-score 1.4 `
+  --require-synonym-hit `
+  --max_sentences-per-label 8
+
+risultati nella cartella analysis_rag\data\interim\activitiess
 
 6) Indicizzazione per RAG (embedding + FAISS)
 
@@ -43,6 +59,18 @@ Imposto le variabili Azure (AZURE_OPENAI_API_KEY, ENDPOINT_URL, DEPLOYMENT_NAME,
 Eseguo analysis_rag/rag/build_index.py.
 
 Output: indice FAISS + metadati in analysis_rag/data/benchmark/index/.
+
+Per costruire l'indice runnare python -m analysis_rag.rag.build_index --config analysis_rag/rag/config.yaml
+
+Cosa aspettarci:
+
+- Log con numero di file testo trovati e numero totale di chunk.
+
+- Cartella analysis_rag/data/benchmark/index/ popolata con:
+
+- index.faiss (+ file di docstore/pickle creati da LangChain)
+
+- index.meta.json (riassunto: chunks, chunk_size, model embeddings, ecc.)
 
 7) Estrazione attività ESG (RAG con GPT-5-mini)
 
