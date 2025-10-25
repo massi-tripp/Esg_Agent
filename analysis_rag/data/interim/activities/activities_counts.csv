@@ -1,26 +1,27 @@
 company,label_id,count
-AB VOLVO,act_env_emission_reduction_programs,5
+AB VOLVO,act_env_emission_reduction_programs,7
 AB VOLVO,act_env_energy_efficiency,8
-AB VOLVO,act_env_renewable_energy,2
+AB VOLVO,act_env_renewable_energy,4
 AB VOLVO,act_gov_ethics_code_compliance,8
+AB VOLVO,act_gov_privacy_security,2
 AB VOLVO,act_gov_risk_management,8
 AB VOLVO,act_soc_diversity_inclusion,8
-AB VOLVO,act_soc_health_safety_programs,7
+AB VOLVO,act_soc_health_safety_programs,8
 AB VOLVO,act_soc_training_programs,6
-AKZO NOBEL NV,act_env_emission_reduction_programs,3
+AKZO NOBEL NV,act_env_emission_reduction_programs,4
 AKZO NOBEL NV,act_env_energy_efficiency,8
 AKZO NOBEL NV,act_env_renewable_energy,8
-AKZO NOBEL NV,act_gov_ethics_code_compliance,1
-AKZO NOBEL NV,act_gov_privacy_security,4
+AKZO NOBEL NV,act_gov_ethics_code_compliance,8
+AKZO NOBEL NV,act_gov_privacy_security,5
 AKZO NOBEL NV,act_gov_risk_management,8
 AKZO NOBEL NV,act_soc_diversity_inclusion,8
-AKZO NOBEL NV,act_soc_health_safety_programs,4
+AKZO NOBEL NV,act_soc_health_safety_programs,8
 AKZO NOBEL NV,act_soc_training_programs,3
 ANDRITZ AG,act_env_emission_reduction_programs,8
 ANDRITZ AG,act_env_energy_efficiency,8
 ANDRITZ AG,act_env_renewable_energy,8
 ANDRITZ AG,act_gov_ethics_code_compliance,8
-ANDRITZ AG,act_gov_privacy_security,6
+ANDRITZ AG,act_gov_privacy_security,8
 ANDRITZ AG,act_gov_risk_management,8
 ANDRITZ AG,act_soc_diversity_inclusion,8
 ANDRITZ AG,act_soc_health_safety_programs,8
@@ -29,37 +30,40 @@ ASML HOLDING N.V,act_env_emission_reduction_programs,8
 ASML HOLDING N.V,act_env_energy_efficiency,8
 ASML HOLDING N.V,act_env_renewable_energy,8
 ASML HOLDING N.V,act_gov_ethics_code_compliance,8
-ASML HOLDING N.V,act_gov_privacy_security,6
+ASML HOLDING N.V,act_gov_privacy_security,8
 ASML HOLDING N.V,act_gov_risk_management,8
 ASML HOLDING N.V,act_soc_diversity_inclusion,8
 ASML HOLDING N.V,act_soc_health_safety_programs,8
 ASML HOLDING N.V,act_soc_training_programs,8
-ASSICURAZIONI GENERALI SPA,act_env_emission_reduction_programs,5
-ASSICURAZIONI GENERALI SPA,act_env_energy_efficiency,3
+ASSICURAZIONI GENERALI SPA,act_env_emission_reduction_programs,7
+ASSICURAZIONI GENERALI SPA,act_env_energy_efficiency,7
 ASSICURAZIONI GENERALI SPA,act_env_renewable_energy,8
 ASSICURAZIONI GENERALI SPA,act_gov_ethics_code_compliance,8
 ASSICURAZIONI GENERALI SPA,act_gov_privacy_security,8
 ASSICURAZIONI GENERALI SPA,act_gov_risk_management,8
 ASSICURAZIONI GENERALI SPA,act_soc_diversity_inclusion,8
-ASSICURAZIONI GENERALI SPA,act_soc_health_safety_programs,5
+ASSICURAZIONI GENERALI SPA,act_soc_health_safety_programs,8
 ASSICURAZIONI GENERALI SPA,act_soc_training_programs,8
 BALFOUR BEATTY PLC,act_env_emission_reduction_programs,8
-BALFOUR BEATTY PLC,act_env_energy_efficiency,5
+BALFOUR BEATTY PLC,act_env_energy_efficiency,8
 BALFOUR BEATTY PLC,act_env_renewable_energy,3
 BALFOUR BEATTY PLC,act_gov_ethics_code_compliance,8
-BALFOUR BEATTY PLC,act_gov_privacy_security,2
+BALFOUR BEATTY PLC,act_gov_privacy_security,3
 BALFOUR BEATTY PLC,act_gov_risk_management,8
 BALFOUR BEATTY PLC,act_soc_diversity_inclusion,8
 BALFOUR BEATTY PLC,act_soc_health_safety_programs,8
 BALFOUR BEATTY PLC,act_soc_training_programs,6
 BUNZL PLC,act_env_emission_reduction_programs,1
-BUNZL PLC,act_env_energy_efficiency,4
-BUNZL PLC,act_env_renewable_energy,5
+BUNZL PLC,act_env_energy_efficiency,6
+BUNZL PLC,act_env_renewable_energy,8
+BUNZL PLC,act_gov_ethics_code_compliance,1
+BUNZL PLC,act_gov_privacy_security,1
 BUNZL PLC,act_gov_risk_management,8
 BUNZL PLC,act_soc_diversity_inclusion,8
+BUNZL PLC,act_soc_health_safety_programs,1
 BUNZL PLC,act_soc_training_programs,2
-COMPAGNIE FINANCIERE RICHEMONT SA,act_env_energy_efficiency,3
-COMPAGNIE FINANCIERE RICHEMONT SA,act_env_renewable_energy,6
+COMPAGNIE FINANCIERE RICHEMONT SA,act_env_energy_efficiency,8
+COMPAGNIE FINANCIERE RICHEMONT SA,act_env_renewable_energy,8
 COMPAGNIE FINANCIERE RICHEMONT SA,act_gov_ethics_code_compliance,8
 COMPAGNIE FINANCIERE RICHEMONT SA,act_gov_privacy_security,8
 COMPAGNIE FINANCIERE RICHEMONT SA,act_gov_risk_management,8
@@ -67,33 +71,35 @@ COMPAGNIE FINANCIERE RICHEMONT SA,act_soc_diversity_inclusion,8
 COMPAGNIE FINANCIERE RICHEMONT SA,act_soc_health_safety_programs,8
 COMPAGNIE FINANCIERE RICHEMONT SA,act_soc_training_programs,8
 COMPUTACENTER PLC,act_env_emission_reduction_programs,1
-COMPUTACENTER PLC,act_env_energy_efficiency,1
-COMPUTACENTER PLC,act_env_renewable_energy,3
-COMPUTACENTER PLC,act_gov_ethics_code_compliance,3
-COMPUTACENTER PLC,act_gov_privacy_security,1
+COMPUTACENTER PLC,act_env_energy_efficiency,2
+COMPUTACENTER PLC,act_env_renewable_energy,7
+COMPUTACENTER PLC,act_gov_ethics_code_compliance,4
+COMPUTACENTER PLC,act_gov_privacy_security,5
 COMPUTACENTER PLC,act_gov_risk_management,8
 COMPUTACENTER PLC,act_soc_diversity_inclusion,8
-COMPUTACENTER PLC,act_soc_health_safety_programs,3
+COMPUTACENTER PLC,act_soc_health_safety_programs,5
 COMPUTACENTER PLC,act_soc_training_programs,1
-DCC PLC,act_env_emission_reduction_programs,2
-DCC PLC,act_env_energy_efficiency,2
-DCC PLC,act_env_renewable_energy,6
-DCC PLC,act_gov_ethics_code_compliance,2
-DCC PLC,act_gov_privacy_security,1
+DCC PLC,act_env_emission_reduction_programs,6
+DCC PLC,act_env_energy_efficiency,5
+DCC PLC,act_env_renewable_energy,8
+DCC PLC,act_gov_ethics_code_compliance,4
+DCC PLC,act_gov_privacy_security,3
 DCC PLC,act_gov_risk_management,8
 DCC PLC,act_soc_diversity_inclusion,8
-DCC PLC,act_soc_health_safety_programs,3
+DCC PLC,act_soc_health_safety_programs,6
 DS SMITH LIMITED,act_env_energy_efficiency,8
 DS SMITH LIMITED,act_env_renewable_energy,3
-DS SMITH LIMITED,act_gov_ethics_code_compliance,5
+DS SMITH LIMITED,act_gov_ethics_code_compliance,7
+DS SMITH LIMITED,act_gov_privacy_security,4
 DS SMITH LIMITED,act_gov_risk_management,8
 DS SMITH LIMITED,act_soc_diversity_inclusion,8
-DS SMITH LIMITED,act_soc_health_safety_programs,7
+DS SMITH LIMITED,act_soc_health_safety_programs,8
 DS SMITH LIMITED,act_soc_training_programs,1
 EQUINOR ASA,act_env_emission_reduction_programs,8
 EQUINOR ASA,act_env_energy_efficiency,8
 EQUINOR ASA,act_env_renewable_energy,8
 EQUINOR ASA,act_gov_ethics_code_compliance,8
+EQUINOR ASA,act_gov_privacy_security,2
 EQUINOR ASA,act_gov_risk_management,8
 EQUINOR ASA,act_soc_diversity_inclusion,8
 EQUINOR ASA,act_soc_health_safety_programs,8
@@ -105,40 +111,74 @@ ESSILORLUXOTTICA,act_gov_ethics_code_compliance,8
 ESSILORLUXOTTICA,act_gov_privacy_security,8
 ESSILORLUXOTTICA,act_gov_risk_management,8
 ESSILORLUXOTTICA,act_soc_diversity_inclusion,8
+ESSILORLUXOTTICA,act_soc_health_safety_programs,1
 ESSILORLUXOTTICA,act_soc_training_programs,5
-GALP ENERGIA SGPS S.A,act_env_emission_reduction_programs,3
+GALP ENERGIA SGPS S.A,act_env_emission_reduction_programs,8
 GALP ENERGIA SGPS S.A,act_env_energy_efficiency,8
 GALP ENERGIA SGPS S.A,act_env_renewable_energy,8
 GALP ENERGIA SGPS S.A,act_gov_ethics_code_compliance,8
 GALP ENERGIA SGPS S.A,act_gov_privacy_security,5
 GALP ENERGIA SGPS S.A,act_gov_risk_management,8
 GALP ENERGIA SGPS S.A,act_soc_diversity_inclusion,8
-GALP ENERGIA SGPS S.A,act_soc_health_safety_programs,7
-HEINEKEN HOLDING N.V,act_env_renewable_energy,5
-HEINEKEN HOLDING N.V,act_gov_risk_management,8
-HEINEKEN HOLDING N.V,act_soc_diversity_inclusion,6
+GALP ENERGIA SGPS S.A,act_soc_health_safety_programs,8
 HENKEL AG _ CO. KGAA,act_env_emission_reduction_programs,1
 HENKEL AG _ CO. KGAA,act_env_energy_efficiency,1
 HENKEL AG _ CO. KGAA,act_env_renewable_energy,8
 HENKEL AG _ CO. KGAA,act_gov_privacy_security,1
 HENKEL AG _ CO. KGAA,act_gov_risk_management,8
 HENKEL AG _ CO. KGAA,act_soc_diversity_inclusion,8
-HENKEL AG _ CO. KGAA,act_soc_training_programs,6
-HSBC HOLDINGS PLC,act_env_emission_reduction_programs,4
-HSBC HOLDINGS PLC,act_env_energy_efficiency,4
-HSBC HOLDINGS PLC,act_env_renewable_energy,4
-HSBC HOLDINGS PLC,act_gov_ethics_code_compliance,4
+HENKEL AG _ CO. KGAA,act_soc_health_safety_programs,1
+HENKEL AG _ CO. KGAA,act_soc_training_programs,8
+HSBC HOLDINGS PLC,act_env_emission_reduction_programs,5
+HSBC HOLDINGS PLC,act_env_energy_efficiency,5
+HSBC HOLDINGS PLC,act_env_renewable_energy,7
+HSBC HOLDINGS PLC,act_gov_ethics_code_compliance,7
 HSBC HOLDINGS PLC,act_gov_privacy_security,8
 HSBC HOLDINGS PLC,act_gov_risk_management,8
 HSBC HOLDINGS PLC,act_soc_diversity_inclusion,8
-HSBC HOLDINGS PLC,act_soc_health_safety_programs,3
+HSBC HOLDINGS PLC,act_soc_health_safety_programs,7
 HSBC HOLDINGS PLC,act_soc_training_programs,6
 INCHCAPE PLC,act_env_emission_reduction_programs,2
-INCHCAPE PLC,act_env_energy_efficiency,6
-INCHCAPE PLC,act_env_renewable_energy,5
-INCHCAPE PLC,act_gov_ethics_code_compliance,5
-INCHCAPE PLC,act_gov_privacy_security,3
+INCHCAPE PLC,act_env_energy_efficiency,8
+INCHCAPE PLC,act_env_renewable_energy,8
+INCHCAPE PLC,act_gov_ethics_code_compliance,6
+INCHCAPE PLC,act_gov_privacy_security,6
 INCHCAPE PLC,act_gov_risk_management,8
 INCHCAPE PLC,act_soc_diversity_inclusion,8
 INCHCAPE PLC,act_soc_health_safety_programs,8
 INCHCAPE PLC,act_soc_training_programs,6
+ISS A_S,act_env_energy_efficiency,4
+ISS A_S,act_env_renewable_energy,8
+ISS A_S,act_gov_ethics_code_compliance,8
+ISS A_S,act_gov_privacy_security,8
+ISS A_S,act_gov_risk_management,8
+ISS A_S,act_soc_diversity_inclusion,8
+ISS A_S,act_soc_health_safety_programs,7
+ISS A_S,act_soc_training_programs,8
+JDE PEET_S N.V,act_env_emission_reduction_programs,3
+JDE PEET_S N.V,act_env_energy_efficiency,4
+JDE PEET_S N.V,act_env_renewable_energy,5
+JDE PEET_S N.V,act_gov_ethics_code_compliance,8
+JDE PEET_S N.V,act_gov_privacy_security,4
+JDE PEET_S N.V,act_gov_risk_management,8
+JDE PEET_S N.V,act_soc_diversity_inclusion,8
+JDE PEET_S N.V,act_soc_health_safety_programs,8
+JDE PEET_S N.V,act_soc_training_programs,1
+KION GROUP AG,act_env_emission_reduction_programs,1
+KION GROUP AG,act_env_energy_efficiency,6
+KION GROUP AG,act_env_renewable_energy,3
+KION GROUP AG,act_gov_ethics_code_compliance,3
+KION GROUP AG,act_gov_privacy_security,8
+KION GROUP AG,act_gov_risk_management,8
+KION GROUP AG,act_soc_diversity_inclusion,8
+KION GROUP AG,act_soc_health_safety_programs,1
+KION GROUP AG,act_soc_training_programs,3
+KNORR-BREMSE AG,act_env_emission_reduction_programs,7
+KNORR-BREMSE AG,act_env_energy_efficiency,8
+KNORR-BREMSE AG,act_env_renewable_energy,8
+KNORR-BREMSE AG,act_gov_ethics_code_compliance,8
+KNORR-BREMSE AG,act_gov_privacy_security,8
+KNORR-BREMSE AG,act_gov_risk_management,8
+KNORR-BREMSE AG,act_soc_diversity_inclusion,8
+KNORR-BREMSE AG,act_soc_health_safety_programs,8
+KNORR-BREMSE AG,act_soc_training_programs,6

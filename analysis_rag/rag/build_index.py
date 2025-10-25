@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
 # FILE: analysis_rag/rag/build_index.py
 """
-Indicizza i .txt dei report ESG in Chroma:
-- credenziali/parametri da variabili d'ambiente (os.getenv)
-- embeddings Azure via *deployment name* letto da AZURE_DEPLOYMENT_EMBEDDINGS
-- stessa convenzione ENV usata dal professore
+Indicizza i .txt dei report ESG in Chroma con batching e rate-limit handling:
+- Env allineate al prof (AZURE_OPENAI_API_VERSION, AZURE_DEPLOYMENT_EMBEDDINGS, ...)
+- Embeddings Azure via deployment name
+- Batching + retry su 429 (RateLimitReached)
 """
 
 import os
 import re
 import json
+import time
 from pathlib import Path
 from typing import Dict, List
 from tqdm import tqdm
@@ -17,23 +18,28 @@ from tqdm import tqdm
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_openai import AzureOpenAIEmbeddings
+from openai import RateLimitError
 
-# ======== ENV (allineate al codice del prof) ========
+# ======== ENV (come il prof) ========
 ENDPOINT_URL   = os.getenv("ENDPOINT_URL", "https://openaimaurino2.openai.azure.com/")
 API_KEY        = os.getenv("AZURE_OPENAI_API_KEY", "wLPBFmPkwquNFwn5IKDR3W8mv1ZKb95FGnxLZ0RgUiEl32D9qFaGJQQJ99BHACI8hq2XJ3w3AAABACOGyD04")
-API_VERSION    = os.getenv("AZURE_OPENAI_API_VERSION", "2025-01-01-preview")  # <-- come usa il prof
-# Deployment embeddings (DEVE essere il *deployment name* esatto sulla risorsa):
+API_VERSION    = os.getenv("AZURE_OPENAI_API_VERSION", "2025-01-01-preview")
 EMB_DEPLOYMENT = os.getenv("AZURE_DEPLOYMENT_EMBEDDINGS", "text-embedding-3-large")
-# Non usato qui ma utile in debug: deployment chat come nel prof
 CHAT_DEPLOY    = os.getenv("AZURE_DEPLOYMENT_COMPLETIONS", "gpt-5-mini")
 
-# Percorsi/parametri indicizzazione
+# ======== Parametri indice ========
 TEXT_DIR        = Path(os.getenv("TEXT_DIR", "analysis_rag/data/output/text_images"))
 CHROMA_DIR      = Path(os.getenv("CHROMA_DIR", "analysis_rag/data/benchmark/chroma"))
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "ESG_RAG")
 CHUNK_SIZE      = int(os.getenv("CHUNK_SIZE", "1000"))
 CHUNK_OVERLAP   = int(os.getenv("CHUNK_OVERLAP", "200"))
 MIN_CHARS       = int(os.getenv("MIN_CHARS", "200"))
+
+# ======== Batching / Rate limit ========
+EMBED_BATCH_SIZE = int(os.getenv("EMBED_BATCH_SIZE", "64"))     # riduci se 429 persiste (32/16)
+MAX_RETRIES      = int(os.getenv("EMBED_MAX_RETRIES", "12"))    # tentativi per batch
+COOLDOWN_SEC     = int(os.getenv("EMBED_COOLDOWN_SEC", "65"))   # sleep dopo 429
+PAUSE_BETWEEN    = float(os.getenv("EMBED_PAUSE_BETWEEN", "0.2"))  # pausa tra batch (secondi)
 
 FILENAME_RE = re.compile(r"^(?P<company>.+?)__+(?P<docid>.+?)__+.*\.txt$", re.IGNORECASE)
 
@@ -65,33 +71,56 @@ def _normalize_space(s: str) -> str:
 
 
 def _make_embeddings():
-    """Embeddings Azure: usa il *deployment name* come fa il prof (AZURE_DEPLOYMENT_EMBEDDINGS)."""
     _require("AZURE_OPENAI_API_KEY", API_KEY)
     _require("AZURE_DEPLOYMENT_EMBEDDINGS", EMB_DEPLOYMENT)
-
     print(f"[emb] Azure via azure_deployment='{EMB_DEPLOYMENT}'")
     emb = AzureOpenAIEmbeddings(
-        azure_deployment=EMB_DEPLOYMENT,      # << deployment name (NON model name generico)
+        azure_deployment=EMB_DEPLOYMENT,
         azure_endpoint=ENDPOINT_URL,
         api_key=API_KEY,
         openai_api_version=API_VERSION,
+        max_retries=8,              # lato client
+        timeout=60,
     )
-    # Smoke test per intercettare subito 404/chiave/endpoint errati
-    try:
-        _ = emb.embed_query("hello world")
-        print("[emb] Azure embeddings OK")
-    except Exception as e:
-        msg = (
-            f"\n[ERRORE EMBEDDINGS]\n"
-            f"- Endpoint: {ENDPOINT_URL}\n"
-            f"- API version: {API_VERSION}\n"
-            f"- Deployment embeddings: {EMB_DEPLOYMENT}\n"
-            f"Eccezione: {type(e).__name__}: {e}\n\n"
-            f"Controlla che *su questa risorsa* esista un deployment con nome esatto '{EMB_DEPLOYMENT}'.\n"
-            f"Se il nome è diverso, esporta AZURE_DEPLOYMENT_EMBEDDINGS con il nome corretto."
-        )
-        raise RuntimeError(msg) from e
+    # smoke test
+    _ = emb.embed_query("hello world")
+    print("[emb] Azure embeddings OK")
     return emb
+
+
+def _add_texts_with_retry(vs: Chroma, texts: List[str], metadatas: List[Dict]):
+    """Aggiunge in Chroma con batching e gestione 429."""
+    total = len(texts)
+    pbar = tqdm(total=total, desc="[index] Embedding+Add")
+    for start in range(0, total, EMBED_BATCH_SIZE):
+        end = min(start + EMBED_BATCH_SIZE, total)
+        batch_texts = texts[start:end]
+        batch_metas = metadatas[start:end]
+
+        attempt = 0
+        while True:
+            try:
+                vs.add_texts(batch_texts, metadatas=batch_metas)
+                pbar.update(len(batch_texts))
+                if PAUSE_BETWEEN > 0:
+                    time.sleep(PAUSE_BETWEEN)  # micro pausa tra batch
+                break
+            except RateLimitError as e:
+                attempt += 1
+                if attempt > MAX_RETRIES:
+                    raise RuntimeError(f"Troppi 429 consecutivi dopo {MAX_RETRIES} tentativi") from e
+                wait = COOLDOWN_SEC * attempt  # backoff lineare
+                print(f"[429] Rate limit, retry {attempt}/{MAX_RETRIES} tra {wait}s...")
+                time.sleep(wait)
+            except Exception as e:
+                # altri errori transitori → prova qualche retry corto
+                attempt += 1
+                if attempt > MAX_RETRIES:
+                    raise
+                wait = min(30, 5 * attempt)
+                print(f"[warn] Errore batch ({type(e).__name__}): {e} → retry tra {wait}s")
+                time.sleep(wait)
+    pbar.close()
 
 
 def main():
@@ -99,6 +128,7 @@ def main():
     print(f"[DEBUG] api_version  = {API_VERSION}")
     print(f"[DEBUG] emb_deploy   = {EMB_DEPLOYMENT}")
     print(f"[DEBUG] chat_deploy  = {CHAT_DEPLOY}")
+    print(f"[DEBUG] batch        = {EMBED_BATCH_SIZE}, cooldown={COOLDOWN_SEC}s, retries={MAX_RETRIES}")
 
     CHROMA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -134,14 +164,19 @@ def main():
     print("[build_index] Calcolo embeddings e costruzione Chroma...")
 
     embeddings = _make_embeddings()
-    vs = Chroma.from_texts(
-        texts=docs,
-        embedding=embeddings,
-        metadatas=metadatas,
+    vs = Chroma(
         collection_name=COLLECTION_NAME,
+        embedding_function=embeddings,
         persist_directory=str(CHROMA_DIR),
     )
-    vs.persist()
+
+    # >>> qui il batching con retry
+    _add_texts_with_retry(vs, docs, metadatas)
+    # Persist compatibile con versioni diverse di langchain_chroma
+    if hasattr(vs, "persist"):
+        vs.persist()
+    elif hasattr(vs, "_client") and hasattr(vs._client, "persist"):
+        vs._client.persist()
 
     meta = {
         "total_text_files": len(text_files),
@@ -153,6 +188,7 @@ def main():
         "embedding_deployment": EMB_DEPLOYMENT,
         "endpoint_url": ENDPOINT_URL,
         "api_version": API_VERSION,
+        "batch_size": EMBED_BATCH_SIZE,
     }
     with open(CHROMA_DIR / "index.meta.json", "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
