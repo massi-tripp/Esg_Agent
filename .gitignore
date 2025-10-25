@@ -18,3 +18,14 @@ __pycache__/
 *.pdf
 *.parquet
 *.zip
+
+# dati grezzi / intermedi (NO push)
+analysis_rag/data/pdfs/
+analysis_rag/data/output/
+analysis_rag/data/interim/
+
+# benchmark extra non necessari
+analysis_rag/data/benchmark/index/
+
+# log temporanei
+*.log

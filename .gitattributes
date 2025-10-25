@@ -1,3 +1,6 @@
+# Traccia con LFS i file grossi dell’indice Chroma
 analysis_rag/data/benchmark/chroma/** filter=lfs diff=lfs merge=lfs -text
+
+# In alternativa, solo i binari “pesanti”
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.sqlite3 filter=lfs diff=lfs merge=lfs -text
