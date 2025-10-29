@@ -20,6 +20,7 @@ from langchain_chroma import Chroma
 from langchain_openai import AzureOpenAIEmbeddings
 from openai import RateLimitError
 
+
 # ======== ENV (come il prof) ========
 ENDPOINT_URL   = os.getenv("ENDPOINT_URL", "https://openaimaurino2.openai.azure.com/")
 API_KEY        = os.getenv("AZURE_OPENAI_API_KEY", "wLPBFmPkwquNFwn5IKDR3W8mv1ZKb95FGnxLZ0RgUiEl32D9qFaGJQQJ99BHACI8hq2XJ3w3AAABACOGyD04")
@@ -31,17 +32,15 @@ CHAT_DEPLOY    = os.getenv("AZURE_DEPLOYMENT_COMPLETIONS", "gpt-5-mini")
 TEXT_DIR        = Path(os.getenv("TEXT_DIR", "analysis_rag/data/output/text_images"))
 CHROMA_DIR      = Path(os.getenv("CHROMA_DIR", "analysis_rag/data/benchmark/chroma"))
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "ESG_RAG")
-CHUNK_SIZE      = int(os.getenv("CHUNK_SIZE", "1000"))
-CHUNK_OVERLAP   = int(os.getenv("CHUNK_OVERLAP", "200"))
-MIN_CHARS       = int(os.getenv("MIN_CHARS", "200"))
+CHUNK_SIZE      = int(os.getenv("CHUNK_SIZE", "2000"))
+CHUNK_OVERLAP   = int(os.getenv("CHUNK_OVERLAP", "300"))
+MIN_CHARS       = int(os.getenv("MIN_CHARS", "300"))
 
 # ======== Batching / Rate limit ========
 EMBED_BATCH_SIZE = int(os.getenv("EMBED_BATCH_SIZE", "64"))     # riduci se 429 persiste (32/16)
 MAX_RETRIES      = int(os.getenv("EMBED_MAX_RETRIES", "12"))    # tentativi per batch
 COOLDOWN_SEC     = int(os.getenv("EMBED_COOLDOWN_SEC", "65"))   # sleep dopo 429
 PAUSE_BETWEEN    = float(os.getenv("EMBED_PAUSE_BETWEEN", "0.2"))  # pausa tra batch (secondi)
-
-FILENAME_RE = re.compile(r"^(?P<company>.+?)__+(?P<docid>.+?)__+.*\.txt$", re.IGNORECASE)
 
 
 def _require(var_name: str, value: str):
@@ -51,13 +50,30 @@ def _require(var_name: str, value: str):
 
 
 def _guess_metadata_from_path(p: Path) -> Dict:
+    """
+    Regola concordata:
+    - company_id = prefisso del filename fino al PRIMO '_' (underscore)
+    - doc_id     = tutto il resto del filename (senza .txt); se non c'è '_', usa lo stem intero
+    - page       = non dedotta (None)
+    - fallback company_id = nome della cartella padre se il filename non contiene '_'
+    Esempi:
+      "AB_VOLVO_sustainability_2024_en.txt" -> company_id="AB", doc_id="VOLVO_sustainability_2024_en"
+      "A2A-Report-2024.txt" (senza underscore) -> company_id=<nome cartella padre>, doc_id="A2A-Report-2024"
+    """
     md = {"company_id": None, "doc_id": None, "page": None, "year": None, "lang": None, "section_title": None}
-    m = FILENAME_RE.match(p.name)
-    if m:
-        md["company_id"] = m.group("company").strip()
-        md["doc_id"]     = m.group("docid").strip()
+
+    stem = p.stem  # nome senza .txt
+    if "_" in stem:
+        company_part, rest = stem.split("_", 1)
+        md["company_id"] = (company_part or "").strip() or None
+        md["doc_id"]     = (rest or "").strip() or stem
     else:
-        md["doc_id"]     = p.stem
+        md["doc_id"] = stem
+        # fallback: prendi la cartella padre come company_id se è informativa
+        parent = (p.parent.name or "").strip()
+        if parent and parent.lower() not in {"", "text_images", "output", "data"}:
+            md["company_id"] = parent
+
     return md
 
 
@@ -146,16 +162,27 @@ def main():
     print(f"[build_index] Trovati {len(text_files)} file di testo. Inizio chunking...")
     docs, metadatas = [], []
     total_chunks = 0
+    files_without_company = 0
+
     for p in tqdm(text_files):
         raw = _normalize_space(p.read_text(encoding="utf-8", errors="ignore"))
         if len(raw) < MIN_CHARS:
             continue
+
         chunks = [c for c in splitter.split_text(raw) if len(c) >= MIN_CHARS]
         md_base = _guess_metadata_from_path(p)
 
-        docs.extend(chunks)
-        metadatas.extend([md_base.copy() for _ in chunks])
+        if not md_base.get("company_id"):
+            files_without_company += 1
+
+        # Propaga metadati a ogni chunk
+        for c in chunks:
+            docs.append(c)
+            metadatas.append(md_base.copy())
         total_chunks += len(chunks)
+
+    if files_without_company:
+        print(f"[warn] File senza company_id inferito: {files_without_company} (controlla i nomi file/cartelle)")
 
     if total_chunks == 0:
         raise RuntimeError("Dopo il chunking non sono rimasti chunk indicizzabili (controlla MIN_CHARS e i .txt).")
@@ -211,5 +238,4 @@ $env:AZURE_DEPLOYMENT_COMPLETIONS="gpt-5-mini"
 $env:AZURE_DEPLOYMENT_EMBEDDINGS="text-embedding-3-large"   # <-- SE (e solo se) esiste con quel nome su *openaimaurino2*
 
 python -m analysis_rag.rag.build_index
-python -m analysis_rag.rag.extract_activities
 '''

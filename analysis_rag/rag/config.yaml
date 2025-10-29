@@ -7,9 +7,9 @@ index:
   persist_directory: analysis_rag/data/benchmark/chroma  # cartella del DB Chroma
 
 chunking:
-  size: 1000
-  overlap: 200
-  min_chars: 200
+  size: 2000
+  overlap: 300
+  min_chars: 300
 
 retriever:
   k: 8
