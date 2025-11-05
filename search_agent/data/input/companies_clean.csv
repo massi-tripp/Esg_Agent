@@ -1,0 +1,618 @@
+company_id,isin,domains,urls,primary_url
+VOLKSWAGEN AG,DE0007664005,www.volkswagen.de;volkswagen.de,https://www.volkswagen.de;https://volkswagen.de,https://www.volkswagen.de
+SHELL PLC,GB00BP6MXD84,www.shell.com;www.shell.co.uk;shell.co.uk,https://www.shell.com;https://www.shell.co.uk;https://shell.co.uk,https://www.shell.com
+GLENCORE PLC,JE00B4T3BW64,www.glencore.com;glencore.com,https://www.glencore.com;https://glencore.com,https://www.glencore.com
+STELLANTIS N.V.,NL00150001Q9,www.stellantis.com;stellantis.com,https://www.stellantis.com;https://stellantis.com,https://www.stellantis.com
+TOTALENERGIES SE,FR0000120271,www.total.com;totalenergies.com,https://www.total.com;https://totalenergies.com,https://www.total.com
+BP PLC,GB0007980591,www.bp.com;www.hl.co.uk;hl.co.uk,https://www.bp.com;https://www.hl.co.uk;https://hl.co.uk,https://www.bp.com
+MERCEDES-BENZ GROUP AG,DE0007100000,www.group.mercedes-benz.com;www.mercedes-benz.de;mercedes-benz.de,https://www.group.mercedes-benz.com/en;https://www.mercedes-benz.de;https://mercedes-benz.de,https://www.group.mercedes-benz.com/en
+BAYERISCHE MOTOREN WERKE AG,DE0005190003,www.bmwgroup.com;www.bmw.de;bmw.de,https://www.bmwgroup.com;https://www.bmw.de/de/index.html;https://bmw.de,https://www.bmwgroup.com
+DEUTSCHE TELEKOM AG,DE0005557508,www.telekom.com;www.telekom.de;telekom.de,https://www.telekom.com;https://www.telekom.de/start;https://telekom.de,https://www.telekom.com
+EQUINOR ASA,NO0010096985,www.equinor.com;equinor.com,https://www.equinor.com;https://equinor.com,https://www.equinor.com
+NESTLE S.A.,CH0038863350,www.nestle.com;www.nestle.ch;nestle.ch,https://www.nestle.com;https://www.nestle.ch/de;https://nestle.ch,https://www.nestle.com
+ALLIANZ SE,DE0008404005,www.allianz.com;www.allianz.de;allianz.de,https://www.allianz.com;https://www.allianz.de;https://allianz.de,https://www.allianz.com
+ENI S.P.A.,IT0003132476,www.eni.com;eni.com,https://www.eni.com;https://eni.com,https://www.eni.com
+KONINKLIJKE AHOLD DELHAIZE N.V.,NL0011794037,www.aholddelhaize.com;aholddelhaize.com,https://www.aholddelhaize.com;https://aholddelhaize.com,https://www.aholddelhaize.com
+DEUTSCHE POST AG,DE0005552004,www.deutschepost.de;www.dhl.com;dhl.com,https://www.deutschepost.de;https://www.dhl.com/us-en/home.html?locale=true;https://dhl.com,https://www.deutschepost.de
+AXA SOCIETE ANONYME,FR0000120628,www.axa.com;www.axa-ic.com;www.axa.fr;axa.fr,https://www.axa.com;https://www.axa-ic.com;https://www.axa.fr;https://axa.fr,https://www.axa.com
+CARREFOUR,FR0000120172,www.carrefour.com;www.carrefour.net;carrefour.net,https://www.carrefour.com;https://www.carrefour.net;https://carrefour.net,https://www.carrefour.com
+TESCO PLC,GB00BLGZ9862,www.tescoplc.com;tescoplc.com,https://www.tescoplc.com;https://tescoplc.com,https://www.tescoplc.com
+CHRISTIAN DIOR,FR0000130403,www.dior-finance.com;www.vogue.fr;vogue.fr,https://www.dior-finance.com;https://www.vogue.fr;https://vogue.fr,https://www.dior-finance.com
+LVMH MOET HENNESSY LOUIS VUITTON,FR0000121014,www.lvmh.fr;lvmh.fr,https://www.lvmh.fr;https://lvmh.fr,https://www.lvmh.fr
+SIEMENS AG,DE0007236101,www.siemens.com;siemens.com,https://www.siemens.com;https://siemens.com,https://www.siemens.com
+E.ON SE,DE000ENAG999,www.eon.com;eon.com,https://www.eon.com;https://eon.com,https://www.eon.com
+ENEL SPA,IT0003128367,www.enel.it;enel.it,https://www.enel.it;https://enel.it,https://www.enel.it
+ENGIE,FR0010208488,www.engie.com;www.engie.fr;engie.fr,https://www.engie.com;https://www.engie.fr;https://engie.fr,https://www.engie.com
+VINCI,FR0000125486,www.vinci.com;vinci.com,https://www.vinci.com;https://vinci.com,https://www.vinci.com
+ORLEN S.A.,PLPKN0000018,www.orlen.pl;orlen.pl,https://www.orlen.pl;https://orlen.pl,https://www.orlen.pl
+AIRBUS SE,NL0000235190,www.airbus.com;airbus.com,https://www.airbus.com;https://airbus.com,https://www.airbus.com
+HSBC HOLDINGS PLC,GB0005405286,www.hsbc.com;www.hsbc.co.uk;hsbc.co.uk,https://www.hsbc.com;https://www.hsbc.co.uk;https://hsbc.co.uk,https://www.hsbc.com
+ROCHE HOLDING AG,CH0012032048,www.roche.com;www.roche.ch;roche.ch,https://www.roche.com;https://www.roche.ch;https://roche.ch,https://www.roche.com
+BANCO SANTANDER SA,ES0113900J37,www.santander.com;www.bancosantander.es;bancosantander.es,https://www.santander.com;https://www.bancosantander.es/particulares;https://bancosantander.es,https://www.santander.com
+MUNCHENER RUCKVERSICHERUNGS-GESELLSCHAFT AKTIENGESELLSCHAFT IN MUNCHEN,DE0008430026,www.munichre.com;munichre.com,https://www.munichre.com;https://munichre.com,https://www.munichre.com
+UNILEVER PLC,GB00B10RZP78,www.unilever.com;www.unilever.co.uk;unilever.co.uk,https://www.unilever.com;https://www.unilever.co.uk;https://unilever.co.uk,https://www.unilever.com
+ARCELORMITTAL SA,LU1598757687,www.arcelormittal.com;corporate.arcelormittal.com;arcelormittal.com,https://www.arcelormittal.com;https://corporate.arcelormittal.com;https://arcelormittal.com,https://www.arcelormittal.com
+REPSOL SA.,ES0173516115,www.repsol.com;www.bolsasymercados.es;bolsamadrid.es,https://www.repsol.com;https://www.bolsasymercados.es/bme-exchange/es/Bolsa-Madrid;https://bolsamadrid.es,https://www.repsol.com
+ANHEUSER-BUSCH INBEV SA/NV,BE0974293251,www.ab-inbev.com;ab-inbev.be,https://www.ab-inbev.com;https://ab-inbev.be,https://www.ab-inbev.com
+BOUYGUES,FR0000120503,www.bouygues.fr;www.bouyguestelecom.fr;bouyguestelecom.fr,https://www.bouygues.fr;https://www.bouyguestelecom.fr;https://bouyguestelecom.fr,https://www.bouygues.fr
+RENAULT,FR0000131906,www.groupe.renault.com;www.renault.fr;renault.fr,https://www.groupe.renault.com;https://www.renault.fr;https://renault.fr,https://www.groupe.renault.com
+DAIMLER TRUCK HOLDING AG,DE000DTR0CK8,www.daimlertruck.com;www.daimler-truck.com;daimler-truck.com,https://www.daimlertruck.com;https://www.daimler-truck.com/en;https://daimler-truck.com,https://www.daimlertruck.com
+COMPASS GROUP PLC,GB00BD6K4575,www.compass-group.com;www.compassgroupcareers.com;compass-group.com,https://www.compass-group.com;https://www.compassgroupcareers.com;https://compass-group.com,https://www.compass-group.com
+A P MOLLER-MAERSK A/S,DK0010244508,www.maersk.com;www.maersk-fpsos.com;maersk-fpsos.com,https://www.maersk.com;https://www.maersk-fpsos.com;https://maersk-fpsos.com,https://www.maersk.com
+ASSICURAZIONI GENERALI SPA,IT0000062072,www.generali.com;generali.com,https://www.generali.com;https://generali.com,https://www.generali.com
+RIO TINTO PLC,GB0007188757,www.riotinto.com;riotinto.com,https://www.riotinto.com;https://riotinto.com,https://www.riotinto.com
+ASTRAZENECA PLC,GB0009895292,www.astrazeneca.com;www.astrazeneca.co.uk;astrazeneca.co.uk,https://www.astrazeneca.com;https://www.astrazeneca.co.uk;https://astrazeneca.co.uk,https://www.astrazeneca.com
+NOVARTIS AG,CH0012005267,www.novartis.com;novartis.com,https://www.novartis.com;https://novartis.com,https://www.novartis.com
+SANOFI,FR0000120578,www.sanofi.com;sanofi.com,https://www.sanofi.com;https://sanofi.com,https://www.sanofi.com
+BNP PARIBAS,FR0000131104,group.bnpparibas;www.group.bnpparibas;www.bnpparibas.lu;bnpparibas.lu,https://group.bnpparibas;https://www.group.bnpparibas;https://www.bnpparibas.lu/en;https://bnpparibas.lu,https://group.bnpparibas
+BAYER AG,DE000BAY0017,www.bayer.com;www.bayer04.de;bayer04.de,https://www.bayer.com;https://www.bayer04.de;https://bayer04.de,https://www.bayer.com
+IBERDROLA SA,ES0144580Y14,www.iberdrola.es;www.iberdrola.com;iberdrola.com,https://www.iberdrola.es;https://www.iberdrola.com;https://iberdrola.com,https://www.iberdrola.es
+VODAFONE GROUP PLC,GB00BH4HKS39,www.vodafone.com;www.vodafone.co.uk;vodafone.co.uk,https://www.vodafone.com;https://www.vodafone.co.uk;https://vodafone.co.uk,https://www.vodafone.com
+COMPAGNIE DE SAINT-GOBAIN,FR0000125007,www.saint-gobain.com;saint-gobain.com,https://www.saint-gobain.com;https://saint-gobain.com,https://www.saint-gobain.com
+AB VOLVO,SE0000115446,www.volvogroup.com;volvogroup.se,https://www.volvogroup.com;https://volvogroup.se,https://www.volvogroup.com
+VEOLIA ENVIRONNEMENT,FR0000124141,www.veolia.fr;veolia.fr,https://www.veolia.fr;https://veolia.fr,https://www.veolia.fr
+L'OREAL,FR0000120321,www.loreal.com;www.loreal-paris.fr;loreal-paris.fr,https://www.loreal.com;https://www.loreal-paris.fr;https://loreal-paris.fr,https://www.loreal.com
+ORANGE,FR0000133308,www.orange.com;www.orange.fr;orange.fr,https://www.orange.com;https://www.orange.fr/portail;https://orange.fr,https://www.orange.com
+TELEFONICA SA,ES0178430E18,www.telefonica.com;www.telefonica.es;telefonica.es,https://www.telefonica.com;https://www.telefonica.es/es;https://telefonica.es,https://www.telefonica.com
+"ACS, ACTIVIDADES DE CONSTRUCCION Y SERVICIOS, SA",ES0167050915,www.grupoacs.com;grupoacs.com,https://www.grupoacs.com;https://grupoacs.com,https://www.grupoacs.com
+IMPERIAL BRANDS PLC,GB0004544929,www.imperial-tobacco.com;www.imperialbrandsplc.com;imperialbrandsplc.com,https://www.imperial-tobacco.com;https://www.imperialbrandsplc.com;https://imperialbrandsplc.com,https://www.imperial-tobacco.com
+DR. ING. H.C. F. PORSCHE AG,DE000PAG9113,www.porsche.com;porsche.com,https://www.porsche.com;https://porsche.com,https://www.porsche.com
+SAINSBURY (J) PLC,GB00B019KW72,www.j-sainsbury.co.uk,https://www.j-sainsbury.co.uk,https://www.j-sainsbury.co.uk
+BANCO BILBAO VIZCAYA ARGENTARIA SA,ES0113211835,www.bbva.es;www.bbva.com;bbva.com,https://www.bbva.es;https://www.bbva.com/en/us;https://bbva.com,https://www.bbva.es
+NOVO NORDISK A/S,DK0062498333,www.novonordisk.com;www.novonordisk.dk;novonordisk.dk,https://www.novonordisk.com;https://www.novonordisk.dk;https://novonordisk.dk,https://www.novonordisk.com
+GSK PLC,GB00BN7SWP63,www.gsk.com;gsk.com,https://www.gsk.com;https://gsk.com,https://www.gsk.com
+INDUSTRIA DE DISENO TEXTIL S.A.,ES0148396007,www.inditex.com;inditex.com,https://www.inditex.com;https://inditex.com,https://www.inditex.com
+SCHNEIDER ELECTRIC SE,FR0000121972,www.schneider-electric.ch;www.se.com;schneider-electric.fr,https://www.schneider-electric.ch;https://www.se.com/fr/fr;https://schneider-electric.fr,https://www.schneider-electric.ch
+THYSSENKRUPP AG,DE0007500001,www.thyssenkrupp.com;thyssenkrupp.com,https://www.thyssenkrupp.com;https://thyssenkrupp.com,https://www.thyssenkrupp.com
+SIEMENS ENERGY AG,DE000ENER6Y0,www.siemens.com;www.siemens-energy.com;siemensenergy.net,https://www.siemens.com/global/en.html;https://www.siemens-energy.com/global/en.html;https://siemensenergy.net,https://www.siemens.com/global/en.html
+VOLVO CAR AB,SE0016844831,www.volvocars.com;www.volvo.com;volvo.com,https://www.volvocars.com;https://www.volvo.com/en;https://volvo.com,https://www.volvocars.com
+OMV AKTIENGESELLSCHAFT,AT0000743059,www.omv.com;omv.at,https://www.omv.com;https://omv.at,https://www.omv.com
+HOCHTIEF AG,DE0006070006,www.hochtief.de;hochtief.de,https://www.hochtief.de;https://hochtief.de,https://www.hochtief.de
+JERONIMO MARTINS SGPS S.A.,PTJMT0AE0001,www.jeronimomartins.com;www.jeronimomartins.pt;jeronimomartins.pt,https://www.jeronimomartins.com;https://www.jeronimomartins.pt;https://jeronimomartins.pt,https://www.jeronimomartins.com
+BARCLAYS PLC,GB0031348658,home.barclays;www.home.barclays;barclays.com,https://home.barclays;https://www.home.barclays;https://barclays.com,https://home.barclays
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP S.A,ES0177542018,www.iairgroup.com;www.iagcargo.com;iagcargo.com,https://www.iairgroup.com;https://www.iagcargo.com;https://iagcargo.com,https://www.iairgroup.com
+BAE SYSTEMS PLC,GB0002634946,www.baesystems.com;baesystems.com,https://www.baesystems.com;https://baesystems.com,https://www.baesystems.com
+ABB LTD,CH0012221716,www.abb.com;uzh.ch,https://www.abb.com;https://uzh.ch/de.html;https://uzh.ch,https://www.abb.com
+BRITISH AMERICAN TOBACCO PLC,GB0002875804,www.bat.com;bat.com,https://www.bat.com;https://bat.com,https://www.bat.com
+DEUTSCHE BANK AG,DE0005140008,www.db.com;www.deutsche-bank.de;deutsche-bank.de,https://www.db.com;https://www.deutsche-bank.de/pk.html;https://deutsche-bank.de,https://www.db.com
+HEINEKEN HOLDING N.V.,NL0000008977,www.theheinekencompany.com;www.heinekenholding.com;heinekenholding.com,https://www.theheinekencompany.com;https://www.heinekenholding.com;https://heinekenholding.com,https://www.theheinekencompany.com
+HEINEKEN N.V.,NL0000009165,www.heinekeninternational.com;www.heineken.com;heineken.com,https://www.heinekeninternational.com;https://www.heineken.com/us/en/agegateway?returnurl=%2f;https://heineken.com,https://www.heinekeninternational.com
+SAFRAN,FR0000073272,www.safran-group.com;safran-usa.com,https://www.safran-group.com;https://safran-usa.com,https://www.safran-group.com
+INTESA SANPAOLO S.P.A.,IT0000072618,www.intesasanpaolo.com;www.intesasanpaoloprivatebanking.it;intesasanpaoloprivatebanking.it,https://www.intesasanpaolo.com;https://www.intesasanpaoloprivatebanking.it/it;https://intesasanpaoloprivatebanking.it,https://www.intesasanpaolo.com
+ASML HOLDING N.V.,NL0010273215,www.asml.com;asml.com,https://www.asml.com;https://asml.com,https://www.asml.com
+HOLCIM AG,CH0012214059,www.lafargeholcim.com;www.holcim.ch;holcim.ch,https://www.lafargeholcim.com;https://www.holcim.ch/de;https://holcim.ch,https://www.lafargeholcim.com
+FORVIA SE,FR0000121147,www.faurecia.com;www.forvia.com;forvia.com,https://www.faurecia.com;https://www.forvia.com/en;https://forvia.com,https://www.faurecia.com
+CREDIT AGRICOLE SA,FR0000045072,www.credit-agricole.com;www.credit-agricole.fr;credit-agricole.com,https://www.credit-agricole.com;https://www.credit-agricole.fr;https://credit-agricole.com,https://www.credit-agricole.com
+DANONE,FR0000120644,www.danone.com;danone.com,https://www.danone.com;https://danone.com,https://www.danone.com
+L'AIR LIQUIDE SOCIETE ANONYME POUR L'ETUDE ET L'EXPLOITATION DES PROCEDES GEORGES CLAUDE,FR0000120073,www.airliquide.com;airliquide.com,https://www.airliquide.com;https://airliquide.com,https://www.airliquide.com
+COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN,FR001400AJ45,www.michelin.com;www.cgem-france.fr;cgem-france.fr,https://www.michelin.com;https://www.cgem-france.fr;https://cgem-france.fr,https://www.michelin.com
+UNICREDIT SPA,IT0005239360,www.unicreditgroup.eu;unicreditgroup.eu,https://www.unicreditgroup.eu;https://unicreditgroup.eu,https://www.unicreditgroup.eu
+SOCIETE GENERALE,FR0000130809,www.societegenerale.com;societegenerale.com,https://www.societegenerale.com;https://societegenerale.com,https://www.societegenerale.com
+ANGLO AMERICAN PLC,GB00B1XZS820,www.angloamerican.com;angloamerican.com,https://www.angloamerican.com;https://angloamerican.com,https://www.angloamerican.com
+ESSILORLUXOTTICA,FR0000121667,www.essilor-luxottica.com;www.essilorluxottica.com;essilorluxottica.com,https://www.essilor-luxottica.com;https://www.essilorluxottica.com/en;https://essilorluxottica.com,https://www.essilor-luxottica.com
+KUEHNE + NAGEL INTERNATIONAL AG,CH0025238863,www.kn-portal.com;home.kuehne-nagel.com;kuehne-nagel.com,https://www.kn-portal.com;https://home.kuehne-nagel.com/en;https://kuehne-nagel.com,https://www.kn-portal.com
+SODEXO,FR0000121220,www.sodexo.com;sodexo.com,https://www.sodexo.com;https://sodexo.com,https://www.sodexo.com
+RWE AKTIENGESELLSCHAFT,DE0007037129,www.rwe.com;www.welt.de;welt.de,https://www.rwe.com;https://www.welt.de;https://welt.de,https://www.rwe.com
+BT GROUP PLC,GB0030913577,www.btplc.com;www.bt.com;bt.com,https://www.btplc.com;https://www.bt.com;https://bt.com,https://www.btplc.com
+ASSOCIATED BRITISH FOODS PLC,GB0006731235,www.abf.co.uk;abf.co.uk,https://www.abf.co.uk;https://abf.co.uk,https://www.abf.co.uk
+AVIVA PLC,GB0002162385,www.aviva.com;aviva.com,https://www.aviva.com;https://aviva.com,https://www.aviva.com
+TUI AG,DE000TUAG505,www.tuigroup.com;www.tui-reisecenter.de;tui-reisecenter.de,https://www.tuigroup.com;https://www.tui-reisecenter.de;https://tui-reisecenter.de,https://www.tuigroup.com
+DIAGEO PLC,GB0002374006,www.diageo.com;diageo.com,https://www.diageo.com;https://diageo.com,https://www.diageo.com
+EIFFAGE,FR0000130452,www.eiffage.com;www.eiffage-amenagement.fr;eiffage-amenagement.fr,https://www.eiffage.com;https://www.eiffage-amenagement.fr;https://eiffage-amenagement.fr,https://www.eiffage.com
+RANDSTAD N.V.,NL0000379121,www.randstad.com;www.randstad.nl;randstad.nl,https://www.randstad.com;https://www.randstad.nl;https://randstad.nl,https://www.randstad.com
+SIEMENS HEALTHINEERS AG,DE000SHL1006,www.siemens-healthineers.com;siemenshealthineers.org,https://www.siemens-healthineers.com;https://siemenshealthineers.org,https://www.siemens-healthineers.com
+CENTRICA PLC,GB00B033F229,www.centrica.co.uk;www.centrica.com;centrica.com,https://www.centrica.co.uk;https://www.centrica.com;https://centrica.com,https://www.centrica.co.uk
+ADIDAS AG,DE000A1EWWW0,www.adidas-group.com;www.adidas.de;adidas.de,https://www.adidas-group.com;https://www.adidas.de;https://adidas.de,https://www.adidas-group.com
+COMPAGNIE FINANCIERE RICHEMONT SA,CH0210483332,www.richemont.com;richemont.com,https://www.richemont.com;https://richemont.com,https://www.richemont.com
+DCC PLC,IE0002424939,www.dcc.ie;dcc.ie,https://www.dcc.ie;https://dcc.ie,https://www.dcc.ie
+DSV A/S,DK0060079531,www.dsv.dk;www.dsv.com;dsv.com,https://www.dsv.dk;https://www.dsv.com;https://dsv.com,https://www.dsv.dk
+ADECCO GROUP AG,CH0012138605,www.adecco.com;www.adeccogroup.com;adeccogroup.com,https://www.adecco.com;https://www.adeccogroup.com;https://adeccogroup.com,https://www.adecco.com
+NATIONAL GRID PLC,GB00BDR05C01,www.nationalgrid.com;nationalgrid.com,https://www.nationalgrid.com;https://nationalgrid.com,https://www.nationalgrid.com
+ROLLS-ROYCE HOLDINGS PLC,GB00B63H8491,www.rolls-royce.com;rolls-royce.com,https://www.rolls-royce.com;https://rolls-royce.com,https://www.rolls-royce.com
+ING GROEP NV,NL0011821202,www.ing.com;ing.com,https://www.ing.com;https://ing.com,https://www.ing.com
+CAPGEMINI,FR0000125338,www.capgemini.com;capgemini.fr,https://www.capgemini.com;https://capgemini.fr,https://www.capgemini.com
+FRESENIUS SE & CO. KGAA,DE0005785604,www.fresenius.de;www.fresenius.com;fresenius.de,https://www.fresenius.de;https://www.fresenius.com/de;https://fresenius.de,https://www.fresenius.de
+GALP ENERGIA SGPS S.A.,PTGAL0AM0009,www.galp.com;www.galpenergia.com;galp.com,https://www.galp.com;https://www.galpenergia.com;https://galp.com,https://www.galp.com
+TELEFONAKTIEBOLAGET LM ERICSSON AB,SE0000108656,www.ericsson.com;ericsson.com,https://www.ericsson.com;https://ericsson.com,https://www.ericsson.com
+BOLLORE SE,FR0000039299,www.bollore.com;www.bollore.fr;bollore.fr,https://www.bollore.com;https://www.bollore.fr;https://bollore.fr,https://www.bollore.com
+LLOYDS BANKING GROUP PLC,GB0008706128,lloydsbankinggroup.com;www.lloydsbankinggroup.com,https://lloydsbankinggroup.com;https://www.lloydsbankinggroup.com,https://lloydsbankinggroup.com
+HEIDELBERG MATERIALS AG,DE0006047004,www.heidelbergcement.com;www.heidelbergmaterials.com;heidelbergmaterials.com,https://www.heidelbergcement.com;https://www.heidelbergmaterials.com/en;https://heidelbergmaterials.com,https://www.heidelbergcement.com
+VALEO,FR0013176526,www.valeo.com;valeo.com,https://www.valeo.com;https://valeo.com,https://www.valeo.com
+MERCK KGAA,DE0006599905,www.merck.de;www.merck-bkk.de;merck-bkk.de,https://www.merck.de;https://www.merck-bkk.de;https://merck-bkk.de,https://www.merck.de
+THALES,FR0000121329,www.thalesgroup.com;thalesgroup.com,https://www.thalesgroup.com;https://thalesgroup.com,https://www.thalesgroup.com
+"ENDESA, S.A. (SPAIN)",ES0130670112,www.endesa.com;endesa.com,https://www.endesa.com;https://endesa.com,https://www.endesa.com
+ACCIONA SA,ES0125220311,www.acciona.com;acciona.com,https://www.acciona.com;https://acciona.com,https://www.acciona.com
+HENNES & MAURITZ AB,SE0000106270,www.hm.com;hm.com,https://www.hm.com;https://hm.com,https://www.hm.com
+NESTE OYJ,FI0009013296,www.neste.com;www.neste.sg;neste.sg,https://www.neste.com;https://www.neste.sg/neste-in-singapore-and-asia-pacific;https://neste.sg,https://www.neste.com
+NOKIA OYJ,FI0009000681,www.nokia.com;nokia.com,https://www.nokia.com;https://nokia.com,https://www.nokia.com
+FRESENIUS MEDICAL CARE AG,DE0005785802,www.fmc-ag.com;www.freseniusmedicalcare.com;freseniusmedicalcare.com,https://www.fmc-ag.com;https://www.freseniusmedicalcare.com/en/home;https://freseniusmedicalcare.com,https://www.fmc-ag.com
+"NATURGY ENERGY GROUP, S.A.",ES0116870314,www.naturgy.com;www.bolsasymercados.es;bolsamadrid.es,https://www.naturgy.com;https://www.bolsasymercados.es/bme-exchange/es/Bolsa-Madrid;https://bolsamadrid.es,https://www.naturgy.com
+REXEL,FR0010451203,www.rexel.com;rexel.com,https://www.rexel.com;https://rexel.com,https://www.rexel.com
+ALSTOM S.A,FR0010220475,www.alstom.com;alstom.com,https://www.alstom.com;https://alstom.com,https://www.alstom.com
+STANDARD CHARTERED PLC,GB0004082847,www.sc.com;sc.com,https://www.sc.com;https://sc.com,https://www.sc.com
+KONINKLIJKE PHILIPS N.V.,NL0000009538,www.philips.com;www.philips.nl;philips.nl,https://www.philips.com;https://www.philips.nl;https://philips.nl,https://www.philips.com
+AURUBIS AG,DE0006766504,www.aurubis.com;aurubis.net,https://www.aurubis.com;https://aurubis.net,https://www.aurubis.com
+LEONARDO S.P.A.,IT0003856405,www.leonardocompany.com;www.leonardo.com;leonardo.com,https://www.leonardocompany.com;https://www.leonardo.com/en;https://leonardo.com,https://www.leonardocompany.com
+VOESTALPINE AG,AT0000937503,www.voestalpine.com;voestalpine.com,https://www.voestalpine.com;https://voestalpine.com,https://www.voestalpine.com
+VIVENDI SE,FR0000127771,www.vivendi.com;vivendi.com,https://www.vivendi.com;https://vivendi.com,https://www.vivendi.com
+WPP PLC (NEW),JE00B8KF9B49,www.wpp.com,https://www.wpp.com,https://www.wpp.com
+NATWEST GROUP PLC,GB00BM8PJY71,www.natwestgroup.com;rbs.com,https://www.natwestgroup.com;https://rbs.com,https://www.natwestgroup.com
+NORSK HYDRO ASA,NO0005052605,www.hydro.com;norskhydroasa.com,https://www.hydro.com;https://norskhydroasa.com,https://www.hydro.com
+VESTAS WIND SYSTEMS A/S,DK0010268606,www.vestas.dk;www.vestas.com;vestas.dk,https://www.vestas.dk;https://www.vestas.com/en;https://vestas.dk,https://www.vestas.dk
+KERING,FR0000121485,www.kering.com;kering.org,https://www.kering.com;https://kering.org,https://www.kering.com
+PRYSMIAN S.P.A.,IT0004176001,www.prysmian.com,https://www.prysmian.com,https://www.prysmian.com
+RECKITT BENCKISER GROUP PLC,GB00B24CGK77,www.reckittbenckiser.com;reckitt.com,https://www.reckittbenckiser.com;https://reckitt.com,https://www.reckittbenckiser.com
+"CAIXABANK, S.A.",ES0140609019,www.caixabank.com;www.caixabank.es;caixabank.es,https://www.caixabank.com;https://www.caixabank.es/particular/home/particulares_es.html;https://caixabank.es,https://www.caixabank.com
+BRENNTAG SE,DE000A1DAHH0,www.brenntag.com;brenntag.com,https://www.brenntag.com;https://brenntag.com,https://www.brenntag.com
+INFINEON TECHNOLOGIES AG,DE0006231004,www.infineon.com;infineon.com,https://www.infineon.com;https://infineon.com,https://www.infineon.com
+PUBLICIS GROUPE S A,FR0000130577,www.publicisgroupe.com;publicisgroupe.com,https://www.publicisgroupe.com;https://publicisgroupe.com,https://www.publicisgroupe.com
+MARKS AND SPENCER GROUP PLC,GB0031274896,www.marksandspencer.com;marksandspencer.org,https://www.marksandspencer.com;https://marksandspencer.org,https://www.marksandspencer.com
+EDP - ENERGIAS DE PORTUGAL S.A.,PTEDP0AM0009,www.edp.com;www.edp.pt;edp.pt,https://www.edp.com;https://www.edp.pt;https://edp.pt,https://www.edp.com
+IVECO GROUP NV,NL0015000LU4,www.ivecogroup.com;www.iveco.com;iveco.com,https://www.ivecogroup.com;https://www.iveco.com/Pages/Iveco-brands.html;https://iveco.com,https://www.ivecogroup.com
+TELECOM ITALIA S.P.A,IT0003497168,www.telecomitalia.com;www.tim.it;tim.it,https://www.telecomitalia.com;https://www.tim.it;https://tim.it,https://www.telecomitalia.com
+JOHNSON MATTHEY PLC,GB00BZ4BQC70,www.matthey.com;matthey.com;johnsonmatthey.com,https://www.matthey.com;https://matthey.com/en/home;https://johnsonmatthey.com,https://www.matthey.com
+ATLAS COPCO AB,SE0017486889,www.atlascopco.com;www.atlascopcogroup.com;atlascopcogroup.com,https://www.atlascopco.com;https://www.atlascopcogroup.com/en;https://atlascopcogroup.com,https://www.atlascopco.com
+EVONIK INDUSTRIES AG,DE000EVNK013,www.evonik.de;corporate.evonik.com;evonikindustriesag.com,https://www.evonik.de;https://corporate.evonik.com/en;https://evonikindustriesag.com,https://www.evonik.de
+SKANSKA AB,SE0000113250,www.skanska.com;www.skanska.se;skanska.se,https://www.skanska.com;https://www.skanska.se;https://skanska.se,https://www.skanska.com
+INTERNATIONAL DISTRIBUTION SERVICES PLC,GB00BDVZYZ77,www.internationaldistributionservices.com;www.internationaldistributionsservices.com;royalmailgroup.com,https://www.internationaldistributionservices.com;https://www.internationaldistributionsservices.com;https://royalmailgroup.com,https://www.internationaldistributionservices.com
+KINGFISHER PLC,GB0033195214,www.kingfisher.com;www.kingfisher.co.uk;kingfisher.com,https://www.kingfisher.com;https://www.kingfisher.co.uk;https://kingfisher.com,https://www.kingfisher.com
+HERMES INTERNATIONAL,FR0000052292,www.hermes.com;sauthermes.com,https://www.hermes.com;https://sauthermes.com,https://www.hermes.com
+UMICORE,BE0974320526,www.umicore.com,https://www.umicore.com,https://www.umicore.com
+AVOLTA AG,CH0023405456,www.dufry.com;dufry.ch,https://www.dufry.com;https://dufry.ch,https://www.dufry.com
+SAIPEM SPA,IT0005495657,www.saipem.it;www.saipem.com;saipem.com,https://www.saipem.it;https://www.saipem.com/en;https://saipem.com,https://www.saipem.it
+COVESTRO AG,DE0006062144,www.covestro.com;covestro.co.th,https://www.covestro.com;https://covestro.co.th,https://www.covestro.com
+BUNZL PLC,GB00B0744B38,www.bunzl.com;bunzl.com,https://www.bunzl.com;https://bunzl.com,https://www.bunzl.com
+SECURITAS AB,SE0000163594,www.securitas.com;www.securitas.se;securitas.se,https://www.securitas.com;https://www.securitas.se;https://securitas.se,https://www.securitas.com
+RYANAIR HOLDINGS PLC,IE00BYTBXV33,www.ryanair.com;ryanair.com,https://www.ryanair.com;https://ryanair.com,https://www.ryanair.com
+HALEON PLC,GB00BMX86B70,www.haleon.com;haleon.com,https://www.haleon.com;https://haleon.com,https://www.haleon.com
+FLUTTER ENTERTAINMENT PUBLIC LIMITED COMPANY,IE00BWT6H894,www.flutter.com;www.paddypowerplc.com;flutter.com,https://www.flutter.com;https://www.paddypowerplc.com;https://flutter.com,https://www.flutter.com
+YARA INTERNATIONAL ASA,NO0010208051,www.yara.com;yarainternational.org,https://www.yara.com;https://yarainternational.org,https://www.yara.com
+ASSA ABLOY AB,SE0007100581,www.assaabloy.com;assaabloy.com,https://www.assaabloy.com;https://assaabloy.com,https://www.assaabloy.com
+ESSITY AKTIEBOLAG (PUBL),SE0009922156,www.essity.com;essity.com,https://www.essity.com;https://essity.com,https://www.essity.com
+HERA SPA,IT0001250932,www.gruppohera.it;gruppohera.it,https://www.gruppohera.it;https://gruppohera.it,https://www.gruppohera.it
+STMICROELECTRONICS N.V.,NL0000226223,www.st.com;st.com,https://www.st.com;https://st.com,https://www.st.com
+JD SPORTS FASHION PLC,GB00BM8Q5M07,www.jdplc.com;www.jdsports.co.uk;jdsports.co.uk,https://www.jdplc.com;https://www.jdsports.co.uk;https://jdsports.co.uk,https://www.jdplc.com
+KESKO OYJ,FI0009000202,www.kesko.fi;kesko.fi,https://www.kesko.fi;https://kesko.fi,https://www.kesko.fi
+A2A S.P.A.,IT0001233417,www.a2a.eu;www.gruppoa2a.it;a2a.eu,https://www.a2a.eu;https://www.gruppoa2a.it/it/home;https://a2a.eu,https://www.a2a.eu
+SSE PLC,GB0007908733,www.sse.com;sse.co.uk,https://www.sse.com;https://sse.co.uk,https://www.sse.com
+LEGAL & GENERAL GROUP PLC,GB0005603997,www.legalandgeneralgroup.com;legalandgeneralgroup.com,https://www.legalandgeneralgroup.com;https://legalandgeneralgroup.com,https://www.legalandgeneralgroup.com
+INCHCAPE PLC,GB00B61TVQ02,www.inchcape.com;inchcape.com,https://www.inchcape.com;https://inchcape.com,https://www.inchcape.com
+DELIVERY HERO SE,DE000A2E4K43,www.deliveryhero.com;deliveryhero.com,https://www.deliveryhero.com;https://deliveryhero.com,https://www.deliveryhero.com
+SIKA AG,CH0418792922,www.sika.com;sika.com,https://www.sika.com;https://sika.com,https://www.sika.com
+COMMERZBANK AG,DE000CBK1001,www.commerzbank.de;www.commerzbank.com;commerzbank.com,https://www.commerzbank.de;https://www.commerzbank.com;https://commerzbank.com,https://www.commerzbank.de
+TENARIS S.A.,LU0156801721,www.tenaris.com;tenaris.com,https://www.tenaris.com;https://tenaris.com,https://www.tenaris.com
+EASYJET PLC,GB00B7KR2P84,www.easyjet.com;easyjet.org,https://www.easyjet.com;https://easyjet.org,https://www.easyjet.com
+NORDEA BANK ABP,FI4000297767,nordea.com;www.nordea.com,https://nordea.com;https://www.nordea.com,https://nordea.com
+SCHINDLER HOLDING AG,CH0024638196,www.schindler.com;schindler.com,https://www.schindler.com;https://schindler.com,https://www.schindler.com
+AB ELECTROLUX,SE0000103814,www.electrolux.com,https://www.electrolux.com,https://www.electrolux.com
+PERNOD RICARD,FR0000120693,www.pernod-ricard.fr;www.pernod-ricard.com;pernod-ricard.com,https://www.pernod-ricard.fr;https://www.pernod-ricard.com/en;https://pernod-ricard.com,https://www.pernod-ricard.fr
+AKER BP ASA,NO0010345853,www.akerbp.com;akerbp.com,https://www.akerbp.com;https://akerbp.com,https://www.akerbp.com
+SWISSCOM AG,CH0008742519,www.swisscom.com;www.swisscom.ch;swisscom.ch,https://www.swisscom.com;https://www.swisscom.ch/de/privatkunden.html;https://swisscom.ch,https://www.swisscom.com
+UNIVERSAL MUSIC GROUP N.V.,NL0015000IY2,universalmusic.nl,https://universalmusic.nl,https://universalmusic.nl
+DKSH HOLDING AG,CH0126673539,www.dksh.com;dksh.com,https://www.dksh.com;https://dksh.com,https://www.dksh.com
+BARRY CALLEBAUT AG,CH0009002962,www.barry-callebaut.com;barry-callebaut.com,https://www.barry-callebaut.com;https://barry-callebaut.com,https://www.barry-callebaut.com
+KION GROUP AG,DE000KGX8881,www.kiongroup.com;kiongroup.org,https://www.kiongroup.com;https://kiongroup.org,https://www.kiongroup.com
+RELX PLC,GB00B2B0DG97,www.relx.com;relxplc.org,https://www.relx.com;https://relxplc.org,https://www.relx.com
+ISS A/S,DK0060542181,www.issworld.com;issworld.com,https://www.issworld.com;https://issworld.com,https://www.issworld.com
+KONE OYJ,FI0009013403,www.kone.com;kone.com,https://www.kone.com;https://kone.com,https://www.kone.com
+NN GROUP NV,NL0010773842,www.nn-group.com;nn-group.com,https://www.nn-group.com;https://nn-group.com,https://www.nn-group.com
+AEGON LTD.,BMG0112X1056,www.aegon.com,https://www.aegon.com,https://www.aegon.com
+COCA-COLA HBC AG,CH0198251305,www.coca-colahellenic.com;coca-colahellenic.com,https://www.coca-colahellenic.com;https://coca-colahellenic.com,https://www.coca-colahellenic.com
+SANDVIK AB,SE0000667891,www.sandvik.com;www.home.sandvik;sandvik.net,https://www.sandvik.com;https://www.home.sandvik;https://sandvik.net,https://www.sandvik.com
+AKZO NOBEL NV,NL0013267909,www.akzonobel.com;akzonobel.com,https://www.akzonobel.com;https://akzonobel.com,https://www.akzonobel.com
+LONDON STOCK EXCHANGE GROUP PLC,GB00B0SWJX34,www.londonstockexchange.com;www.lseg.com;lseg.com,https://www.londonstockexchange.com;https://www.lseg.com/en;https://lseg.com,https://www.londonstockexchange.com
+ZALANDO SE,DE000ZAL1111,www.corporate.zalando.com;zalando-lounge.de,https://www.corporate.zalando.com;https://zalando-lounge.de,https://www.corporate.zalando.com
+UPM-KYMMENE OYJ,FI0009005987,www.upm.com;upm.com,https://www.upm.com;https://upm.com,https://www.upm.com
+ASHTEAD GROUP PLC,GB0000536739,www.ashtead-group.com;ashtead-group.com,https://www.ashtead-group.com;https://ashtead-group.com,https://www.ashtead-group.com
+TELEPERFORMANCE SE,FR0000051807,www.teleperformance.com;teleperformance.com,https://www.teleperformance.com;https://teleperformance.com,https://www.teleperformance.com
+ORSTED A/S,DK0060094928,www.orsted.com;orsted.dk,https://www.orsted.com;https://orsted.dk,https://www.orsted.com
+CARLSBERG A/S,DK0010181759,www.carlsberggroup.com;carlsberggroup.com,https://www.carlsberggroup.com;https://carlsberggroup.com,https://www.carlsberggroup.com
+BEIERSDORF AG,DE0005200000,www.beiersdorf.com;www.beiersdorf.de;beiersdorf.de,https://www.beiersdorf.com;https://www.beiersdorf.de;https://beiersdorf.de,https://www.beiersdorf.com
+SPIE SA,FR0012757854,www.spie.com;www.spiebatignolles.fr;spiebatignolles.fr,https://www.spie.com;https://www.spiebatignolles.fr;https://spiebatignolles.fr,https://www.spie.com
+PRUDENTIAL PLC,GB0007099541,www.prudentialplc.com;www.prudential.co.uk;prudential.co.uk,https://www.prudentialplc.com/en;https://www.prudential.co.uk;https://prudential.co.uk,https://www.prudentialplc.com/en
+BALFOUR BEATTY PLC,GB0000961622,www.balfourbeatty.com;balfourbeattyplc.com,https://www.balfourbeatty.com;https://balfourbeattyplc.com,https://www.balfourbeatty.com
+RHEINMETALL AG,DE0007030009,www.rheinmetall.com;rheinmetall-defence.de,https://www.rheinmetall.com;https://rheinmetall-defence.de,https://www.rheinmetall.com
+UNIPOL ASSICURAZIONI S.P.A.,IT0004810054,www.unipol.it;unipol.it,https://www.unipol.it;https://unipol.it,https://www.unipol.it
+ALCON AG,CH0432492467,www.alcon.com;www.alcon.ch;alcon.ch,https://www.alcon.com;https://www.alcon.ch/de;https://alcon.ch,https://www.alcon.com
+ARKEMA,FR0010313833,www.arkemagroup.com;www.arkema.com;arkema.com,https://www.arkemagroup.com;https://www.arkema.com/global/en;https://arkema.com,https://www.arkemagroup.com
+STORA ENSO OYJ,FI0009005961,www.storaenso.com;storaenso.com,https://www.storaenso.com;https://storaenso.com,https://www.storaenso.com
+KBC GROEP NV/ KBC GROUPE SA,BE0003565737,www.kbc.com;www.kbcbrussels.be;kbcbrussels.be,https://www.kbc.com/en;https://www.kbcbrussels.be/particuliers/fr.html;https://kbcbrussels.be,https://www.kbc.com/en
+FERROVIAL S.E.,NL0015001FS8,www.ferrovial.com;ferrovial.com,https://www.ferrovial.com/en;https://ferrovial.com,https://www.ferrovial.com/en
+SSAB AB,SE0000171100,www.ssab.com;ssab.com,https://www.ssab.com;https://ssab.com,https://www.ssab.com
+ABN AMRO BANK NV,NL0011540547,www.abnamro.com;abnamro.com,https://www.abnamro.com;https://abnamro.com,https://www.abnamro.com
+SAMPO OYJ,FI0009003305,www.sampo.fi;www.sampo.com;sampo.com,https://www.sampo.fi;https://www.sampo.com;https://sampo.com,https://www.sampo.fi
+PUMA SE,DE0006969603,www.puma.de;www.pumaknives.de;pumaknives.de,https://www.puma.de;https://www.pumaknives.de;https://pumaknives.de,https://www.puma.de
+JDE PEET'S N.V.,NL0014332678,www.jdepeets.com;jdepeets.com,https://www.jdepeets.com;https://jdepeets.com,https://www.jdepeets.com
+RAIFFEISEN BANK INTERNATIONAL AG,AT0000606306,www.rbinternational.com;raiffeisenbankinternational.com,https://www.rbinternational.com;https://raiffeisenbankinternational.com,https://www.rbinternational.com
+LEGRAND,FR0010307819,www.legrand.com;www.legrand.fr;legrand.fr,https://www.legrand.com;https://www.legrand.fr;https://legrand.fr,https://www.legrand.com
+AB SKF,SE0000108227,www.skf.com;www.skfab.se;skfab.se,https://www.skf.com;https://www.skfab.se;https://skfab.se,https://www.skf.com
+ASR NEDERLAND NV,NL0011872643,www.asrnl.com;www.asrnederland.nl;asrnederland.nl,https://www.asrnl.com;https://www.asrnederland.nl;https://asrnederland.nl,https://www.asrnl.com
+KINGSPAN GROUP PLC,IE0004927939,www.kingspan.com;kingspan.com,https://www.kingspan.com;https://kingspan.com,https://www.kingspan.com
+NEXANS,FR0000044448,www.nexans.com;nexans.fr,https://www.nexans.com;https://nexans.fr,https://www.nexans.com
+ANDRITZ AG,AT0000730007,www.andritz.com;andritz.net,https://www.andritz.com;https://andritz.net,https://www.andritz.com
+COMPUTACENTER PLC,GB00BV9FP302,www.computacenter.com;computacenter.com,https://www.computacenter.com;https://computacenter.com,https://www.computacenter.com
+KGHM POLSKA MIEDZ SA,PLKGHM000017,www.kghm.pl;solidarnoscps.pl,https://www.kghm.pl;https://solidarnoscps.pl,https://www.kghm.pl
+WENDEL SE,FR0000121204,www.wendelgroup.com;wendelgroup.com,https://www.wendelgroup.com;https://wendelgroup.com,https://www.wendelgroup.com
+VERBUND AG,AT0000746409,www.verbund.com;verbund.com,https://www.verbund.com;https://verbund.com,https://www.verbund.com
+SEB SA,FR0000121709,www.groupeseb.com;www.seb.fr;seb.fr,https://www.groupeseb.com;https://www.seb.fr;https://seb.fr,https://www.groupeseb.com
+DS SMITH LIMITED,GB0008220112,www.dssmith.com;www.dssmith.uk.com;dssmith.com,https://www.dssmith.com;https://www.dssmith.uk.com;https://dssmith.com,https://www.dssmith.com
+D'IETEREN GROUP SA/NV,BE0974259880,www.dieteren.com;www.dieteren.be;dieteren.be,https://www.dieteren.com;https://www.dieteren.be/fr;https://dieteren.be,https://www.dieteren.com
+BOLIDEN AB,SE0020050417,www.boliden.com;boliden.com,https://www.boliden.com;https://boliden.com,https://www.boliden.com
+KERRY GROUP PLC,IE0004906560,www.kerry.com;www.kerrygroup.com,https://www.kerry.com;https://www.kerrygroup.com,https://www.kerry.com
+TELIA COMPANY AB,SE0000667925,www.teliacompany.com;teliacompany.com,https://www.teliacompany.com;https://teliacompany.com,https://www.teliacompany.com
+KNORR-BREMSE AG,DE000KBX1006,www.knorr-bremse.com;knorr-bremse.org,https://www.knorr-bremse.com;https://knorr-bremse.org,https://www.knorr-bremse.com
+GIVAUDAN SA,CH0010645932,www.givaudan.com;givaudan.com,https://www.givaudan.com;https://givaudan.com,https://www.givaudan.com
+DANSKE BANK A/S,DK0010274414,www.danskebank.com;danskebank.dk,https://www.danskebank.com;https://danskebank.dk/privat;https://danskebank.dk,https://www.danskebank.com
+THE SWATCH GROUP LTD.,CH0012255151,www.swatchgroup.com;swatchgroup.com,https://www.swatchgroup.com;https://swatchgroup.com,https://www.swatchgroup.com
+PHOENIX GROUP HOLDINGS PLC,GB00BGXQNP29,www.thephoenixgroup.com;thephoenixgroup.com,https://www.thephoenixgroup.com;https://thephoenixgroup.com,https://www.thephoenixgroup.com
+MTU AERO ENGINES AG,DE000A0D9PT0,www.mtu.de;mtu.de,https://www.mtu.de;https://mtu.de,https://www.mtu.de
+DRAX GROUP PLC,GB00B1VNSX38,www.drax.com;www.draxgroup.plc.uk;drax.com,https://www.drax.com;https://www.draxgroup.plc.uk;https://drax.com,https://www.drax.com
+MONDI PLC,GB00BMWC6P49,www.mondigroup.com;mondigroup.com,https://www.mondigroup.com;https://mondigroup.com,https://www.mondigroup.com
+AXFOOD AB,SE0006993770,www.axfood.se;axfood.se,https://www.axfood.se;https://axfood.se,https://www.axfood.se
+AGEAS SA-NV,BE0974264930,www.ageas.com;www.bnpparibasfortis.be;bnpparibasfortis.be,https://www.ageas.com;https://www.bnpparibasfortis.be/local/errors/default.html?errorinfo=ID12234913109787486206;https://bnpparibasfortis.be,https://www.ageas.com
+NEXT PLC,GB0032089863,www.nextplc.co.uk;www.next.co.uk;nextplc.co.uk,https://www.nextplc.co.uk;https://www.next.co.uk;https://nextplc.co.uk,https://www.nextplc.co.uk
+DNB BANK ASA,NO0010161896,www.dnb.no;dnb.no,https://www.dnb.no;https://dnb.no,https://www.dnb.no
+VONOVIA SE,DE000A1ML7J1,www.vonovia.com;www.vonovia.de;vonovia.de,https://www.vonovia.com;https://www.vonovia.de;https://vonovia.de,https://www.vonovia.com
+UCB S.A,BE0003739530,www.ucb-group.com;www.ucb.com;ucb.com,https://www.ucb-group.com;https://www.ucb.com;https://ucb.com,https://www.ucb-group.com
+EXPERIAN PLC,GB00B19NLV48,www.experianplc.com;experianplc.com,https://www.experianplc.com;https://experianplc.com,https://www.experianplc.com
+SGS S.A.,CH1256740924,www.sgs.com;sgs.com,https://www.sgs.com;https://sgs.com,https://www.sgs.com
+GRIFOLS S.A.,ES0171996087,www.grifols.com;grifols.com,https://www.grifols.com;https://grifols.com,https://www.grifols.com
+SKANDINAVISKA ENSKILDA BANKEN AB,SE0000148884,sebgroup.com;www.sebgroup.com;seb.se,https://sebgroup.com;https://www.sebgroup.com;https://seb.se,https://sebgroup.com
+VAR ENERGI ASA,NO0011202772,www.varenergi.no;varenergi.no,https://www.varenergi.no;https://varenergi.no,https://www.varenergi.no
+LONZA GROUP AG,CH0013841017,www.lonzagroup.com;www.lonza.com;lonza.com,https://www.lonzagroup.com;https://www.lonza.com;https://lonza.com,https://www.lonzagroup.com
+EUROFINS SCIENTIFIC SE,FR0014000MR3,www.eurofins.com;eurofins.com,https://www.eurofins.com;https://eurofins.com,https://www.eurofins.com
+DEUTSCHE BORSE AKTIENGESELLSCHAFT,DE0005810055,deutsche-boerse.com;www.deutsche-boerse.com,https://deutsche-boerse.com/dbg-de;https://www.deutsche-boerse.com;https://deutsche-boerse.com,https://deutsche-boerse.com/dbg-de
+DINO POLSKA SA,PLDINPL00011,www.grupadino.pl;www.marketdino.pl;marketdino.pl,https://www.grupadino.pl;https://www.marketdino.pl;https://marketdino.pl,https://www.grupadino.pl
+POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA - PKO BP SA,PLPKO0000016,www.pkobp.pl;pkobp.pl,https://www.pkobp.pl;https://pkobp.pl,https://www.pkobp.pl
+TELENOR ASA,NO0010063308,www.telenor.com;www.telenor.no;telenor.no,https://www.telenor.com;https://www.telenor.no/privat;https://telenor.no,https://www.telenor.com
+RUBIS,FR0013269123,www.rubis.fr;rubis.fr,https://www.rubis.fr;https://rubis.fr,https://www.rubis.fr
+BANCO DE SABADELL SA,ES0113860A34,www.grupbancsabadell.com;grupbancsabadell.com,https://www.grupbancsabadell.com;https://grupbancsabadell.com,https://www.grupbancsabadell.com
+TECHNIP ENERGIES N.V.,NL0014559478,www.technipenergies.com;www.ten.com;technipenergies.com,https://www.technipenergies.com;https://www.ten.com/en;https://technipenergies.com,https://www.technipenergies.com
+FERRARI N.V.,NL0011585146,www.ferrari.com;ferrari.com,https://www.ferrari.com;https://ferrari.com,https://www.ferrari.com
+SUBSEA 7 SA,LU0075646355,www.subsea7.com;subsea7.com,https://www.subsea7.com;https://subsea7.com,https://www.subsea7.com
+RENTOKIL INITIAL PLC,GB00B082RF11,www.rentokil-initial.com;rentokil-initial.com,https://www.rentokil-initial.com;https://rentokil-initial.com,https://www.rentokil-initial.com
+WARTSILA OYJ,FI0009003727,www.wartsila.com;wartsila.com,https://www.wartsila.com;https://wartsila.com,https://www.wartsila.com
+BUREAU VERITAS,FR0006174348,www.bureauveritas.fr;bureauveritas.fr,https://www.bureauveritas.fr;https://bureauveritas.fr,https://www.bureauveritas.fr
+SWEDBANK AB,SE0000242455,www.swedbank.com;swedbankrobur.se,https://www.swedbank.com;https://swedbankrobur.se,https://www.swedbank.com
+LANXESS AG,DE0005470405,www.lanxess.de;lanxess.com,https://www.lanxess.de;https://lanxess.com,https://www.lanxess.de
+DASSAULT AVIATION,FR0000121725,www.dassault-aviation.com;dassault.fr,https://www.dassault-aviation.com;https://dassault.fr,https://www.dassault-aviation.com
+ADMIRAL GROUP PLC,GB00B02J6398,www.admiralgroup.co.uk;admiralgroup.co.uk,https://www.admiralgroup.co.uk;https://admiralgroup.co.uk,https://www.admiralgroup.co.uk
+GROUPE BRUXELLES LAMBERT SA,BE0003797140,www.gbl.be;gbl.be,https://www.gbl.be;https://gbl.be,https://www.gbl.be
+ANTOFAGASTA PLC,GB0000456144,www.antofagasta.co.uk;antofagasta.co.uk,https://www.antofagasta.co.uk;https://antofagasta.co.uk,https://www.antofagasta.co.uk
+BECHTLE AG,DE0005158703,www.bechtle.com;bechtle.com,https://www.bechtle.com;https://bechtle.com,https://www.bechtle.com
+AEROPORTS DE PARIS,FR0010340141,www.aeroportsdeparis.fr;www.parisaeroport.fr;adp.fr,https://www.aeroportsdeparis.fr;https://www.parisaeroport.fr;https://adp.fr,https://www.aeroportsdeparis.fr
+DASSAULT SYSTEMES,FR0000130650,www.3ds.com;www.dassault.fr;dassault.net,https://www.3ds.com;https://www.dassault.fr;https://dassault.net,https://www.3ds.com
+SIGNIFY N.V.,NL0011821392,www.signify.com;signify.com,https://www.signify.com;https://signify.com,https://www.signify.com
+POSTE ITALIANE SPA,IT0003796171,www.posteitaliane.it;posteitaliane.it,https://www.posteitaliane.it;https://posteitaliane.it,https://www.posteitaliane.it
+SCOR SE,FR0010411983,www.scor.com;scor.com,https://www.scor.com;https://scor.com,https://www.scor.com
+ENTAIN PLC,IM00B5VQMV65,www.gvc-plc.com;www.entaingroup.com;entaingroup.com,https://www.gvc-plc.com;https://www.entaingroup.com;https://entaingroup.com,https://www.gvc-plc.com
+"AMADEUS IT GROUP, S.A.",ES0109067019,www.investors.amadeus.com;amadeus.com,https://www.investors.amadeus.com;https://amadeus.com/en;https://amadeus.com,https://www.investors.amadeus.com
+FORTUM OYJ,FI0009007132,www.fortum.com;www.fortum.fi;fortum.fi,https://www.fortum.com;https://www.fortum.fi;https://fortum.fi,https://www.fortum.com
+BPER BANCA S.P.A.,IT0000066123,www.bper.it;bper.it,https://www.bper.it;https://bper.it,https://www.bper.it
+SOPRA STERIA GROUP SA,FR0000050809,www.sopragroup.com;www.soprasteria.com;soprasteria.com,https://www.sopragroup.com;https://www.soprasteria.com;https://soprasteria.com,https://www.sopragroup.com
+ORKLA ASA,NO0003733800,www.orkla.com;orkla.com,https://www.orkla.com;https://orkla.com,https://www.orkla.com
+PROSUS NV,NL0013654783,www.prosus.com;prosus.com,https://www.prosus.com;https://prosus.com,https://www.prosus.com
+ALFA LAVAL AB,SE0000695876,www.alfalaval.com;www.alfalaval.se;alfalaval.se,https://www.alfalaval.com;https://www.alfalaval.se;https://alfalaval.se,https://www.alfalaval.com
+WOLTERS KLUWER NV,NL0000395903,www.wolterskluwer.com;wolterskluwer.com,https://www.wolterskluwer.com;https://wolterskluwer.com,https://www.wolterskluwer.com
+CHOCOLADEFABRIKEN LINDT & SPRUENGLI AG,CH0010570759,www.lindt.com;www.lindt.ch;lindt.ch,https://www.lindt.com;https://www.lindt.ch/de;https://lindt.ch,https://www.lindt.com
+BANCO BPM SPA,IT0005218380,www.bancobpm.it;bancobpm.it,https://www.bancobpm.it;https://bancobpm.it,https://www.bancobpm.it
+AENA S.M.E. SA.,ES0105046009,www.aena.es;aena.es,https://www.aena.es;https://aena.es,https://www.aena.es
+SERCO GROUP PLC,GB0007973794,www.serco.com;serco.com,https://www.serco.com;https://serco.com,https://www.serco.com
+ACKERMANS & VAN HAAREN NV,BE0003764785,www.avh.be;avh.be,https://www.avh.be;https://avh.be,https://www.avh.be
+ACCOR,FR0000120404,www.accor.com;all.accor.com;accorhotels.com,https://www.accor.com;https://all.accor.com/a/en.html;https://accorhotels.com,https://www.accor.com
+KONINKLIJKE KPN NV,NL0000009082,www.kpn.com;www.overons.kpn;overons.kpn,https://www.kpn.com;https://www.overons.kpn/nl;https://overons.kpn,https://www.kpn.com
+MOWI ASA,NO0003054108,www.mowi.com,https://www.mowi.com,https://www.mowi.com
+MILLICOM INTERNATIONAL CELLULAR SA,SE0001174970,www.millicom.com;millicom.com,https://www.millicom.com;https://millicom.com,https://www.millicom.com
+SMITH & NEPHEW PLC,GB0009223206,www.smith-nephew.com;smith-nephew.com,https://www.smith-nephew.com;https://smith-nephew.com,https://www.smith-nephew.com
+TRAVIS PERKINS PLC,GB00BK9RKT01,www.travisperkinsplc.co.uk;www.travisperkins.co.uk;travisperkinsplc.co.uk,https://www.travisperkinsplc.co.uk;https://www.travisperkins.co.uk;https://travisperkinsplc.co.uk,https://www.travisperkinsplc.co.uk
+SAAB AB,SE0021921269,www.saabgroup.com;www.saab.com;saab.com,https://www.saabgroup.com;https://www.saab.com;https://saab.com,https://www.saabgroup.com
+TRYG A/S,DK0060636678,www.tryg.dk;tryg.dk,https://www.tryg.dk;https://tryg.dk,https://www.tryg.dk
+SVENSKA HANDELSBANKEN AB,SE0007100599,www.handelsbanken.se;handelsbanken.se,https://www.handelsbanken.se;https://handelsbanken.se,https://www.handelsbanken.se
+EPIROC AB,SE0015658109,www.epirocgroup.com;www.epiroc.com;epiroc.com,https://www.epirocgroup.com;https://www.epiroc.com;https://epiroc.com,https://www.epirocgroup.com
+DIRECT LINE INSURANCE GROUP PLC,GB00BY9D0Y18,www.directlinegroup.com;www.churchill.co.uk;www.directlinegroup.co.uk;directlinegroup.co.uk,https://www.directlinegroup.com;https://www.churchill.co.uk;https://www.directlinegroup.co.uk/en/index.html;https://directlinegroup.co.uk,https://www.directlinegroup.com
+INVESTOR AKTIEBOLAG,SE0015811963,www.investorab.com;investorab.com,https://www.investorab.com;https://investorab.com,https://www.investorab.com
+BARRATT REDROW PLC,GB0000811801,www.barrattdevelopments.co.uk;barrattdevelopments.co.uk,https://www.barrattdevelopments.co.uk;https://barrattdevelopments.co.uk,https://www.barrattdevelopments.co.uk
+HEXAGON AB,SE0015961909,www.hexagon.se;hexagon.com,https://www.hexagon.se;https://hexagon.com,https://www.hexagon.se
+BEAZLEY PLC,GB00BYQ0JC66,www.beazley.com;beazley.com,https://www.beazley.com;https://beazley.com,https://www.beazley.com
+VALMET OYJ,FI4000074984,www.valmet.com;valmet.com,https://www.valmet.com;https://valmet.com,https://www.valmet.com
+3I GROUP PLC,GB00B1YW4409,www.3i.com;3i.com,https://www.3i.com;https://3i.com,https://www.3i.com
+GEORG FISCHER AG,CH0001752309,www.georgfischer.com;georgfischer.com,https://www.georgfischer.com;https://georgfischer.com,https://www.georgfischer.com
+METSO OYJ,FI0009014575,www.outotec.com;www.metso.com;outotec.com,https://www.outotec.com;https://www.metso.com;https://outotec.com,https://www.outotec.com
+JUST EAT TAKEAWAY.COM N.V,NL0012015705,www.corporate.takeaway.com;justeattakeaway.com,https://www.corporate.takeaway.com;https://justeattakeaway.com,https://www.corporate.takeaway.com
+SYMRISE AG,DE000SYM9999,www.symrise.com;symrise.com,https://www.symrise.com;https://symrise.com,https://www.symrise.com
+ARCADIS N.V.,NL0006237562,www.arcadis.com;arcadis.com,https://www.arcadis.com;https://arcadis.com,https://www.arcadis.com
+BKW AG,CH0130293662,www.bkw.ch;bkw.ch,https://www.bkw.ch;https://bkw.ch,https://www.bkw.ch
+AIB GROUP PUBLIC LIMITED COMPANY,IE00BF0L3536,www.aib.ie;group.aib.ie;aib.ie,https://www.aib.ie;https://group.aib.ie;https://aib.ie,https://www.aib.ie
+M&G PLC,GB00BKFB1C65,www.mandg.com;mymandg.co.uk,https://www.mandg.com;https://mymandg.co.uk,https://www.mandg.com
+LPP S.A.,PLLPP0000011,www.lpp.com.pl;lppsa.com,https://www.lpp.com.pl;https://lppsa.com,https://www.lpp.com.pl
+INTERCONTINENTAL HOTELS GROUP PLC,GB00BHJYC057,www.ihgplc.com;ihgplc.com,https://www.ihgplc.com;https://ihgplc.com,https://www.ihgplc.com
+IMCD N.V.,NL0010801007,www.imcdgroup.com;imcdgroup.com,https://www.imcdgroup.com;https://imcdgroup.com,https://www.imcdgroup.com
+VISTRY GROUP PLC,GB0001859296,www.vistrygroup.co.uk;www.bovishomes.co.uk;vistrygroup.co.uk,https://www.vistrygroup.co.uk;https://www.bovishomes.co.uk;https://vistrygroup.co.uk,https://www.vistrygroup.co.uk
+WORLDLINE,FR0011981968,www.worldline.com;worldline.com,https://www.worldline.com;https://worldline.com,https://www.worldline.com
+WIENERBERGER AG,AT0000831706,www.wienerberger.com;www.wienerberger.at;wienerberger.at,https://www.wienerberger.com;https://www.wienerberger.at;https://wienerberger.at,https://www.wienerberger.com
+ELIS S.A.,FR0012435121,www.elis.com;ie.elis.com;elis.com,https://www.elis.com;https://ie.elis.com/en;https://elis.com,https://www.elis.com
+BANK OF IRELAND GROUP PLC,IE00BD1RP616,www.bankofireland.com;bankofireland.com,https://www.bankofireland.com;https://bankofireland.com,https://www.bankofireland.com
+HISCOX LTD,BMG4593F1389,www.hiscoxgroup.com;www.hiscox.co.uk;hiscox.co.uk,https://www.hiscoxgroup.com;https://www.hiscox.co.uk;https://hiscox.co.uk,https://www.hiscoxgroup.com
+CLARIANT AG,CH0012142631,www.clariant.com;clariant.com,https://www.clariant.com;https://clariant.com,https://www.clariant.com
+BUZZI UNICEM S.P.A.,IT0001347308,www.buzziunicem.it;buzziunicem.it,https://www.buzziunicem.it;https://buzziunicem.it,https://www.buzziunicem.it
+CELLNEX TELECOM S.A.,ES0105066007,www.cellnextelecom.com;www.cellnex.com;cellnextelecom.com,https://www.cellnextelecom.com;https://www.cellnex.com/es;https://cellnextelecom.com,https://www.cellnextelecom.com
+PEARSON PLC,GB0006776081,www.pearson.com;pearsonclinical.co.uk,https://www.pearson.com;https://pearsonclinical.co.uk,https://www.pearson.com
+INFORMA PLC,GB00BMJ6DW54,www.informa.com;www.gov.uk;companieshouse.gov.uk,https://www.informa.com;https://www.gov.uk/government/organisations/companies-house;https://companieshouse.gov.uk,https://www.informa.com
+HUGO BOSS AG,DE000A1PHFF7,www.hugoboss.com;hugoboss.com,https://www.hugoboss.com;https://hugoboss.com,https://www.hugoboss.com
+BANCA MONTE DEI PASCHI DI SIENA SPA,IT0005508921,www.mps.it;www.gruppomps.it;gruppomps.it,https://www.mps.it;https://www.gruppomps.it;https://gruppomps.it,https://www.mps.it
+PANDORA A/S,DK0060252690,www.pandoragroup.com;pandoragroup.com,https://www.pandoragroup.com;https://pandoragroup.com,https://www.pandoragroup.com
+TAYLOR WIMPEY PLC,GB0008782301,www.taylorwimpey.co.uk;www.taylorwimpey.com;taylorwimpey.co.uk,https://www.taylorwimpey.co.uk;https://www.taylorwimpey.com;https://taylorwimpey.co.uk,https://www.taylorwimpey.co.uk
+AZELIS GROUP NV,BE0974400328,www.azelis.com;azelis.com,https://www.azelis.com;https://azelis.com,https://www.azelis.com
+KONECRANES OYJ,FI0009005870,www.konecranes.com;konecranes.fi,https://www.konecranes.com;https://konecranes.fi,https://www.konecranes.com
+SONOVA HOLDING AG,CH0012549785,www.sonova.com;sonova.com,https://www.sonova.com;https://sonova.com,https://www.sonova.com
+HUSQVARNA AB,SE0001662230,www.husqvarna.com;www.husqvarnagroup.com;husqvarnagroup.com,https://www.husqvarna.com;https://www.husqvarnagroup.com;https://husqvarnagroup.com,https://www.husqvarna.com
+ITV PLC,GB0033986497,www.itvplc.com;www.itvmedia.co.uk;itvmedia.co.uk,https://www.itvplc.com;https://www.itvmedia.co.uk;https://itvmedia.co.uk,https://www.itvplc.com
+MELROSE INDUSTRIES PLC,GB00BNGDN821,www.melroseplc.net;melroseplc.net,https://www.melroseplc.net;https://melroseplc.net,https://www.melroseplc.net
+GALENICA AG,CH0360674466,www.galenica.com;www.sunstore.ch;sunstore.ch,https://www.galenica.com;https://www.sunstore.ch/de;https://sunstore.ch,https://www.galenica.com
+POWSZECHNY ZAKLAD UBEZPIECZEN S.A.,PLPZU0000011,www.pzu.pl;pzu.pl,https://www.pzu.pl;https://pzu.pl,https://www.pzu.pl
+HUHTAMAKI OYJ,FI0009000459,www.huhtamaki.com;huhtamaki.com,https://www.huhtamaki.com;https://huhtamaki.com,https://www.huhtamaki.com
+KONGSBERG GRUPPEN ASA,NO0003043309,www.kongsberg.com;kongsberg.com,https://www.kongsberg.com;https://kongsberg.com,https://www.kongsberg.com
+ALTEN,FR0000071946,www.alten.fr;alten.fr,https://www.alten.fr;https://alten.fr,https://www.alten.fr
+LOGITECH INTERNATIONAL SA,CH0025751329,www.logitech.com;logitech.com,https://www.logitech.com;https://logitech.com,https://www.logitech.com
+INTERTEK GROUP PLC,GB0031638363,www.intertek.com;intertek.com,https://www.intertek.com;https://intertek.com,https://www.intertek.com
+SANTANDER BANK POLSKA S.A.,PLBZ00000044,santander.pl;www.santander.pl,https://santander.pl;https://www.santander.pl,https://santander.pl
+VALLOUREC,FR0000120354,www.vallourec.com;vallourec.com,https://www.vallourec.com;https://vallourec.com,https://www.vallourec.com
+BIOMERIEUX SA,FR0013280286,www.biomerieux.com;www.biomerieux.fr;biomerieux.fr,https://www.biomerieux.com;https://www.biomerieux.fr;https://biomerieux.fr,https://www.biomerieux.com
+AAK AB,SE0001493776,www.aak.com;aak.com,https://www.aak.com;https://aak.com,https://www.aak.com
+OCI N.V.,NL0010558797,www.oci.nl;oci-global.com;oci.nl,https://www.oci.nl;https://oci-global.com;https://oci.nl,https://www.oci.nl
+ELIA GROUP SA,BE0003822393,www.elia.be;elia.be,https://www.elia.be;https://elia.be,https://www.elia.be
+COLOPLAST A/S,DK0060448595,www.coloplast.com;coloplast.com,https://www.coloplast.com;https://coloplast.com,https://www.coloplast.com
+MEDIOBANCA - BANCA DI CREDITO FINANZIARIO SOCIETA PER AZIONI,IT0000062957,www.mediobanca.com;mediobanca.com,https://www.mediobanca.com;https://mediobanca.com,https://www.mediobanca.com
+PERSIMMON PLC,GB0006825383,www.persimmonhomes.com;persimmonhomes.com,https://www.persimmonhomes.com;https://persimmonhomes.com,https://www.persimmonhomes.com
+SMITHS GROUP PLC,GB00B1WY2338,www.smiths-group.com;www.smiths.com;smiths.com,https://www.smiths-group.com;https://www.smiths.com;https://smiths.com,https://www.smiths-group.com
+ROCKWOOL A/S,DK0010219153,www.rockwool.com;rockwool.dk,https://www.rockwool.com;https://rockwool.dk,https://www.rockwool.com
+NOVOZYMES A/S,DK0060336014,www.novozymes.com;novozymes.com,https://www.novozymes.com;https://novozymes.com,https://www.novozymes.com
+OCADO GROUP PLC,GB00B3MBS747,www.ocadogroup.com;ocadogroup.com,https://www.ocadogroup.com;https://ocadogroup.com,https://www.ocadogroup.com
+"BANCO COMERCIAL PORTUGUES, SA",PTBCP0AM0015,ind.millenniumbcp.pt;www.ind.millenniumbcp.pt;www.municipiosefreguesias.pt;municipiosefreguesias.pt,https://ind.millenniumbcp.pt;https://www.ind.millenniumbcp.pt;https://www.municipiosefreguesias.pt;https://municipiosefreguesias.pt,https://ind.millenniumbcp.pt
+BANK POLSKA KASA OPIEKI SA,PLPEKAO00016,www.pekao.com.pl;pekao.com.pl,https://www.pekao.com.pl;https://pekao.com.pl,https://www.pekao.com.pl
+K+S AKTIENGESELLSCHAFT,DE000KSAG888,www.k-plus-s.com;www.kremer-scheib.de;kremer-scheib.de,https://www.k-plus-s.com;https://www.kremer-scheib.de;https://kremer-scheib.de,https://www.k-plus-s.com
+GLANBIA PLC,IE0000669501,www.glanbia.com;irishcountrymeats.com,https://www.glanbia.com;https://irishcountrymeats.com,https://www.glanbia.com
+TERNA S.P.A.,IT0003242622,www.terna.it;terna.it,https://www.terna.it;https://terna.it,https://www.terna.it
+NIBE INDUSTRIER AB,SE0015988019,www.nibe.se;www.nibe.com;nibe.com,https://www.nibe.se;https://www.nibe.com;https://nibe.com,https://www.nibe.se
+IPSEN,FR0010259150,www.ipsen.com;ipsen-france.fr,https://www.ipsen.com;https://ipsen-france.fr,https://www.ipsen.com
+SNAM S.P.A.,IT0003153415,www.snam.it;snam.it,https://www.snam.it;https://snam.it,https://www.snam.it
+RS GROUP PLC,GB0003096442,www.rsgroup.com;www.electrocomponents.com;rsgroup.com,https://www.rsgroup.com;https://www.electrocomponents.com;https://rsgroup.com,https://www.rsgroup.com
+WHITBREAD PLC,GB00B1KJJ408,www.whitbread.co.uk;whitbread.co.uk,https://www.whitbread.co.uk;https://whitbread.co.uk,https://www.whitbread.co.uk
+FUCHS SE,DE000A3E5D64,www.fuchs-oil.de;www.fuchs.com;fuchs.com,https://www.fuchs-oil.de;https://www.fuchs.com;https://fuchs.com,https://www.fuchs-oil.de
+AMUNDI SA,FR0004125920,www.amundi.fr;www.amundi.lu;amundi.lu,https://www.amundi.fr;https://www.amundi.lu/retail?nr=1;https://amundi.lu,https://www.amundi.fr
+GJENSIDIGE FORSIKRING ASA,NO0010582521,www.gjensidige.no;gjensidige.no,https://www.gjensidige.no;https://gjensidige.no,https://www.gjensidige.no
+VERALLIA,FR0013447729,www.verallia.com;www.horizonholdings.com;verallia.com,https://www.verallia.com;https://www.horizonholdings.com;https://verallia.com,https://www.verallia.com
+SARTORIUS AG,DE0007165631,www.sartorius.com;sartorius.com,https://www.sartorius.com;https://sartorius.com,https://www.sartorius.com
+SIG GROUP AG,CH0435377954,www.sig.biz;sigsauer.com,https://www.sig.biz;https://sigsauer.com,https://www.sig.biz
+BUCHER INDUSTRIES AG,CH0002432174,www.bucherholding.ch;www.bucherindustries.com;bucherholding.ch,https://www.bucherholding.ch;https://www.bucherindustries.com/de;https://bucherholding.ch,https://www.bucherholding.ch
+NEXI SPA,IT0005366767,www.nexigroup.com;www.nexi.it;nexi.it,https://www.nexigroup.com/en;https://www.nexi.it/it;https://nexi.it,https://www.nexigroup.com/en
+HIAB OYJ,FI0009013429,www.cargotec.com;cargotec.com,https://www.cargotec.com;https://cargotec.com,https://www.cargotec.com
+GEBERIT AG,CH0030170408,www.geberit.com;www.geberit.ch;geberit.ch,https://www.geberit.com;https://www.geberit.ch/startseite;https://geberit.ch,https://www.geberit.com
+NKT A/S,DK0010287663,www.nkt.dk;nkt.dk,https://www.nkt.dk;https://nkt.dk,https://www.nkt.dk
+SFS GROUP AG,CH0239229302,www.sfs.ch;www.sfs.com;sfs.com,https://www.sfs.ch;https://www.sfs.com/ch/en;https://sfs.com,https://www.sfs.ch
+DEMANT A/S,DK0060738599,www.demant.com;demant.com,https://www.demant.com;https://demant.com,https://www.demant.com
+AALBERTS N.V.,NL0000852564,www.aalberts.com;aalberts.com,https://www.aalberts.com;https://aalberts.com,https://www.aalberts.com
+CRANSWICK PLC,GB0002318888,www.cranswick.co.uk;cranswick.plc.uk,https://www.cranswick.co.uk;https://cranswick.plc.uk,https://www.cranswick.co.uk
+BEIJER REF AB,SE0011116508,www.beijerref.com;beijerref.com,https://www.beijerref.com;https://beijerref.com,https://www.beijerref.com
+BANKINTER SA,ES0113679I37,www.bankinter.com;bankinter.com,https://www.bankinter.com;https://bankinter.com,https://www.bankinter.com
+MONCLER S.P.A.,IT0004965148,www.monclergroup.com;www.moncler.com;moncler.com,https://www.monclergroup.com;https://www.moncler.com/en-us;https://moncler.com,https://www.monclergroup.com
+BURBERRY GROUP PLC,GB0031743007,www.burberryplc.com;burberryplc.com,https://www.burberryplc.com;https://burberryplc.com,https://www.burberryplc.com
+DAVIDE CAMPARI-MILANO N.V.,NL0015435975,www.camparigroup.com;www.villacampariristorante.com;villacampariristorante.it,https://www.camparigroup.com;https://www.villacampariristorante.com;https://villacampariristorante.it,https://www.camparigroup.com
+LA FRANCAISE DES JEUX,FR0013451333,www.groupefdj.com;www.fdj.fr;fdj.fr,https://www.groupefdj.com;https://www.fdj.fr;https://fdj.fr,https://www.groupefdj.com
+GETINGE AB,SE0000202624,www.getinge.com;getingegroup.com,https://www.getinge.com;https://getingegroup.com,https://www.getinge.com
+THE WEIR GROUP PLC,GB0009465807,www.global.weir;www.weir.co.uk;global.weir,https://www.global.weir;https://www.weir.co.uk;https://global.weir,https://www.global.weir
+HIKMA PHARMACEUTICALS PLC,GB00B0LCW083,www.hikma.com;hikma.com,https://www.hikma.com;https://hikma.com,https://www.hikma.com
+THE SAGE GROUP PLC,GB00B8C3BL03,www.sage.com;www.sagegateshead.com;sagegateshead.com,https://www.sage.com;https://www.sagegateshead.com;https://sagegateshead.com,https://www.sage.com
+TRELLEBORG AB,SE0000114837,www.trelleborg.com;trelleborg.com,https://www.trelleborg.com;https://trelleborg.com,https://www.trelleborg.com
+BELLWAY PLC,GB0000904986,www.bellway.co.uk;bellway.co.uk,https://www.bellway.co.uk;https://bellway.co.uk,https://www.bellway.co.uk
+SCHRODERS PLC,GB00BP9LHF23,www.schroders.com;schroders.com,https://www.schroders.com;https://schroders.com,https://www.schroders.com
+BERKELEY GROUP HOLDINGS (THE) PLC,GB00BLJNXL82,www.berkeleygroup.com;www.berkeleygroup.co.uk;berkeleygroup.co.uk,https://www.berkeleygroup.com;https://www.berkeleygroup.co.uk;https://berkeleygroup.co.uk,https://www.berkeleygroup.com
+KEMIRA OYJ,FI0009004824,www.kemira.com;kemira.com,https://www.kemira.com;https://kemira.com,https://www.kemira.com
+ASM INTERNATIONAL NV,NL0000334118,www.asm.com;asm.com,https://www.asm.com;https://asm.com,https://www.asm.com
+GENMAB A/S,DK0010272202,www.genmab.com;genmab.com,https://www.genmab.com;https://genmab.com,https://www.genmab.com
+CTS EVENTIM AG & CO. KGAA,DE0005470306,www.eventim.de,https://www.eventim.de,https://www.eventim.de
+UNIBAIL-RODAMCO-WESTFIELD,FR0013326246,www.urw.com;www.bureauveritas.fr;bureauveritas.fr,https://www.urw.com;https://www.bureauveritas.fr;https://bureauveritas.fr,https://www.urw.com
+INDUTRADE AB,SE0001515552,www.indutrade.se;indutrade.se,https://www.indutrade.se;https://indutrade.se,https://www.indutrade.se
+EDENRED,FR0010908533,www.edenred.com;www.edenred.fr;edenred.fr,https://www.edenred.com;https://www.edenred.fr;https://edenred.fr,https://www.edenred.com
+SEVERN TRENT PLC,GB00B1FH8J72,www.severntrent.com;severntrent.com,https://www.severntrent.com;https://severntrent.com,https://www.severntrent.com
+TIETOEVRY OYJ,FI0009000277,www.tieto.com;www.tietoevry.com;tieto.fi,https://www.tieto.com;https://www.tietoevry.com;https://tieto.fi,https://www.tieto.com
+ITALGAS S.P.A.,IT0005211237,www.italgas.it;fornitori.italgas.it;italgas.it,https://www.italgas.it;https://fornitori.italgas.it;https://italgas.it,https://www.italgas.it
+HOWDEN JOINERY GROUP PLC,GB0005576813,www.howdenjoinerygroupplc.com;howdenjoinerygroupplc.com,https://www.howdenjoinerygroupplc.com;https://howdenjoinerygroupplc.com,https://www.howdenjoinerygroupplc.com
+SARTORIUS STEDIM BIOTECH,FR0013154002,www.sartorius.com;sartorius.com,https://www.sartorius.com;https://sartorius.com,https://www.sartorius.com
+GRAFTON GROUP PLC,IE00B00MZ448,www.graftonplc.com;graftonplc.com,https://www.graftonplc.com;https://graftonplc.com,https://www.graftonplc.com
+SWECO AB,SE0014960365,www.sweco.se;sweco.se,https://www.sweco.se;https://sweco.se,https://www.sweco.se
+L E LUNDBERGFORETAGEN AB,SE0000108847,www.lundbergs.se;www.lundbergforetagen.se;lundbergforetagen.se,https://www.lundbergs.se;https://www.lundbergforetagen.se;https://lundbergforetagen.se,https://www.lundbergs.se
+FLSMIDTH & CO. A/S,DK0010234467,www.flsmidth.com;flsmidth.com,https://www.flsmidth.com;https://flsmidth.com,https://www.flsmidth.com
+UNITED UTILITIES GROUP PLC,GB00B39J2M42,www.unitedutilities.com;unitedutilities.com,https://www.unitedutilities.com;https://unitedutilities.com,https://www.unitedutilities.com
+STRAUMANN HOLDING AG,CH1175448666,www.straumann.com;straumann.com,https://www.straumann.com;https://straumann.com,https://www.straumann.com
+IMI PLC,GB00BGLP8L22,www.imiplc.com;imiplc.com,https://www.imiplc.com;https://imiplc.com,https://www.imiplc.com
+EQT AB,SE0012853455,www.eqtgroup.com;eqtgroup.com,https://www.eqtgroup.com;https://eqtgroup.com,https://www.eqtgroup.com
+EDP RENOVAVEIS SA,ES0127797019,www.edprenovaveis.com;www.edpr.com;edpr.com,https://www.edprenovaveis.com;https://www.edpr.com/en;https://edpr.com,https://www.edprenovaveis.com
+TELE2 AB,SE0005190238,www.tele2.com;www.tele2.se;tele2.se,https://www.tele2.com;https://www.tele2.se;https://tele2.se,https://www.tele2.com
+ADYEN N.V,NL0012969182,www.adyen.com;adyen.com,https://www.adyen.com;https://adyen.com,https://www.adyen.com
+INPOST S.A.,LU2290522684,inpost.eu,https://inpost.eu,https://inpost.eu
+ALLEGRO.EU S.A.,LU2237380790,www.allegro.eu;www.ocorian.com;ocorian.com,https://www.allegro.eu;https://www.ocorian.com;https://ocorian.com,https://www.allegro.eu
+FREENET AG,DE000A0Z2ZZ5,www.freenet.ag;www.freenet.de;freenet.de,https://www.freenet.ag;https://www.freenet.de;https://freenet.de,https://www.freenet.ag
+VIRGIN MONEY UK PLC,GB00BD6GN030,www.virginmoneyukplc.com;virginmoneyukplc.com,https://www.virginmoneyukplc.com;https://virginmoneyukplc.com,https://www.virginmoneyukplc.com
+HALMA PLC,GB0004052071,www.halma.com;halma.com,https://www.halma.com;https://halma.com,https://www.halma.com
+BRITVIC LIMITED,GB00B0N8QD54,www.britvic.co.uk;www.britvic.com;britvic.co.uk,https://www.britvic.co.uk;https://www.britvic.com;https://britvic.co.uk,https://www.britvic.co.uk
+GREGGS PLC,GB00B63QSB39,www.greggs.co.uk;greggs.co.uk,https://www.greggs.co.uk;https://greggs.co.uk,https://www.greggs.co.uk
+IPSOS,FR0000073298,www.ipsos.com;ipsos.com,https://www.ipsos.com;https://ipsos.com,https://www.ipsos.com
+GN STORE NORD A/S,DK0010272632,www.gn.com;gn.com,https://www.gn.com;https://gn.com,https://www.gn.com
+AMPLIFON SPA,IT0004056880,www.amplifon.com;amplifon.com,https://www.amplifon.com;https://amplifon.com,https://www.amplifon.com
+RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A.,IT0003828271,www.recordati.it;recordati.com;recordati.it,https://www.recordati.it;https://recordati.com/it;https://recordati.it,https://www.recordati.it
+QINETIQ GROUP PLC,GB00B0WMWD03,www.qinetiq.com;www.pendine.qinetiq.com;qinetiq.com,https://www.qinetiq.com;https://www.pendine.qinetiq.com;https://qinetiq.com,https://www.qinetiq.com
+REPLY S.P.A.,IT0005282865,www.reply.it;protocube.it,https://www.reply.it;https://protocube.it,https://www.reply.it
+LIFCO AB,SE0006370730,www.lifco.se;lifco.se,https://www.lifco.se;https://lifco.se,https://www.lifco.se
+FUGRO N.V.,NL00150003E1,www.fugro.com;fugro.com,https://www.fugro.com;https://fugro.com,https://www.fugro.com
+INVESTMENT AB LATOUR,SE0010100958,www.latour.se;latour.se,https://www.latour.se;https://latour.se,https://www.latour.se
+PARTNERS GROUP HOLDING AG,CH0024608827,www.partnersgroup.net;www.partnersgroup.com;partnersgroup.net,https://www.partnersgroup.net;https://www.partnersgroup.com/en;https://partnersgroup.net,https://www.partnersgroup.net
+SWEDISH ORPHAN BIOVITRUM AB,SE0000872095,www.sobi.com;swedishorphanbiovitrum.net,https://www.sobi.com;https://swedishorphanbiovitrum.net,https://www.sobi.com
+SALMAR ASA,NO0010310956,www.salmar.no;salmar.no,https://www.salmar.no;https://salmar.no,https://www.salmar.no
+SES SA,LU0088087324,www.ses.com;ses.com,https://www.ses.com;https://ses.com,https://www.ses.com
+CARL ZEISS MEDITEC AG,DE0005313704,www.meditec.zeiss.com;www.zeiss.de;zeiss.de,https://www.meditec.zeiss.com;https://www.zeiss.de/corporate/home.html;https://zeiss.de,https://www.meditec.zeiss.com
+EVOLUTION AB,SE0012673267,www.evolutiongaming.com,https://www.evolutiongaming.com,https://www.evolutiongaming.com
+EMS-CHEMIE HOLDING AG,CH0016440353,www.ems-group.com;ems-group.com,https://www.ems-group.com;https://ems-group.com,https://www.ems-group.com
+CONVATEC GROUP PLC,GB00BD3VFW73,www.convatec.com;www.convatecgroup.com;convatecgroup.com,https://www.convatec.com;https://www.convatecgroup.com;https://convatecgroup.com,https://www.convatec.com
+ELISA OYJ,FI0009007884,www.elisa.com;elisa.com,https://www.elisa.com;https://elisa.com,https://www.elisa.com
+HOLMEN AB,SE0011090018,www.holmen.com;holmen.net,https://www.holmen.com;https://holmen.net,https://www.holmen.com
+ARGENX SE,NL0010832176,www.argenx.com;argenx.com,https://www.argenx.com;https://argenx.com,https://www.argenx.com
+INTERPUMP GROUP S.P.A.,IT0001078911,www.interpumpgroup.it;www.interpump.it;interpump.it,https://www.interpumpgroup.it;https://www.interpump.it;https://interpump.it,https://www.interpumpgroup.it
+FRONTLINE PLC,CY0200352116,www.frontline.bm;www.frontlineplc.cy;frontline.bm,https://www.frontline.bm;https://www.frontlineplc.cy;https://frontline.bm,https://www.frontline.bm
+SVENSKA CELLULOSA AB SCA,SE0000112724,www.sca.se;www.sca.com;sca.com,https://www.sca.se;https://www.sca.com/sv;https://sca.com,https://www.sca.se
+ROYAL UNIBREW A/S,DK0060634707,www.royalunibrew.com;royalunibrew.dk,https://www.royalunibrew.com;https://royalunibrew.dk,https://www.royalunibrew.com
+SPIRAX GROUP PLC,GB00BWFGQN14,www.spiraxsarcoengineering.com;www.spiraxgroup.com;spiraxgroup.com,https://www.spiraxsarcoengineering.com;https://www.spiraxgroup.com;https://spiraxgroup.com,https://www.spiraxsarcoengineering.com
+TATE & LYLE PLC,GB0008754136,www.tateandlyle.com;tateandlyle.com,https://www.tateandlyle.com;https://tateandlyle.com,https://www.tateandlyle.com
+UBISOFT ENTERTAINMENT,FR0000054470,www.ubisoftgroup.com;www.ubisoft.com;ubisoft.com,https://www.ubisoftgroup.com;https://www.ubisoft.com/en-us;https://ubisoft.com,https://www.ubisoftgroup.com
+CRODA INTERNATIONAL PLC,GB00BYZWX769,www.croda.com;croda.com,https://www.croda.com;https://croda.com,https://www.croda.com
+"REDEIA CORPORACION, S.A.",ES0173093024,www.ree.es;ree.es,https://www.ree.es;https://ree.es,https://www.ree.es
+QIAGEN N.V.,NL0012169213,www.qiagen.com;qiagen.com,https://www.qiagen.com;https://qiagen.com,https://www.qiagen.com
+JYSKE BANK A/S,DK0010307958,www.jyskebank.dk;jyskebank.com;jyskebank.dk,https://www.jyskebank.dk;https://jyskebank.com;https://jyskebank.dk,https://www.jyskebank.dk
+BANCA POPOLARE DI SONDRIO SOCIETA PER AZIONI,IT0000784196,www.popso.it;popso.it,https://www.popso.it;https://popso.it,https://www.popso.it
+ADDTECH AB,SE0005568136,www.addtech.com;addtech.se,https://www.addtech.com;https://addtech.se,https://www.addtech.com
+VIDRALA SA,ES0183746314,www.vidrala.com;vidrala.com,https://www.vidrala.com;https://vidrala.com,https://www.vidrala.com
+HEXPOL AB,SE0007074281,www.hexpol.com;hexpol.com,https://www.hexpol.com;https://hexpol.com,https://www.hexpol.com
+DIPLOMA PLC,GB0001826634,www.diplomaplc.com;diplomaplc.com,https://www.diplomaplc.com;https://diplomaplc.com,https://www.diplomaplc.com
+BAWAG GROUP AG,AT0000BAWAG2,www.bawaggroup.com;bawaggroup.com,https://www.bawaggroup.com;https://bawaggroup.com,https://www.bawaggroup.com
+ABERDEEN GROUP PLC,GB00BF8Q6K64,www.abrdn.com;www.standardlife.co.uk;standardlife.co.uk,https://www.abrdn.com;https://www.standardlife.co.uk;https://standardlife.co.uk,https://www.abrdn.com
+INVESTEC PLC,GB00B17BBQ50,www.investec.com;investec.co.uk,https://www.investec.com;https://investec.co.uk,https://www.investec.com
+EURONEXT N.V.,NL0006294274,www.euronext.com;euronext.com,https://www.euronext.com;https://euronext.com,https://www.euronext.com
+GETLINK S E,FR0010533075,www.getlinkgroup.com;getlinkgroup.com,https://www.getlinkgroup.com;https://getlinkgroup.com,https://www.getlinkgroup.com
+ELEKTA AB,SE0000163628,www.elekta.com;elekta.com,https://www.elekta.com;https://elekta.com,https://www.elekta.com
+LEG IMMOBILIEN SE,DE000LEG1110,www.leg-nrw.de;www.leg-wohnen.de;leg-wohnen.de,https://www.leg-nrw.de;https://www.leg-wohnen.de;https://leg-wohnen.de,https://www.leg-nrw.de
+SPECTRIS PLC,GB0003308607,www.spectris.com;spectris.com,https://www.spectris.com;https://spectris.com,https://www.spectris.com
+ORION OYJ,FI0009014377,www.orion.fi;orion.fi,https://www.orion.fi;https://orion.fi,https://www.orion.fi
+KLEPIERRE,FR0000121964,www.klepierre.com;klepierre.com,https://www.klepierre.com;https://klepierre.com,https://www.klepierre.com
+COVIVIO,FR0000064578,www.covivio.eu;www.covivio.immo;covivio.immo,https://www.covivio.eu;https://www.covivio.immo;https://covivio.immo,https://www.covivio.eu
+FINECOBANK BANCA FINECO SPA,IT0000072170,it.finecobank.com;www.finecobank.co.uk;fineco.it,https://it.finecobank.com;https://www.finecobank.co.uk;https://fineco.it,https://it.finecobank.com
+FLUGHAFEN ZUERICH AG,CH0319416936,www.zurich-airport.com;www.flughafen-zuerich.ch;flughafen-zuerich.ch,https://www.zurich-airport.com;https://www.flughafen-zuerich.ch/en/passengers;https://flughafen-zuerich.ch,https://www.zurich-airport.com
+SIEGFRIED HOLDING AG,CH0014284498,www.siegfried.ch;siegfried.ch,https://www.siegfried.ch;https://siegfried.ch,https://www.siegfried.ch
+HAYS PLC,GB0004161021,www.haysplc.com;www.hays.co.uk;hays.co.uk,https://www.haysplc.com;https://www.hays.co.uk;https://hays.co.uk,https://www.haysplc.com
+MUNTERS GROUP AB,SE0009806607,www.munters.com;munters.com,https://www.munters.com;https://munters.com,https://www.munters.com
+TOMRA SYSTEMS ASA,NO0005668905,www.tomra.com;www.tomra.no;tomrasystems.com,https://www.tomra.com;https://www.tomra.no;https://tomrasystems.com,https://www.tomra.com
+WISE PLC,GB00BL9YR756,w-ise.org.uk,https://w-ise.org.uk,https://w-ise.org.uk
+BRUNELLO CUCINELLI S.P.A,IT0004764699,www.brunellocucinelli.com;brunellocucinelli.com,https://www.brunellocucinelli.com;https://brunellocucinelli.com,https://www.brunellocucinelli.com
+LOTUS BAKERIES NV,BE0003604155,www.lotusbakeries.com;lotusbakeries.com,https://www.lotusbakeries.com;https://lotusbakeries.com,https://www.lotusbakeries.com
+BANQUE CANTONALE VAUDOISE,CH0531751755,www.bcv.ch;bcv.ch,https://www.bcv.ch;https://bcv.ch,https://www.bcv.ch
+"VISCOFAN, S.A.",ES0184262212,www.viscofan.com;viscofan.com,https://www.viscofan.com;https://viscofan.com,https://www.viscofan.com
+IG GROUP HOLDINGS PLC,GB00B06QFB75,www.iggroup.com;iggroup.com,https://www.iggroup.com;https://iggroup.com,https://www.iggroup.com
+RATIONAL AG,DE0007010803,www.rational-ag.com;rational-tl.de,https://www.rational-ag.com;https://rational-tl.de,https://www.rational-ag.com
+SOFTCAT PLC,GB00BYZDVK82,www.softcat.com;softcat.com,https://www.softcat.com;https://softcat.com,https://www.softcat.com
+DIASORIN S.P.A.,IT0003492391,www.diasorin.com;int.diasorin.com;diasorin.com,https://www.diasorin.com;https://int.diasorin.com/en;https://diasorin.com,https://www.diasorin.com
+AZIMUT HOLDING SPA,IT0003261697,www.azimut-group.com;www.azimut.it;azimut.it,https://www.azimut-group.com;https://www.azimut.it/it;https://azimut.it,https://www.azimut-group.com
+INDIVIOR PLC,GB00BN4HT335,www.indivior.com;www.rb.com;indivior.com,https://www.indivior.com;https://www.rb.com;https://indivior.com,https://www.indivior.com
+FASTIGHETS AB BALDER,SE0000455057,www.balderfast.se;www.balder.se;balder.se,https://www.balderfast.se;https://www.balder.se;https://balder.se,https://www.balderfast.se
+INTERMEDIATE CAPITAL GROUP PLC,GB00BYT1DJ19,www.icgam.com;icgam.com,https://www.icgam.com;https://icgam.com,https://www.icgam.com
+PENNON GROUP PLC,GB00BNNTLN49,www.pennon-group.co.uk;www.pennongroup.co.uk;pennongroup.co.uk,https://www.pennon-group.co.uk;https://www.pennongroup.co.uk;https://pennongroup.co.uk,https://www.pennon-group.co.uk
+TAG IMMOBILIEN AG,DE0008303504,www.tag-ag.com;tag-wohnen.de,https://www.tag-ag.com;https://tag-wohnen.de,https://www.tag-ag.com
+INFRASTRUTTURE WIRELESS ITALIANE S.P.A.,IT0005090300,www.inwit.it;inwit.it,https://www.inwit.it;https://inwit.it,https://www.inwit.it
+SYDBANK A/S,DK0010311471,www.sydbank.com;www.sydbank.dk;sydbank.dk,https://www.sydbank.com;https://www.sydbank.dk/privat;https://sydbank.dk,https://www.sydbank.com
+SOITEC,FR0013227113,www.soitec.com;soitec.com,https://www.soitec.com;https://soitec.com,https://www.soitec.com
+BELIMO HOLDING AG,CH0001503199,www.belimo.ch;www.belimo.com;belimo.ch,https://www.belimo.ch;https://www.belimo.com/ch/de_CH;https://belimo.ch,https://www.belimo.ch
+VAT GROUP AG,CH0311864901,www.vatvalve.com;vatvalve.com,https://www.vatvalve.com;https://vatvalve.com,https://www.vatvalve.com
+TEMENOS GROUP AG,CH0012453913,www.temenos.com;temenos.com,https://www.temenos.com;https://temenos.com,https://www.temenos.com
+TECAN GROUP AG,CH0012100191,www.tecan.com;tecan.com,https://www.tecan.com;https://tecan.com,https://www.tecan.com
+LAND SECURITIES GROUP PLC,GB00BYW0PQ60,www.landsec.com;landsec.com;landsecuritiesgroup.com,https://www.landsec.com;https://landsec.com;https://landsecuritiesgroup.com,https://www.landsec.com
+P/F BAKKAFROST,FO0000000179,www.bakkafrost.com;bakkafrost.com,https://www.bakkafrost.com;https://bakkafrost.com,https://www.bakkafrost.com
+NEMETSCHEK SE,DE0006452907,www.nemetschek.com;nemetschek.com,https://www.nemetschek.com;https://nemetschek.com,https://www.nemetschek.com
+HARGREAVES LANSDOWN LIMITED,GB00B1VZ0M25,www.h-l.co.uk;www.hl.co.uk;hl.co.uk,https://www.h-l.co.uk;https://www.hl.co.uk;https://hl.co.uk,https://www.h-l.co.uk
+ENAGAS SA,ES0130960018,www.enagas.es;enagas.es,https://www.enagas.es;https://enagas.es,https://www.enagas.es
+ROTORK PLC,GB00BVFNZH21,www.rotork.com;rotork.com,https://www.rotork.com;https://rotork.com,https://www.rotork.com
+STOREBRAND ASA,NO0003053605,www.storebrand.no;storebrand.no,https://www.storebrand.no;https://storebrand.no,https://www.storebrand.no
+CASTELLUM AB,SE0000379190,www.castellum.se;castellum.se,https://www.castellum.se;https://castellum.se,https://www.castellum.se
+GECINA,FR0010040865,www.gecina.fr;gecina.fr,https://www.gecina.fr;https://gecina.fr,https://www.gecina.fr
+THULE GROUP AB,SE0006422390,www.thulegroup.com;thulegroup.com,https://www.thulegroup.com;https://thulegroup.com,https://www.thulegroup.com
+SEGRO PLC,GB00B5ZN1N88,www.segro.com;segro.com,https://www.segro.com;https://segro.com,https://www.segro.com
+AMBU A/S,DK0060946788,www.ambu.com;ambu.com,https://www.ambu.com;https://ambu.com,https://www.ambu.com
+ALK-ABELLO A/S,DK0060027142,www.alk-abello.com;www.alk.net;alk.net,https://www.alk-abello.com;https://www.alk.net;https://alk.net,https://www.alk-abello.com
+LAGERCRANTZ GROUP AB,SE0007603493,www.lagercrantz.com;lagercrantz.com,https://www.lagercrantz.com;https://lagercrantz.com,https://www.lagercrantz.com
+SWISS PRIME SITE AG,CH0008038389,www.swiss-prime-site.ch;sps.swiss,https://www.swiss-prime-site.ch;https://sps.swiss/de/gruppe/home;https://sps.swiss,https://www.swiss-prime-site.ch
+THE BRITISH LAND COMPANY PLC,GB0001367019,www.britishland.com;britishland.com,https://www.britishland.com;https://britishland.com,https://www.britishland.com
+AUTO TRADER GROUP PLC,GB00BVYVFW23,www.autotrader.co.uk;autotrader.co.uk,https://www.autotrader.co.uk;https://autotrader.co.uk,https://www.autotrader.co.uk
+GAZTRANSPORT ET TECHNIGAZ,FR0011726835,www.gtt.fr;gtt.fr,https://www.gtt.fr;https://gtt.fr,https://www.gtt.fr
+DARKTRACE LIMITED,GB00BNYK8G86,www.darktrace.com;darktrace.com;darktrace.org,https://www.darktrace.com;https://darktrace.com;https://darktrace.org,https://www.darktrace.com
+NEOEN,FR0011675362,www.neoen.com;neoen.com,https://www.neoen.com;https://neoen.com/fr;https://neoen.com,https://www.neoen.com
+INFICON HOLDING AG,CH1431598916,www.inficon.com;inficon.com,https://www.inficon.com;https://inficon.com,https://www.inficon.com
+BACHEM HOLDING AG,CH1176493729,www.bachem.com;bachem.com,https://www.bachem.com;https://bachem.com,https://www.bachem.com
+GAMES WORKSHOP GROUP PLC,GB0003718474,www.investor.games-workshop.com;www.games-workshop.co.uk;www.warhammer.com;games-workshop.com,https://www.investor.games-workshop.com;https://www.games-workshop.co.uk;https://www.warhammer.com/en-GB/home;https://games-workshop.com,https://www.investor.games-workshop.com
+AIXTRON SE,DE000A0WMPJ6,www.aixtron.com;aixtron.com,https://www.aixtron.com;https://aixtron.com,https://www.aixtron.com
+MYCRONIC AB,SE0000375115,www.micronic.se;www.mycronic.com;mycronic.com,https://www.micronic.se;https://www.mycronic.com;https://mycronic.com,https://www.micronic.se
+BE SEMICONDUCTOR INDUSTRIES NV,NL0000339760,www.besi.nl;www.besi.com;meco.nl,https://www.besi.nl;https://www.besi.com;https://meco.nl,https://www.besi.nl
+SCOUT24 SE,DE000A12DM80,www.scout24.com;scout24.com,https://www.scout24.com;https://scout24.com,https://www.scout24.com
+RINGKJOBING LANDBOBANK. AKTIESELSKAB,DK0060854669,www.landbobanken.dk;www.nordjyskebank.dk;nordjyskebank.dk,https://www.landbobanken.dk;https://www.nordjyskebank.dk;https://nordjyskebank.dk,https://www.landbobanken.dk
+ALLFUNDS GROUP PLC,GB00BNTJ3546,allfunds.com,https://allfunds.com/en;https://allfunds.com,https://allfunds.com/en
+"MERLIN PROPERTIES SOCIMI , SA",ES0105025003,www.merlinproperties.com;merlinproperties.com,https://www.merlinproperties.com;https://merlinproperties.com,https://www.merlinproperties.com
+COMET HOLDING AG,CH0360826991,www.comet.ch;comet.tech;comet-group.com,https://www.comet.ch;https://comet.tech;https://comet-group.com,https://www.comet.ch
+RIGHTMOVE PLC,GB00BGDT3G23,www.rightmove.co.uk;rightmove.co.uk,https://www.rightmove.co.uk;https://rightmove.co.uk,https://www.rightmove.co.uk
+WAREHOUSES DE PAUW SA,BE0974349814,www.wdp.be;www.wdp.eu;wdp.eu,https://www.wdp.be;https://www.wdp.eu;https://wdp.eu,https://www.wdp.be
+NORDNET AB (PUBL),SE0015192067,nordnetab.com;www.nordnetab.com;nnbintressenter.com;www.nordnet.se;nordnet.se,https://nordnetab.com;https://www.nordnetab.com;https://nnbintressenter.com;https://www.nordnet.se/se;https://nordnet.se,https://nordnetab.com
+ALLREAL HOLDING AG,CH0008837566,www.allreal.ch;allreal.ch,https://www.allreal.ch;https://allreal.ch,https://www.allreal.ch
+AB SAGAX,SE0004635878,www.sagax.se;sagax.se,https://www.sagax.se;https://sagax.se,https://www.sagax.se
+TRITAX BIG BOX REIT PLC,GB00BG49KP99,www.tritax.co.uk;tritax.co.uk,https://www.tritax.co.uk;https://tritax.co.uk,https://www.tritax.co.uk
+EURAZEO,FR0000121121,www.eurazeo.com;eurazeo.com,https://www.eurazeo.com;https://eurazeo.com,https://www.eurazeo.com
+PSP SWISS PROPERTY AG,CH0018294154,www.psp.info;psp.info,https://www.psp.info;https://psp.info,https://www.psp.info
+COFINIMMO SA - SICAF IMMOBILIERE,BE0003593044,www.cofinimmo.com;cofinimmo.be,https://www.cofinimmo.com;https://cofinimmo.be,https://www.cofinimmo.com
+WIHLBORGS FASTIGHETER AB,SE0001413600,www.wihlborgs.se;wihlborgs.se,https://www.wihlborgs.se;https://wihlborgs.se,https://www.wihlborgs.se
+UNITE GROUP PLC,GB0006928617,www.unite-group.co.uk;theunitegroup.co.uk,https://www.unite-group.co.uk;https://theunitegroup.co.uk,https://www.unite-group.co.uk
+AEDIFICA SOCIETE ANONYME,BE0003851681,www.aedifica.be;enigma.be,https://www.aedifica.be;https://enigma.be,https://www.aedifica.be
+AVANZA BANK HOLDING AB,SE0012454072,www.avanza.se;avanza.se,https://www.avanza.se;https://avanza.se,https://www.avanza.se
+IBERDROLA FINANZAS SOCIEDAD ANONIMA,nan,www.iberdrola.es;iberdrola.es,https://www.iberdrola.es;https://iberdrola.es,https://www.iberdrola.es
+SAFESTORE HOLDINGS PLC,GB00B1N7Z094,www.safestore.com;safestore.co.uk,https://www.safestore.com;https://safestore.co.uk,https://www.safestore.com
+LONDONMETRIC PROPERTY PLC,GB00B4WFW713,www.londonmetric.com;londonmetricproperty.co.uk,https://www.londonmetric.com;https://londonmetricproperty.co.uk,https://www.londonmetric.com
+WALLENSTAM AB,SE0017780133,www.wallenstam.se;wallenstam.se,https://www.wallenstam.se;https://wallenstam.se,https://www.wallenstam.se
+SECTRA AB,SE0018245953,www.sectra.com;sectra.com,https://www.sectra.com;https://sectra.com,https://www.sectra.com
+SYENSQO,BE0974464977,www.syensqo.com,https://www.syensqo.com,https://www.syensqo.com
+BIG YELLOW GROUP PLC,GB0002869419,www.thebigyellow.co.uk;www.bigyellow.co.uk;bigyellow.co.uk,https://www.thebigyellow.co.uk;https://www.bigyellow.co.uk;https://bigyellow.co.uk,https://www.thebigyellow.co.uk
+DERWENT LONDON PLC,GB0002652740,www.derwentlondon.com;derwentlondon.com,https://www.derwentlondon.com;https://derwentlondon.com,https://www.derwentlondon.com
+CD PROJEKT S.A.,PLOPTTC00011,www.cdprojekt.pl;www.cdprojekt.com;cdprojekt.com,https://www.cdprojekt.pl;https://www.cdprojekt.com/pl;https://cdprojekt.com,https://www.cdprojekt.pl
+FORTNOX AB,SE0017161243,www.fortnox.se;fortnox.se,https://www.fortnox.se;https://fortnox.se,https://www.fortnox.se
+HEMNET AB,SE0015671995,www.hemnetgroup.se;www.hemnet.se;hemnet.se,https://www.hemnetgroup.se;https://www.hemnet.se;https://hemnet.se,https://www.hemnetgroup.se
+KINNEVIK AB,SE0022060521,www.kinnevik.com;kinnevik.com,https://www.kinnevik.com;https://kinnevik.com,https://www.kinnevik.com
+ZEALAND PHARMA A/S,DK0060257814,www.zealandpharma.com;zealandpharma.com,https://www.zealandpharma.com;https://zealandpharma.com,https://www.zealandpharma.com
+INDUSTRIVARDEN AB,SE0000190126,www.industrivarden.net;www.industrivarden.se;industrivarden.se,https://www.industrivarden.net;https://www.industrivarden.se;https://industrivarden.se,https://www.industrivarden.net
+PORSCHE AUTOMOBIL HOLDING SE,DE000PAH0038,www.porsche.de;www.porsche-se.com;porsche-se.com,https://www.porsche.de;https://www.porsche-se.com;https://porsche-se.com,https://www.porsche.de
+SOFINA SA,BE0003717312,www.sofina.be;sofina-web.blogspot.com,https://www.sofina.be;https://sofina-web.blogspot.com,https://www.sofina.be
+BASF SE,DE000BASF111,www.basf.com;basf.com,https://www.basf.com;https://basf.com,https://www.basf.com
+DEUTSCHE LUFTHANSA AKTIENGESELLSCHAFT,DE0008232125,www.lufthansagroup.com;www.delvag.de;delvag.de,https://www.lufthansagroup.com;https://www.delvag.de;https://delvag.de,https://www.lufthansagroup.com
+ST. JAMES'S PLACE PLC,GB0007669376,www.sjp.co.uk;sjp.co.uk,https://www.sjp.co.uk;https://sjp.co.uk,https://www.sjp.co.uk
+WACKER CHEMIE AG,DE000WCH8881,www.wacker.com;wacker.com,https://www.wacker.com;https://wacker.com,https://www.wacker.com
+TALANX AKTIENGESELLSCHAFT,DE000TLX1005,www.talanx.com;www.hdi.de;hdi.de,https://www.talanx.com;https://www.hdi.de;https://hdi.de,https://www.talanx.com
+GEA GROUP AKTIENGESELLSCHAFT,DE0006602006,www.geagroup.com;www.gea.com;gea.com,https://www.geagroup.com;https://www.gea.com/en;https://gea.com,https://www.geagroup.com
+GERRESHEIMER AG,DE000A0LD6E6,www.gerresheimer.com;gerresheimer-pflegeberatung.de,https://www.gerresheimer.com;https://gerresheimer-pflegeberatung.de,https://www.gerresheimer.com
+CEMBRA MONEY BANK AG,CH0225173167,www.cembra.ch;cembra.ch,https://www.cembra.ch;https://cembra.ch,https://www.cembra.ch
+JULIUS BAER GRUPPE AG,CH0102484968,www.juliusbaer.com;juliusbaer.com,https://www.juliusbaer.com;https://juliusbaer.com,https://www.juliusbaer.com
+UBS GROUP AG,CH0244767585,www.ubs.com;ubs.com,https://www.ubs.com;https://ubs.com,https://www.ubs.com
+GALDERMA GROUP AG,CH1335392721,www.galderma.com;galderma.com,https://www.galderma.com;https://galderma.com,https://www.galderma.com
+ACCELLERON INDUSTRIES AG,CH1169360919,www.accelleron-industries.com;accelleron-industries.com,https://www.accelleron-industries.com;https://accelleron-industries.com,https://www.accelleron-industries.com
+GAZTRANSWPORT ET TECHNIGAZ,nan,gtt.fr,https://gtt.fr/,https://gtt.fr/
+MAN GROUP PLC,JE00BJ1DLW90,www.man.com;man.com,https://www.man.com;https://man.com,https://www.man.com
+SWISS LIFE HOLDING AG,CH0014852781,www.swisslife.com;www.swisslife.ch;www.swisslife-am.com;swisslife-am.com,https://www.swisslife.com;https://www.swisslife.ch;https://www.swisslife-am.com/en/home.html;https://swisslife-am.com,https://www.swisslife.com
+SWISSQUOTE GROUP HOLDING SA,CH0010675863,www.swissquote.ch;en.swissquote.com;swissquote.com,https://www.swissquote.ch;https://en.swissquote.com;https://swissquote.com,https://www.swissquote.ch
+ZURICH INSURANCE GROUP AG,CH0011075394,www.zurich.com;zurich.pl,https://www.zurich.com;https://zurich.pl,https://www.zurich.com
+HELVETIA HOLDING AG,CH0466642201,www.helvetia.com;helvetia.com,https://www.helvetia.com;https://helvetia.com,https://www.helvetia.com
+BALOISE HOLDING AG,CH0012410517,www.baloise.com;baloise.com,https://www.baloise.com;https://baloise.com,https://www.baloise.com
+GRAFTON GROUP FINANCE PUBLIC LIMITED COMPANY,nan,www.graftonplc.com;graftonplc.com,https://www.graftonplc.com;https://graftonplc.com,https://www.graftonplc.com
+HANNOVER RUECK SE,DE0008402215,www.hannover-re.com;www.hannover-rueck.de;hannover-rueck.de,https://www.hannover-re.com;https://www.hannover-rueck.de;https://hannover-rueck.de,https://www.hannover-re.com
+SANDOZ GROUP AG,CH1243598427,www.sandoz.com;www.investors.sandoz.com;sandoz.com,https://www.sandoz.com;https://www.investors.sandoz.com;https://sandoz.com,https://www.sandoz.com
+GALDERMA HOLDING SA,nan,www.galderma.com;www.nestleskinhealth.com;galderma.com,https://www.galderma.com;https://www.nestleskinhealth.com;https://galderma.com,https://www.galderma.com
+B&M EUROPEAN VALUE RETAIL S.A.,LU1072616219,www.bandmretail.com;bandmretail.com,https://www.bandmretail.com;https://bandmretail.com,https://www.bandmretail.com
+SWISS RE AG,CH0126881561,www.swissre.com;swissre.com,https://www.swissre.com;https://swissre.com,https://www.swissre.com
+ERSTE GROUP BANK AG,AT0000652011,www.erstegroup.com;erstegroup.com,https://www.erstegroup.com;https://erstegroup.com,https://www.erstegroup.com
+DSM-FIRMENICH AG,CH1216478797,www.dsm-firmenich.com,https://www.dsm-firmenich.com,https://www.dsm-firmenich.com
+DEUTSCHE POST DHL GROUP,nan,www.dhl.de;dhl.de,https://www.dhl.de/de/privatkunden.html;https://dhl.de,https://www.dhl.de/de/privatkunden.html
+SOFINA GROUP,nan,www.sofinagroup.com,https://www.sofinagroup.com/,https://www.sofinagroup.com/
+FUCHS PETROLUB SE FUCHS SE,nan,www.fuchs.com;fuchs.com,https://www.fuchs.com;https://fuchs.com,https://www.fuchs.com
+LEG PROPERTIES B.V.,nan,www.leg-wohnen.de,https://www.leg-wohnen.de/en/corporation,https://www.leg-wohnen.de/en/corporation
+CONTINENTAL AKTIENGESELLSCHAFT,DE0005439004,www.continental-corporation.com;www.continental-reifen.de;continental-reifen.de,https://www.continental-corporation.com;https://www.continental-reifen.de;https://continental-reifen.de,https://www.continental-corporation.com
+SAP SE,DE0007164600,www.sap.com,https://www.sap.com,https://www.sap.com
+INFORMA P.L.C.,nan,www.informa.com,https://www.informa.com/,https://www.informa.com/
+"ADECCO, S A",nan,www.adecco.ch;adecco.ch,https://www.adecco.ch;https://adecco.ch,https://www.adecco.ch
+EXOR N.V.,NL0012059018,www.exor.com;exor.com,https://www.exor.com;https://exor.com,https://www.exor.com
+FUCHS PETROLUB SE,nan,www.fuchs.com;fuchs.com,https://www.fuchs.com;https://fuchs.com,https://www.fuchs.com
+HELVETIA HOLDING AG,nan,www.helvetia.com,https://www.helvetia.com/corporate/web/en/home.html,https://www.helvetia.com/corporate/web/en/home.html
+SOFINA,nan,,,
+"COMPANY, HENKEL AG CO KGAA",nan,www.henkel.com,https://www.henkel.com/,https://www.henkel.com/
+M & G PLC,nan,www.mandg.com,https://www.mandg.com/,https://www.mandg.com/
+LVMH,nan,www.lvmh.com,https://www.lvmh.com/,https://www.lvmh.com/
+"EDP, S.A.",nan,www.edp.com,https://www.edp.com/en,https://www.edp.com/en
+BNP PARIBAS,nan,group.bnpparibas,https://group.bnpparibas/en/,https://group.bnpparibas/en/

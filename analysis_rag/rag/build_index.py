@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-# FILE: analysis_rag/rag/build_index.py
-"""
-Indicizza i .txt dei report ESG in Chroma con batching e rate-limit handling:
-- Env allineate al prof (AZURE_OPENAI_API_VERSION, AZURE_DEPLOYMENT_EMBEDDINGS, ...)
-- Embeddings Azure via deployment name
-- Batching + retry su 429 (RateLimitReached)
-"""
 
 import os
 import re
@@ -21,7 +14,7 @@ from langchain_openai import AzureOpenAIEmbeddings
 from openai import RateLimitError
 
 
-# ======== ENV (come il prof) ========
+# ======== ENV ========
 ENDPOINT_URL   = os.getenv("ENDPOINT_URL", "https://openaimaurino2.openai.azure.com/")
 API_KEY        = os.getenv("AZURE_OPENAI_API_KEY", "wLPBFmPkwquNFwn5IKDR3W8mv1ZKb95FGnxLZ0RgUiEl32D9qFaGJQQJ99BHACI8hq2XJ3w3AAABACOGyD04")
 API_VERSION    = os.getenv("AZURE_OPENAI_API_VERSION", "2025-01-01-preview")
@@ -37,9 +30,9 @@ CHUNK_OVERLAP   = int(os.getenv("CHUNK_OVERLAP", "300"))
 MIN_CHARS       = int(os.getenv("MIN_CHARS", "300"))
 
 # ======== Batching / Rate limit ========
-EMBED_BATCH_SIZE = int(os.getenv("EMBED_BATCH_SIZE", "64"))     # riduci se 429 persiste (32/16)
+EMBED_BATCH_SIZE = int(os.getenv("EMBED_BATCH_SIZE", "64"))     # dimensione batch embedding
 MAX_RETRIES      = int(os.getenv("EMBED_MAX_RETRIES", "12"))    # tentativi per batch
-COOLDOWN_SEC     = int(os.getenv("EMBED_COOLDOWN_SEC", "65"))   # sleep dopo 429
+COOLDOWN_SEC     = int(os.getenv("EMBED_COOLDOWN_SEC", "65"))   # attesa base
 PAUSE_BETWEEN    = float(os.getenv("EMBED_PAUSE_BETWEEN", "0.2"))  # pausa tra batch (secondi)
 
 
@@ -50,16 +43,7 @@ def _require(var_name: str, value: str):
 
 
 def _guess_metadata_from_path(p: Path) -> Dict:
-    """
-    Regola concordata:
-    - company_id = prefisso del filename fino al PRIMO '_' (underscore)
-    - doc_id     = tutto il resto del filename (senza .txt); se non c'è '_', usa lo stem intero
-    - page       = non dedotta (None)
-    - fallback company_id = nome della cartella padre se il filename non contiene '_'
-    Esempi:
-      "AB_VOLVO_sustainability_2024_en.txt" -> company_id="AB", doc_id="VOLVO_sustainability_2024_en"
-      "A2A-Report-2024.txt" (senza underscore) -> company_id=<nome cartella padre>, doc_id="A2A-Report-2024"
-    """
+
     md = {"company_id": None, "doc_id": None, "page": None, "year": None, "lang": None, "section_title": None}
 
     stem = p.stem  # nome senza .txt
@@ -69,7 +53,6 @@ def _guess_metadata_from_path(p: Path) -> Dict:
         md["doc_id"]     = (rest or "").strip() or stem
     else:
         md["doc_id"] = stem
-        # fallback: prendi la cartella padre come company_id se è informativa
         parent = (p.parent.name or "").strip()
         if parent and parent.lower() not in {"", "text_images", "output", "data"}:
             md["company_id"] = parent
@@ -98,7 +81,6 @@ def _make_embeddings():
         max_retries=8,              # lato client
         timeout=60,
     )
-    # smoke test
     _ = emb.embed_query("hello world")
     print("[emb] Azure embeddings OK")
     return emb
@@ -129,7 +111,6 @@ def _add_texts_with_retry(vs: Chroma, texts: List[str], metadatas: List[Dict]):
                 print(f"[429] Rate limit, retry {attempt}/{MAX_RETRIES} tra {wait}s...")
                 time.sleep(wait)
             except Exception as e:
-                # altri errori transitori → prova qualche retry corto
                 attempt += 1
                 if attempt > MAX_RETRIES:
                     raise
@@ -175,7 +156,6 @@ def main():
         if not md_base.get("company_id"):
             files_without_company += 1
 
-        # Propaga metadati a ogni chunk
         for c in chunks:
             docs.append(c)
             metadatas.append(md_base.copy())
@@ -197,9 +177,7 @@ def main():
         persist_directory=str(CHROMA_DIR),
     )
 
-    # >>> qui il batching con retry
     _add_texts_with_retry(vs, docs, metadatas)
-    # Persist compatibile con versioni diverse di langchain_chroma
     if hasattr(vs, "persist"):
         vs.persist()
     elif hasattr(vs, "_client") and hasattr(vs._client, "persist"):

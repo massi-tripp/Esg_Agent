@@ -44,7 +44,6 @@ RE_YEAR = re.compile(r"(19\d{2}|20[0-4]\d)")
 RE_GOOD = re.compile(r"(sustainab|esg|csr|non[-_\s]?financial|integrated|annual)", re.I)
 
 def score(rec: dict) -> float:
-    """Calcola un punteggio euristico per un candidato (identico a rank.py)."""
     s = 0.0
     url = rec.get("target_url", "") or ""
     anchor = rec.get("anchor_text", "") or ""

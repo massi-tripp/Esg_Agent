@@ -1,12 +1,10 @@
 # scripts/download_pdfs.py
 # Downloader per PDF:
-# - legge un CSV con colonne: company_id, best_url (e opz. score, valutazione)
-# - scarica in parallelo con retry/backoff
-# - verifica magic bytes %PDF- (evita falsi positivi)
+# - legge il CSV con le url
+# - scarica il file
+# - verifica bytes %PDF
 # - salva in C:\Universita\TESI\esg_agent\analysis_rag\data\pdfs\<company_id>\
 # - logga risultati in C:\Universita\TESI\esg_agent\analysis_rag\data\output\pdf_download_log.csv e .jsonl
-# - può riprendere (non riscarica file già presenti)
-# - opzionale: filtra solo valutazione=giusta
 
 import os
 import re
@@ -27,7 +25,6 @@ DEFAULT_UA = (
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
-# === PERCORSI DI DEFAULT (Windows) ===
 DEFAULT_OUT_DIR = r"C:\Universita\TESI\esg_agent\analysis_rag\data\pdfs"
 OUTPUT_DIR      = r"C:\Universita\TESI\esg_agent\analysis_rag\data\output"
 
@@ -37,7 +34,7 @@ def sha1(s: str) -> str:
 
 def norm_company_id(s: str) -> str:
     s = (s or "").strip()
-    s = re.sub(r'[\\/:*?"<>|]+', "_", s)  # caratteri non validi per path
+    s = re.sub(r'[\\/:*?"<>|]+', "_", s)  
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
@@ -56,21 +53,18 @@ def ensure_pdf_ext(name: str) -> str:
     return name if name.lower().endswith(".pdf") else (name + ".pdf")
 
 def is_pdf_magic_bytes(content_head: bytes) -> bool:
-    """Accetta SOLO se inizia davvero con magic bytes PDF."""
     return content_head[:5] == b"%PDF-"
 
 def sanitize_filename(name: str) -> str:
-    name = re.sub(r"[^\w\-. ]+", "_", name)  # tieni lettere, numeri, _, -, ., spazio
+    name = re.sub(r"[^\w\-. ]+", "_", name)  
     name = re.sub(r"\s+", " ", name).strip()
-    return name[:160]  # limite ragionevole
+    return name[:160] 
 
 def pick_filename(company_id: str, url: str, resp: requests.Response) -> str:
-    # 1) Content-Disposition
     cd_name = suggested_filename_from_headers(resp)
     if cd_name:
         base = sanitize_filename(cd_name)
     else:
-        # 2) basename da URL, tolti query/fragment
         base = re.sub(r"[?#].*$", "", url)
         base = base.rstrip("/").split("/")[-1] or f"{sha1(url)}.pdf"
         base = sanitize_filename(base)
@@ -83,7 +77,6 @@ def backoff_sleep(attempt: int, base: float = 0.8, cap: float = 8.0):
     time.sleep(t)
 
 def check_existing_is_pdf(path: Path) -> bool:
-    """Controllo veloce per resume: apre i primi byte e verifica magic bytes."""
     try:
         with open(path, "rb") as f:
             head = f.read(8)
@@ -93,10 +86,6 @@ def check_existing_is_pdf(path: Path) -> bool:
 
 def download_one(session: requests.Session, row: dict, out_root: Path,
                  timeout: float = 30.0, min_bytes: int = 50_000) -> Tuple[bool, dict]:
-    """
-    Ritorna (ok, info_dict)
-    info_dict: {company_id, url, out_path, http_status, size, is_pdf, error}
-    """
     company_id = norm_company_id(row.get("company_id", "UNKNOWN"))
     url        = (row.get("best_url") or row.get("url") or "").strip()
     res = {
@@ -113,7 +102,6 @@ def download_one(session: requests.Session, row: dict, out_root: Path,
         res["error"] = "missing_company_or_url"
         return False, res
 
-    # cartella per azienda
     out_dir = out_root / company_id
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -127,24 +115,19 @@ def download_one(session: requests.Session, row: dict, out_root: Path,
                     res["error"] = f"http_{resp.status_code}"
                     break
 
-                # leggi primi bytes per determinare PDF e costruire filename
                 first_chunk = next(resp.iter_content(chunk_size=8192), b"")
                 if not first_chunk:
                     res["error"] = "empty_response"
                     break
-
-                # decide filename (usa URL finale post-redirect)
                 fname = pick_filename(company_id, resp.url or url, resp)
                 out_path = out_dir / fname
 
-                # resume: se file esiste con size >= min_bytes, non riscarico
                 if out_path.exists() and out_path.stat().st_size >= min_bytes:
                     res["out_path"] = str(out_path)
                     res["size"] = out_path.stat().st_size
                     res["is_pdf"] = check_existing_is_pdf(out_path)
                     return True, res
 
-                # scrivi su temp e poi rename (atomic-ish)
                 tmp_path = out_path.with_suffix(out_path.suffix + ".part")
                 with open(tmp_path, "wb") as f:
                     f.write(first_chunk)
@@ -153,14 +136,12 @@ def download_one(session: requests.Session, row: dict, out_root: Path,
                             break
                         f.write(chunk)
 
-                # verifica file
                 size = tmp_path.stat().st_size
                 if size < min_bytes:
                     res["error"] = f"too_small({size})"
                     tmp_path.unlink(missing_ok=True)
                     break
 
-                # ricarica i primi byte per check PDF
                 with open(tmp_path, "rb") as f:
                     head = f.read(8)
                 is_pdf = is_pdf_magic_bytes(head)
@@ -184,14 +165,12 @@ def main(csv_path: str,
          timeout: float = 30.0,
          user_agent: str = DEFAULT_UA,
          min_bytes: int = 50_000):
-    # input
     if not os.path.exists(csv_path):
         print(f"[ERRORE] CSV non trovato: {csv_path}")
         sys.exit(1)
 
     df = pd.read_csv(csv_path, sep=",", quotechar='"', encoding="utf-8", engine="python", on_bad_lines="skip")
 
-    # filtro opzionale per etichetta (giusta / parziale / sbagliata)
     if only_label and "valutazione" in df.columns:
         df = df[df["valutazione"].astype(str).str.lower() == only_label.strip().lower()].copy()
 
@@ -229,7 +208,6 @@ def main(csv_path: str,
                 fail_count += 1
                 print(f"[FAIL] {info['company_id']} -> {info['url']} | {info['error']}")
 
-    # salva log
     log_csv   = Path(OUTPUT_DIR) / "pdf_download_log.csv"
     log_jsonl = Path(OUTPUT_DIR) / "pdf_download_log.jsonl"
     pd.DataFrame(results).to_csv(log_csv, index=False, encoding="utf-8")
@@ -238,7 +216,6 @@ def main(csv_path: str,
         for r in results:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
-    # riepilogo + elenco sospetti (troppo piccoli)
     small = [r for r in results if r.get("size", 0) < min_bytes]
     if small:
         small_path = Path(OUTPUT_DIR) / "pdf_sospetti_sotto_soglia.csv"

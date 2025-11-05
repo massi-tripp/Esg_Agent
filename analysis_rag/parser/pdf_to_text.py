@@ -1,6 +1,5 @@
-# parser/pdf_to_text.py
-# PDF → testo (ricorsivo). OCR fallback SENZA poppler: usa il renderer di PyMuPDF.
-# Output: un .txt per PDF + indice CSV cumulativo.
+# PDF → testo 
+# Output: un .txt per PDF
 
 import os
 import re
@@ -11,7 +10,6 @@ from typing import List, Dict, Any
 
 import fitz  # PyMuPDF
 
-# OCR (solo Tesseract + Pillow; NIENTE pdf2image/poppler)
 try:
     import pytesseract
     from PIL import Image
@@ -42,16 +40,11 @@ def find_pdfs(root: Path) -> List[Path]:
 
 
 def page_ocr_text(page: fitz.Page, dpi: int, ocr_lang: str) -> str:
-    """
-    Rasterizza la pagina con PyMuPDF e fa OCR con Tesseract.
-    NIENTE pdf2image/poppler.
-    """
-    # scala per ottenere il DPI desiderato
+
     zoom = dpi / 72.0
     mat = fitz.Matrix(zoom, zoom)  # isotropico
     pix = page.get_pixmap(matrix=mat, alpha=False)  # RGB
     img_bytes = pix.tobytes("png")
-    # carica in PIL senza file temporanei
     from io import BytesIO
     pil_img = Image.open(BytesIO(img_bytes))
     text = pytesseract.image_to_string(pil_img, lang=ocr_lang)
@@ -66,15 +59,6 @@ def extract_text_from_pdf(
     ocr_min_chars: int,
     ocr_dpi: int = 300
 ) -> Dict[str, Any]:
-    """
-    Ritorna:
-      {
-        'text': testo_unito,
-        'pages': n_pagine,
-        'total_words': n_parole,
-        'ocr_pages': n_pagine_ocr
-      }
-    """
     doc = fitz.open(pdf_path.as_posix())
     total_pages = doc.page_count
     ocr_pages = 0
@@ -91,7 +75,6 @@ def extract_text_from_pdf(
                     "OCR richiesto ma pytesseract/Pillow non disponibili. "
                     "Installa con: pip install pytesseract Pillow"
                 )
-            # OCR via renderer interno (niente poppler)
             ocr_text = page_ocr_text(page, dpi=ocr_dpi, ocr_lang=ocr_lang)
             if has_enough_text(ocr_text, ocr_min_chars):
                 raw = ocr_text
@@ -130,7 +113,6 @@ def main():
                     help="(Opzionale) Percorso eseguibile Tesseract, se non è nel PATH.")
     args = ap.parse_args()
 
-    # Imposta percorso Tesseract se fornito
     if args.tesseract_cmd:
         import pytesseract
         pytesseract.pytesseract.tesseract_cmd = args.tesseract_cmd
@@ -184,7 +166,6 @@ def main():
                 "error": str(e)
             })
 
-    # salva indice CSV cumulativo
     idx_csv = out_root / "pdf_text_index.csv"
     fieldnames = ["pdf_path", "txt_path", "pages", "total_words", "ocr_pages", "ocr_ratio", "error"]
     with idx_csv.open("w", newline="", encoding="utf-8") as f:
