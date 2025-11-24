@@ -46,7 +46,7 @@ NOVARTIS AG,CH0012005267,www.novartis.com;novartis.com,https://www.novartis.com;
 SANOFI,FR0000120578,www.sanofi.com;sanofi.com,https://www.sanofi.com;https://sanofi.com,https://www.sanofi.com
 BNP PARIBAS,FR0000131104,group.bnpparibas;www.group.bnpparibas;www.bnpparibas.lu;bnpparibas.lu,https://group.bnpparibas;https://www.group.bnpparibas;https://www.bnpparibas.lu/en;https://bnpparibas.lu,https://group.bnpparibas
 BAYER AG,DE000BAY0017,www.bayer.com;www.bayer04.de;bayer04.de,https://www.bayer.com;https://www.bayer04.de;https://bayer04.de,https://www.bayer.com
-IBERDROLA SA,ES0144580Y14,www.iberdrola.es;www.iberdrola.com;iberdrola.com,https://www.iberdrola.es;https://www.iberdrola.com;https://iberdrola.com,https://www.iberdrola.es
+IBERDROLA SA,ES0144580Y14,www.iberdrola.es;www.iberdrola.com;iberdrola.com,https://www.iberdrola.es;https://www.iberdrola.com;https://iberdrola.com,https://www.iberdrola.com
 VODAFONE GROUP PLC,GB00BH4HKS39,www.vodafone.com;www.vodafone.co.uk;vodafone.co.uk,https://www.vodafone.com;https://www.vodafone.co.uk;https://vodafone.co.uk,https://www.vodafone.com
 COMPAGNIE DE SAINT-GOBAIN,FR0000125007,www.saint-gobain.com;saint-gobain.com,https://www.saint-gobain.com;https://saint-gobain.com,https://www.saint-gobain.com
 AB VOLVO,SE0000115446,www.volvogroup.com;volvogroup.se,https://www.volvogroup.com;https://volvogroup.se,https://www.volvogroup.com
@@ -64,7 +64,6 @@ GSK PLC,GB00BN7SWP63,www.gsk.com;gsk.com,https://www.gsk.com;https://gsk.com,htt
 INDUSTRIA DE DISENO TEXTIL S.A.,ES0148396007,www.inditex.com;inditex.com,https://www.inditex.com;https://inditex.com,https://www.inditex.com
 SCHNEIDER ELECTRIC SE,FR0000121972,www.schneider-electric.ch;www.se.com;schneider-electric.fr,https://www.schneider-electric.ch;https://www.se.com/fr/fr;https://schneider-electric.fr,https://www.schneider-electric.ch
 THYSSENKRUPP AG,DE0007500001,www.thyssenkrupp.com;thyssenkrupp.com,https://www.thyssenkrupp.com;https://thyssenkrupp.com,https://www.thyssenkrupp.com
-SIEMENS ENERGY AG,DE000ENER6Y0,www.siemens.com;www.siemens-energy.com;siemensenergy.net,https://www.siemens.com/global/en.html;https://www.siemens-energy.com/global/en.html;https://siemensenergy.net,https://www.siemens.com/global/en.html
 VOLVO CAR AB,SE0016844831,www.volvocars.com;www.volvo.com;volvo.com,https://www.volvocars.com;https://www.volvo.com/en;https://volvo.com,https://www.volvocars.com
 OMV AKTIENGESELLSCHAFT,AT0000743059,www.omv.com;omv.at,https://www.omv.com;https://omv.at,https://www.omv.com
 HOCHTIEF AG,DE0006070006,www.hochtief.de;hochtief.de,https://www.hochtief.de;https://hochtief.de,https://www.hochtief.de
@@ -147,7 +146,6 @@ BRENNTAG SE,DE000A1DAHH0,www.brenntag.com;brenntag.com,https://www.brenntag.com;
 INFINEON TECHNOLOGIES AG,DE0006231004,www.infineon.com;infineon.com,https://www.infineon.com;https://infineon.com,https://www.infineon.com
 PUBLICIS GROUPE S A,FR0000130577,www.publicisgroupe.com;publicisgroupe.com,https://www.publicisgroupe.com;https://publicisgroupe.com,https://www.publicisgroupe.com
 MARKS AND SPENCER GROUP PLC,GB0031274896,www.marksandspencer.com;marksandspencer.org,https://www.marksandspencer.com;https://marksandspencer.org,https://www.marksandspencer.com
-EDP - ENERGIAS DE PORTUGAL S.A.,PTEDP0AM0009,www.edp.com;www.edp.pt;edp.pt,https://www.edp.com;https://www.edp.pt;https://edp.pt,https://www.edp.com
 IVECO GROUP NV,NL0015000LU4,www.ivecogroup.com;www.iveco.com;iveco.com,https://www.ivecogroup.com;https://www.iveco.com/Pages/Iveco-brands.html;https://iveco.com,https://www.ivecogroup.com
 TELECOM ITALIA S.P.A,IT0003497168,www.telecomitalia.com;www.tim.it;tim.it,https://www.telecomitalia.com;https://www.tim.it;https://tim.it,https://www.telecomitalia.com
 JOHNSON MATTHEY PLC,GB00BZ4BQC70,www.matthey.com;matthey.com;johnsonmatthey.com,https://www.matthey.com;https://matthey.com/en/home;https://johnsonmatthey.com,https://www.matthey.com
@@ -382,7 +380,6 @@ FUCHS SE,DE000A3E5D64,www.fuchs-oil.de;www.fuchs.com;fuchs.com,https://www.fuchs
 AMUNDI SA,FR0004125920,www.amundi.fr;www.amundi.lu;amundi.lu,https://www.amundi.fr;https://www.amundi.lu/retail?nr=1;https://amundi.lu,https://www.amundi.fr
 GJENSIDIGE FORSIKRING ASA,NO0010582521,www.gjensidige.no;gjensidige.no,https://www.gjensidige.no;https://gjensidige.no,https://www.gjensidige.no
 VERALLIA,FR0013447729,www.verallia.com;www.horizonholdings.com;verallia.com,https://www.verallia.com;https://www.horizonholdings.com;https://verallia.com,https://www.verallia.com
-SARTORIUS AG,DE0007165631,www.sartorius.com;sartorius.com,https://www.sartorius.com;https://sartorius.com,https://www.sartorius.com
 SIG GROUP AG,CH0435377954,www.sig.biz;sigsauer.com,https://www.sig.biz;https://sigsauer.com,https://www.sig.biz
 BUCHER INDUSTRIES AG,CH0002432174,www.bucherholding.ch;www.bucherindustries.com;bucherholding.ch,https://www.bucherholding.ch;https://www.bucherindustries.com/de;https://bucherholding.ch,https://www.bucherholding.ch
 NEXI SPA,IT0005366767,www.nexigroup.com;www.nexi.it;nexi.it,https://www.nexigroup.com/en;https://www.nexi.it/it;https://nexi.it,https://www.nexigroup.com/en
@@ -419,7 +416,6 @@ TIETOEVRY OYJ,FI0009000277,www.tieto.com;www.tietoevry.com;tieto.fi,https://www.
 ITALGAS S.P.A.,IT0005211237,www.italgas.it;fornitori.italgas.it;italgas.it,https://www.italgas.it;https://fornitori.italgas.it;https://italgas.it,https://www.italgas.it
 HOWDEN JOINERY GROUP PLC,GB0005576813,www.howdenjoinerygroupplc.com;howdenjoinerygroupplc.com,https://www.howdenjoinerygroupplc.com;https://howdenjoinerygroupplc.com,https://www.howdenjoinerygroupplc.com
 SARTORIUS STEDIM BIOTECH,FR0013154002,www.sartorius.com;sartorius.com,https://www.sartorius.com;https://sartorius.com,https://www.sartorius.com
-GRAFTON GROUP PLC,IE00B00MZ448,www.graftonplc.com;graftonplc.com,https://www.graftonplc.com;https://graftonplc.com,https://www.graftonplc.com
 SWECO AB,SE0014960365,www.sweco.se;sweco.se,https://www.sweco.se;https://sweco.se,https://www.sweco.se
 L E LUNDBERGFORETAGEN AB,SE0000108847,www.lundbergs.se;www.lundbergforetagen.se;lundbergforetagen.se,https://www.lundbergs.se;https://www.lundbergforetagen.se;https://lundbergforetagen.se,https://www.lundbergs.se
 FLSMIDTH & CO. A/S,DK0010234467,www.flsmidth.com;flsmidth.com,https://www.flsmidth.com;https://flsmidth.com,https://www.flsmidth.com
@@ -542,7 +538,6 @@ SCOUT24 SE,DE000A12DM80,www.scout24.com;scout24.com,https://www.scout24.com;http
 RINGKJOBING LANDBOBANK. AKTIESELSKAB,DK0060854669,www.landbobanken.dk;www.nordjyskebank.dk;nordjyskebank.dk,https://www.landbobanken.dk;https://www.nordjyskebank.dk;https://nordjyskebank.dk,https://www.landbobanken.dk
 ALLFUNDS GROUP PLC,GB00BNTJ3546,allfunds.com,https://allfunds.com/en;https://allfunds.com,https://allfunds.com/en
 "MERLIN PROPERTIES SOCIMI , SA",ES0105025003,www.merlinproperties.com;merlinproperties.com,https://www.merlinproperties.com;https://merlinproperties.com,https://www.merlinproperties.com
-COMET HOLDING AG,CH0360826991,www.comet.ch;comet.tech;comet-group.com,https://www.comet.ch;https://comet.tech;https://comet-group.com,https://www.comet.ch
 RIGHTMOVE PLC,GB00BGDT3G23,www.rightmove.co.uk;rightmove.co.uk,https://www.rightmove.co.uk;https://rightmove.co.uk,https://www.rightmove.co.uk
 WAREHOUSES DE PAUW SA,BE0974349814,www.wdp.be;www.wdp.eu;wdp.eu,https://www.wdp.be;https://www.wdp.eu;https://wdp.eu,https://www.wdp.be
 NORDNET AB (PUBL),SE0015192067,nordnetab.com;www.nordnetab.com;nnbintressenter.com;www.nordnet.se;nordnet.se,https://nordnetab.com;https://www.nordnetab.com;https://nnbintressenter.com;https://www.nordnet.se/se;https://nordnet.se,https://nordnetab.com
@@ -556,7 +551,6 @@ WIHLBORGS FASTIGHETER AB,SE0001413600,www.wihlborgs.se;wihlborgs.se,https://www.
 UNITE GROUP PLC,GB0006928617,www.unite-group.co.uk;theunitegroup.co.uk,https://www.unite-group.co.uk;https://theunitegroup.co.uk,https://www.unite-group.co.uk
 AEDIFICA SOCIETE ANONYME,BE0003851681,www.aedifica.be;enigma.be,https://www.aedifica.be;https://enigma.be,https://www.aedifica.be
 AVANZA BANK HOLDING AB,SE0012454072,www.avanza.se;avanza.se,https://www.avanza.se;https://avanza.se,https://www.avanza.se
-IBERDROLA FINANZAS SOCIEDAD ANONIMA,nan,www.iberdrola.es;iberdrola.es,https://www.iberdrola.es;https://iberdrola.es,https://www.iberdrola.es
 SAFESTORE HOLDINGS PLC,GB00B1N7Z094,www.safestore.com;safestore.co.uk,https://www.safestore.com;https://safestore.co.uk,https://www.safestore.com
 LONDONMETRIC PROPERTY PLC,GB00B4WFW713,www.londonmetric.com;londonmetricproperty.co.uk,https://www.londonmetric.com;https://londonmetricproperty.co.uk,https://www.londonmetric.com
 WALLENSTAM AB,SE0017780133,www.wallenstam.se;wallenstam.se,https://www.wallenstam.se;https://wallenstam.se,https://www.wallenstam.se
@@ -594,25 +588,18 @@ BALOISE HOLDING AG,CH0012410517,www.baloise.com;baloise.com,https://www.baloise.
 GRAFTON GROUP FINANCE PUBLIC LIMITED COMPANY,nan,www.graftonplc.com;graftonplc.com,https://www.graftonplc.com;https://graftonplc.com,https://www.graftonplc.com
 HANNOVER RUECK SE,DE0008402215,www.hannover-re.com;www.hannover-rueck.de;hannover-rueck.de,https://www.hannover-re.com;https://www.hannover-rueck.de;https://hannover-rueck.de,https://www.hannover-re.com
 SANDOZ GROUP AG,CH1243598427,www.sandoz.com;www.investors.sandoz.com;sandoz.com,https://www.sandoz.com;https://www.investors.sandoz.com;https://sandoz.com,https://www.sandoz.com
-GALDERMA HOLDING SA,nan,www.galderma.com;www.nestleskinhealth.com;galderma.com,https://www.galderma.com;https://www.nestleskinhealth.com;https://galderma.com,https://www.galderma.com
 B&M EUROPEAN VALUE RETAIL S.A.,LU1072616219,www.bandmretail.com;bandmretail.com,https://www.bandmretail.com;https://bandmretail.com,https://www.bandmretail.com
 SWISS RE AG,CH0126881561,www.swissre.com;swissre.com,https://www.swissre.com;https://swissre.com,https://www.swissre.com
 ERSTE GROUP BANK AG,AT0000652011,www.erstegroup.com;erstegroup.com,https://www.erstegroup.com;https://erstegroup.com,https://www.erstegroup.com
 DSM-FIRMENICH AG,CH1216478797,www.dsm-firmenich.com,https://www.dsm-firmenich.com,https://www.dsm-firmenich.com
 DEUTSCHE POST DHL GROUP,nan,www.dhl.de;dhl.de,https://www.dhl.de/de/privatkunden.html;https://dhl.de,https://www.dhl.de/de/privatkunden.html
 SOFINA GROUP,nan,www.sofinagroup.com,https://www.sofinagroup.com/,https://www.sofinagroup.com/
-FUCHS PETROLUB SE FUCHS SE,nan,www.fuchs.com;fuchs.com,https://www.fuchs.com;https://fuchs.com,https://www.fuchs.com
 LEG PROPERTIES B.V.,nan,www.leg-wohnen.de,https://www.leg-wohnen.de/en/corporation,https://www.leg-wohnen.de/en/corporation
 CONTINENTAL AKTIENGESELLSCHAFT,DE0005439004,www.continental-corporation.com;www.continental-reifen.de;continental-reifen.de,https://www.continental-corporation.com;https://www.continental-reifen.de;https://continental-reifen.de,https://www.continental-corporation.com
 SAP SE,DE0007164600,www.sap.com,https://www.sap.com,https://www.sap.com
-INFORMA P.L.C.,nan,www.informa.com,https://www.informa.com/,https://www.informa.com/
 "ADECCO, S A",nan,www.adecco.ch;adecco.ch,https://www.adecco.ch;https://adecco.ch,https://www.adecco.ch
 EXOR N.V.,NL0012059018,www.exor.com;exor.com,https://www.exor.com;https://exor.com,https://www.exor.com
 FUCHS PETROLUB SE,nan,www.fuchs.com;fuchs.com,https://www.fuchs.com;https://fuchs.com,https://www.fuchs.com
-HELVETIA HOLDING AG,nan,www.helvetia.com,https://www.helvetia.com/corporate/web/en/home.html,https://www.helvetia.com/corporate/web/en/home.html
-SOFINA,nan,,,
 "COMPANY, HENKEL AG CO KGAA",nan,www.henkel.com,https://www.henkel.com/,https://www.henkel.com/
-M & G PLC,nan,www.mandg.com,https://www.mandg.com/,https://www.mandg.com/
 LVMH,nan,www.lvmh.com,https://www.lvmh.com/,https://www.lvmh.com/
 "EDP, S.A.",nan,www.edp.com,https://www.edp.com/en,https://www.edp.com/en
-BNP PARIBAS,nan,group.bnpparibas,https://group.bnpparibas/en/,https://group.bnpparibas/en/
