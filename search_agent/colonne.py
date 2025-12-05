@@ -24,4 +24,6 @@ df=df[df['best_link']!='NONE']
 
 print(df.head())
 
-#df.to_csv("search_agent/data/output/sustainability_reports_next_2024.csv",index=False)
+df.to_csv("search_agent/data/output/sustainability_reports_next_2024.csv",index=False)
+
+# python search_agent\colonne.py

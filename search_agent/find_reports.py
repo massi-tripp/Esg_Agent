@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-# FILE: primary_search_llm_queries.py
-
 import os
 import re
 import csv
@@ -13,10 +11,6 @@ from langchain_tavily import TavilySearch
 from langchain_openai import AzureChatOpenAI
 from openai import AzureOpenAI
 
-# ============================================================
-# CONFIG PATH
-# ============================================================
-
 INPUT_FILE = "search_agent/data/input/test_next.csv"
 OUTPUT_FILE = "search_agent/data/output/sustainability_reports_next_2024.csv"
 
@@ -24,13 +18,15 @@ TARGET_YEAR = "2024"
 
 
 # ===================================================================
-# QUERY DI BASE (se non dovessero funzionare quelle generate da GPT)
+# QUERY se non dovessero funzionare quelle generate da GPT
 # ===================================================================
 
 def build_site_query(company_name: str) -> str:
     return (
-        f'{company_name} 2024 sustainability report ESG "annual report" "integrated report" "universal registration document" link or pdf'
+        f'{company_name} 2024 sustainability report ESG '
+        f'"annual report" "integrated report" "universal registration document" link or pdf'
     )
+
 
 # ============================================================
 # RANKING
@@ -77,6 +73,7 @@ def score_result(item: Dict, company: str) -> int:
 
     return score
 
+
 # ============================================================
 # FILTRI SU DOMINIO / PATH
 # ============================================================
@@ -121,6 +118,7 @@ def filter_pdf_links_open(links: List[str]) -> List[str]:
             seen.add(x)
     return out
 
+
 def path_bonus(url: str) -> int:
     u = url.lower()
     bonus = 0
@@ -140,8 +138,8 @@ def path_bonus(url: str) -> int:
 
     return bonus
 
-def choose_best(candidates: List[str]) -> str: #fallback se GPT non decide
 
+def choose_best(candidates: List[str]) -> str:  # fallback se GPT non decide
     if not candidates:
         return "NONE"
     ranked = sorted(
@@ -150,6 +148,7 @@ def choose_best(candidates: List[str]) -> str: #fallback se GPT non decide
         reverse=True
     )
     return ranked[0]
+
 
 # ============================================================
 # LLM CONFIG (AZURE GPT-5-mini)
@@ -163,6 +162,7 @@ llm = AzureChatOpenAI(
     temperature=1.0,
     max_tokens=None,
 )
+
 
 # ============================================================
 #             LLM: GENERAZIONE QUERY PER TAVILY
@@ -188,7 +188,7 @@ def ask_llm_build_queries(
         f"Preferred domain: {domain}\n"
         f"Target year: {year}\n\n"
         "Write one query for an English Tavily web search to find the official 2024 "
-        "sustainability / ESG or annual / integrated or universal registration (URD) report "
+        "sustainability / ESG or annual / integrated or universal registration (URD) or strategic report "
         "of this company.\n"
         "The query must be suitable for the search engine Tavily.\n"
         "You MUST output only the query string, and nothing else."
@@ -215,7 +215,6 @@ def ask_llm_build_queries(
                 continue
             queries.append(line)
 
-        # Normalizza
         cleaned_list: List[str] = []
         seen = set()
         for q in queries:
@@ -232,7 +231,8 @@ def ask_llm_build_queries(
     except Exception as e:
         print(f"[ERROR LLM] generazione query fallita: {e}")
         return []
-    
+
+
 # ============================================================
 #        LLM: GENERAZIONE SECONDA QUERY PER TAVILY
 # ============================================================
@@ -258,8 +258,8 @@ def ask_llm_build_alternative_query(
         f"The following query was already tried and did NOT return good official {year} reports:\n"
         f"PREVIOUS_QUERY: {previous_query}\n\n"
         "Task:\n"
-        f"- Propose a DIFFERENT English Tavily web search query to find the official {year} "
-        "sustainability / ESG or annual / integrated or universal registration (URD) report of this company.\n"
+        f"- Propose a DIFFERENT Tavily web search query to find the official {year} "
+        "sustainability / ESG or annual / integrated or universal registration (URD) or strategic report of this company.\n"
         "- Do NOT repeat the previous query.\n"
         "- Avoid adding very generic extra keywords if they are not needed.\n\n"
         "You MUST output only the NEW query string, and nothing else. DO NOT include the domain."
@@ -281,7 +281,6 @@ def ask_llm_build_alternative_query(
             print("[DEBUG] Risposta LLM vuota per alternative query.")
             return ""
 
-        # prendiamo la prima riga non vuota come query
         for line in raw.splitlines():
             line = line.strip()
             if line:
@@ -292,6 +291,72 @@ def ask_llm_build_alternative_query(
     except Exception as e:
         print(f"[ERROR LLM] generazione query alternativa fallita: {e}")
         return ""
+
+
+# ============================================================
+#        LLM: GENERAZIONE TERZA QUERY PER TAVILY
+# ============================================================
+
+def ask_llm_build_third_query(
+    company: str,
+    domain: str,
+    year: str,
+    previous_queries: List[str],
+) -> str:
+
+    prev_block = "\n".join(
+        f"- {q}" for q in previous_queries if q.strip()
+    ) or "(none)"
+
+    system = (
+        "You are an expert assistant that builds highly effective web search queries for Tavily.\n"
+        f"Your goal is to find corporate annual reports (including sustainability/ESG sections) "
+        f"for a given company in {year}.\n"
+        "You must output ONLY a search query string. DO NOT include the domain.\n"
+        "No explanations, no markdown, no JSON, no bullet points."
+    )
+
+    user = (
+        f"Company: {company}\n"
+        f"Preferred domain: {domain}\n"
+        f"Target year: {year}\n\n"
+        "The following queries were already tried and did NOT return good official reports:\n"
+        f"{prev_block}\n\n"
+        "Task:\n"
+        f"- Propose a NEW and DIFFERENT Tavily web search query to find the official {year} "
+        "sustainability / ESG or annual / integrated or universal registration (URD)  or strategic report of this company.\n"
+        "- Do NOT repeat or trivially rephrase the previous queries.\n"
+        "- Avoid adding very generic extra keywords if they are not needed.\n\n"
+        "You MUST output only the NEW query string, and nothing else. DO NOT include the domain."
+    )
+
+    try:
+        resp = llm.invoke(
+            [
+                {"role": "system", "content": system},
+                {"role": "user", "content": user},
+            ]
+        )
+
+        raw = (resp.content or "").strip()
+        print("\n[DEBUG LLM RAW THIRD-QUERY RESPONSE]")
+        print(raw)
+
+        if not raw:
+            print("[DEBUG] Risposta LLM vuota per third query.")
+            return ""
+
+        for line in raw.splitlines():
+            line = line.strip()
+            if line:
+                return line
+
+        return ""
+
+    except Exception as e:
+        print(f"[ERROR LLM] generazione third query fallita: {e}")
+        return ""
+
 
 # ============================================================
 #             GPT: SCEGLI IL MIGLIOR URL
@@ -311,7 +376,7 @@ def ask_llm_pick_one(company: str, domain: str, candidates: List[str]) -> str:
         f"Choose the single best 2024 corporate report among these candidates (only pick from this list!):\n"
         + "\n".join(f"- {u}" for u in candidates) +
         "\n\nPriority: prefer paths that include 'annual-report-2024', 'integrated-report-2024', "
-        "'sustainability-report-2024', 'esg-report-2024', or clearly contain '2024'. "
+        "'sustainability-report-2024', 'esg-report-2024', 'strategic-report' or clearly contain '2024'. "
         "If unsure, choose the most complete/official report. "
         "Return only the URL (no markdown, no text). If none suits, return NONE."
     )
@@ -329,6 +394,7 @@ def ask_llm_pick_one(company: str, domain: str, candidates: List[str]) -> str:
     except Exception as e:
         print(f"[ERROR LLM] scelta URL fallita: {e}")
         return ""
+
 
 # ============================================================
 # RICERCATORE TAVILY (con query di GPT)
@@ -377,15 +443,16 @@ class ESGPDFSearcherLLM:
         # 2) Query di fallback manuale
         fallback_site = build_site_query(company)
 
-        items_site: List[Dict] = []       # risultati grezzi Tavily (per hits_site)
+        items_site: List[Dict] = []       # risultati grezzi Tavily
         html_site_raw: List[str] = []     # URL HTML grezzi
         pdfs_site: List[Dict] = []        # risultati PDF con score
 
-        llm_queries_alt: List[str] = []   # per loggare eventuali query alternative
+        llm_queries_alt: List[str] = []     # query 2
+        llm_queries_third: List[str] = []   # query 3
 
         site_query_source = "none"
 
-        # helper per aggiungere risultati Tavily a pdfs/html/items_site
+        # helper per aggiungere risultati Tavily
         def add_results(results: List[Dict]):
             nonlocal items_site
             items_site.extend(results)
@@ -399,7 +466,6 @@ class ESGPDFSearcherLLM:
                 else:
                     html_site_raw.append(url)
 
-        # helper per ricostruire i candidati PDF "buoni"
         def recompute_candidates() -> List[str]:
             pdfs_site.sort(key=lambda x: x.get("score", 0), reverse=True)
             links_site_scored = [x["url"] for x in pdfs_site if x.get("score", 0) >= 0]
@@ -416,7 +482,6 @@ class ESGPDFSearcherLLM:
                 site_query_source = "llm1"
             add_results(res_llm1)
 
-        # candidati dopo GPT1
         cands_site = recompute_candidates()
 
         # =========================
@@ -434,7 +499,7 @@ class ESGPDFSearcherLLM:
 
             if alt_query:
                 llm_queries_alt.append(alt_query)
-                print(f"[INFO] {company} | GPT query alternativa: {alt_query}")
+                print(f"[INFO] {company} | GPT query alternativa #2: {alt_query}")
                 res_llm2 = self._tavily_query(alt_query, include_domains=[domain])
                 if res_llm2:
                     site_query_source = (
@@ -446,8 +511,39 @@ class ESGPDFSearcherLLM:
                 cands_site = recompute_candidates()
 
         # =========================
-        # STEP 3: QUERY MANUALE
+        # STEP 3: GPT QUERY #3 (TERZA)
         # solo se dopo GPT1+GPT2 NON ci sono PDF buoni
+        # =========================
+        if not cands_site and (llm_queries or llm_queries_alt):
+            prev_list = []
+            if llm_queries:
+                prev_list.append(llm_queries[0])
+            if llm_queries_alt:
+                prev_list.append(llm_queries_alt[0])
+
+            third_query = ask_llm_build_third_query(
+                company=company,
+                domain=domain,
+                year=TARGET_YEAR,
+                previous_queries=prev_list,
+            )
+
+            if third_query:
+                llm_queries_third.append(third_query)
+                print(f"[INFO] {company} | GPT query #3: {third_query}")
+                res_llm3 = self._tavily_query(third_query, include_domains=[domain])
+                if res_llm3:
+                    if site_query_source == "none":
+                        site_query_source = "llm3"
+                    else:
+                        site_query_source = site_query_source + "+llm3"
+                add_results(res_llm3)
+
+                cands_site = recompute_candidates()
+
+        # =========================
+        # STEP 4: QUERY MANUALE (FALLBACK)
+        # solo se dopo GPT1+GPT2+GPT3 NON ci sono PDF buoni
         # =========================
         if not cands_site:
             print(f"[INFO] {company} | uso fallback manuale: {fallback_site}")
@@ -462,7 +558,7 @@ class ESGPDFSearcherLLM:
             # ricalcolo candidati dopo fallback
             cands_site = recompute_candidates()
 
-        # ======== HTML CANDIDATES SUL DOMINIO ========
+        # ======== HTML SUL DOMINIO ========
         html_site: List[str] = []
         base = domain.lower().split(".")[-2]  # es: bayer.com -> bayer
         for u in html_site_raw:
@@ -471,7 +567,6 @@ class ESGPDFSearcherLLM:
                 html_site.append(u)
         html_site = list(dict.fromkeys(html_site))
 
-        # ======== MERGE CANDIDATES (pdf -> html) ========
         merged: List[str] = []
         seen = set()
 
@@ -495,10 +590,12 @@ class ESGPDFSearcherLLM:
             "html_site": len(html_site),
             "llm_queries_used": llm_queries,
             "llm_queries_alternative_used": llm_queries_alt,
+            "llm_queries_third_used": llm_queries_third,
             "site_query_source": site_query_source,
         }
 
         return merged[:20], stats
+
 
 # ============================================================
 # MAIN SCRIPT
@@ -513,8 +610,12 @@ def main():
          open(OUTPUT_FILE, "w", newline='', encoding='utf-8') as outfile:
 
         reader = csv.DictReader(infile)
-        fieldnames = ["company_id", "domain", "best_link", "hits_site", "cands_site",
-                      "html_site", "llm_queries", "llm_queries_alternative", "site_query_source"]
+        fieldnames = [
+            "company_id", "domain", "best_link",
+            "hits_site", "cands_site", "html_site",
+            "llm_queries", "llm_queries_alternative", "llm_queries_third",
+            "site_query_source"
+        ]
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -532,6 +633,7 @@ def main():
                 print(f"[DEBUG] {company} | hits_site: {stats['hits_site']} | cands_site: {stats['cands_site']}")
                 print(f"[DEBUG] {company} | llm_queries: {stats['llm_queries_used']}")
                 print(f"[DEBUG] {company} | llm_queries_alternative: {stats['llm_queries_alternative_used']}")
+                print(f"[DEBUG] {company} | llm_queries_third: {stats['llm_queries_third_used']}")
                 print(f"[DEBUG] {company} | site_query_source: {stats['site_query_source']}")
 
                 # 1) GPT sceglie il miglior link tra i candidati
@@ -553,10 +655,10 @@ def main():
                     "html_site": stats["html_site"],
                     "llm_queries": " || ".join(stats["llm_queries_used"]),
                     "llm_queries_alternative": " || ".join(stats["llm_queries_alternative_used"]),
+                    "llm_queries_third": " || ".join(stats["llm_queries_third_used"]),
                     "site_query_source": stats["site_query_source"],
                 })
                 outfile.flush()
-
 
                 if best_link and best_link != "NONE":
                     print(f"✅ {company}: {best_link}")
@@ -574,6 +676,7 @@ def main():
                     "html_site": 0,
                     "llm_queries": "",
                     "llm_queries_alternative": "",
+                    "llm_queries_third": "",
                     "site_query_source": "",
                 })
                 outfile.flush()
@@ -587,8 +690,10 @@ def main():
 if __name__ == "__main__":
     main()
 
-#cd C:\Universita\TESI\esg_agent
-#(C:\Users\massi\anaconda3\shell\condabin\conda-hook.ps1) ; (conda activate esg_agent)
+
+# conda deactivate
+# cd C:\Universita\TESI\esg_agent
+# (C:\Users\massi\anaconda3\shell\condabin\conda-hook.ps1) ; (conda activate esg_agent)
 '''
 # === CREDENZIALI AZURE OPENAI ===
 $env:AZURE_OPENAI_API_KEY="wLPBFmPkwquNFwn5IKDR3W8mv1ZKb95FGnxLZ0RgUiEl32D9qFaGJQQJ99BHACI8hq2XJ3w3AAABACOGyD04"
@@ -620,5 +725,25 @@ llm1+llm2+fallback    17
 llm2                   5
 llm2+fallback          3
 none                   6
-ora tot su 400
+ora 370 su 402, 92,03% corrette.
+Ne aggiungo 18 quindi da 362 fino a 379, fino a L E LUNDBERGFORETAGEN AB
+420 totali, ora metto a runnare le 50 restanti. Ho anche aggiunto un altro iter di gpt per le query.
+Risultati:
+site_query_source
+fallback                    2
+llm1                       32
+llm1+fallback               1
+llm1+llm2                   1
+llm1+llm2+fallback          1
+llm1+llm2+llm3              1
+llm1+llm2+llm3+fallback     4
+llm1+llm3                   2
+llm2+fallback               1
+llm2+llm3                   1
+llm2+llm3+fallback          1
+llm3                        1
+llm3+fallback               1
+none                        1
+tot                        50
+387 su 432 corrette, 89,58%
 '''
