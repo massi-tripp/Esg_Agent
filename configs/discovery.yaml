@@ -1,6 +1,0 @@
-max_depth: 3
-max_pages: 100
-accept_language: "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,fr;q=0.6,de;q=0.5,es;q=0.4"
-user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-whitelist_hosts: ["investors.company.com", "sustainability.company.com"]
-robots_obey: true

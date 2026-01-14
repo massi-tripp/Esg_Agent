@@ -42,10 +42,9 @@ if 'company_id' in df.columns and 'company_id' in df_trovati.columns:
 	print('\nSample of filtered rows:')
 	print(df_fin.head())
 else:
-	# Fallback: if column missing, keep original df
 	print('company_id column missing in one of the dataframes; df_fin set to original df')
 	df_fin = df.copy()
 	print('df_fin shape:', df_fin.shape)
 
 df_fin.to_csv('search_agent/data/input/test_totali.csv', index=False)
-time.sleep(2)  # Pause to ensure file write completion
+time.sleep(2) 
