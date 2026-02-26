@@ -1,0 +1,89 @@
+{
+  "company_slug": "bmw_ag_vz",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bmw_ag_vz\\2023\\bmw_ag_vz_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bmw_ag_vz\\2023\\focused\\bmw_ag_vz_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        86,
+        87
+      ],
+      "start_page": 77,
+      "end_page": 90,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "78": 3,
+              "79": 6,
+              "80": 5,
+              "81": 4,
+              "82": 6,
+              "83": 4,
+              "84": 5,
+              "86": 3,
+              "87": 6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        325
+      ],
+      "start_page": 324,
+      "end_page": 328,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "325": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        334
+      ],
+      "start_page": 333,
+      "end_page": 337,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "334": 5
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

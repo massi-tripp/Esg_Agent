@@ -1,0 +1,69 @@
+{
+  "company_slug": "aena_s_m_e_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aena_s_m_e_s_a\\2023\\aena_s_m_e_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aena_s_m_e_s_a\\2023\\focused\\aena_s_m_e_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        298,
+        300,
+        301,
+        302,
+        303,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315
+      ],
+      "start_page": 297,
+      "end_page": 318,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "298": 6,
+              "300": 4,
+              "301": 4,
+              "302": 4,
+              "303": 4
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "307": 6,
+              "308": 4,
+              "309": 4,
+              "310": 6,
+              "311": 4,
+              "312": 4,
+              "313": 6,
+              "314": 4,
+              "315": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_slug": "iberdrola_sa",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\iberdrola_sa\\2024\\iberdrola_sa_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\iberdrola_sa\\2024\\focused\\iberdrola_sa_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        202,
+        203,
+        204,
+        206
+      ],
+      "start_page": 201,
+      "end_page": 209,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "202": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "203": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "204": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "206": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

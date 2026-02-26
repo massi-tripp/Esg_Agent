@@ -1,0 +1,207 @@
+{
+  "company_slug": "commerzbank_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\commerzbank_ag\\2023\\commerzbank_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\commerzbank_ag\\2023\\focused\\commerzbank_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        57,
+        58
+      ],
+      "start_page": 56,
+      "end_page": 61,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "57": 4,
+              "58": 5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        95,
+        98,
+        99,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        109,
+        111,
+        115,
+        116,
+        118,
+        119
+      ],
+      "start_page": 94,
+      "end_page": 122,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "95": 4,
+              "98": 4,
+              "99": 4,
+              "101": 4,
+              "102": 4,
+              "103": 4,
+              "104": 3,
+              "105": 4,
+              "106": 4,
+              "107": 4,
+              "109": 4,
+              "111": 3
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "115": 3,
+              "116": 3,
+              "118": 3,
+              "119": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        126
+      ],
+      "start_page": 125,
+      "end_page": 129,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "126": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "start_page": 138,
+      "end_page": 145,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "139": 3,
+              "140": 3,
+              "141": 3,
+              "142": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        152
+      ],
+      "start_page": 151,
+      "end_page": 155,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "152": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        161,
+        164,
+        165,
+        167,
+        168,
+        172,
+        174,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ],
+      "start_page": 160,
+      "end_page": 187,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "161": 3,
+              "164": 4,
+              "165": 4,
+              "167": 4,
+              "168": 4
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "172": 4,
+              "174": 4,
+              "176": 4,
+              "177": 4,
+              "178": 4,
+              "179": 4,
+              "180": 4,
+              "181": 4,
+              "182": 4,
+              "183": 4,
+              "184": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

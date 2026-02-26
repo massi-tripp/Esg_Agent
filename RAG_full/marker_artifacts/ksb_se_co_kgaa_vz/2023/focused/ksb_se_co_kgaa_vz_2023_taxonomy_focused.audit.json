@@ -1,0 +1,46 @@
+{
+  "company_slug": "ksb_se_co_kgaa_vz",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ksb_se_co_kgaa_vz\\2023\\ksb_se_co_kgaa_vz_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ksb_se_co_kgaa_vz\\2023\\focused\\ksb_se_co_kgaa_vz_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        50,
+        52,
+        54
+      ],
+      "start_page": 49,
+      "end_page": 57,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "50": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "52": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "54": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

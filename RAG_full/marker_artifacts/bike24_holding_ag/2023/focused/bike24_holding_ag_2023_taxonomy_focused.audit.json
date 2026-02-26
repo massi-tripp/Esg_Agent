@@ -1,0 +1,51 @@
+{
+  "company_slug": "bike24_holding_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bike24_holding_ag\\2023\\bike24_holding_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bike24_holding_ag\\2023\\focused\\bike24_holding_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "start_page": 77,
+      "end_page": 88,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "78": 4,
+              "79": 3,
+              "80": 3,
+              "81": 3,
+              "82": 3,
+              "83": 3,
+              "84": 5,
+              "85": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

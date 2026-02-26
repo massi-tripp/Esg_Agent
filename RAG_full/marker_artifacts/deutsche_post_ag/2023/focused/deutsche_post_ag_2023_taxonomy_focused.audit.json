@@ -1,0 +1,71 @@
+{
+  "company_slug": "deutsche_post_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_post_ag\\2023\\deutsche_post_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_post_ag\\2023\\focused\\deutsche_post_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        60
+      ],
+      "start_page": 59,
+      "end_page": 63,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "60": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        83,
+        84,
+        85,
+        87,
+        88,
+        89,
+        90,
+        92,
+        93
+      ],
+      "start_page": 82,
+      "end_page": 96,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "83": 6,
+              "84": 4,
+              "85": 6,
+              "87": 5,
+              "88": 4,
+              "89": 6,
+              "90": 6,
+              "92": 5,
+              "93": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "company_slug": "r_stahl_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\r_stahl_ag\\2023\\r_stahl_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\r_stahl_ag\\2023\\focused\\r_stahl_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "start_page": 63,
+      "end_page": 80,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "64": 4,
+              "65": 5,
+              "66": 6,
+              "67": 3,
+              "68": 3,
+              "69": 4,
+              "70": 4,
+              "71": 4,
+              "73": 6,
+              "74": 3,
+              "75": 6,
+              "76": 3,
+              "77": 6
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

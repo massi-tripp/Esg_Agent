@@ -1,0 +1,97 @@
+{
+  "company_slug": "acerinox_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acerinox_s_a\\2023\\acerinox_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acerinox_s_a\\2023\\focused\\acerinox_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        53
+      ],
+      "start_page": 52,
+      "end_page": 56,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "53": 6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        181
+      ],
+      "start_page": 180,
+      "end_page": 184,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "181": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        187
+      ],
+      "start_page": 186,
+      "end_page": 190,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "187": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        269,
+        271,
+        273,
+        275
+      ],
+      "start_page": 268,
+      "end_page": 278,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "269": 3,
+              "271": 3,
+              "273": 5,
+              "275": 5
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

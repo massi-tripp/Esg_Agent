@@ -1,0 +1,46 @@
+{
+  "company_slug": "hella_gmbh_co_kgaa",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hella_gmbh_co_kgaa\\2023\\hella_gmbh_co_kgaa_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hella_gmbh_co_kgaa\\2023\\focused\\hella_gmbh_co_kgaa_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        89,
+        91,
+        92
+      ],
+      "start_page": 88,
+      "end_page": 95,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "89": [
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "91": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "92": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "company_slug": "aib_group_plc",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aib_group_plc\\2023\\aib_group_plc_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aib_group_plc\\2023\\focused\\aib_group_plc_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        66,
+        67
+      ],
+      "start_page": 65,
+      "end_page": 70,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "66": 3,
+              "67": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        327,
+        328,
+        329,
+        330
+      ],
+      "start_page": 326,
+      "end_page": 333,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "327": 5,
+              "328": 5,
+              "329": 4,
+              "330": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

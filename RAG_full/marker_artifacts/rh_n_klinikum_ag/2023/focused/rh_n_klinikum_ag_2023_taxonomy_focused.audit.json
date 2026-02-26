@@ -1,0 +1,53 @@
+{
+  "company_slug": "rh_n_klinikum_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rh_n_klinikum_ag\\2023\\rh_n_klinikum_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rh_n_klinikum_ag\\2023\\focused\\rh_n_klinikum_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        30,
+        32
+      ],
+      "start_page": 21,
+      "end_page": 35,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "22": 3,
+              "23": 4,
+              "24": 6,
+              "25": 6,
+              "26": 4,
+              "28": 3,
+              "29": 3,
+              "30": 5,
+              "32": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

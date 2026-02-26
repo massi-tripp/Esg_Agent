@@ -1,0 +1,47 @@
+{
+  "company_slug": "telefonica_sa",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\telefonica_sa\\2024\\telefonica_sa_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\telefonica_sa\\2024\\focused\\telefonica_sa_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        304,
+        306,
+        308
+      ],
+      "start_page": 303,
+      "end_page": 311,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "304": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "306": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "308": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

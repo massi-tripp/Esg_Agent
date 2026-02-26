@@ -1,0 +1,77 @@
+{
+  "company_slug": "banco_santander_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\banco_santander_s_a\\2023\\banco_santander_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\banco_santander_s_a\\2023\\focused\\banco_santander_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        97,
+        100,
+        105,
+        106,
+        109,
+        112,
+        114,
+        115,
+        116,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "start_page": 96,
+      "end_page": 128,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "97": 4,
+              "100": 4
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "105": 3,
+              "106": 3,
+              "109": 3,
+              "112": 4,
+              "114": 4,
+              "115": 3,
+              "116": 4
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "120": 5,
+              "121": 5,
+              "122": 5,
+              "123": 5,
+              "124": 5,
+              "125": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

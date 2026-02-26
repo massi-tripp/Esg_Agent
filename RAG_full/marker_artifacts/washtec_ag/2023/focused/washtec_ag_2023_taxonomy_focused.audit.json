@@ -1,0 +1,46 @@
+{
+  "company_slug": "washtec_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\washtec_ag\\2023\\washtec_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\washtec_ag\\2023\\focused\\washtec_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        43,
+        45,
+        48
+      ],
+      "start_page": 42,
+      "end_page": 51,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "43": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "45": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "48": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

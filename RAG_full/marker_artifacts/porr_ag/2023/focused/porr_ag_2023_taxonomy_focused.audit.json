@@ -1,0 +1,46 @@
+{
+  "company_slug": "porr_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\porr_ag\\2023\\porr_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\porr_ag\\2023\\focused\\porr_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        214,
+        216,
+        218
+      ],
+      "start_page": 213,
+      "end_page": 221,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "214": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "216": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "218": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

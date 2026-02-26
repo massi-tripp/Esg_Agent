@@ -1,0 +1,1904 @@
+{
+  "rows": [
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\1&1 AG.json",
+      "company_name": "1&1 AG",
+      "slug": "1_1_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\1_1_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Acciona, S.A..json",
+      "company_name": "Acciona, S.A.",
+      "slug": "acciona_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acciona_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Acea S.p.A..json",
+      "company_name": "Acea S.p.A.",
+      "slug": "acea_s_p_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acea_s_p_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Acerinox S.A..json",
+      "company_name": "Acerinox S.A.",
+      "slug": "acerinox_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acerinox_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Ackermans & van Haaren.json",
+      "company_name": "Ackermans & van Haaren",
+      "slug": "ackermans_van_haaren",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ackermans_van_haaren\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\ACS, Actividades de Construcción y Servicios, S.A..json",
+      "company_name": "ACS, Actividades de Construcción y Servicios, S.A.",
+      "slug": "acs_actividades_de_construcci_n_y_servicios_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acs_actividades_de_construcci_n_y_servicios_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Addiko Bank AG.json",
+      "company_name": "Addiko Bank AG",
+      "slug": "addiko_bank_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\addiko_bank_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\adidas AG.json",
+      "company_name": "adidas AG",
+      "slug": "adidas_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\adidas_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Aena S.M.E., S.A..json",
+      "company_name": "Aena S.M.E., S.A.",
+      "slug": "aena_s_m_e_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aena_s_m_e_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Agrana Beteiligungs-AG.json",
+      "company_name": "Agrana Beteiligungs-AG",
+      "slug": "agrana_beteiligungs_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\agrana_beteiligungs_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AIB Group plc.json",
+      "company_name": "AIB Group plc",
+      "slug": "aib_group_plc",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aib_group_plc\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AIXTRON SE.json",
+      "company_name": "AIXTRON SE",
+      "slug": "aixtron_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aixtron_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AKWEL.json",
+      "company_name": "AKWEL",
+      "slug": "akwel",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\akwel\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Allianz SE.json",
+      "company_name": "Allianz SE",
+      "slug": "allianz_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\allianz_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Alzchem Group AG.json",
+      "company_name": "Alzchem Group AG",
+      "slug": "alzchem_group_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\alzchem_group_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Amadeus Fire AG.json",
+      "company_name": "Amadeus Fire AG",
+      "slug": "amadeus_fire_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\amadeus_fire_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AMAG Austria Metall AG.json",
+      "company_name": "AMAG Austria Metall AG",
+      "slug": "amag_austria_metall_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\amag_austria_metall_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Andritz AG.json",
+      "company_name": "Andritz AG",
+      "slug": "andritz_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\andritz_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AT&S Austria Tech.&Systemtech..json",
+      "company_name": "AT&S Austria Tech.&Systemtech.",
+      "slug": "at_s_austria_tech_systemtech",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\at_s_austria_tech_systemtech\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\ATOSS Software SE.json",
+      "company_name": "ATOSS Software SE",
+      "slug": "atoss_software_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\atoss_software_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Audax Renovables, S.A..json",
+      "company_name": "Audax Renovables, S.A.",
+      "slug": "audax_renovables_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\audax_renovables_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Azkoyen, S.A..json",
+      "company_name": "Azkoyen, S.A.",
+      "slug": "azkoyen_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\azkoyen_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Banco Bilbao Vizcaya Argentaria, S.A..json",
+      "company_name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "slug": "banco_bilbao_vizcaya_argentaria_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\banco_bilbao_vizcaya_argentaria_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Banco Santander, S.A..json",
+      "company_name": "Banco Santander, S.A.",
+      "slug": "banco_santander_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\banco_santander_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\BAWAG Group AG.json",
+      "company_name": "BAWAG Group AG",
+      "slug": "bawag_group_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bawag_group_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Bayer AG.json",
+      "company_name": "Bayer AG",
+      "slug": "bayer_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bayer_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\BayWa AG.json",
+      "company_name": "BayWa AG",
+      "slug": "baywa_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\baywa_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Bechtle AG.json",
+      "company_name": "Bechtle AG",
+      "slug": "bechtle_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bechtle_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Beiersdorf AG.json",
+      "company_name": "Beiersdorf AG",
+      "slug": "beiersdorf_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\beiersdorf_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Bike24 Holding AG.json",
+      "company_name": "Bike24 Holding AG",
+      "slug": "bike24_holding_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bike24_holding_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Bilfinger SE.json",
+      "company_name": "Bilfinger SE",
+      "slug": "bilfinger_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bilfinger_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\BMW AG Vz.json",
+      "company_name": "BMW AG Vz",
+      "slug": "bmw_ag_vz",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bmw_ag_vz\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Brenntag SE.json",
+      "company_name": "Brenntag SE",
+      "slug": "brenntag_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\brenntag_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\CA Immobilien Anlagen AG.json",
+      "company_name": "CA Immobilien Anlagen AG",
+      "slug": "ca_immobilien_anlagen_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ca_immobilien_anlagen_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\CaixaBank, S.A..json",
+      "company_name": "CaixaBank, S.A.",
+      "slug": "caixabank_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\caixabank_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\CEWE Stiftung & Co. KGaA.json",
+      "company_name": "CEWE Stiftung & Co. KGaA",
+      "slug": "cewe_stiftung_co_kgaa",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\cewe_stiftung_co_kgaa\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\CIE Automotive, S.A..json",
+      "company_name": "CIE Automotive, S.A.",
+      "slug": "cie_automotive_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\cie_automotive_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Commerzbank AG.json",
+      "company_name": "Commerzbank AG",
+      "slug": "commerzbank_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\commerzbank_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Compagnie de l'Odet SE.json",
+      "company_name": "Compagnie de l'Odet SE",
+      "slug": "compagnie_de_l_odet_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\compagnie_de_l_odet_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Continental AG.json",
+      "company_name": "Continental AG",
+      "slug": "continental_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\continental_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Corporacion Financiera Alba, S.A..json",
+      "company_name": "Corporacion Financiera Alba, S.A.",
+      "slug": "corporacion_financiera_alba_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\corporacion_financiera_alba_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Covestro AG.json",
+      "company_name": "Covestro AG",
+      "slug": "covestro_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\covestro_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Daimler AG.json",
+      "company_name": "Daimler AG",
+      "slug": "daimler_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\daimler_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Daimler Truck Holding AG.json",
+      "company_name": "Daimler Truck Holding AG",
+      "slug": "daimler_truck_holding_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\daimler_truck_holding_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Dassault Aviation.json",
+      "company_name": "Dassault Aviation",
+      "slug": "dassault_aviation",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\dassault_aviation\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Delivery Hero SE.json",
+      "company_name": "Delivery Hero SE",
+      "slug": "delivery_hero_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\delivery_hero_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Bank AG.json",
+      "company_name": "Deutsche Bank AG",
+      "slug": "deutsche_bank_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_bank_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Börse AG.json",
+      "company_name": "Deutsche Börse AG",
+      "slug": "deutsche_b_rse_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_b_rse_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Lufthansa AG.json",
+      "company_name": "Deutsche Lufthansa AG",
+      "slug": "deutsche_lufthansa_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_lufthansa_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Pfandbriefbank AG.json",
+      "company_name": "Deutsche Pfandbriefbank AG",
+      "slug": "deutsche_pfandbriefbank_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_pfandbriefbank_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Post AG.json",
+      "company_name": "Deutsche Post AG",
+      "slug": "deutsche_post_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_post_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Telekom AG.json",
+      "company_name": "Deutsche Telekom AG",
+      "slug": "deutsche_telekom_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_telekom_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutz AG.json",
+      "company_name": "Deutz AG",
+      "slug": "deutz_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutz_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\DO & CO AG.json",
+      "company_name": "DO & CO AG",
+      "slug": "do_co_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\do_co_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\DWS Group GmbH & Co. KGaA.json",
+      "company_name": "DWS Group GmbH & Co. KGaA",
+      "slug": "dws_group_gmbh_co_kgaa",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\dws_group_gmbh_co_kgaa\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Dürr AG.json",
+      "company_name": "Dürr AG",
+      "slug": "d_rr_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\d_rr_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\E.ON SE.json",
+      "company_name": "E.ON SE",
+      "slug": "e_on_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\e_on_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Eckert & Ziegler SE.json",
+      "company_name": "Eckert & Ziegler SE",
+      "slug": "eckert_ziegler_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\eckert_ziegler_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\EDP Renováveis, S.A..json",
+      "company_name": "EDP Renováveis, S.A.",
+      "slug": "edp_renov_veis_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\edp_renov_veis_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Elmos Semiconductor SE.json",
+      "company_name": "Elmos Semiconductor SE",
+      "slug": "elmos_semiconductor_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\elmos_semiconductor_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\ElringKlinger AG.json",
+      "company_name": "ElringKlinger AG",
+      "slug": "elringklinger_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\elringklinger_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Enagás, S.A..json",
+      "company_name": "Enagás, S.A.",
+      "slug": "enag_s_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\enag_s_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\EnBW Energie Baden-Württemberg AG.json",
+      "company_name": "EnBW Energie Baden-Württemberg AG",
+      "slug": "enbw_energie_baden_w_rttemberg_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\enbw_energie_baden_w_rttemberg_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Endesa, S.A..json",
+      "company_name": "Endesa, S.A.",
+      "slug": "endesa_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\endesa_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Erste Group Bank AG.json",
+      "company_name": "Erste Group Bank AG",
+      "slug": "erste_group_bank_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\erste_group_bank_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\EVN AG.json",
+      "company_name": "EVN AG",
+      "slug": "evn_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\evn_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Evonik Industries AG.json",
+      "company_name": "Evonik Industries AG",
+      "slug": "evonik_industries_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\evonik_industries_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\FACC AG.json",
+      "company_name": "FACC AG",
+      "slug": "facc_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\facc_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\FamiCord AG.json",
+      "company_name": "FamiCord AG",
+      "slug": "famicord_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\famicord_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Flughafen Wien AG.json",
+      "company_name": "Flughafen Wien AG",
+      "slug": "flughafen_wien_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\flughafen_wien_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Fraport AG.json",
+      "company_name": "Fraport AG",
+      "slug": "fraport_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fraport_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\freenet AG.json",
+      "company_name": "freenet AG",
+      "slug": "freenet_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\freenet_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\FREQUENTIS AG.json",
+      "company_name": "FREQUENTIS AG",
+      "slug": "frequentis_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\frequentis_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Fresenius Medical Care AG.json",
+      "company_name": "Fresenius Medical Care AG",
+      "slug": "fresenius_medical_care_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fresenius_medical_care_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Fresenius SE & Co. KGaA.json",
+      "company_name": "Fresenius SE & Co. KGaA",
+      "slug": "fresenius_se_co_kgaa",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fresenius_se_co_kgaa\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Friedrich Vorwerk Group SE.json",
+      "company_name": "Friedrich Vorwerk Group SE",
+      "slug": "friedrich_vorwerk_group_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\friedrich_vorwerk_group_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\FUCHS SE.json",
+      "company_name": "FUCHS SE",
+      "slug": "fuchs_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fuchs_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\GEA Group Aktiengesellschaft.json",
+      "company_name": "GEA Group Aktiengesellschaft",
+      "slug": "gea_group_aktiengesellschaft",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\gea_group_aktiengesellschaft\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Gestamp Automoción, S.A..json",
+      "company_name": "Gestamp Automoción, S.A.",
+      "slug": "gestamp_automoci_n_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\gestamp_automoci_n_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Grammer Aktiengesellschaft.json",
+      "company_name": "Grammer Aktiengesellschaft",
+      "slug": "grammer_aktiengesellschaft",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\grammer_aktiengesellschaft\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\grenke AG.json",
+      "company_name": "grenke AG",
+      "slug": "grenke_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\grenke_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\HAMBORNER REIT AG NA O.N..json",
+      "company_name": "HAMBORNER REIT AG NA O.N.",
+      "slug": "hamborner_reit_ag_na_o_n",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hamborner_reit_ag_na_o_n\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Hamburger Hafen und Logistik AG.json",
+      "company_name": "Hamburger Hafen und Logistik AG",
+      "slug": "hamburger_hafen_und_logistik_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hamburger_hafen_und_logistik_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Hapag-Lloyd AG.json",
+      "company_name": "Hapag-Lloyd AG",
+      "slug": "hapag_lloyd_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hapag_lloyd_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Hawesko Holding SE.json",
+      "company_name": "Hawesko Holding SE",
+      "slug": "hawesko_holding_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hawesko_holding_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Heidelberg Materials AG.json",
+      "company_name": "Heidelberg Materials AG",
+      "slug": "heidelberg_materials_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\heidelberg_materials_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\HELLA GmbH & Co. KGaA.json",
+      "company_name": "HELLA GmbH & Co. KGaA",
+      "slug": "hella_gmbh_co_kgaa",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hella_gmbh_co_kgaa\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\HOCHTIEF AG.json",
+      "company_name": "HOCHTIEF AG",
+      "slug": "hochtief_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hochtief_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Hugo Boss AG.json",
+      "company_name": "Hugo Boss AG",
+      "slug": "hugo_boss_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hugo_boss_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Immofinanz AG.json",
+      "company_name": "Immofinanz AG",
+      "slug": "immofinanz_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\immofinanz_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Indus Holding AG.json",
+      "company_name": "Indus Holding AG",
+      "slug": "indus_holding_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\indus_holding_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Industria de Diseño Textil, S.A..json",
+      "company_name": "Industria de Diseño Textil, S.A.",
+      "slug": "industria_de_dise_o_textil_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\industria_de_dise_o_textil_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Instone Real Estate Group.json",
+      "company_name": "Instone Real Estate Group",
+      "slug": "instone_real_estate_group",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\instone_real_estate_group\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\IONOS Group SE.json",
+      "company_name": "IONOS Group SE",
+      "slug": "ionos_group_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ionos_group_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\IVU Traffic Technologies AG.json",
+      "company_name": "IVU Traffic Technologies AG",
+      "slug": "ivu_traffic_technologies_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ivu_traffic_technologies_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Jenoptik AG.json",
+      "company_name": "Jenoptik AG",
+      "slug": "jenoptik_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\jenoptik_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Jungheinrich AG.json",
+      "company_name": "Jungheinrich AG",
+      "slug": "jungheinrich_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\jungheinrich_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\K+S Aktiengesellschaft.json",
+      "company_name": "K+S Aktiengesellschaft",
+      "slug": "k_s_aktiengesellschaft",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\k_s_aktiengesellschaft\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Kapsch TrafficCom AG.json",
+      "company_name": "Kapsch TrafficCom AG",
+      "slug": "kapsch_trafficcom_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\kapsch_trafficcom_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\KION GROUP AG.json",
+      "company_name": "KION GROUP AG",
+      "slug": "kion_group_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\kion_group_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Klöckner & Co SE.json",
+      "company_name": "Klöckner & Co SE",
+      "slug": "kl_ckner_co_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\kl_ckner_co_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Knorr-Bremse AG.json",
+      "company_name": "Knorr-Bremse AG",
+      "slug": "knorr_bremse_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\knorr_bremse_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Koenig & Bauer AG.json",
+      "company_name": "Koenig & Bauer AG",
+      "slug": "koenig_bauer_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\koenig_bauer_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Krones AG.json",
+      "company_name": "Krones AG",
+      "slug": "krones_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\krones_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\KSB SE & Co. KGaA Vz.json",
+      "company_name": "KSB SE & Co. KGaA Vz",
+      "slug": "ksb_se_co_kgaa_vz",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ksb_se_co_kgaa_vz\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\LACROIX Group.json",
+      "company_name": "LACROIX Group",
+      "slug": "lacroix_group",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\lacroix_group\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\LANXESS AG.json",
+      "company_name": "LANXESS AG",
+      "slug": "lanxess_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\lanxess_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\LEG Immobilien SE.json",
+      "company_name": "LEG Immobilien SE",
+      "slug": "leg_immobilien_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\leg_immobilien_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Lenzing AG.json",
+      "company_name": "Lenzing AG",
+      "slug": "lenzing_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\lenzing_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Manz AG.json",
+      "company_name": "Manz AG",
+      "slug": "manz_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\manz_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\MAX AUTOMATION SE NA O.N..json",
+      "company_name": "MAX AUTOMATION SE NA O.N.",
+      "slug": "max_automation_se_na_o_n",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\max_automation_se_na_o_n\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Mayr-Melnhof Karton AG.json",
+      "company_name": "Mayr-Melnhof Karton AG",
+      "slug": "mayr_melnhof_karton_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mayr_melnhof_karton_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\MBB SE.json",
+      "company_name": "MBB SE",
+      "slug": "mbb_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mbb_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\MediClin AG.json",
+      "company_name": "MediClin AG",
+      "slug": "mediclin_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mediclin_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Medios AG.json",
+      "company_name": "Medios AG",
+      "slug": "medios_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\medios_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Melia Hotels International, S.A..json",
+      "company_name": "Melia Hotels International, S.A.",
+      "slug": "melia_hotels_international_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\melia_hotels_international_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Minor Hotels Europe & Americas, S.A..json",
+      "company_name": "Minor Hotels Europe & Americas, S.A.",
+      "slug": "minor_hotels_europe_americas_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\minor_hotels_europe_americas_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Mister Spex SE.json",
+      "company_name": "Mister Spex SE",
+      "slug": "mister_spex_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mister_spex_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\MLP SE.json",
+      "company_name": "MLP SE",
+      "slug": "mlp_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mlp_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\MTU Aero Engines AG.json",
+      "company_name": "MTU Aero Engines AG",
+      "slug": "mtu_aero_engines_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mtu_aero_engines_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Nemetschek SE.json",
+      "company_name": "Nemetschek SE",
+      "slug": "nemetschek_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\nemetschek_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\NORMA Group SE.json",
+      "company_name": "NORMA Group SE",
+      "slug": "norma_group_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\norma_group_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Oesterreichische Post AG.json",
+      "company_name": "Oesterreichische Post AG",
+      "slug": "oesterreichische_post_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\oesterreichische_post_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\OMV AG.json",
+      "company_name": "OMV AG",
+      "slug": "omv_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\omv_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Palfinger AG.json",
+      "company_name": "Palfinger AG",
+      "slug": "palfinger_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\palfinger_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\PATRIZIA SE.json",
+      "company_name": "PATRIZIA SE",
+      "slug": "patrizia_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\patrizia_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\PIERER Mobility AG.json",
+      "company_name": "PIERER Mobility AG",
+      "slug": "pierer_mobility_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\pierer_mobility_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\PNE AG.json",
+      "company_name": "PNE AG",
+      "slug": "pne_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\pne_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\POLYTEC Holding AG.json",
+      "company_name": "POLYTEC Holding AG",
+      "slug": "polytec_holding_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\polytec_holding_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\PORR AG.json",
+      "company_name": "PORR AG",
+      "slug": "porr_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\porr_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Porsche AG Vz.json",
+      "company_name": "Porsche AG Vz",
+      "slug": "porsche_ag_vz",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\porsche_ag_vz\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Prosegur Cash, S.A..json",
+      "company_name": "Prosegur Cash, S.A.",
+      "slug": "prosegur_cash_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\prosegur_cash_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\ProSiebenSat.1 Media SE.json",
+      "company_name": "ProSiebenSat.1 Media SE",
+      "slug": "prosiebensat_1_media_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\prosiebensat_1_media_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\PSI Software SE.json",
+      "company_name": "PSI Software SE",
+      "slug": "psi_software_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\psi_software_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\PVA TePla AG.json",
+      "company_name": "PVA TePla AG",
+      "slug": "pva_tepla_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\pva_tepla_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\q.beyond AG.json",
+      "company_name": "q.beyond AG",
+      "slug": "q_beyond_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\q_beyond_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\R. Stahl AG.json",
+      "company_name": "R. Stahl AG",
+      "slug": "r_stahl_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\r_stahl_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Raiffeisen Bank International.json",
+      "company_name": "Raiffeisen Bank International",
+      "slug": "raiffeisen_bank_international",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\raiffeisen_bank_international\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Renta 4 Banco, S.A..json",
+      "company_name": "Renta 4 Banco, S.A.",
+      "slug": "renta_4_banco_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\renta_4_banco_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Rheinmetall AG.json",
+      "company_name": "Rheinmetall AG",
+      "slug": "rheinmetall_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rheinmetall_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\RHI Magnesita N.V..json",
+      "company_name": "RHI Magnesita N.V.",
+      "slug": "rhi_magnesita_n_v",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rhi_magnesita_n_v\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\RHÖN-KLINIKUM AG.json",
+      "company_name": "RHÖN-KLINIKUM AG",
+      "slug": "rh_n_klinikum_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rh_n_klinikum_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\RINGMETALL SE  NA O.N..json",
+      "company_name": "RINGMETALL SE  NA O.N.",
+      "slug": "ringmetall_se_na_o_n",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ringmetall_se_na_o_n\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Rosenbauer International AG.json",
+      "company_name": "Rosenbauer International AG",
+      "slug": "rosenbauer_international_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rosenbauer_international_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\RWE AG St.json",
+      "company_name": "RWE AG St",
+      "slug": "rwe_ag_st",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rwe_ag_st\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\S IMMO AG.json",
+      "company_name": "S IMMO AG",
+      "slug": "s_immo_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\s_immo_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Salzgitter AG.json",
+      "company_name": "Salzgitter AG",
+      "slug": "salzgitter_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\salzgitter_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\SAP SE.json",
+      "company_name": "SAP SE",
+      "slug": "sap_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sap_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Sartorius AG St.json",
+      "company_name": "Sartorius AG St",
+      "slug": "sartorius_ag_st",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sartorius_ag_st\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Sartorius AG Vz.json",
+      "company_name": "Sartorius AG Vz",
+      "slug": "sartorius_ag_vz",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sartorius_ag_vz\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Savencia.json",
+      "company_name": "Savencia",
+      "slug": "savencia",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\savencia\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\SCHOELLER-BLECKMANN AG.json",
+      "company_name": "SCHOELLER-BLECKMANN AG",
+      "slug": "schoeller_bleckmann_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\schoeller_bleckmann_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Scout24 SE.json",
+      "company_name": "Scout24 SE",
+      "slug": "scout24_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\scout24_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\secunet Security Networks AG.json",
+      "company_name": "secunet Security Networks AG",
+      "slug": "secunet_security_networks_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\secunet_security_networks_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Semperit AG Holding.json",
+      "company_name": "Semperit AG Holding",
+      "slug": "semperit_ag_holding",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\semperit_ag_holding\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\SGL Carbon SE.json",
+      "company_name": "SGL Carbon SE",
+      "slug": "sgl_carbon_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sgl_carbon_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Siltronic AG.json",
+      "company_name": "Siltronic AG",
+      "slug": "siltronic_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\siltronic_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\SMA Solar Technology AG.json",
+      "company_name": "SMA Solar Technology AG",
+      "slug": "sma_solar_technology_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sma_solar_technology_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\STRABAG SE.json",
+      "company_name": "STRABAG SE",
+      "slug": "strabag_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\strabag_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\STRATEC SE.json",
+      "company_name": "STRATEC SE",
+      "slug": "stratec_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\stratec_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\SUSS MicroTec SE.json",
+      "company_name": "SUSS MicroTec SE",
+      "slug": "suss_microtec_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\suss_microtec_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Symrise AG.json",
+      "company_name": "Symrise AG",
+      "slug": "symrise_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\symrise_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Syzygy AG.json",
+      "company_name": "Syzygy AG",
+      "slug": "syzygy_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\syzygy_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\TAG Immobilien AG.json",
+      "company_name": "TAG Immobilien AG",
+      "slug": "tag_immobilien_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\tag_immobilien_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\TAKKT AG.json",
+      "company_name": "TAKKT AG",
+      "slug": "takkt_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\takkt_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Talanx Aktiengesellschaft.json",
+      "company_name": "Talanx Aktiengesellschaft",
+      "slug": "talanx_aktiengesellschaft",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\talanx_aktiengesellschaft\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\TeamViewer SE.json",
+      "company_name": "TeamViewer SE",
+      "slug": "teamviewer_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\teamviewer_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\technotrans SE.json",
+      "company_name": "technotrans SE",
+      "slug": "technotrans_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\technotrans_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Telekom Austria AG.json",
+      "company_name": "Telekom Austria AG",
+      "slug": "telekom_austria_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\telekom_austria_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Tubacex, S.A..json",
+      "company_name": "Tubacex, S.A.",
+      "slug": "tubacex_s_a",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\tubacex_s_a\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Tubos Reunidos.json",
+      "company_name": "Tubos Reunidos",
+      "slug": "tubos_reunidos",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\tubos_reunidos\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\UBM Development AG.json",
+      "company_name": "UBM Development AG",
+      "slug": "ubm_development_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ubm_development_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\UNIQA Insurance Group AG.json",
+      "company_name": "UNIQA Insurance Group AG",
+      "slug": "uniqa_insurance_group_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\uniqa_insurance_group_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\United Internet AG.json",
+      "company_name": "United Internet AG",
+      "slug": "united_internet_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\united_internet_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\VERBUND AG.json",
+      "company_name": "VERBUND AG",
+      "slug": "verbund_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\verbund_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\VIENNA INSURANCE GROUP AG.json",
+      "company_name": "VIENNA INSURANCE GROUP AG",
+      "slug": "vienna_insurance_group_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\vienna_insurance_group_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Virbac.json",
+      "company_name": "Virbac",
+      "slug": "virbac",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\virbac\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Viscom SE.json",
+      "company_name": "Viscom SE",
+      "slug": "viscom_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\viscom_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\voestalpine AG.json",
+      "company_name": "voestalpine AG",
+      "slug": "voestalpine_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\voestalpine_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Volkswagen AG St.json",
+      "company_name": "Volkswagen AG St",
+      "slug": "volkswagen_ag_st",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\volkswagen_ag_st\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Volkswagen AG Vz.json",
+      "company_name": "Volkswagen AG Vz",
+      "slug": "volkswagen_ag_vz",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\volkswagen_ag_vz\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Vonovia SE.json",
+      "company_name": "Vonovia SE",
+      "slug": "vonovia_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\vonovia_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Vossloh AG.json",
+      "company_name": "Vossloh AG",
+      "slug": "vossloh_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\vossloh_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Warimpex Finanz- und Bet. AG.json",
+      "company_name": "Warimpex Finanz- und Bet. AG",
+      "slug": "warimpex_finanz_und_bet_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\warimpex_finanz_und_bet_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\WashTec AG.json",
+      "company_name": "WashTec AG",
+      "slug": "washtec_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\washtec_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Westwing Group SE.json",
+      "company_name": "Westwing Group SE",
+      "slug": "westwing_group_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\westwing_group_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Wienerberger AG.json",
+      "company_name": "Wienerberger AG",
+      "slug": "wienerberger_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\wienerberger_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Wüstenrot & Württembergische AG.json",
+      "company_name": "Wüstenrot & Württembergische AG",
+      "slug": "w_stenrot_w_rttembergische_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\w_stenrot_w_rttembergische_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Zalando SE.json",
+      "company_name": "Zalando SE",
+      "slug": "zalando_se",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\zalando_se\\2023",
+      "md_written": true,
+      "json_written": true
+    },
+    {
+      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Zumtobel Group AG.json",
+      "company_name": "Zumtobel Group AG",
+      "slug": "zumtobel_group_ag",
+      "year": "2023",
+      "status": "ok",
+      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\zumtobel_group_ag\\2023",
+      "md_written": true,
+      "json_written": true
+    }
+  ]
+}

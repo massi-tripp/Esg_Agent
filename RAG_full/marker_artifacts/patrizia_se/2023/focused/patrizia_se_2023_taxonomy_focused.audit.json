@@ -1,0 +1,51 @@
+{
+  "company_slug": "patrizia_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\patrizia_se\\2023\\patrizia_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\patrizia_se\\2023\\focused\\patrizia_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        41,
+        42,
+        43,
+        44,
+        46,
+        47,
+        49,
+        50
+      ],
+      "start_page": 40,
+      "end_page": 53,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "41": 3,
+              "42": 4,
+              "43": 3,
+              "44": 3,
+              "46": 5,
+              "47": 4,
+              "49": 5,
+              "50": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

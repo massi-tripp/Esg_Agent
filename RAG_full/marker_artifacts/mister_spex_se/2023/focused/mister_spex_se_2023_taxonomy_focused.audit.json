@@ -1,0 +1,45 @@
+{
+  "company_slug": "mister_spex_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mister_spex_se\\2023\\mister_spex_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mister_spex_se\\2023\\focused\\mister_spex_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "start_page": 27,
+      "end_page": 35,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "28": 3,
+              "29": 5,
+              "30": 6,
+              "31": 3,
+              "32": 5
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

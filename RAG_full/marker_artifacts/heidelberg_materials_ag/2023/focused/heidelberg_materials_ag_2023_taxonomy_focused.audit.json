@@ -1,0 +1,46 @@
+{
+  "company_slug": "heidelberg_materials_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\heidelberg_materials_ag\\2023\\heidelberg_materials_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\heidelberg_materials_ag\\2023\\focused\\heidelberg_materials_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        130,
+        131,
+        132
+      ],
+      "start_page": 129,
+      "end_page": 135,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "130": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "131": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "132": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "company_slug": "bayer_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bayer_ag\\2023\\bayer_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bayer_ag\\2023\\focused\\bayer_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        67,
+        68,
+        70,
+        73,
+        74
+      ],
+      "start_page": 66,
+      "end_page": 77,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "67": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "68": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "70": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "73": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "74": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

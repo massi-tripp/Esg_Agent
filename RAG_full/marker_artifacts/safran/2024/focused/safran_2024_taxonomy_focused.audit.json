@@ -1,0 +1,54 @@
+{
+  "company_slug": "safran",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\safran\\2024\\safran_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\safran\\2024\\focused\\safran_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        385,
+        386,
+        387,
+        388
+      ],
+      "start_page": 384,
+      "end_page": 391,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "385": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "386": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "387": [
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "388": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

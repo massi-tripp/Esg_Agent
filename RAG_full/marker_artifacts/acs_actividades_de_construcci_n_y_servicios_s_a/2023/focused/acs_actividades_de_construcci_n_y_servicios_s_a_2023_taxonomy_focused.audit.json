@@ -1,0 +1,72 @@
+{
+  "company_slug": "acs_actividades_de_construcci_n_y_servicios_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acs_actividades_de_construcci_n_y_servicios_s_a\\2023\\acs_actividades_de_construcci_n_y_servicios_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\acs_actividades_de_construcci_n_y_servicios_s_a\\2023\\focused\\acs_actividades_de_construcci_n_y_servicios_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        382,
+        384,
+        385,
+        388,
+        389,
+        391,
+        392,
+        393
+      ],
+      "start_page": 381,
+      "end_page": 396,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "382": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "384": [
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "385": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "388": [
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "389": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "391": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "392": [
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "393": [
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

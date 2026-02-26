@@ -1,0 +1,79 @@
+{
+  "company_slug": "iss_a_s",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\iss_a_s\\2024\\iss_a_s_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\iss_a_s\\2024\\focused\\iss_a_s_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        52
+      ],
+      "start_page": 51,
+      "end_page": 55,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "52": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        82
+      ],
+      "start_page": 81,
+      "end_page": 85,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "82": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        90,
+        91,
+        93,
+        94
+      ],
+      "start_page": 89,
+      "end_page": 97,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "90": 6,
+              "91": 5,
+              "93": 3,
+              "94": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

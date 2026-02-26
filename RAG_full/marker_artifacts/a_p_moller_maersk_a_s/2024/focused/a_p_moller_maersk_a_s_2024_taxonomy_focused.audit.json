@@ -1,0 +1,52 @@
+{
+  "company_slug": "a_p_moller_maersk_a_s",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\a_p_moller_maersk_a_s\\2024\\a_p_moller_maersk_a_s_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\a_p_moller_maersk_a_s\\2024\\focused\\a_p_moller_maersk_a_s_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        96,
+        97,
+        98
+      ],
+      "start_page": 95,
+      "end_page": 101,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "96": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "97": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "98": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

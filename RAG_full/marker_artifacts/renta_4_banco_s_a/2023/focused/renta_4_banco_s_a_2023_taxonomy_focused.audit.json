@@ -1,0 +1,53 @@
+{
+  "company_slug": "renta_4_banco_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\renta_4_banco_s_a\\2023\\renta_4_banco_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\renta_4_banco_s_a\\2023\\focused\\renta_4_banco_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        179,
+        181,
+        183,
+        185,
+        187,
+        188,
+        189,
+        191,
+        192
+      ],
+      "start_page": 178,
+      "end_page": 195,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "179": 3,
+              "181": 4,
+              "183": 4,
+              "185": 3,
+              "187": 5,
+              "188": 4,
+              "189": 5,
+              "191": 4,
+              "192": 5
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

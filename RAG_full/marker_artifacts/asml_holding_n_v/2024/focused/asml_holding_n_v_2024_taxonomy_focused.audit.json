@@ -1,0 +1,46 @@
+{
+  "company_slug": "asml_holding_n_v",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\asml_holding_n_v\\2024\\asml_holding_n_v_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\asml_holding_n_v\\2024\\focused\\asml_holding_n_v_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        254,
+        256,
+        257
+      ],
+      "start_page": 253,
+      "end_page": 260,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "254": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "256": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "257": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

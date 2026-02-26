@@ -1,0 +1,46 @@
+{
+  "company_slug": "fresenius_se_co_kgaa",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fresenius_se_co_kgaa\\2023\\fresenius_se_co_kgaa_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fresenius_se_co_kgaa\\2023\\focused\\fresenius_se_co_kgaa_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        194,
+        195,
+        196
+      ],
+      "start_page": 193,
+      "end_page": 199,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "194": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "195": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "196": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

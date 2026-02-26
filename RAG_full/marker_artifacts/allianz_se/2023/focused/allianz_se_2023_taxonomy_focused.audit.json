@@ -1,0 +1,55 @@
+{
+  "company_slug": "allianz_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\allianz_se\\2023\\allianz_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\allianz_se\\2023\\focused\\allianz_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        97,
+        98,
+        99,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "start_page": 96,
+      "end_page": 110,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "97": 4,
+              "98": 4,
+              "99": 3,
+              "101": 5,
+              "102": 3,
+              "103": 3,
+              "104": 3,
+              "105": 4,
+              "106": 5,
+              "107": 5
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

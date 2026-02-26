@@ -1,0 +1,46 @@
+{
+  "company_slug": "sgl_carbon_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sgl_carbon_se\\2023\\sgl_carbon_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\sgl_carbon_se\\2023\\focused\\sgl_carbon_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        33,
+        34,
+        35
+      ],
+      "start_page": 32,
+      "end_page": 38,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "33": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "34": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "35": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

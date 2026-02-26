@@ -1,0 +1,236 @@
+## Page 28
+
+Image /page/27/Picture/0 description: The image shows a white line drawing of a tree, a factory, a cloud, and some water inside of a circle. The drawing is on a gray background. The tree is on the left side of the circle, and the factory is on the right side. The cloud is above the factory, and the water is below the tree and factory.
+
+Image /page/27/Picture/1 description: The image is a line drawing inside of a circle. The drawing depicts a tree, a factory, a cloud, and some dots in the ground. The tree is on the left side of the factory. The cloud is above the factory. The dots are below the factory.
+
+CORPORATE RESPONSIBILITY REPORT 2023/24 Water, Air, Soil117 & Biodiversity
+
+## Page 29
+
+#### 13.8.6.1 Taxonomy-Eligible/Taxonomy-Compliant Revenue
+
+Pursuant to the EU Taxonomy Regulation, revenue as per IAS 1.82(a) must be used to determine the taxonomy-eligible revenue. The revenue figures equate to the revenue shown in the Consolidated Income Statement of the Annual Report 2023/24 and thus are used as the denominator in the following table to determine taxonomy eligibility. The numerator comprises revenue from contracts with customers for the purposes of IFRS 15 that were generated with economic activities covered by the EU Taxonomy Regulation. The current review for compliance in the 2023/24 business year resulted
+
+#### Substantial Contribution Criteria DNSH criteria
+
+activity
+
+| In millions of euros                                                                                                  |                        |          | Proportion of revenue | Climate Change<br>Mitigation | Climate Change<br>Adaptation | Water | Pollution | Circular Economy | Biodiversity |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|----------|-----------------------|------------------------------|------------------------------|-------|-----------|------------------|--------------|
+| Economic activities                                                                                                   | Code                   | Revenue  | 2023/24               |                              |                              |       |           |                  |              |
+| A. Taxonomy-eligible activities                                                                                       |                        |          |                       |                              |                              |       |           |                  |              |
+| A.1 Environmentally sustainable activities (taxonomy-aligned)                                                         |                        |          |                       |                              |                              |       |           |                  |              |
+| Manufacture of iron and steel                                                                                         | CCM 3.9                | 2,688.1  | 16.1%                 | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Freight rail transport                                                                                                | CCM 6.2                | 19.6     | 0.1%                  | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Infrastructure for rail transport                                                                                     | CCM 6.14               | 1,722.0  | 10.4%                 | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Revenue from environmentally sustainable<br>activities (taxonomy-compliant)                                           |                        | 4,429.7  | 26.6%                 | 26.6%                        | 0.0%                         | 0.0%  | 0.0%      | 0.0%             | 0.0%         |
+| Of which Enabling                                                                                                     |                        |          |                       | 10.4%                        | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Of which Transitional                                                                                                 |                        |          | 16.1%                 |                              |                              |       |           |                  |              |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities<br>(not taxonomy-aligned activities)             |                        |          |                       |                              |                              |       |           |                  |              |
+| Manufacture of iron and steel                                                                                         | CCM 3.9/<br>CCA 3.9    | 5,356.7  | 32.1%                 | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Manufacture of automotive and mobility<br>components                                                                  | CCM 3.18               | 1,777.4  | 10.6%                 | EL                           | N/EL                         | N/EL  | N/EL      | N/EL             | N/EL         |
+| Freight rail transport                                                                                                | CCM 6.2/<br>CCA 6.2    | 2.2      | 0.0%                  | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Infrastructure for rail transport                                                                                     | CCM 6.14/<br>CCA 6,142 | 273.5    | 1.7%                  | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Revenue from taxonomy-eligible but not<br>environmentally sustainable activities<br>(not taxonomy-aligned activities) |                        | 7,409.8  | 44.4%                 | 44.4%                        | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| A. Revenue of taxonomy-eligible activities (A.1+A.2)                                                                  |                        | 11,839.5 | 71.0%                 | 71.0%                        | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| B. Taxonomy non-eligible activities                                                                                   |                        |          |                       |                              |                              |       |           |                  |              |
+| Revenue of taxonomy<br>non-eligible activities                                                                        |                        | 4,844.8  | 29.0%                 |                              |                              |       |           |                  |              |
+| Total                                                                                                                 |                        | 16,684.3 | 100.0%                |                              |                              |       |           |                  |              |
+
+## Page 30
+
+in 26.6% taxonomy-compliant revenue, which is mainly attributable to revenue from the "Rail infrastructure" 6.14 segment and the economic activity 3.9 "Manufacture of iron and steel" using electric arc processes. voestalpine's taxonomy-compliant revenue amounted to EUR 4,429.7 million. For the
+
+**B. Taxonomy non-eligible activities**
+
+Revenue of taxonomy
+
+non-eligible activities 4,844.8 29.0% Total 16,684.3 100.0% economic activity 3.18 "Manufacture of automotive and mobility components", taxonomy-eligible revenue of EUR 1,777.4 million was calculated for the first time in the current business year. This leads to the following classification for the voestalpine Group:
+
+| Climate Change<br>Mitigation | Climate Change<br>Adaptation | Water | Pollution | Circular Economy | Biodiversity | Minimum Safeguards | Proportion of<br>taxonomy-aligned (A.1.)<br>or eligible (A.2.)<br>revenue 2022/231 | Category enabling<br>activity | Category transitional<br>activity |
+|------------------------------|------------------------------|-------|-----------|------------------|--------------|--------------------|------------------------------------------------------------------------------------|-------------------------------|-----------------------------------|
+| J                            | J                            | J     | J         | J                | J            | J                  | 17.8%                                                                              |                               | T                                 |
+| J                            | J                            | J     | J         | J                | J            | J                  | 0.1%                                                                               |                               |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 6.5%                                                                               | E                             |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 24.4%                                                                              |                               |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 6.5%                                                                               | E                             |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 17.8%                                                                              |                               | T                                 |
+|                              |                              |       |           |                  |              |                    | 34.6%                                                                              |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 0.0%                                                                               |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 0.2%                                                                               |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 34.8%                                                                              |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 59.2%                                                                              |                               |                                   |
+
+Image /page/29/Figure/3 description: The image contains the text "TAXONOMY ELIGIBILITY BY ECONOMIC ACTIVITY" in a bold, sans-serif font. The text is centered horizontally.
+
+Image /page/29/Figure/4 description: This image is a donut chart showing the eligibility status of different categories. The largest segment, representing 48.2%, is labeled "3.9. eligible". The next largest segment, representing 29.0%, is labeled "non-eligible". The segment labeled "6.14. eligible" represents 12.1%, while the segment labeled "3.18. eligible" represents 10.6%. The smallest segment, representing 0.1%, is labeled "6.2. eligible".
+
+#### TAXONOMY COMPLIANCE BY ECONOMIC ACTIVITY
+
+Image /page/29/Figure/6 description: The image is a pie chart showing the percentages of different categories. The categories and their corresponding percentages are as follows: 3.9 aligned (16.1%), 6.14 aligned (10.4%), 3.18 not evulated (10.6%), 3.9 non-aligned (32.1%), 6.14 non-aligned (1.7%), 6.2 aligned (0.1%), and non-eligible (29.0%).
+
+**1** Figures from previous years were adjusted retrospectively due to a site-related specification of the economic activity 3.9.
+
+**2** Due to the limited availability of auditors, the verification of the DNSH assessment for Annex B and C in North America could not yet be finalized for
+
+one company as of the reporting date. For this reason, these revenues were not classified as taxonomy-compliant in the current business year.
+
+**3** For the economic activity 3.18, only the taxonomy eligibility had to be reported in the reporting period. Taxonomy compliance will be ascertained in the 2024/25 business year.
+
+## Page 31
+
+#### 13.8.6.2 Taxonomy-Eligible/Compliant Capital Expenditure (CapEx)
+
+Additions to assets—including additions from business combinations to property, plant and equipment; intangible assets; and right-of-use assets under leases—were utilized as the basis for determining the taxonomy-eligible CapEx. Investments via joint ventures, investments in financial instruments as well as additions to goodwill were not considered. Due to the clarification of FAQ 2023/305 point 31, which stipulates that capital expenditure should only be recognized when it is recognized in accordance with the relevant accounting standards, the additions to advance payments made were excluded from the additions to the CapEx KPI. When the underlying property,
+
+#### Substantial Contribution Criteria DNSH criteria
+
+activity
+
+| In millions of euros                                                                                                | Code                   | CapEx   | Proportion of CapEx<br>2023/24 | Climate Change<br>Mitigation | Climate Change<br>Adaptation | Water | Pollution | Circular Economy | Biodiversity |
+|---------------------------------------------------------------------------------------------------------------------|------------------------|---------|--------------------------------|------------------------------|------------------------------|-------|-----------|------------------|--------------|
+| Economic activities                                                                                                 |                        |         |                                |                              |                              |       |           |                  |              |
+| A. Taxonomy-eligible activities                                                                                     |                        |         |                                |                              |                              |       |           |                  |              |
+| A.1 Environmentally sustainable activities (taxonomy-aligned)                                                       |                        |         |                                |                              |                              |       |           |                  |              |
+| Manufacture of iron and steel                                                                                       | CCM 3.9                | 172.0   | 15.5%                          | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Freight rail transport                                                                                              | CCM 6.2                | 3.7     | 0.3%                           | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Infrastructure for rail transport                                                                                   | CCM 6.14               | 83.1    | 7.5%                           | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| CapEx from environmentally sustainable<br>activities (taxonomy compliant)                                           |                        | 258.8   | 23.3%                          | 23.3%                        | 0.0%                         | 0.0%  | 0.0%      | 0.0%             | 0.0%         |
+| Of which Enabling                                                                                                   |                        |         |                                | 7.5%                         | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Of which Transitional                                                                                               |                        |         | 15.5%                          |                              |                              |       |           |                  |              |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities<br>(not taxonomy-aligned activities)           |                        |         |                                |                              |                              |       |           |                  |              |
+| Manufacture of iron and steel                                                                                       | CCM 3.9/<br>CCA 3.9    | 5,356.7 | 32.1%                          | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Manufacture of automotive and mobility<br>components                                                                | CCM 3.18               | 1,777.4 | 10.6%                          | EL                           | N/EL                         | N/EL  | N/EL      | N/EL             | N/EL         |
+| Freight rail transport                                                                                              | CCM 6.2/<br>CCA 6.2    | 2.2     | 0.0%                           | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Infrastructure for rail transport                                                                                   | CCM 6.14/<br>CCA 6,142 | 273.5   | 1.7%                           | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| CapEx from taxonomy eligible but<br>not environmentally sustainable activities<br>(not taxonomy-aligned activities) |                        | 608.4   | 54.6%                          | 54.6%                        | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| A. CapEx of taxonomy-eligible activities (A.1+A.2)                                                                  |                        | 867.2   | 77.9%                          | 77.9%                        | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| B. Taxonomy non-eligible activities                                                                                 |                        |         |                                |                              |                              |       |           |                  |              |
+| CapEx of taxonomy<br>non-eligible activities                                                                        |                        | 245.6   | 22.1%                          |                              |                              |       |           |                  |              |
+| Total                                                                                                               |                        | 1,112.8 | 100.0%                         |                              |                              |       |           |                  |              |
+
+*The taxonomy-compliant eligible CapEx of EUR 258.8 million is made up of additions to property, plant and equipment and intangible assets of EUR 252.8 million and the change in advance payments of EUR EUR 6.0 million. There are no additions to property, plant and equipment and intangible assets from business combinations. The*  *total CapEx of EUR 1,112.8 million is made up of additions to property, plant and equipment and intangible assets of EUR 1,208.9 million, additions to property, plant and equipment and intangible assets from business combinations of EUR 20.7 million and the change in advance payments of EUR -116.8 million.*
+
+## Page 32
+
+plant and equipment/intangible assets are capitalized, the advance payments made on the respective asset are reclassified and also allocated to the additions to the CapEx KPI. The change in approach may result in a shift between the business years. The difference between the capital expenditure used here in the denominator and the data published in the "Operating segments" section of the 2023/24 Annual Report relates to goodwill
+
+**B. Taxonomy non-eligible activities**
+
+CapEx of taxonomy
+
+non-eligible activities 245.6 22.1%
+
+additions and the above-mentioned change in advance payments made. The numerator includes capital expenditure generated by economic activities covered by the EU Taxonomy Regulation. In the area of investment expenditure, the taxonomy-compliant share is 23.3% (EUR 258.8 million). This leads to the following classification for the voestalpine Group:
+
+| Climate Change<br>Mitigation | Climate Change<br>Adaptation | Water | Pollution | Circular Economy | Biodiversity | Minimum Safeguards | Proportion of<br>taxonomy-aligned (A.1.)<br>or eligible (A.2.)<br>CapEx 2022/231 | Category enabling<br>activity | Category transitional<br>activity |
+|------------------------------|------------------------------|-------|-----------|------------------|--------------|--------------------|----------------------------------------------------------------------------------|-------------------------------|-----------------------------------|
+| J                            | J                            | J     | J         | J                | J            | J                  | 16.8%                                                                            |                               | T                                 |
+| J                            | J                            | J     | J         | J                | J            | J                  | 0.1%                                                                             |                               |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 7.3%                                                                             | E                             |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 24.2%                                                                            |                               |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 7.3%                                                                             | E                             |                                   |
+| J                            | J                            | J     | J         | J                | J            | J                  | 16.8%                                                                            |                               | T                                 |
+|                              |                              |       |           |                  |              |                    | 38.8%                                                                            |                               |                                   |
+|                              |                              |       |           |                  |              |                    |                                                                                  |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 0.0%                                                                             |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 0.1%                                                                             |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 38.9%                                                                            |                               |                                   |
+|                              |                              |       |           |                  |              |                    | 63.1%                                                                            |                               |                                   |
+
+Image /page/31/Figure/4 description: This image is a donut chart showing the eligibility status of different categories. "3.9. eligible" is 61.9%, "non-eligible" is 22.1%, "3.18. eligible" is 7.1%, "6.14. eligible" is 8.6%, and "6.2. eligible" is 0.3%.
+
+#### TAXONOMY ELIGIBILITY BY ECONOMIC ACTIVITY TAXONOMY COMPLIANCE BY ECONOMIC ACTIVITY
+
+Image /page/31/Figure/6 description: This image contains two pie charts. The first pie chart shows the following categories and percentages: 3.9. eligible (61.9%), non-eligible (22.1%), 6.14. eligible (8.6%), 3.18. eligible (7.1%), and 6.2. eligible (0.3%). The second pie chart shows the following categories and percentages: 3.9. aligned (15.5%), 6.14. aligned (7.5%), 3.18. not evulated (7.1%), 3.9. non-aligned (46.4%), non-eligible (22.1%), 6.14. non-aligned (1.1%), and 6.2. aligned (0.3%).
+
+**1** Figures from previous years were adjusted retrospectively due to the clarification of FAQ 2023/305 point 31 and a site-based specification of economic activity 3.9.
+
+**2** Due to the limited availability of auditors, the verification of the DNSH assessment for Annex B and C in North America could not yet be finalized for one company as of the reporting date. For this reason, capital expenditure in the current business year was not classified as taxonomy-compliant.
+
+**3** For the economic activity 3.18, only the taxonomy eligibility had to be reported in the reporting period. Taxonomy compliance will be ascertained in the 2024/25 business year.
+
+## Page 33
+
+#### 13.8.6.3 Taxonomy-Eligible/Compliant Operating Expenditures (OpEx)
+
+Unlike the revenue and the capital expenditure, the figure for the operating expenditure cannot be taken directly from the Annual Report 2023/24. This is because only a few expense categories are relevant to the determination of the denominator for the operating expenditure. These include building renovation measures, maintenance and repair of property, plant and equipment, research and development expenses, training expenses in the course of tax-compliant business
+
+#### Substantial Contribution Criteria DNSH criteria
+
+activity
+
+| In millions of euros                                                                                               |                        |         | Proportion of OpEx<br>2023/24 | Climate Change<br>Mitigation | Climate Change<br>Adaptation | Water | Pollution | Circular Economy | Biodiversity |
+|--------------------------------------------------------------------------------------------------------------------|------------------------|---------|-------------------------------|------------------------------|------------------------------|-------|-----------|------------------|--------------|
+| Economic activities                                                                                                | Code                   | OpEx    |                               |                              |                              |       |           |                  |              |
+| A. Taxonomy-eligible activities                                                                                    |                        |         |                               |                              |                              |       |           |                  |              |
+| A.1 Environmentally sustainable activities (taxonomy-aligned)                                                      |                        |         |                               |                              |                              |       |           |                  |              |
+| Manufacture of iron and steel                                                                                      | CCM 3.9                | 202.0   | 19.7%                         | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Freight rail transport                                                                                             | CCM 6.2                | 1.3     | 0.1%                          | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Infrastructure for rail transport                                                                                  | CCM 6.14               | 66.5    | 6.5%                          | J                            | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| OpEx from environmentally sustainable<br>activities (taxonomy-compliant)                                           |                        | 269.8   | 26.3%                         | 26.3%                        | 0.0%                         | 0.0%  | 0.0%      | 0.0%             | 0.0%         |
+| Of which Enabling                                                                                                  |                        |         |                               | 6.5%                         | N                            | N/EL  | N/EL      | N/EL             | N/EL         |
+| Of which Transitional                                                                                              |                        |         |                               | 15.5%                        |                              |       |           |                  |              |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities<br>(not taxonomy-aligned activities)          |                        |         |                               |                              |                              |       |           |                  |              |
+| Manufacture of iron and steel                                                                                      | CCM 3.9/<br>CCA 3.9    | 489.2   | 47.6%                         | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Manufacture of automotive and mobility<br>components                                                               | CCM 3.18               | 50.0    | 4.9%                          | EL                           | N/EL                         | N/EL  | N/EL      | N/EL             | N/EL         |
+| Freight rail transport                                                                                             | CCM 6.2/<br>CCA 6.2    | 0.1     | 0.0%                          | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| Infrastructure for rail transport                                                                                  | CCM 6.14/<br>CCA 6,142 | 7.6     | 0.7%                          | EL                           | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| OpEx from taxonomy-eligible but<br>not environmentally sustainable activities<br>(not taxonomy-aligned activities) |                        | 546.9   | 53.2%                         | 53.2%                        | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| A. OpEx of taxonomy-eligible activities (A.1+A.2)                                                                  |                        | 816.7   | 79.5%                         | 79.5%                        | EL                           | N/EL  | N/EL      | N/EL             | N/EL         |
+| B. Taxonomy non-eligible activities                                                                                |                        |         |                               |                              |                              |       |           |                  |              |
+| OpEx of taxonomy<br>non-eligible activities                                                                        |                        | 211.1   | 20.5%                         |                              |                              |       |           |                  |              |
+| Total                                                                                                              |                        | 1,027.8 | 100.0%                        |                              |                              |       |           |                  |              |
+
+*The taxonomy-compliant eligible OpEx of EUR 269.8 million is made up of expenses for research and development of EUR 39.8 million, building renovation measures of EUR 13.1 million, current leasing of EUR 3.1 million, maintenance and repair of property, plant and equipment of EUR 202.9 million and staff training of EUR 10.9 million. The total OpEx of EUR 1,027.8 million is made up*  *of expenses for research and development amounting to EUR 213.9 million, building renovation measures amounting to EUR 45.2 million, current leasing amounting to EUR 8.0 million, maintenance and repair of property, plant and equipment amounting to EUR 723.8 million and staff training amounting to EUR 36.9 million.*
+
+## Page 34
+
+activities for employees and current leasing expenses. The numerator includes operating expenses generated by economic activities covered by the EU Taxonomy Regulation. Operating expenses from taxonomy-compliant economic activities
+
+**B. Taxonomy non-eligible activities**
+
+OpEx of taxonomy
+
+non-eligible activities 211.1 20.5% Total 1,027.8 100.0% amount to EUR 269.8 million. This corresponds to 26.3% of operating expenses according to the Taxonomy Regulation. This leads to the following classification for the voestalpine Group:
+
+|                              | DNSH criteria                |       |           |                  |              |                    |                                                                                 |                               |                                   |  |
+|------------------------------|------------------------------|-------|-----------|------------------|--------------|--------------------|---------------------------------------------------------------------------------|-------------------------------|-----------------------------------|--|
+| Climate Change<br>Mitigation | Climate Change<br>Adaptation | Water | Pollution | Circular Economy | Biodiversity | Minimum Safeguards | Proportion of<br>taxonomy-aligned (A.1.)<br>or eligible (A.2.)<br>OpEx 2022/231 | Category enabling<br>activity | Category transitional<br>activity |  |
+| J                            | J                            | J     | J         | J                | J            | J                  | 22.3%                                                                           |                               | T                                 |  |
+| J                            | J                            | J     | J         | J                | J            | J                  | 0.2%                                                                            |                               |                                   |  |
+| J                            | J                            | J     | J         | J                | J            | J                  | 4.5%                                                                            | E                             |                                   |  |
+| J                            | J                            | J     | J         | J                | J            | J                  | <b>27.0%</b>                                                                    |                               |                                   |  |
+| J                            | J                            | J     | J         | J                | J            | J                  | 4.5%                                                                            | E                             |                                   |  |
+| J                            | J                            | J     | J         | J                | J            | J                  | 22.3%                                                                           |                               | T                                 |  |
+|                              |                              |       |           |                  |              |                    | 46.5%                                                                           |                               |                                   |  |
+|                              |                              |       |           |                  |              |                    | 0.0%                                                                            |                               |                                   |  |
+|                              |                              |       |           |                  |              |                    | 0.0%                                                                            |                               |                                   |  |
+|                              |                              |       |           |                  |              |                    | 46.5%                                                                           |                               |                                   |  |
+
+Image /page/33/Figure/4 description: The image is a donut chart showing the eligibility of different categories. 67.3% are 3.9. eligible, 20.5% are non-eligible, 4.9% are 3.18. eligible, 7.2% are 6.14. eligible, and 0.1% are 6.2. eligible.
+
+#### TAXONOMY ELIGIBILITY BY ECONOMIC ACTIVITY TAXONOMY COMPLIANCE BY ECONOMIC ACTIVITY
+
+Image /page/33/Figure/6 description: This image is a pie chart with the following data: non-eligible 20.5%, 6.2. aligned 0.1%, 6.14. non-aligned 0.7%, 3.9. non-aligned 47.6%, 3.18. not evulated3 4.9%, 6.14. aligned 6.5%, 3.9. aligned 19.7%.
+
+- **1** Figures from previous years were adjusted retrospectively due to a site-related specification of the economic activity 3.9.
+- **2** Due to the limited availability of auditors, the verification of the DNSH assessment for Annex B and C in North America could not yet be finalized for one company as of the reporting date. For this reason, these operating expenditures were not classified as taxonomy-compliant in the current business year.
+- **3** For the economic activity 3.18, only the taxonomy eligibility had to be reported in the reporting period. Taxonomy compliance will be ascertained in the 2024/25 business year.
+
+## Page 35
+
+#### FURTHER INFORMATION IN THE CONTEXT OF TAXONOMY REPORTING
+
+*The voestalpine Group has been involved in the international "Science Based Target Initiative" since 2022. Associated activities have led the Group to define internal greenhouse gas (GHG) emissions reduction targets that conform to the Paris Agreement on Climate Change.* 
+
+*voestalpine's greentec steel serves to pursue an ambitious step-by-step plan for the decarbonization of steelmaking in the long term. This will involve a reduction in CO2 emissions by 30% in a first step by 2029. To this end, both the Steel Division and the Metal Engineering Division are replacing the existing blast furnace route in part with hybrid electric arc technology. The latter will make it possible to produce high-quality, CO2-neutral steel products in future. The voestalpine Group is also conducting inten-* *sive research into breakthrough technologies at the same time. One example of this is the H2FUTURE® pilot plant, which is being used to research the industrial production of green hydrogen in order to gradually increase the use of this promising energy source in steel production. Other research projects are dedicated to the storage and reuse of unavoidable residual emissions. For more information thereon, see the "Product Sustainability" chapter.*
+
+## Page 36
+
+Image /page/35/Picture/0 description: The image shows a 3D rendering of a silver-colored abstract design against a gray background. The design features curved and circular shapes that intertwine and overlap, creating a sense of depth and complexity. The lighting is soft and diffused, highlighting the smooth surfaces and rounded edges of the design. The overall impression is modern and minimalist.
+
+Image /page/35/Picture/1 description: The image shows a circular arrow with a leaf on the right side. The arrow is in the shape of an infinity symbol, and it is pointing in a clockwise direction. The leaf is green, and it is located on the upper right side of the circle. The background is gray.
+
+CORPORATE RESPONSIBILITY REPORT 2023/24 Circularity &125 Resources

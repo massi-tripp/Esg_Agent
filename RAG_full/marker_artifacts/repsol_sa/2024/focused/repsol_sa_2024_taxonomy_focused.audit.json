@@ -1,0 +1,51 @@
+{
+  "company_slug": "repsol_sa",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\repsol_sa\\2024\\repsol_sa_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\repsol_sa\\2024\\focused\\repsol_sa_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        376,
+        377,
+        378
+      ],
+      "start_page": 375,
+      "end_page": 381,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "376": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "377": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "378": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

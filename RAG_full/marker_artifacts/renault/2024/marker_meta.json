@@ -1,0 +1,10 @@
+{
+  "company_name_full": "RENAULT",
+  "slug": "renault",
+  "report_year_source": "2024",
+  "report_year_output_folder": "2024",
+  "pdf_path": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\cache\\renault\\2024\\report.pdf",
+  "extraction_method": "text_only_full",
+  "marker_md_source": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\renault\\2024\\renault_2024_report.md",
+  "marker_md_final": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\renault\\2024\\renault_2024_report.md"
+}

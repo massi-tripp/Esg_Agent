@@ -1,0 +1,43 @@
+{
+  "company_slug": "scout24_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\scout24_se\\2023\\scout24_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\scout24_se\\2023\\focused\\scout24_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        103,
+        104,
+        106,
+        108
+      ],
+      "start_page": 102,
+      "end_page": 111,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "103": 5,
+              "104": 6,
+              "106": 6,
+              "108": 6
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

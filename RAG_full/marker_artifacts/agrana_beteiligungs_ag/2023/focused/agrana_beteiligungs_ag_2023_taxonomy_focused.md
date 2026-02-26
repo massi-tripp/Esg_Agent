@@ -1,0 +1,223 @@
+## Page 59
+
+### **International sugar prices during AGRANA's 2023|24 financial year**
+
+US\$ per tonne
+
+Image /page/58/Figure/3 description: This image shows a line graph comparing the prices of white sugar (London #5) and raw sugar (ICE/NY #11) from March 2023 to February 2024. The y-axis ranges from 350 to 800. The price of white sugar (London #5) is represented by a pink line, while the price of raw sugar (ICE/NY #11) is represented by a gray line. Both sugar types show price fluctuations over the period, with a notable dip in December 2023.
+
+### **EU sugar market**
+
+In SMY 2022/23, which ended on 30 September 2023, sugar production in the EU-27 countries (excluding isoglucose) declined to 14.6 million tonnes (SMY 2021/22: 16.6 million tonnes), reflecting both a further slight reduction in sugar beet acreage and below-average yields due to the drought in summer 2022. The EU thus remained a net importer of sugar in SMY 2022/23. For the 2023/24 sugar marketing year now underway, the European Commission predicts a slight increase in planting area and high beet yields, but low sugar content. Sugar production is expected to increase to 15.8 million tonnes as a result, which would leave the EU a net importer of sugar despite rising exports and stocks. For SMY 2024/25, market observers expect a slight increase in beet planting area in the EU-27.
+
+According to EU price reporting, average white sugar prices in the EU rose steadily from the beginning of the 2023|24 financial year, from € 804 per tonne in March 2023 to € 856 per tonne in December 2023, and eased to € 837 per tonne in February 2024 as of the latest available publication. Within the EU, there were significant regional price differences between the deficit and surplus regions. The deficit markets were under pressure from low-price imports from Ukraine and the price gains especially in the Romanian and Bulgarian markets therefore lost momentum in the summer.
+
+### **Sugar imports from Ukraine to the EU**
+
+Since June 2022, there has been an EU arrangement allowing duty-free sugar imports from Ukraine, which was extended in spring 2023 to the beginning of June 2024. While Ukraine only had duty-free access to the EU market for about 20,000 tonnes before the war, duty-free sugar imports rose to approximately 415,000 tonnes in SMY 2022|23. The renewed extension of the EU special arrangement on imports of agricultural products from Ukraine to the EU, valid from 6 June
+
+2024 to 5 June 2025, now includes an import restriction to protect sensitive products, including sugar. The average import levels for calendar years 2022 and 2023 and the second half of calendar year 2021 are used as the basis for this limit. For duty-free sugar exports from Ukraine to the EU, the new cap from 5 June 2024 is therefore in the general region of 265,000 tonnes for the calendar year 2024; for the period from 1 January to 5 June 2025, the cap is prorated on that basis.
+
+### **Free trade agreements**
+
+Some important trade agreements, such as with the Mercosur countries and with Australia, have been delayed or are currently frozen, notably because certain issues relating to environmental protection and rules of origin have not yet been settled.
+
+### Raw materials and production
+
+The sugar beet acreage planted by the approximately 5,500 AGRANA contract farmers (prior year: approximately 5,300 farmers) in the 2023/24 sugar marketing year was about 86,000 hectares, an increase from the prior year's 72,000 hectares. Growing conditions in 2023 were characterised by a cold, wet spring and dry summer months. Sufficient rainfall in mid-August significantly improved the yield prospects. The second half of the growing season was marked by a dry September. This was followed by a period of damp and cool weather from the end of October to late November.
+
+Cercospora leaf spot disease caused localised problems in the westerly, more humid areas. However, more significant crop losses were prevented through the by now high proportion of varieties resistant to leaf disease. Due to damp, cool weather in April and May 2023, the incidence of beet weevil was lower than in the previous year, but still led to problems and the turning under of
+
+## Page 60
+
+some acreage in those regions which are typically more affected (Austria's northern Tulln Basin and Weinviertel areas). It is relevant in this context that in the 2023 crop year, for the first time, sugar beet seed treated with neonicotinoids could not be used in Austria, as no emergency authorisation had been issued. With the in some cases abundant precipitation in the autumn months, some of the beet harvest took place in damp conditions, which resulted in higher deductions for soil clinging to the beet compared to the previous year.
+
+The growing conditions described were the key reason for a mean sugar content of 16.2% (prior year: 16.1%), in line with the multi-year average. Around 5.7 million tonnes of sugar beet (prior year: 4.7 million tonnes) was harvested from a total area of about 86,000 hectares, corresponding to an average yield of 67 tonnes per hectare (prior year: 66 tonnes per hectare).
+
+AGRANA's seven beet sugar factories processed a combined daily average of slightly more than 48,200 tonnes of beet during the campaign (prior year: 47,800 tonnes). Thanks to the higher total beet quantity, the factories produced a total of 806,000 tonnes of conventional sugar (prior year: 717,000 tonnes), in a campaign averaging 119 days in length (prior year: 101 days). Additionally, at the plant in Tulln, Austria, slightly more than 4,200 tonnes of organic sugar was produced in a one-week organic campaign. As a result of the beet processing volume, the average capacity utilisation of the sugar factories was 99% (prior year: 85%).
+
+At the plant in Tulln, a molasses desugarisation facility was operated year-round. AGRANA also operates two raw cane sugar refineries, in Bosnia and Herzegovina and in Romania; in the 2023|24 financial year, these produced a total of 286,000 tonnes of white sugar (prior year: 290,000 tonnes).
+
+### **Update on betaine crystallisation and Beta Pura GmbH**
+
+The Vienna-based Beta Pura GmbH¹ resumed operations at its Tulln, Austria, site in the 2023|24 financial year after an interruption of almost one year. The re-entry into the betaine market has been successful thus far and all four market categories – human nutrition, cosmetics, plant care and animal feed – are being served again. In recent months, a global distribution network has been established, sales and marketing activities carried out and product improvements made in terms of technology and quality. This has created a good basis for solid growth.
+
+### **Engagement in the upstream value chain**
+
+**Supplier environmental and social assessment** The Sugar segment has selected the Farm Sustainability Assessment (FSA) for use in documenting sustainable management by its sugar beet contract growers (for details on the FSA, see from page 44). The contract beet suppliers in all five beet production countries are grouped into Farm Management Groups (FMGs).
+
+In 2017, these groups' sustainability performance had been externally audited in accordance with FSA requirements for the first time. Re-verification audits were performed in the 2023|24 financial year to the new FSA 3.0 standard; they are valid for three years. Virtually all the farms (almost 100%) in the FMGs of AGRANA's Sugar segment achieved FSA Silver status or higher. The next re-verification audit will be conducted in the 2026/27 financial year.
+
+### **Building awareness of good agricultural practice**
+
+Awareness-raising activities in the 2023/24 financial year were conducted through various events and the quarterly trade magazine “Agrosugar/Agrostarch”. For example, subject-specific webinars, physical meetings on crop-growing, and field visits were held with a focus on cultivation, seeds and crop protection. A sugar beet field day was conducted in the Tulln, Austria, catchment area at the end of June 2023, focusing on crop varieties, crop protection and hoeing technology. About 600 farmers were able to learn more about current topics related to sugar beet production. Presentations on the topics of digitalisation and camera-controlled hoeing technology as well as reduction of the volume of crop protection product use with the help of band spraying technology rounded off the programme. Contracting for beet cultivation in 2024 was offered both online and in face-to-face meetings. conducted and
+
+### **Biodiversity in the supply chain**
+
+In 2023, about 3,800 hectares were greened in Austria with catch-crop mixes from Österreichische Rübensamenzucht GmbH, a not-for-profit subsidiary of AGRANA Zucker GmbH that provides farmers with GMO-free seed from its own in-house propagation and from purchased material. The catch-crops loosen the soil structure, mobilise nutrients, activate soil fauna and improve field biodiversity. In addition, annual and perennial flowering areas were created. The flowering fields provide ideal forage for wild animals, offer honey plants for bees, and add to the aesthetic dimension of the landscape.
+
+## Page 61
+
+<MISSING_PAGE_TEXT>
+
+## Page 62
+
+Image /page/61/Picture/1 description: The image shows a single, light-colored footprint. The footprint is oriented diagonally, with the toes pointing upwards and to the left. The impression of the toes and the ball of the foot are clearly visible, while the heel is less defined. The footprint appears to be a faint impression, as if left in dust or sand.
+
+Waste
+
+Hazardous waste
+
+By 2030|31, the Sugar segment will reduce its emissions (Scope 1 and 2) by about 50% in absolute terms compared to 2019|20, supporting AGRANA's climate strategy and science-based targets for emission reduction.
+
+In 2023|24, all Sugar segment production sites within the GRI reporting boundaries (see page 43) held a current certification to ISO 50001 for their energy management systems.
+
+### **Water withdrawal and discharge in processing operations at AGRANA's sugar plants**
+
+| Sugar segment                                               | 2023 24 | 2022 23 | 2021 22 |
+|-------------------------------------------------------------|---------|---------|---------|
+| Total in million m³                                         |         |         |         |
+| Water withdrawal                                            | 5.2     | 4.7     | 4.8     |
+| Water discharge                                             | 7.4     | 6.3     | 7.0     |
+| Water consumption                                           | (2.2)   | (1.6)   | (2.2)   |
+| Sugar segment<br>In m³ per tonne<br>of core and by-products | 2023 24 | 2022 23 | 2021 22 |
+| Water withdrawal                                            | 2.12    | 2.29    | 2.16    |
+| Water discharge                                             | 3.00    | 3.06    | 3.14    |
+
+Some of the water required by a sugar factory enters the facility in bound form in the beet itself and is thus obtained from the raw material and then used in processing. Sugar beets consist of about 75% water, which must be separated from the sugar during the manufacturing process.
+
+This water is used in multiple ways: for leaching the sugar from the beet cossettes, for the process steam needed in sugar extraction, and for transporting and cleaning the beets. The water is continually cleaned and returned to the process cycle. In-house or municipal wastewater treatment plants at all sites ensure the environmentally responsible treatment of the effluent in compliance with local government requirements. Only cleaned wastewater satisfying the applicable environmental standards is thus discharged into the receiving waters.
+
+In 2023|24, the Sugar segment released about 2.2 million cubic metres of water previously bound in the beet, thus maintaining a negative water consumption balance. In other words, more water was discharged than withdrawn, which is a desirable situation. Per tonne of product output, approximately 0.88 cubic metres (or 880 litres) of water was discharged into receiving waters.
+
+### **Water withdrawal at AGRANA's sugar plants in 2023|24 by source**
+
+Image /page/61/Figure/10 description: This image is a donut chart showing the sources of waste from processing operations at AGRANA's sugar plants. Surface water (primarily rivers) accounts for 75% of the waste, groundwater accounts for 23% of the waste, and municipal water supply accounts for 2% of the waste.
+
+**Sugar segment 2023|24 2022|23 2021|22**
+
+Waste disposed 13,371 t 14,689 t 20,030 t Of which hazardous waste 121 t 105 t 116 t
+
+per tonne of product 5.4 kg 7.5 kg 9.0 kg
+
+per tonne of product 49 g 53 g 52 g
+
+### **Receiving waters for the wastewater of AGRANA's sugar plants in 2023|24**
+
+Image /page/61/Figure/12 description: This image is a donut chart showing the sources of water. Surface water (primarily rivers) accounts for 91% of the water, while municipal sewer accounts for 9%.
+
+about 9%. The specific total amount of waste and hazardous waste per tonne of product output also fell, by a respective 27.5% and 8.2%, as a result of higher
+
+In 2023|24, AUSTRIA Zucker GmbH updated its data for the sustainability rating purposes of EcoVadis, the international supplier evaluation platform. It achieved
+
+beet processing volumes.
+
+Platinum recognition.
+
+**EcoVadis**
+
+## Page 63
+
+<MISSING_PAGE_TEXT>
+
+## Page 64
+
+## **Research and development Research and development**
+
+Operating in a highly competitive marketplace, it is crucially important for AGRANA to identify market trends early, satisfy the markets' needs through product innovations and develop customised solutions for its clientele. In close partnership with customers, AGRANA's research and development (R&D) teams are always working on new technologies, specialty products and innovative applications for existing products, thus supporting the Group's strategic focus on lasting success.
+
+The AGRANA Research & Innovation Center (ARIC) in Tulln, Austria, is the Group's central research and development hub for the Fruit, Starch and Sugar businesses; it works together with AGRANA's 18 local new-product development centres (NPDs) for fruit products. A key goal of ARIC, which is structured as a separate company wholly owned by AGRANA Beteiligungs-AG, is to develop innovative products from sugar beets, potatoes, corn (maize), waxy corn, wheat and various fruits. ARIC is active nationally and internationally as an in-house R&D service provider for sugar technology, agriculture, food technology, starch technology, microbiology, biotechnology and fruit preparations.
+
+The collaboration of R&D specialists from the different segments (Fruit, Starch and Sugar) under one roof not only drives administrative synergies but, above all, promotes a creative exchange between different research groups and disciplines, particularly on subjects that transcend segment boundaries. The complementarity between the different groups' experience is particularly valuable in cross-segment areas of research, such as technologies, thickening and sweetening solutions, aromas, microbiology, product quality and safety, and organic products.
+
+| Research und development                |    | 2023/24 | 2022/23 |
+|-----------------------------------------|----|---------|---------|
+| R&D expenditure (internal and external) | €m | 26.0    | 23.1    |
+| R&D-to-sales ratio1                     | %  | 0.69    | 0.64    |
+| Number of employees in R&D (headcount)  |    | 333     | 324     |
+
+### Fruit Segment
+
+### **Fruit preparations**
+
+With a view to the circular economy, residues from fruit processing were evaluated as valuable raw materials for new products. The utilisation of the peel and seeds of certain fruits is particularly suitable for the production of plant-based yoghurt and milk alternatives and even vegan leather imitations for the textile industry.
+
+With the development of vegan fruit foam preparations with a high fruit content and the technological solution for a chocolate coating, a product was created for the confectionery sector for the first time. In the food service segment, under the brand name "Watson Says", AGRANA developed its own line of sauces and toppings, primarily for quick service restaurants.
+
+To extend the shelf life of food, manufacturers often use artificial preservatives. Consumers are increasingly demanding clean label products that are free from E numbers requiring labelling. Various natural alternatives were tested that have a stabilising effect on quality and do not affect the taste or smell of the end product.
+
+In view of the growing importance of a sugar-reduced diet, maintaining the characteristic sweet flavour of products where sweetness is expected poses a major challenge. Innovative methods in the processing of special cereal flours made it possible to develop fruit preparations without added sugar that still have a full sweetness profile.
+
+### **Fruit juice concentrates**
+
+In the financial year, AUSTRIA JUICE successfully expanded its business areas of beverage bases, aromas and juice concentrate production, supported by strategic investments in infrastructure and personnel. The further development of the utilisation of FTNF ("from the named fruit") juice aromas and the in-house production of composite aromas made a significant contribution to strengthening the beverage base and aroma business.
+
+Processes to diversify and standardise the range of FTNF juice aromas and of herbal, spice and citrus extracts are continuously implemented and improved. Work is also underway on the development of spray-dried aromas to expand the aroma portfolio for new markets.
+
+## Page 65
+
+### Starch segment
+
+### **Raw materials**
+
+Extreme weather conditions caused by climate change are increasingly leading to fluctuations in raw material quality, resulting in the risk of poorer processability of starch raw materials and insufficient starch yield in production. To improve the ability to respond to fluctuating raw material quality levels, a forecasting model was developed through comprehensive raw material monitoring, allowing crop year effects and country specifics to be captured and more precise predictions to be made about achievable yields.
+
+### **Food applications**
+
+Customers in the food sector increasingly expect complete solutions, as well as co-creation (a form of collaboration where they are purposefully involved in processes). In the area of food application technology, the focus was primarily on the further development of vegan, vegetarian and gluten-free food products. R&D also prioritised additional requirements such as clean label, organic and improved nutritional profiles. Accordingly, ARIC's in-house sensory panel was trained to meet these texture and flavour requirements and the sensory evaluation methods were adapted.
+
+### **Vegetable proteins**
+
+Plant proteins are increasingly in focus as an alternative to animal products, driven by a growing trend towards a meat-reduced diet. This transformation is rooted in a growing awareness of health and environmental protection, animal welfare concerns and ethical considerations. AGRANA's protein sources are potatoes, corn and wheat, whose proteins are processed using special technologies so that they can be used not just for protein enrichment but as functional ingredients in foods. To do this, new analytical methods were developed to better characterise the functional properties of plant proteins, especially for vegetarian meat and dairy substitutes.
+
+### **New products and technologies**
+
+In the area of starch-based foods, AGRANA successfully added newly developed modified starches to its product portfolio and explored new approaches to process optimisation in the manufacture of starch saccharification products. For maltodextrins, these are further developments in process control that improve the stability and automation of the production lines. Since the ban on ion exchangers, the production of organic glucose syrups has been a challenge, which has also affected profitability. To counteract this, the process parameters were optimised under the new conditions. This led to increased efficiency and a reduction in costs.
+
+### **Non-food applications**
+
+With the further development of new, highly modified starch ethers, new product solutions for tile adhesives were brought to market. Optimisation of the manufacturing process, adjustments to the rheological profile and an increase in organic-based content led to a successful expansion of the product portfolio. The advantages of the newly developed starch ethers were demonstrated by creating a matrix of construction conditions and systematically testing the starch ethers in defined tile adhesive formulations. The findings were then presented to an expert audience in Asia.
+
+The portfolio of AGENACOMP®products in the segment of home-compostable bioplastics was successfully expanded, including the development and industrial-scale optimisation of a starch-based shrink film material. In order to meet the requirements of the market, reductions in the CO2 footprint that can be achieved by using starch-based bioplastics were identified. A life cycle assessment was successfully prepared in accordance with the requirements of the EU Taxonomy Regulation. In cooperation with an equipment manufacturer specialising in mechanical recycling systems, it was proved that film made with AGENACOMP® allows successful recycling without any loss of quality.
+
+In the development of new starch products for the paper and adhesives sector, the focus was on finding alternatives to petro-based binders. Through physical or enzymatic modification, new starches were successfully launched on the market that enable customers to increase the bio-based content in their formulations. These special starches with their improved binding power were presented as a dextrin substitute in the paper coating sector in presentations with broad reach and have now been successfully positioned in the market.
+
+### **Biotechnology**
+
+In bioethanol production, significant energy savings were achieved through process optimisation and strategic measures, thus reducing AGRANA's carbon footprint.
+
+## Page 66
+
+### Sugar segment
+
+### **Sugar beet as a raw material**
+
+Sugar beet crops are at risk from climatic changes, animal pests and leaf diseases. AGRANA works closely with farmers to meet the challenges posed by climate change and pests in order to achieve the volume targets and ensure the competitiveness of sugar beet as a planting choice for growers. Sugar beet is being positioned as an innovative field crop in order to maintain its attractiveness, with the aim of producing it in an ecologically sustainable and socially viable way.
+
+Pests are still the chief cause of yield reductions worldwide and can sometimes cause total losses in sugar beet. Advanced mechanical methods and biological control strategies were developed to optimise measures against the beet weevil in sugar beet fields. Their purpose is the effective reduction of the pest population. At the same time, the application technology for insecticides was refined to ensure more precise and environmentally friendly distribution.
+
+Increases in mean annual temperatures due to climate change favour the emergence of new pests that spread diseases such as low sugar content syndrome (syndrome basses richesses) and rubbery taproot disease in sugar beet. The establishment of dense, scientifically sound monitoring networks for pests and their ecosystems has led to the development of effective warning systems. These enable rapid, datadriven responses to pest threats through targeted control measures.
+
+Leaf spot disease on sugar beet (Cercospora beticola) continues to have a high potential to cause losses. One aim in the treatment of Cercospora is to reduce the quantities of active ingredient needed to achieve effective control. With these aspects in mind, new active ingredients were tested for their suitability for combatting leaf spot disease. New sugar beet genetics with high tolerance to this disease also have promise. In particular, the potential for fungicide reduction is seen as a valuable contribution to more sustainable production.
+
+Another mandate lies in the efforts to decarbonise and reduce climate-warming gases in order to cut Scope 3 emissions. One of these gases is nitrous oxide, which contributes disproportionately to the greenhouse effect. The research efforts are focussed on the generation of valid data in order to be able to correctly gauge the dimensions of nitrous oxide emissions and, if necessary, to adapt cultivation measures accordingly.
+
+### **Technology**
+
+AGRANA's research and development activities also focus on minimising energy consumption and increasing sugar yields.
+
+The judicious use of enzymes permits significantly more effective mechanical pressing of extracted beet pulp, which means that less natural gas is required to evaporate water in the subsequent drying process to produce beet pellets for feed.
+
+In addition, specific optimisations are carried out at the respective sites in the area of sugar crystallisation, particularly in raw sugar and by-product processing. The aim is to obtain larger and therefore more easily separable crystals and to maximise molasses depletion efficiency, thereby increasing the sugar yield. These process steps are supported by appropriate training measures.
+
+To drive forward digitalisation, imaging techniques and spectrometric methods are being developed and tested at industrial scale. In this way, the quality of the delivered beet or freshly cut beet cossettes can be determined more quickly and precise measures can be taken to optimise processing.
+
+### **Decarbonisation and sustainability**
+
+In line with AGRANA's climate strategy, new technologies for water removal in sugar production are being tested in order to replace fossil fuel-based thermal evaporation processes with electrical methods. For their evaluation, they are upscaled from laboratory to pilot scale and a plant is operated in bypass mode in the industrial process.
+
+Another focus is on energy generation from by-products and residual streams to replace fossil fuels. Here, AGRANA collaborates with well-known universities and experts in bioenergy and sustainable technologies in order to utilise innovations to increase the efficiency of existing plants and to develop site-specific scenarios for the provision of bioenergy.
+
+## Page 67
+
+<MISSING_PAGE_TEXT>

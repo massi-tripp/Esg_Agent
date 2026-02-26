@@ -1,0 +1,51 @@
+{
+  "company_slug": "talanx_aktiengesellschaft",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\talanx_aktiengesellschaft\\2023\\talanx_aktiengesellschaft_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\talanx_aktiengesellschaft\\2023\\focused\\talanx_aktiengesellschaft_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        92,
+        93,
+        95,
+        96,
+        97,
+        99,
+        101,
+        102
+      ],
+      "start_page": 91,
+      "end_page": 105,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "92": 3,
+              "93": 4,
+              "95": 5,
+              "96": 4,
+              "97": 3,
+              "99": 3,
+              "101": 4,
+              "102": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

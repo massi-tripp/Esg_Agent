@@ -1,0 +1,46 @@
+{
+  "company_slug": "hawesko_holding_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hawesko_holding_se\\2023\\hawesko_holding_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\hawesko_holding_se\\2023\\focused\\hawesko_holding_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        51,
+        53,
+        55
+      ],
+      "start_page": 50,
+      "end_page": 58,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "51": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "53": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "55": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "company_slug": "lenzing_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\lenzing_ag\\2023\\lenzing_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\lenzing_ag\\2023\\focused\\lenzing_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        48,
+        49,
+        51
+      ],
+      "start_page": 47,
+      "end_page": 54,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "48": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "49": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "51": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

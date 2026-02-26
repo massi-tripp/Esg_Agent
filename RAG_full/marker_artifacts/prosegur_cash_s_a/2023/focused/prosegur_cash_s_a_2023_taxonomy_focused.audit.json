@@ -1,0 +1,93 @@
+{
+  "company_slug": "prosegur_cash_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\prosegur_cash_s_a\\2023\\prosegur_cash_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\prosegur_cash_s_a\\2023\\focused\\prosegur_cash_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        245,
+        246,
+        247,
+        252
+      ],
+      "start_page": 244,
+      "end_page": 255,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "245": 4,
+              "246": 3,
+              "247": 3
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "252": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        330,
+        331,
+        333,
+        334,
+        335
+      ],
+      "start_page": 329,
+      "end_page": 338,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "330": 3,
+              "331": 3,
+              "333": 3,
+              "334": 3,
+              "335": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        400
+      ],
+      "start_page": 399,
+      "end_page": 403,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "400": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

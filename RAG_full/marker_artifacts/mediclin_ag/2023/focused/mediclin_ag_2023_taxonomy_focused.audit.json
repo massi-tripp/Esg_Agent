@@ -1,0 +1,46 @@
+{
+  "company_slug": "mediclin_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mediclin_ag\\2023\\mediclin_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mediclin_ag\\2023\\focused\\mediclin_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        36,
+        38,
+        40
+      ],
+      "start_page": 35,
+      "end_page": 43,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "36": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "38": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "40": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

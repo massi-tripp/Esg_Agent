@@ -1,0 +1,61 @@
+{
+  "company_slug": "fraport_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fraport_ag\\2023\\fraport_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\fraport_ag\\2023\\focused\\fraport_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ],
+      "start_page": 107,
+      "end_page": 116,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "108": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "109": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "110": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "111": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ],
+              "112": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "113": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

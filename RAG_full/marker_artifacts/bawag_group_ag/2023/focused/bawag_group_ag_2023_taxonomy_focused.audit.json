@@ -1,0 +1,69 @@
+{
+  "company_slug": "bawag_group_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bawag_group_ag\\2023\\bawag_group_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bawag_group_ag\\2023\\focused\\bawag_group_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        354,
+        355,
+        356
+      ],
+      "start_page": 338,
+      "end_page": 359,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "339": 4,
+              "340": 3,
+              "341": 3,
+              "342": 3,
+              "343": 4,
+              "344": 4,
+              "345": 4,
+              "346": 4,
+              "347": 4,
+              "348": 4,
+              "349": 4,
+              "350": 4,
+              "351": 4,
+              "352": 4,
+              "354": 4,
+              "355": 4,
+              "356": 4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

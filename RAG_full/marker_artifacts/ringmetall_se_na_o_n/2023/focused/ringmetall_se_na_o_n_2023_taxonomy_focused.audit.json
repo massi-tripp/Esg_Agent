@@ -1,0 +1,61 @@
+{
+  "company_slug": "ringmetall_se_na_o_n",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ringmetall_se_na_o_n\\2023\\ringmetall_se_na_o_n_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\ringmetall_se_na_o_n\\2023\\focused\\ringmetall_se_na_o_n_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        36,
+        37
+      ],
+      "start_page": 35,
+      "end_page": 40,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "36": 4,
+              "37": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        71,
+        72,
+        73
+      ],
+      "start_page": 70,
+      "end_page": 76,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "71": 3,
+              "72": 3,
+              "73": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

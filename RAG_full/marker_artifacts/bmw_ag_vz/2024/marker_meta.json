@@ -1,0 +1,9 @@
+{
+  "company_name_full": "BMW AG Vz",
+  "slug": "bmw_ag_vz",
+  "report_year_source": "2024",
+  "report_year_output_folder": "2024",
+  "pdf_path": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\cache\\bmw_ag_vz\\2024\\report.pdf",
+  "extraction_method": "text_only_full",
+  "marker_md_final": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\bmw_ag_vz\\2024\\bmw_ag_vz_2024_report.md"
+}

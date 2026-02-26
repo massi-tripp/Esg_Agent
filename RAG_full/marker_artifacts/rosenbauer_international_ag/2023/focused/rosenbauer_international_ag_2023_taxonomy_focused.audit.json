@@ -1,0 +1,13 @@
+{
+  "company_slug": "rosenbauer_international_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\rosenbauer_international_ag\\2023\\rosenbauer_international_ag_2023_full_report.md",
+  "status": "no_hits_found",
+  "strong_phrases": [
+    "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+    "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+    "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+  ],
+  "weak_enabled": true,
+  "weak_threshold": 3
+}

@@ -1,0 +1,67 @@
+{
+  "company_slug": "carrefour",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\carrefour\\2024\\carrefour_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\carrefour\\2024\\focused\\carrefour_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 1,
+    "after_pages": 3,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_page_score_threshold": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        159,
+        164,
+        165,
+        166,
+        168,
+        169,
+        170,
+        172,
+        173,
+        174,
+        176,
+        177,
+        178
+      ],
+      "start_page": 158,
+      "end_page": 181,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "159": 6
+            }
+          },
+          {
+            "type": "weak_fallback",
+            "page_score_threshold": 3,
+            "scores": {
+              "164": 5,
+              "165": 4,
+              "166": 3,
+              "168": 5,
+              "169": 3,
+              "170": 3,
+              "172": 5,
+              "173": 3,
+              "174": 3,
+              "176": 3,
+              "177": 3,
+              "178": 6
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
