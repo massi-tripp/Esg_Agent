@@ -1,0 +1,178 @@
+{
+  "company_slug": "adidas_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\adidas_ag\\2023\\adidas_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\adidas_ag\\2023\\focused\\adidas_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        5,
+        8
+      ],
+      "start_page": 3,
+      "end_page": 13,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "5": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "8": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        31
+      ],
+      "start_page": 29,
+      "end_page": 36,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "31": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        119
+      ],
+      "start_page": 108,
+      "end_page": 124,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "110": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "111": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "112": [
+                "Article 8"
+              ],
+              "113": [
+                "Taxonomy-eligible activities",
+                "Annex I"
+              ],
+              "114": [
+                "Annex I"
+              ],
+              "115": [
+                "Taxonomy-eligible activities"
+              ],
+              "116": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I",
+                "Annex II"
+              ],
+              "119": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        300,
+        301,
+        302,
+        307,
+        308,
+        310
+      ],
+      "start_page": 298,
+      "end_page": 315,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "300": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "301": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "302": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "307": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "308": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "310": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

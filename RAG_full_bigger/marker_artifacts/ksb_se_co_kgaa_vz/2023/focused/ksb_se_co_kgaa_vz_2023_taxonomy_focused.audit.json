@@ -1,0 +1,120 @@
+{
+  "company_slug": "ksb_se_co_kgaa_vz",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\ksb_se_co_kgaa_vz\\2023\\ksb_se_co_kgaa_vz_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\ksb_se_co_kgaa_vz\\2023\\focused\\ksb_se_co_kgaa_vz_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        26,
+        27
+      ],
+      "start_page": 24,
+      "end_page": 32,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "26": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "27": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        44,
+        45,
+        47,
+        50,
+        52,
+        54,
+        56,
+        57,
+        58,
+        59
+      ],
+      "start_page": 42,
+      "end_page": 64,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "44": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "45": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "47": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "50": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "52": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "54": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "56": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "57": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "58": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "59": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "company_slug": "eni_s_p_a",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\eni_s_p_a\\2024\\eni_s_p_a_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\eni_s_p_a\\2024\\focused\\eni_s_p_a_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2024"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        185
+      ],
+      "start_page": 183,
+      "end_page": 190,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "185": [
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)",
+                "A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        246,
+        248,
+        250
+      ],
+      "start_page": 244,
+      "end_page": 255,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "246": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "248": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "250": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

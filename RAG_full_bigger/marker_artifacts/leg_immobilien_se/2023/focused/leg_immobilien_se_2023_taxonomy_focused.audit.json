@@ -1,0 +1,211 @@
+{
+  "company_slug": "leg_immobilien_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\leg_immobilien_se\\2023\\leg_immobilien_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\leg_immobilien_se\\2023\\focused\\leg_immobilien_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        2
+      ],
+      "start_page": 1,
+      "end_page": 7,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "2": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        61,
+        62
+      ],
+      "start_page": 59,
+      "end_page": 67,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "61": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "62": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        102,
+        103,
+        105,
+        106,
+        107,
+        108
+      ],
+      "start_page": 100,
+      "end_page": 113,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "102": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "103": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "105": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "106": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "107": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "108": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        130,
+        131,
+        132,
+        134
+      ],
+      "start_page": 128,
+      "end_page": 139,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "130": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "131": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "132": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "134": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        170,
+        171,
+        175
+      ],
+      "start_page": 168,
+      "end_page": 180,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "170": [
+                "Annex I"
+              ],
+              "171": [
+                "Annex I"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "175": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        222,
+        224
+      ],
+      "start_page": 220,
+      "end_page": 229,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "222": [
+                "Annex I"
+              ],
+              "224": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

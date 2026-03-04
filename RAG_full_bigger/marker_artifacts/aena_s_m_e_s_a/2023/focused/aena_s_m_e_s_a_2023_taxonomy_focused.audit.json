@@ -1,0 +1,275 @@
+{
+  "company_slug": "aena_s_m_e_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\aena_s_m_e_s_a\\2023\\aena_s_m_e_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\aena_s_m_e_s_a\\2023\\focused\\aena_s_m_e_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        19
+      ],
+      "start_page": 17,
+      "end_page": 24,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "19": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        307,
+        308,
+        310,
+        311,
+        313,
+        314
+      ],
+      "start_page": 295,
+      "end_page": 319,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "297": [
+                "Taxonomy-eligible activities",
+                "Article 8"
+              ],
+              "298": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "299": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "300": [
+                "Annex I",
+                "Annex II"
+              ],
+              "301": [
+                "Annex I"
+              ],
+              "302": [
+                "Annex I"
+              ],
+              "303": [
+                "Annex I"
+              ],
+              "304": [
+                "Annex I"
+              ],
+              "307": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities",
+                "Annex I"
+              ],
+              "308": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "310": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "311": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "313": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "314": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        514
+      ],
+      "start_page": 512,
+      "end_page": 519,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "514": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        600,
+        601,
+        602,
+        604
+      ],
+      "start_page": 598,
+      "end_page": 609,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "600": [
+                "Environmentally sustainable activities",
+                "Annex I"
+              ],
+              "601": [
+                "Environmentally sustainable activities"
+              ],
+              "602": [
+                "Environmentally sustainable activities"
+              ],
+              "604": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        650,
+        653,
+        659
+      ],
+      "start_page": 648,
+      "end_page": 664,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "650": [
+                "Article 8"
+              ],
+              "653": [
+                "Article 8"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "659": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        734,
+        738,
+        742
+      ],
+      "start_page": 732,
+      "end_page": 747,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "734": [
+                "Article 8"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "738": [
+                "Article 8"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "742": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        751,
+        755
+      ],
+      "start_page": 749,
+      "end_page": 760,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "751": [
+                "Article 8"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "755": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

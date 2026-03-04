@@ -1,0 +1,143 @@
+{
+  "company_slug": "corporacion_financiera_alba_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\corporacion_financiera_alba_s_a\\2023\\corporacion_financiera_alba_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\corporacion_financiera_alba_s_a\\2023\\focused\\corporacion_financiera_alba_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        217
+      ],
+      "start_page": 215,
+      "end_page": 222,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "217": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        273,
+        275,
+        277
+      ],
+      "start_page": 271,
+      "end_page": 282,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "273": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "275": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "277": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        307
+      ],
+      "start_page": 305,
+      "end_page": 312,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "307": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        322,
+        323,
+        324,
+        327,
+        329,
+        331,
+        334
+      ],
+      "start_page": 320,
+      "end_page": 339,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "322": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "323": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Article 8"
+              ],
+              "324": [
+                "Annex I"
+              ],
+              "327": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "329": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "331": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "334": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

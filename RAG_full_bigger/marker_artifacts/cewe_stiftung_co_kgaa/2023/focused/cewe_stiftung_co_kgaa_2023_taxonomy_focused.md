@@ -1,0 +1,748 @@
+## Page 46
+
+<sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>44</sup> → Report of the Supervisory Board
+
+4 Remuneration 5
+
+**Financial Statements** 6 Further
+
+6 Further Information
+
+≡ ↤ ⚲ ⟨ 44 ⟩
+
+At the meeting held on February 22, 2023, the Supervisory Board also discussed in depth with the Board of Management the potential impact on the company of the dispute between CEWE's executive bodies in 2022 (in particular, the financial situation of the managing partner Neumüller CEWE COLOR Stiftung, reactions of investors and the capital market), the Board of Management's self-management during the first few months of the year under review (without a CEO), the onboarding process for the new CEO, the overview of corporate planning and investments in 2023, CEWE's personnel strategy and its report on donations. In addition, a skills and expertise matrix was produced for the Supervisory Board.
+
+At the balance sheet meeting held on March 22, 2023, those present approvingly noted the audit findings for the annual financial statements and the consolidated financial statements, the combined management report, the consolidated non-financial statement, corporate governance and risk management, the report on related parties and the remuneration report.
+
+The Board of Management's proposal for the appropriation of profits was approved.
+
+Based on the recommendation of the Audit Committee, the Supervisory Board resolved to propose to the general meeting the appointment of BDO AG, Wirtschaftsprüfungsgesellschaft, Hamburg, as auditors of the annual financial statements and consolidated financial statements for the financial year 2023.
+
+The Supervisory Board's report was discussed and approved.
+
+Finally, the Board of Management provided an account of the developments in the dispute between CEWE's executive bodies.
+
+At the extraordinary meeting on April 5, 2023, the Supervisory Board confirmed the proposed candidates for election to the Supervisory Board who were to be presented to the general meeting. The Supervisory Board also approved the draft version of the invitation to the general meeting. This approval included an amendment of the articles of association provided for in item 8, to enable future virtual general meetings.
+
+At the extraordinary meeting of May 11, 2023, the lawyer Dr Nase of the law firm P+P Pöllath + Partners Rechtsanwälte und Steuerberater mbB (who attended this meeting as a guest) provided the Supervisory Board with a presentation on the reimbursability of
+
+costs incurred by Neumüller CEWE COLOR Stiftung in connection with the makeup of the company's executive bodies.
+
+Following the election of the shareholders' representatives at the general meeting which took place on June 7, 2023, at its constitutive meeting the Supervisory Board elected Mr Kersten Duve as its Chairman and Mr Markus Schwarz as its Deputy Chairman. Ms Daniel Mattheus was elected as the Chairwoman of the Audit Committee, while Mr Kersten Duwe, Mr Nurol Altan and Mr Markus Schwarz were elected as additional members. Dr Birgit Vemmer, Mr Paolo Dell'Antonio and Mr Kersten Duwe were elected as members of the Nomination Committee.
+
+At the meeting held on September 13, 2023, the Supervisory Board held an in-depth discussion of the technology used in production operations and also inspected the company's new pouch sorter in Oldenburg.
+
+The Board of Management reported on the decision reached to prepare to sell the company's equity investment in futalis GmbH and related considerations.
+
+The Chairwoman of the Audit Committee reported on matters dealt with at the most recent committee meetings, in particular the auditor's review of the semi-annual financial statements as of June 30, 2023 and the tender process for the audit of the 2024 consolidated financial statements and annual financial statements.
+
+The Supervisory Board authorised the Board of Management to implement the Stock Option Plan 2023 and the Employee Share Programme 2023 in accordance with the proposed terms and conditions.
+
+At the meeting on November 8, 2023, as well as the usual topics the Board of Management reported on the development of DeinDesign and the planned measures to improve turnover and earnings. It also provided information on the use and development of AI in the company's organisational structure, processes and products. Finally, this meeting covered CEWE's current personnel structure and strategic human resources activities, the development of the women's quota at management levels, the company's brand image as an employer as well as recruitment and junior staff planning. The skills and expertise matrix for the Supervisory Board was updated.
+
+## Page 47
+
+#### <sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>45</sup> → Report of the Supervisory Board
+
+The Chairwoman of the Audit Committee reported on the topics dealt with by the previous day's committee meeting. The tender process for the audit of the 2024 consolidated financial statements and annual financial statements, which was necessary due to the required regular external rotation of the auditor, was successfully completed. In line with the recommendation provided by the Audit Committee, the Supervisory Board resolved to propose to the general meeting the appointment of Deloitte GmbH Wirtschaftsprüfungsgesellschaft, Hamburg, as auditors of the 2024 annual financial statements and consolidated financial statements. In addition, the Supervisory Board resolved the core areas of audit focus for the 2023 audit.
+
+The current auditor reported on the findings of its preliminary audit and its ISA 315 (revised) audit.
+
+In order to provide more efficient support in relation to the ongoing development of the Group-wide IT structure, the Supervisory Board appointed an advisory committee. The Board of Management keeps this committee regularly informed of key developments. Ms Petra Adolph, Dr Birgit Vemmer (Chairwoman), Mr Marc Bohlken and Mr Paolo Dell' Antonio were elected to this committee. Its first meeting was held at the start of 2024.
+
+The Supervisory Board determined that no transactions with related parties exceeding the relevant threshold and requiring approval had occurred in the year under review.
+
+#### **Committee meetings**
+
+In the year under review, the Nomination Committee discussed the question of the successors to the Supervisory Board chairman, Mr Frank Zweigle, and the Chairwoman of the Audit Committee, Ms Patricia Geibel-Conrad, and selected candidates for these positions. It met on February 22, March 10, March 22 and March 29. Following highly
+
+constructive discussions and after weighing up the strengths and weaknesses of various candidates it decided to recommend Ms Daniela Mattheus and Mr Kersten Duwe to the Supervisory Board, to be put forward to the general meeting. Mr Paolo Dell' Antonio (Chairman), Ms Patricia Geibel-Conrad, Dr Birgit Vemmer and Mr Frank Zweigle served as the members of this committee.
+
+In the year under review, the Audit Committee had the following members: Ms Patricia Geibel-Conrad (Chairwoman, until June 7, 2023), Ms Daniela Mattheus (Chairwoman, from June 7, 2023), Mr Markus Schwarz, Mr Paolo Dell' Antonio (until June 7, 2023) as well as Mr Nurol Altan and Mr Kersten Duwe (both from June 7, 2023). Regarding the competences and makeup of the committees, please refer to the management declaration (on **[pages](#page-84-0)  [83 ff.](#page-84-0)**) in the annual report.
+
+The Audit Committee met on eight occasions during the year under review. Ordinary meetings were held on March 21, August 2, August 7 and November 3. The Audit Committee also held extraordinary meetings on August 22, September 25, October 9 and November 7. The latter meetings were necessary on account of the audit tender process required under the EU Audit Regulation (Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision 2005/909/EC ("EU Audit Regulation"). Meetings took place either in person or in the form of videoconferences.
+
+Prior to each meeting, the Chairwoman of the Audit Committee and the auditor held a confidential discussion on the audit findings and other audit-related issues. The meetings and resolutions passed were prepared for by means of reports and other information provided by the Board of Management. Various members of the Board of Management and the auditor regularly attended all of the meetings. In addition, the heads of the related
+
+## Page 48
+
+#### <sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>46</sup> → Report of the Supervisory Board
+
+Group functions – in particular, corporate accounting, legal & compliance, risk management and internal auditing – reported on specific items of the agenda and were available to answer any questions. The Audit Committee also met regularly and, where required, did so from time to time without the Board of Management and/or the auditor present.
+
+The committee chairwoman kept the full Supervisory Board promptly and comprehensively informed of the matters discussed at the committee's meetings and their respective outcomes.
+
+The Chairwoman of the Audit Committee was also available outside of committee meetings for regular discussions with the Board of Management as well as individual members of the Board of Management and selected management functions, such as risk management, compliance and internal auditing.
+
+Moreover, between these meetings and without the Board of Management being present the Chairwoman of the Audit Committee and the auditor held a confidential discussion regarding audit issues and other matters of significance for the work of the Supervisory Board. The key issues were presented to the other members of the committee no later than the next committee meeting.
+
+Following its appointment by the 2023 general meeting, the Audit Committee engaged the auditor to audit the annual financial statements and the consolidated financial statements, including the combined management report for CEWE & Co. KGaA and the Group and to review the semi-annual financial report for the financial year 2023. In this regard, the Audit Committee determined the audit fee and discussed the key audit matters. It was agreed that the auditor would immediately notify the Supervisory Board of any incidents and findings resulting during the audit which are of material significance for the tasks of the Supervisory Board. Appropriate parameters were stipulated for the provision of non-audit services permitted under the relevant EU legislation. The Audit Committee satisfied itself of the auditor's necessary independence. The Audit Committee also engaged the auditor to review the consolidated, separate non-financial statement for CEWE Stiftung & Co. KGaA and the Group – which is prepared in the form of a separate non-financial
+
+report – as well as the remuneration report within the meaning of § 162 of the German Stock Corporation Act (Aktiengesetz – AktG) and the report on related parties within the meaning of § 312 AktG. The remuneration report is made available to the general public via CEWE's website.
+
+The Audit Committee considered the financial reporting of the company and the Group, including the intrayear financial reports (quarterly statements and the semi-annual financial report) and discussed these with the Board of Management. For this purpose, the auditor reported on the results of the audit activities which it had been tasked to undertake by the Supervisory Board or the Board of Management and on other findings and incidents of significance for the work of the Audit Committee. There were no objections.
+
+The Audit Committee also examined the financial reporting process and the effectiveness of the internal Group-wide control and risk management system as well as the ongoing development of the latter. In addition, the quarterly risk reports were discussed. The Audit Committee also discussed the reports provided by the compliance officer on compliance within the Group as well as significant legal disputes and the internal auditing department's status report.
+
+The Audit Committee moreover considered CEWE's sustainability reporting and implementation of the reporting requirements arising from the EU Taxonomy and CSRD regulation. In the year under review, the Audit Committee once again ensured that it was kept regularly informed of any changes to the regulatory environment and discussed required measures, including the impact of the German Act Transposing the EU Minimum Tax Directive.
+
+The auditor's provision of non-audit services and compliance with the parameters stipulated in this regard were monitored and adjustments were made.
+
+The Board of Management also presented its report on transactions with related parties. There were no transactions requiring approval within the meaning of § 111b AktG.
+
+## Page 49
+
+<sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>47</sup> → Report of the Supervisory Board
+
+tion 5 Financial Stateme
+
+← 🔍 < 47 >
+
+An additional focus of the Audit Committee in the financial year 2023 – due to the required regular external rotation of the auditor upon expiry of the financial year 2023 – was the implementation of a transparent and discrimination-free process for the selection of the auditor for the financial year 2024. For this purpose, at its ordinary meeting on August 2, 2023 the Audit Committee had resolved to initiate a tender process pursuant to Art. 16 of the EU Audit Regulation. Following a multistage process and a careful review of the tendering firms in terms of their qualifications and independence, the Audit Committee passed a resolution on this matter at its meeting of November 7, 2023. The Audit Committee provided the Supervisory Board with a recommendation (including the reasons for this) that a proposal be made to the general meeting for either Deloitte GmbH Wirtschaftsprüfungsgesellschaft, Hamburg, or PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft, Bremen, to be appointed as the auditor of the annual financial statements and consolidated financial statements for the financial year 2024 and to review the semi-annual financial report for the financial year 2024. The Audit Committee justified its preference for Deloitte GmbH Wirtschaftsprüfungsgesellschaft, Hamburg.
+
+At its balance sheet meeting held on March 18, 2024, in the presence of the auditor the Audit Committee discussed the annual financial statements and consolidated financial statements as well as the combined management report for CEWE Stiftung & Co. KGaA and the Group, and the consolidated, separate non-financial report for CEWE Stiftung & Co. KGaA and the Group for the financial year 2023, including the auditor's audit reports and audit opinions, the related proposal for the appropriation of profits, the remuneration report and the report on related parties. It also prepared the corresponding resolutions to be adopted by the Supervisory Board. The Audit Committee was provided with detailed information on the audit activities and audit findings of the auditor for the parent company as well as its German and foreign subsidiaries, particularly in relation to the key audit matters and the defined core audit areas. The audit of the accounting-related internal control system and the early risk detection system were also discussed in depth. The Audit Committee also considered the audit process and its level of quality at this meeting. Further members of the Supervisory Board were also able to attend this balance sheet meeting of the Audit Committee as guests.
+
+#### **Corporate governance**
+
+In the year under review, the Supervisory Board had eight female members (until June 7, 2023)/six female members (from June 7, 2023) and four male members (until June 7, 2023)/six male members (from June 7, 2023) and thus continued to fulfil the Supervisory Board quota which is required by law.
+
+For the financial year 2023, the Board of Management and the Supervisory Board have submitted an updated declaration of conformity in accordance with § 161 AktG, which is available on the company's website. In addition, in the management declaration – which the Supervisory Board adopts as its own – the Board of Management reports on corporate governance at CEWE (available at **[ir.cewe.de](https://ir.cewe.de/websites/cewe/English/6000/corporate-governance.html)** – see Corporate governance/Declaration).
+
+#### **Conflicts of interest**
+
+In the reporting period, there were no conflicts of interest on the part of members of the Board of Management or the Supervisory Board which must be immediately disclosed to the Supervisory Board and notified to the general meeting.
+
+#### **Initial and advanced training**
+
+The members of the Supervisory Board independently receive the initial and advanced training that they require for their tasks. CEWE assists the members of the Supervisory Board here by providing them with access to membership of an online supervisory board portal with relevant instruction materials and reference works. New members of the Supervisory Board are able to obtain an overview of the company (onboarding) by discussing key matters and current topics with the Board of Management and the executives concerned.
+
+#### **Changes to the makeup of the executive bodies**
+
+On September 13, 2022, the Board of Trustees of Neumüller CEWE COLOR Stiftung appointed Ms Yvonne Rostock, Ratingen, as the Chairwoman of the Board of Management of Neumüller CEWE COLOR Stiftung. She took up her post on March 1, 2023.
+
+## Page 50
+
+#### <sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>48</sup> → Report of the Supervisory Board
+
+In 2023, regular elections to the Supervisory Board were held for the next term of office of around five years, i.e. up to the end of the general meeting which grants discharge to the Supervisory Board members for the fourth financial year since the start of their term of office, not including the financial year in which this term of office begins. The Supervisory Board members Ms Patricia Geibel-Conrad, Ms Marion Gerdes, Mr Alexander Oyen, Ms Elwira Wall and Mr Frank Zweigle retired from the Supervisory Board on June 7, 2023. On the other hand, Ms Daniela Mattheus and Mr Kersten Duwe were elected to the Supervisory Board of CEWE Stiftung & Co. KGaA by the general meeting, while Mr Marc Bohlken, Mr Nural Altan and Mr Jan Grüneberg were elected to this executive body by CEWE's employees. These new members were in each case elected for the first time. The other members of the Supervisory Board were re-elected.
+
+#### **Annual financial statements and consolidated financial statements, audit**
+
+The annual financial statements and the management report, combined with the management report of CEWE Stiftung & Co. KGaA, have been prepared by the Board of Management in accordance with the provisions of the German Commercial Code (Handelsgesetzbuch – HGB), while the consolidated financial statements and the combined consolidated management report have been prepared in compliance with the International Financial Reporting Standards (IFRS), as applied in the European Union (EU), as well as the provisions of German law which apply in addition under § 315e (1) HGB.
+
+BDO AG Wirtschaftsprüfungsgesellschaft, Hamburg – which was appointed as the auditor for the financial year 2023 by the general meeting – audited the annual financial statements and the consolidated financial statements as well as the consolidated management report combined with the management report for CEWE Stiftung & Co. KGaA for the financial year 2023, including the accounting, and issued an unqualified auditor's opinion in each case. Mr Jörg Sabath and Mr Christoph Hyckel have acted as the company's auditors. Mr Jörg Sabath has done so since the financial year 2019 and Mr Christoph Hyckel – as the auditor with responsibility for the audit – since the financial year 2021. The auditor also determined that the Board of Management has established an appropriate information and monitoring system which is suitable in order to identify early on any developments which jeopardise the continuation of the company as a going concern.
+
+At its meeting held on March 18, 2024, the Audit Committee initially verified on the basis of the audit reports and the Board of Management's report that these two sets of financial statements and the combined management report provide a true and fair view of the net assets, financial position and results of operations in compliance with applicable accounting regulations. At this meeting, the auditor discussed in detail the process as well as the key findings of its audit of the separate financial statements and the consolidated financial statements and of the combined management report, including the key audit matters and the other core audit areas. The audit of the non-financial reporting and the remuneration report were also explained and discussed in detail. The auditor was available throughout the meeting to answer any further questions. In particular, it reported on the structure of the accounting-related internal controls and the risk management system. It did not report any significant weaknesses. The Chairwoman of the Audit Committee reported to the Supervisory Board on the audit findings on March 19, 2024.
+
+For its part, the Supervisory Board also audited the annual financial statements, the proposal for appropriation of the unappropriated profits for 2023 as well as the consolidated financial statements, the combined consolidated management report and the remuneration report for the financial year 2023. All of these documents – including the auditor's audit reports – were provided in good time. The auditor was also present at the balance sheet meeting of the Supervisory Board held on March 19, 2024 and was available to provide further information. Additional questions from the members of the Supervisory Board prompted an in-depth discussion of the presented findings.
+
+The Supervisory Board was able to verify the appropriateness of the general partner's proposal for appropriation of unappropriated profits in relation to the company's net assets, financial position and results of operations and agreed to this proposal, following a discussion in the presence of the auditor. Finally, the Supervisory Board complied with its audit obligation under § 171 (1) sentence 4 AktG in relation to the consolidated nonfinancial statement and did not raise any objections.
+
+Following a preliminary audit by the Audit Committee at a meeting held on March 18, 2024, at its meeting of March 19, 2024 the Supervisory Board endorsed the annual financial statements and the consolidated financial statements of CEWE Stiftung & Co. KGaA as well as the combined management report, and found that there were no grounds for objections. Following the discussion at its balance sheet meeting held on March 19, 2024, the Supervisory Board agreed to the general partner's proposal to the general meeting to approve the annual financial statements of CEWE Stiftung & Co. KGaA and moreover issued its consent to the general partner's proposal for the appropriation of profits, with the distribution of a dividend of 2.60 euros.
+
+## Page 51
+
+#### **Report on related parties**
+
+The Supervisory Board's independent audit likewise covered the report prepared by the general partner pursuant to § 312 AktG on relationships with affiliates (report on related parties) for the year under review. The report on related parties has also been audited by the auditor, which has issued the following audit opinion for this report:
+
+"Upon due completion of our audit and assessment, we hereby confirm that
+
+- 1. the factual statements provided in the report are accurate,
+- 2. the company has not made any disproportionately large payment for any of the legal transactions listed in the report."
+
+The report on related parties and the audit report of the auditor on the report on related parties were available to the Audit Committee at its meeting held on March 18, 2024 and to all of the members of the Supervisory Board at its balance sheet meeting held on March 19, 2024. Even after consultation with the auditor and the Board of Management following the final outcome of its audit, the Supervisory Board has not raised any objections in relation to the general partner's declaration at the end of its report on related parties. The Supervisory Board has approvingly noted the outcome of the auditor's audit of the report on related parties.
+
+Oldenburg, March 19, 2024
+
+The Supervisory Board of CEWE Stiftung & Co. KGaA
+
+Kersten Duwe, Chairman
+
+## Page 52
+
+Image /page/51/Picture/1 description: A high-angle shot captures a runner's leg and foot in motion, adorned with a vibrant red and yellow shoe, set against a textured gray asphalt surface. The runner's shadow stretches out beside them, accompanied by the shadows of onlookers, creating a dynamic interplay of light and form.
+
+**cewe group**
+
+## Page 53
+
+# <span id="page-52-0"></span>3 Combined Management Report
+
+#### **[Basic information on the Group](#page-53-0)**
+
+- [Business model](#page-53-0)
+- [Organisation and management systems](#page-54-0)
+- [Goals and strategies](#page-55-0)
+- [Research & development](#page-57-0)
+
+#### **[Economic report](#page-59-0)**
+
+- [Markets](#page-59-0)
+- [Results](#page-62-0)
+- [Balance sheet](#page-65-0)
+- [Return on capital employed](#page-68-0)
+- [Cash flow](#page-68-0)
+- [Overall statement on the](#page-69-0)  [economic situation](#page-69-0)
+
+#### **[Events after the balance sheet date](#page-69-0)**
+
+ [Events of particular significance after](#page-69-0)  [the balance sheet date](#page-69-0)
+
+#### **[Forecast, opportunities and risk report](#page-70-0)**
+
+- [Risk report](#page-70-0)
+- 71 [Report on opportunities](#page-72-0)
+- 72 [Report on expected developments](#page-73-0)
+
+#### **[Internal control and risk](#page-76-0)  [management system](#page-76-0)**
+
+- 75 [Compliance](#page-76-0)
+- 75 [Risk management system](#page-76-0)
+
+#### **[Acquisition-related disclosures](#page-79-0)**
+
+[78 Disclosures in accordance with](#page-79-0)  [§ 289a and 315a HGB](#page-79-0)
+
+#### **[Annual financial statements](#page-82-0)  [of CEWE Stiftung & Co. KGaA](#page-82-0)**
+
+ [Results of operations, asset and](#page-82-0)  [financial position](#page-82-0)
+
+#### **[Reports on the company's management](#page-84-0)**
+
+- [Management declaration](#page-84-0)
+- [Final declaration by the Board of Management](#page-93-0)
+- [92 Transactions with related parties](#page-93-0)
+- [Separate consolidated non-financial report](#page-94-0)
+
+#### **[Description of key indicators](#page-95-0)**
+
+## Page 198
+
+# <span id="page-197-0"></span>6 Further Information
+
+- **[197 Separate consolidated non-financial report](#page-198-0)**
+- 204 [Independent auditor's report](#page-205-0)
+- **[207 Financial statements of](#page-208-0)  [CEWE Stiftung & Co. KGaA](#page-208-0)**
+- [207 Profit and loss account of](#page-208-0)  [CEWE Stiftung & Co. KGaA](#page-208-0)
+
+Image /page/197/Figure/10 description: The image shows the text "216 Production plants and distribution offices" in blue font.
+
+**218 [Financial calendar](#page-219-0)**
+
+**219 [Imprint](#page-220-0)**
+
+Image /page/197/Figure/13 description: The image shows the text "CEWE Stiftung & Co. KGaA 208 Balance sheet of CEWE Stiftung & Co. KGaA 210 Multi-year overview" with a background of blue and purple dots forming a wave pattern.
+
+## Page 199
+
+t 4 Remuneration
+
+5 Financial Statements
+
+→ Separate consolidated non-financial report
+
+# <span id="page-198-0"></span>Separate consolidated non-financial report
+
+With this separate consolidated non-financial report, CEWE Stiftung & Co. KGaA business group (hereinafter CEWE) complies with the duty to disclose non-financial information for the financial year 2023 in accordance with Secs. 315b and 315c HGB in conjunction with Secs. 289c to 289e HGB. The separate consolidated non-financial report has been consolidated with the separate consolidated non-financial report of the parent company in accordance with Sec. 289b HGB. It is incorporated into the annual report and refers to the GRI Standards (Sec. 289d HGB) as its framework. The separate consolidated nonfinancial report was reviewed and released by the Board of Management. The Supervisory Board assessed the separate consolidated non-financial report for its legality, reliability and appropriateness.
+
+#### **Business model**
+
+CEWE is active in three strategic business units: Photofinishing, Commercial Online Printing and Retail. The locations and distribution offices are spread to 26 countries across Europe. Buyers and recipients include retail stores, consumers and trade professionals. The mandatory information pertaining to the business model are detailed in this annual report from **[page 52 f.](#page-53-0)** onwards.
+
+#### **Relevance of sustainability**
+
+Sustainability has been enshrined within the Board of Management since 2008 and has been governed by Thomas Mehls since 2016, who oversees Sustainability, Marketing and New Business Units on the Board of Management. He governs sustainability together with two area managers and in co-ordination with the Sustainability Task Force **[Sustainability](https://company.cewe.de/en/sustainability/sustainability-reports.html)  [Report 2023, page 17](https://company.cewe.de/en/sustainability/sustainability-reports.html)**. CEWE greatly values sustainable governance across all sectors and has included all areas in its sustainability activities **[Sustainability Report 2023, pages 17 and](https://company.cewe.de/en/sustainability/sustainability-reports.html)  [21 f.](https://company.cewe.de/en/sustainability/sustainability-reports.html)** Sustainability management thus forms an integral part of corporate governance within the organisation. The strategy is rooted in five dimensions: honest and fair conduct, economic viability, environmental protection and resource conservation, responsibility for employees and social commitment **[Sustainability Report 2023, page 17](https://company.cewe.de/en/sustainability/sustainability-reports.html)**.
+
+#### **Process to establish material non-financial topics according to the CSR Directive Implementation Act (CSR-RUG)**
+
+When assessing aspects that concern the separate consolidated non-financial report, CEWE was guided by the material topics of sustainability in accordance with the 2020 version of the materiality analysis. **[Sustainability Report 2023 pages 21 f.](https://company.cewe.de/en/sustainability/sustainability-reports.html)** CEWE conducted a comprehensive stakeholder survey in 2020 for this, which once again serves as the basis for this year's separate consolidated non-financial report **[Sustainability Report 2023 page 21](https://company.cewe.de/en/sustainability/sustainability-reports.html)**. The aspects were reviewed once again in preparation of this report with regard to the materiality requirements under the CSR Directive Implementation Act (CSR-RUG). Comments from the auditing process of the previous reporting year were consulted. It was explored whether the details are necessary to understand the business performance, the business result, the company's position as well as the understanding of the impact of the company's activities on non-financial aspects.
+
+An internal review has established that the current material topics continue to be relevant for CEWE. These are currently being further specified as part of the adjustments to the double materiality in accordance with the future requirements of the ESRS. In conclusion, the strategic priorities from the materiality matrix were attributed to concerns according to CSR-RUG, notably Climate Protection as well as Materials and Waste (Environmental), Responsible Use of Technology (Social) and Sustainable Products (Products). Moreover, the following topics from the materiality matrix were attributed to concerns which the CSR-RUG rates as material: Good Employer (Employee Rights), Sustainable Supply Chain (Human Rights), Fair Working Practices (Anti-Corruption and Bribery). Other topics from the materiality matrix were not deemed to be material according to CSR-RUG.
+
+CEWE plans to conduct new stakeholder surveys at regular intervals to establish if the defined topics remain relevant. A new stakeholder survey was originally planned for 2023. However, due to the changed legal situation for the 2024 report, this was postponed in order to implement the adjustment to the double materiality analysis in accordance with the CSRD.
+
+## Page 200
+
+The outcome from the risk assessment is summarised on **[pages 37 and 38 of the Sustainability](https://company.cewe.de/en/sustainability/sustainability-reports.html)  [Report](https://company.cewe.de/en/sustainability/sustainability-reports.html)**. In line with Secs. 289c (3), 3 and 4 and 315c (2) HGB, no material risks were identified, neither in relation to its own business activities or its business relationships, nor for products and services in terms of non-financial aspects under review, which most likely have or would have serious negative impacts on these aspects.
+
+#### **Reporting in accordance with EU taxonomy**
+
+The European Green Deal is a concept developed by the European Commission with the overarching aim of transitioning towards a competitive, resource-efficient and climate-neutral European economy. To achieve this goal, different actions have been defined for such areas as energy supply, traffic, trade, industry, agriculture and forestry as well as financial market regulation.
+
+One element of the European Green Deal includes the objective of the EU taxonomy, which furthers sustainable investments by designing a common classification system on what environmentally sustainable economic activities across all sectors are. The respective mandatory reporting which was launched for capital market-guided enterprises is to give users the transparent and uniform possibility to compare the sustainability of business models.
+
+Article 9 of the Taxonomy Regulation specifies six environmental objectives of the European Union:
+
+- Climate change mitigation
+- Climate change adaptation
+- The sustainable use and protection of water and marine resources
+- The transition to a circular economy
+- Pollution prevention and control
+- The protection and restoration of biodiversity and ecosystems.
+
+For the financial year 2021, the disclosure focused initially on the first two objectives only due to the facilitation granted by the EU, i.e., Climate Change Mitigation and Climate Change Adaptation, regarding the proportion of taxonomy-eligible economic activities in the overall turnover as well as in capital expenditures and operational expenses. Since this facilitation option has been dropped for the financial year 2022, the reporting covered not only taxonomy eligibility, but also examined taxonomy alignment. Due to the Environmental Delegated Act, reporting for the 2023 financial year is required on all six environmental objectives. In accordance with the facilitation granted for the 2021 financial year, the disclosure obligations for the 2023 financial year with regard to the four new environmental objectives "Sustainable use and protection of water and marine resources", "Transition to a circular economy", "Pollution prevention and control" and "Protection and restoration of biodiversity and ecosystems" also only include the assessments of possible taxonomy eligibility in each case.
+
+Taxonomy-eligible economic activities include those established and described in the Climate/Environmental Delegated Act as they are relevant for the environmental objectives named. Moreover, identified taxonomy-eligible economic activities are considered to be taxonomy aligned if they meet the so-called technical screening criteria, which are fundamentally composed of two components: (1) substantial contribution towards one of the named environmental objectives; and (2) do no harm to other environmental objectives.
+
+Furthermore, it must be ensured that minimum social safeguards are met (in accordance with OECD Guidelines for Multinational Enterprises, UN Guiding Principles on Business and Human Rights, ILO core labour standards and the International Bill of Human Rights).
+
+cewe group
+
+ements 6 Fur
+
+→ Separate consolidated non-financial report
+
+**Risk assessment**
+
+## Page 201
+
+t 4 Remuneration
+
+5 Financial Statements
+
+non-financial report
+
+The individual key indicators are established by applying the International Financial Reporting Standards (IFRS), which are used for the consolidated financial statements and take all fully consolidated Group companies into consideration. The overall turnover concurs with the value shown in the profit and loss account for the financial year concerned. Overall capital expenditures are defined as the sum of gross additions to the tangible and intangible fixed assets during the year under review without goodwill acquired. Overall operational expenses encompass all direct, non-capitalised costs connected to research & development, renovation measures, short-term leases as well as upkeep and maintenance or repair. For calculation of the figures, the financial indicators turnover, operational expenses (OPEX) and capital expenditures (CAPEX) were analysed regarding their taxonomy eligibility. Data from the annual report and the consolidation system were evaluated in order to identify the proportion of turnover, as well as capital expenditures and operational expenses, that can be attributable to taxonomy-eligible economic activities. The individual items are clearly allocated to the respective category and environmental objectives so that nothing was counted twice.
+
+The following information reflects CEWE's own assessment. The legislative acts published so far on the Taxonomy Regulation only contain activities of particular relevance to climate change mitigation and climate change adaptation, and no activities for the other four environmental objectives. For the CEWE Group, no turnover-relevant economic activities have been classified according to the current status of the regulations and no turnover could be established that is eligible under the taxonomy. Depending on the specific content of the Regulation, however, taxonomy-compliant revenues could be determined for the CEWE Group for the next financial years.
+
+The analysis of economic activities regarding capital expenditure has shown that investments are being made in taxonomy-eligible economic activities relating to the purchase of products and services named under Annex I (Substantial Contribution to Climate Change Mitigation) of the delegated act. This refers mainly to bicycle traffic and the vehicle fleet (Activities 6.4 and 6.5) as well as measures for renewable energy (Activity 7.6).
+
+Furthermore, operational expenses have been identified that relate to the purchase of products and services from taxonomy-eligible economic activity as named under Annex I (Substantial Contribution to Climate Change Mitigation) of the delegated regulation. These particularly include expenses for bicycle traffic and the vehicle fleet (Activities 6.4 and 6.5).
+
+The analysis of taxonomy-eligible economic activities regarding their conformity has shown that the responses are not sufficient to draw the conclusion that the necessary requirements could be regarded as fulfilled.
+
+There are no activities pursuant to Delegated Regulation 2022/1214 regarding nuclear energy and fossil gas.
+
+## Page 202
+
+→ Separate consolidated non-financial report
+
+**CAPEX**
+
+|                                                                                                                                                 |             |                    |                                     |                                          |                                          | Criteria for a substantial contribution   |                       |                              |                                             |                                   |                                   |                                    |                | DNSH criteria         |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------------|-------------------------------------|------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------|------------------------------|---------------------------------------------|-----------------------------------|-----------------------------------|------------------------------------|----------------|-----------------------|-------------------------------------|-------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------|--------------------------------------------|--|--|--|--|
+| Economic activity (1)                                                                                                                           | Code(s) (2) | CapEx (3)<br>[EUR] | CapEx-Anteil, Jahr 2023 (4)<br>in % | Climate change<br>mitigation (5)<br>as % | Climate change<br>adaptation (6)<br>as % | Water and marine<br>resources (7)<br>as % | Pollution (8)<br>as % | Circular economy (9)<br>in % | Biodiversity and<br>ecosystems (10)<br>as % | Climate change<br>mitigation (11) | Climate change<br>adaptation (12) | Water and marine<br>resources (13) | Pollution (14) | Circular economy (15) | Biodiversity and<br>ecosystems (16) | Minimum safeguards (17) | Share of taxonomy-aligned<br>(A.1.) or taxonomy-eligible<br>(A.2.) CapEx, year 2022 (18)<br>in % | Category (enabling<br>activities) (19) | Category (transitional<br>activities) (20) |  |  |  |  |
+|                                                                                                                                                 |             | in EUR             | %                                   | Y; N; N/EL                               | Y; N; N/EL                               | Y; N; N/EL                                | Y; N; N/EL            | Y; N; N/EL                   | Y; N; N/EL                                  | Y/N                               | Y/N                               | Y/N                                | Y/N            | Y/N                   | Y/N                                 | Y/N                     | %                                                                                                | E                                      | T                                          |  |  |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                 |             |                    |                                     |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+| A.1. Environmentally sustainable activities (taxonomy aligned)                                                                                  |             |                    |                                     |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+| CapEx environmentally sustainable activities<br>(taxonomy aligned) (A.1)                                                                        |             | 0                  | 0.00                                | N                                        | N                                        | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        | N                                 | N                                 | N                                  | N              | N                     | N                                   | N                       | N                                                                                                |                                        |                                            |  |  |  |  |
+| Of which enabling activities                                                                                                                    |             | –                  | –                                   | –                                        | –                                        | –                                         | –                     | –                            | –                                           | –                                 | –                                 | –                                  | –              | –                     | –                                   | –                       | –                                                                                                | E                                      |                                            |  |  |  |  |
+| Of which transitional activities                                                                                                                |             | –                  | –                                   | –                                        | –                                        | –                                         | –                     | –                            | –                                           | –                                 | –                                 | –                                  | –              | –                     | –                                   | –                       | –                                                                                                |                                        | T                                          |  |  |  |  |
+| A.2 Taxonomy-eligible, but not environmentally sustainable activities (non-taxonomy-aligned activities)                                         |             |                    |                                     |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+|                                                                                                                                                 |             |                    |                                     | EL; N/EL                                 | EL; N/EL                                 | EL; N/EL                                  | EL; N/EL              | EL; N/EL                     | EL; N/EL                                    |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+| Operation of personal mobility devices,<br>cycle logistics                                                                                      | CCM 6.4     | 211,660            | 0.34                                | EL                                       | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        |                                   |                                   |                                    |                |                       |                                     |                         | 0.03                                                                                             |                                        |                                            |  |  |  |  |
+| Transport by motorbikes, passenger cars and<br>light commercial vehicles                                                                        | CCM 6.5     | 262,621            | 0.41                                | EL                                       | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        |                                   |                                   |                                    |                |                       |                                     |                         | 1.40                                                                                             |                                        |                                            |  |  |  |  |
+| Installation, maintenance and repair of energy<br>efficiency equipment                                                                          | CCM 7.4     | 57,139             | 0.09                                | EL                                       | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        |                                   |                                   |                                    |                |                       |                                     |                         | 0.64                                                                                             |                                        |                                            |  |  |  |  |
+| Installation, maintenance and repair of instruments<br>and devices for measuring, regulation and<br>controlling energy performance of buildings | CCM 7.5     | 3,084              | 0.00                                | EL                                       | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        |                                   |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                             |                                        |                                            |  |  |  |  |
+| Installation, maintenance and repair of<br>renewable energy technologies                                                                        | CCM 7.6     | 869,428            | 1.37                                | EL                                       | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        |                                   |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                             |                                        |                                            |  |  |  |  |
+| CapEx taxonomy-eligible, but not environmen-<br>tally sustainable activities (non-taxonomy-<br>aligned activities) (A.2)                        |             | 1,403,932          | 2.21                                | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         | 2.20                                                                                             |                                        |                                            |  |  |  |  |
+| Total (A.1 + A.2)                                                                                                                               |             | 1,403,932          | 2.21                                | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         | 2.20                                                                                             |                                        |                                            |  |  |  |  |
+| B. NON-TAXONOMY-ELIGIBLE ACTIVITIES (B)                                                                                                         |             |                    |                                     |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+| CapEx non-taxonomy-eligible activities (B)                                                                                                      |             | 62,175,068         | 97.79                               | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+| Total (A + B)                                                                                                                                   |             | 63,579,000         | 100.00                              | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+|                                                                                                                                                 |             |                    |                                     |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                                  |                                        |                                            |  |  |  |  |
+
+## Page 203
+
+| 1 CEWE at a Glance<br>2 To the Shareholders<br>OPEX                                                                                             |             | 3 Combined Management Report |                            |                                          | 4 Remuneration                           |                                           | 5 Financial Statements |                                         |                                             | 6 Further Information<br>→ Separate consolidated<br>non-financial report |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                | 201                                        |  |               |  |  |  |  |  |  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------|----------------------------|------------------------------------------|------------------------------------------|-------------------------------------------|------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|-----------------------------------|------------------------------------|----------------|-----------------------|-------------------------------------|-------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------|--|---------------|--|--|--|--|--|--|
+|                                                                                                                                                 |             |                              |                            |                                          |                                          |                                           |                        | Criteria for a substantial contribution |                                             |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  | DNSH criteria |  |  |  |  |  |  |
+| Economic activity (1)                                                                                                                           | Code(s) (2) | Total turnover (3)<br>[EUR]  | Turnover share (4)<br>as % | Climate change<br>mitigation (5)<br>as % | Climate change<br>adaptation (6)<br>as % | Water and marine<br>resources (7)<br>as % | Pollution (8)<br>as %  | Circular economy (9)<br>in %            | Biodiversity and<br>ecosystems (10)<br>as % | Climate change<br>mitigation (11)                                        | Climate change<br>adaptation (12) | Water and marine<br>resources (13) | Pollution (14) | Circular economy (15) | Biodiversity and<br>ecosystems (16) | Minimum safeguards (17) | Share of taxonomy-aligned<br>(A.1.) or taxonomy-eligible<br>(A.2.) OpEx, year 2022 (18) | Category (enabling<br>activities) (19)<br>in % | Category (transitional<br>activities) (20) |  |               |  |  |  |  |  |  |
+|                                                                                                                                                 |             | in EUR                       | %                          | Y; N; N/EL                               | Y; N; N/EL                               | Y; N; N/EL                                | Y; N; N/EL             | Y; N; N/EL                              | Y; N; N/EL                                  | Y/N                                                                      | Y/N                               | Y/N                                | Y/N            | Y/N                   | Y/N                                 | Y/N                     | %                                                                                       | E                                              | T                                          |  |               |  |  |  |  |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                 |             |                              |                            |                                          |                                          |                                           |                        |                                         |                                             |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+| A.1. Environmentally sustainable activities (taxonomy aligned)                                                                                  |             |                              |                            |                                          |                                          |                                           |                        |                                         |                                             |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+| OpEx environmentally sustainable activities<br>(taxonomy aligned) (A.1)                                                                         |             | 0                            | 0.00                       | N                                        | N                                        | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        | N                                                                        | N                                 | N                                  | N              | N                     | N                                   | N                       | N                                                                                       |                                                |                                            |  |               |  |  |  |  |  |  |
+| Of which enabling activities                                                                                                                    |             | –                            | –                          | –                                        | –                                        | –                                         | –                      | –                                       | –                                           | –                                                                        | –                                 | –                                  | –              | –                     | –                                   | –                       | –                                                                                       | E                                              |                                            |  |               |  |  |  |  |  |  |
+| Of which transitional activities                                                                                                                |             | –                            | –                          | –                                        | –                                        | –                                         | –                      | –                                       | –                                           | –                                                                        | –                                 | –                                  | –              | –                     | –                                   | –                       | –                                                                                       |                                                | T                                          |  |               |  |  |  |  |  |  |
+| A.2 Taxonomy-eligible, but not environmentally sustainable activities (non-taxonomy-aligned activities)                                         |             |                              |                            |                                          |                                          |                                           |                        |                                         |                                             |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+|                                                                                                                                                 |             |                              |                            | EL; N/EL                                 |                                          | EL; N/EL                                  |                        | EL; N/EL                                |                                             | EL; N/EL                                                                 |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+| Operation of personal mobility devices,<br>cycle logistics                                                                                      | CCM 6.4     | 173,500                      | 0.80                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 1.01                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Transport by motorbikes, passenger cars and<br>light commercial vehicles                                                                        | CCM 6.5     | 230,291                      | 1.07                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 1.03                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Installation, maintenance and repair of energy<br>efficiency equipment                                                                          | CCM 7.4     | 2,550                        | 0.01                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 0.01                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Installation, maintenance and repair of instruments<br>and devices for measuring, regulation and<br>controlling energy performance of buildings | CCM 7.5     | 15,696                       | 0.07                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Installation, maintenance and repair of<br>renewable energy technologies                                                                        | CCM 7.6     | 1,754                        | 0.01                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Data processing, hosting and related activities                                                                                                 | CCM 8.1     | 14,234                       | 0.07                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Professional services related to energy<br>performance of buildings                                                                             | CCM 9.31    | 31,050                       | 0.14                       | EL                                       | N/EL                                     | N/EL                                      | N/EL                   | N/EL                                    | N/EL                                        |                                                                          |                                   |                                    |                |                       |                                     |                         | 0.09                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| OpEx taxonomy-eligible, but not environmentally<br>sustainable activities (non-taxonomy-aligned<br>activities) (A.2)                            |             | 469,075                      | 2.17                       | –                                        | –                                        | –                                         | –                      | –                                       | –                                           |                                                                          |                                   |                                    |                |                       |                                     |                         | 2.14                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| Total (A.1 + A.2)                                                                                                                               |             | 469,075                      | 2.17                       | –                                        | –                                        | –                                         | –                      | –                                       | –                                           |                                                                          |                                   |                                    |                |                       |                                     |                         | 2.14                                                                                    |                                                |                                            |  |               |  |  |  |  |  |  |
+| B. NON-TAXONOMY-ELIGIBLE ACTIVITIES (B)                                                                                                         |             |                              |                            |                                          |                                          |                                           |                        |                                         |                                             |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+| OpEx non-taxonomy-eligible activities (B)                                                                                                       |             | 21,123,925                   | 97.83                      | –                                        | –                                        | –                                         | –                      | –                                       | –                                           |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+| Total (A + B)                                                                                                                                   |             | 21,593,000                   | 100.00                     | –                                        | –                                        | –                                         | –                      | –                                       | –                                           |                                                                          |                                   |                                    |                |                       |                                     |                         |                                                                                         |                                                |                                            |  |               |  |  |  |  |  |  |
+
+**1** Of this amount, 25,000 euros are based on estimates by CEWE. For materiality reasons, activities from Activity 7.3. are not presented.
+
+## Page 204
+
+→ Separate consolidated non-financial report
+
+#### **Turnover**
+
+| Economic activity (1)                                                                                                       | Code(s) (2) | Total turnover (3)<br>[EUR] | Turnover share (4)<br>as % | Climate change<br>mitigation (5)<br>as % | Climate change<br>adaptation (6)<br>as % | Water and marine<br>resources (7)<br>as % | Pollution (8)<br>as % | Circular economy (9)<br>in % | Biodiversity and<br>ecosystems (10)<br>as % | Climate change<br>mitigation (11) | Climate change<br>adaptation (12) | Water and marine<br>resources (13) | Pollution (14) | Circular economy (15) | Biodiversity and<br>ecosystems (16) | Minimum safeguards (17) | Share of taxonomy-aligned<br>(A.1.) or taxonomy-eligible<br>(A.2.) turnover, year 2022 (18) | Category (enabling<br>activities) (19)<br>in % | Category (transitional<br>activities) (20) |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------|----------------------------|------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------|------------------------------|---------------------------------------------|-----------------------------------|-----------------------------------|------------------------------------|----------------|-----------------------|-------------------------------------|-------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------|
+|                                                                                                                             |             | in EUR                      | %                          | Y; N; N/EL                               | Y; N; N/EL                               | Y; N; N/EL                                | Y; N; N/EL            | Y; N; N/EL                   | Y; N; N/EL                                  | Y/N                               | Y/N                               | Y/N                                | Y/N            | Y/N                   | Y/N                                 | Y/N                     | %                                                                                           | E                                              | T                                          |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                             |             |                             |                            |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+| A.1. Environmentally sustainable activities (taxonomy aligned)                                                              |             |                             |                            |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+| Turnover environmentally sustainable activities<br>(taxonomy aligned) (A.1)                                                 |             | 0.00                        |                            | N/EL                                     | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        | N                                 | N                                 | N                                  | N              | N                     | N                                   | N                       | N                                                                                           |                                                |                                            |
+| Of which enabling activities                                                                                                |             | –                           |                            | –                                        | –                                        | –                                         | –                     | –                            | –                                           | –                                 | –                                 | –                                  | –              | –                     | –                                   | –                       | –                                                                                           | E                                              |                                            |
+| Of which transitional activities                                                                                            |             | –                           |                            | –                                        | –                                        | –                                         | –                     | –                            | –                                           | –                                 | –                                 | –                                  | –              | –                     | –                                   | –                       | –                                                                                           |                                                | T                                          |
+| A.2 Taxonomy-eligible, but not environmentally sustainable activities (non-taxonomy-aligned activities)                     |             |                             |                            |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+|                                                                                                                             |             |                             |                            | EL; N/EL                                 | EL; N/EL                                 | EL; N/EL                                  | EL; N/EL              | EL; N/EL                     | EL; N/EL                                    |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+| Turnover taxonomy-eligible, but not environmen-<br>tally sustainable activities (non-taxonomy-<br>aligned activities) (A.2) | 0           | 0.00                        | 0.00                       | N/EL                                     | N/EL                                     | N/EL                                      | N/EL                  | N/EL                         | N/EL                                        |                                   |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                        |                                                |                                            |
+| Total (A.1 + A.2)                                                                                                           | 0           | 0.00                        | 0.00                       | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         | 0.00                                                                                        |                                                |                                            |
+| B. NON-TAXONOMY-ELIGIBLE ACTIVITIES (B)                                                                                     |             |                             |                            |                                          |                                          |                                           |                       |                              |                                             |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+| Turnover non-taxonomy-eligible activities (B)                                                                               |             | 780,198                     | 100.00                     | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+| Total (A + B)                                                                                                               |             | 780,198                     | 100.00                     | –                                        | –                                        | –                                         | –                     | –                            | –                                           |                                   |                                   |                                    |                |                       |                                     |                         |                                                                                             |                                                |                                            |
+
+## Page 205
+
+| requirements of governance-relevant indicators.         |
+|---------------------------------------------------------|
+| 2 Incl. energy efficiency and energy consumption.       |
+| 3 Incl. data protection (which includes data security). |
+
+**3** Incl. data protection (which includes data security).
+
+**4** In September 2010, CEWE joined the UN Global Compact, the world's largest initiative in the fight against corruption, slavery and child labour, which also advocates humane working conditions. In the annual Communication on Progress, CEWE reports on its progress in implementing the ten principles and corporate-wide activities to promote sustainable development.
+
+**1** Where non-financial performance indicators have a GRI indicator equivalent, they have been added here. The most relevant indicators were allocated here which CEWE records for the respective topic. This voluntary reporting goes beyond the
+
+<sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>203</sup>
+
+Statements 6 Fu
+
+**Further information in the Sustainability Report 2023**
+
+→ Separate consolidated non-financial report
+
+#### **Declaration on the diversity concept in relation to corporate governance and the Supervisory Board**
+
+Diversity is important to CEWE, which is why it signed the Diversity Charter in 2017. The mandatory information on diversity within corporate governance and the Supervisory
+
+Environmental topics Climate Protection**2** Climate action and controls regarding
+
+Board, especially the goals, the concept and outcomes of the diversity concept, are described in the **[Sustainability Report 2023 on pages 53 ff.](https://company.cewe.de/en/sustainability/sustainability-reports.html)** A breakdown of diversity within corporate governance and the Supervisory Board in relation to women is described in greater detail in this annual report from **[page 92](#page-93-0)** onwards.
+
+> **Key non-financial performance indicators 1**
+
+[18, 39 – 43](https://company.cewe.de/en/sustainability/sustainability-reports.html) Scope 1 and Scope 2 CO2e emissions **Disclosures 305-1, 305-2** 
+
+|  | 2 To the Shareholders | 3 Combined Managem |
+|--|-----------------------|--------------------|
+|--|-----------------------|--------------------|
+
+**materiality matrix**
+
+**Aspects under CSR-RUG Material topics under the** 
+
+|                                |                                   | implementation CO2 credits project<br>Energy Management System (ISO 50001) and<br>Environmental Management System (ISO 14001)                                                                                               |                   | Scope 3 CO2e emissions Disclosure 305-3<br>CO2e emissions in kg/t materials (Scope 1, 2) Disclosure 305-4                                                                                                               |
+|--------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                | Materials and Waste               | Environmental protection as an integral part of<br>production processes<br>Selection of materials<br>FSC® certification                                                                                                     | 40f., 45-47       | Total input materials used Disclosure 301-1<br>Reduction of energy consumption per material used Disclosure 302<br>Share of paper used and the respective products<br>that are FSC®-certified                           |
+| Employee topics                | Good Employer                     | HR strategy<br>Employee interviews<br>Measures to promote employees                                                                                                                                                         | 49-52, 57-62      | Total number of employees by<br>employment contract Disclosure 2-7<br>Share of satisfied employees                                                                                                                      |
+| Social topics                  | Responsible<br>Use of Technology3 | CEWE Customer Charter<br>Digital Advisory Board<br>R&D projects with artificial intelligence                                                                                                                                | 26-28             | Cases of data theft and data losses Disclosure 418-1<br>Number of business units using artificial intelligence                                                                                                          |
+| Respecting<br>human rights     | Sustainable Supply Chain          | BME Code of Conduct<br>Terms and conditions of purchase for suppliers<br>Supplier due diligence (interviews, visits)<br>UN Global Compact4                                                                                  | 24f., 32-34       | Non-compliance with laws and regulations in<br>the social and economic area Disclosure 2-27<br>New suppliers that were screened using<br>social criteria Disclosure 414-1                                               |
+| Anti-corruption<br>and bribery | Fair Working Practices            | Principles of conduct and Mission Statement<br>External ombudsman<br>Compliance system<br>UN Global Compact4                                                                                                                | 23-26             | Confirmed incidents of corruption and actions taken Disclosure 205<br>Communication and training about anti-corruption policies<br>and procedures Disclosure 205-2                                                      |
+| Product-related topics         | Sustainable Products              | Analysis of products using sustainability scorecard<br>Ecological and social aspects of the procurement strategy and<br>process for product development and launch<br>Certifications e.g., FSC®<br>Carbon-neutral photobook | 30f., 33-37, 44f. | Share of products analysed using the sustainability scorecard<br>(currently not yet accounted for)<br>Incidents of non-compliance concerning the health and safety<br>impacts of products and services Disclosure 416-2 |
+
+4 Remuneration
+
+**Concept incl. objectives, measures, due diligence and outcome**
+
+## Page 206
+
+→ Independent auditor's report
+
+<span id="page-205-0"></span><sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>204</sup>
+
+## Independent Auditor's Report on a Limited Assurance Engagement of the Combined Non-Financial Report **1**
+
+### To CEWE Stiftung & Co. KGaA, Oldenburg
+
+We have performed a limited assurance engagement on the combined non-financial report of CEWE Stiftung & Co. KGaA, Oldenburg, (hereinafter referred to as CEWE Stiftung & Co. KGaA or the Company), including the parts qualified by references as components for the period from January 1st to December 31st, 2023 (hereinafter referred to as the "combined non-financial report") to obtain limited assurance.
+
+#### **Responsibility of the Executive Directors**
+
+The executive directors of the parent company are responsible for the preparation of the combined non-financial report in accordance with §§ 315c in conjunction with 289c to 289e HGB ["Handelsgesetzbuch": German Commercial Code] and Article 8 of REGULATION (EU) 2020/852 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18. June 2020 on establishing a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 (hereinafter the "EU Taxonomy Regulation") and the Delegated Acts adopted thereunder, as well as for making their own interpretation of the wording and terms contained in the EU Taxonomy Regulation and the Delegated Acts adopted thereunder, as set out in section "Reporting according to EU Taxonomy" of the combined non-financial report.
+
+This responsibility of the executive directors includes the selection and application of appropriate non-financial reporting methods and making assumptions and estimates about individual non-financial disclosures of the group that are reasonable in the circumstances. Furthermore, the executive directors are responsible for such internal control as the executive directors consider necessary to enable the preparation of a combined non-financial report that is free from material misstatement, whether due to fraud or error.
+
+The EU Taxonomy Regulation and the Delegated Acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which clarifications have not yet been published in every case. Therefore, the executive directors have disclosed their interpretation of the EU Taxonomy Regulation and the Delegated Acts adopted thereunder in section "Reporting according to EU Taxonomy" of the combined non-financial report. They are responsible for the defensibility of this interpretation. Due to the immanent risk that indeterminate legal terms may be interpreted differently, the legal conformity of the interpretation is subject to uncertainties.
+
+#### **Independence and Quality Management of the Assurance Practitioner's Firm**
+
+We have complied with the German professional requirements on independence as well as other professional conduct requirements.
+
+Our audit firm applies the national legal requirements and professional pronouncements in particular the By-laws Regulating the Rights and Duties of Wirtschaftsprüfer and vereidigte Buchprüfer in the exercise of their Profession as well as the IDW Quality Management Standards issued by the Institute of Public Auditors in Germany (IDW), and
+
+**<sup>1</sup>** We have performed a limited assurance engagement on the German version of the combined non-financial report and issued an Independent Practitioner's Report in German language, which is authoritative. The following text is a translation of the original German Independent Practitioner's Report.
+
+## Page 207
+
+4 Remuneration
+
+→ Independent auditor's report
+
+accordingly maintains a comprehensive quality management system that includes documented policies and procedures with regard to compliance with professional ethical requirements, professional standards as well as relevant statutory and other legal requirements.
+
+#### **Practitioner's Responsibility**
+
+Our responsibility is to express a conclusion with limited assurance on the combined non-financial report based on our assurance engagement.
+
+We conducted our assurance engagement in accordance with International Standard on Assurance Engagements (ISAE) 3000 (Revised): "Assurance Engagements other than Audits or Reviews of Historical Financial Information" issued by the IAASB. This standard requires that we plan and perform the assurance engagement to obtain limited assurance about whether any matters have come to our attention that cause us to believe that the group's combined non-financial financial report of the Company for the period of January 1st to December 31st, 2023 with the exception of the external sources of documentation or expert opinions in the combined non-financial financial report has not been prepared, in all material respects, in accordance with §§ 315c in conjunction with 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder as well as the interpretation by the executive directors disclosed in section "Reporting according to EU Taxonomy" of the combined non-financial report. This does not mean that a separate audit opinion is expressed on each of the disclosures.
+
+In a limited assurance engagement, the procedures performed are less extensive than in a reasonable assurance engagement, and accordingly, a substantially lower level of assurance is obtained. The selection of the assurance procedures is subject to the professional judgment of the assurance practitioner.
+
+In the course of our assurance engagement we have, among other things, performed the following assurance procedures and other activities, particularly:
+
+- Obtainment of an understanding of the structure of the sustainability organization and stakeholder engagement
+- Inquiries of the employees responsible for the materiality analysis in order to gain an understanding of the procedure for identifying material topics and corresponding reporting boundaries of CEWE Stiftung & Co. KGaA
+- A risk assessment, including a media analysis, of relevant information about CEWE Stiftung & Co. KGaA's sustainability performance during the reporting period
+- Assessment of the suitability of internally developed definitions
+- Analytical assessment of selected quantitative data
+- Inquiries of personnel responsible for determining the disclosures relating to concepts, due diligence processes, results and risks, performing internal control procedures and consolidating the disclosures
+- Inspection of selected internal and external documents
+- Evaluation of the process to identify taxonomy-aligned activities and the corresponding disclosures in the combined non-financial report
+- Assessment of the overall presentation of the disclosures
+
+## Page 208
+
+t 4 Remuneration
+
+5 Financial Statements
+
+206
+
+In determining the disclosures in accordance with Article 8 of the EU Taxonomy Regulation, the executive directors are required to interpret undefined legal terms. Due to the immanent risk that undefined legal terms may be interpreted differently, the legal conformity of their interpretation and, accordingly, our assurance engagement thereon are subject to uncertainties.
+
+#### **Assurance Opinion**
+
+Based on the assurance procedures performed and the evidence obtained, nothing has come to our attention that causes us to believe that the combined non-financial report of CEWE Stiftung & Co. KGaA for the period from January 1st to December 31st, 2023 is not prepared, in all material respects, in accordance with §§ 315c in conjunction with 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder as well as the interpretation by the executive directors as disclosed in section "Reporting according to EU Taxonomy" of the combined non-financial report.
+
+#### **Restriction of Use**
+
+We draw attention to the fact that the assurance engagement was conducted for the Company's purposes and that the report is intended solely to inform the parent company about the result of the assurance engagement. Consequently, it may not be suitable for any other purpose than the aforementioned. Accordingly, the report is not intended to be used by third parties for making (financial) decisions based on it. Our responsibility is to the parent company alone. We do not accept any responsibility to third parties. Our assurance opinion is not modified in this respect.
+
+## **General Engagement Terms**
+
+This engagement is based on the "Special Engagement Terms and Conditions of BDO AG Wirtschaftsprüfungsgesellschaft" of March 1st, 2021, agreed with the Company as well as the "General Engagement Terms and Conditions for Auditors and Auditing Firms" of January 1st, 2017, issued by the IDW ( **[www.bdo.de/de-de/auftragsbedingungen](https://www.bdo.de/en-gb/engagement-terms-conditions)**).
+
+Munich, March 19th, 2024
+
+BDO AG Wirtschaftsprüfungsgesellschaft
+
+Thorben Kunze Carmen Auer Wirtschaftsprüfer (German Public Auditor)
+
+Annual Report 2023
+
+cewe group
+
+## Page 209
+
+t 4 Remuneration
+
+5 Financial Statements
+
+6 Further Information
+
+→ Financial statements of CEWE Stiftung & Co. KGaA
+
+## <span id="page-208-0"></span><sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>207</sup>
+
+# Financial statements of CEWE Stiftung & Co. KGaA
+
+## Profit and loss account of CEWE Stiftung & Co. KGaA
+
+**for the financial year 2022 (in accordance with the German Commercial Code)** 
+
+|                                                                                  | 2022     | 2023     |
+|----------------------------------------------------------------------------------|----------|----------|
+| Revenues                                                                         | 375,471  | 401,878  |
+| Increase in finished and unfinished goods                                        | 92       | 201      |
+| Other own work capitalised                                                       | 94       | 166      |
+| Other operating income                                                           | 7,910    | 7,232    |
+| Cost of materials                                                                |          |          |
+| Expenses for raw materials and supplies and for purchased merchandise            | -74,399  | -78,837  |
+| Expenses for purchased services                                                  | -20,155  | -20,751  |
+|                                                                                  | -94,554  | -99,588  |
+| Personnel expenses                                                               |          |          |
+| Wages and salaries                                                               | -86,306  | -94,120  |
+| Social security contributions and expenses for pensions and support              | -19,187  | -19,217  |
+|                                                                                  | -105,493 | -113,337 |
+| Amortisation of intangible assets, depreciation of property, plant and equipment | -20,681  | -23,364  |
+| Other operating expenses                                                         | -114,408 | -131,017 |
+| Income from equity investments                                                   | 10,480   | 16,589   |
+| Income from loans of financial assets                                            | 1,321    | 3,399    |
+| Other interest and similar income                                                | 1,311    | 3,360    |
+| Amortisation of financial assets                                                 | 0        | -227     |
+| Interest and similar expenses                                                    | -3,482   | -8,049   |
+| Earnings before income taxes                                                     | 58,061   | 57,062   |
+| Income taxes                                                                     | -19,355  | -20,083  |
+| Earnings after taxes                                                             | 38,706   | 36,979   |
+| Other taxes                                                                      | -165     | -258     |
+| Net income for the year                                                          | 38,541   | 36,721   |
+| Remaining profit carried forward from previous year                              | 210      | 127      |
+| Unappropriated profits                                                           | 38,751   | 36,848   |
+
+## Page 210
+
+→ Financial statements of CEWE Stiftung & Co. KGaA
+
+## <span id="page-209-0"></span>Balance sheet of CEWE Stiftung & Co. KGaA
+
+#### **as of December 31, 2023 (in accordance with the German Commercial Code)**
+
+| ASSETS                                                                                                                  | Dec. 31, 2022 | Dec. 31, 2023 |
+|-------------------------------------------------------------------------------------------------------------------------|---------------|---------------|
+| Fixed assets                                                                                                            |               |               |
+| Intangible assets                                                                                                       |               |               |
+| Concessions, industrial property rights acquired for a consideration and similar rights and assets and related licences | 4,649         | 3,748         |
+| Advance payments                                                                                                        | 2,800         | 4,835         |
+|                                                                                                                         | 7,449         | 8,583         |
+| Property, plant and equipment                                                                                           |               |               |
+| Land, leasehold rights and buildings, incl. buildings on third-party land                                               | 45,378        | 44,114        |
+| Technical equipment and machinery                                                                                       | 38,949        | 43,068        |
+| Other equipment, furniture and fixtures                                                                                 | 10,059        | 9,878         |
+| Advance payments and assets under construction                                                                          | 8,816         | 15,724        |
+|                                                                                                                         | 103,202       | 112,784       |
+| Financial assets                                                                                                        |               |               |
+| Interests in affiliates                                                                                                 | 134,251       | 134,251       |
+| Loans to affiliates                                                                                                     | 70,222        | 73,595        |
+| Equity investments                                                                                                      | 4,256         | 4,796         |
+| Other loans                                                                                                             | 247           | 253           |
+|                                                                                                                         | 208,976       | 212,895       |
+| Current assets                                                                                                          |               |               |
+| Inventories                                                                                                             |               |               |
+| Raw materials and supplies                                                                                              | 21,799        | 25,424        |
+| Unfinished goods, work in progress                                                                                      | 365           | 377           |
+| Finished goods and merchandise                                                                                          | 551           | 342           |
+| Loans extended                                                                                                          | 0             | 200           |
+|                                                                                                                         | 22,715        | 26,343        |
+| Receivables and other assets                                                                                            |               |               |
+| Trade receivables                                                                                                       | 55,129        | 52,171        |
+| Receivables from affiliates                                                                                             | 189,224       | 187,854       |
+| Other assets                                                                                                            | 16,406        | 9,977         |
+|                                                                                                                         | 260,759       | 250,002       |
+| Cash on hand and cash in banks                                                                                          | 47,668        | 101,876       |
+| Deferred expenses and accrued income                                                                                    | 5,084         | 5,374         |
+|                                                                                                                         | 655,853       | 717,857       |
+
+## Page 211
+
+| 1 CEWE at a Glance | 2 To the Shareholders | 3 Combined Management Report | 4 Remuneration | 5 Financial Statements | 6 Further Information     |  |       |  |
+|--------------------|-----------------------|------------------------------|----------------|------------------------|---------------------------|--|-------|--|
+|                    |                       |                              |                |                        | → Financial statements of |  |       |  |
+|                    |                       |                              |                |                        |                           |  | <209> |  |
+
+CEWE Stiftung & Co. KGaA
+
+| EQUITY AND LIABILITIES                        | 2022    | 2023    |
+|-----------------------------------------------|---------|---------|
+| Equity                                        |         |         |
+| Subscribed capital                            | 19,349  | 19,349  |
+| Nominal value of treasury shares              | -653    | -874    |
+| Issued capital                                | 18,696  | 18,475  |
+| Capital reserve                               | 75,127  | 75,367  |
+| Retained earnings                             |         |         |
+| Statutory reserve                             | 1,534   | 1,534   |
+| Other retained earnings                       | 231,821 | 245,138 |
+|                                               | 233,355 | 246,672 |
+| Unappropriated profits                        | 38,751  | 36,848  |
+|                                               | 365,929 | 377,362 |
+| Special item for investment subsidies         | 159     | 140     |
+| Accruals                                      |         |         |
+| Accruals for pensions and similar obligations | 30,153  | 33,256  |
+| Tax accruals                                  | 840     | 2,172   |
+| Other accruals                                | 28,230  | 27,428  |
+|                                               | 59,223  | 62,856  |
+| Liabilities                                   |         |         |
+| Amounts owed to credit institutions           | 579     | 556     |
+| Payments received on account of orders        | 34,086  | 38,920  |
+| Trade payables                                | 176,804 | 218,773 |
+| Amounts owed to affiliates                    | 54      | 37      |
+| Other liabilities                             | 18,163  | 18,477  |
+|                                               | 229,686 | 276,763 |
+| Deferred income and accrued expenses          | 856     | 736     |
+|                                               | 655,853 | 717,857 |
+
+## Page 212
+
+<span id="page-211-0"></span><sup>1</sup> **[CEWE at a Glance](#page-1-0)** <sup>2</sup> **[To the Shareholders](#page-12-0)** <sup>3</sup> **[Combined Management Report](#page-52-0)** <sup>4</sup> **[Remuneration](#page-98-0)** <sup>5</sup> **[Financial Statements](#page-118-0)** <sup>6</sup> **[Further Information](#page-197-0)** <sup>210</sup>
+
+# Multi-year overview
+
+## Consolidated profit and loss account for the year
+
+in millions of euros
+
+|                                                                                  | 2016   | 2017   | 2018   | 2019   | 2020   | 2021   | 2022   | 2023   |
+|----------------------------------------------------------------------------------|--------|--------|--------|--------|--------|--------|--------|--------|
+| Revenues                                                                         | 593.1  | 599.4  | 653.3  | 720.4  | 727.3  | 692.8  | 732.7  | 780.2  |
+| Increase/decrease in finished and unfinished goods                               | -0.5   | 0.1    | -0.1   | 0.2    | -0.4   | 0.3    | 0.0    | 0.2    |
+| Other own work capitalised                                                       | 0.8    | 0.9    | 1.1    | 1.0    | 1.3    | 1.3    | 2.9    | 4.2    |
+| Other operating income                                                           | 20.8   | 23.2   | 25.1   | 22.2   | 23.0   | 27.1   | 29.2   | 25.5   |
+| Cost of materials                                                                | -168.6 | -168.4 | -178.7 | -187.5 | -171.1 | -160.7 | -180.5 | -187.4 |
+| Gross profit                                                                     | 445.6  | 455.1  | 500.7  | 556.4  | 580.1  | 560.7  | 584.2  | 622.7  |
+| Personnel expenses                                                               | -153.4 | -160.3 | -178.1 | -197.0 | -196.1 | -194.9 | -202.5 | -218.9 |
+| Other operating expenses                                                         | -201.9 | -205.5 | -228.6 | -245.4 | -249.0 | -241.2 | -252.8 | -266.1 |
+| Earnings before interest, taxes, depreciation and amortisation (EBITDA)          | 90.3   | 89.3   | 93.9   | 113.9  | 135.1  | 124.6  | 128.8  | 137.7  |
+| Amortisation of intangible assets, depreciation of property, plant and equipment | -43.3  | -40.1  | -40.2  | -57.1  | -55.4  | -52.4  | -53.2  | -53.8  |
+| Earnings before interest and taxes (EBIT)                                        | 47.0   | 49.2   | 53.7   | 56.8   | 79.7   | 72.2   | 75.6   | 83.9   |
+| Financial income                                                                 | 0.9    | 0.5    | 0.7    | 0.1    | 0.0    | 2.0    | 0.7    | 6.0    |
+| Financial expenses                                                               | -1.7   | -0.8   | -1.1   | -3.7   | -3.4   | -1.5   | -1.5   | -1.9   |
+| Financial result                                                                 | -0.9   | -0.4   | -0.4   | -3.6   | -3.3   | 0.5    | -0.8   | 4.0    |
+| Earnings before taxes (EBT)                                                      | 46.2   | 48.9   | 53.3   | 53.3   | 76.4   | 72.7   | 74.8   | 87.9   |
+| Income taxes                                                                     | -16.6  | -16.0  | -17.0  | -21.6  | -24.4  | -23.8  | -23.7  | -28.3  |
+| Earnings after taxes                                                             | 29.6   | 32.8   | 36.3   | 31.7   | 51.9   | 48.9   | 51.1   | 59.6   |
+| Post-tax profit/loss for discontinued operation                                  | –      | –      | –      | –      | –      | –      | 0.0    | -2.3   |
+| Earnings after taxes                                                             | 29.6   | 32.8   | 36.3   | 31.7   | 51.9   | 48.9   | 51.1   | 57.3   |
+
+### Cash flow for the year
+
+|                                     | 2016  | 2017  | 2018  | 2019  | 2020  | 2021  | 2022  | 2023  |
+|-------------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Cash flow from operating activities | 93.0  | 72.4  | 78.7  | 102.7 | 142.3 | 65.6  | 93.4  | 130.8 |
+| Cash flow from investing activities | -46.6 | -70.2 | -76.2 | -67.2 | -39.0 | -44.1 | -61.9 | -47.9 |
+| Free cash flow                      | 46.4  | 2.2   | 2.5   | 35.5  | 103.3 | 21.5  | 31.5  | 82.8  |
+| Cash flow from financing activities | -19.8 | -11.7 | -13.4 | -30.7 | -33.2 | -40.1 | -42.6 | -38.9 |
+| Change in cash and cash equivalents | 26.7  | -9.5  | -10.9 | 4.9   | 70.1  | -18.6 | -11.1 | 43.9  |
+
+## Page 213
+
+#### → Multi-year overview
+
+## Consolidated profit and loss account for the fourth quarter
+
+in millions of euros
+
+|                                                                                  | Q4 2016 | Q4 2017 | Q4 2018 | Q4 2019 | Q4 2020 | Q4 2021 | Q4 2022 | Q4 2023 |
+|----------------------------------------------------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Revenues                                                                         | 228.5   | 234.5   | 261.6   | 293.2   | 314.0   | 297.8   | 316.7   | 327.0   |
+| Increase/decrease in finished and unfinished goods                               | 0.0     | 0.3     | 0.0     | 0.5     | 0.3     | 0.3     | 0.3     | 0.4     |
+| Other own work capitalised                                                       | 0.3     | 0.2     | 0.6     | 0.5     | 0.4     | 0.5     | 1.2     | 1.2     |
+| Other operating income                                                           | 7.0     | 9.2     | 7.2     | 7.2     | 8.4     | 9.0     | 8.3     | 9.3     |
+| Cost of materials                                                                | -55.7   | -57.1   | -60.8   | -63.8   | -62.3   | -58.6   | -65.7   | -62.3   |
+| Gross profit                                                                     | 180.2   | 187.2   | 208.5   | 237.5   | 260.7   | 248.9   | 260.8   | 275.6   |
+| Personnel expenses                                                               | -45.5   | -47.7   | -53.0   | -61.2   | -61.1   | -58.1   | -62.4   | -68.3   |
+| Other operating expenses                                                         | -75.8   | -79.5   | -87.6   | -100.4  | -104.8  | -105.6  | -107.6  | -110.4  |
+| Earnings before interest, taxes, depreciation and amortisation (EBITDA)          | 58.8    | 60.0    | 67.9    | 75.9    | 94.8    | 85.3    | 90.7    | 96.9    |
+| Amortisation of intangible assets, depreciation of property, plant and equipment | -15.9   | -13.9   | -10.4   | -17.1   | -14.5   | -13.1   | -13.7   | -15.3   |
+| Earnings before interest and taxes (EBIT)                                        | 42.9    | 46.1    | 57.5    | 58.8    | 80.3    | 72.1    | 77.0    | 81.6    |
+| Financial income                                                                 | 0.1     | 0.0     | 0.0     | 0.0     | 0.0     | 2.0     | 0.2     | 5.4     |
+| Financial expenses                                                               | -1.3    | -0.6    | -0.2    | -2.8    | -2.5    | -0.3    | -0.5    | -0.6    |
+| Financial result                                                                 | -1.3    | -0.6    | -0.1    | -2.8    | -2.4    | 1.7     | -0.3    | 4.8     |
+| Earnings before taxes (EBT)                                                      | 41.7    | 45.5    | 57.3    | 56.0    | 77.9    | 73.8    | 76.7    | 86.4    |
+| Income taxes                                                                     | -16.9   | -14.8   | -18.1   | -23.2   | -25.8   | -24.2   | -24.3   | -27.8   |
+| Earnings after taxes                                                             | 24.8    | 30.7    | 39.2    | 32.9    | 52.1    | 49.6    | 52.4    | 58.6    |
+| Post-tax profit/loss for discontinued operation                                  | -       | -       | -       | -       | -       | -       | 0.0     | -0.8    |
+| Earnings after taxes                                                             | 24.8    | 30.7    | 39.2    | 32.9    | 52.1    | 49.6    | 52.4    | 57.8    |
+
+## Cash flow in the fourth quarter
+
+|                                     | Q4 2016 | Q4 2017 | Q4 2018 | Q4 2019 | Q4 2020 | Q4 2021 | Q4 2022 | Q4 2023 |
+|-------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| Cash flow from operating activities | 59.6    | 67.6    | 77.3    | 92.2    | 130.1   | 109.9   | 110.5   | 132.6   |
+| Cash flow from investing activities | -15.7   | -13.3   | -10.1   | -11.0   | -8.4    | -10.1   | -17.8   | -14.3   |
+| Free cash flow                      | 44.0    | 54.3    | 67.2    | 81.2    | 121.7   | 99.8    | 92.7    | 118.3   |
+| Cash flow from financing activities | -10.8   | -29.2   | -52.1   | -61.5   | -35.9   | -32.8   | -38.9   | -23.0   |
+| Change in cash and cash equivalents | 33.2    | 25.1    | 15.0    | 19.7    | 85.8    | 67.0    | 53.8    | 95.3    |

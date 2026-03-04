@@ -22,7 +22,7 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 USER_AGENT = "Mozilla/5.0 (compatible; ESG-RAG/1.0; +https://example.local)"
 TIMEOUT_S  = 60
 
-# ✅ PATCH: sessione globale per cookie/redirect persistenti
+# sessione globale per cookie/redirect persistenti
 SESSION = requests.Session()
 
 
@@ -117,7 +117,7 @@ def _extract_pdf_link_from_html(html: str, base_url: str) -> Optional[str]:
     return urljoin(base_url, href)
 
 
-# ✅ PATCH: usa SESSION + referer origin + header un po' più realistici
+# usa SESSION + referer origin + header un po' più realistici
 def _http_get(url: str, extra_headers: Optional[dict] = None) -> requests.Response:
     u = (url or "").strip()
     parsed = urlparse(u)

@@ -1,0 +1,908 @@
+## Page 61
+
+# **VOTING RIGHT NOTIFICATIONS – STOCKHOLDER STRUCTURE**
+
+POLYTEC Holding AG received one voting right notification from shareholders pursuant to § 130 of the 2018 Austrian Stock Exchange Act (BörseG), which related to the financial year 2023.
+
+The following table shows the voting rights of the legal entity subject to a reporting obligation following the transaction:
+
+| Personage required to provide notification  | Address/State  | Date       | Reason   | Absolute<br>voting rights | Relative<br>voting rights |
+|---------------------------------------------|----------------|------------|----------|---------------------------|---------------------------|
+| LLB Invest Kapitalanlagegesellschaft m.b.H. | Vienna/Austria | 23.08.2023 | Purchase | 1,392,578                 | 6.24%                     |
+
+Every change in material participations about which POLYTEC Holding AG was informed after the 2023 balance sheet date can be called up from the Investor Relations, News – Major Holdings section of the company's website www.polytec-group.com.
+
+As at 31 December 2023, on the basis of the 22,329,585 issued shares, the shareholder structure of POLYTEC Holding AG had the following form:
+
+Image /page/60/Figure/7 description: The image is a pie chart showing the distribution of shares. Free float is 62.86%, MH Beteiligungs GmbH is 16.36%, HUEMER Invest GmbH is 13.04%, LLB Invest KA GmbH is 6.24%, and Treasury shares is 1.50%.
+
+The current composition of the stockholder structure can be called up from the Investor Relations, Share section of the company's website www.polytec-group.com.
+
+# **MANAGERS' TRANSACTIONS**
+
+During the 2023 financial year, POLYTEC Holding AG was informed three times of managers' transactions in accordance with Article 19 MAR and published the required notifications on these events in due time. The transactions are shown in the table below:
+
+| Person obligated<br>to report | Position                             | Date       | Transaction | Share<br>volume | Price per share<br>in EUR |
+|-------------------------------|--------------------------------------|------------|-------------|-----------------|---------------------------|
+| MH Beteiligungs GmbH          | Markus Huemer, Chairman of the Board | 10.08.2023 | Purchase    | 80,000          | 4.370                     |
+| Markus Mühlböck               | Member of the Board                  | 10.08.2023 | Purchase    | 2,829           | 4.370                     |
+| Peter Bernscher               | Deputy Chairman of the Board         | 11.08.2023 | Purchase    | 8,120           | 4.355                     |
+
+Apart from these three events, during the 2023 financial year POLYTEC Holding AG received no further reports regarding managers' transactions from persons discharging managerial responsibilities within POLYTEC Holding AG or from persons (natural or legal) closely associated with them. An overview of managers' transactions, including those that took place after the balance sheet date can be called up from the website of the Vienna Stock Exchange www.wienerborse.at
+
+## Page 62
+
+# **TREASURY SHARES**
+
+During the 2023 financial year, the company did not purchase or sell any treasury shares. On the balance sheet date of 31 December 2023, POLYTEC Holding AG thus held an unchanged total of 334,041 treasury shares, which represented a holding of roughly 1.5% of share capital. The stock market value of these shares on the balance sheet date amounted to around EUR 1.2 million (previous year: EUR 1.5 million) and their acquisition value to approximately EUR 1.9 million. The authorisation of the Board of Directors to purchase treasury shares, which is based on a resolution passed by the 23rd Annual General Meeting on 9 June 2023, remains valid until 8 December 2025.
+
+# **AUTHORISED CAPITAL**
+
+Pursuant to a resolution of the 22nd Annual General Meeting on 1 July 2022, authorised capital (§ 169 of the Austrian Stock Corporation Act) was approved. Following the consent of the Supervisory Board, the Board of Directors is authorised to increase share capital by up to a nominal amount of EUR 6,698,875.00 through the issue of new shares at a minimum issue price of EUR 1.00 each for a maximum period of three years from the date of entry in the commercial register, i.e. until 10 August 2025. The issue of new shares may also be carried out with the exclusion of shareholders' subscription rights if the share capital is increased in return for a contribution in kind of companies, operations, part operations or participations in one or several companies.
+
+# **OTHER INFORMATION**
+
+No indemnification agreements exist between the company and the members of the Board of Directors in the eventuality of a change in control. Equally, there are no indemnification agreements for the Supervisory Board members and employees or any other major agreements which would be affected by a change in control or a public takeover bid. There are no provisions in the Articles of Association that go beyond the statutory provisions for the appointment of members of the Board of Directors and the Supervisory Board, or are intended for amending the Articles of Association. The POLYTEC Holding AG website is entered in the company register under www.polytecgroup.com
+
+## Page 63
+
+# 8. NON FINANCIAL DECLARATION PURSUANT TO § 267A OF THE AUSTRIAN COMMERCIAL CODE
+
+Non-financial declaration pursuant to § 267 a of the Austrian Commercial Code (UGB) and reporting with regard to the Austrian Sustainability and Diversity Improvement Act (NaDiVeG). In accordance with the EU Taxonomy Regulation and the supplementary, delegated legal statutes, POLYTEC discloses the share of taxonomyeligible and taxonomy-aligned group-wide revenues, investments (capital expenses, CapEx) and operating expenses (OpEx) for the financial year 2023. Furthermore, explanations regarding the Minimum Social Safeguards and Do-No-Significant-Harm criteria are provided.
+
+# **BUSINESS MODEL**
+
+Founded in 1986, the POLYTEC GROUP is a leading developer and manufacturer of high-quality plastic components and has some 3,900 employees on four continents. The Austria-based company now offers its customers more than 37 years of experience and knowhow, not only as a complete supplier in the injection moulding field, but also a specialist for fibre-reinforced plastics and a producer of original accessories made from plastic.
+
+POLYTEC numbers globally renowned marques from the car and commercial vehicle industry among its customers and is also increasingly supplying markets outside this sector. In both cases, the most important criteria for success consist of innovative technologies, resourceprotective processing methods, perfect quality and absolute punctuality of delivery in combination with competitive prices. In the automotive and non-automotive fields, POLYTEC provides outstanding value added depth in every segment. This entails design and project development, the production of tooling and semis for fibre composites, component simulation and examination, as well as numerous plastics processing technologies. Furthermore, POLYTEC convinces through excellent performance with regard to downstream processes such as painting, assembly and just-in-time or just-in-sequence delivery.
+
+# **MATERIALITY**
+
+POLYTEC GROUP stakeholders are personages or groups that have a justified interest in the development of the enterprise. The prompt recognition of their concerns and expectations leads to important findings in connection with opportunities and risks. This information plays a significant role in the action of the POLYTEC GROUP's management.
+
+## Page 64
+
+The following external and internal stakeholders have been identified as being of relevance to group activities:
+
+#### **CUSTOMERS**
+
+• OEMs
+
+- Tier 1 suppliers
+- Industrial Applications clients
+
+#### **EMPLOYEES**
+
+- Members of the Board of Directors, CEOs and executive managers
+- Blue- & white-collar employees (incl. leasing pers.)
+- Employee representatives
+- Recruitment market applicants
+
+#### **SUPPLIERS**
+
+- Suppliers of raw materials, materials, energy, etc.
+- Subcontractors, suppliers for production (e.g. tooling)
+- Plant and machinery manufacturers
+- Services suppliers and consultants (maintenance, IT, legal matters, further education bodies)
+
+#### **PUBLIC SECTOR**
+
+- Legislators on a European Union, Republic of Austria, federal province and district level
+- Agencies and authorities (especially for anti-trust and competition law, commerce, labour inspection, finance and taxation, financial market supervision)
+
+#### **CAPITAL MARKET**
+
+- Investors the founding family Huemer
+- Investors institutional and private
+- Debt capital markets
+- Stock exchanges, banks and insurance companies, auditors, credit protection associations
+- Analysts, proxy advisors and rating agencies
+- Financial market media
+
+#### **OTHER STAKEHOLDERS**
+
+- Members of the Supervisory Board
+- Media (specialist and social)
+- NGOs (environmental, social), consumer protection
+- Politicians, branch associations, trades unions, other interest group representatives
+- Competitors and other market participants
+- Universities, research bodies and schools
+- Neighbours
+
+#### **IDENTIFIED MATERIAL ISSUES**
+
+A list of pertinent issues was drawn up on the basis of the POLYTEC GROUP's corporate strategy (relevance from a group perspective) taking into consideration the interests and expectations of internal and external stakeholders identified from ongoing communications. This list was then supplemented with the topics pinpointed by means of a benchmark analysis of selected competitors, customers and suppliers with the result that the following themes were defined and prioritised according to their materiality:
+
+- Long-term economic success and value increase
+- Customer advantages and satisfaction
+- Enhanced cost efficiency and value added generation
+- Production of top-quality, innovative plastic products
+- A consistent dividend policy
+- Compliance
+- Work safety and occupational health protection
+- Employee advancement
+- Optimisation and digitalisation of company processes
+- Climate and environmental protection measures (e.g. emission minimisation)
+- Efficient energy use
+- Resource conservation through the efficient use of raw and other materials
+- Waste avoidance and reduction
+
+Information regarding these topics is contained in this and other sections of the Management Report.
+
+## Page 65
+
+# **RISK REPORTING**
+
+In the course of its business activities, the POLYTEC GROUP is exposed to a large number of risks that are inextricably linked to its business activities. For the POLYTEC GROUP, risk management is an integral part of the strategy and all business processes. The extensive certifications required for an automotive supplier (e.g. IATF 16949:2016 and ISO 14001:2015) already specify corresponding regulations, compliance with which is also monitored by external audits. In accordance with the organisation of the POLYTEC GROUP, risks are managed and monitored in a decentralised and market-oriented manner, especially in the context of ongoing business processes. However, the management of financial risks is mainly carried out by the Group headquarters.
+
+With regard to detailed risk reporting, reference is made to the explanations in Section G. 2 of the notes to the consolidated financial statements in order to avoid textual redundancies.
+
+# **THE POLYTEC GROUP MISSION STATEMENT**
+
+The POLYTEC GROUP mission statement consists of the sections "Corporate Aim", "Mission" and "Identity". Whilst the first two of these have been formulated in a more general and sectorally unrestricted manner and thus reflect the long-term orientation of POLYTEC with greater clarity, the "Identity" section has been more broadly defined.
+
+In addition to POLYTEC's tried and tested corporate values, "Identity" now includes the group's self-image in respect of topics such as sustainability, employees, cooperation, customer orientation and efficiency. This means that the principles and philosophy of the POLYTEC SOLUTION FORCE, ONE POLYTEC and POLYTEC PERFORMANCE & EXCELLENCE SYSTEM, which represent the key excellence initiatives of recent years, are also included in this fundamental document.
+
+# **POLYTEC – THE MISSION STATEMENT**
+
+#### **CORPORATE AIM**
+
+WE TRANSFORM VISIONS INTO PLASTIC SOLUTIONS
+
+#### **MISSION**
+
+With carefully considered plastic solutions, we create sustainable human benefits while simultaneously conserving valuable resources.
+
+#### **IDENTITY**
+
+**POLYTEC is the specialist for innovative and complex plastic solutions.** 
+
+**1. We think sustainably and have a long-term focus.** 
+
+We actively assume our social and environmental responsibilities and make a positive contribution. We are a listed company with the founder as a strong core shareholder. We act in a future-oriented and targeted manner.
+
+**2. We give our employees the opportunity to realise their potential.** 
+
+We participate in design with passion and by giving meaning to both content and people, our activities at POLYTEC create added value.
+
+**3. In the spirit of the POLYTEC SOLUTION FORCE, we pool our capabilities in order to find optimum solutions for our customers.** 
+
+Every single employee is important in this regard.
+
+- **4. We work together as ONE POLYTEC.**  We think in terms of a joint, cross-location company.
+- **5. During our day-to-day activities, we are guided by the principles of the POLYTEC PERFORMANCE & EXCELLENCE SYSTEM.**
+
+**We act with courage, professionalism and pragmatism.**
+
+## Page 66
+
+# **POLYTEC – THE STRATEGY**
+
+**Objective 1: A strengthening of the market position in the plastics industry** 
+
+- A comprehensive business understanding
+- Continual process optimisation
+- A good place to work
+
+On the foundation of a solid economic position, POLYTEC focuses on close and long-term cooperation with its customers based on uncompromising quality and reliable delivery. At the same time, the group consolidates its competitiveness through a comprehensive business understanding in the sense of ONE POLYTEC, the continual optimisation of all essential processes within the framework of the POLYTEC PERFORMANCE & EXCELLENCE SYSTEM and the enhancement of its attractiveness as an employer. In addition to organic growth, it also constantly examines potential acquisition opportunities.
+
+### **Objective 2: Developing new technologies and applications**
+
+- Permanent innovation
+- Sustainability
+- Extensive technological competence in tandem with maximum production efficiency
+
+POLYTEC sees permanent innovation as a key factor in success and therefore explicitly defines openness and inquisitiveness as corporate values. Thanks to its extensive technological competence, the group is able to guarantee its customers optimum product solutions. Moreover, it strives constantly to increase the scope of its systems and modules. Within this context reduced complexity, functional integration and a sustainable orientation in all corporate activities are of equal importance. The company also seeks to continually raise efficiency through the further development of production technologies.
+
+#### **Objective 3: A focus on customer advantages**
+
+- Maximum customer satisfaction
+- The pooling of competences for optimum product solutions
+- A European customer focus
+
+With an eye to achieving the aim of maximum customer satisfaction and in order to be permanently able to offer the best product solutions from both an economic and ecological perspective, POLYTEC pools the competences of the entire group within the framework of the POLYTEC SOLUTION FORCE. This linkage of every business area is intended to provide an optimum customer experience. The focus is on customers in Europe, but if required POLYTEC also provides them with support should they expand into strategically interesting growth regions.
+
+# **CODE OF CONDUCT, HUMAN RIGHTS, COMPLIANCE, FAIR COMPETITION**
+
+With regard to the Code of Conduct, respect for human rights and compliance, as well as corruption and fair competition, we refer to the newly formulated statements in the section on disclosure under the EU Taxonomy Regulation in this part of the report.
+
+# **SUSTAINABILITY IS OF GROWING IMPORTANCE AND IS BEING INTENSIFIED**
+
+In addition to the geopolitical uncertainties in Ukraine and the Middle East, climate change was one of the most significant socio-political and media topics in 2023. Moreover, the topics of "Environment – Social – Governance" (ESG) also continued to gain importance in communications with investors and banks. Today, fund management companies, insurance companies and banks focus increasingly upon sustainability criteria in their business activities and either employ their own ESG analysts, who approach companies directly with relevant questions, or buy in the expertise of external analysts and rating agencies. In 2023, POLYTEC received a growing number of enquiries from institutional investors as to which ESG rating agencies cover the company's stocks and what their current ratings are.
+
+Simultaneously, 2023 also witnessed an upturn in the number of contacts made by such agencies, which invite a prompt response to extensive questionnaires, or the input of data onto elaborately designed online platforms. Even though the provision of these analysis portals is labourintensive, the evaluations and ratings that they generate represent an increasingly significant factor for listed stock corporations with regard to their ESG perception on the financial markets.
+
+POLYTEC is aware that it is analysed by ESG rating agencies on behalf of fund companies either regularly or when quired. However, the group does not always learn the results of these analyses, as they are not published automatically. Since the rating agencies usually only give consent to the disclosure of their identity and the
+
+## Page 67
+
+publication of the assessment results against payment of fees and time-consuming release modes, only anonymised information can be provided here at the editorial deadline of this report at the end of March 2024:
+
+- Independent French sustainability analyst: ESG rating improved: 2020: 40 - 2021: 59 (the higher the better)
+- Globally known ESG solutions provider: ESG rating improved: 2021: 32 - 2022: 31 - 2023: 35 (the higher the better)
+- Globally active ESG analysis company: ESG rating raised from 28 to 31 (the higher the better)
+- Major sustainability analyst: ESG risk status "Low risk" improved from 15.7 to 13.8 (the lower the better)
+
+# **CLIMATE RISIKS**
+
+Due to the increasing global vulnerability to climate change and other environmental pressures, companies are faced with the challenge of both improving their energy and resource efficiency and limiting their energy consumption. The pursuit of these goals is also becoming increasingly important in the automotive supply industry.
+
+The European Commission has responded to this situation with the "European Green Deal", which incorporates a series of measures in the areas of financial market regulation, energy supply, transport, trade, industry, agriculture and forestry. The aim is to achieve the goal of a drastic reduction in CO2 emissions within the European Union.
+
+The "European Green Deal" has resulted in a slackening of demand for combustion engines and depending upon the customer, a significant decline in sales of related products is anticipated in the medium-term. At the same time, a shift towards e-mobility is expected.
+
+The POLYTEC GROUP was able to counter the dwindling demand for combustion engines with new, substitute products. Moreover, the opportunities arising from the market shifts have already been exploited, new orders have been concluded and specific development projects initiated. The POLYTEC GROUP therefore considers itself to be well positioned for the future.
+
+Companies are faced with the difficult task of both improving their energy and resource efficiency while limiting their energy consumption. In 2021, the POLYTEC GROUP concluded its first green financing in order to fund an extremely modern machine park and a plastics recycling plant at the Ebensee, Austria, location. This project demonstrates that ecological and economic requirements can be ideally combined.
+
+Both the additional costs arising from investments in climate-friendly technologies and those emanating from energy price increases constitute economic risks for the POLYTEC GROUP. The POLYTEC GROUP counters these dangers as described under item b. Procurement market risk.
+
+Under the Taxonomy Regulation, specific do-nosignificant-harm criteria have been set for six environmental objectives. The one for the environmental goal "Climate Change Adaptation" represents the implementation of a climate risk and vulnerability analysis. Potential risks in this context are part of the materiality analysis in preparation for CSRD reporting in 2024. In the 2023 financial year, the POLYTEC GROUP analysed potential risks resulting from resource scarcity and climate change.
+
+## Page 68
+
+# **ENVIRONMENTAL PROTECTION**
+
+As an automotive industry supplier, the POLYTEC GROUP provides key solutions for the optimisation of new vehicle generations. Moreover, owing to its innovative capacity and flexibility, in the course of its more than 30-year existence POLYTEC has established an excellent reputation in the automotive sector. By means of comprehensive research and development work, POLYTEC makes a significant contribution to the ongoing improvement of the products of its customers, which ultimately has a positive effect upon the environment. For example, the dead weight of vehicles is lightened through material substitution and as compared to steel, for some components weight savings of up to 60% are possible. This lowers fuel consumption markedly and leads to a transitive cut in CO2 emissions.
+
+Systematic, ecological impact analyses represent a permanent feature of POLYTEC's product development processes and are carried out by the group's specialists in close coordination with its customers. In combination with perfect quality and absolute punctuality of delivery, continual optimisation successes in areas such as weight reduction, material substitution and savings, noise abatement, etc. constitute POLYTEC's main strengths and are greatly valued by its clientele.
+
+However, POLYTEC does more than constantly upgrade the products and services supplied to its customers, as on the basis of a coordinated environmental, quality and lean management system, all of the group's internal production processes are analysed and improved regularly with the aim of cutting in-house material and energy use. Plastics processing demands large quantities of resources and hence the careful employment of production materials constitutes both an ecological and an economic necessity.
+
+Individual, in-group production phases are therefore continually optimised with a view to saving energy and reducing raw material consumption, and process water and various cleaning solutions are virtually always utilised in closed cycles. Moreover, as far as the use of paints is concerned, POLYTEC fulfils stringent indoor and waste air standards, which serve the protection of employees and the environment to an equal extent.
+
+The bulk of the parts, top-quality component modules and multifunctional plastics systems designed by POLYTEC are manufactured in accordance with certificated development and production processes. All of the POLYTEC GROUP's locations are now certified according to the IATF 16949 quality management and the ISO 14001 environmental management standards. In addition, the vast majority of group production plants possess certification pursuant to the internationally recognised ISO 50001 energy management standard, and furthermore also meet numerous special customer standards. These are facts that clearly underline the long-term commitment and successes in the environmental protection field to which POLYTEC can refer.
+
+Within the scope of the POLYTEC GROUP's digitalisation offensive, software for the improved control of specific customer requirements in connection with IATF 16949 has been implemented and tested successfully at the Hörsching location. The software, which enables special customer demands to be met through the systematic allocation of processes and responsible personnel, will now be rolled out and made available to all other POLYTEC GROUP locations. The currency of the data is ensured by regular questioning via customer portals and a related check on any changes in client needs.
+
+### **"GO NEUTRAL 2035" - SUSTAINABILITY STRATEGY FLESHED OUT**
+
+As a company that employs plastics as its basic material, apart from energy consumption POLYTEC's use of other resources has a significant environmental impact. Against this background, POLYTEC takes authentic measures to conserve raw materials and energy, and therewith makes its contribution to climate and environmental protection.
+
+Accordingly, during the 2023 financial year, the POLYTEC GROUP further substantiated its sustainability strategy. Under the heading "Go Neutral 2035", the company intends to convert its production entirely to CO2 neutrality within the next eleven years.
+
+The POLYTEC GROUP's sustainability strategy consists of eight strategic areas, which in the course of analyses and workshops, led by a specialist department for sustainability, were extrapolated from group activities and deal with POLYTEC's most important fields of action in relation to questions of sustainability on all ESG levels.
+
+## Page 69
+
+The POLYTEC GROUP has defined relevant key figures for each of the eight strategy strategic areas, as well as target values for the period up to 2035. In order to achieve these objectives, the sustainability strategy has been incorporated into POLYTEC's existing processes and systems, and a new specialist department for sustainability created, which reports directly to the Board of Directors. In addition, sustainability has also been integrated into the engineering activities of the POLYTEC GROUP with the result that the company's sustainability goals are already taken into full account during every development project.
+
+In order to attain its overriding goal, namely CO2-neutral production by 2035, in the coming years POLYTEC will focus on three of the eight strategic areas, namely People, Energy and Production. In the Energy and Production focal point areas the group has identified the critical levers on the path to CO2 neutrality and in addition the People focus area is seen as being of particular importance because specialists with the correct mindset, know-how and commitment are essential for the implementation of the measures required. Consequently, POLYTEC has drawn up a roadmap for these three focus areas, which contains specific milestones that are to be passed en route to the achievement of full CO2 neutrality in 2035.
+
+#### **STRATEGIC OBJECTIVES**
+
+Environmental and climate protection forms an essential and increasingly important part of POLYTEC's business processes. The intention is that the resultant, diverse measures be implemented continually during the coming years as part of POLYTEC's environment and energy management. The main items in POLYTEC's environmental strategy determined in the course of this process are:
+
+**1. Resource conservation:** With this strategic objective, POLYTEC wishes to place a greater emphasis upon a holistic approach with the intention of ensuring that the group considers the protective use of all raw materials and intensified recycling throughout the entire production process in order to secure the conservation and optimum employment of the resources available. This also incorporates the consumption of both natural resources such as water and the savings achieved by POLYTEC through the lightweight design or the functional integration of its components. In addition, the group is cutting its raw material usage still further by the increased use of regranulate, modern dosing systems, improved reject ratios and the modified chemical composition of materials. Furthermore, wherever possible process-related sprue is ground directly at the machine and fed back into the process. Some locations have central plants in which rejects from production are recycled and the recovered materials reused. This not only reduces raw material consumption, but also shortens transport routes and thus CO2 emissions.
+
+In spite of the economical handling of raw materials, the creation of waste cannot be prevented entirely. Therefore, the best possible separation of unavoidable waste is all the more important, as is its transfer to useful recycling whenever this is feasible. POLYTEC supports its personnel during correct waste classification by means of a uniform colour coding system. This not only reduces residual waste, but also the cost of its disposal.
+
+**2. Enhanced energy efficiency:** A particularly important resource and thus cost factor for the POLYTEC GROUP is formed by energy. Therefore, the pursuit of maximum energy efficiency is not only worthwhile from an ecological perspective, but also an economic standpoint. In recent years, differing projects have resulted in the optimisation of important energy consumers across various locations and hence the achievement of sizeable savings.
+
+In order to further raise its energy efficiency, POLYTEC invests continuously in the modernisation of its plants. Among the numerous measures taken are the thermal optimisation of pipelines, machines and buildings, the purchase of modern and powerful condensing boilers, a comprehensive switch to LED lighting and the implementation of energy management systems that identify main consumers and potential savings. Internal energy cycles have also played a significant role in POLYTEC GROUP's steadily reduced energy consumption in recent years. For example, at several locations highly efficient heat recovery systems are in use, with the help of which waste heat from process plants is used for other areas such as the heating of buildings.
+
+## Page 70
+
+**3. Reduced environmental emissions:** In order to take even greater account of the concept of sustainability, POLYTEC already adopted the reduction of environmental emissions as a strategic goal some years ago. Environmental protection now plays a central role within the production process in order to achieve the continual reduction of harmful emissions.
+
+Accordingly, in 2020 the volumes of CO2 (Scope 1 and Scope 2) emitted by the POLYTEC GROUP were for the first time the object of broadly based logging and evaluation. The statistics thus gathered led to emission reduction initiatives, the results of which are measured. In addition, the group is expanding its current programmes for waste prevention and a reduction in substances that constitute a health and environmental hazard.
+
+Following successful testing, the various pilot projects launched over the years at POLYTEC GROUP plants in connection with these focal points have been and will be implemented successively at other group locations. POLYTEC is well aware of its responsibilities as an industrial enterprise and via the aforementioned measures continually and systematically initiates further steps aimed at making its production processes more sustainable and resource protective.
+
+#### **ENERGY AND ENVIRONMENTAL TARGETS**
+
+The group's objectives with regard to energy pursue the following inter-plant goals:
+
+| Target definition                                      | Operational target by target year                                                             | Key<br>figure | Basis                                                                                                  |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------|
+| Strategic goal:<br>resource conservation               |                                                                                               |               |                                                                                                        |
+| Reduce raw material<br>consumption                     | Reduce key figure by 3%-pts. by 2026<br>(baseline 2021)                                       | %             | Total amount of waste at the location /<br>total amount of material used                               |
+| Promote material recycling                             | Increase the rate of material recycling by<br>8%-pts. by 2026<br>(baseline 2021)              | %             | Amount of waste for material recycling<br>(excluding thermal recycling) / total waste<br>volume        |
+| Strategic goal:<br>increase energy efficiency          |                                                                                               |               |                                                                                                        |
+| Reduce energy consumption                              | Implement gas-saving projects<br>amounting to 14,700 MWh by 2025<br>(baseline 2021: -20%)     | kWh/a         | Annual savings of implemented gas-<br>saving projects (observation period one<br>year)                 |
+|                                                        | Reduction of externally purchased<br>electricity by 8,700 MWh by 2025<br>(baseline 2021: -8%) | kWh/a         | Annual savings of implemented electricity<br>savings projects (period under<br>consideration one year) |
+|                                                        | 20% reduction in the electricity base load<br>during non-production periods by 2025           | kW            | Optimised power load during production-<br>free time/ power load before optimising                     |
+| Energy monitoring                                      | Full implementation level according to<br>roadmap by 2025                                     | %             | Plants equipped with monitoring /<br>Number of all plants                                              |
+| Strategic goal: environmental<br>emission minimisation |                                                                                               |               |                                                                                                        |
+| Reduction in CO2 emissions                             | CO2-neutral production by 2035                                                                | t             | CO2 emissions Scope 1 and 2 absolute                                                                   |
+| Life cycle assessment (LCA)                            | 50% of all projects by 2026                                                                   | %             | LCA projects/all projects                                                                              |
+
+#### **Key figures**
+
+The key figures shown include the plants of all the fully consolidated companies within the POLYTEC GROUP.
+
+## Page 71
+
+#### **Energy use**
+
+| in MWh        | 2023    | Share | 2022    | 2021    |
+|---------------|---------|-------|---------|---------|
+| Electricity   | 110,553 | 59.9% | 105,406 | 109,565 |
+| Natural gas   | 68,742  | 37.2% | 69,645  | 73,796  |
+| Heating oil   | 449     | 0.2%  | 845     | 397     |
+| Heating       | 1,156   | 0.6%  | 883     | 1,991   |
+| Others        | 3,840   | 2.1%  | 3,524   | 3,266   |
+| POLYTEC GROUP | 184,740 | 100%  | 180,303 | 189,015 |
+
+Image /page/70/Figure/3 description: The image is a bar chart showing energy use in MWh from 2021 to 2023. In 2021, the energy use was 189,015 MWh. In 2022, the energy use was 180,303 MWh. In 2023, the energy use was 184,740 MWh.
+
+As part of the preparations for the completely new reporting of ESG data from the 2024 financial year, the definitions and allocations of energy use have been adjusted. Adjustments to the previous year's figures were made.
+
+Group-wide energy consumption increased by around 2.5% or 4,437 MWh to 184,740 MWh in the 2023 financial year (previous year adjusted: 180,303 MWh). In relation to total sales revenues, which increased by 5.8% compared to the previous year, the ratio decreased by around 0.9 percentage points from 30.0% to 29.1%.
+
+#### **Material use**
+
+| in t                                    | 2023   | Share | 2022   | 2021   |
+|-----------------------------------------|--------|-------|--------|--------|
+| PP – polypropylene                      | 24,985 | 33.4% | 22,957 | 33,775 |
+| PA – polyamide                          | 7,932  | 10.6% | 6,758  | 7,101  |
+| ABS – acrylnitrile<br>butadiene styrene | 334    | 0.4%  | 294    | 458    |
+| PUR – polyurethane                      | 2,583  | 3.4%  | 2,285  | 2,576  |
+| Glass fibres                            | 8,161  | 10.9% | 6,763  | 6,303  |
+| Resins                                  | 4,388  | 5.9%  | 3,680  | 3,794  |
+| Paints                                  | 955    | 1.3%  | 902    | 440    |
+| SMC – sheet moul<br>ding compounds      | 17,580 | 23.5% | 15,888 | 15,284 |
+| Others                                  | 7,978  | 10.6% | 4,856  | 4,958  |
+| POLYTEC GROUP                           | 74,895 | 100%  | 64,383 | 74,689 |
+
+Image /page/70/Figure/8 description: The image is a bar chart showing material use in tons for the years 2021, 2022, and 2023. In 2021, the material use was 74,689 tons. In 2022, the material use was 64,383 tons. In 2023, the material use was 74,895 tons.
+
+In the 2023 financial year, Group-wide material use increased by around 16.3% or 10,512 tonnes, from 64,383 tonnes to 74,895 tonnes, compared to the previous year. In relation to sales revenues, the ratio rose from 10.7% to 11.8%.
+
+#### **Water use**
+
+| in m3                                                | 2023    | Share | 2022    | 2021   |
+|------------------------------------------------------|---------|-------|---------|--------|
+| Used water<br>(non-hazardous,<br>municipal disposal) | 85,283  | 67.7% | 73,420  | 77,453 |
+| Evaporated water                                     | 33,814  | 26.8% | 19,511  | 18,746 |
+| Used water<br>(disposed of as<br>hazardous waste)    | 6,876   | 5.5%  | 12,392  | 101    |
+| POLYTEC GROUP                                        | 125,973 | 100%  | 105,323 | 96,300 |
+
+## Page 73
+
+# **EMPLOYEES**
+
+In addition to a challenging market environment, competition for the best employees is becoming increasingly fierce. In this situation, POLYTEC has secured a solid position in the hotly contested labour market by means of multifaceted offers for personal development and an attractive working environment.
+
+#### **POLYTEC is diverse and open**
+
+Owing to the internationality of the POLYTEC GROUP, diversity, respect, equality of opportunity and the integration of employees from differing cultures represent integral elements within corporate culture. Any form of personal discrimination whether due to origin, gender, skin colour, age, religion, sexual orientation or disability is strictly rejected. During recruitment for vacant positions, a focus is placed on a performance orientation, knowledge, skills, and equal opportunity and treatment. Applicants are selected on the basis of the best possible qualifications and the experience that they can contribute to the POLYTEC GROUP as new team members.
+
+# **Reduce the shortage of skilled workers, increase competences and intensify internal training programmes**
+
+In order to keep existing employees and attract new, qualified personnel, a reference to the past is simply insufficient. For this reason, in 2021 the POLYTEC GROUP defined a roadmap for its Human Resources development with very specific objectives for the period up to 2030. Fluctuation and shortages of skilled workers are to be reduced, and staff competence, retention and productivity are to be boosted. An essential element in this roadmap is the expansion of the training offers within the group for which, with its diverse training programmes, the POLYTEC Academy is responsible.
+
+#### **MORE than right at POLYTEC**
+
+For the implementation of the roadmap, a distinctive, likeable and at the same time self-confident labour market image is essential. With its new employer-branding concept, the POLYTEC GROUP allocates pride of place to its employees and places them in the spotlight. As employee testimonials, for interested candidates they increase the visibility of the group's strengths. Furthermore, for internal communications, the group has improved the design of the popular and informative employee magazine "POLYTEC Insights".
+
+#### **POLYTEC Academy**
+
+In recent years, a highly effective training programme has been established under the POLYTEC Academy umbrella, which offers basic and further training for all POLYTEC GROUP company levels. The three central aims of the programme are to strengthen qualifications and competences, counteract the shortage of skilled workers and encourage long-term employee loyalty to the company. In order to be able to successfully achieve these objectives, the POLYTEC GROUP prepares targeted and needs-oriented training programmes in close cooperation with the management, Human Resources and the Board of Directors. External educational institutions such as the LIMAK Austrian Business School in Linz, Austria are also commissioned to design and implement selected training courses.
+
+Most of the POLYTEC Academy's training courses take place within the company itself. They include holistic content on a wide range of topics – from leadership to technical know-how to talent management. In the 2023 financial year, numerous training programs were organized for dozens of employees from different areas and levels of the Group as part of the POLYTEC Academy. The comprehensive teaching content is also conveyed via the company's internal digital platforms. This is where the enormous strength of the POLYTEC GROUP's digitalization offensive unfolded.
+
+#### **POLYTEC Leadership Academy**
+
+The POLYTEC Leadership Academy, which has been in existence since 2015 , is a programme that on the one hand deals with the teaching of leadership skills, but on the other is also intended to facilitate targeted networking among the managers within the POLYTEC GROUP. This strengthens cohesion and promotes a willingness to openly exchange experiences, which extends beyond the training programme itself. In the spirit of ONE POLYTEC, the Leadership Academy consolidates group-wide coopera¬tion and thus creates the foundations for the success of the POLYTEC SOLUTION FORCE. With its diverse range of basic and further training programmes, the POLYTEC GROUP is not only making itself fit for the future within its market, but also clearly expresses the esteem in which it holds its employees, who constitute its most important resource.
+
+## Page 74
+
+#### **KEY EMPLOYEES INDICATORS**
+
+| Employees excluding<br>leasing personnel      | Unit | 2023  | 2022  | 2021  |
+|-----------------------------------------------|------|-------|-------|-------|
+| Key indicators by geography<br>(as at 31.12.) |      |       |       |       |
+| Austria                                       | FTE  | 440   | 425   | 434   |
+| Germany                                       | FTE  | 1,777 | 1,699 | 1,610 |
+| Other EU countries                            | FTE  | 749   | 708   | 740   |
+| United Kingdom                                | FTE  | 262   | 245   | 244   |
+| Other countries                               | FTE  | 131   | 114   | 116   |
+| POLYTEC GROUP                                 | FTE  | 3,359 | 3,191 | 3,144 |
+| Gender<br>(as at 31.12.)                      |      |       |       |       |
+| Men                                           | %    | 74.0  | 75.4  | 75.6  |
+| Women                                         | %    | 26.0  | 24.6  | 24.4  |
+| Age<br>(as at 31.12.)                         |      |       |       |       |
+| <30 years                                     | %    | 17.5  | 14.8  | 15.2  |
+| 30 to 50 years                                | %    | 46.8  | 47.8  | 48.2  |
+| >50 years                                     | %    | 35.7  | 37.4  | 36.6  |
+| Fluctuation rate<br>(annual average)          | %    | 18.7  | 16.8  | 14.3  |
+| Work safety<br>(annual figures)               |      |       |       |       |
+| Work accidents<br>subject to reporting        | Nr.  | 93    | 94    | 77    |
+| Average accident-<br>related sick leave       | Days | 8.5   | 19.5  | 19.8  |
+| Fatal work accidents                          | Nr.  | 0     | 0     | 0     |
+
+The key figures shown in the table above refer to employees excluding leasing personnel. If the leasing personnel (476 FTE; previous year: 319 FTE, leasing personnel ratio: 12.4%, prior year: 9.1%) are added, as at the 2023 balance sheet date the POLYTEC GROUP employed a total of 3,835 people. As compared to the previous year's reporting date (3,510 FTE), the number of employees increased by 325 or 9.3%.
+
+As at 31 December 2023, women accounted for 26.0% of all employees in the POLYTEC GROUP (excluding leasing personnel), an increase of 1.4 percentage points compared to the previous year (24.6%).
+
+At POLYTEC Holding AG, the proportion of women at the balance sheet date 2023 was 48.6% (previous year: 50.0%). On the same day, 12.2% (previous year: 11.1%) of the companies of the POLYTEC GROUP were female executives with permanent personnel responsibility.
+
+#### **GEOGRAPHIC STRUCTURE AS AT 31 DECEMBER 2023**
+
+Image /page/73/Figure/7 description: This image is a pie chart showing the distribution of something across different countries. Germany accounts for 52.9%, Other EU countries account for 22.3%, Austria accounts for 13.1%, United Kingdom accounts for 7.8%, and Other countries account for 3.9%.
+
+The group fluctuation rate is calculated by dividing the number of leavers (terminations of employment by employees and employers, agreed settlements by mutual consent and the expiry of fixed-term employment contracts) with the average total POLYTEC GROUP workforce. In 2023, the average fluctuation rate within the POLYTEC GROUP was around 18.7%, which was 1.9 percentage points higher than the same figure for the preceding year.
+
+#### **AGE STRUCTURE AS AT 31 DECEMBER 2023**
+
+Image /page/73/Figure/10 description: This image is a donut chart showing the age distribution. 17.5% are less than 30 years old, 46.8% are between 30 and 50 years old, and 35.7% are greater than 50 years old.
+
+As far as age structure is concerned, around half of the group workforce is in the 30 - 50 age group.
+
+## Page 75
+
+The number of reportable occupational accidents in the POLYTEC GROUP in 2023 was 93 and thus on a par with the previous year (94 occupational accidents), with the average lost time more than halving from 19.5 days to 8.5 days. As a result, the severity of accidents has decreased significantly.
+
+In order to prevent occupational accidents, POLYTEC focuses on raising awareness regarding the topics of Health, Safety & Environment (HSE) and the stipulations governing personal protective equipment (PPE). For example, contributions on safety topics are regularly presented to employees via POLYTEC Information TV and training initiatives are implemented. Numerous technical optimisation measures such as improved exhaust air extraction systems to protect the respiratory tract, upgraded workplace lighting to protect the eyes and many more besides have served to enhance general workplace safety throughout the group.
+
+# **DISCLOSURE PURSUANT TO THE EU TAXONOMY REGULATION**
+
+In order to achieve the climate and energy targets defined by the European Union for 2050 and thus realise the goals of the European Green Deal, it is most important that financial flows are channelled into sustainable projects and investments. However, until recently, the term sustainability was barely regulated by legislation and was thus burdened with a certain degree of uncertainty. Indeed, by and large there was no concrete definition of when an activity could be considered to be sustainable. For this reason, the EU Taxonomy Regulation came into force in June 2020. It is intended to create clarity and at the same time encourage companies to make their economic activities more environment- and climate-friendly.
+
+At the heart of the Taxonomy Regulation there are six environmental objectives:
+
+- Climate Change Mitigation
+- Climate Change Adaptation
+- Sustainable use and protection of water and marine resources
+- Transition to a circular economy
+- Prevention and reduction of environmental pollution
+- Protection and restoration of biodiversity and ecosystems
+
+Last year, all companies subject to the non-financial reporting requirement reported their share of taxonomyeligible and taxonomy-aligned economic activities. Specifically, the taxonomy-eligible and taxonomy-aligned sales, investment and operating expenses were reported. For this reason, POLYTEC also published the taxonomyaligned proportion of the three performance indicators turnover, CapEx and OpEx for the first time last year, in accordance with Article 8 of the Taxonomy Regulation, as well. POLYTEC published the respective taxonomy-eligible, investment and operating expenses for the first time in 2022, the year in which the Taxonomy Regulation was implemented.
+
+The step towards alignment is linked to compliance with specific parameters. For example, an economic activity is only taxonomy-aligned and therefore environmentally sustainable if it makes a substantial contribution to one of the EU's six environmental objectives. In addition, this economic activity must not significantly impair any of the other objectives and must be carried out in compliance with predefined minimum social safeguards.
+
+Within the scope of the definition of economic activities, POLYTEC focuses on the environmental objective of climate protection and thus, in accordance with Article 9 (a) of Regulation (EU) 2020/852, on the first objective of the regulation, whereby double counting could also be avoided. The technical assessment criteria defined for this purpose specify, among other things, the conditions under which an economic activity makes a substantial contribution to climate protection and also does not cause any significant impairment of one of the other five environmental objectives.
+
+#### **MINIMUM SOCIAL SAFEGUARDS**
+
+Article 18 of the EU Taxonomy Regulation requires compliance with so-called minimum social safeguards. This minimum protection ensures that key regulations, such as the OECD Guidelines for Multinational Enterprises or the United Nations Guiding Principles on Business and Human Rights, are complied with. Specifically, the four core topics of respect for human rights, combating corruption and bribery, taxation and fair competition were formulated as part of the minimum social safeguards.
+
+In 2015, the POLYTEC GROUP launched ONE POLYTEC, a strategic initiative aimed at promoting group-wide cooperation and making the group's complexity more utilizable and controllable. The technical and operational basis for this was created by a broad-based digitalization offensive focusing on technological competence and market development. Almost all of the company's processes were initially simplified, standardized and then made centrally controllable with the help of digital
+
+## Page 76
+
+solutions. In addition to the digitalization of technology and finance-related agendas, the initiative not only included the digitalization and automated management of all employee-related topics such as occupational safety, time recording and the general protection of employee rights, but also the introduction of learning management systems for the optimization and tracking of training and further education. In order to counteract the risks of bribery and corruption and ensure free and fair competition with our customers and competitors, risks have been identified, the main financially relevant processes have been digitalized and standardized as part of a closed internal control system. In addition, employees' awareness of compliance with competition law requirements is heightened and tracked through the publication of corresponding guidelines. POLYTEC has implemented the following measures and processes to ensure compliance with these human rights due diligence obligations and the implementation of the above objectives.
+
+#### **COMPLIANCE WITH HUMAN RIGHTS**
+
+The ongoing group-wide risk analyses do not reveal any relevant industry-, company- or product-specific risks that would appear to have a negative impact on compliance with the minimum standards. The implemented systems enable violations in the areas of working hours and occupational safety as well as training and education to be tracked on an ongoing basis and remedial action to be taken as required. At locations outside Europe, particularly in China and South Africa, the locally applicable legal provisions are monitored by trained, qualified personnel. At the beginning of 2024, a risk management guideline was put into force with the involvement of the supervisory bodies, which will also further promote the anchoring of due diligence obligations to comply with minimum standards in the Group's corporate and sustainable risk strategy.
+
+In order to fulfil the necessary due diligence obligations and avoid negative effects, in 2017 the POLYTEC GROUP, in cooperation with its supervisory bodies, installed a comprehensive Code of Conduct as a binding internal set of rules and the basis for the group's business activities, which is continuously developed and most recently published in a revised version at the beginning of 2024. Among other things, it contains regulations for the protection of employees with regard to equal treatment and non-discrimination, the protection of employees with regard to human and employee rights, health and safety as well as equal treatment and non-discrimination. The Code of Conduct, which is also published on the POLYTEC homepage, defines the POLYTEC GROUP's mission statement and forms the basis of its corporate culture. It is stored centrally in the group-wide information management system and is assigned to all employees via the learning management system as part of the onboarding process.
+
+A Code of Conduct for Suppliers and corresponding processes for supplier selection and evaluation have been implemented as part of audits and supplier selfassessments to ensure the careful selection of suppliers. New suppliers must undertake to comply with the Supplier Code of Conduct and the minimum social standards listed in detail in accordance with internationally recognized agreements before the contract becomes clear or an order is placed. The POLYTEC Code of Conduct also stipulates that suppliers must comply with POLYTEC safety standards as well as the sustainable and social procurement of raw materials. As a basic prerequisite, the POLYTEC GROUP expects its suppliers to be aware of and fully comply with the applicable relevant laws and regulations. As part of the German Supply Chain Due Diligence Act, which came into force for the POLYTEC GROUP's German locations on 1 January 2024, a continuous digital process is currently being implemented with the aid of an external tool for the group-wide certification of all suppliers. It can be assumed that this will further sharpen and optimize the ecologically and socially sustainable procurement strategy.
+
+Since 2017, employees have been able to submit reports and demand remedial action at any time in the event of any grievances, complaints and violations as well as mere suspicion of a violation via an email address stored in the Code of Conduct and/or by submitting a report to the Group Legal Department. In 2020, on the basis of the EU Whistleblower Directive, an internal whistleblowing portal was installed, which due to a technical modification will also enable external stakeholders and interest groups to submit corresponding reports via the POLYTEC GROUP homepage from 1 January 2024.
+
+In the 2020 financial year, the POLYTEC GROUP's training management was digitalized and the POLYTEC Learning Management System (LMS) was introduced. As a result, as part of the onboarding process, employees can be assigned corresponding guidelines and training courses in a closed system, and their acknowledgement can be monitored, documented and tracked. In addition, employees are regularly trained on topics such as occupational safety, cybercrime, etc. in the LMS. Certification is carried out regularly by completing corresponding examination questions. Further training content and certifications are continuously integrated
+
+## Page 77
+
+throughout the Group. In addition, regular training courses on workplace-related and safety-relevant instructions or special certifications are documented and tracked.
+
+Since 2020, the LMS has been successively introduced in Germany, Austria and the Netherlands by means of a further HR SAP tool - the ESS/MSS program - with others to follow. This ensures the centralized, audit-proof administration of POLYTEC employees' time bookings and absences and thus consistent compliance with and tracking of the applicable working time laws.
+
+#### **CORRUPTION AND FAIR COMPETITION**
+
+In order to minimize the risk of bribery and corruption as far as possible, since 2015 the internal control system has been further advanced by ensuring the dual control principle through the group-wide digitalization offensive. The POLYTEC Group now has automated systems for the approval of purchase requisitions and value-dependent system-based release authorizations for payment instructions. The conclusion of development projects and sales contracts is also subject to a standardized approval process through the installation of the POLYTEC development process (PEP) and the sales guidelines for the approval of offers and contract review, so that the greatest possible transparency in the conclusion of projects and contracts and fair competition are ensured. Cash transactions are not possible and all payment approvals are carried out by the authorized parties to whom rights have been assigned in accordance with the approval strategy.
+
+With regard to the anti-corruption guidelines published in the Group in February 2022, the Group Compliance Committee, which was set up specifically for this purpose, is responsible for reviewing and monitoring local inquiries and reporting to the Management Board. Periodic risk assessments and anti-corruption training for employees serve to prevent corruption and monitor compliance issues. In this context, increased commitment on the part of the Management Board promotes the monitoring of events that entail a certain risk of corruption and bribery.
+
+Due to the prohibition of the misuse of insider information and market manipulation, the POLYTEC compliance guideline serves to safeguard these principles and to avert damages and penalties for the POLYTEC GROUP and its employees. Insider lists are kept and potential insiders are continuously trained in the LMS by completing appropriate compliance training courses; their timely completion is digitally documented and training courses are regularly followed up for re-completion.
+
+#### **TAXATION**
+
+Within the scope of taxation, the POLYTEC GROUP always acts in accordance with the locally applicable tax requirements, in compliance with internally implemented security measures (ICS) and the intergroup compliance guidelines. The accounting recording of business transactions, the preparation of tax returns, payment transactions and other tax-relevant processes are handled on the basis of a process flow in compliance with the dual control principle. The effectiveness of the processes and the internal control system is subject to an annual audit. When preparing tax returns, random samples of documents and proof of delivery are always selected and the correct posting or reporting in the tax returns is checked.
+
+In addition, the data to be submitted in the course of the declaration is checked for plausibility with any statistical reports that may have to be submitted. Compliance with deadlines (monthly reporting, due dates for UVA's, Intrastat reports, ZMen, etc.) is ensured by means of internal documentation (definition of responsibilities including deputy regulations) and a company calendar. Special issues and specific tax queries are assessed by the local accounting departments with the corporate accounting team and, if necessary, with external tax advisors. The confidential handling of data, documents and information, in particular, as well as special attention to this, is ensured by regular training in the "Compliance Guideline".
+
+## Page 78
+
+#### **DO-NO-SIGNIFICANT-HARM CRITERIA**
+
+For an economic activity to be assessed as taxonomyaligned and therefore environmentally sustainable, it must, among other things, make a substantial contribution to one of the six environmental objectives without causing significant harm to the other objectives. For this purpose, specific Do-No-Significant-Harm criteria, abbreviated to DNSH in the following, were defined for each environmental objective within the framework of the Taxonomy Regulation.
+
+The Taxonomy Regulation requires a climate risk and vulnerability analysis to fulfil the DNSH criterion for the climate change adaptation objective. Specifically, this is intended to determine the physical climate risks during the expected lifetime of an economic activity. POLYTEC obtained support for this from an external provider and identified appropriate adaptation solutions. Specifically, the risk of an extreme rise in temperature was identified for the evaluated locations. In order to mitigate the effects of these heat waves on employees, appropriate adaptation solutions were defined as part of the potential acquisition of equipment.
+
+Within the scope of the necessity of an environmental impact assessment as a DNSH criterion, POLYTEC carried out an internal analysis and was able to identify the relevant existing environmental, building and water specific legal documents.
+
+#### **SPECIFICATION OF KEY PERFORMANCE INDICATORS**
+
+#### **TURNOVER (ECONOMIC ACTIVITIES)**
+
+To determine the economic activities eligible for taxonomy, POLYTEC once again carried out a structured analysis of sales-based economic activities as a first step this year. For this purpose, corresponding sales data was obtained within the scope of a sales listing and allocated to specific product groups.
+
+For the allocation of economic activities within the scope of taxonomy capability, POLYTEC uses, among other things, product groups in connection with the manufacture of corresponding components for batteries with regard to the turnover-related key figure. These products are, for example, battery housings, battery covers or battery holders.
+
+Due to the publication of new sectors by the EU Commission last year, corresponding battery components, insofar as they are manufactured for vehicles in the context of e-mobility, can be allocated to category
+
+3.18 Manufacture of automotive and mobility components. In addition, this year POLYTEC assigns all components for electrically powered vehicles to this sector. In the context of the technical evaluation criteria, these components make a significant contribution to climate protection, as they are essential for the provision of the environmental performance of zero-emission vehicles for local, regional and road passenger transportation. They can therefore be fully allocated to the taxonomy-aligned share. Those battery components that are not designed for electrically powered passenger transportation devices remain in sector 3.4 Manufacture of batteries. However, the division of these products into two different sectors results in only one taxonomy-eligible share of category 3.4. In order to avoid double counting, a very clear subdivision was made according to the drive type of the vehicles for which the corresponding components were manufactured.
+
+As part of the production of specific solar tubs and components for the pioneering organic flow battery systems, POLYTEC was able to identify sector 3.1 Manufacture of renewable energy technologies as a further category. The product groups used for this correspond to the legal framework conditions of the Taxonomy Regulation, which means that they can be identified as taxonomy-aligned.
+
+POLYTEC has defined sector 3.6 Manufacture of other lowcarbon technologies as a further category from the large number of taxonomy-eligible economic sectors. These technologies are aimed at a significant reduction in greenhouse gas emissions and, depending on the availability of a life cycle analysis and thus the prerequisite for compliance with the technical evaluation criteria, can be identified as both taxonomy-eligible and taxonomyaligned. In the case of the products considered here, this is due to their lightweight construction and production processes, such as injection-moulded products, on the one hand. Compared to equivalent products made from metalcontaining materials or similar, these products weigh less and therefore have a lower impact on the emissions of the vehicles in which they are installed. These products include, for example, cylinder head covers made of plastic.
+
+## Page 79
+
+Products that influence the aerodynamics of vehicles as end products were also included in this category. The particularly streamlined shape of specific underbody components or roof spoilers, for example, can reduce air resistance, which in turn can reduce emissions.
+
+POLYTEC was also able to identify products outside the automotive sector in category 3.6. Specifically, these are foldable reusable containers for food transportation. These transport boxes bear the prestigious Cradle to Cradle Certified® seal (version 3.1) and can be fully recycled and thus kept in the cycle. Based on the requirements of the Taxonomy Regulation, these reusable boxes make a substantial contribution to climate protection. The corresponding technical evaluation criteria can also be fulfilled, which means that they can also be designated as taxonomy-aligned.
+
+During the analysis of its economic activities, POLYTEC was also able to define the category 3.17 Manufacture of plastics in primary forms for itself within the scope of the production of material sheet moulding compounds (SMC) at the plant in Gochsheim. POLYTEC produces this material in its pure form, but also processes it into products such as the previously mentioned solar tub. As the produced SMC does not meet the technical evaluation criteria of the Taxonomy Regulation, it is only included in the taxonomyeligible share of sales.
+
+The slight deviation of the key figure compared to the previous year is due to the order-related variable product portfolio. POLYTEC produces a large number of different products, which are naturally subject to call-off fluctuations. For this reason, the corresponding economic activities and thus also product groups were reanalysed and reassessed.
+
+The basis of sales is net sales resulting from goods or services in accordance with IAS 1.82(a). The total revenue of EUR 635,987 k for the 2023 financial year forms the denominator of the revenue indicator and can be found in the consolidated income statement (see E. 1. Net sales revenues and segment reporting). To calculate the corresponding percentages, the share of sales revenues from products in connection with taxonomy-eligible economic activities (= numerator) was set in relation to POLYTEC's total sales revenues in 2023 (= denominator). POLYTEC used a similar approach to determine the taxonomy-aligned share of sales. The respective share of taxonomy-eligible and taxonomy-aligned sales was calculated on the basis of the provisions of the International Financial Reporting Standards (IFRS). The figures used for POLYTEC's total sales in 2023 correspond to the items in the annual financial statements. Based on this, the following data was obtained for the sales-related performance indicator.
+
+## Page 80
+
+|                                                                                                                            |          |                       |                                       |  | Substantial contribution criteria |                               |              |                      |               |                                  | DNSH-Criteria<br>("Do-No-Significant-Harm") |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+|----------------------------------------------------------------------------------------------------------------------------|----------|-----------------------|---------------------------------------|--|-----------------------------------|-------------------------------|--------------|----------------------|---------------|----------------------------------|---------------------------------------------|--------------------------------|------------|-----------------------|----------------|----------------------------------|-------------------------|---------------------------------------------------------------------|---------------------------------|-------------------------------------|
+| Financial year 2023                                                                                                        |          |                       |                                       |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| Economic activities (1)                                                                                                    | Code (2) | Absolute turnover (3) | Proportion of turnover, year 2023 (4) |  | Climate change mitigation (5)     | Climate change adaptation (6) | Water (7)    | Circular economy (8) | Pollution (9) | Biodiversity and ecosystems (10) | Climate change mitigation (11)              | Climate change adaptation (12) | Water (13) | Circular economy (14) | Pollution (15) | Biodiversity and ecosystems (16) | Minimum safeguards (17) | Taxonomy-aligned (A.1.) or eligible (A.2.) turnover, year 2022 (18) | Category enabling activity (19) | Category transitional activity (20) |
+|                                                                                                                            |          | in EUR k              | %                                     |  | Y;N;<br>N/EL                      | Y;N;<br>N/EL                  | Y;N;<br>N/EL | Y;N;<br>N/EL         | Y;N;<br>N/EL  | Y;N;<br>N/EL                     | Y/N                                         | Y/N                            | Y/N        | Y/N                   | Y/N            | Y/N                              | Y/N                     | %                                                                   | E                               | T                                   |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                            |          |                       |                                       |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| A.1 Environmentally sustainable activities (taxonomy-aligned)                                                              |          |                       |                                       |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| Manufacture of renewable energy<br>technologies                                                                            | CCM 3.1  | 1,878                 | 0.3                                   |  | Y                                 | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                                           | Y                              | Y          | Y                     | Y              | Y                                | Y                       | 0.0                                                                 | E                               | /                                   |
+| Manufacture of batteries                                                                                                   | CCM 3.4  | 0                     | 0.0                                   |  | Y                                 | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                                           | Y                              | Y          | Y                     | Y              | Y                                | Y                       | 2.7                                                                 | E                               | /                                   |
+| Manufacture of other low carbon<br>technologies                                                                            | CCM 3.6  | 37,536                | 5.9                                   |  | Y                                 | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                                           | Y                              | Y          | Y                     | Y              | Y                                | Y                       | 6.3                                                                 | E                               | /                                   |
+| Manufacture of automotive and<br>mobility components                                                                       | CCM 3.18 | 33,372                | 5.2                                   |  | Y                                 | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                                           | Y                              | Y          | Y                     | Y              | Y                                | Y                       | /                                                                   | E                               | /                                   |
+| Turnover of environmentally sustainable<br>activities (taxonomy-aligned) (A.1)                                             |          | 72,785                | 11.4                                  |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         | 9.0                                                                 |                                 |                                     |
+| Thereof enabling activities                                                                                                |          | 72,785                | 100                                   |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         | 100                                                                 | E                               |                                     |
+| Thereof transitional activities                                                                                            |          | /                     | /                                     |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         | 0.0                                                                 |                                 | /                                   |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities (not taxonomy-aligned activities)                     |          |                       |                                       |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| Manufacture of renewable energy<br>technologies                                                                            | CCM 3.1  | 0                     | 0.0                                   |  | EL                                | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                             |                                |            |                       |                |                                  |                         | 0.5                                                                 |                                 |                                     |
+| Manufacture of batteries                                                                                                   | CCM 3.4  | 8,516                 | 1.3                                   |  | EL                                | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                             |                                |            |                       |                |                                  |                         | 0.5                                                                 |                                 |                                     |
+| Manufacture of other low carbon<br>technologies                                                                            | CCM 3.6  | 95,443                | 15.0                                  |  | EL                                | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                             |                                |            |                       |                |                                  |                         | 18.1                                                                |                                 |                                     |
+| Manufacture of plastics in<br>primary form                                                                                 | CCM 3.17 | 6,180                 | 1.0                                   |  | EL                                | N/<br>EL                      | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                             |                                |            |                       |                |                                  |                         | 0.7                                                                 |                                 |                                     |
+| Turnover of taxonomy-eligible but not<br>environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2) |          | 110,139               | 17.3                                  |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         | 19.8                                                                |                                 |                                     |
+| A. Turnover of taxonomy-eligible<br>activities (A.1 + A.2)                                                                 |          | 182,924               | 28.8                                  |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         | 28.8                                                                |                                 |                                     |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                        |          |                       |                                       |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| Turnover of taxonomy-non-eligible<br>activities (B)                                                                        |          | 453,063               | 71.2                                  |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| Total                                                                                                                      |          | 635,987               | 100                                   |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+| Proportion of turnover/Total turnover in %                                                                                 |          |                       |                                       |  |                                   |                               |              |                      |               |                                  |                                             |                                |            |                       |                |                                  |                         |                                                                     |                                 |                                     |
+
+|     | Taxonomy-aligned<br>per target | Taxonomy-eligible<br>per target |
+|-----|--------------------------------|---------------------------------|
+| CCM | 11.4                           | 17.3                            |
+| CCA | 0                              | 0                               |
+| TWR | 0                              | 0                               |
+| CE  | 0                              | 0                               |
+| PPC | 0                              | 0                               |
+| BIO | 0                              | 0                               |
+
+## Page 81
+
+#### Footnotes and explanations of the tables:
+
+- (a) (a) The code represents the abbreviation of the specific objective to which the economic activity can make a substantial contribution and the number of the section of the activity in the relevant annex that covers the objective, i.e.
+	- Climate change mitigation: CCM
+	- Climate change adaptation: CCA
+	- Water: WTR
+	- Circular economy: CE - Pollution: PPC
+	- Biodiversity and ecosystems: BIO For example, the activity "Reforestation" would have the following code: CCM 1.1.
+
+For measures that can make a substantial contribution to more than one objective, the codes for all objectives should be provided. For example, if the operator reports that the "new construction" activity makes a significant contribution to climate protection and the circular economy, the code would be: CCM 7.1./CE 3.1.
+
+The same codes should be used in sections A.1 and A.2 of this template.
+
+- (b) Y Yes, taxonomy-eligible and for the relevant objective taxonomy-aligned activity N – No, taxonomy-eligible but for the relevant objective not taxonomy-aligned activity N/EL – "not eligible", for the relevant objective not taxonomy-eligible activity
+- (c) Where an economic activity contributes substantially to multiple environmental objectives, non-financial entities shall indicate in bold the most relevant environmental objective for the calculation of financial entity KPIs, avoiding double counting. If the use of the proceeds from the financing is not known, financial entities shall calculate in their respective KPIs the financing of economic activities that contribute to multiple environmental objectives according to the most relevant environmental objective indicated in bold by non-financial entities in this template. An environmental objective can only be stated once in a line in bold to avoid double counting of economic activities in the KPIs of financial companies. his does not apply to the calculation of taxonomy compliance of economic activities for financial products within the meaning of Article 2 number 12 of Regulation (EU) 2019/2988. Non-financial companies also report the level of taxonomy eligibility and compliance by environmental objective, which includes compliance with each of the environmental objectives for activities that contribute significantly to multiple objectives, using the template below:
+- (d) The same activity can only conform to one or more environmental objectives for which it is taxonomy-eligible.
+- (e) The same activity may be taxonomy-eligible and not consistent with relevant environmental objectives.
+- (f) EL For the relevant objective taxonomy-eligible activity. N/EL – For the relevant objective not taxonomy-eligible activity.
+- (g) Activities shall only be reported in Section A.2 of this template if they are not conform with an environmental objective for which they are taxonomy-eligible. Activities that are conform with at least one environmental objective must be reported in section A.1 of this reporting form.
+- (h) To report an activity in Section A.1, all DNSH criteria and minimum safeguards must be met. For the activities listed under A.2, columns 5 to 17 can be filled in by non-financial companies on a voluntary basis. Non-financial entities may indicate the substantial contribution and the DNSH criteria they meet or do not meet in Section A.2 using the following codes: a) for material contribution: Y/N and N/EL instead of EL and N/EL as well as b) for DNSH: Y/N.
+
+#### **INVESTMENTS (CapEx)**
+
+In order to evaluate the investment-related performance indicator, POLYTEC carried out an analysis of its investment expenditure in the past year. For this purpose, the corresponding CapEx figures were obtained from the individual locations and aggregated at regional level. As part of the data collection for the CapEx indicator, there would also have been the potential to be subject to the error of double counting certain monetary expenses. To avoid this, the corresponding data records were evaluated precisely and included in the calculation of the CapEx indicator depending on their relevance.
+
+In the first step, POLYTEC determined those investments for the corresponding calculation that are related to the economic activities identified within the scope of the salesrelated performance indicator. This year, this includes taxonomy-eligible expenditure on projects for the production of oil separators or components for hybrid cars, for example. A review of capital expenditure has revealed specific allocations to these categories. Taxonomy-aligned capital expenditure also arises from expenses in connection with components for electric cars, foldable transport boxes and components for renewable energy systems. In the past year, for example, isolated investments were made in the recycling plant in Ebensee, Austria, which is essential for the production of the boxes, among other things. POLYTEC produces several products at certain plants, as a result of which it is not yet possible to explicitly allocate investment expenditure for new plants to specific sectors.
+
+Expenditure in the context of energy-saving measures, such as the conversion of lighting to LED lamps, could be classified under category 7.3 Installation, maintenance and repair of energy-efficient equipment. These capital expenditures therefore make a substantial contribution to climate protection and have no significant negative impact on the other environmental objectives of the Taxonomy Regulation. For this reason, these expenses can be assessed as taxonomy-aligned and therefore contribute to the corresponding percentage.
+
+## Page 82
+
+As a result of the investments in wall boxes at several POLYTEC locations, the economic sector 7.4 Installation, maintenance and repair of charging stations for electric vehicles in buildings could also be used for the allocation of economic activities. According to the Taxonomy Regulation, this investment also represents a substantial contribution to climate protection. At the same time, the other environmental objectives are not significantly impaired by it, as a result of which POLYTEC includes this investment in the taxonomy-aligned portion of the CapEx indicator.
+
+In addition, POLYTEC has made further investments in the context of energy saving measures, such as the implementation of energy monitoring in some plants. Investments in energy monitoring systems are included in economic sector 7.5 Installation, maintenance and repair of equipment for measuring, regulating and controlling the energy performance of buildings. Specifically, this involves the installation of smart meters for electricity, which can make a significant contribution to climate protection. As there is also no significant impairment of the other objectives and the minimum protection provided is congruent with the analyses in the context of the revenuerelated performance indicator, these investments can be regarded as taxonomy-aligned.
+
+In order to calculate the taxonomy-eligible share of the CapEx ratio, investment expenditure in connection with taxonomy-eligible economic activities (= numerator) was set in relation to POLYTEC's total investment expenditure in 2023 (= denominator), taking into account the requirements of the Taxonomy Regulation. Based on this, investment expenditure in connection with taxonomyaligned economic activities (= numerator) was also evaluated in relation to the total investment expenditure from 2023 (= denominator) for the taxonomy-aligned CapEx share. Investments for energy monitoring and energy-saving projects and charging stations for electric vehicles were also included in the counter.
+
+The respective share of taxonomy-eligible and taxonomyaligned CapEx was calculated based on the provisions of the International Financial Reporting Standards (IFRS). For the total CapEx of EUR 26,448 k which was defined as the denominator for the calculation, POLYTEC used the total additions to intangible assets of EUR 423 k, excluding additions to advance payments of EUR 266 k and plus reclassifications of advance payments of EUR 2,859 k (see E. 8. Intangible assets and goodwill). With regard to the property, plant and equipment recognized, the total additions of EUR 27,858 k, excluding the additions to advance payments and assets under construction of EUR 9,533 k and plus the reclassifications of advance payments and assets under construction of EUR 5,107 k, were used (see E. 9. Tangible asset).
+
+However, deviations in the figures for the CapEx-related performance indicator also arise due to the varying investments within the scope of individual projects. In addition, POLYTEC has made further investments in the renewal of plants for 2023. These plants are naturally more energy-efficient and resource-saving, but do not comply with the regulations of the Taxonomy Ordinance and therefore cannot be included in this list.
+
+## Page 83
+
+| Financial year 2023                                                                                                                                |          |                       |                                       | Substantial contribution criteria |                               |              |                      |               |                                  |                                | DNSH-Criteria<br>("Do-No-Significant-Harm") |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------|-----------------------|---------------------------------------|-----------------------------------|-------------------------------|--------------|----------------------|---------------|----------------------------------|--------------------------------|---------------------------------------------|------------|-----------------------|----------------|----------------------------------|-------------------------|---------------------------------------------------------------------|---------------------------------|-------------------------------------|--|--|
+| Economic activities (1)                                                                                                                            | Code (2) | Absolute turnover (3) | Proportion of turnover, year 2023 (4) | Climate change mitigation (5)     | Climate change adaptation (6) | Water (7)    | Circular economy (8) | Pollution (9) | Biodiversity and ecosystems (10) | Climate change mitigation (11) | Climate change adaptation (12)              | Water (13) | Circular economy (14) | Pollution (15) | Biodiversity and ecosystems (16) | Minimum safeguards (17) | Taxonomy-aligned (A.1.) or eligible (A.2.) turnover, year 2022 (18) | Category enabling activity (19) | Category transitional activity (20) |  |  |
+|                                                                                                                                                    |          | in EUR k              | %                                     | Y;N;<br>N/EL                      | Y;N;<br>N/EL                  | Y;N;<br>N/EL | Y;N;<br>N/EL         | Y;N;<br>N/EL  | Y;N;<br>N/EL                     | Y/N                            | Y/N                                         | Y/N        | Y/N                   | Y/N            | Y/N                              | Y/N                     | %                                                                   | E                               | T                                   |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                    |          |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+| A.1 Environmentally sustainable activities (taxonomy-aligned)                                                                                      |          |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+| Manufacture of renewable energy<br>technologies                                                                                                    | CCM 3.1  | 73                    | 0.3                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.0                                                                 | E                               | /                                   |  |  |
+| Manufacture of batteries                                                                                                                           | CCM 3.4  | 0                     | 0.0                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 2.0                                                                 | E                               | /                                   |  |  |
+| Manufacture of other low carbon<br>technologies                                                                                                    | CCM 3.6  | 129                   | 0.5                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 1.2                                                                 | E                               | /                                   |  |  |
+| Manufacture of automotive and<br>mobility components                                                                                               | CCM 3.18 | 415                   | 1.6                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.0                                                                 | E                               | /                                   |  |  |
+| Installation, maintenance and repair<br>of energy efficiency equipment                                                                             | CCM 7.3  | 948                   | 3.6                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.2                                                                 | E                               | /                                   |  |  |
+| Installation, maintenance and repair<br>of charging stations for electric<br>vehicles in buildings                                                 | CCM 7.4  | 159                   | 0.6                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.0                                                                 | E                               | /                                   |  |  |
+| Installation, maintenance and repair<br>of instruments and devices for<br>measuring, regulation and controlling<br>energy performance of buildings | CCM 7.5  | 93                    | 0.4                                   | Y                                 | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.2                                                                 | E                               | /                                   |  |  |
+| CapEx of environmentally sustainable<br>activities (taxonomy-aligned) (A.1)                                                                        |          | 1,817                 | 6.9                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 3.6                                                                 |                                 |                                     |  |  |
+| Thereof enabling activities                                                                                                                        |          | 1,817                 | 100                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 100                                                                 | E                               |                                     |  |  |
+| Thereof transitional activities                                                                                                                    |          | 0                     | 0.0                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 0.0                                                                 |                                 | /                                   |  |  |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities (not taxonomy-aligned activities)                                             |          |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+| Manufacture of renewable energy<br>technologies                                                                                                    | CCM 3.1  | 32                    | 0.1                                   | EL                                | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             |                                |                                             |            |                       |                |                                  |                         | 0.0                                                                 |                                 |                                     |  |  |
+| Manufacture of batteries                                                                                                                           | CCM 3.4  | 0                     | 0.0                                   | EL                                | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             |                                |                                             |            |                       |                |                                  |                         | 1.2                                                                 |                                 |                                     |  |  |
+| Manufacture of other low carbon<br>technologies                                                                                                    | CCM 3.6  | 1,204                 | 4.6                                   | EL                                | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             |                                |                                             |            |                       |                |                                  |                         | 12.3                                                                |                                 |                                     |  |  |
+| Urban, suburban and road<br>passenger transport                                                                                                    | CCM 6.3  | 989                   | 3.7                                   | EL                                | N                             | N/EL         | N/EL                 | N/EL          | N/EL                             |                                |                                             |            |                       |                |                                  |                         | 0.0                                                                 |                                 |                                     |  |  |
+| CapEx of taxonomy-eligible but not<br>environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2)                            |          | 2,225                 | 8.4                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 13.5                                                                |                                 |                                     |  |  |
+| A. CapEx of taxonomy-eligible<br>activities (A.1 + A.2)                                                                                            |          | 4,041                 | 15.3                                  |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 17.1                                                                |                                 |                                     |  |  |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                                                |          |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+| CapEx of taxonomy-non-eligible<br>activities (B)                                                                                                   |          | 22,407                | 84.7                                  |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+| Total                                                                                                                                              |          | 26,448                | 100                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                     |                                 |                                     |  |  |
+
+1) Column (18): There was an adjustment in the denominator.
+
+## Page 84
+
+|     |                  | Proportion of CapEx/Total CapEx in % |
+|-----|------------------|--------------------------------------|
+|     | Taxonomy-aligned | Taxonomy-eligible                    |
+|     | per target       | per target                           |
+| CCM | 6.9              | 8.4                                  |
+| CCA | 0                | 0                                    |
+| TWR | 0                | 0                                    |
+| CE  | 0                | 0                                    |
+| PPC | 0                | 0                                    |
+| BIO | 0                | 0                                    |
+
+#### **OPERATING EXPENSES (OpEx)**
+
+As part of the Taxonomy Regulation, companies are obliged to publish their corresponding operating expenses in addition to the proportion of taxonomy-eligible and taxonomy-aligned sales and investments.
+
+For this reason, POLYTEC considered the total operating expenses of the previous year, similar to the procedure used to determine the other two performance indicators. Specifically, the pre-defined expenses in connection with repair and maintenance costs, research and development costs and leasing were used here.
+
+POLYTEC also categorizes other operating expenses under the term OpEx, which do not correlate with the requirements of the regulation. The relevant operating expenses were therefore evaluated precisely in order to carry out the calculation correctly in accordance with the Taxonomy Regulation. For this purpose, only the maintenance costs and other rental and leasing expenses were taken from the OpEx costs listed in the annual financial statements under item E.5 Other operating expenses. This figure was also supplemented by research and development costs, taking into account personnel costs from the Engineering division, resulting in a total OpEx cost figure as shown in the table below.
+
+As a first step in the calculation of this performance indicator, attention was also paid to the product groups identified for the calculation of the sales-related KPI. This results in a pro rata allocation of taxonomy-eligible and taxonomy-aligned maintenance as well as research and development costs in accordance with item E.5 Other operating expenses to the economic sectors 3.1 Manufacture of renewable energy technologies, 3.4 Manufacture of batteries, 3.6 Manufacture of other lowcarbon technologies, 3.17 Manufacture of plastics in primary forms and 3.18 Manufacture of automotive and mobility components.
+
+In addition to the pro rata allocation of the item "Other rental and leasing expenses", the focus was placed on the costs of leased hybrid and electric company cars for the collection of taxonomy-eligible leasing costs. These operating expenses were allocated to economic sector 6.3 Local and regional passenger transport, road passenger transport. Due to the fact that hybrid vehicles do not completely reduce greenhouse gas emissions and therefore do not make a significant contribution to climate protection in accordance with the technical assessment criteria, the leasing costs in this context were only identified as taxonomy-eligible.
+
+## Page 85
+
+The research and development costs were determined based on the personnel costs in relation to the relevant departments. For this purpose, specific hourly rates were recorded, and in addition, proportionate taxonomy-eligible and taxonomy-aligned costs were identified based on the defined product groups and thus assigned to categories 3.1, 3.4, 3.6, 3.17 and 3.18. For the calculation of the taxonomy-eligible OpEx costs, the share of operating expenses related to taxonomy-eligible economic activities, specifically the taxonomy-eligible proportion of expenses related to research and development, leasing as well as maintenance and repair (= numerator) were thus put in relation to the total operating expenses (= denominator) in accordance with the Taxonomy Regulation. As POLYTEC was unable to identify any taxonomy-eligible turnover within the scope of sector 3.18 Manufacture of automotive and mobility components, no associated OpEx share was accordingly stated in the numerator of the calculation of taxonomy-eligible operating expenses.
+
+POLYTEC chose a similar approach for the collection of taxonomy-aligned OpEx costs. However, instead of the OpEx costs in connection with sector 3.18, the leasing costs and operating costs in connection with economic activity 3.17 Production of plastics in primary form were excluded from the numerator, as these fall exclusively into the taxonomy-eligible part of the OpEx costs.
+
+Corresponding figures for POLYTEC's total OpEx costs in 2023 (=denominator) correspond to the items in the annual financial statements; however, the total OpEx costs calculated in accordance with IFRS could not be used here, as the Taxonomy Regulation provides a slightly different definition of OpEx.
+
+The corresponding figures are shown in the following table.
+
+## Page 86
+
+|                                                                                                                        |                                    |                       |                                       | Substantial contribution criteria |                               |              |                      |               |                                  |                                | DNSH-Criteria<br>("Do-No-Significant-Harm") |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----------------------|---------------------------------------|-----------------------------------|-------------------------------|--------------|----------------------|---------------|----------------------------------|--------------------------------|---------------------------------------------|------------|-----------------------|----------------|----------------------------------|-------------------------|------------------------------------------------------------------------|---------------------------------|-------------------------------------|--|
+| Financial year 2023                                                                                                    |                                    |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| Economic activities (1)                                                                                                | Code (2)                           | Absolute turnover (3) | Proportion of turnover, year 2023 (4) | Climate change mitigation (5)     | Climate change adaptation (6) | Water (7)    | Circular economy (8) | Pollution (9) | Biodiversity and ecosystems (10) | Climate change mitigation (11) | Climate change adaptation (12)              | Water (13) | Circular economy (14) | Pollution (15) | Biodiversity and ecosystems (16) | Minimum safeguards (17) | Taxonomy-aligned (A.1.) or<br>eligible (A.2.) turnover, year 2022 (18) | Category enabling activity (19) | Category transitional activity (20) |  |
+|                                                                                                                        |                                    | in EUR k              | %                                     | Y;N;<br>N/EL                      | Y;N;<br>N/EL                  | Y;N;<br>N/EL | Y;N;<br>N/EL         | Y;N;<br>N/EL  | Y;N;<br>N/EL                     | Y/N                            | Y/N                                         | Y/N        | Y/N                   | Y/N            | Y/N                              | Y/N                     | %                                                                      | E                               | T                                   |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                        |                                    |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| A.1 Environmentally sustainable activities (taxonomy-aligned)                                                          |                                    |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| Manufacture of renewable energy<br>technologies                                                                        | CCM 3.1                            | 101                   | 0.4                                   | Y                                 | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.0                                                                    | E                               | /                                   |  |
+| Manufacture of batteries                                                                                               | CCM 3.4                            | 0                     | 0.0                                   | Y                                 | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 2.1                                                                    | E                               | /                                   |  |
+| Manufacture of other low carbon<br>technologies                                                                        | CCM 3.6                            | 1,452                 | 5.9                                   | Y                                 | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 4.9                                                                    | E                               | /                                   |  |
+| Manufacture of automotive and<br>mobility components                                                                   | CCM 3.18                           | 1,280                 | 5.2                                   | Y                                 | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         | Y                              | Y                                           | Y          | Y                     | Y              | Y                                | Y                       | 0.0                                                                    | E                               | /                                   |  |
+| OpEx of environmentally sustainable activities<br>(taxonomy-aligned) (A.1)                                             |                                    | 2,834                 | 11.5                                  |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 7.0                                                                    |                                 |                                     |  |
+| Thereof enabling activities                                                                                            |                                    | 2,834                 | 100                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 100                                                                    | E                               |                                     |  |
+| Thereof transitional activities                                                                                        |                                    | 0                     | 0.0                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 0.0                                                                    |                                 | /                                   |  |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities (not taxonomy-aligned activities)                 |                                    |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| Manufacture of renewable energy<br>technologies                                                                        | CCM 3.1                            | 0                     | 0.0                                   | EL                                | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                |                                             |            |                       |                |                                  |                         | 0.5                                                                    |                                 |                                     |  |
+| Manufacture of batteries                                                                                               | CCM 3.4                            | 330                   | 1.3                                   | EL                                | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                |                                             |            |                       |                |                                  |                         | 0.6                                                                    |                                 |                                     |  |
+| Manufacture of other low carbon<br>technologies                                                                        | CCM 3.6                            | 3,670                 | 14.8                                  | EL                                | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                |                                             |            |                       |                |                                  |                         | 19.1                                                                   |                                 |                                     |  |
+| Manufacture of plastics in<br>primary form                                                                             | CCM 3.17                           | 239                   | 1.0                                   | EL                                | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                |                                             |            |                       |                |                                  |                         | 0.7                                                                    |                                 |                                     |  |
+| Urban, suburban and road<br>passenger transport                                                                        | CCM 6.3                            | 118                   | 0.5                                   | EL                                | N                             | N/<br>EL     | N/<br>EL             | N/<br>EL      | N/<br>EL                         |                                |                                             |            |                       |                |                                  |                         | 0.1                                                                    |                                 |                                     |  |
+| OpEx of taxonomy-eligible but not<br>environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2) |                                    | 4,357                 | 17.6                                  |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 21.0                                                                   |                                 |                                     |  |
+| A. OpEx of taxonomy-eligible<br>activities (A.1 + A.2)                                                                 |                                    | 7,191                 | 29.1                                  |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         | 28.0                                                                   |                                 |                                     |  |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                    |                                    |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| OpEx of taxonomy-non-eligible<br>activities (B)                                                                        |                                    | 17,544                | 70.9                                  |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| Total                                                                                                                  |                                    | 24,735                | 100                                   |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+|                                                                                                                        | Proportion of OpEx/Total OpEx in % |                       |                                       |                                   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+| Taxonomy-aligned<br>per target                                                                                         |                                    |                       |                                       | Taxonomy-eligible<br>per target   |                               |              |                      |               |                                  |                                |                                             |            |                       |                |                                  |                         |                                                                        |                                 |                                     |  |
+
+|     | per target | per target |
+|-----|------------|------------|
+| CCM | 11.5       | 17.6       |
+| CCA | 0          | 0          |
+| TWR | 0          | 0          |
+| CE  | 0          | 0          |
+| PPC | 0          | 0          |
+| BIO | 0          | 0          |
+
+## Page 87
+
+# **ACTIVITIES IN THE SECTORS OF NUCLEAR ENERGY AND FOSSILE GAS**
+
+In addition, the Taxonomy Regulation requires the publication of a further declaration form in accordance with Article 8 (6) and (7) with regard to activities in the fields of nuclear energy and fossil gas.
+
+As POYTEC does not carry out any economic activities in this area, the following reporting form can be answered with "No" throughout. For this reason, there is no need to report on the associated further reporting forms.
+
+|    | Activities in the sector of nuclear energy                                                                                                                                                                                                                                                                                                                                                                   |    |
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+| 1. | The company is active in the research, development, demonstration and deployment of innovative power<br>generation plants that generate energy from nuclear processes with minimal waste from the fuel cycle,<br>finances such activities or holds risk positions in connection with these activities.                                                                                                       | No |
+| 2. | The company is active in the construction and safe operation of new nuclear facilities for the generation of<br>electricity or process heat - including for district heating or industrial processes such as hydrogen production<br>- as well as in their safety improvement using the best available technologies, finances such activities or holds<br>risk positions in connection with these activities. | No |
+| 3. | The company is active in the safe operation of existing nuclear facilities for the generation of electricity or<br>process heat - including for district heating supply or industrial processes such as hydrogen production - as<br>well as in their safety-related improvement, finances such activities or holds risk positions in connection with<br>these activities.                                    | No |
+|    | Activities in the sector of fossil gas                                                                                                                                                                                                                                                                                                                                                                       |    |
+| 4. | The company is active in the construction or operation of plants for the generation of electricity from fossil<br>gaseous fuels, finances such activities or holds risk positions in connection with these activities.                                                                                                                                                                                       | No |
+| 5. | The company is active in the construction, modernisation and operation of plants for combined heat, power<br>and cooling with fossil gaseous fuels, finances such activities or holds risk positions in connection with these<br>activities.                                                                                                                                                                 | No |
+| 6. | The company is active in the construction, modernisation and operation of plants for heat generation that<br>produce heat/cooling from fossil gaseous fuels, finances such activities or holds risk positions in connection<br>with these activities.                                                                                                                                                        | No |
+
+Hörsching, 5 April 2024
+
+## **The Board of Directors of POLYTEC Holding AG**
+
+#### **Markus Huemer**
+
+Chairman of the Board of Directors – CEO/COO
+
+#### **Peter Bernscher**
+
+Deputy Chairman of the Board of Directors – CCO
+
+#### **Markus Mühlböck**
+
+Member of the Board of Directors – CFO
+
+## Page 88
+
+# DECLARATION OF ALL LEGAL REPRESENTATIVES
+
+PURSUANT TO §124 (1) 3 OF THE 2018 AUSTRIAN STOCK EXCHANGE ACT
+
+We confirm that, to the best of our knowledge, the consolidated financial statements prepared in accordance with the applicable accounting standards, give a true and fair view of the assets, financial and earnings position of the group, that the group management report gives a true and fair view of the business performance, result and position of the group, with the consequence that a true and fair view of the assets, financial position and earnings of the group is created, and moreover that the management report provides a description of the principal risks and uncertainties that the group faces.
+
+We confirm that, to the best of our knowledge, the financial statements of the parent company prepared in accordance with the applicable accounting standards, give a true and fair view of its assets, financial and earnings position, that the management report gives a true and fair view of the company's business performance, result and position, with the consequence that a true and fair view of the assets, financial position and earnings of the company is created, and moreover that the management report provides a description of the principal risks and uncertainties that the company faces.
+
+Hörsching, 5 April 2024
+
+#### **The Board of Directors of POLYTEC Holding AG**
+
+#### **Markus Huemer**
+
+Chairman of the Board of Directors – CEO/COO Responsibilities: Corporate strategy, investment management, legal affairs, IT, corporate communications, operations, sustainability, project management, operational excellence
+
+#### **Peter Bernscher**
+
+Deputy Chairman of the Board – CCO Responsibilities: Sales, engineering, marketing, purchasing, human resources
+
+#### **Markus Mühlböck**
+
+Member of the Board of Directors – CFO Responsibilities: Finance, controlling, treasury, accounting, investor relations
+
+## Page 89
+
+# AUDIT CERTIFICATE
+
+# **REPORT ON THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+#### **AUDIT OPINION**
+
+We have examined the consolidated financial statements of
+
+## POLYTEC Holding AG, Hörsching,
+
+and its subsidiaries (the group), which consist of the consolidated balance sheet, the consolidated income statement and consolidated statement of comprehensive income as at 31 December 2023, the consolidated cash flow statement and the consolidated statement of changes in equity for the financial year ended on this reporting date, and the notes to the consolidated financial statements.
+
+In our opinion, the consolidated financial statements comply with the mandatory regulations and give a true and fair view of the consolidated assets and financial position of the group as at 31 December 2023, as well as its earnings position and consolidated cash flows for the year ended on this reporting date in accordance with the International Financial Reporting Standards (IFRS) as adopted by the EU, and the additional requirements pursuant to § 245a UGB (Austrian Commercial Code).
+
+#### **BASIS FOR THE AUDIT OPINION**
+
+We conducted our audit in accordance with the EU Regulation No. 537/2014 (subsequently referred to as the EU regulation) and with Austrian auditing standards. These standards require the audit to be conducted in accordance with the International Standards on Auditing (ISA). Our responsibilities pursuant to these rules and standards are described in the "Responsibilities of the auditor for the audit of the consolidated financial statements" section of our report. We are independent of the audited entity as prescribed by Austrian commercial law and professional regulations and have fulfilled our other professional responsibilities in line with these relevant ethical requirements.
+
+We believe that the audit evidence we obtained up to the date of our opinion is sufficient and appropriate to provide a basis for our audit opinion on this date.
+
+#### **KEY AUDIT MATTERS**
+
+Key audit matters are those facts that, in our professional judgment, were of most significance for our audit of the consolidated financial statements for the financial year. These matters were considered within the context of our audit of the consolidated financial statements as a whole and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+# **IMPAIRMENT OF INTANGIBLE AND TANGIBLE ASSETS (PROPERTY, PLANT AND EQUIPMENT)**
+
+See notes D. 9, D. 18, E. 8, E. 9.
+
+#### **The risk to the financial statements**
+
+In the 2023 financial year, the POLYTEC Holding AG identified indications of impairment regarding intangible assets, property, plant and equipment.
+
+The recoverable amount determined (impairment test of the affected cash-generating unit) showed sufficient coverage of the carrying amounts. For the impairment test, the valuation is completed on the basis of discounted net cash inflows, which are dependent upon future earnings expectations, using discount rates derived from market data.
+
+This valuation is subject to significant uncertainties relating to the accuracy of estimates, especially in connection with long-term planning assumptions and market unpredictability. The financial statements are at risk of being overstated for intangible assets and property, plant and equipment.
+
+## Page 90
+
+#### **Our audit procedures**
+
+We assessed the recoverability of intangible assets and property, plant and equipment as follows:
+
+- In order to adjudge the appropriateness of the planning, we obtained an understanding of the planning process and compared the assumptions employed with the historical development. We compared the earnings expectations and investments on which the valuation was based with the budget prepared by the Board of Directors and approved by the Supervisory Board, including medium-term planning. In addition, we discussed the assumptions in consultations with management and obtained insights into how historical experience influences the management's planning.
+- We studied the internal control measures for identifying and assessing indications of impairment or impairment reversal and evaluated their design and implementation.
+- Furthermore, we considered the appropriateness of the discount rates determined and the calculation model of the impairment test. We carried out a critical appraisal of whether or not the long-term development of the profitability level in the pension phase appeared consistent and plausible as compared with the results achieved in the past and the development in the medium-term planning. This scrutiny was undertaken in consultation with our valuation specialists.
+- In addition, we assessed whether the required disclosures in the notes contain all the necessary explanations and whether the material uncertainties in the estimates are described appropriately.
+
+#### **OTHER INFORMATION**
+
+The company management is responsible for other information. This includes of all the information contained in the annual report and the annual financial statements, with the exception of the consolidated financial statements, the group management report, and the auditors' report thereon. It is probable that we will be provided with the annual report and the annual financial report after the date of of the audit certificate.
+
+Our opinion regarding the consolidated financial statements does not extend to such other information for which we offer no type of guarantee. In connection with our audit of the consolidated financial statements, it is our responsibility to read this other information as soon as it is available and to assess whether, in view of the knowledge gained during our audit, it contains any material inconsistencies with regard to the consolidated financial statements, or any apparent material misstatement.
+
+# **RESPONSIBILITIES OF THE MANAGEMENT AND THE AUDIT COMMITTEE FOR THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+The management is responsible for the preparation of the consolidated financial statements and that in accordance with International Financial Reporting Standards (IFRS) as adopted by the EU, and the additional requirements pursuant to Section 245a UGB (Austrian Commercial Code), they provide a true and fair view of the group's asset, financial and earnings position. In addition, the management is also responsible for such internal controls, as it deems necessary in order to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.
+
+When drawing up the consolidated financial statements, management is also responsible for assessing the group's ability to continue as a going concern, and, where appropriate, to disclose matters that are relevant to the group's ability to continue as a going concern, and to apply the going concern assumption in its financial reporting, except under circumstances in which the management intends to liquidate the group, cease operations, or has no realistic alternative to such measures.
+
+The audit committee is responsible for overseeing the group's financial reporting process.
+
+## **RESPONSIBILITIES OF THE AUDITOR FOR THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+Our objectives are to obtain sufficient assurance as to if the consolidated financial statements as a whole are free of material misstatements, whether due to fraud or error, and to issue an audit report that includes our opinion. Sufficient assurance means a high degree of assurance but provides no guarantee that an audit conducted in accordance with the EU regulation and Austrian auditing standards, which require the audit to be performed in accordance with ISA, will always detect a material misstatement should it exist. Misstatements may result from fraud or error and are considered material if they could, individually or in total, reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+
+## Page 91
+
+As part of an audit in accordance with the EU regulation and the Austrian auditing standards, which require the audit to be performed in accordance with ISA, we exercise professional judgment and maintain a critical, professional approach throughout the audit.
+
+In addition:
+
+- We identify and adjudge the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, plan and perform procedures to address such risks and obtain sufficient and appropriate audit evidence to serve as a basis for our audit opinion. The risk that material misstatements due to fraud remain undetected is higher than that of material misstatements due to error, since fraud may include collusion, forgery, intentional omissions and misleading representation, or the overriding of internal controls.
+- We obtain an understanding of the internal control system of relevance to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control system.
+- We evaluate the appropriateness of the accounting policies employed and the reasonableness of both the accounting estimates and related disclosures made by management.
+- We prepare conclusions on the appropriateness of management's use of the going concern assumption and, based on the audit evidence obtained, whether a material uncertainty exists in relation to events or conditions that may cast significant doubt on the entity's ability to continue as a going concern. Should we conclude that there is a material uncertainty about the entity's ability to continue as a going concern, we are obliged to draw attention to the respective note in the consolidated financial statements in our audit report or, should such disclosures be inappropriate, to modify our audit opinion. We base our conclusions on the audit evidence obtained up to the date of our audit report. However, future events or conditions may result in the group departing from the going concern assumption.
+- We evaluate the overall presentation, structure and content of the consolidated financial statements, including the notes, and whether the consolidated financial statements represent the underlying transactions and events in a manner that achieves the fairest possible presentation.
+- We obtain sufficient appropriate audit evidence regarding the financial information of the entities and business activities within the group in order to express an opinion on the consolidated financial statements. We are responsible for the direction, supervision and performance of the group audit. We bear sole responsibility for our audit opinion.
+- We confer with the audit committee regarding, among other matters, the planned scope and timing of our audit, as well as important findings that include any significant deficiencies in the internal control system, which we identify in the course of our audit.
+- We also provide the audit committee with a declaration that we have complied with the relevant professional requirements in respect of our independence and report on any relationships and other events that may reasonably be thought to affect our independence and, where applicable, the related safeguards.
+- From the matters discussed with the audit committee, we determine those that were of greatest significance in the audit of the consolidated financial statements of the financial year and are therefore the key audit matters. We describe these matters in our auditors' report unless laws or regulations preclude public disclosure about such matters or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so could reasonably be expected to outweigh the public interest benefits of such communication.
+
+## Page 92
+
+#### **OTHER STATUTORY AND LEGAL REQUIREMENTS**
+
+#### **REPORT ON THE GROUP MANAGEMENT REPORT**
+
+In view of Austrian company law provisions, the group management report is to be audited as to whether it is consistent with the consolidated financial statements and if it has been prepared in accordance with legal requirements.
+
+As far as the non-financial declaration in the group management report is concerned, we are responsible for ensuring it has been prepared, its reading and an assessment as to whether it materially contradicts the consolidated financial statement or appears to contain other material misstatement.
+
+Management is responsible for the preparation of the group management report in accordance with the Austrian company law provisions.
+
+We conducted our audit in accordance with the professional standards for the auditing of group management reports.
+
+#### **Opinion**
+
+In our opinion, the group management report has been prepared in accordance with the valid legal requirements, contains appropriate disclosures pursuant to § 243a UGB (Austrian Commercial Code) and is consistent with the consolidated financial statements.
+
+#### **Statement**
+
+In view of the knowledge gained in the course of the audit of the consolidated financial statements and the understanding of the group and its environment thus obtained, we did not determine any material misstatements in the group management report.
+
+## **ADDITIONAL INFORMATION IN ACCORDANCE WITH ARTICLE 10 EU REGULATION**
+
+We were selected as the group auditors at the Ordinary Annual General Meeting on 9 June 2023 and on 29 June 2023 were commissioned by the Supervisory Board with the audit of the entity for the financial year ending on 31 December 2023.
+
+We have served without interruption as the company auditors since the consolidated financial statements as at 31 December 2017.
+
+We declare that our opinion expressed in the "Report on the Consolidated Financial Statements" section of our report is consistent with our additional report to the audit committee in accordance with Article 11 of the EU regulation.
+
+We declare that we have not provided any prohibited non-audit services (Article 5 Paragraph 1 of the EU regulation) and that we have ensured our independence of the members of the group throughout the course of the audit.
+
+#### **RESPONSIBLE AUDITOR**
+
+The auditor responsible for the audit contract is Dr. Elisabeth Rebhan-Briewasser.
+
+Linz, 8 April 2024
+
+KPMG Austria GmbH Wirtschaftsprüfungs- und Steuerberatungsgesellschaft
+
+> Qualified electronic signature: Dr. Elisabeth Rebhan-Briewasser Auditor
+
+This document bears a qualified electronic signature and is only valid in the version. The publication or dissemination of the consolidated financial statements with our auditors' report may only take place in our approved version. This auditors' report relates solely to the German language version of the complete consolidated financial statements including the management report. For other versions, the regulations contained in §281 Para 2 of the Austrian Commercial Code are to be observed. (This is a translation of the original German version for information purposes without liability; the German version takes precedence.)

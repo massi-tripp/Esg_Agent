@@ -1,0 +1,5420 @@
+{0}------------------------------------------------
+
+Image /page/0/Picture/0 description: This image shows a highway with many cars on it. The cars are in the middle of the highway, and there are buildings in the background. The image also has the logo of Kapsch on the top right corner.
+
+*Kapsch TrafficCom*
+
+# *Annual Financial Statements 2023/24.*
+
+*Report pursuant to Sec. 124 Austrian Stock Exchange Act (BörseG) 2018.*
+
+{1}------------------------------------------------
+
+## *Table of contents.*
+
+| GROUP REPORT.                                                                                                                                     | 1                              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| CONSOLIDATED MANAGEMENT REPORT.<br>1 Business performance and economic situation.<br>2 Anticipated development and risks.<br>3 Other disclosures. | 9<br>9<br>21<br>29             |
+| CONSOLIDATED FINANCIAL STATEMENTS.<br>Primaries.<br>Notes to the Consolidated Financial Statements.                                               | 30<br>30<br>34                 |
+| STATEMENT OF ALL MEMBERS<br>OF THE EXECUTIVE BOARD.                                                                                               | 102                            |
+| AUDITOR'S REPORT.                                                                                                                                 | 103                            |
+| FINANCIAL REPORT of Kapsch TrafficCom AG.                                                                                                         | JA 1                           |
+| MANAGEMENT REPORT.<br>1 Business performance and economic situation.<br>2 Anticipated development and risks.<br>3 Other disclosures.              | JA 3<br>JA 3<br>JA 10<br>JA 18 |
+| FINANCIAL STATEMENTS.<br>Primaries.<br>Notes to the financial statements.                                                                         | JA 19<br>JA 19<br>JA 22        |
+| STATEMENT OF ALL MEMBERS OF<br>THE EXECUTIVE BOARD.                                                                                               | JA 34                          |
+| AUDITOR'S REPORT                                                                                                                                  | JA 35                          |
+
+{2}------------------------------------------------
+
+Image /page/2/Picture/0 description: The image shows the logo for Kapsch. The word "kapsch" is written in black, bold, sans-serif font. To the right of the word are two yellow arrows pointing to the right. Below the word "kapsch" is the phrase "challenging limits" in a smaller, black, sans-serif font.
+
+*Kapsch TrafficCom*
+
+# *Group Report 2023/24*
+
+*as of March 31, 2024.*
+
+*Consolidated Management Report and Consolidated Financial Statements 2023/24.* 
+
+{3}------------------------------------------------
+
+## *Table of contents.*
+
+| Selected key data.                                                                      | 2        |
+|-----------------------------------------------------------------------------------------|----------|
+| Kapsch TrafficCom 2023/24.                                                              | 3        |
+| Letter from the Chief Executive Officer.                                                | 5        |
+| Capital markets.                                                                        | 7        |
+| <b>CONSOLIDATED MANAGEMENT REPORT.</b>                                                  | 9        |
+| 1 Business performance and economic situation.                                          | 9        |
+| 1.1 Business performance.                                                               | 9        |
+| 1.1.1 Economic environment.                                                             | 9        |
+| 1.1.2 Definition of market.                                                             | 11       |
+| 1.1.3 Business performance 2023/24.                                                     | 13       |
+| 1.2 Financial and non-financial performance indicators.                                 | 14       |
+| 1.2.1 Results of operations.                                                            | 14       |
+| 1.2.2 Results of operations by segment.                                                 | 16       |
+| 1.2.3 Net assets position.                                                              | 17       |
+| 1.2.4 Financial position.                                                               | 18       |
+| 1.2.5 Non-financial information.                                                        | 19       |
+| 1.3 Research and development.                                                           | 20       |
+| 2 Anticipated development and risks.                                                    | 21       |
+| 2.1 Outlook to the financial year 2024/25.                                              | 21       |
+| 2.2 Risk report.                                                                        | 22       |
+| 2.2.1 Risk management.                                                                  | 22       |
+| 2.2.2 Industry-specific risks.                                                          | 23       |
+| 2.2.3 Strategic risks.                                                                  | 24       |
+| 2.2.4 Financial risks.                                                                  | 25       |
+| 2.2.5 Personnel risk.                                                                   | 26       |
+| 2.2.6 Legal risk.                                                                       | 26       |
+| 2.2.7 Cyber risk.                                                                       | 26       |
+| 2.2.8 Operational risks.                                                                | 26       |
+| 2.2.9 Opportunities.                                                                    | 27       |
+| 2.2.10 Overall assessment of the risk situation.                                        | 27       |
+| 2.3 Internal control system with respect to the<br>accounting process.                  | 28       |
+| 3 Other disclosures.                                                                    | 29       |
+| 3.1 Disclosures on capital, share, voting and control rights<br>and related agreements. | 29       |
+| 3.2 Corporate Governance Report.                                                        | 29       |
+| <b>CONSOLIDATED FINANCIAL STATEMENTS.<br/>Primaries.</b>                                | 30<br>30 |
+| Consolidated statement of comprehensive income.                                         | 30       |
+| Consolidated balance sheet.                                                             | 31       |
+| Consolidated statement of changes in equity.                                            | 32       |
+| Consolidated cash flow statement.                                                       | 33       |
+| <b>Notes to the Consolidated Financial Statements.</b>                                  | 34       |
+| <b>STATEMENT OF ALL MEMBERS OF THE EXECUTIVE BOARD.</b>                                 | 102      |
+| <b>AUDITOR'S REPORT.</b>                                                                | 103      |
+| Glossary.                                                                               | 111      |
+| Financial calendar, contact details for investors                                       | 112      |
+
+{4}------------------------------------------------
+
+# *Selected key data.*
+
+2023/24, 2022/23 and 2021/22: refer to the respective financial year (April 1 until March 31)
+
+PP: percent points
+
+Unless otherwise stated, all values in EUR million.
+
+| Earnings data                                        | 2021/22   | 2022/23   | 2023/24   | +/-       |
+|------------------------------------------------------|-----------|-----------|-----------|-----------|
+| Revenues                                             | 519.8     | 553.4     | 538.8     | -2.6%     |
+| Share of tolling segment                             | 71.2%     | 72.9%     | 70.2%     | -2.7 PF   |
+| Share of traffic management segment                  | 28.8%     | 27.1%     | 29.8%     | 2.7 PF    |
+| EBITDA1)2)                                           | 32.7      | 27.1      | 88.5      | >100 %    |
+| EBITDA margin1)                                      | 6.3%      | 4.9%      | 16.4%     | 11.5 PF   |
+| EBIT1)                                               | 11.0      | 5.2       | 70.3      | >500 %    |
+| EBIT margin1)                                        | 2.1%      | 0.9%      | 13.0%     | 12.1 PF   |
+| Result before income tax                             | 5.3       | -9.9      | 36.9      | —         |
+| Result for the period                                | -6.2      | -24.2     | 22.3      | —         |
+| Result for the period attributable to equity holders | -9.3      | -24.8     | 23.2      | —         |
+| Earnings per share in EUR                            | -0.72     | -1.91     | 1.72      | —         |
+| Business segments                                    | 2021/22   | 2022/23   | 2023/24   | +/-       |
+| Tolling                                              |           |           |           |           |
+| Revenues                                             | 369.9     | 403.4     | 378.3     | -6.2%     |
+| EBIT1)                                               | 3.3       | -9.3      | 54.3      | —         |
+| EBIT margin1)                                        | 0.9%      | -2.3%     | 14.4%     | —         |
+| Traffic management                                   |           |           |           |           |
+| Revenues                                             | 149.9     | 150.0     | 160.5     | 7.0%      |
+| EBIT1)                                               | 7.7       | 14.6      | 15.9      | 9.3%      |
+| EBIT margin1)                                        | 5.1%      | 9.7%      | 9.9%      | 0.2 PF    |
+| Revenues by region                                   | 2021/22   | 2022/23   | 2023/24   | +/-       |
+| EMEA                                                 | 54.2%     | 49.3%     | 51.7%     | 2.4 PF    |
+| Americas                                             | 40.8%     | 45.0%     | 43.1%     | -1.9 PF   |
+| APAC                                                 | 5.0%      | 5.7%      | 5.2%      | -0.5 PF   |
+|                                                      | March 31, | March 31, | March 31, |           |
+| Balance sheet data                                   | 2022      | 2023      | 2024      | +/-       |
+| Total assets                                         | 512.1     | 480.1     | 443.7     | -7.6%     |
+| Total equity3)                                       | 77.9      | 51.3      | 83.4      | 62.6%     |
+| Equity ratio3)                                       | 15.2%     | 10.7%     | 18.8%     | 8.1 PF    |
+| Net debt4)                                           | 158.3     | 186.3     | 106.0     | -43.1%    |
+| Gearing5)                                            | 203.2%    | 363.1%    | 127.1%    | > -100 PF |
+| Net working capital6)                                | 71.0      | 79.4      | 78.5      | -1.1%     |
+| Cash flow                                            | 2021/22   | 2022/23   | 2023/24   | +/-       |
+| Net capital expenditures7)                           | 5.3       | 3.3       | 4.9       | 48.6%     |
+| Free cash flow8)                                     | 16.8      | 2.5       | 105.7     | > 500 %   |
+| Other information                                    | 2021/22   | 2022/23   | 2023/24   | +/-       |
+| Employees, end of period                             | 4,220     | 4,039     | 4,054     | 0.4%      |
+| On-board units, in million units9)                   | 9.01      | 9.23      | 8.50      | -7.9%     |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+2) Operating result before amortization, depreciation and impairment
+
+3) Including non-controlling interests
+
+4) Cash and cash equivalents + other current financial assets - financial liabilities - lease liabilities
+
+5) Net debt / equity
+
+6) Inventories + trade receivables and other current assets + current contract assets + current tax receivables – trade payables – current contract liabilities – current tax liabilities – current provisions – current other liabilities and deferred income
+
+7) Capital expenditure and proceeds from the disposal of property, plant and equipment and intangible assets
+
+8) Cash flow from operating activities + cash flow from investing activities; values adjusted for financial year 2022/23 and financial year 2023/24
+
+9) Starting with 2022/23 excluding sticker tags. Adjusting previous year's figures to allow comparability.
+
+{5}------------------------------------------------
+
+# *Kapsch TrafficCom 2023/24.*
+
+Kapsch TrafficCom is a globally renowned provider of transportation solutions for sustainable mobility. Innovative solutions in the application fields of tolling, tolling services, traffic management and demand management contribute to a healthy world without congestion.
+
+Image /page/5/Figure/2 description: The image shows two bar charts. The first bar chart is titled "Revenues in EUR million" and shows the revenues for the years 2021/22, 2022/23, and 2023/24. The revenues for these years are 519.8, 553.4, and 538.8 million EUR, respectively. The second bar chart is titled "EBIT1) (in EUR million) and EBIT margin (in %)" and shows the EBIT and EBIT margin for the years 2021/22 and 2022/23. The EBIT for these years are 11.0 and 5.2 million EUR, respectively. The EBIT margin for these years are 2.1% and 0.9%, respectively.
+
+Free cash flow2)
+
+Image /page/5/Figure/3 description: The image is a bar chart titled "EBIT margin (in %)". The x-axis shows the years 2021/22, 2022/23 and 2023/24. The y-axis shows the EBIT margin in percentage. For the year 2021/22, the EBIT margin is 11.0, and the percentage change is 2.1%. For the year 2022/23, the EBIT margin is 5.2, and the percentage change is 0.9%. For the year 2023/24, the EBIT margin is 70.3, and the percentage change is 13.0%.
+
+## Result for the period attributable to equity holders in EUR million
+
+Image /page/5/Figure/5 description: This image is a bar chart comparing the values of three different categories: 2021/22, 2022/23, and 2023/24. The y-axis ranges from -25 to 25. The value for 2021/22 is -9.3, the value for 2022/23 is -24.8, and the value for 2023/24 is 23.2.
+
+105.7 2.5 16.8 2021/22 120 100 80 60 40 20 0 2022/23 2023/24 March 31, 200 150 100 50 in EUR million
+
+Image /page/5/Figure/7 description: This bar chart shows values in EUR million for March 31, 2022, March 31, 2023, and March 31, 2024. The values are 158.3, 186.3, and 106.0, respectively.
+
+Net debt3)
+
+Total assets (in EUR million) and equity ratio (in %)
+
+600
+
+Image /page/5/Figure/9 description: The image is a bar chart that shows the values 512.1, 480.1, and 443.7 for March 31, 2022, March 31, 2023, and March 31, 2024, respectively. The image also contains a line graph that shows the values 15.2%, 10.7%, and 18.8% for March 31, 2022, March 31, 2023, and March 31, 2024, respectively.
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+<sup>2)</sup> Cash flow from operating activities + cash flow from investing activities; From the 2023/24 financial year, the presentation of interest paid was included in the cash flow from financing activities, as the interest paid does not result directly from the cash flow from operating activities. The previous year's figures have been adjusted accordingly.
+
+<sup>3)</sup> Cash and cash equivalents + other current financial assets – financial liabilities – lease liabilities
+
+{6}------------------------------------------------
+
+# *Headlines 2023/24.*
+
+## Project successes strengthen future revenues and earnings.
+
+- Achieved milestones in existing projects enabled a slight increase of invoiced revenues to EUR 558 million compared to the previous year.
+- New projects confirm strategy and secure future business.
+- Enormous order intake of EUR 734 million results in order backlog of EUR 1.4 billion at the end of the year.
+
+## Result from operating activities increased significantly to EUR 70 million.
+
+- Restructuring reflected in reduced cost base.
+- Further negative margin adjustments in existing customer projects totaling to EUR 25 million.
+- EBIT adjusted for positive and negative one-time effects significantly increased to EUR 15 million.
+
+## Key financial indicators show solid basis again.
+
+- Equity ratio increased from 11% to 19%.
+- Net debt significantly reduced, gearing down to 127%.
+- Free cash flow amounted to EUR 106 million.
+
+## Settlement agreement in Germany significantly improved financial position.
+
+- Net cash inflow of EUR 109 million.
+- Earnings effect in EBIT of EUR 79 million.
+- Largely used to repay bank liabilities.
+
+## Outlook to the financial year 2024/25.
+
+- Revenue growth above market growth and slight improvement in adjusted operating result (EBIT) compared to financial year 2023/24.
+- Strategy review to establish a further lead in technology and the market.
+- Continued cost management and further measures to increase efficiency in order to increase competitiveness and profitability.
+
+{7}------------------------------------------------
+
+# *Letter from the Chief Executive Officer.*
+
+## Dear Shareholders,
+
+Image /page/7/Picture/2 description: This is a portrait of a middle-aged man with fair skin and graying hair. He is wearing a dark suit jacket, a white collared shirt, and a dark blue tie with a subtle pattern. The background is a plain white, which puts the focus entirely on the man. He has a slight smile and is looking directly at the camera.
+
+In financial year 2023/24, Kapsch TrafficCom reached key milestones, giving us a solid base for the future. On the one hand, our financial and net assets position as well as the results of operations have improved significantly compared to the previous year; on the other hand, we have achieved significant project progress and were awarded new contracts, which will increasingly be reflected in revenue, earnings and liquidity. We are well on track, however our operating result is still unsatisfactory and we still have some way to go. Above all,
+
+we need to increase project margins.
+
+*Financial year 2023/24: Key milestones achieved – solid basis for the future.* 
+
+## Milestones.
+
+The most significant event was undoubtedly the settlement agreement reached in the arbitration proceedings between our joint venture auto-Ticket and the Federal Republic of Germany in July 2023. This led to a net cash inflow totaling EUR 109 million in the reporting period, which is reflected in EBIT with EUR 79 million and enabled the repayment of financial liabilities in the amount of EUR 88 million – ultimately significantly more than the cash inflow of at least EUR 80 million announced in July.
+
+In addition, we reached an agreement with our bank partners in May 2023 to restructure our financing. One component of this agreement was the capital increase that we conducted in November. Another component is the waiver of dividend distributions during the contract term, which was extended to the end of March 2026 a few weeks ago.
+
+Our project successes in the past financial year were also impressive. We were able to reach several milestones in existing projects, which will lead to good incoming payments. In addition, order intake increased by 53% to EUR 734 million compared to the previous year. The order backlog at the end of the year amounted to EUR 1.4 billion, which is 15% more than in the previous year and corresponds to 2.5 times revenue. Naturally, this new business is not yet reflected in revenue for the 2023/24 financial year. Furthermore, the operation of the tolling system in the Gauteng province in South Africa was extended again by one month. We expect a prolongation until mid-November 2024 on a reduced scope.
+
+Our key financial indicators have improved significantly on the basis of these developments.
+
+## Financial development.
+
+At EUR 539 million, net revenues were slightly below the previous year, but we were able to achieve a slight increase in invoiced sales of EUR 558 million compared to the previous year. A customer credit note, deferred revenues from processed orders in the past and margin value adjustments led to the reported reduction.
+
+*Financial and net assets position as well as results of operations have improved significantly.* 
+
+In terms of costs, the progress of our restructuring is clearly visible. Only the cost of materials continued to rise due to further price increases, ongoing delivery difficulties and enormous inflation.
+
+The EBIT of EUR 70 million is significantly higher than the previous year, not only but mainly due to one-time effects. The settlement agreement in Germany with EUR 79 million and the reversal of a value adjustment on receivables with EUR 5 million had a positive effect. Negative one-time effects resulted from the further reduction in margins by a total of EUR 25 million for projects to be completed, primarily in North America. After analyzing the projects, we have now taken targeted precautions that allow us to assume today that we will not have to report any further negative one-time effects in this regard. Furthermore, restructuring costs of around EUR 3 million were recorded. Adjusted for these one-time effects, the EBIT of EUR 15 million was significantly higher than in the previous year (EUR 5 million).
+
+The financial result declined to EUR -30 million in the financial year 2023/24, primarily reflecting the one-time costs in connection with the restructuring of financing and higher interest rates.
+
+{8}------------------------------------------------
+
+Cash flow from operating activities amounted to EUR 62 million and free cash flow to a considerable EUR 106 million, mainly due to the settlement agreement in Germany and the sale of an investment in the USA.
+
+The developments described above led to a significant improvement in our key financial indicators: Equity increased by EUR 32 million to EUR 83 million, raising the equity ratio to 19% after 11% in the previous year. Net debt decreased by EUR 80 million to EUR 106 million, primarily as a result of lower financial liabilities, which include lease liabilities of EUR 36 million. The gearing was thus reduced to 127%.
+
+## Strategic progress.
+
+We are pleased with the new orders we have been awarded, not only because of their size, but also with regard to our strategy. Four years ago, we defined Strategy 2027 based on the market development we expected. We are increasingly seeing this change in new orders, which include toll services and connected vehicles.
+
+With a view to building on our technology and market lead and shaping the future with our portfolio, we are currently conducting a comprehensive review of Strategy 2027. As a first step, we sold one investment that was not part of our strategic core business in March and one in April 2024. This also brought and continues to bring us further cash inflows.
+
+Advancement to us also means further refining our "Green Vision", which is based on sustainable products and a sustainable company. During the reporting period, we analyzed the potential impact of our business activities on people and the environment along our entire value chain, as well as the associated financial risks and opportunities. With the involvement of our stakeholders, we have thus identified the material sustainability matters for Kapsch TrafficCom and can now address these in a focused manner.
+
+## Outlook.
+
+In the financial year 2024/25, we will complete our strategy review and further expand our sustainability manage-
+
+ment with additional concepts and key figures. In financial terms, we expect revenue growth to exceed market growth in the current financial year. The operating result (EBIT) should show a slight improvement *Revenue growth over market growth and* compared to the result adjusted for one-time effects of EUR 15 million, whereby positive one-time effects are also possible again.
+
+*Outlook 2024/25: slight improvement in earnings (EBIT).*
+
+I would like to thank our employees, whose expertise, innovation, motivation and day-to-day commitment make Kapsch TrafficCom the pioneer for sustainable mobility that we are. I would also like to thank our long-term investors for their trust and hope that they will continue to support us.
+
+Sincerely,
+
+Georg Kapsch Chief Executive Officer
+
+{9}------------------------------------------------
+
+# *Capital markets.*
+
+Kapsch TrafficCom AG has been listed on the Vienna Stock Exchange in the prime market segment since June 26, 2007. The shares are included in Austrian indices, as well as the sustainability index VÖNIX.
+
+## Investor Relations activities in the financial year 2023/24.
+
+In addition to regular and occasion-related publications, Kapsch TrafficCom's investor relations team is available for investor inquiries and actively takes opportunities to intensify contact with capital market participants. In the reporting period, this included participation in six investor conferences and the execution of a roadshow as well as numerous direct meetings, telephone calls and e-mails.
+
+## Capital increase.
+
+At the end of May 2023, Kapsch TrafficCom agreed on a financing restructuring with its major financial creditors, which puts the financing structure on a longer-term basis. In accordance with this agreement, Kapsch TrafficCom AG conducted a capital increase of 10% of the existing share capital in November 2023, which was successfully placed with the pro rata participation of the main shareholder KAPSCH-Group Beteiligungs GmbH. The 1,300,000 new shares have been traded on the Vienna Stock Exchange since November 24, 2023, increasing the number of shares to 14,300,000.
+
+## Share price development.
+
+The price of the Kapsch TrafficCom share continuously declined in financial year 2023/24, starting from a closing price of EUR 12.50 on March 31, 2023. Two strong price movements were notable in the reporting period: The agreement to restructure the financing was followed by a brief drop to EUR 10.00 at the beginning of June, from which the share price quickly recovered. On July 5, 2023, the day of the settlement agreement with the Federal Republic of Germany, an equally brief upward movement enabled the share price to reach its high for the reporting period (intraday) of EUR 13.65. On March 28, 2024, the share closed at EUR 8.50, 32.0% lower than a year earlier. The benchmark index ATX Prime recorded an increase of 9.7% in the reporting period.
+
+Image /page/9/Figure/8 description: This line graph compares the performance of KTC and ATX Prime from April 2023 to March 2024. The y-axis ranges from 70 to 120. The x-axis represents the months from April 2023 to March 2024. The KTC line starts at approximately 98 in April 2023, fluctuates around 100 in May 2023, drops to around 80 in June 2023, rises sharply to 110 in late June 2023, then declines to around 85 in July 2023. It continues to decrease to around 75 in October 2023, fluctuates around 75 until January 2024, and then decreases to around 65 in March 2024. The ATX Prime line starts at approximately 100 in April 2023, fluctuates around 98 in May and June 2023, rises to around 100 in July 2023, and remains relatively stable around 98 until December 2023. It then increases to around 105 in January 2024 and remains stable until March 2024.
+
+## Development of Kapsch TrafficCom shares and ATX Prime in the financial year 2023/24.
+
+## Stock data.
+
+| in EUR, unless otherwise stated            | 2022/23 | 2023/24 |
+|--------------------------------------------|---------|---------|
+| Earnings per share                         | -1.91   | 1.72    |
+| High (intraday)                            | 14.40   | 13.65   |
+| Low (intraday)                             | 10.50   | 8.14    |
+| Closing price on March 31                  | 12.50   | 8.50    |
+| Share performance                          | -12.6%  | -32.0%  |
+| Ø trading volume (shares, double counting) | 8,491   | 17,690  |
+
+{10}------------------------------------------------
+
+## Analysts.
+
+In the reporting period, the following financial institutions published reports on the Kapsch TrafficCom share (in alphabetical order):
+
+- Erste Group Bank
+- ODDO BHF/Frankfurt Main Research (FMR)
+- Raiffeisen Bank International
+
+## Dividend.
+
+In accordance with the financing restructuring agreement, the Executive Board will propose to the Annual General Meeting 2024 that no dividend be distributed for the financial year 2023/24 and to carry forward the retained earnings to new account. Kapsch TrafficCom aims to resume dividend payments as soon as it is economically justifiable and also permissible from the Company's perspective and ideally to return to the dividend policy suspended in 2020. The core of this policy was the payment of a minimum dividend of either EUR 1.00 per share or one third of consolidated earnings per share, whichever was higher.
+
+## Shareholder structure.
+
+At the end of the financial year 2023/24, KAPSCH-Group Beteiligungs GmbH, as the core shareholder, held 63.3% of the of the shares, as in the previous year. As part of financing agreements in January and May 2023, KAPSCH-Group Beteiligungs GmbH pledged all of its shares in favor of the financing banks. This also results in restrictions customary in the market with respect to the transfer of the shares and a corresponding requirement for the consent of the banks.
+
+The free float amounted to 36.7%, with around 16.7% held by institutional investors, mainly from continental Europe (including Austria), and around 18.2% by retail investors, according to information from a shareholder identification as of March 31, 2024.
+
+Image /page/10/Figure/10 description: The image shows two pie charts that describe the shareholder structure and institutional investors by region. The shareholder structure pie chart shows that KAPSCH-Group Beteiligungs GmbH owns 63.3%, free float is 36.7%, retail is 18.2%, institutional investors are 16.7%, and miscellaneous is 1.7%. The institutional investors by regions pie chart shows that 3.4% are in North America, 54.7% are in Austria, and 41.7% are in Continental Europe (excl. Austria).
+
+¹⁾ Trading positions and unidentified shareholders.
+
+## Contact for investors.
+
+| Investor Relations team      | Marcus Handl, Valerie Riegle |
+|------------------------------|------------------------------|
+| Shareholders' telephone line | +43 50 811 1122              |
+| E-mail                       | IR.kapschtraffic@kapsch.net  |
+| Website                      | www.kapsch.net               |
+
+{11}------------------------------------------------
+
+# *CONSOLIDATED MANAGEMENT REPORT.*
+
+## *1 Business performance and economic situation.*
+
+## 1.1 Business performance.
+
+## 1.1.1 Economic environment.
+
+- High interest rates and energy prices weighed on economic performance, particularly in the eurozone.
+- Central bank measures proved effective: inflation rates fell again.
+- Supply chains stabilized, but new disruptions harbour uncertainties.
+
+Over the course of financial year 2023/24, the global economy increasingly recovered from the crises of recent years and proved to be relatively robust. In the eurozone in particular, however, persistently high energy prices and interest rates as well as weak household consumption burdened the economy. Key interest rates were initially raised further and then remained constant over the course of 2023. Inflation rates therefore stabilized at a high level and eventually declined again significantly.
+
+## Global supply chain situation.
+
+The global supply chain situation normalized over the course of 2023 after the pandemic-related bottlenecks. Both availability and delivery times improved in the second half of 2023. However, there were disruptions on two important shipping routes in the first few months of 2024: Conflicts in the Red Sea led to a significant decline in trade via the Suez Canal, and traffic slowed down in the Panama Canal due to water shortages caused by the severe drought. The effects were reflected in increased transport times and costs, although the duration and extent of the disruptions could not yet be estimated at the end of the financial year.
+
+## Interest rates.
+
+Both the European Central Bank (ECB) and the Federal Reserve (FED) in the USA continued the gradual increase in key interest rates that began in 2022 in the first months of the financial year. In Europe, the interest rate for main refinancing operations and the interest rates for the marginal lending facility and the deposit facility were raised from 3.50%, 3.75% and 3.00% respectively in March 2023 to 4.50%, 4.75% and 4.00% respectively by September 2023. The FED also raised interest rates in two further steps from 4.75% to 5.00% in March 2023 to a range of 5.25% to 5.50% from July 2023. Interest rates then remained constant and were recently expected to be followed by interest rate cuts.
+
+## Inflation.
+
+The measures taken by central banks to control the enormous inflation took effect in the 2023/24 financial year, with inflation stabilizing at the beginning of 2023 and falling significantly in the following months.
+
+According to the International Monetary Fund (IMF), the global inflation rate averaged 6.8% in 2023 after 8.7% in the previous year. In Austria, it remained higher at 7.7% in 2023 (previous year: 8.6%) and was also significantly higher than the inflation rate in the eurozone of 5.4% (previous year: 8.4%). According to the Austrian Institute of Economic Research (WIFO), the development in the first quarter of 2024 suggests a further slowdown in inflation in Austria. Inflation plays a significant role for Kapsch TrafficCom, particularly in connection with personnel costs.
+
+Image /page/11/Figure/15 description: The image is a bar chart titled "Inflation 2022-2024. (in %)". The x-axis represents different regions: World, USA, Emerging markets, Euro area, and Austria. The y-axis represents the inflation rate. For the "World" region, the inflation rates are 8.7 in 2022, 6.8 in 2023, and 5.9 in 2024. For the "USA" region, the inflation rates are 8.0 in 2022, 4.1 in 2023, and 2.9 in 2024. For the "Emerging markets" region, the inflation rates are 9.8 in 2022, 8.3 in 2023, and 8.3 in 2024. For the "Euro area" region, the inflation rates are 8.4 in 2022, 5.4 in 2023, and 2.4 in 2024. For the "Austria" region, the inflation rates are 8.6 in 2022, 7.7 in 2023, and 3.9 in 2024. The source is IMF World Economic Outlook Database, April 2024.
+
+{12}------------------------------------------------
+
+## Currencies.
+
+For Kapsch TrafficCom, the development of the US Dollar (USD) is of particular importance in the foreign exchange markets. The influence of the currency on the business development results from the internationality of the Group with a large number of projects as well as locations in the USA and other countries where invoicing is done in USD. In the financial year 2023/24, the Euro (EUR) trended sideways within a narrow range against the US dollar. The average for the reporting period was EUR/USD 1.08 (previous year: 1.04) with a maximum of 1.13 on July 18, 2023 and a minimum of 1.05 on October 3, 2023.
+
+Image /page/12/Figure/2 description: The image is a line graph titled "EUR-USD development." The x-axis represents months from April 2023 to March 2024, and the y-axis represents values from 0.95 to 1.15. The line on the graph shows the EUR-USD development over time. The source is listed as European Central Bank, April 2024.
+
+#### Global economic performance.
+
+The IMF estimates a global GDP growth rate of 3.2% for 2023 (previous year: 3.5%). This growth was primarily driven by a strong second half of the year in the USA and in major
+
+emerging and developing countries, which recovered quickly from the effects of the COVID pandemic and the conflict in Ukraine.
+
+*Global economic performance 2023: +3.2%*
+
+Accordingly, GDP growth in both the USA (2.5%) and the emerging and developing countries (4.3%) exceeded forecasts. In the eurozone, however, the gross domestic product nearly stagnated at 0.4%. This is due to weak household consumption, persistently high energy prices and weaker manufacturing and corporate investment as a result of high interest rates.
+
+Image /page/12/Figure/8 description: This bar chart shows the GDP growth from 2022 to 2024. The y-axis is labeled '(in %)' and ranges from -1 to 5. The x-axis shows the following categories: World, USA, Emerging markets, Euro area, and Austria. For the 'World' category, the GDP growth is 3.5 in 2022, 3.2 in 2023, and 3.2 in 2024. For the 'USA' category, the GDP growth is 1.9 in 2022, 2.5 in 2023, and 2.7 in 2024. For the 'Emerging markets' category, the GDP growth is 4.1 in 2022, 4.3 in 2023, and 4.2 in 2024. For the 'Euro area' category, the GDP growth is 3.4 in 2022, 0.4 in 2023, and 0.8 in 2024. For the 'Austria' category, the GDP growth is 4.8 in 2022, -0.7 in 2023, and 0.4 in 2024. The source is listed as IMF World Economic Outlook Database, April 2024.
+
+## GDP growth 2022–2024.
+
+{13}------------------------------------------------
+
+## Austria.
+
+High interest rates and high inflation rates characterized the Austrian economy in the financial year 2023/24. The gross domestic product showed a decline of 0.7% in 2023 after an increase of 4.8% in the previous year. According to the Austrian Institute of Economic Research (WIFO), this was primarily due to the low demand for capital goods in connection with the high interest rates. *BIP in Austria 2023: -0.7%*
+
+Exports fell by 0.2%, mainly due to significantly lower exports of services. Investments declined by 2.4%; the construction industry in particular recorded a collapse in demand. The high inflation rate and the resulting lower real disposable income as well as high energy prices also reduced household consumption by 0.3%.
+
+Image /page/13/Figure/3 description: This line graph, titled "Export, investment & consumption growth in Austria 2021-2024. (in %)", shows the growth of exports, investments, and consumption in Austria from 2021 to 2024. The y-axis ranges from -15 to 15. The x-axis shows the years 2021, 2022, 2023, and 2024 (forecast). The export growth starts at approximately 9% in 2021, increases to approximately 11% in 2022, drops to approximately 0% in 2023, and remains at approximately 0% in 2024. The consumption growth starts at approximately 6% in 2021, decreases to approximately 6% in 2022, drops to approximately 0% in 2023, and remains at approximately 1% in 2024. The investment growth starts at approximately 0% in 2021, decreases to approximately -1% in 2022, drops to approximately -2% in 2023, and remains at approximately -2% in 2024. The source is WIFO Economic Forecast, March 2024.
+
+## 1.1.2 Definition of market.
+
+Kapsch TrafficCom is a globally renowned provider of transportation solutions for sustainable mobility. Innovative solutions in the application fields of tolling and tolling services, traffic management and demand management contribute to a healthier world without congestion.
+
+## Vision and mission.
+
+Kapsch TrafficCom's mission is to develop innovative transportation solutions for sustainable mobility. Road users should be able to arrive at their destination conveniently, safely, efficiently, and on time with a minimal environmental impact.
+
+## Target markets.
+
+Kapsch TrafficCom addresses the market for Intelligent Transportation Systems (ITS). These support and optimize traffic (including infrastructure, vehicles, users and industry) and use information and communication technologies for this purpose.
+
+Grand View Research places the global market size at EUR 27.1 billion in the year 2023 (USD 29.91 billion, converted at an exchange rate of 0.9045 as of December 31, 2023), and expects it to grow at a compound annual growth rate (CAGR) of 7.5% from 2024 to 2030.
+
+*Market for Intelligent Transportation Systems with a volume of EUR 27.1 billion in the year 2023.*
+
+Within the ITS market, Kapsch TrafficCom focuses on tolling and tolling services as well as traffic management and demand management. Core regions of business activity are EMEA (Europe, Middle East, Africa), Americas (North, Central and South America) and APAC (Asia-Pacific).
+
+## Addressable market.
+
+The addressable market for the company had a volume of EUR 6.4 billion in the financial year 2023/24 according to internal calculations. The market is expected to grow at an average annual rate of 7.9% to EUR 8.7 billion until financial year 2027/28.
+
+> *Focus on niche market with a volume of EUR 6.4 billion. (2023/24).*
+
+{14}------------------------------------------------
+
+#### Addressable market 2023/24.
+
+(in EUR billion)
+
+Addressable market for Kapsch TrafficCom 2023/24–2027/28.
+
+Image /page/14/Figure/3 description: This image contains two bar charts comparing market sizes and growth rates in the transportation industry. The left chart shows the total market for Intelligent Transportation Systems (ITS) in 2023, estimated at EUR 27.1 billion. It also shows the total addressable market for 2023/24 at EUR 14.6 billion, and the addressable market for Kapsch TrafficCom in 2023/24 at EUR 6.4 billion. The right chart shows a breakdown of the market into different segments, with values for the current and projected market sizes. The current market size is EUR 6.4 billion, and the projected market size is EUR 8.7 billion, representing a growth rate of +7.9% p.a. The market segments include Tolling (EUR 2.2 billion currently, EUR 2.8 billion projected, +5.5% p.a.), Traffic management (EUR 1.3 billion currently, EUR 1.9 billion projected, +8.8% p.a.), Tolling services (EUR 0.6 billion currently, EUR 0.7 billion projected, +7.1% p.a.), Demand management (EUR 0.2 billion currently, EUR 0.5 billion projected, +27.8% p.a.), and Regional solutions (EUR 2.1 billion currently, EUR 2.8 billion projected, +7.5% p.a.).
+
+(in EUR billion)
+
+#### Market drivers.
+
+Kapsch TrafficCom has identified the following market drivers:
+
+Environmental protection. The Paris Agreement is an important global climate protection agreement and was adopted in December 2015 at the Paris Climate Change Conference. The European Commission (as part of the "European Green Deal") and the USA are pursuing a reduction in greenhouse gas emissions. Road traffic plays a significant role here, as it is responsible for a substantial portion of the greenhouse gas emissions. Both traffic management and tolling solutions are recognized tools for influencing traffic and means of transportation.
+
+Need for traffic infrastructure and its maintenance. Studies expect not only an increase in the global population, but also more private vehicles on the roads. As the volume of vehicles grows, it will be inevitably necessary to increase investments in road construction and maintenance. This is usually extremely expensive. At the same time, the increasing number of hybrid or electric vehicles is having a negative impact on mineral oil tax revenues. This means that an increase in the need for alternative financing models, including tolling solutions, can be assumed.
+
+Urbanization. The percentage of people living in cities is increasing. Whereas in the year 1800 only 2% of the world's population was urban, in 2007 for the first time more than half of the world's population lived in cities. Based on a current figure of around 56%, the United Nations forecasts that the urban population will account for more than 60 % of the population in 2030 and around 68% in 2050. At the same time, the world's population will rise from around 7.9 billion people today to 8.5 billion in 2030 and 9.7 billion in 2050. It is precisely in urban areas that private and professional mobility gives rise to major challenges. After all, houses cannot be moved at will to expand roads or even rebuild them. Furthermore, as the urban population grows, there will be an increase in the volume of business within a city as well as with business partners outside of the city. Since products must be delivered, a higher urban population tends to bring about an increase in the volume of transportation.
+
+New means of transportation and services. Analysts expect that urban passenger traffic will more than double by 2050. Autonomous vehicles could intensify this trend. The existing road infrastructure will not be able to meet these needs. This results in two consequences: the increased use of public transport and shared means of transportation, and – if no appropriate countermeasures are taken – more extensive congestion. In addition, the trend toward electric vehicles will continue. While this reduces immediate CO₂ emissions, the particulate matter problem will remain.
+
+Connected vehicles. Technological advances in the exchange of information between vehicles (vehicle-to-vehicle, V2V), between vehicles and traffic infrastructure (vehicle-to-infrastructure, V2I), and in the area of autonomous driving are rapid. Already today, these developments are enabling increasingly better and more extensive applications for better driving comfort and greater driving safety. In addition, the new communication channels and the enormous volumes of data enable substantial improvements in traffic management.
+
+Data and artificial intelligence. Open data and open interfaces enable more extensive and higher-performing applications. Connected vehicles are an important data source. Machine learning and artificial intelligence create new opportunities for data analysis, simulation, forecasting, and management.
+
+{15}------------------------------------------------
+
+Data security. Due to the use of large amounts of data, the protection of personal data and how it is handled is becoming increasingly important.
+
+Fundamental changes in the business environment of Kapsch TrafficCom. The aforementioned market drivers have already sparked the following trends:
+
+- While the ITS industry relied heavily on hardware in the past, it is increasingly shifting towards software platforms. More and more, module solutions and cloud applications are playing a role.
+- Offered services (anything-as-a-service) put the focus on the user and are integrated into platforms and devices preferred by them.
+- Payment solutions are integrated into vehicle technology, and new payment technologies will enter the market.
+- Intelligent traffic infrastructure can be achieved with more affordable sensors, modules, and connection technologies. Specific domain knowledge and the need for customer-specific solutions will remain significant, however.
+- New solutions can be rolled out on a global scale.
+
+#### 1.1.3 Business performance 2023/24.
+
+In financial year 2023/24, Kapsch TrafficCom reached key milestones that placed the company back on a solid base for the future: In May 2023, a financing restructuring was agreed with the major financial creditors, which led to a longer-term financing structure and has since been extended until March 2026. In July, a settlement agreement was reached in the arbitration proceedings between the autoTicket joint venture and the Federal Republic of Germany conducted due to the termination of the operations contract for the collection of the passenger car toll. This led to a significant improvement in the financial and asset position. The earnings also improved as a result.
+
+Although net revenues were slightly below the previous year's figure, Kapsch TrafficCom was able to achieve an increase in invoiced revenues compared to the previous year and numerous project successes, which indicate a future increase in revenues and earnings.
+
+Project successes. The operation projects continued to perform well and several implementation projects were transitioned to the operation phase. Furthermore, Kapsch TrafficCom was able to win several new projects in the reporting period. Of particular strategic importance are those that point the path to the future of roads with tolling services and connected vehicles.
+
+The company was awarded two interconnected contracts in the tolling segment in Switzerland: firstly, the implementation of the collection system for the performance-based heavy vehicle fee (after the balance sheet date) and its operation, and secondly, the corresponding vehicle equipment and registration system for the trucks as well as customer service for the toll service provider for at least eight years. Together, Kapsch TrafficCom thus supplies all essential elements for this state-of-the-art system.
+
+Also noteworthy is the further expansion of the tolltickets network. With the purchase of a single toll box, drivers can since then seamlessly use the road network in France, Italy, Spain and Portugal – a cornerstone for the tolling services business segment in Europe.
+
+In the segment of traffic management, Kapsch TrafficCom sees a particularly increasing demand for urban traffic management and low emission zones. In addition, the implementation and subsequent operation of a Cooperative Intelligent Transport System (C-ITS) with hardware and software for construction site areas were awarded in a highway project in Germany. Shortly after the end of the financial year, Kapsch TrafficCom was awarded a pioneering contract in Florida, USA: In Pinellas County, intersections will be equipped with modern technology to prevent accidents involving pedestrians, and a system that combines predictive analyses with traffic distribution algorithms is designed to help proactively reduce traffic congestion.
+
+Order intake reached a remarkable EUR 734 million in the reporting period (previous year: EUR 480 million), and the order backlog amounted to EUR 1.4 billion at the end of the year, 15% higher than in the previous year.
+
+{16}------------------------------------------------
+
+## 1.2 Financial and non-financial performance indicators.
+
+## 1.2.1 Results of operations.
+
+Revenues. Revenues of Kapsch TrafficCom amounted to EUR 538.8 million in the financial year 2023/24 and were therefore 2.6% (EUR 14.6 million) below the previous year. While invoiced revenues1) of EUR 557.8 million were despite a customer credit note in the amount of EUR 5.5 million even higher than in the previous year (EUR 549.7 million), deferred revenues from orders processed in the past and margin value adjustments contributed to the fact that the reported net revenues were lower. Business dynamics declined slightly over the course of the year, particularly outside Europe. Revenues declines were recorded in all business areas – implementation (-7.0%), operation (-0.4%) and components (-2.0%).
+
+Geographically, the breakdown of Group revenues was as follows:
+
+- EMEA region (Europe, Middle East, Africa): 51.7% (previous year: 49.3%)
+- Americas region (North, Central and South America): 43.1% (previous year: 45.0%)
+- APAC region (Asia-Pacific): 5.2% (previous year: 5.7%)
+
+## Revenues by region.
+
+The EMEA region generated slight sales growth and continued to make the largest contribution to revenues. In the Americas and APAC regions, on the other hand, there was a decline after the growth of previous years.
+
+| in EUR million | 2022/23 | 2023/24 | +/-    |
+|----------------|---------|---------|--------|
+| EMEA           | 272.9   | 278.7   | 2.1%   |
+| Implementation | 45.8    | 56.7    | 23.9%  |
+| Operations     | 195.1   | 185.8   | -4.7%  |
+| Components     | 32.1    | 36.2    | 12.8%  |
+| Americas       | 249.0   | 232.4   | -6.6%  |
+| Implementation | 105.1   | 86.8    | -17.4% |
+| Operations     | 97.1    | 105.2   | 8.4%   |
+| Components     | 46.8    | 40.5    | -13.6% |
+| APAC           | 31.5    | 27.7    | -12.1% |
+| Implementation | 13.2    | 9.1     | -31.0% |
+| Operations     | 10.1    | 9.9     | -1.9%  |
+| Components     | 8.2     | 8.7     | 5.7%   |
+| Total          | 553.4   | 538.8   | -2.6%  |
+
+In the 2023/24 financial year, 8.50 million on-board units were sold, 7.9% fewer than in the previous year (9.23 million units). While revenues in the Americas declined and remained at the previous year's level in EMEA, growth was recorded in the APAC region, particularly in Australia.
+
+Other operating income increased to EUR 81.3 million in the financial year 2023/24. The increase resulted primarily from the agreement with the Federal Republic of Germany (EUR 66.3 million) and operating foreign currency gains of EUR 10.2 million (previous year: EUR 10.6 million). It also includes income from research funding programs in the amount of EUR 2.1 million (previous year: EUR 1.3 million).
+
+From the 2023/24 financial year, gains from derivative contracts will not be presented in other operating income, but rather as "Gains from changes in the fair value of derivative financial instruments" under financial income. The previous year's figures were adjusted accordingly in the amount of EUR 2.4 million.
+
+Cost of materials and other production services increased by 4.6% (EUR 10.2 million) to EUR 232.7 million (previous year: EUR 222.6 million) despite the decline in revenues. The ratio of materials and other purchased manufacturing services to revenues therefore increased to 43.2% (previous year: 40.2%).
+
+<sup>1)</sup> Invoiced revenues = invoiced revenues - revenue deductions - credit notes - contractual penalties
+
+{17}------------------------------------------------
+
+Personnel expenses decreased by EUR 5.5 million to EUR 242.4 million in financial year 2023/24 (previous year: EUR 247.9 million) due to favorable currency developments and, in some cases, lower inflation-related salary indexation in several countries. As of March 31, 2024, the Kapsch TrafficCom Group employed a total of 4,054 people, which was 15 people or 0.4% more than on the previous year's reporting date. The personnel ratio (ratio of personnel expenses to revenues) amounted to 45.0% (previous year: 44.8%).
+
+Other operating expenses decreased by EUR 3.0 million or 3.9% to EUR 73.2 million in the financial year 2023/24. The change was mainly due to the positive deviation in connection with the reversal of an allowance (EUR -10.1 million), although this was partially offset by the increase in legal and consulting costs of EUR 2.8 million due to legal disputes, higher communication and IT expenses (EUR +3.0 million) and increased travel expenses (EUR +1.1 million).
+
+The proportional result from associates and joint ventures of EUR 15.4 million (previous year: EUR -1.7 million) is mainly attributable to the joint venture autoTicket GmbH in Germany.
+
+EBITDA. The operating result before amortization, depreciation and impairment (EBITDA) of EUR 88.5 million was significantly higher than the previous year's figure of EUR 27.1 million (adjusted). The EBITDA margin thus rose to 16.4% (previous year: 4.9%, adjusted).
+
+Expenses for amortization and depreciation amounted to EUR 18.3 million in the financial year 2023/24 and were therefore – with a slight increase in net investments – lower than in the previous year (EUR 21.8 million).
+
+EBIT. The operating result (EBIT) of EUR 70.3 million was significantly higher than the previous year's value of EUR 5.2 million (adjusted).
+
+The results in the 2023/24 financial year were influenced by the following special effects:
+
+- In July 2023, the joint venture autoTicket GmbH reached a settlement with the Federal Republic of Germany and received an amount of EUR 243 million. The cash inflow to Kapsch TrafficCom AG from this settlement to date amounted to EUR 109.2 million. The special effect from Germany led to an increase in EBIT of EUR 79.2 million, of which EUR 15.4 million is reported as share of profit from associates and joint ventures.
+- After an agreement was reached with a customer regarding overdue receivables, the allowances for these receivables were reversed in the amount of EUR 10.1 million. In contrast, a credit note was issued in the amount of EUR 5.5 million, which led to a reduction in revenue. The EBIT effect therefore amounted to EUR 4.5 million.
+- For some projects in the Americas region, the project margins were adjusted, revenues and contract assets from customer contracts were reduced and provisions for onerous contracts were recognized. Only projects that had been a heavy burden on the Group for years were taken into account. Kapsch TrafficCom assumes that these project-related legacy burdens have now been finally eliminated. This had a negative effect of EUR -25.3 million on EBIT.
+- Costs in relation to the restructuring are reflected in EBIT in the amount of EUR 3.2 million.
+
+Adjusted for these one-off effects, EBIT in the financial year 2023/24 would have amounted to EUR 15.1 million and EBITDA would have amounted to EUR 33.3 million.
+
+Financial result. The financial result decreased from EUR -13.9 million (adjusted) in the previous year to EUR -30.1 million in the financial year 2023/24. The most significant differences resulted from the increase in interest expenses and the one-off costs recognized in connection with the restructuring of the financing, which reduced the net interest result from EUR -5.0 million in the previous year to EUR -22.0 million. In addition, hyperinflation adjustments in the amount of EUR -7.0 million (previous year: EUR -5.1 million), the reversal of an allowance for a loan to an associated company in the amount of EUR 2.4 million and effects from exchange rate changes in the amount of EUR -0.5 million (previous year: EUR -2.2 million) were recognized in the financial year 2023/24.
+
+Proportional result from associated companies and joint ventures from financial investments. The contribution to earnings from Traffic Technology Services, Inc., USA, amounted to EUR -3.2 million (previous year: EUR -1.3 million), including a loss of EUR 2.3 million from the sale of the shares.
+
+Income taxes. Tax expenses in the financial year amounted to EUR 14.6 million (previous year: EUR 14.4 million). The tax expense results from the higher earnings before taxes and the use of loss carryforwards in Austria, which reduced the deferred taxes recognized in the balance sheet.
+
+{18}------------------------------------------------
+
+Result for the period. The result for the period was clearly positive at EUR 22.3 million (previous year: EUR -24.2 million). A result of EUR 23.2 million (previous year: EUR -24.8 million) was attributable to the equity holders in the Group. This corresponds to earnings per share of EUR 1.72 (previous year: EUR -1.91).
+
+Other comprehensive income. This item mainly includes currency translation differences and revaluations of post-employment benefit obligations. The other comprehensive income amounted to EUR -1.7 million (previous year: EUR -2.1 million)
+
+Total comprehensive income. The comprehensive income as the sum of the result for the period and other comprehensive income amounted to EUR 20.6 million (previous year: EUR -26.3 million).
+
+## 1.2.2 Results of operations by segment.
+
+## Tolling.
+
+Image /page/18/Figure/5 description: The image contains the text "Tolling revenues by regions."
+
+Image /page/18/Figure/6 description: The image is a donut chart showing the distribution of something across three regions: Americas, EMEA, and APAC. The Americas account for 43.7%, EMEA accounts for 50.0%, and APAC accounts for 6.3%.
+
+Revenues. In the financial year 2023/24, revenues in the tolling segment decreased by 6.2% from EUR 403.4 million to EUR 378.3 million. Revenues contributed 70.2% (previous year: 72.8%) to total revenues.
+
+In the EMEA region, a moderate increase in revenues of 1.2% (EUR 2.2 million) to EUR 189.3 million was achieved in the reporting year. This development was primarily due to new implementation projects in France and Spain, which were won in the previous year but only led to higher revenues in the reporting period. In other countries, however, there was a decline in revenues, mainly due to the completion of an implementation project in Poland in the previous year and lower component sales in Austria, Greece, Portugal and Denmark.
+
+In the Americas region, revenues in the tolling segment decreased by 12.9% to EUR 165.2 million, making EMEA once again the region with the highest revenues for Kapsch TrafficCom. The decline was particularly noticeable in the USA, where Kapsch TrafficCom focused on stabilizing existing projects. Other countries in Latin America, such as Chile, Ecuador, Costa Rica and Argentina, also contributed to the decline in revenues. This is due to the completion of implementation projects in the previous year, which no longer generated revenue in the 2023/24 financial year. The largest positive deviations came from new implementation and operations projects in Mexico and Brazil.
+
+Following growth in the previous year, the APAC region suffered a 10.4% decline in revenues in the 2023/24 financial year, generating revenues of EUR 23.8 million. This decline was particularly noticeable in Australia, the strongest country in the region, where there were delays in some implementation projects. In contrast, the components business developed in a positive way
+
+## Segment tolling by business type.
+
+| in EUR million  | 2022/23      | 2023/24      | +/-          |
+|-----------------|--------------|--------------|--------------|
+| <b>Revenues</b> | <b>403.4</b> | <b>378.3</b> | <b>-6.2%</b> |
+| Implementation  | 119.4        | 96.7         | -19.0%       |
+| Operations      | 202.5        | 207.7        | 2.6%         |
+| Components      | 81.5         | 73.9         | -9.3%        |
+| EBIT1)          | -9.3         | 54.3         | —            |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+EBIT. The operating result in the tolling segment amounted to EUR 54.3 million after EUR -9.3 million in the previous year (adjusted). This positive development is primarily due to the settlement reached in the arbitration proceedings regarding the termination of the operator agreement for the collection of the infrastructure charge in Germany. The development of profitability in the toll segment was mixed in the financial year 2023/24: while the contribution to earnings from operating projects increased significantly, the components business declined slightly. In particular, high costs in connection with the completion of some implementation projects as well as the adjustment and the associated provisions for the projects to be completed in the Americas had a dampening effect.
+
+{19}------------------------------------------------
+
+The costs of materials and other purchased production services decreased by 6.3%. This decrease was partly due to the lower proportion of implementation projects, which always have higher material costs. Personnel expenses decreased due to favorable currency developments and restructuring measures. Depreciation and amortization decreased by 16.0% to EUR 13.4 million, mainly because it was possible to optimize rental office space and thus also the capitalized lease agreements. Other operating expenses decreased by EUR 8.1 million to EUR 47.4 million. The operating foreign currency result in the tolling segment amounted to EUR 2.9 million (previous year: EUR 2.8 million) and thus made a positive contribution to EBIT, as in the previous year.
+
+## Traffic management.
+
+## Traffic management revenues by regions.
+
+Image /page/19/Figure/3 description: This image is a donut chart showing the distribution of something across different regions. The regions are Americas (41.9%), EMEA (55.7%), and APAC (2.4%).
+
+Revenues. In the financial year 2023/24, revenues in the traffic management segment amounted to EUR 160.5 million, a rise of 7.0% on the previous year's figure of EUR 150.0 million, and contributed 29.8% (previous year: 27.2%) to total revenues. Implementation revenues increased by 25.2% compared to the previous year, and Kapsch TrafficCom also recorded a significant increase in revenues in the components business, particularly in France, Morocco and Greece. The EMEA region continued to make the largest contribution to revenues in the traffic management segment at 55.7% or EUR 89.5 million. Revenues in the Americas region increased by 13.4% to EUR 67.2 million in the financial year 2023/24. Revenues in the APAC region decreased sharply. At EUR 3.9 million, **55,7%** | it was 20.4% below the previous year's figure of EUR 4.9 million.
+
+#### Segment traffic management by business type.
+
+| in EUR million  | 2022/23      | 2023/24      | +/-         |
+|-----------------|--------------|--------------|-------------|
+| <b>Revenues</b> | <b>150.0</b> | <b>160.5</b> | <b>7.0%</b> |
+| Implementation  | 44.6         | 55.9         | 25.2%       |
+| Operations      | 99.8         | 93.2         | -6.6%       |
+| Components      | 5.6          | 11.5         | >100%       |
+| <b>EBIT1)</b>   | <b>14.6</b>  | <b>15.9</b>  | <b>9.3%</b> |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+EBIT. EBIT in the traffic management segment amounted to EUR 15.9 million in the financial year and was therefore also above the previous year (EUR 14.6 million, adjusted). This increase was mainly due to the 7.0% rise in revenues with slightly lower expenses for materials and purchased services. Personnel expenses fell by 2.0% to EUR 63.5 million and depreciation and amortization decreased by 17.1% to EUR 4.3 million. The operating foreign currency result had a negative impact of EUR -0.6 million in the financial year 2023/24.
+
+## 1.2.3 Net assets position.
+
+Kapsch TrafficCom's total assets as of March 31, 2024 amounted to EUR 443.7 million (March 31, 2023: EUR 480.1 million).
+
+## Assets.
+
+Property, plant and equipment decreased by EUR 6.2 million compared to March 31, 2023, mainly due to scheduled depreciation. Intangible assets decreased by EUR 3.9 million essentially due to current amortisation.
+
+Interests in associates and joint ventures decreased by EUR 21.1 million. The main effect was derived from the positive proportional result of the joint venture autoTicket GmbH, Germany, in the amount of EUR 15.5 million; EUR 30.0 million was paid out in dividends by this company. The share in Traffic Technology Services, Inc, USA, was sold thereby also reducing the interests in associates by EUR 7.3 million.
+
+Other non-current financial assets and investments decreased by a total of EUR 11.8 million. This was mainly due to the repayment of financing from the joint venture autoTicket GmbH, Germany (EUR -12.9 million) and the associated company Traffic Technology Services, Inc., USA (EUR -3.8 million). The effect was partially offset by the reversal of an allowance on loans in the amount of EUR 2.4 million.
+
+{20}------------------------------------------------
+
+Deferred tax assets amounted to EUR 45.6 million as of March 31, 2024 (previous year: EUR 49.8 million). The majority of deferred tax assets relate to loss carryforwards in the USA, Austria, Brazil and Spain.
+
+Inventories increased by EUR 2.7 million to EUR 47.8 million, largely due to higher stock levels in the manufacturing companies in Austria and Canada.
+
+Trade receivables and other current assets increased by EUR 13.5 million compared to the previous year, mainly due to the increase in invoiced sales. The higher invoiced sales also led to a reduction in non-current and current contract assets by a total of EUR 5.5 million.
+
+At EUR 33.4 million, cash and cash equivalents were lower than in the previous year (EUR 45.2 million), mainly due to the repayment of financial liabilities and the reduction in trade payables.
+
+A total amount of EUR 11 million was identified as assets held for sale in accordance with IFRS 5. In addition to property, plant, and equipment, this specifically included trade receivables and other current assets as well as cash and cash equivalents.
+
+## Liabilities and equity.
+
+The development of financial liabilities clearly reflects the restructuring of financing and the repayments following the cash inflow from Germany: Non-current financial liabilities increased by EUR 33.4 million compared to the previous year, mainly due to the reclassification between non-current and current financial liabilities according to maturity (EUR 38.2 million). Current financial liabilities were reduced in particular through repayments in the amount of EUR 105.7 million from EUR 131.2 million to EUR 12.8 million.
+
+As at March 31, 2024, non-current lease liabilities amounted to EUR 26.9 million (previous year: EUR 32.2 million), with the decrease mainly resulting from the reduction of rental space. Current lease liabilities amounted to EUR 9.2 million (previous year: EUR 11.6 million).
+
+Non-current and current contract liabilities increased by EUR 17.0 million due to further work on ongoing projects.
+
+Trade payables were reduced by EUR 12.1 million to EUR 62.9 million compared to the previous year, with part of these liabilities relating to invoices not yet received for purchased services.
+
+Current provisions increased by EUR 3.6 million compared to the previous year and amounted to EUR 22.4 million as at March 31, 2024 (previous year: EUR 18.9 million). The increase mainly related to the recognition of project provisions and provisions for impending losses in connection with projects.
+
+Equity increased by EUR 32.1 million to EUR 83.4 million as of March 31, 2024 due to the positive result for the period and the capital increase. The equity ratio increased from 10.7% in the previous year to 18.8% in the 2023/24 financial year.
+
+A total amount of EUR 4 million was identified as liabilities held for sale in accordance with IFRS 5. This specifically included short-term financial liabilities, trade payables, other liabilities and accruals.
+
+## 1.2.4 Financial position.
+
+## Cash flow.
+
+The operating result was clearly positive in the reporting period and amounted to EUR 70.3 million (previous year: EUR 5.2 million, adjusted) due to the increase in other operating income in connection with the agreement with Germany. The improved result impacted cash flow from operating activities, which amounted to EUR 61.9 million in the 2023/24 financial year (previous year: EUR 2.7 million, adjusted). The cash flow from earnings amounted to EUR 67.0 million (previous year: EUR 11.4 million) and the change in net working capital amounted to EUR -5.1 million (previous year: EUR -8.6 million).
+
+{21}------------------------------------------------
+
+The following effects were responsible for the change in net working capital: Trade receivables, current contract assets and other current assets increased by a total of EUR 16.8 million (previous year: decrease by EUR 11.8 million). Inventories also increased by EUR 2.7 million (previous year: increase by EUR 10.3 million). The increase in current contract liabilities and other current liabilities, net of the decrease in trade payables in the amount of EUR 10.6 million (previous year: decrease by EUR 0.5 million) and the addition to current provisions in the amount of EUR 3.8 million (previous year: decrease by and utilization of EUR 9.6 million) could not compensate for this effect.
+
+Cash flow from investing activities amounted to EUR 43.8 million in the 2023/24 financial year (previous year: EUR -0.2 million). Investments in property, plant and equipment increased to EUR -5.7 million (previous year: EUR -3.6 million). Payments for the purchase of securities, investments and other non-current financial assets included financing of the associated company Traffic Technology Services, Inc., USA, in the amount of EUR -1.3 million (previous year: EUR -1.5 million), as well as financing of the joint venture autoTicket GmbH, Germany, in the amount of EUR -0.5 million (previous year: EUR -3.0 million).
+
+In contrast, the cash inflow from the repayment of the financing of the joint venture autoTicket GmbH, Germany, in the amount of EUR 12.9 million and the cash inflow from the sale of the associated company Traffic Technology Services, Inc., USA, in the amount of EUR 7.9 million had a very positive effect. In addition, there was a cash inflow from the dividend of the joint venture autoTicket GmbH, Germany, in the amount of EUR 30 million in the 2023/24 financial year. Altogether, this resulted in a clearly positive cash flow from investing activities.
+
+The sum of cash flow from operating activities and cash flow from investing activities is the free cash flow. It
+
+amounted to EUR 105.7 million in the 2023/24 financial year (previous year: EUR 2.5 million, adjusted) and was significantly higher compared to the previous year due to the effect of the settlement of the arbitration
+
+*Free cash flow: EUR 105.7 million*
+
+proceedings in Germany and the sale of the shares in Traffic Technology Services, Inc., USA.
+
+Cash flow from financing activities was clearly negative in the 2023/24 financial year at EUR -111.6 million (previous year: EUR -13.1 million, adjusted). The change was mainly due to the repayment of current financial liabilities in the amount of EUR -105.5 million (previous year: EUR -18.4 million), also as a result of the restructuring of financing arrangements, the addition of new borrowings in the amount of EUR 28.3 million (of which EUR 0.8 million are non-current) and the ongoing repayment of lease liabilities in the amount of EUR -11.8 million. The interest paid on financing and the associated costs amounted to EUR -26.7 million (previous year: EUR -8.6 million, adjusted). These were recognized in cash flow from financing activities for the first time in the 2023/24 financial year (previous year adjusted).
+
+Cash and cash equivalents as of March 31, 2024 amounted to EUR 33.4 million (March 31, 2023: EUR 45.2 million).
+
+## Key figures.
+
+Net debt as of March 31, 2024 was EUR 106.0 million (March 31, 2023: EUR 186.3 million) and thus EUR 80.3 million below the previous year. This development resulted mainly from the reduction of financial liabilities by EUR 85.0 million. The simultaneous increase in equity by EUR 32.1 million reduced the gearing ratio to 127.1% (March 31, 2023: 363.1%).
+
+Net working capital amounted to EUR 78,5 million (March 31, 2023: EUR 79.4 million).
+
+## 1.2.5 Non-financial information.
+
+Kapsch TrafficCom Group prepares a separate consolidated Non-Financial Report that fulfils the legal requirements pursuant to section 267a of the Austrian Commercial Code (UGB).
+
+{22}------------------------------------------------
+
+## 1.3 Research and development.
+
+In the financial year 2023/24 Kapsch TrafficCom invested 5% of its revenues in generic development, development support and product management.
+
+In line with the corporate strategy "Strategie 2027" Kapsch TrafficCom launched a multi-year technology transformation program in the financial year 2021/22. The goal of this program is to safeguard and modernize the company's technology portfolio and reinforce its leadership in the marketplace. The emphasis is on advancing an agile way of working, developing the company's technology stack faster and more flexibly as well as adapting the current product and solution portfolio to the ever-evolving market requirements. This enables a faster time to market and more efficient delivery of solutions, resulting in improved revenues and margins.
+
+With a strong focus on customers and their needs, the transformation is based on four pillars:
+
+*A technology transformation program aims at efficient delivery of state-of-the-art solutions.*
+
+- Product portfolio. In the product area, the product management team was strengthened. The team was also given responsibility to manage and steer the portfolio by means of a holistic view and a portfolio strategy aimed at consolidation and optimization. This identifies commonalities and synergies and builds on intelligent platforms.
+- Technology stack. The technology stack evolution allows Kapsch TrafficCom to accelerate the migration to the cloud as well as the adoption of new technologies and architectures. The technology stack is the frame for standardizing and developing technologies.
+- Organization and processes. Kapsch TrafficCom introduced SAFe (Scaled Agile Framework©) to continuously improve its software engineering methodology, organization and processes. This system and software engineering methodology leverages industry-standard agile principles to enable the development of the most complex software and cyber-physical systems and to promote customer centricity. The initial pilot projects showed successful outcomes in software development. The key improvements included better alignment with customer requirements, enhanced quality through early defect detection and increased predictability by adapting swiftly to changes. In the next step, these methods will be expanded to other teams in order to accelerate and improve the quality of software releases, with a focus on effectively meeting customer needs.
+- Culture. Fostering and nurturing a culture of collaboration, curiosity and innovation is the fourth pillar of transformation and a key success factor.
+
+In the financial year 2022/23, the patent portfolio of Kapsch TrafficCom was further optimized. The focus was on topics of high strategic importance. As of March 31, 2024, the patent portfolio consisted of 118 patent families with 824 individual patents and 41 pending patent applications. In the financial year, three new patent families were filed in the field of tolling and one patent family was discontinued.
+
+Kapsch TrafficCom strives to mitigate the risk of patent infringements and to foster the patenting of new ideas. Hence, the Intellectual Property Rights (IPR) management focuses on supporting product management and product development. Patent analysis in various areas ensures that products and solutions are actually free to operate. Based on these patent analyses and the expertise gained from them, Kapsch TrafficCom also intends to file more of its own patents in order to secure its freedom to operate and its unique selling proposition for its products and solutions.
+
+In addition, the global patent monitoring system was further established. Its task is to analyze patent applications from competitors and in relevant technology segments in order to gain a better overview of competitors' strategies.
+
+The development expenses of Kapsch TrafficCom amounted to EUR 80.0 million in the financial year 2023/24 (previous year: EUR 78.3 million). This corresponds to 14.8% (previous year: 14.2%) of total Group revenues. They are divided as follows:
+
+- Expenses for customer-specific developments: EUR 55.4 million (previous year: EUR 51.3 million)
+- Expenses for product management, development support and generic development: EUR 24.5 million (previous year: EUR 27.1 million)
+
+{23}------------------------------------------------
+
+## *2 Anticipated development and risks.*
+
+## 2.1 Outlook to financial year 2024/25.
+
+For the financial year 2024/25, the management expects revenues to grow above the forecasted average annual market growth of 7.5% from 2024 to 2030 according to Grand View Research. The operating result (EBIT) should show a slight improvement compared to the result adjusted for one-time effects of EUR 15.1 million, whereby positive one-time effects are also possible again.
+
+*Expectation for financial year 2024/25:*
+
+*Revenue growth above market growth*
+
+*Slight improvement in earnings (EBIT)* 
+
+## Revenues.
+
+Revenues continue to be affected by the economic and political uncertainties in connection with the global conflicts. In the past financial year, net revenues were also negatively impacted by a customer credit note and deferred revenues.
+
+The high order intake and order backlog will increasingly be reflected in revenues and form a solid basis for further growth. In the medium term, it should at least be possible to return to the pre-crisis revenue level of almost EUR 740 million in the 2018/19 financial year.
+
+## EBIT (operating result).
+
+The EBIT of the past year was influenced by many one-time effects, both positive and negative. Kapsch TrafficCom is therefore utilizing the figure of EUR 15.1 million adjusted for these one-time effects as a starting point for further development.
+
+Despite the improved situation, the focus remains on costs. In addition, Kapsch TrafficCom is analyzing its process organization from bottom to top according to a Zero Base Approach in order to avoid project difficulties of the past in the future. The aim is to increase efficiency through global standards and tools.
+
+## Liquidity.
+
+The increase in invoiced revenues in the reporting period and the recently awarded projects will be reflected in earnings and liquidity. In addition, the restructuring of financing has led to a longer-term financing structure. In May 2024, the term of the existing restructuring agreement, including all credit lines, was extended until March 31, 2026.
+
+As of the reporting date, Kapsch TrafficCom had already generated around half of the further cash inflows from pending proceedings and other measures of at least EUR 30 million targeted in the half-year 2023/24: The total net cash inflow from the settlement agreement in Germany was around EUR 5 million higher than expected; the sale of two investments that are not part of the strategic core business also generated inflows of around EUR 11 million, of which the sale of the investment in TMT Services and Supplies Proprietary Limited (TMT), South Africa, (EUR 3 million) took place after the balance sheet date. The management is still aiming for further cash inflows to reduce net debt further. The aim is to achieve a minimum level of net debt to EBITDA of less than 3.0x in the longer term.
+
+In connection with this, the aim is also to release the dividend block and lift the pledge on the shares of the core shareholder KAPSCH-Group Beteiligungs GmbH.
+
+## Non-financial targets.
+
+The company's non-financial targets can be found in the separate non-financial report in accordance with Section 267a UGB.
+
+## Corporate governance.
+
+The mandates of Franz Semmernegg and Harald Sommerer as Chairman and Deputy Chairman of the Supervisory Board will expire in financial year 2024/25. Both will leave the Board. In the course of the new elections, the Supervisory Board is to be intentionally positioned more strongly as an advisory body to the Executive Board.
+
+{24}------------------------------------------------
+
+## Strategy 2027.
+
+Global megatrends as well as growing awareness and legal requirements regarding climate and environmental protection are increasing the demand for comprehensive and intelligent transportation solutions. More and more, this confirms that Kapsch TrafficCom is addressing the right issues with its Strategy 2027, even if implementation is taking longer than originally assumed due to the market situation.
+
+A comprehensive strategy review was launched in the past financial year and is still ongoing. One of the first changes resulting from this was the sale of the non-core investments Traffic Technology Services, Inc. in the USA (TTS) and TMT Services and Supplies Proprietary Limited in South Africa (TMT).
+
+Kapsch TrafficCom is still predominantly perceived as a hardware provider. In fact, however, the company is already more of a provider of software and services; this development and change will continue – while retaining the hardware component – and will be shaped in the strategy review.
+
+## 2.2 Risk report.
+
+## 2.2.1 Risk management.
+
+The enterprise-wide risk management process (Enterprise Risk Management, ERM) of the Kapsch TrafficCom Group is based on the COSO Enterprise Risk Management – Integrated Framework, an internationally recognized standard for risk management.
+
+The risk management process aims at an early identification, assessment, and management of those risks that can significantly affect the achievement of the strategic and operating objectives of the company. The primary goal is not risk avoidance, but the controlled and conscious handling of risks and the timely recognition and exploitation of opportunities that arise. In this way, ERM makes a valuable contribution to corporate management.
+
+As part of ERM, major risks are identified, quantified, and globally aggregated on a quarterly basis. The risk report derived from this enables the concise assessment and monitoring of the major business risks. The report is sent to the Executive Board, the Audit Committee of the Supervisory Board, and the first reporting level. The Audit Committee is informed immediately by the Executive Board about important events. The Supervisory Board also deals with the effectiveness of the risk management system as part of its monitoring of the Executive Board. The design and implementation aspects of the risk management system are reviewed annually by the auditor in accordance with Rule 83 of the Austrian Code of Corporate Governance (ÖCGK) to ensure that the system is adequately designed and implemented. To further strengthen risk management, internal audits are carried out after this external audit to assess the operational effectiveness of the system. This proactive approach enables Kapsch TrafficCom to continuously improve and ensure the effectiveness of its risk management in day-to-day operations.
+
+The project-oriented risk management encompasses both customer projects and internal development projects. Using institutionalized processes, an analysis of all relevant risks and opportunities is already carried out in the course of offer preparation. Consequently, a basis is created for decisions and for the timely planning and implementation of control measures.
+
+*Risk management entails the identification, assessment and control of risks.*
+
+The main generic risks and opportunities of Kapsch TrafficCom and the general handling of these risks are briefly discussed in the following. The environmental, social and governance impacts, risks and opportunities of Kapsch TrafficCom are explained in the separate non-financial report.
+
+{25}------------------------------------------------
+
+## 2.2.2 Industry-specific risks.
+
+Volatility of new orders. Kapsch TrafficCom's most relevant customer groups include primarily government agencies and municipal authorities as well as private concessionaires, public-private partnerships and consumers. Larger contracts
+
+are usually tendered. Until a contract is actually awarded to Kapsch TrafficCom, there are a number of uncertainty factors both within and outside of the company's area of influence. For example, political changes, appeals or lawsuits by unsuccessful bidders can lead to a delay in the awarding of a contract, to its cancellation or to a modification of the tender.
+
+There is also the risk that offers made by Kapsch TrafficCom will not succeed for technological, financial, formal or other reasons.
+
+The expansion into new business areas is aimed at increasing revenue growth and smoothing out revenue spikes in order to achieve a more stable revenue development. This is to be achieved in particular by further broadening the customer and product portfolio and by increasing the share of revenue from the operating business (technical and commercial operations of systems usually previously set up by the company) and from the tolling service business. The latter is typically commissioned on a long-term basis and is therefore characterized by better predictable revenues.
+
+The economic situation of relevant national economies, possible government investment programs, changes in political priorities, an increasing focus on sustainability, trade conflicts, military conflicts or epidemics can have a significant impact on incoming orders.
+
+Risks of project execution. Intelligent transportation solutions are often technically complex and challenging systems, that must be implemented within a strict timeframe. However, the actual project environment cannot be
+
+fully analyzed and taken into account during the preparation of an offer. Therefore, uncertainties remain with regard to integration efforts for third-party systems, efforts for interfaces and other factors accelerating or delaying the handling of projects. Unavoidable dependencies on suppliers and service providers can also have a negative effect on the
+
+*Technical challenges and tight schedules cause typical project risks.*
+
+quality and timely completion of a project. All of these factors thus affect the risk of missed deadlines and/or system and product defects.
+
+In connection with the installation of systems, Kapsch TrafficCom is generally contractually obligated to issue performance and delivery date guarantees. If the contractual services are not fulfilled or if deadlines are exceeded, penalties and damages usually have to be paid, in some cases even damages for lost toll revenue. Significant missed deadlines can also result in premature termination of a contract by the customer. A significant delay in a project, a clear failure to meet the contractually agreed performance criteria or failed implementation of a project could reduce the chances of success in future tenders. There is also the risk that projects of Kapsch TrafficCom cannot be realized at the previously calculated costs. Due to the strong social opposition to toll systems that is sometimes encountered, the risk of a late or limited start to toll collection exists, which can have further consequences on revenues, profitability and payment flows in the operation project.
+
+Kapsch TrafficCom employs project management methods and project risk management procedures based on the IPMA (International Project Management Association) standards in order to minimize such risks in projects.
+
+Long-term contracts with public agencies. For many projects, contracts are awarded by public agencies. Framework agreements and service contracts in connection with tolling or traffic management projects may include terms and conditions that are not negotiable in a tender process and that may be disadvantageous for Kapsch TrafficCom. Some multi-year contracts contain demanding requirements regarding the targeted performance of the implemented systems, components and processes. Failure to meet these requirements can result in considerable contractual penalties, obligations to pay damages or termination of the contract. On the other hand, in some contracts substantial bonus payments may be earned in the case of over-performance. Moreover, for long-term contracts, the achievable margins may deviate from the original calculations due to cost changes.
+
+*Geographic diversification and expansion of the product portfolio contribute to stabilizing revenues.* 
+
+{26}------------------------------------------------
+
+Contracts may entail liabilities relating to a loss of profit by customers, product liabilities and other liabilities. Kapsch TrafficCom strives to include appropriate limitations of liability in contracts. However, there can be no assurance that all contracts will contain sufficient limitations of liability or that they will be enforceable under applicable law.
+
+Risks in the supply chain. As a manufacturer of high-tech, multi-component devices and as a supplier of these devices and/or third-party products in the context of tolling and traffic management projects, Kapsch TrafficCom is dependent on the functional capability of the supply chain. It is essential to receive ordered components on time in order to ensure that they are available for ongoing projects when needed. At the same time, the components must be of good quality and offered at a reasonable price to achieve satisfactory financial results.
+
+The situation on the global market for semi-conductors can be significantly affected by shifts in production capacity, geopolitical changes in the main production regions and disruptions in logistics. This can lead to the unavailability of the necessary components as well as fluctuations in delivery times and prices and cause difficulties in ongoing projects. Financial or operational difficulties at individual suppliers can also lead to delays in delivery, additional costs or a deterioration in the price-performance ratio of the components if supplier substitution is necessary.
+
+This risk is limited by the fact that Kapsch TrafficCom ensures that at least two suppliers from different countries of origin are utilized for critical materials, insofar as this is economically feasible.
+
+## 2.2.3 Strategic risks.
+
+Ability to innovate. The strong market position of Kapsch TrafficCom is based to a large extent on its ability to develop high quality, efficient and reliable systems, components, solutions and services. Kapsch TrafficCom is
+
+committed to ongoing and consistent innovation. In order to maintain its high technological standards, Kapsch TrafficCom invests in research and development activities. However, if Kapsch TrafficCom does not succeed in developing innovative systems, components, solutions and services in line with market requirements, this may be detrimental to its competitive position.
+
+*An ongoing and consistent innovation process supports the strong market position.*
+
+*The international growth is opening up new opportunities*
+
+*but also poses risks.*
+
+Since the striving for innovation leadership is based to a large extent on technology, internal know-how and intellectual property, the global increase in product piracy and reverse engineering may have negative impacts on the market position of Kapsch TrafficCom. The company therefore places great importance on protecting technologies and the company's internal know-how, such as through patents and non-disclosure agreements with relevant contractual partners. On the other hand, newly developed systems, components, solutions or services may also infringe the intellectual property rights of third parties.
+
+Acquisition and integration of companies as part of the Group's growth. The Group's growth can be organic as well as through selected acquisitions or the establishment of joint ventures. In the course of these activities, it is
+
+necessary to overcome a number of challenges in order to achieve the desired goals and synergies, as well as to realize the expected opportunities arising from the acquisition of new technologies and market knowhow.
+
+Country risk. Due to the further expansion of business activities in countries outside of Europe, Kapsch TrafficCom is subject to increased political risk in some countries. Significant and currently unforeseeable political changes may have a major impact on the ability to implement or operate projects in these countries as well as to make funds available or withdraw them again. Interference with the property rights of Kapsch TrafficCom or problems with business practices and activities may also arise. Kapsch TrafficCom includes these risks in the evaluation of such projects.
+
+{27}------------------------------------------------
+
+## 2.2.4 Financial risks.
+
+Foreign exchange risk. As a global company, Kapsch TrafficCom maintains branches and subsidiaries in many countries outside the Euro zone. Consequently, transaction risks arise from possible exchange rate fluctuations,
+
+which may be reflected in the consolidated financial statements as exchange rate losses or gains. Kapsch TrafficCom strives as far as possible to avoid these transaction risks in the amount of the net currency positions from the respective projects or to hedge them, if necessary. However, because the net currency position at the respective payment flow deadlines is often difficult to predict, hedging is only possible to a limited extent. The remaining exchange rate risk is accepted and included
+
+*Financial risks arise from exchange rate and interest rate fluctuations as well as loans. Sufficient liquidity increases the flexibility and the ability to take quick action.*
+
+in the business planning. Due to the conversion of individual financial statements of the subsidiaries outside the Euro zone into the Group currency of the Euro, Kapsch TrafficCom is also subject to a translation risk. In addition, long-term disadvantageous exchange rate changes can also cause a change in the position of Kapsch TrafficCom relative to competitors, such as when products or services based on a euro-cost structure can no longer be offered at competitive prices outside the Euro zone.
+
+Interest rate risk. Within the framework of project financing, the Group regularly agrees to variable interest rates that are tied to market interest rates (e.g. Euribor). In this context, there is an interest rate risk, which — where material — is hedged by suitable financial instruments.
+
+Liquidity risk. Sufficient financial resources have to be available for Kapsch TrafficCom to meet its payment obligations at all times. The availability of medium- and long-term financing is necessary for the implementation of large-scale projects, such as the implementation of a nationwide tolling system with an agreed delayed payment by a major client, and for the acquisition of companies. In addition, the execution of large projects regularly requires the provision of bank guarantees, some of which are extensive, as collateral for bid obligations (bid bonds) or to secure possible warranty claims (performance bonds).
+
+In financing agreements, Kapsch TrafficCom is subject to the usual limitations of its business policy, such as with regard to taking on additional borrowings, the use of assets as collateral or the provision of guarantees and sureties in favor of third parties. The availability of financing and bank guarantees depends not only on market conditions but in particular on the net assets, financial position and earnings situation of Kapsch TrafficCom. A lack of liquid assets (even if the Group is otherwise essentially solvent), of financing or of bank guarantees could in turn have an extremely adverse impact on the net assets, financial position and earnings situation of Kapsch TrafficCom. The Group continuously monitors compliance with all covenants in connection with loan agreements.
+
+Liquidity risk is counteracted by ongoing Group-wide cash flow planning. This enables potential liquidity bottlenecks to be identified at an early stage and appropriate countermeasures to be taken in time.
+
+Credit risk. Kapsch TrafficCom is exposed to the risk of non-payment by customers. The main customers of Kapsch TrafficCom are to a large extent state agencies, especially in connection with the implementation or operation of nation-wide or regional tolling and traffic management systems. Kapsch TrafficCom also acts as a subcontractor to third parties (for example concessionaires, general contractors, etc.) in public sector projects. The scope of a potential non-payment varies depending on the size of the order and can have a noticeable impact on the earnings situation in the case of individual large projects. The creditworthiness of new and existing customers is evaluated, and hedging is performed according to the assessment of the existing non-payment risk. In addition, Kapsch TrafficCom takes advantage of offers from public institutions, such as OeKB (Oesterreichische Kontrollbank), EKN (Exportkreditnämnden; Swedish National Export Credits Guarantee Board) and MIGA (Multilateral Investment Guarantee Agency), to hedge against the non-payment risk on the basis of guarantees. Moverover, there is a risk that counterparties of both original and derivative financial instruments (including financial institutions assumed to have good credit ratings) cannot meet their payment liabilities when due. A payment default or the need to impair receivables could have an extremely adverse impact on the net assets, financial position and earnings situation of Kapsch TrafficCom.
+
+{28}------------------------------------------------
+
+## 2.2.5 Personnel risk.
+
+The success of Kapsch TrafficCom depends to a significant extent on key personnel, in particular technical experts with many years of specific experience. In addition, the ability to recruit qualified employees with state-of-the-art
+
+technology knowledge, to integrate them into the Company and to retain them in the long term is of high importance for the success of the Group. The loss of important employees in key positions and difficulties in recruiting personnel can have a negative impact on the success of the Group.
+
+*Kapsch TrafficCom is taking attractive measures to counteract personnel risk.*
+
+Kapsch TrafficCom has been proactively implementing measures to counteract this risk for several years. These include, for example, an internal career and training platform that allows employees to advance their careers autonomously and away from approval processes. Attractive offers such as bonus systems or further training opportunities additionally support these efforts. A periodic employee survey as well as an "OpenLine2CEO" to Georg Kapsch enable the management to identify current concerns, worries and wishes as well as the general mood and to respond appropriately.
+
+## 2.2.6 Legal risk.
+
+A large number of regulations and legal requirements must be observed in connection with participation in public sector tenders, the establishment and operation of tolling and mobility solutions, acquisitions and cooperations as well as capital market issues. It may take a considerable administrative, technical and commercial effort to capture, enforce and monitor all compliance requirements. If applicable regulations or official requirements cannot be met, this can lead to severe penalties and also reduce the ability of (successfully) taking part in future tenders as well as restrict the continuation of the relevant business activity.
+
+The expansion of business activities into new regions and into select new business fields tends to increase the risk of patent violations or the violation of intellectual property rights (IPR). This can result in financial damages from court actions. Kapsch TrafficCom attempts to counteract this risk as far as possible by performing an evaluation of possible IPR violations prior to entry into new markets or regions, for example. However, it is not possible to completely avoid this risk.
+
+Changes in the geopolitical situation, such as military conflicts, can lead to the legal framework becoming more complex as a result of sanctions and embargoes being imposed. In order to remain compliant with the respective requirements, Kapsch TrafficCom continuously monitors the relevant regulations.
+
+## 2.2.7 Cyber-risk.
+
+As a core process of ISO/IEC 27001, Kapsch TrafficCom has a uniform risk management process for information security that is integrated into corporate risk management. The structured approach to considering risks related to information security is derived from Kapsch TrafficCom's business processes and represents a holistic approach. The risk management process is implemented in all companies whose IT is fully integrated into the Group IT, regardless of whether they are formally certified in accordance with ISO/IEC 27001 or not.
+
+## 2.2.8 Operational risks.
+
+Kapsch TrafficCom's involvement in the realization of complex tolling and traffic management projects as well as in the production of components entails certain operational risks, including risks in the areas of health, safety, environment and quality (HSSEQ). In order to adequately mitigate these risks, Kapsch TrafficCom has developed internal processes that meet the requirements of ISO 14001 and ISO 45001. In addition, aspects of ISO 9001 were integrated in order to meet quality management standards, and at individual locations also aspects of ISO 50001 in order to efficiently organize energy management and optimize energy consumption.
+
+{29}------------------------------------------------
+
+Local legal requirements sometimes exceed ISO standards, therefore Kapsch TrafficCom continuously monitors the legal requirements in the countries in which it operates. This ensures that the operational standards always comply with the strictest local regulations.
+
+Through regular training and further education, Kapsch TrafficCom strengthens the awareness and skills of its employees with regard to HSSEQ topics. Furthermore, Kapsch TrafficCom utilizes ongoing audits and performance analyses to monitor and continuously improve compliance with these standards. This systematic approach not only helps to minimize risks, but also promotes sustainable corporate management and increases customer satisfaction.
+
+## 2.2.9 Opportunities.
+
+The enterprise risk management approach of Kapsch TrafficCom not only addresses risks but also encompasses the regular identification, evaluation and management of opportunities. The goal of these efforts is to manage the strategic orientation of the product portfolio and market activities through
+
+the early identification of opportunities and to develop corresponding potential.
+
+*The early identification of opportunities opens up new potential.*
+
+Market opportunities exist in geographic diversification as well as increasing expansion of the customer and product portfolios, driven in part by the following factors
+
+- Opportunities arise from so-called change requests requests for changes from customers that only arise in the course of project execution. These change requests result in extensions to the contractual delivery components and are priced and paid for separately.
+- In addition, the increasing financing requirements of infrastructure projects and the growing need to relieve government budgets are creating opportunities both to open up new tolling markets in so-called emerging and developing countries and to expand activities in already developed markets.
+- The global rise in traffic volumes and the associated impact on the environment and society open up further opportunities in the area of mobility solutions, as, for example, toll collection, traffic management and demand management are increasingly being used as controlling instruments in environmental and traffic policy. In both segments, this creates opportunities to further develop and market the portfolio in line with the new requirements.
+- Furthermore, demands with regard to increasing the productivity of vehicles and vehicle operations, as well as the rising comfort expectations of travelers, are opening up opportunities by expanding the functionalities of existing systems. This offers opportunities to acquire new customers or to serve both public-sector customers and end customers with new concepts. This particularly applies in the area of tolling services.
+
+Other opportunities. Continuous innovation, technical advancements and the acquisition of new technologies by means of corporate acquisitions create opportunities for Kapsch TrafficCom to improve efficiency and performance of customer systems and to gain a technological edge over competitors with regard to the performance and functionality of the offered systems.
+
+## 2.2.10 Overall assessment of the risk situation.
+
+From the current perspective, no risks have been identified that could endanger the continued operations of Kapsch TrafficCom. Due to the geographic diversification, the continuous expansion of the product and solution portfolio as well as the development of new business models through selected new ITS solutions, the business activities of Kapsch TrafficCom could be positioned more broadly without the need to step outside the core business area. The concentration of risk in individual regions and in individual large projects was thereby reduced.
+
+{30}------------------------------------------------
+
+## 2.3 Internal control system with respect to the accounting process.
+
+As in the previous year, the Group-wide uniform documentation of all controls for achieving the key controlling goals was advanced again in the financial year 2023/24. This aims to increase efficiency and at the same time reduce risk in the Group as well as to show alternative courses of action to management. *The uniform documentation of all*
+
+## *controls is being advanced.*
+
+The basis of the processes for Group accounting and reporting is an
+
+accounting manual (IFRS Accounting Manual), that is issued and regularly updated by the Kapsch Group. In this manual, the essential accounting and reporting requirements based on the International Financial Reporting Standards (IFRS) are specified throughout the Group. Another important basis of the internal control system (ICS) are the Group guidelines, work instructions and process descriptions.
+
+Central elements of the ICS are execution of the principle of dual control and the segregation of duties as well as defined actions for monitoring the effectiveness and efficiency of operating activities, the reliability of financial reporting and compliance with relevant legal regulations. In this regard, Kapsch TrafficCom acts based on international standards and best practices, such as COSO Enterprise Risk Management – Integrated Framework.
+
+The accounting of business transactions in Kapsch TrafficCom is managed by a variety of software solutions. In a number of countries, the accounting has been outsourced to local tax accountants due to the small size of the subsidiaries. The individual companies submit reporting packages to the head office on a monthly basis containing all relevant accounting data pertaining to the income statement, the balance sheet and the cash flow accounting. This data is then entered into the central consolidation system OneStream on a monthly basis. The financial information is reviewed at Group level by Kapsch TrafficCom AG and forms the basis for interim reporting.
+
+The Executive Board informs the Supervisory Board in regular meetings about the economic development in the form of consolidated presentations consisting of segment reporting, earnings development with budget and year-on-year comparison, forecasts, consolidated financial statements, personnel and order development as well as selected key financial figures.
+
+*The ICS is implemented locally and monitored centrally.*
+
+In accordance with local requirements, responsibility for the implementation
+
+and monitoring of the internal control system lies with the relevant local management. The management of the individual subsidiaries is responsible for establishing and designing an internal control system in line with the requirements of the respective company with regard to the accounting process and for ensuring compliance with the Group-wide guidelines and regulations.
+
+{31}------------------------------------------------
+
+## *3 Other disclosures.*
+
+## 3.1 Disclosures on capital, share, voting and control rights and related agreements.
+
+The fully paid-in share capital of Kapsch TrafficCom AG amounts to EUR 14.3 million. It is divided into 14.3 million shares. There are no legal or statutory caps or restrictions on the exercise of voting rights or the transfer of shares. KAPSCH-Group Beteiligungs GmbH held roughly 63.3% of the shares as of March 31, 2024. In connection with the refinancing, KAPSCH-Group Beteiligungs GmbH pledged all of its shares in Kapsch TrafficCom AG in favor of the financing banks in financial year 2023/24. This also results in restrictions customary in the market with respect to the transfer of the shares and a corresponding requirement for the consent of these banks.
+
+KAPSCH-Group Beteiligungs GmbH is a wholly owned subsidiary of DATAX HandelsgmbH, whose shares are held (partly indirectly, partly directly) in equal parts by Traditio-Privatstiftung and Children of Elisabeth-Privatstiftung, two private foundations under the Austrian Private Foundation Act. Each of these private foundations is managed by its own Executive Board, with no individual serving on both boards. The beneficiaries of these private foundations are Georg Kapsch and members of his family (Traditio-Privatstiftung) as well as Elisabeth Kapsch and members of her family (Children of Elisabeth-Privatstiftung).
+
+There was no other shareholder holding more than 10% of the voting rights in Kapsch TrafficCom AG as of March 31, 2024. In the financial year 2023/24, Kapsch TrafficCom did not acquire or dispose of any treasury shares and did not hold any as of the balance sheet date.
+
+No shares with special control rights exist. No restrictions exist with respect to the exercising of the voting right by employees with capital participation. There are no special provisions regarding the appointment and recall of the members of the Executive Board and the Supervisory Board as well as the modification of the articles of association.
+
+The Company currently has no conditional capital authorizing the Executive Board, with the approval of the Supervisory Board, to issue shares without (further) referral to the Annual General Meeting.
+
+Conventional "change of control" clauses, which may lead to termination of the contract, relate to financing agreements, such as the promissory note bond ("Schuldscheindarlehen") and further financing, totaling about EUR 94 million, or are related to individual customer contracts.
+
+No compensation agreements exist between Kapsch TrafficCom AG and its Executive Board and Supervisory Board Members or employees for the event of a public takeover offer.
+
+## 3.2 Corporate Governance Report.
+
+In accordance with C-rule 61 of the Austrian Corporate Governance Code, it is pointed out that the Consolidated Corporate Governance Report can be accessed on the internet at https://www.kapsch.net/en/ir/Corporate-Governance.
+
+Vienna, June 18, 2024
+
+Georg Kapsch Chief Executive Officer
+
+Alfredo Escribá Gallego Executive Board member
+
+{32}------------------------------------------------
+
+# *CONSOLIDATED FINANCIAL STATEMENTS.*
+
+## *Primaries.*
+
+## Consolidated statement of comprehensive income.
+
+| in EUR                                                                                                 | Note | 2022/23<br>(adjusted) | 2023/24      |
+|--------------------------------------------------------------------------------------------------------|------|-----------------------|--------------|
+| Revenues                                                                                               | 2    | 553,415,225           | 538,842,108  |
+| Other operating income1)                                                                               | 3    | 20,057,541            | 81,292,935   |
+| Changes in finished and unfinished goods                                                               | 4    | 1,962,297             | 1,320,048    |
+| Cost of materials and other production services                                                        | 5    | -222,552,087          | -232,724,043 |
+| Personnel expenses                                                                                     | 6    | -247,933,852          | -242,393,932 |
+| Other operating expenses                                                                               | 7    | -76,202,569           | -73,221,236  |
+| Proportional result of associates and joint ventures                                                   | 14   | -1,680,820            | 15,418,236   |
+| Operating result before amortization, depreciation and impairment (EBITDA)1)                           |      | 27,065,734            | 88,534,115   |
+| Amortization and depreciation                                                                          | 8    | -21,821,058           | -18,255,154  |
+| Impairment charge and write-up from impairments                                                        | 8    | 0                     | -21,165      |
+| Operating result (EBIT)1)                                                                              |      | 5,244,677             | 70,257,790   |
+| Finance income1)2)                                                                                     | 9    | 7,436,534             | 6,392,857    |
+| Finance costs2)                                                                                        | 9    | -21,305,362           | -36,538,746  |
+| Financial result1)                                                                                     |      | -13,868,828           | -30,145,889  |
+| Proportional results from associates and joint ventures from financial investments                     | 14   | -1,266,063            | -3,236,073   |
+| Result before income taxes                                                                             |      | -9,890,214            | 36,875,835   |
+| Income tax                                                                                             | 10   | -14,350,432           | -14,611,402  |
+| Result for the period                                                                                  |      | -24,240,646           | 22,264,434   |
+| Equity holders of the company                                                                          |      | -24,803,258           | 23,182,648   |
+| Non-controlling interests                                                                              | 30   | 562,612               | -918,215     |
+| Earnings per share from the result for the period attributable<br>to the equity holders of the company |      |                       |              |
+| diluted = undiluted                                                                                    |      | -1.91                 | 1.72         |
+| Other comprehensive income for the period                                                              |      |                       |              |
+| Currency translation differences                                                                       |      | -4,399,896            | -715,017     |
+| Currency translation differences from net investments in foreign operations                            |      | 818,098               | 141,388      |
+| Income tax relating to items subsequently to be reclassified to the result for the period              |      | -188,163              | -32,519      |
+| Total items subsequently to be reclassified to the result for the period                               |      | -3,769,961            | -606,148     |
+| Total items subsequently not to be reclassified to the result for the period                           |      | 1,665,709             | -1,041,290   |
+| Other comprehensive income for the period net of tax                                                   | 11   | -2,104,252            | -1,647,444   |
+| Total comprehensive income for the period                                                              |      | -26,344,898           | 20,616,988   |
+| Equity holders of the company                                                                          |      | -26,896,539           | 22,343,580   |
+| Non-controlling interests                                                                              | 30   | 551,641               | -1,726,592   |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+2) Adjustment previous year: netting of income from hyperinflation adjustment and expense from hyperinflation adjustment.
+
+{33}------------------------------------------------
+
+## Consolidated balance sheet.
+
+| in EUR                                                                    | Note   | March 31, 2023     | March 31, 2024     |
+|---------------------------------------------------------------------------|--------|--------------------|--------------------|
+| ASSETS                                                                    |        |                    |                    |
+| Property, plant and equipment                                             | 12     | 52,129,598         | 45,959,877         |
+| Intangible assets                                                         | 13     | 31,756,209         | 27,874,809         |
+| Interests in associates and joint ventures                                | 14     | 24,736,245         | 3,591,926          |
+| Other non-current financial assets and investments                        |        | 16,217,289         | 4,134,592          |
+| Non-current contract assets                                               | 20     | 3,866,610          | 2,603,473          |
+| Other non-current assets1)                                                | 16     | 4,311,496          | 5,979,545          |
+| Deferred tax assets                                                       | 17     | 49,777,330         | 45,568,104         |
+| <b>Non-current assets</b>                                                 |        | <b>182,794,777</b> | <b>135,712,324</b> |
+|                                                                           |        |                    |                    |
+| Inventories                                                               | 18     | 45,102,860         | 47,811,046         |
+| Trade receivables and other current assets 1)                             | 19     | 118,005,425        | 131,474,320        |
+| Current contract assets                                                   | 20     | 82,212,716         | 77,953,504         |
+| Current tax receivables                                                   |        | 4,873,179          | 5,004,682          |
+| Other current financial assets                                            |        | 1,908,856          | 1,375,033          |
+| Cash and cash equivalents                                                 | 21     | 45,227,819         | 33,376,358         |
+| Assets held for sale                                                      | (34.1) | 0                  | 10,991,002         |
+| <b>Current assets</b>                                                     |        | <b>297,330,855</b> | <b>307,985,945</b> |
+|                                                                           |        |                    |                    |
+| <b>TOTAL ASSETS</b>                                                       |        | <b>480,125,632</b> | <b>443,698,269</b> |
+|                                                                           |        |                    |                    |
+|                                                                           |        |                    |                    |
+| EQUITY                                                                    |        |                    |                    |
+| Share capital                                                             | 22     | 13,000,000         | 14,300,000         |
+| Capital reserve                                                           | 22     | 117,508,771        | 127,686,238        |
+| Retained earnings and other reserves                                      | 22     | -74,209,144        | -51,865,563        |
+| <b>Capital and reserves attributable to equity holders of the company</b> |        | <b>56,299,627</b>  | <b>90,120,675</b>  |
+| Non-controlling interests                                                 | 22     | -4,993,721         | -6,697,811         |
+| <b>TOTAL EQUITY</b>                                                       |        | <b>51,305,907</b>  | <b>83,422,864</b>  |
+|                                                                           |        |                    |                    |
+| LIABILITIES                                                               |        |                    |                    |
+| Non-current financial liabilities                                         | 23     | 58,471,993         | 91,905,548         |
+| Non-current lease liabilities                                             | 24     | 32,198,572         | 26,932,207         |
+| Liabilities from post-employment benefits to employees                    | 25     | 20,601,773         | 21,162,293         |
+| Non-current provisions                                                    | 26     | 1,454,271          | 1,809,756          |
+| Non-current contract liabilities                                          | 20     | 450,304            | 6,719,115          |
+| Other non-current liabilities                                             |        | 430,497            | 421,771            |
+| Deferred tax liabilities                                                  | 17     | 1,650,960          | 1,263,221          |
+| <b>Non-current liabilities</b>                                            |        | <b>115,258,370</b> | <b>150,213,911</b> |
+|                                                                           |        |                    |                    |
+| Current financial liabilities                                             | 23     | 131,169,870        | 12,751,305         |
+| Current lease liabilities                                                 | 24     | 11,594,999         | 9,158,250          |
+| Trade payables                                                            |        | 75,051,500         | 62,912,990         |
+| Current contract liabilities                                              | 20     | 31,062,050         | 41,797,751         |
+| Current provisions                                                        | 26     | 18,879,947         | 22,447,249         |
+| Current tax liabilities                                                   |        | 2,138,794          | 4,997,090          |
+| Other liabilities and deferred income                                     | 27     | 43,664,196         | 51,991,923         |
+| Liabilities held for sale                                                 | (34.1) | 0                  | 4,004,937          |
+| <b>Current liabilities</b>                                                |        | <b>313,561,356</b> | <b>210,061,494</b> |
+|                                                                           |        |                    |                    |
+| <b>TOTAL LIABILITIES</b>                                                  |        | <b>428,819,726</b> | <b>360,275,405</b> |
+
+1) Non-current and current lease receivables are not shown separately due to immateriality but are included in other non-current assets and trade receivables and other current assets.
+
+{34}------------------------------------------------
+
+## Consolidated statement of changes in equity.
+
+| in EUR                                                         | Share<br>capital | Capital<br>reserve | Other<br>reserves | Consolidated<br>retained<br>earnings | Attributable<br>to equity<br>holders of<br>the company | Non-<br>controlling<br>interests | Total<br>equity |
+|----------------------------------------------------------------|------------------|--------------------|-------------------|--------------------------------------|--------------------------------------------------------|----------------------------------|-----------------|
+| Carrying amount as of March 31, 2022                           | 13,000,000       | 117,508,771        | -42,993,782       | -4,318,823                           | 83,196,166                                             | -5,294,405                       | 77,901,761      |
+| Result for the period                                          |                  |                    |                   | -24,803,258                          | -24,803,258                                            | 562,612                          | -24,240,646     |
+| Other comprehensive income for<br>the period:                  |                  |                    | -2,093,280        |                                      | -2,093,280                                             | -10,971                          | -2,104,251      |
+| Currency translation differences                               |                  |                    | -3,758,990        |                                      | -3,758,990                                             | -10,971                          | -3,769,961      |
+| Remeasurements of liabilities from<br>post-employment benefits |                  |                    | 1,665,709         |                                      | 1,665,709                                              |                                  | 1,665,709       |
+| Transactions with the owners:                                  |                  |                    |                   |                                      |                                                        | -250,956                         | -250,957        |
+| Dividend                                                       |                  |                    |                   |                                      |                                                        | -250,956                         | -250,957        |
+| Carrying amount as of March 31, 2023                           | 13,000,000       | 117,508,771        | -45,087,063       | -29,122,081                          | 56,299,627                                             | -4,993,721                       | 51,305,907      |
+| Result for the period                                          |                  |                    |                   | 23,182,648                           | 23,182,648                                             | -918,215                         | 22,264,434      |
+| Other comprehensive income for<br>the period:                  |                  |                    | -839,067          |                                      | -839,067                                               | -808,377                         | -1,647,444      |
+| Currency translation differences                               |                  |                    | 202,229           |                                      | 202,229                                                | -808,377                         | -606,148        |
+| Remeasurements of liabilities from<br>post-employment benefits |                  |                    | -1,041,296        |                                      | -1,041,296                                             |                                  | -1,041,296      |
+| Transactions with the owners:                                  | 1,300,000        | 10,177,467         |                   |                                      | 11,477,467                                             | 22,501                           | 11,499,968      |
+| Capital increase                                               | 1,300,000        | 10,177,467         |                   |                                      | 11,477,467                                             |                                  | 11,477,467      |
+| Effects from changes in the scope<br>of consolidation          |                  |                    |                   |                                      |                                                        | 22,501                           | 22,501          |
+| Carrying amount as of March 31, 2024                           | 14,300,000       | 127,686,238        | -45,926,130       | -5,939,433                           | 90,120,675                                             | -6,697,811                       | 83,422,864      |
+
+Details of equity are presented in note 22 and details of interests in subsidiaries in note 29.
+
+{35}------------------------------------------------
+
+## Consolidated cash flow statement.
+
+| in EUR                                                                                                                     | Note | 2022/23<br>(adjusted) | 2023/24      |
+|----------------------------------------------------------------------------------------------------------------------------|------|-----------------------|--------------|
+| Operating result1)                                                                                                         |      | 5,244,677             | 70,257,796   |
+| Scheduled depreciation and amortization                                                                                    | 8    | 21,821,058            | 18,255,153   |
+| Impairment charge and reversals                                                                                            | 8    | 0                     | 21,166       |
+| Change in obligations for post-employment benefits                                                                         |      | -1,781,004            | -1,546,766   |
+| Change in non-current receivables, non-current contract assets and other non-current assets                                |      | -19,547               | 1,955,092    |
+| Change in non-current trade payables, non-current contract liabilities and other non-current liabilities<br>and provisions |      | -1,007,996            | 6,179,293    |
+| Net payments of income taxes                                                                                               |      | -6,157,726            | -8,766,313   |
+| Interest received                                                                                                          |      | 2,133,579             | 1,971,198    |
+| Other (net)1)2)                                                                                                            |      | -8,847,265            | -21,361,078  |
+| Cash flow from earnings3)                                                                                                  |      | 11,385,776            | 66,965,541   |
+| Change in net working capital:                                                                                             |      |                       |              |
+| Change in trade receivables, current contract assets and other current assets                                              |      | 11,799,790            | -16,766,233  |
+| Change in inventories                                                                                                      |      | -10,348,799           | -2,708,186   |
+| Change in trade payables, current contract liabilities and other current payables                                          |      | -504,556              | 10,571,046   |
+| Change in current provisions                                                                                               |      | -9,595,975            | 3,827,515    |
+| Change in net working capital                                                                                              |      | -8,649,540            | -5,075,858   |
+| Cash flow from operating activities3)                                                                                      |      | 2,736,236             | 61,889,683   |
+| Purchase of property, plant and equipment                                                                                  | 12   | -3,610,189            | -5,740,577   |
+| Purchase of intangible assets                                                                                              | 13   | -617,164              | -272,338     |
+| Purchase of securities, investments and other non-current financial assets                                                 |      | -4,558,582            | -2,457,690   |
+| Payments for the acquisition of entities (less cash and cash equivalents of these entities)                                |      | 0                     | 27,550       |
+| Payments for the acquisition of shares in at-equity-consolidated entities                                                  |      | 0                     | -549,531     |
+| Proceeds from the disposal of shares in subsidiaries                                                                       |      | 6,614,659             | 20,600       |
+| Proceeds from the disposal of property, plant and equipment                                                                |      | 750,093               | 1,152,329    |
+| Proceeds from the disposal of intangible assets                                                                            |      | 206,733               | 0            |
+| Proceeds from the disposal of securities and other financial assets                                                        |      | 1,016,745             | 21,600,547   |
+| Dividends from companies consolidated at-equity                                                                            |      | 0                     | 30,000,000   |
+| Cash flow from investing activities                                                                                        |      | -197,705              | 43,780,889   |
+| Free cash flow3)4)                                                                                                         |      | 2,538,531             | 105,670,572  |
+| Contributions from shareholders in subsidiaries                                                                            |      | 0                     | 4,072,420    |
+| Dividends paid to non-controlling interests                                                                                |      | -250,956              | 0            |
+| Increase in non-current financial liabilities                                                                              | 23   | 6,600,000             | 880,000      |
+| Increase in current financial liabilities                                                                                  | 23   | 21,653,632            | 27,428,560   |
+| Decrease in current financial liabilities                                                                                  | 23   | -18,374,248           | -105,504,444 |
+| Lease payments                                                                                                             | 24   | -14,174,016           | -11,791,475  |
+| Interest paid3)                                                                                                            |      | -8,579,315            | -26,692,646  |
+| Cash flow from financing activities3)                                                                                      |      | -13,124,903           | -111,607,585 |
+| Cash and cash equivalents at beginning of year                                                                             |      | 59,751,049            | 45,227,819   |
+| Changes in cash and cash equivalents5)                                                                                     |      | -10,586,372           | -5,937,012   |
+| Exchange gains/losses                                                                                                      |      | -3,936,858            | -2,985,719   |
+| Assets held for sale                                                                                                       | 34.1 | 0                     | -2,928,730   |
+| Cash and cash equivalents at end of year                                                                                   |      | 45,227,819            | 33,376,358   |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+2) In the 2023/24 financial year, this mainly includes the result from the joint venture autoTicket GmbH, Germany, of EUR 15,498k.
+
+3) From the 2023/24 financial year, the presentation of interest paid was included in the cash flow from financing activities, as the interest paid does
+
+not result directly from the cash flow from operating activities. The previous year's figures have been adjusted accordingly. 4) Cash flow from operating activities + cash flow from investing activities
+
+5) Free cash flow + cash flow from financing activities
+
+{36}------------------------------------------------
+
+# *Notes to the Consolidated Financial Statements.*
+
+## *Table of contents.*
+
+| General information                                                                                       | 35 |
+|-----------------------------------------------------------------------------------------------------------|----|
+| 1- General Information                                                                                    | 35 |
+| Consolidated statement of comprehensive income                                                            |    |
+| 2- Segment Information                                                                                    | 37 |
+| 3- Other operating income                                                                                 | 38 |
+| 4- Changes in finished and unfinished goods<br>and work in progress                                       | 39 |
+| 5- Cost of materials and other production services                                                        | 39 |
+| 6- Personnel expenses                                                                                     | 39 |
+| 7- Other operating expenses                                                                               | 40 |
+| 8- Expenses for amortization, depreciation and impairment                                                 | 40 |
+| 9- Financial result                                                                                       | 41 |
+| 10- Income taxes                                                                                          | 42 |
+| 11- Other comprehensive income                                                                            | 43 |
+| Consolidated balance sheet                                                                                |    |
+| 12- Property, plant and equipment                                                                         | 43 |
+| 13- Intangible Assets                                                                                     | 44 |
+| 14- Interests in associates and joint ventures                                                            | 49 |
+| 15- Financial instruments                                                                                 | 52 |
+| 16- Other non-current assets                                                                              | 54 |
+| 17- Deferred tax assets/liabilities                                                                       | 54 |
+| 18- Inventories                                                                                           | 55 |
+| 19- Trade receivables and other current assets                                                            | 56 |
+| 20- Contract assets and contract liabilities                                                              | 57 |
+| 21- Cash and cash equivalents                                                                             | 57 |
+| 22- Equity                                                                                                | 58 |
+| 23- Current and non-current financial liabilities                                                         | 59 |
+| 24- Lease liabilities                                                                                     | 62 |
+| 25- Liabilities from post-employment benefits to employees                                                | 63 |
+| 26- Provisions                                                                                            | 66 |
+| 27- Other liabilities and deferred income                                                                 | 68 |
+| 28- Contingent liabilities and other commitments as well as<br>disclosure to German infrastructure charge | 68 |
+| Others                                                                                                    | 69 |
+| 29- Interests in subsidiaries                                                                             | 69 |
+| 30- Non-controlling interests                                                                             | 72 |
+| 31- Related parties                                                                                       | 75 |
+| 32- Risk management                                                                                       | 78 |
+| 33- Capital management                                                                                    | 80 |
+| 34- Accounting and valuation principles                                                                   | 81 |
+| 35- Earnings per share                                                                                    | 99 |
+
+36– Events after the reporting period 99 37– Supplementary disclosures 100
+
+{37}------------------------------------------------
+
+## 1 General information.
+
+Kapsch TrafficCom is a global supplier of superior technologies, solutions and services of the ITS market (Intelligent Transportation Systems). Intelligent Transportation Systems support and optimize the traffic. They use therefore information and communication solutions.
+
+Kapsch TrafficCom operates in two segments: Tolling and Traffic Management.
+
+## Tolling.
+
+This segment comprises activities relating to the implementation and the technical and commercial operation of toll collection systems. Projects are generally awarded by public agencies or private concessionaires in the context of tender procedures. Toll collection systems may comprise both individual road sections and nation-wide road networks. The manufacture and procurement of components both for the expansion and adaptation of the systems installed by Kapsch TrafficCom and on behalf of third parties complete the portfolio of Kapsch TrafficCom; toll services for business customers and private customers further complete it.
+
+## Traffic Management.
+
+This segment primarily comprises activities relating to the implementation and operation of systems and solutions for controlling traffic and mobility behavior, as well as the relating components business. The strategic focus is on the areas of traffic optimization, decision intelligence (analysis, simulation and prediction of traffic) and the operation of mobility platforms and services. One basis for this is the use of increasing amounts of data for analysis, simulation and intelligent control of traffic flows and mobility behavior. Customers in the traffic management segment are mainly public authorities but also private companies.
+
+## 1.1 Group structure and consolidated group.
+
+The parent company (reporting entity) of this group is Kapsch TrafficCom AG. The company is a joint stock corporation incorporated and domiciled in, Am Europlatz 2, 1120 Vienna, Austria.
+
+As of March 31, 2024 KAPSCH-Group Beteiligungs GmbH, Vienna, held a share of 63.3% in Kapsch TrafficCom AG. KAPSCH-Group Beteiligungs GmbH is a 100%-subsidiary of DATAX HandelsgmbH, Vienna, which is the controlling entity of Kapsch TrafficCom AG and the ultimate parent of Kapsch Group. The shares of Kapsch TrafficCom AG are listed in the Prime Market segment of the Vienna Stock Exchange since June 26, 2007.
+
+The consolidated group as well as changes in the scope of consolidation are included in note 29.
+
+## 1.2 Basis of Preparation.
+
+Pursuant to Section 245a Austrian Commercial Code (UGB), the consolidated financial statements as of March 31, 2024 have been prepared in accordance with International Financial Reporting Standards (IFRS) as well as the International Financial Reporting Standards Interpretations Committee (IFRS IC) as adopted by the European Union (EU).
+
+For ease of presentation, amounts have been rounded and, unless indicated otherwise, are presented in thousands of Euros (EUR k). However, calculations are done using exact amounts, including the digits not shown, which may lead to rounding differences.
+
+## 1.3 Accounting and valuation principles.
+
+The consolidated financial statements as of March 31, 2024 are prepared under the historical cost concept, with the exception of financial instruments measured at fair value in accordance with IFRS 9. The measurement was made accordingly at the balance sheet date. Pertinent explanations can be found within the scope of the corresponding accounting policies. The accounting and valuation principles, which form the basis for these consolidated financial statements, were applied unchanged to the previous period and supplemented by new mandatory guidelines applicable from the financial year. Note 34 provides a detailed description of all accounting and valuation principles, including new accounting and valuation principles to be applied.
+
+{38}------------------------------------------------
+
+## 1.4 Material accounting estimates and assumptions.
+
+The preparation of the consolidated financial statements in conformity with IFRS requires the use of estimates and assumptions regarding future developments. These influence the amount and presentation of assets and liabilities reported at the balance sheet date as well as income and expenses recorded during the reporting period. Estimates are made by the Executive Board to the best of their knowledge. Nevertheless, the actual values may differ from these estimates. All estimates and judgments are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances. The resulting accounting estimates will generally differ from actual results.
+
+In particular, estimates and assumptions regarding the following areas have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year:
+
+## 1.4.1 Revenue recognition for contract work.
+
+The Group applies the rules of IFRS 15. Revenue for implementation projects, that fulfill the criteria of IFRS 15.35 for revenue recognition over time, is recognized in accordance with the corresponding stage of completion, with an expected profit margin already being assumed. The stage of completion is determined by an input orientated method using the ratio between the costs already incurred and the expected total costs of the corresponding contract. This requires to continuously estimate and update the planned costs arising from the contract as well as the risks arising from project management. This may result from technical difficulties, delays in the schedule or difficulties with sub-suppliers or other external general conditions, and which influence the profit margin of the project. Furthermore, these projects may also lead to damages or penalties that are to be considered during the project evaluation and which require an assessment of risks. For most contracts, contract revenue is defined and includes fixed elements and partly variable elements that are assessed by probability as to their amounts and timing. Large-scale orders of the Group are usually technically complex individual orders based on specific terms and conditions which therefore are to be critically assessed with regard to revenue recognition and project risks on an individual basis. Details to the revenue recognition are included in note 34.3 and sensitivity analysis is included in note 20.
+
+## 1.4.2 Estimated impairment of goodwill.
+
+In accordance with the accounting policy stated in note 13 and 34, the Group tests annually whether goodwill has suffered any impairment. The recoverable amount of cash generating units is determined on the basis of the calculation of the value in use. Therefore assumptions must be made and used as a basis for this. Sensitivities for the acquired goodwill are detailed in note 13.
+
+## 1.4.3 Recognition of deferred tax assets.
+
+The Group reviews the recognition of deferred tax assets at least on an annual basis. These deferred tax assets are recognized to the extent that it is probable that future taxable profits will be available to offset the temporary differences. Deferred taxes on loss carryforwards are recognized to the extent that it is probable that future taxable profits will be available and, in particular in the case of a history of losses, there is convincing substantial evidence that sufficient taxable profit will be available in the future to utilize these loss carryforwards. Assumptions must be made and used as a basis for this. The sensitivities are listed in note 17.
+
+## 1.4.4 Other estimates and assumptions.
+
+Further areas where assumptions and estimates are significant to the consolidated financial statements include impairment of inventories, assumption of useful lives for intangible assets and property, plant and equipment, assumptions and interest rates related to liabilities from post-employment benefits to employees, assumptions and interest rates related to leasing contracts, as well as provisions for warranties and losses for onerous contracts. Sensitivity analyses of the assumptions made by the Group are included in the respective notes.
+
+{39}------------------------------------------------
+
+## 2 Segment information.
+
+## Operating segments.
+
+An operating segment is a component of an entity that engages in business activities from which it may earn revenues and incur expenses. The operating results of the segments are regularly reported to the Executive Board (chief operating decision maker). Resource allocation decisions are reviewed based on these segments. The Executive Board has identified two reportable segments (as described in note 1 and 34.4):
+
+## ■ Tolling
+
+■ Traffic Management
+
+The segment results, as well as capital expenditure, depreciation and impairment and other non-cash-effective positions for the reporting period and the previous financial year are as follows:
+
+|                                                                 | 2022/23        |                            |                | 2023/24        |                            |                |
+|-----------------------------------------------------------------|----------------|----------------------------|----------------|----------------|----------------------------|----------------|
+|                                                                 | Tolling        | Traffic<br>Manage-<br>ment | Total          | Tolling        | Traffic<br>Manage-<br>ment | Total          |
+| Invoiced sales                                                  | 394,811        | 154,934                    | 549,745        | 396,491        | 161,339                    | 557,831        |
+| Accrued sales                                                   | 8,570          | -4,900                     | 3,670          | -18,190        | -798                       | -18,989        |
+| <b>Revenues</b>                                                 | <b>403,380</b> | <b>150,035</b>             | <b>553,415</b> | <b>378,301</b> | <b>160,541</b>             | <b>538,842</b> |
+| Implementation                                                  | 119,389        | 44,620                     | 164,009        | 96,681         | 55,870                     | 152,551        |
+| Operations                                                      | 202,486        | 99,789                     | 302,274        | 207,730        | 93,210                     | 300,940        |
+| Components                                                      | 81,506         | 5,626                      | 87,132         | 73,890         | 11,461                     | 85,351         |
+| Operating result1)                                              | -9,331         | 14,576                     | 5,245          | 54,328         | 15,930                     | 70,258         |
+| EBIT margin1)                                                   | -2.3%          | 9.7%                       | 0.9%           | 14.4%          | 9.9%                       | 13.0%          |
+| Capital expenditure2)                                           | 20,015         | 6,458                      | 26,473         | 8,013          | 5,222                      | 13,235         |
+| Depreciation and impairment                                     | 16,584         | 5,237                      | 21,821         | 13,934         | 4,342                      | 18,276         |
+| Other non-cash-effective positions                              | 4,420          | -1,280                     | 3,140          | -10,457        | 781                        | -9,676         |
+| Share of operating result from associates<br>and joint ventures | -1,479         | -201                       | -1,681         | 15,418         | 0                          | 15,418         |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+2) Capital expenditure includes also capital expenditure for right-of-use assets from leases (see note 12 and 13).
+
+The business types implementation, operations and components also correspond to performance obligations pursuant to IFRS 15.
+
+The segment assets and liabilities on the balance sheet date are as follows:
+
+|                                            | March 31, 2023 |                       |         | March 31, 2024 |                       |         |
+|--------------------------------------------|----------------|-----------------------|---------|----------------|-----------------------|---------|
+|                                            | Tolling        | Traffic<br>Management | Total   | Tolling        | Traffic<br>Management | Total   |
+| Segment assets                             | 228,859        | 90,664                | 319,523 | 218,517        | 110,242               | 328,758 |
+| Interests in associates and joint ventures | 24,736         | 0                     | 24,736  | 3,592          | 0                     | 3,592   |
+| Segment liabilities                        | 153,460        | 84,067                | 237,527 | 158,117        | 94,308                | 252,424 |
+
+The segment assets include property, plant and equipment, intangible assets, other non-current assets, non-current and current contract assets, non-current and current lease receivables, inventories, trade receivables and other current assets as well as current tax receivables. The assets and liabilities classified as held for sale are fully allocated to the "Traffic Management" segment and are included in the segment assets and liabilities.
+
+The segment liabilities include liabilities from post-employment benefits to employees, non-current provisions, other non-current liabilities, non-current and current contract liabilities, non-current and current lease liabilities, trade payables, other liabilities and deferred income, current tax payables as well as current provisions.
+
+{40}------------------------------------------------
+
+In the 2023/24 financial year there was one customer who contributed more than 10% to the revenues of the Group with EUR 54,104 k (Tolling segment). This customer was also above the 10% threshold in the previous year.
+
+## Information by region.
+
+In addition to the reportable segments, the revenues and non-current non-financial assets (property, plant and equipment and intangible assets) are presented by geographical segment. Revenues are segmented by the location of the customer and balance sheet figures by the location of the company. The figures for the reporting period and the previous financial year are as follows:
+
+|                            |         | Revenues | Non-current non-financial assets |                |
+|----------------------------|---------|----------|----------------------------------|----------------|
+|                            | 2022/23 | 2023/24  | March 31, 2023                   | March 31, 2024 |
+| Austria                    | 15,677  | 13,053   | 30,874                           | 26,540         |
+| EMEA (excluding Austria)1) | 257,260 | 265,664  | 7,098                            | 7,023          |
+| Americas2)                 | 248,969 | 232,423  | 37,613                           | 32,024         |
+| APAC3)                     | 31,509  | 27,703   | 8,300                            | 8,248          |
+| Total                      | 553,415 | 538,842  | 83,886                           | 73,835         |
+
+1) EMEA: Europe, Middle East, Africa
+
+2) Americas: North, Central and South America
+
+3) APAC: Asia-Pacific
+
+## 3 Other operation income.
+
+|                                                    | 2022/23<br>(adjusted) | 2023/24 |
+|----------------------------------------------------|-----------------------|---------|
+| Settlement on infrastructure charge Germany        | 0                     | 66,291  |
+| Exchange rate gains from operating activities      | 10,611                | 10,218  |
+| Income from research tax credits                   | 1,304                 | 2,092   |
+| Income from insurance refunds                      | 164                   | 1,333   |
+| Income from subsidies related to COVID-19-pandemic | 861                   | 259     |
+| Income from the sale of non-current assets         | 497                   | 71      |
+| Operative gains from derivatives1)                 | 0                     | 0       |
+| Income from sale of subsidiaries                   | 5,976                 | 0       |
+| Sundry operating income                            | 646                   | 1,029   |
+| Total1)                                            | 20,058                | 81,293  |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+At the beginning of July 2023, the arbitration proceedings conducted due to the termination of the operations contract for the collection of the infrastructure charge, the passenger car toll in Germany, were concluded with a settlement agreement. Accordingly, autoTicket GmbH, a joint venture between Kapsch TrafficCom and CTS EVEN-TIM, received an amount of EUR 243 million from the Federal Republic of Germany. An amount of EUR 66.3 million is recognized in other operating income.
+
+Operating foreign exchange gains mainly related to exchange rate fluctuations from the Argentine Peso and the Canadian Dollar against the US Dollar and the Euro.
+
+Income from the sale of subsidiaries in the previous financial year refers mainly to the sale of Arce Mobility Solutions, S.A.
+
+In connection with the restructuring of financing, Kapsch TrafficCom standardized the reporting of gains and losses from derivatives designated to hedge foreign currency risk and interest rate risk and has reported all effects from these hedging instruments in the financial result since the 2023/24 financial year. The "Operative gains from derivatives" in the amount of EUR 2,352 k, reported under other operating income in the previous year, were reclassified retrospectively to the financial result. Further details can be found in note 9 on financial result.
+
+{41}------------------------------------------------
+
+Income from subsidies related to COVID-19 pandemic refers to premiums and support due to the COVID-19 pandemic including public sector grants from short-time work or compensation of personnel expenses. The majority of the compensation was granted in the USA.
+
+Sundry operating income includes several recharges and deferrals.
+
+## 4 Changes in finished and unfinished goods and work in progress.
+
+|                                                 | 2022/23 | 2023/24 |
+|-------------------------------------------------|---------|---------|
+| Change in unfinished goods and work in progress | 1,095   | 595     |
+| Change in finished goods                        | 868     | 725     |
+| Total                                           | 1,962   | 1,320   |
+
+Details on inventories can be found in note 18.
+
+## 5 Cost of materials and other production services.
+
+|                            | 2022/23  | 2023/24  |
+|----------------------------|----------|----------|
+| Cost of materials          | -85,105  | -103,155 |
+| Cost of purchased services | -137,448 | -129,569 |
+| Total                      | -222,552 | -232,724 |
+
+Cost of materials increased by EUR 18,051 k, mainly due to the initiation of new projects. Cost of purchased services decreased by EUR 7,879 k, that originated primarily from the USA.
+
+## 6 Personnel expenses.
+
+|                                                                          | 2022/23  | 2023/24  |
+|--------------------------------------------------------------------------|----------|----------|
+| Wages, salaries, and other remunerations                                 | -203,201 | -200,099 |
+| Expenses for social security and payroll-related taxes and contributions | -29,693  | -29,293  |
+| Expenses for termination benefits (see note 25)                          | -192     | -629     |
+| Expenses for pensions (see note 25)                                      | -3       | -17      |
+| Contributions to pension funds and other external funds                  | -3,802   | -3,195   |
+| Restructuring costs related to personnel                                 | 128      | 24       |
+| Fringe benefits                                                          | -11,171  | -9,185   |
+| Total                                                                    | -247,934 | -242,394 |
+
+As of March 31, 2024, the number of staff amounted to 4,054 employees (March 31, 2023: 4,039) and averaged 4,040 employees in the financial year 2023/24 (2022/23: 4,063).
+
+Personnel expenses decreased by EUR 5,540 k in financial year 2023/24 due to favorable currency developments and partly lower inflation-related salary indexing in several countries.
+
+Fringe benefits mainly refer to voluntary social benefits in the USA.
+
+{42}------------------------------------------------
+
+## 7 Other operating expenses.
+
+|                                                | 2022/23 | 2023/24 |
+|------------------------------------------------|---------|---------|
+| Legal and consulting fees                      | -12,368 | -15,130 |
+| Communication and IT expenses                  | -12,101 | -15,069 |
+| Exchange rate losses from operating activities | -7,723  | -7,889  |
+| Travel expenses                                | -6,097  | -7,157  |
+| Maintenance                                    | -6,674  | -5,369  |
+| Rental and other building expenses             | -4,122  | -4,656  |
+| License and patent expenses                    | -3,617  | -4,420  |
+| Automobile expenses                            | -4,565  | -4,356  |
+| Taxes and charges                              | -2,589  | -3,535  |
+| Insurance costs                                | -2,964  | -3,369  |
+| Marketing and advertising expenses             | -3,630  | -2,989  |
+| Bank charges                                   | -1,124  | -2,241  |
+| Office expenses                                | -2,236  | -2,033  |
+| Training costs                                 | -942    | -1,328  |
+| Allowances on trade and other receivables      | -2,927  | -1,146  |
+| Transport costs                                | -715    | -770    |
+| Losses from deconsolidation of entities        | 0       | -479    |
+| Warranties and guarantees                      | -11     | -394    |
+| Damages                                        | -1,657  | -89     |
+| Restructuring costs                            | -2      | 0       |
+| Reversal of allowance on receivable            | 0       | 10,149  |
+| Other                                          | -138    | -950    |
+| Total                                          | -76,203 | -73,221 |
+
+The operational foreign exchange losses amounted to EUR -7,889 k, remaining at the same level as the previous financial year (EUR -7,723 k). These losses are primarily attributable to exchange rate fluctuations of the Argentine peso, the Chilean peso, and the South African rand against the euro and the US dollar.
+
+Communication and IT expenses rose by EUR 2,968 k compared to the previous financial year, with significant increases in the USA and Austria. Legal and consulting costs increased by EUR 2,762 k, primarily due to attorney fees associated with the restructuring agreement.
+
+The losses from deconsolidation of companies primarily resulted from the liquidation of Streetline Inc., based in Foster City, USA.
+
+Following an agreement with a customer regarding overdue receivables, the impairment allowance for these receivables, amounting to EUR 10.1 million, was reversed. The agreement included an instalment payment plan of EUR 4.5 million and a credit note for the receivables totalling EUR 5.6 million, which was also recognized in revenue.
+
+## 8 Expenses for amortization, depreciation and impairment.
+
+|                                               | 2022/23 | 2023/24 |
+|-----------------------------------------------|---------|---------|
+| Depreciation of property, plant and equipment | -17,330 | -14,064 |
+| Amortization of intangible assets             | -4,491  | -4,191  |
+| Impairment on intangible assets               | 0       | -21     |
+| Total                                         | -21,821 | -18,276 |
+
+Depreciation of property, plant and equipment also includes depreciation of right-of-use assets from leases (EUR 10,057 k). Details can be found in note 12. The decrease in depreciation of property, plant, and equipment mainly involves depreciation on right-of-use assets from building leases. This is primarily due to an office building lease in the USA that was terminated early in the 2022/23 financial year.
+
+{43}------------------------------------------------
+
+## 9 Financial result.
+
+|                                                                                               | 2022/23<br>(adjusted) | 2023/24        |
+|-----------------------------------------------------------------------------------------------|-----------------------|----------------|
+| Interest income                                                                               | 2,087                 | 1,838          |
+| Interest income from leases                                                                   | 11                    | 14             |
+| Income from securities, recognized at fair value through profit or loss                       | 36                    | 118            |
+| Income from investments, recognized at fair value through profit or loss                      | 436                   | 153            |
+| Income from accrued interest of non-current receivables                                       | 0                     | 156            |
+| Gains from derivative financial instruments1)                                                 | 2,352                 | 1,206          |
+| Income from hyperinflation adjustment2)                                                       | 0                     | -0             |
+| Exchange rate gains from financing activities                                                 | 2,514                 | 2,907          |
+| <b>Finance income1)2)</b>                                                                     | <b>7,437</b>          | <b>6,393</b>   |
+| Interest expense                                                                              | -7,131                | -23,951        |
+| Interest expenses from leases                                                                 | -1,493                | -1,477         |
+| Expense from investments, recognized at fair value through profit or loss                     | -21                   | -11            |
+| Expense from interest accretion of non-current liabilities                                    | -11                   | -452           |
+| Losses from financial instruments                                                             | -31                   | -1,804         |
+| Expense from hyperinflation adjustment2)                                                      | -5,109                | -7,007         |
+| Exchange rate losses from financing activities                                                | -4,717                | -3,402         |
+| Interest expense from liabilities from post-employment benefits<br>to employees (see note 25) | -260                  | -710           |
+| Interest expense from liabilities from anniversary bonuses<br>to employees (see note 25)      | -15                   | -51            |
+| Expense from the disposal of financial assets                                                 | -167                  | -24            |
+| Impairment of financial assets                                                                | -2,350                | 0              |
+| Reverse of impairment of financial assets                                                     | 0                     | 2,350          |
+| <b>Finance cost2)</b>                                                                         | <b>-21,305</b>        | <b>-36,539</b> |
+| <b>Financial result1)</b>                                                                     | <b>-13,869</b>        | <b>-30,146</b> |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year.
+
+2) Adjustment previous year: netting of income from hyperinflation adjustment and expense from hyperinflation adjustment.
+
+In the previous financial year, the interest expense totalled EUR -23,951 k, mainly attributed to the financing restructuring agreement reached in May 2023, which markedly exceeded the previous year's figures. A return to a market-standard interest rate is anticipated for the upcoming financial years.
+
+Argentina is classified as a hyperinflationary economy. The gains and losses from hyperinflation adjustments are reflected in the financial results. Since the gains and losses were not offset in the previous year but were offset in the 2023/24 financial year under hyperinflation expenses, a netting of the previous year's gain from hyperinflation amounting to EUR 825 k with hyperinflation expenses (hyperinflation expenses 2022/23 pre-adjustment: EUR -5,935 k) was conducted.
+
+Foreign exchange gains and losses primarily arose from fluctuations in foreign currencies related to intercompany financing. These notably affected subsidiaries in Zambia (Zambian Kwacha against South African Rand) and Argentina (Argentinian Peso against US Dollar).
+
+The Group employs derivative financial instruments to hedge or minimize both interest rate and currency risks. While the Profit and Loss effects from interest rate hedging were already disclosed in the financial results, hedging related to currency risk was previously shown in operational activities due to the global business operations involving various currencies with countries and business partners.
+
+Following an analysis with a clear distinction between operational and financial effects in the 2023/24 financial year resulting from modifications in financing restructuring, the (positive) hedge effects concerning foreign exchange risk (primarily from hedging an intercompany loan from an EUR to a USD company) are now retrospectively reported in the financial results. The "Operational gains from derivative contracts" previously shown in other operating income for the previous year from derivative contracts amounting to EUR 2,352 k were accordingly reclassified into financial income for the previous year.
+
+{44}------------------------------------------------
+
+As a result of adjustments to prior year figures regarding gains from derivative financial instruments, the following previous year positions changed as follows (first value corresponds to value before adjustment): EBIT from EUR 7,597 k to EUR 5,245 k, EBIT margin from 1.4% to 0.9%, EBIT for toll segment from EUR -7,617 k to EUR -9,331 k, toll segment EBIT margin from -1.9% to -2.3%, EBIT for traffic management segment from EUR 15,213 k to EUR 14,576 k, traffic management segment EBIT margin from 10.1% to 9.7%, EBITDA from EUR 29,418 k to EUR 27,066 k, EBITDA margin from 5.3 % to 4.9 %, financial income from EUR 5,910 k to EUR 7,437 k (including reclassification for the offsetting of hyperinflation results amounting to EUR -825 k), financial result from EUR -16,221 k to EUR -13,869 k, cash flow from result - other adjustments position from EUR -11,199 k to EUR -8,847 k, net debt to EBITDA from 6.33 to 6.88.
+
+## 10 Income taxes.
+
+|                                            | 2022/23 | 2023/24 |
+|--------------------------------------------|---------|---------|
+| Current income taxes                       | -6,311  | -11,888 |
+| Changes in deferred taxes                  | -8,039  | -2,724  |
+| Total                                      | -14,350 | -14,611 |
+| thereof income/expense from group taxation | -26     | 0       |
+
+The reasons for the difference between the arithmetic tax expense/income based on the Austrian corporate income tax rate1) of 23% (previous year: 23%) and the recognized tax expense/income are as follows:
+
+|                                                                              | 2022/23 | 2023/24 |
+|------------------------------------------------------------------------------|---------|---------|
+| Result before income taxes                                                   | -9,890  | 36,876  |
+| Arithmetic tax expense/income                                                | 2,275   | -8,481  |
+| Effects of different tax rates in the Group                                  | -566    | -1,029  |
+| Unrecognized deferred tax assets on current tax losses and                   |         |         |
+| impairment of previously recognized tax losses                               | -10,524 | -4,853  |
+| Recognition of deferred tax assets for unrecognized previous-year tax losses | 0       | 4,518   |
+| Change of tax rate                                                           | -2,073  | 0       |
+| Tax allowances claimed and other permanent tax differences                   | 4,341   | -12,130 |
+| Income and expenses not subject to tax and other differences                 | -6,156  | 7,216   |
+| Tax effects from previous periods                                            | -1,648  | 147     |
+| Recognized tax expense/income                                                | -14,350 | -14,611 |
+
+Unrecognized deferred tax assets for current losses and write-downs of previously recognized losses mainly relate to unrecognized losses in the USA and Brazil. Based on planning for the coming years, these losses are unlikely to be fully utilized. In the financial year 2023/24, deferred tax assets for previously unrecognized losses were primarily related to loss carryforwards in Austria.
+
+The tax effects concerning prior periods include adjustments to previous years' values due to tax audits and modifications made during the preparation of tax returns.
+
+For further information on deferred tax assets and liabilities, see note 17.
+
+<sup>1)</sup> On January 20, 2022, the National Council passed the eco-social tax reform. Among other things, this provides for a gradual reduction in the corporation tax rate from 25% to 23% (2023: 24%, 2024: 23%). For annual financial statements and consolidated financial statements with a reporting date after January 20, 2022, the theoretical tax expense and deferred income tax assets and liabilities are calculated using the new tax rates. The tax rate to be used is the rate that is likely to be applied when the temporary difference underlying the deferred tax is realized (reversed). As there were no significant realizations of deferred taxes in the 2023/24 financial year, the corporate income tax rate of 23% applicable from 2024 was used for the calculation - in line with the consolidated financial statements as at March 31, 2023.
+
+{45}------------------------------------------------
+
+## 11 Other comprehensive income.
+
+|                                                                              | 2022/23       |                     |               | 2023/24       |                     |               |
+|------------------------------------------------------------------------------|---------------|---------------------|---------------|---------------|---------------------|---------------|
+|                                                                              | Before taxes  | Tax expense/ income | After taxes   | Before taxes  | Tax expense/ income | After taxes   |
+| Remeasurements of liabilities from post-employment benefits                  | 2,076         | -410                | 1,666         | -1,346        | 305                 | -1,041        |
+| Currency translation differences                                             | -4,400        | 0                   | -4,400        | -715          | 0                   | -715          |
+| Currency translation differences from net investments in a foreign operation | 818           | -188                | 630           | 141           | -33                 | 109           |
+| <b>Fair value changes recognized in equity</b>                               | <b>-1,506</b> | <b>-598</b>         | <b>-2,104</b> | <b>-1,919</b> | <b>272</b>          | <b>-1,647</b> |
+
+The USD loans granted by Kapsch TrafficCom AG to a subsidiary in the USA were classified as net investments in a foreign operation in accordance with IAS 21, as the Executive Board of Kapsch TrafficCom AG does not plan to repay these loans in the foreseeable future and repayment is not probable. Exchange differences arising from these loans are recognized in other comprehensive income.
+
+## 12 Property, plant and equipment.
+
+|                                  | Land and<br>buildings | Right-of-<br>use from<br>leases of<br>buildings | Technical<br>equip-<br>ment and<br>machinery | Const-<br>ruction in<br>progress | Other<br>equipment,<br>factory<br>and office<br>equipment | Right-of-<br>use from<br>other<br>leases | Total    |
+|----------------------------------|-----------------------|-------------------------------------------------|----------------------------------------------|----------------------------------|-----------------------------------------------------------|------------------------------------------|----------|
+| Carrying amount as of            |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| March 31, 2023                   | 1,564                 | 39,089                                          | 2,589                                        | 947                              | 5,381                                                     | 2,559                                    | 52,130   |
+| Currency translation differences | -8                    | -277                                            | -6                                           | -15                              | -159                                                      | -279                                     | -744     |
+| Reclassification                 | 0                     | 0                                               | 1,041                                        | -1,050                           | 9                                                         | 0                                        | 0        |
+| Additions                        | 533                   | 5,821                                           | 1,266                                        | 2,124                            | 1,818                                                     | 1,379                                    | 12,941   |
+| Disposals                        | 0                     | -1,304                                          | -229                                         | -695                             | -193                                                      | -289                                     | -2,710   |
+| Scheduled amortization           | -727                  | -8,495                                          | -1,468                                       | 0                                | -1,813                                                    | -1,562                                   | -14,064  |
+| Assets held for sale             | -19                   | 0                                               | -242                                         | -915                             | -417                                                      | 0                                        | -1,594   |
+| Carrying amount as of            |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| March 31, 2024                   | 1,344                 | 34,835                                          | 2,951                                        | 395                              | 4,627                                                     | 1,808                                    | 45,960   |
+| Acquisition/production costs     | 12,017                | 74,846                                          | 38,689                                       | 395                              | 26,573                                                    | 4,145                                    | 156,665  |
+| Accumulated depreciation         | -10,673               | -40,011                                         | -35,738                                      | 0                                | -21,946                                                   | -2,337                                   | -110,706 |
+| Carrying amount as of            |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| March 31, 2024                   | 1,344                 | 34,835                                          | 2,951                                        | 395                              | 4,627                                                     | 1,808                                    | 45,960   |
+
+{46}------------------------------------------------
+
+|                                  | Land and<br>buildings | Right-of-<br>use from<br>leases of<br>buildings | Technical<br>equip-<br>ment and<br>machinery | Const-<br>ruction in<br>progress | Other<br>equipment,<br>factory<br>and office<br>equipment | Right-of-<br>use from<br>other<br>leases | Total    |
+|----------------------------------|-----------------------|-------------------------------------------------|----------------------------------------------|----------------------------------|-----------------------------------------------------------|------------------------------------------|----------|
+| Carrying amount as of            |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| March 31, 2022                   | 2,363                 | 34,177                                          | 4,195                                        | 539                              | 5,320                                                     | 2,400                                    | 48,993   |
+| Currency translation differences | -8                    | 92                                              | -122                                         | -38                              | -166                                                      | -96                                      | -337     |
+| Reclassification                 | 0                     | 0                                               | 48                                           | -230                             | 182                                                       | -0                                       | -0       |
+| Disposals relating to sale of    |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| subsidiaries                     | 0                     | -24                                             | 0                                            | 0                                | -26                                                       | -104                                     | -154     |
+| Additions                        | 198                   | 19,958                                          | 533                                          | 865                              | 2,015                                                     | 2,288                                    | 25,856   |
+| Disposals                        | -263                  | -3,963                                          | -241                                         | -189                             | -1                                                        | -241                                     | -4,897   |
+| Scheduled amortization           | -725                  | -11,150                                         | -1,824                                       | 0                                | -1,944                                                    | -1,687                                   | -17,330  |
+| Carrying amount as of            |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| March 31, 2023                   | 1,564                 | 39,089                                          | 2,589                                        | 947                              | 5,381                                                     | 2,559                                    | 52,130   |
+|                                  |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| Acquisition/production costs     | 12,239                | 74,583                                          | 39,290                                       | 947                              | 28,869                                                    | 5,992                                    | 161,921  |
+| Accumulated depreciation         | -10,675               | -35,494                                         | -36,701                                      | 0                                | -23,487                                                   | -3,433                                   | -109,791 |
+| Carrying amount as of            |                       |                                                 |                                              |                                  |                                                           |                                          |          |
+| March 31, 2023                   | 1,564                 | 39,089                                          | 2,589                                        | 947                              | 5,381                                                     | 2,559                                    | 52,130   |
+
+Right-of-use from other leases mainly concerns leases of cars and other vehicles. Lease liabilities are presented in note 24.
+
+## 13 Intangible assets.
+
+|                                  | Capitalized<br>development<br>costs | Concessions<br>and rights | Goodwill | Intangible<br>assets in<br>completion | Total    |
+|----------------------------------|-------------------------------------|---------------------------|----------|---------------------------------------|----------|
+| Carrying amount as of            |                                     |                           |          |                                       |          |
+| March 31, 2023                   | 1,824                               | 7,095                     | 22,735   | 102                                   | 31,756   |
+| Currency translation differences | 2                                   | 28                        | 0        | 0                                     | 30       |
+| Additions                        | 0                                   | 79                        | 21       | 194                                   | 294      |
+| Scheduled amortization           | -381                                | -3,810                    | 0        | 0                                     | -4,191   |
+| Impairment                       |                                     |                           | -21      |                                       | -21      |
+| Assets held for sale             | -3                                  | 0                         | 0        | 0                                     | -3       |
+| Carrying amount as of            |                                     |                           |          |                                       |          |
+| March 31, 2024                   | 1,442                               | 3,403                     | 22,735   | 295                                   | 27,875   |
+| Acquisition/production costs     | 12,847                              | 98,742                    | 60,267   | 295                                   | 172,152  |
+| Accumulated depreciation         | -11,405                             | -95,340                   | -37,532  | 0                                     | -144,277 |
+| Carrying amount as of            |                                     |                           |          |                                       |          |
+| March 31, 2024                   | 1,442                               | 3,403                     | 22,735   | 295                                   | 27,875   |
+
+|                                         | Capitalized<br>development<br>costs | Concessions<br>and rights | Goodwill | Intangible<br>assets in<br>completion | Total    |
+|-----------------------------------------|-------------------------------------|---------------------------|----------|---------------------------------------|----------|
+| Carrying amount as of<br>March 31, 2022 | 2,192                               | 10,626                    | 22,735   | 194                                   | 35,748   |
+| Currency translation differences        | 33                                  | 56                        | -0       | 0                                     | 88       |
+| Additions                               | 0                                   | 504                       | 0        | 113                                   | 617      |
+| Disposals                               | -1                                  | -0                        | 0        | -206                                  | -207     |
+| Scheduled amortization                  | -400                                | -4,091                    | 0        | 0                                     | -4,491   |
+| Carrying amount as of<br>March 31, 2023 | 1,824                               | 7,095                     | 22,735   | 102                                   | 31,756   |
+| Acquisition/production costs            | 13,184                              | 98,976                    | 60,246   | 102                                   | 172,508  |
+| Accumulated depreciation                | -11,360                             | -91,880                   | -37,511  | 0                                     | -140,752 |
+| Carrying amount as of<br>March 31, 2023 | 1,824                               | 7,095                     | 22,735   | 102                                   | 31,756   |
+
+{47}------------------------------------------------
+
+## 13.1 Recoverability of intangible assets with finite useful lives.
+
+Intangible assets (excluding intangible assets with indefinite useful lives) are allocated to the individual companies and are tested for impairment at this level if any indications of impairment appear.
+
+As at March 31, 2024, there were neither impairments nor write-ups, as in the previous year.
+
+## 13.2 Recoverability of goodwill.
+
+Goodwill is allocated to the following six groups of cash-generating units (CGUs) and is tested for impairment at this level.
+
+|                                                  | March 31, 2023 | March 31, 2024 |
+|--------------------------------------------------|----------------|----------------|
+| CGU Tolling-Americas: Americas                   | 11,771         | 11,771         |
+| CGU Tolling-EMEA: Europe, Middle East and Africa | 0              | 0              |
+| CGU Tolling-APAC: Asia and Pacific               | 7,371          | 7,371          |
+| CGU TM-Americas: Americas                        | 3,364          | 3,364          |
+| CGU TM-EMEA: Europe, Middle East and Africa      | 0              | 0              |
+| CGU TM-APAC: Asia and Pacific                    | 230            | 230            |
+| Total Goodwill                                   | 22,735         | 22,735         |
+
+At the end of financial year 2023/24 an impairment test for each group of CGUs was carried out based on the budget for the financial year 2024/25 as well as a new mid-term plan, which also considers the effects from rightsizing measures to increase efficiency and revenues in the short and mid-term, most of which have already been implemented. Impairment test was carried out for each group of CGUs. The restructuring measures include improvements of processes, optimizations of procurement, optimizations on the sales side, improvements of project processing, focusing on and improving net working capital as well as selective personnel measures.
+
+The results of this impairment test are described below.
+
+## 13.2.1 Key assumptions for impairment testing.
+
+The following key assumptions for determining of the recoverable amount of the cash-generating units were made:
+
+|                                     | 2022/23      | 2023/24      |
+|-------------------------------------|--------------|--------------|
+| Determination of recoverable amount | Value in use | Value in use |
+| Detailed planning period            | 4 years      | 6 years      |
+| Terminal value growth rate          | 2.00%        | 2.00%        |
+| Market risk premium                 | 5.71%        | 6.08%        |
+| Risk-free rate                      | 2.29%        | 2.42%        |
+
+In the case of all cash-generating units of the Group, the market side is generally based on a project business in which the Group is commissioned to set up a tolling or traffic management system. In connection with this, longterm operation business can often be generated. In addition, system extensions (e.g. through additional routes or additional applications) and/or further ongoing component deliveries for these customers can also be provided within the framework of such long-term contracts. This characteristic of the project business is also reflected in the market planning process of the individual cash-generating units.
+
+The Group plans each customer project for each performance obligation as carefully as possible in its project planning tool. Projects, in which systems have already been set up and where there are still medium- and long-term operations business and several years of experience with customers, can be planned very reliable. In these cases, the further development and the potential for additional business can usually be planned very reliably over the entire remaining term. For new implementation projects, the uncertainties regarding technical implementation, timing and quantities are higher. In general, the closer the award dates of such implementation projects are, the more reliable planning is in this respect. Implementation projects for which the Group has already been selected as a supplier or which are even already in the implementation phase can also be planned with particular accuracy. Projects, which are unlikely to be won or executed at the time of budgeting, are not included in the budget or medium-term planning. Uncertainties, delays and deviations can never be completely ruled out in the project business, however such risks are minimized in the best possible way by professional project management and controlling. Furthermore, planning 
+
+{48}------------------------------------------------
+
+includes the sale of components that are not related to construction projects. This, too, can generally be estimated very well on the basis of many years of experience.
+
+In the CGU Tolling-Americas, there are a large number of projects and demand for tolling systems, primarily in the USA but also in Latin American countries, which are assessed according to their probability and are included in the planning accordingly. Strong demand for traffic management projects (especially road safety and traffic monitoring systems) is also expected in the CGU TM-Americas and has been included in the planning accordingly.
+
+The focus in the region EMEA is on Europe, although selected projects in Africa and the Middle East continue to be included in these CGUs. In the CGU Tolling-EMEA, demand for tolling systems remains strong, not least because of the budget constraints in many public budgets. Already won, prepared or potential implementation and operation projects, as well as their expansion, are included in the planning according to their probability. In the CGU TM-EMEA, management expects an increasing demand for traffic management systems, especially for road telematics solutions in urban areas. This is also included accordingly in the planning of this CGU.
+
+The planning for the CGU Tolling-APAC is based on finalized implementation projects, current operation projects, their extensions, tenders either in preparation or already in progress within this region. Road telematics solutions are an essential part of the planning in the CGU TM-APAC as they are in other regions. Different projects in the field of road safety and traffic monitoring systems are expected.
+
+Delivery of components is an integral part of the plan in all Tolling CGUs.
+
+In connection with the hostilities in Ukraine and their potential impact on the Group's business in the surrounding countries of Russia and Belarus (where projects are predominantly handled in the Tolling-EMEA CGU area), it should be noted that uncertainties and risks in these countries have also been taken into account in the planning as part of flat-rate discounts based on an overall Group view.
+
+## 13.2.2 Peer Group.
+
+In addition to Kapsch TrafficCom AG, the peer group assumed for the impairment test comprises another eleven peer companies, of which only seven companies were relevant for determining the parameters in the financial year 2023/24 (2022/23: eleven companies – thereof six relevant). The composition of the companies in the peer group has not changed since the previous year. The debt/equity ratio of the peer group in the financial year 2023/24 was 22.5% (2022/23: 22.3%); the unlevered beta factor was 0.8 (2022/23: 0.87).
+
+{49}------------------------------------------------
+
+## 13.2.3 Results of the impairment test.
+
+|                                                                                                              | Tolling- |        |        | TM-      |        |        |
+|--------------------------------------------------------------------------------------------------------------|----------|--------|--------|----------|--------|--------|
+| 2023/24                                                                                                      | Americas | EMEA   | APAC   | Americas | EMEA   | APAC   |
+| Carrying amount of goodwill allocated<br>to the CGU                                                          | 11,771   | 0      | 7,371  | 3,364    | 0      | 230    |
+| Carrying amount of intangible assets<br>with indefinite useful life allocated to<br>the CGU (excl. goodwill) | 0        | 232    | 0      | 0        | 64     | 0      |
+| Value in use of the CGU                                                                                      | 70,154   | 95,027 | 50,006 | 39,656   | 55,161 | 27,729 |
+| Carrying amount of the CGU                                                                                   | 45,871   | 75,613 | 10,908 | 26,210   | 30,701 | 469    |
+| Discount rate                                                                                                | 9.0%     | 14.1%  | 8.2%   | 17.0%    | 9.3%   | 8.1%   |
+| Discount rate before tax                                                                                     | 12.3%    | 18.7%  | 10.9%  | 23.1%    | 12.0%  | 10.3%  |
+| Break-even discount rate before tax                                                                          | 18.2%    | 24.0%  | 112.2% | 36.8%    | 34.6%  | 187.2% |
+
+The recoverability of all goodwill as of March 31, 2024, was confirmed through impairment tests. While in the CGU TM-EMEA, the book value was positively influenced by the increase in trade receivables and short-term contract assets from customer contracts, the book values in the other CGUs showed stable development.
+
+|                                                                                  | Tolling- |        |        | TM-      |        |       |
+|----------------------------------------------------------------------------------|----------|--------|--------|----------|--------|-------|
+| 2022/23                                                                          | Americas | EMEA   | APAC   | Americas | EMEA   | APAC  |
+| Carrying amount of goodwill allocated<br>to the CGU                              | 11,771   | 0      | 7,371  | 3,364    | 0      | 230   |
+| Carrying amount of intangible assets<br>with indefinite useful life allocated to |          |        |        |          |        |       |
+| the CGU (excl. goodwill)                                                         | 0        | 85     | 0      | 0        | 17     | 0     |
+| Value in use of the CGU                                                          | 100,623  | 90,201 | 18,740 | 33,819   | 28,576 | 7,581 |
+| Carrying amount of the CGU                                                       | 58,126   | 66,748 | 10,771 | 32,017   | 8,282  | 131   |
+| Discount rate                                                                    | 9.8%     | 13.9%  | 7.9%   | 19.7%    | 9.9%   | 7.8%  |
+| Discount rate before tax                                                         | 14.2%    | 20.3%  | 10.8%  | 26.8%    | 14.1%  | 10.7% |
+| Break-even discount rate before tax                                              | 33.9%    | 26.4%  | 18.8%  | 30.6%    | 22.6%  | 83.2% |
+
+{50}------------------------------------------------
+
+## 13.2.4 Sensitivity analysis with impact of changes to the value in use of the CGUs.
+
+The table below shows the development of the value in use if one parameter changes by +/- 10% or the growth in the perpetual annuity by +/- 0.5 percentage points.
+
+| 2023/24                            | Increase in assumption | Tolling- |        |        | TM-      |        |        |
+|------------------------------------|------------------------|----------|--------|--------|----------|--------|--------|
+|                                    |                        | Americas | EMEA   | APAC   | Americas | EMEA   | APAC   |
+| Discount rate                      | + 10%                  | -7,053   | -7,755 | -4,881 | -3,596   | -3,379 | -3,361 |
+| Revenue growth                     | + 10%                  | 1,610    | 3,517  | 2,301  | 814      | 909    | 3,246  |
+| EBITDA margin in detailed planning | + 10%                  | 4,574    | 6,526  | 964    | 1,971    | 1,643  | 818    |
+| Terminal value growth rate         | + 0,5%p                | 3,329    | 1,764  | 2,821  | 693      | 1,530  | 1,973  |
+|                                    | Decrease in assumption | Tolling- |        |        | TM-      |        |        |
+|                                    |                        | Americas | EMEA   | APAC   | Americas | EMEA   | APAC   |
+| Discount rate                      | - 10%                  | 8,975    | 9,569  | 6,360  | 4,531    | 4,284  | 4,385  |
+| Revenue growth                     | - 10%                  | -1,594   | -3,445 | -2,251 | -805     | -901   | -3,101 |
+| EBITDA margin in detailed planning | - 10%                  | -4,574   | -6,526 | -964   | -1,971   | -1,643 | -818   |
+| Terminal value                     |                        |          |        |        |          |        |        |
+
+growth rate - 0,5%p -2,887 -1,625 -2,398 -649 -1,333 -1,672
+
+| 2022/23                               | Increase in<br>assumption | Tolling- |        |        | TM-      |        |        |
+|---------------------------------------|---------------------------|----------|--------|--------|----------|--------|--------|
+|                                       |                           | Americas | EMEA   | APAC   | Americas | EMEA   | APAC   |
+| Discount rate                         | + 10%                     | -7,024   | -9,784 | -1,941 | -1,222   | -5,609 | -1,037 |
+| Revenue growth                        | + 10%                     | 2,045    | 6,088  | 367    | 554      | 4,008  | 1,212  |
+| EBITDA margin in<br>detailed planning | + 10%                     | 2,225    | 4,857  | 514    | 684      | 1,915  | 188    |
+| Terminal value<br>growth rate         | + 0,5%p                   | 3,626    | 3,436  | 1,338  | 201      | 3,079  | 746    |
+|                                       | Decrease in<br>assumption | Tolling- |        |        | TM-      |        |        |
+|                                       |                           | Americas | EMEA   | APAC   | Americas | EMEA   | APAC   |
+| Discount rate                         | - 10%                     | 8,974    | 12,409 | 2,531  | 1,468    | 7,258  | 1,363  |
+| Revenue growth                        | - 10%                     | -2,020   | -5,963 | -364   | -541     | -3,897 | -1,142 |
+| EBITDA margin in<br>detailed planning | - 10%                     | -2,225   | -4,857 | -514   | -684     | -1,915 | -188   |
+| Terminal value<br>growth rate         | - 0,5%p                   | -3,192   | -3,160 | -1,128 | -190     | -2,714 | -628   |
+
+A sensitivity analysis of the CGUs described above has shown that if the discount rate is increased by one percentage point, the carrying amounts of the CGUs are still covered and there is no need for impairment. Furthermore, the cash flow sensitivity analysis showed that the carrying amounts of the units are also still covered if the cash flows are reduced by 10%. If the EBITDA margins are reduced by one percentage point as part of the sensitivity analysis, the carrying amounts of the CGUs described above are still covered. Furthermore, the sensitivity analysis showed that if the growth rate in the perpetual annuity is reduced by half a percentage point, the carrying amounts of the units are also still covered.
+
+{51}------------------------------------------------
+
+## 13.3 Capitalized development costs.
+
+Development costs relate to expenses which, in accordance with IAS 38, are capitalized and amortized over 3 to 15 years once the assets are available for commercial use.
+
+Additional research and development costs of the Group in the financial year amounted to EUR 79,977 k (2022/23: EUR 78,329 k). Of this amount, EUR 55,441 k (2022/23: EUR 51,267 k) were customer-specific development costs that were charged to the customers. The remaining amount of EUR 24,536 k (2022/23: EUR 27,063 k) was recognized as an expense.
+
+## 14 Interests in associates and joint ventures.
+
+|                                                              | 2022/23 | 2023/24 |
+|--------------------------------------------------------------|---------|---------|
+| Carrying amount as of March 31 of previous year              | 27,832  | 24,736  |
+| Additions                                                    | 0       | 550     |
+| Disposals                                                    | 0       | -6,272  |
+| Reclassification                                             | 0       | -1      |
+| Proportional result of the period from core business         | -1,731  | 15,368  |
+| Adjustments for elimination of intercompany transactions     | 50      | 50      |
+| Proportional result of the period from financial investments | -1,266  | -1,006  |
+| Dividend received JV and assoc.                              | 0       | -30,000 |
+| Currency translation differences                             | -149    | 167     |
+| Carrying amount as of March 31 of financial year             | 24,736  | 3,592   |
+| thereof interests in associates                              | 7,278   | 0       |
+| thereof interests in joint ventures                          | 17,458  | 3,592   |
+
+In financial year 2023/24, there were additions of EUR 550 k. These refer to a further capital contribution in Copiloto Colombia S.A.S., Colombia, of EUR 279 k. In addition, the company NATRAS AG was founded together with a partner, in which Kapsch TrafficCom AG holds 50% of the shares. The addition for this company amounted to EUR 270 k.
+
+The disposal of EUR 6,272 k related to the derecognized carrying amount of the associated company Traffic Technology Services, Inc., USA, which was sold in the financial year 2023/24.
+
+The agreement in the arbitration proceedings between the joint venture autoTicket GmbH and the Federal Republic of Germany had a significant impact on the development of the carrying amount of shares in associated companies and joint ventures.
+
+## Associated companies.
+
+## Traffic Technology Services, Inc., USA.
+
+In March 2024, the shares in the associated company Traffic Technology Services, Inc., USA, which was previously accounted for using the equity method, were sold. The sale led to the deconsolidation of the company. As of March 31, 2024, the carrying amount of the investment was EUR 0 (March 31, 2023: EUR 7,278 k) and Kapsch TrafficCom's share was 0.00% (March 31, 2023: 42.44%). The proportional result from this associate amounted to EUR -1,006 k in 2023/24 (2022/23: EUR -1,266 k) and is reported in the result before taxes after the financial result. In addition, a loss from the disposal of the associated company of EUR 2,230 k was recognized in earnings before taxes after the financial result. The loss on disposal results from the selling price of EUR 7,893 k less an offsetting loan of EUR 3,851 k and the carrying amount of EUR 6,272 k.
+
+## Joint ventures.
+
+The joint ventures include autoTicket GmbH, Germany, Copiloto Colombia S.A.S., Colombia, and NATRAS AG. These companies are also accounted for using the equity method.
+
+{52}------------------------------------------------
+
+## autoTicket GmbH, Deutschland.
+
+As of August 13, 2018, the company autoTicket GmbH, Germany, (autoTicket) was acquired together with CTS EVENTIM AG & Co. KGaA as a shell company. Kapsch TrafficCom holds 50% of the shares and accounts for the company as a joint venture using the equity method. As the activities and strategy of autoTicket are part of Kapsch TrafficCom's core business, the proportional results (2023/24: EUR 29,498 k and 2022/23: EUR -1,765 k) are disclosed separately in the operating result (Item: "Proportional result from associates and joint ventures"). The increase in earnings in this financial year is due to the settlement of the arbitration proceedings with the Federal Republic of Germany. As a result, autoTicket GmbH received an amount of EUR 243 million in July 2023.
+
+In February 2024, the distribution of a dividend was resolved, which was split equally amongst the shareholders. The proportional dividend from Kapsch TrafficCom amounted to EUR 30,000 k and reduced the carrying amount of the investment accordingly. The carrying amount as at March 31, 2024 was EUR 2,161 k (March 31, 2023: EUR 16,662 k). For further information see note 28.
+
+The financial data of the entity as of the latest balance sheet date is as follows:
+
+|                                                 | March 31, 2023 | March 31, 2024 |
+|-------------------------------------------------|----------------|----------------|
+| Non-current assets                              | 58,161         | 216            |
+| Current assets                                  | 476            | 24,208         |
+| Non-current liabilities                         | -24,681        | -60            |
+| Current liabilities                             | -631           | -20,042        |
+| Net assets                                      | 33,325         | 4,321          |
+| Cash and cash equivalents                       | 465            | 24,183         |
+| Financial liabilities (non-current and current) | -24,681        | -60            |
+|                                                 | 2022/23        | 2023/24        |
+| Revenues                                        | 318            | 33             |
+| Result for the period                           | -3,527         | 58,996         |
+| Other comprehensive income                      | 0              | 0              |
+| Total comprehensive income                      | -3,527         | 58,996         |
+| Reconciliation                                  | March 31, 2023 | March 31, 2024 |
+| Net assets at beginning of financial year       | 36,852         | 33,325         |
+| Total comprehensive income                      | -3,527         | 58,996         |
+| Dividend payments                               | 0              | -39,444        |
+| Capital Reduction                               | 0              | -48,556        |
+| Net assets as of March 31 of financial year     | 33,325         | 4,321          |
+
+#### Copiloto Colombia S.A.S., Colombia.
+
+In the financial year 2019/20, the company Copiloto Colombia S.A.S., Colombia, was established with a partner in equal shares (50%). The proportional result in the financial year 2023/24 amounted to EUR -130 k (2022/23: EUR 34 k). As the activities and strategy of Copiloto are part of Kapsch TrafficCom's core business, the proportional results are disclosed separately in the operating result. The carrying amount as of March 31, 2024 amounted to EUR 1.036 k (March 31, 2023: EUR 670 k).
+
+Share of Kapsch TrafficCom (50%) 16,662 2,161 Carrying amount as of March 31 of financial year 16,662 2,161
+
+The financial data of the entity as of the latest balance sheet date is as follows:
+
+|                         | March 31, 2023 | March 31, 2024 |
+|-------------------------|----------------|----------------|
+| Non-current assets      | 1,170          | 842            |
+| Current assets          | 729            | 2,195          |
+| Non-current liabilities | -280           | -41            |
+| Current liabilities     | -147           | -891           |
+| Net assets              | 1,472          | 2,105          |
+
+{53}------------------------------------------------
+
+|                                                 | March 31, 2023 | March 31, 2024 |
+|-------------------------------------------------|----------------|----------------|
+| Cash and cash equivalents                       | 426            | 1,034          |
+| Financial liabilities (non-current and current) | 0              | 0              |
+|                                                 | 2022/23        | 2023/24        |
+| Revenues                                        | 151            | 454            |
+| Result for the period                           | 68             | -259           |
+| Other comprehensive income                      | 0              | 0              |
+| Total comprehensive income                      | 68             | -259           |
+
+| Reconciliation                                           | March 31, 2023 | March 31, 2024 |
+|----------------------------------------------------------|----------------|----------------|
+| Net assets at beginning of financial year                | 1,702          | 1,472          |
+| Increase of nominal capital and capital reserve          | 0              | 559            |
+| Total comprehensive income                               | 68             | -259           |
+| Currency translation differences                         | -298           | 334            |
+| Net assets as of March 31 of financial year              | 1,472          | 2,105          |
+| Share of Kapsch TrafficCom (50%)                         | 736            | 1,053          |
+| Adjustments for elimination of intercompany transactions | -66            | -16            |
+| Carrying amount as of March 31 of financial year         | 670            | 1,036          |
+
+## NATRAS AG.
+
+NATRAS AG was founded in the fourth quarter of 2023/24 together with the Swiss LOSTnFOUND AG (part of the AddSecure Group) and has been awarded a contract by the Swiss Federal Office for Customs and Border Security (BAZG) to supply hardware and services for the national truck tolling system. The financial scope of the contract totals around EUR 54 million and covers a term of eight years, with an optional two-year extension. Kapsch TrafficCom holds 50% of the shares and accounts for the company as a joint venture using the equity method. The carrying amount of the shares was EUR 270 k as of March 31, 2024. As of March 31, 2024, no financial data is available for NATRAS AG as the company only started its business activities at the end of the financial year.
+
+## Consortia.
+
+tolltickets GmbH, Germany, holds 50% of the shares in the MyConsorzio consortium, which is managed jointly with a partner. The consortium members are generally excluded from liability. As of March 31, 2023, the share in the MyConsorzio consortium was reported under joint ventures and accounted for using the equity method. In the financial year 2023/24, the shares with a carrying amount of EUR 1 k were reclassified to other financial assets and investments.
+
+#### Joint operations.
+
+The Group had several joint arrangements in the financial year 2023/24, mainly for implementation and maintenance projects. These joint arrangements are classified as joint operations. The company MoKA SAS, France, is also included in the Group as a joint operation. None of the joint operations is material individually to the Group in the financial year 2023/24. Proportional revenues in the amount of EUR 11,656 k (2022/23: EUR 14,593 k) and proportional results in the amount of EUR 58 k (2022/23: EUR 954 k) were included in the respective items in the consolidated financial statements.
+
+{54}------------------------------------------------
+
+## **15** Financial instruments.
+
+| Financial instruments by category                                    |  | Fair Value<br>Level | Carrying<br>amount | Fair value | Carrying<br>amount | Fair value |
+|----------------------------------------------------------------------|--|---------------------|--------------------|------------|--------------------|------------|
+| Trade receivables and other current and<br>non-current assets        |  |                     | 122,317            | —          | 137,454            | —          |
+| At amortized cost                                                    |  |                     | 88,270             | —          | 101,574            | —          |
+| Trade receivables (current and non-current)1)                        |  | Level 3             | 88,270             | —          | 101,574            | —          |
+| At fair value through profit or loss                                 |  |                     | 1,234              | 1,234      | 86                 | 86         |
+| Derivative financial instruments                                     |  | Level 2             | 1,234              | 1,234      | 86                 | 86         |
+| Other non-financial assets2)                                         |  |                     | 32,813             | —          | 35,793             | —          |
+| Contract assets (non-current and current) at<br>amortized cost1)     |  | Level 3             | 86,079             | —          | 80,557             | —          |
+| Other financial assets and investments<br>(non-current and current)  |  |                     | 18,126             | —          | 5,510              | —          |
+| At fair value through profit or loss                                 |  |                     | 3,030              | 3,030      | 3,204              | 3,204      |
+| Securities                                                           |  | Level 1             | 2,931              | 2,931      | 3,167              | 3,167      |
+| Investments                                                          |  | Level 3             | 98                 | 98         | 38                 | 38         |
+| Investments (with option to fair value through OCI)                  |  | Level 3             | 0                  | —          | 0                  | —          |
+| At amortized cost1)                                                  |  |                     | 15,097             | —          | 2,305              | —          |
+| Other financial assets and loans (non-current)                       |  | Level 3             | 13,188             | —          | 930                | —          |
+| Other financial assets and loans (current)                           |  | Level 3             | 1,909              | —          | 1,375              | —          |
+| Cash and cash equivalents at amortized cost1)                        |  | Level 3             | 45,228             | —          | 33,376             | —          |
+| Financial liabilities (non-current and current) at<br>amortized cost |  |                     | 189,642            | 185,788    | 104,657            | 103,046    |
+| Promissory note bond                                                 |  | Level 2             | 31,257             | 30,782     | 8,494              | 8,330      |
+| Project financing                                                    |  | Level 2             | 44,052             | 44,097     | 28,668             | 27,524     |
+| Operating loans                                                      |  | Level 2             | 92,483             | 89,211     | 58,097             | 56,806     |
+| Other financial liabilities                                          |  | Level 2             | 21,849             | 21,697     | 6,238              | 10,386     |
+| Lease liabilities (non-current and current) at<br>amortized cost     |  |                     | 43,794             | —          | 36,090             | —          |
+| Lease liabilities (non-current and current)3)                        |  | —                   | 43,794             | —          | 36,090             | —          |
+|                                                                      |  |                     |                    |            |                    |            |
+| Trade payables at amortized cost1)                                   |  | Level 3             | 75,051             | —          | 62,913             | —          |
+| Other liabilities and deferred income<br>(non-current and current)   |  |                     | 44,095             | —          | 52,414             | —          |
+| At amortized cost1)                                                  |  |                     | 430                | —          | 422                | —          |
+| Other financial liabilities                                          |  | Level 3             | 430                | —          | 422                | —          |
+| At fair value through profit or loss                                 |  |                     | 74                 | 74         | 0                  | —          |
+| Derivative financial instruments                                     |  | Level 2             | 74                 | 74         | 0                  | —          |
+| Other non-financial liabilities2)                                    |  |                     | 43,590             | —          | 51,992             | —          |
+
+<sup>1)</sup> No disclosure of fair value, as the carrying value of this item measured at amortized cost is a reasonable approximation in accordance with IFRS 7.29(a).
+
+2) Non-financial receivables and liabilities are only included for reconciliation with the respective balance sheet item.
+
+3) Lease liabilities belong to financial liabilities, but do not underly the disclosure requirements of IFRS 7.
+
+## Changes and fair value.
+
+No reclassifications between the hierarchy levels were made in the financial year 2023/24.
+
+As in the previous year, the securities as of March 31, 2024 relate to government and bank bonds as well as shares in investment funds.
+
+{55}------------------------------------------------
+
+## Fair value-hierarchies and determination of fair value.
+
+Financial assets and liabilities must be classified to one of the three following fair value-hierarchies:
+
+- Level 1: There are quoted prices in active markets for identical assets and liabilities. In the Group, listed equity instruments are attributed to level 1.
+- Level 2: The fair value of financial instruments that are not traded in an active market is determined by using valuation techniques based on direct or indirect observable market data. This category comprises securities that are not regularly traded on a stock market, derivative financial instruments and financial liabilities. Specific valuation techniques used to value financial instruments include:
+	- Quoted market prices are used for securities.
+	- The fair value of interest rate swaps is calculated as the present value of the estimated future cash flows based on observable yield curves.
+	- The fair value of forward foreign exchange contracts is determined using forward exchange rates at the balance sheet date, with the resulting value discounted to present value.
+	- The fair value of financial liabilities classified as level 2 was derived through discounting the gross cash flows over the contracted term at a risk-adjusted observable interest rate.
+- Level 3: Financial instruments whose valuation information is not based on observable market data are classified to this category. Variable purchase price components (earn-out) fall into this category, for example. They are based on agreed conditions and the expectation of the future sales/earnings development of the respective subsidiaries. Long-term purchase price components are discounted using a risk-adjusted interest rate.
+
+#### Statement of comprehensive income.
+
+Financial instruments are recognized in the statement of comprehensive income with the following net results:
+
+|                                                      | 2022/23<br>(adjusted) | 2023/24 |
+|------------------------------------------------------|-----------------------|---------|
+| Loans and receivables recognized at (amortized) cost | -7,731                | -3,167  |
+| Financial liabilities recognized at (amortized) cost | -8,635                | -25,879 |
+| At fair value through profit or loss1)               | 2,758                 | -389    |
+| Total1)                                              | -13,608               | -29,435 |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+The significant increase in financial expenses for financial liabilities recognized at amortized cost is attributable to interest expenses for loans in Austria and the USA.
+
+The position "At fair value through profit or loss" also includes gains and losses from derivative financial instruments for hedging foreign currency and interest rate risks in the amount of EUR 1,206 k and EUR -1,804 k (2022/23 adjusted: EUR 2,352 k or EUR -31 k) are included. The gains and losses included in the financial result are presented in note 9.
+
+## Derivative financial instruments.
+
+Derivative financial instruments that are measured at fair value through profit or loss are shown in the financial result.
+
+As of March 31, 2024 the position "Trade receivables and other current receivables" includes derivative financial instruments in the amount EUR 86 k (March 31, 2023: EUR 1,234 k) and the position "Other liabilities and deferred income (non-current and current)" includes derivative financial instruments in the amount of EUR 0 k (March 31, 2023: EUR 74 k), that will be fully cash-effective in the next year.
+
+To hedge the foreign currency risk, certain derivative financial instruments could be designated as cash flow hedges and mainly would be forward exchange contracts with different maturities and currencies. As in the previous year, there were no hedges designated as cash flow hedges as of March 31, 2024.
+
+Other non-current financial receivables and loans decreased due to the repayment of loans to autoTicket GmbH (autoTicket), Germany, and Traffic Technology Services Inc., USA.
+
+{56}------------------------------------------------
+
+## 16 Other non-current assets.
+
+|                               | March 31, 2023 | March 31, 2024 |
+|-------------------------------|----------------|----------------|
+| Non-current trade receivables | 3,289          | 5,530          |
+| Non-current lease receivables | 741            | 225            |
+| Other non-current receivables | 282            | 225            |
+| Total                         | 4,311          | 5,980          |
+
+Non-current trade receivables relate to receivables from a long-term customer in EMEA and receivables from a project in EMEA.
+
+For details on non-current lease receivables see note 24.
+
+Other non-current receivables include rental guarantees for buildings of the Spanish companies. The remaining term is more than one year but less than three years from the balance sheet date.
+
+Gross cash flows of other non-current assets up to 2 years amount to EUR 5,050 k (March 31, 2023: EUR 291 k), between 2 and 3 years EUR 996 k (March 31, 2023: EUR 3,289 k) and more than 3 years EUR 457 k (March 31, 2023: EUR 3 k).
+
+## 17 Deferred tax assets/liabilities.
+
+|                                                                    | March 31, 2023 | March 31, 2024 |
+|--------------------------------------------------------------------|----------------|----------------|
+| Deferred tax assets to be recovered after more than 12 months      | 44,823         | 40,633         |
+| Deferred tax assets to be recovered within 12 months               | 4,954          | 4,935          |
+| Deferred tax assets                                                | 49,777         | 45,568         |
+|                                                                    |                |                |
+| Deferred tax liabilities to be recovered after more than 12 months | 752            | 420            |
+| Deferred tax liabilities to be recovered within 12 months          | 899            | 844            |
+| Deferred tax liabilities                                           | 1,651          | 1,263          |
+| Deferred tax assets net (+)/deferred tax liabilities net (-)       | 48,126         | 44,305         |
+
+Deferred tax assets from tax loss carry-forwards and other temporary differences are recognized only to the extent of their potential realization. In these consolidated financial statements, tax loss carry-forwards amounting to EUR 370,281 k (March 31, 2023: EUR 351,596 k) are not recognized due to the unsecure potential for future taxable income. The not recognized tax loss carry-forwards relate to a small extent to Austria and primarily to foreign subsidiaries in Spain, in the USA, Brazil and in Zambia and are, for the predominant part, not expiring or not before 2031. All other deferred tax assets have been recognized in the respective Group companies as future deductible items.
+
+Sensitivity analyzes indicate that the deferred tax assets would deviate from the previously assumed estimates by around EUR +3,686 k or EUR -3,686 k in the event of a change in earnings before taxes of +/-10%.
+
+Deferred tax assets and liabilities are offset, taking maturities into account, when there is a legally enforceable right to offset tax assets against tax liabilities and when the deferred tax assets and liabilities relate to income taxes levied by the same taxation authority on the same taxable entity.
+
+{57}------------------------------------------------
+
+Deferred tax assets/liabilities are attributable to the following positions:
+
+|                                                            | March 31,<br>2023 | Through<br>profit or<br>loss of the<br>period | Through<br>other com-<br>prehensive<br>income | Currency<br>translation<br>differences | Reclassifi-<br>cation and<br>off-set | March 31,<br>2024 |
+|------------------------------------------------------------|-------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------|--------------------------------------|-------------------|
+| Tax loss carry-forwards                                    | 38,460            | -1,622                                        | 0                                             | 25                                     | 0                                    | 36,863            |
+| Provisions disallowed for<br>tax purposes                  | 1,795             | -349                                          | 305                                           | 77                                     | 0                                    | 1,827             |
+| Depreciation disallowed for<br>tax purposes                | 1,387             | -243                                          | 0                                             | 0                                      | 0                                    | 1,144             |
+| Other (active deferred income)                             | 8,135             | -805                                          | -33                                           | -468                                   | -1,096                               | 5,734             |
+| Deferred tax assets                                        | 49,777            | -3,019                                        | 272                                           | -366                                   | -1,096                               | 45,568            |
+| Special depreciation/amortization of<br>non-current assets | 21                | -6                                            | 0                                             | -1                                     | -157                                 | -143              |
+| Gains from recognition at fair value                       | 971               | 0                                             | 0                                             | 0                                      | 0                                    | 971               |
+| Other (passive deferred income)                            | 659               | -289                                          | 0                                             | 66                                     | 0                                    | 436               |
+| Deferred tax liabilities                                   | 1,651             | -295                                          | 0                                             | 65                                     | -157                                 | 1,263             |
+| Total net                                                  | 48,126            | -2,724                                        | 272                                           | -431                                   | -939                                 | 44,305            |
+
+|                                                            | March 31,<br>2022 | Through<br>profit or<br>loss of the<br>period | Through<br>other com-<br>prehensive<br>income | Currency<br>translation<br>differences | Reclassifi-<br>cation and<br>off-set | March 31,<br>2023 |
+|------------------------------------------------------------|-------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------|--------------------------------------|-------------------|
+| Tax loss carry-forwards                                    | 41,310            | -2,949                                        | 0                                             | 98                                     | 0                                    | 38,460            |
+| Provisions disallowed for<br>tax purposes                  | 2,311             | -106                                          | -410                                          | 1                                      | 0                                    | 1,795             |
+| Depreciation disallowed for<br>tax purposes                | 3,030             | -1,643                                        | 0                                             | 0                                      | 0                                    | 1,387             |
+| Other (active deferred income)                             | 13,571            | -855                                          | -188                                          | -737                                   | -3,656                               | 8,135             |
+| <b>Deferred tax assets</b>                                 | <b>60,223</b>     | <b>-5,552</b>                                 | <b>-598</b>                                   | <b>-639</b>                            | <b>-3,656</b>                        | <b>49,777</b>     |
+| Special depreciation/amortization of<br>non-current assets | 30                | -9                                            | 0                                             | -21                                    | 21                                   | 21                |
+| Gains from recognition at fair value                       | 971               | 0                                             | 0                                             | 0                                      | 0                                    | 971               |
+| Other (passive deferred income)                            | 1,858             | 2,496                                         | 0                                             | -18                                    | -3,677                               | 659               |
+| <b>Deferred tax liabilities</b>                            | <b>2,859</b>      | <b>2,487</b>                                  | <b>0</b>                                      | <b>-38</b>                             | <b>-3,656</b>                        | <b>1,651</b>      |
+| <b>Total net</b>                                           | <b>57,364</b>     | <b>-8,039</b>                                 | <b>-598</b>                                   | <b>-600</b>                            | <b>0</b>                             | <b>48,126</b>     |
+
+In the current financial year, the item "Reclassification and off-set" also includes the reclassification of deferred tax assets to assets held for sale.
+
+## 18 Inventories.
+
+|                                                           | March 31, 2023 | March 31, 2024 |
+|-----------------------------------------------------------|----------------|----------------|
+| Purchased parts and merchandise, at acquisition cost      | 20,759         | 19,599         |
+| Unfinished goods and work in progress, at production cost | 3,896          | 4,491          |
+| Finished goods, at production cost                        | 19,943         | 23,160         |
+| Prepayments on inventories                                | 505            | 561            |
+| Total                                                     | 45,103         | 47,811         |
+
+Inventories increased primarily in Chile, Germany and Australia. Individual inventory items were written down to net realizable value. Inventories include write-downs of EUR 19,479 k as of March 31, 2024 (March 31, 2023: EUR 15,285 k). In the reporting period, write-downs of EUR -4,637 k were recognized in the statement of comprehensive income (2022/23: EUR +1,611 k), which are attributable to inventories in Belarus, Chile and Mexico. In case the assumptions made for the impairment of inventories would change by +/-10%, the effect would be approximately EUR -4,781 k and EUR +4,781 k (March 31, 2023: EUR -4,510 k or EUR +4,510 k).
+
+{58}------------------------------------------------
+
+## 19 Trade receivables and other current assets.
+
+|                                                          | March 31, 2023 | March 31, 2024 |
+|----------------------------------------------------------|----------------|----------------|
+| Trade receivables                                        | 98,117         | 98,489         |
+| Allowance for bad debt                                   | -13,418        | -2,670         |
+| Trade receivables – net                                  | 84,699         | 95,819         |
+| Receivables from tax authorities (other than income tax) | 14,629         | 15,228         |
+| Current lease receivables                                | 567            | 474            |
+| Other receivables and prepaid expenses                   | 18,110         | 19,953         |
+| Total                                                    | 118,005        | 131,474        |
+
+For details on current lease receivables see note 24.
+
+Other receivables and prepaid expenses mainly include prepaid expenses in the amount of EUR 12,331 k (March 31, 2023: EUR 10,862 k), other prepayments received in the amount of EUR 5,506 k (March 31, 2023: EUR 3,262 k) and deposits in the amount of EUR 2,031 k (March 31, 2023: EUR 2,346 k).
+
+Allowance for bad debt developed as follows:
+
+|                                          | Allowances | ECL<br>according<br>to IFRS 9 | March 31,<br>2023 | Allowances | ECL<br>according<br>to IFRS 9 | March 31,<br>2024 |
+|------------------------------------------|------------|-------------------------------|-------------------|------------|-------------------------------|-------------------|
+| Balance as of March 31 of previous year  | -4,401     | -1,567                        | -5,968            | -11,637    | -1,781                        | -13,418           |
+| Additions                                | -7,719     | -335                          | -8,054            | -456       | -78                           | -535              |
+| Utilization                              | 54         | 121                           | 175               | 12         | 764                           | 776               |
+| Disposals                                | 275        | 0                             | 275               | 10,201     | 0                             | 10,201            |
+| Currency translation differences         | 154        | 0                             | 154               | 69         | 0                             | 69                |
+| Assets held for sale                     | 0          | 0                             | 0                 | 238        | 0                             | 238               |
+| Balance as of March 31 of financial year | -11,637    | -1,781                        | -13,418           | -1,574     | -1,096                        | -2,670            |
+
+The decrease in allowances for trade receivables mainly relates to a long-standing customer in the EMEA region, with whom an agreement regarding overdue receivables was reached in April 2023, resulting in the reversal of allowances in the amount of EUR 10.1 million.
+
+Maturity structure of trade receivables:
+
+|                    | March 31, 2023 | March 31, 2024 |
+|--------------------|----------------|----------------|
+| Not yet due        | 52,228         | 61,323         |
+| Overdue            |                |                |
+| 1-30 days          | 9,433          | 9,387          |
+| 31-60 days         | 3,154          | 5,459          |
+| 61-90 days         | 1,870          | 2,438          |
+| 91-180 days        | 7,776          | 7,240          |
+| 181-270 days       | 2,146          | 3,930          |
+| More than 271 days | 21,511         | 8,712          |
+| Total              | 98,117         | 98,489         |
+
+Total trade receivables are with 73.0% not due or overdue for 1-30 days (March 31, 2023: 62.8%). The increase in receivables overdue by more than 271 days mainly concerns a long-standing customer in the EMEA region. There is no concentration of credit risk with respect to trade receivables, as the Group generally has a large number of customers worldwide.
+
+{59}------------------------------------------------
+
+## 20 Contract assets and contract liabilities.
+
+Contract assets and liabilities are composed as follows:
+
+|                                          | March 31, 2023 | March 31, 2024 |
+|------------------------------------------|----------------|----------------|
+| Current contract assets                  | 82,620         | 78,335         |
+| Allowance on current contract assets     | -408           | -382           |
+| Total current contract assets            | 82,213         | 77,954         |
+| Non-current contract assets              | 3,867          | 2,603          |
+| Allowance on non-current contract assets | 0              | 0              |
+| Total non-current contract assets        | 3,867          | 2,603          |
+| Total contract assets                    | 86,079         | 80,557         |
+| Current contract liabilities             | 31,062         | 41,798         |
+| Non-current contract liabilities         | 450            | 6,719          |
+| Total contract liabilities               | 31,512         | 48,517         |
+
+In the 2023/24 financial year negative margin adjustments totaling EUR 25,272 k (2022/23: EUR 8,328 k) were made in the USA. These relate exclusively to the last open projects, which have contributed negatively to earnings for many years. A solution for these projects is being worked on intensively.
+
+Impairment on contract assets amounted to EUR 382 k as of March 31, 2024 (March 31, 2023: EUR 408 k) and relates to the expected impairments according to IFRS 9. In the statement of comprehensive income for 2023/24, income in the amount of EUR 26 k (2022/23: EUR 1,141 k) was recognised.
+
+An amount of EUR 28,777 k of the contract liabilities in total amounting to EUR 31,512 k as of March 31, 2023 was recognized in revenues in the financial year 2023/24 (2022/23: EUR 18,859 k).
+
+The future revenues from performance obligations that are unsatisfied are as follows:
+
+|                       | 2022/23   | 2023/24   |
+|-----------------------|-----------|-----------|
+| Future revenues       | 1,186,933 | 1,360,948 |
+| Total up to 1 year    | 401,716   | 368,044   |
+| Between 1 and 2 years | 196,415   | 201,584   |
+| Between 2 and 3 years | 128,719   | 152,610   |
+| Between 3 and 4 years | 86,851    | 122,543   |
+| Between 4 and 5 years | 74,639    | 90,012    |
+| More than 5 years     | 298,593   | 426,155   |
+
+In case the margins would change by +/-10% compared to the assumptions made, the sensitivity analysis indicates that operating result would change by approximately EUR +5,520 k and EUR -4,939 k (2022/23: EUR +6,005 k and EUR -5,272 k).
+
+## 21 Cash and cash equivalents.
+
+|                          | March 31, 2023 | March 31, 2024 |
+|--------------------------|----------------|----------------|
+| Cash on hand             | 41             | 32             |
+| Deposits held with banks | 45,187         | 33,344         |
+| Total                    | 45,228         | 33,376         |
+
+The carrying amounts of this item represent cash and cash equivalents at the end of the reporting period as presented in the cash flow statement.
+
+{60}------------------------------------------------
+
+## 22 Equity.
+
+## Share capital.
+
+The registered share capital of the company amounts to EUR 14,300,000 (March 31, 2023: EUR 13,000,000) as a result of a capital increase carried out in November 2023. The share capital was fully paid and is divided into 14,300,000 ordinary shares (March 31, 2023: 13,000,000 ordinary shares). Each share entitles the holder to one vote. There are no caps or restrictions on the exercise of voting rights or the transfer of shares. The pro rata amount of share capital per ordinary share is EUR 1.00.
+
+## Authorized capital.
+
+The 2021 Annual General Meeting resolved to create new authorized capital of up to 10% of the share capital, excluding shareholders' subscription rights. The Executive Board is authorized until September 28, 2026, with the approval of the Supervisory Board, to increase the company's share capital in one or more tranches by up to 10% and to set the issue price and the issue conditions. The shareholders' subscription rights to the new shares issued from the authorized capital was excluded. The company currently has no conditional capital that authorizes the Executive Board, with the approval of the Supervisory Board, to issue shares without (repeated) consideration by the Annual General Meeting.
+
+## Capital increase.
+
+The offer period for the capital increase resolved on this date ended on November 21, 2023, in which a total of 1,300,000 new no-par value bearer shares with voting rights (ordinary shares) were issued, of which 477,217 shares were issued against cash contributions and 822,783 shares against contributions in kind. The issue and subscription price was EUR 9.00 per new share and the gross proceeds amounted to EUR 11.7 million. EUR 0.2 million in transaction costs were deducted from the capital reserve of EUR 10.4 million.
+
+## Authorization of repurchase of shares.
+
+An authorisation to repurchase shares granted by the Annual General Meeting of September 10, 2019 expired on March 10, 2022. As of March 31, 2024, Kapsch TrafficCom held, as in the previous year, no treasury shares, no shares retained for options and no conversion rights.
+
+## Capital reserve.
+
+Capital reserve includes those reserves that have not been established from results of prior periods.
+
+## Other reserves.
+
+Other reserves contain effects of changes in the interest held in subsidiaries as well as reserves from other comprehensive income, for example currency translation differences, remeasurements of liabilities from post-employment benefits after deduction of deferred taxes as well as changes of the cash flow hedge reserve after deduction of deferred taxes.
+
+## Consolidated retained earnings.
+
+Retained earnings include accumulated results of the period attributable to the equity holders of the company less dividends paid.
+
+## Dividends paid.
+
+In the financial year 2023/24, as in the previous year, no dividends were paid by Kapsch TrafficCom AG. No dividends were distributed to non-controlling interests in the financial year 2023/24 either (financial year 2022/23: EUR 251 k).
+
+## Non-controlling interests.
+
+Non-controlling interests represent the third party shares in the equity of fully consolidated subsidiaries. Changes in non-controlling interests due to acquisitions, formations, liquidations or disposals of subsidiaries are presented in one line "Effects from changes in the scope of consolidation" in the statement of changes in equity in the financial year 2023/24, as none of these transactions in the financial year 2023/24 represent a material effect on their own. Note 29 shows the changes in subsidiaries.
+
+{61}------------------------------------------------
+
+## 23 Current and non-current financial liabilities.
+
+|                                   | March 31, 2023 | March 31, 2024 |
+|-----------------------------------|----------------|----------------|
+| Non-current financial liabilities | 58,472         | 91,906         |
+| Current financial liabilities     | 131,170        | 12,751         |
+|                                   | 189,642        | 104,657        |
+
+Movements are as follows:
+
+|                                   | March 31,<br>2023 | Reclas-<br>sification | Addi-<br>tions | Repay-<br>ment | Other<br>move-<br>ments | Currency<br>translation<br>differences<br>and interest<br>accrued | March 31,<br>2024 |
+|-----------------------------------|-------------------|-----------------------|----------------|----------------|-------------------------|-------------------------------------------------------------------|-------------------|
+| Promissory note bond              | 8,491             | 0                     | 0              | 0              | 0                       | 3                                                                 | 8,494             |
+| Loans for acquisitions            | 0                 | 3,159                 | 0              | 0              | 0                       | 0                                                                 | 3,159             |
+| Loans for project financing       | 0                 | 23,978                | 0              | 0              | 0                       | 72                                                                | 24,050            |
+| Operating loans                   | 44,981            | 11,185                | 880            | 0              | -1,010                  | 168                                                               | 56,203            |
+| Loans from affiliated companies   | 5,000             | 0                     | 0              | 0              | -5,000                  | 0                                                                 | 0                 |
+| Non-current financial liabilities | 58,472            | 38,321                | 880            | 0              | -6,010                  | 242                                                               | 91,906            |
+| Promissory note bond              | 22,766            | 0                     | 0              | -22,766        | 0                       | 0                                                                 | 0                 |
+| Loans for acquisitions            | 5,354             | -3,159                | 0              | -2,195         | 0                       | 0                                                                 | 0                 |
+| Loans for project financing       | 44,052            | -23,978               | 8,642          | -24,350        | 0                       | 252                                                               | 4,618             |
+| Operating loans                   | 47,502            | -12,067               | 17,388         | -50,487        | -44                     | -398                                                              | 1,894             |
+| Other current loans               | 11,495            | 882                   | 1,399          | -5,912         | -1,931                  | 305                                                               | 6,238             |
+| Current financial liabilities     | 131,170           | -38,321               | 27,429         | -105,710       | -1,975                  | 159                                                               | 12,751            |
+| Total                             | 189,642           | -0                    | 28,309         | -105,710       | -7,985                  | 402                                                               | 104,657           |
+
+|                                   | March 31,<br>2022 | Disposal<br>from<br>sale of<br>entities | Reclas<br>sification | Addi<br>tions | Repay<br>ment | Currency<br>translation<br>differeces<br>and intrest<br>accrued | March 31,<br>2023 |
+|-----------------------------------|-------------------|-----------------------------------------|----------------------|---------------|---------------|-----------------------------------------------------------------|-------------------|
+| Promissory note bond              | 31,479            | 0                                       | -22,996              | 0             | 0             | 9                                                               | 8,491             |
+| Loans for acquisitions            | 3,568             | 0                                       | -3,568               | 0             | 0             | 0                                                               | 0                 |
+| Loans for project financing       | 12,500            | 0                                       | -12,500              | 0             | 0             | 0                                                               | 0                 |
+| Operating loans                   | 88,505            | 0                                       | -45,138              | 1,600         | 0             | 14                                                              | 44,981            |
+| Loans from affiliated companies   | 0                 | 0                                       | 0                    | 5,000         | 0             | 0                                                               | 5,000             |
+| Non-current financial liabilities | 136,051           | 0                                       | -84,202              | 6,600         | 0             | 23                                                              | 58,472            |
+| Promissory note bond              | 0                 | 0                                       | 22,996               | 0             | 0             | -230                                                            | 22,766            |
+| Loans for acquisitions            | 3,572             | 0                                       | 3,568                | 0             | -1,786        | 0                                                               | 5,354             |
+| Loans for project financing       | 20,726            | 0                                       | 28,421               | 364           | -6,250        | 792                                                             | 44,052            |
+| Operating loans                   | 11,911            | 0                                       | 28,064               | 16,358        | -8,693        | -137                                                            | 47,502            |
+| Other current loans               | 7,805             | -234                                    | 1,153                | 4,931         | -1,645        | -515                                                            | 11,495            |
+| Current financial liabilities     | 44,013            | -234                                    | 84,202               | 21,654        | -18,374       | -91                                                             | 131,170           |
+| Total                             | 180,065           | -234                                    | 0                    | 28,254        | -18,374       | -68                                                             | 189,642           |
+
+Additions and repayments are cash-effective. Reclassifications between non-current and current financial liabilities are non-cash effective and relate to reclassifications due to planned repayments or remaining terms. The column
+
+{62}------------------------------------------------
+
+"Other movements" mainly shows the reclassification of the loan from KAPSCH-Group Beteiligungs GmbH in the amount of EUR 5.0 million, which was contributed to equity as part of the capital increase, as well as the financial liabilities reclassified as liabilities held for sale.
+
+Details to the remaining tranches, maturity periods and interest rates of the promissory note bond, placed in June 2016, are as follows:
+
+| Tranche         | Interest rate | Interest fixing and<br>interest payment | Repayment     |
+|-----------------|---------------|-----------------------------------------|---------------|
+| EUR 8.5 million | 2.26%         | yearly                                  | June 16, 2026 |
+
+The gross cash flows (including interest) of current and non-current financial liabilities are as follows:
+
+| 2023/24                            | Promissory<br>note bond | Loans for<br>acquisi<br>tions | Loans for<br>project<br>financing | Operating<br>loans | Other<br>loans | Total   |
+|------------------------------------|-------------------------|-------------------------------|-----------------------------------|--------------------|----------------|---------|
+| In the next 6 months               | 117                     | 85                            | 4,752                             | 3,898              | 3,768          | 12,619  |
+| In the next 7 to 12 months         | 117                     | 85                            | 2,027                             | 2,233              | 309            | 4,770   |
+| Gross cash flows up to one year    | 234                     | 170                           | 6,778                             | 6,131              | 4,077          | 17,390  |
+| Between 1 and 2 years              | 8,552                   | 3,201                         | 24,517                            | 56,911             | 1,399          | 94,582  |
+| Between 2 and 3 years              | 0                       | 0                             | 0                                 | -0                 | 0              | -0      |
+| Between 3 and 4 years              | 0                       | 0                             | 0                                 | -0                 | 0              | -0      |
+| Between 4 and 5 years              | 0                       | 0                             | 0                                 | -0                 | 0              | 0       |
+| Gross cash flows more than 5 years | 0                       | 0                             | 0                                 | 0                  | 0              | 0       |
+| Total                              | 8,787                   | 3,371                         | 31,296                            | 63,042             | 5,476          | 111,971 |
+
+| 2022/23                            | Promissory<br>note bond | Loans for<br>acquisi<br>tions | Loans for<br>project<br>financing | Operating<br>loans | Other<br>loans | Total   |
+|------------------------------------|-------------------------|-------------------------------|-----------------------------------|--------------------|----------------|---------|
+| In the next 6 months               | 23,398                  | 3,600                         | 13,575                            | 28,335             | 5,752          | 74,658  |
+| In the next 7 to 12 months         | 117                     | 1,793                         | 31,726                            | 22,905             | 5,363          | 61,905  |
+| Gross cash flows up to one year    | 23,515                  | 5,393                         | 45,301                            | 51,240             | 11,115         | 136,564 |
+| Between 1 and 2 years              | 59                      | 0                             | 694                               | 11,673             | 5,728          | 18,154  |
+| Between 2 and 3 years              | 59                      | 0                             | 0                                 | 10,424             | 0              | 10,483  |
+| Between 3 and 4 years              | 8,550                   | 0                             | 0                                 | 10,273             | 0              | 18,823  |
+| Between 4 and 5 years              | 0                       | 0                             | 0                                 | 14,276             | 0              | 14,276  |
+| Gross cash flows more than 5 years | 0                       | 0                             | 0                                 | 0                  | 0              | 0       |
+| Total                              | 32,182                  | 5,393                         | 45,995                            | 97,886             | 16,843         | 198,299 |
+
+Interest rates on current and non-current financial liabilities are as follows:
+
+|                                  | 2022/23     | 2023/24     |
+|----------------------------------|-------------|-------------|
+| Carrying fixed interest rates    | 77,872      | 51,363      |
+| Carrying variable interest rates | 111,770     | 53,294      |
+| Total financial liabilities:     | 189,642     | 104,657     |
+| Average interest rates:          |             |             |
+| Promissory note bond             | 2.00–4.52%  | 2.26–6.632% |
+| Loans for acquisitions           | 1.09–3.07%  | 5.37%       |
+| Loans for project financing      | 2.00–7.21%  | 6.60–7.20%  |
+| Operating loans1)                | 0.26–12.00% | 5.30–14.00% |
+| Other loans1)                    | 0.15–5.50%  | 5.20–10.50% |
+
+1) The higher interest rates relate also to financial liabilities in countries outside Europe, mostly with high inflation.
+
+{63}------------------------------------------------
+
+Bills of exchange amounting to EUR 32,641 k (March 31, 2023: EUR 49,679 k) were issued for an export promotion loan and loans for acquisitions as well as for an operating loan.
+
+On May 31, 2023, Kapsch TrafficCom AG reached an agreement on a comprehensive refinancing of short-term financial liabilities (including promissory note bonds) with its major financial creditors. Existing financing in the amount of EUR 106.3 million was extended until May 25, 2025. The restructuring measures include improvements in processes, optimizations in procurement, optimizations on the sales side, improvements in project processing, focusing on and improving net working capital as well as selective personnel measures. The aim was to materially reduce net debt by at least EUR 60 million and to achieve a net debt to EBITDA ratio of 3.0x in the longer term.
+
+In addition, new financing was concluded, with which half of the seven-year promissory note bond (EUR 11.5 million) were repaid. On the other hand, one of these promissory note creditors provided an additional loan in the amount of EUR 4.25 million, which also had a term until May 25, 2025. New financing, was subject to increased terms in line with market conditions; in addition, the financial creditors were entitled to a repayment premium in certain cases (also for existing financing). In order to achieve the targeted reduction in current net debt, the company has agreed to make early repayments from surplus cash and cash equivalents (cash sweep), from extraordinary inflows and from pending proceedings (particularly those in Germany) and to not distribute any dividends. The company's dividend policy therefore remains suspended. As part of the refinancing of financial liabilities, new, customary covenants (net debt/EBITDA and equity ratio) and conditions were agreed with the financial creditors for the next two years. Compliance with these covenants and the implementation status of the operational measures were closely monitored and reported on with the support of an external consultant.
+
+The main shareholder KAPSCH-Group Beteiligungs GmbH supported the restructuring – in addition to loans totaling EUR 5 million already granted at the end of 2022 – by pledging all of its shares held in the company, which currently corresponds to around 63.3% of the company's share capital.
+
+The company also undertook to use the entire existing authorized capital to the extent of 10% of the company's share capital (corresponding to 1.3 million new shares in the company) to create sufficient liquidity, whereby the main shareholder KAPSCH-Group Beteiligungs GmbH was entitled to contribute financial support already provided. The capital increase was carried out on November 21, 2023 (see note 22).
+
+Furthermore, a new financing line for KTC USA Inc., USA, was agreed in June 2023, which can be utilized up to USD 20 million. As at the balance sheet date of March 31, 2024, the relevant utilization was EUR 3.6 million.
+
+The Group was able to significantly reduce its financial liabilities in the past financial year, primarily due to the inflow of funds from the German arbitration proceedings. In accordance with a defined waterfall principle, all new financing was initially repaid and older loans were subsequently serviced, whereby it was ensured that all banks involved were serviced in proportion to the outstanding loan amount. In total, repayments of EUR 87.5 million were made in two tranches (September 2023 and March 2024). As a result, Kapsch TrafficCom AG already significantly exceeded its net debt reduction target in the 2023/24 financial year.
+
+In May 2024, the term of the existing restructuring agreement, including all outstanding credit lines, was extended until March 31, 2026. Furthermore, Kapsch TrafficCom AG commits to make repayments totaling EUR 20 million between December 31, 2024 and December 31, 2025.
+
+{64}------------------------------------------------
+
+## 24 Lease liabilities.
+
+|                               | March 31, 2023 | March 31, 2024 |
+|-------------------------------|----------------|----------------|
+| Non-current lease liabilities | 32,199         | 26,932         |
+| Current lease liabilities     | 11,595         | 9,158          |
+|                               | 43,794         | 36,090         |
+
+Movements of right-of-use assets from leases and classifications are included in note 12 Property, plant and equipment. The Group only acts as lessor to an insignificant extent. Furthermore, the Group has concluded sublease agreements and shows receivables from these leases instead of right-of-use from leases. As of March 31, 2024, non-current receivables from leases amounted to EUR 225 k (March 31, 2023: EUR 741 k) and current receivables from leases to EUR 474 k (March 31, 2023: EUR 567 k).
+
+The movements are as follows:
+
+|                                                    | 2022/23 | 2023/24 |
+|----------------------------------------------------|---------|---------|
+| Balance as of April 1 of previous year             | 39,544  | 43,794  |
+| Disposal resulting from the sale of subsidiaries   | -128    | 0       |
+| New leases (non-cash relevant additions)           | 23,543  | 5,905   |
+| Disposal from termination of leases                | -4,663  | -290    |
+| Repayments (included in financing cashflow)        | -14,174 | -11,791 |
+| Interest payments (included in financing cashflow) | -1,742  | -1,831  |
+| Interest expenses                                  | 1,493   | 1,477   |
+| Currency translation differences                   | -79     | -883    |
+|                                                    | 0       | -288    |
+| Balance as of March 31 of financial year           | 43,794  | 36,090  |
+| thereof non-current lease liabilities              | 32,199  | 26,932  |
+
+The addition in financial year 2022/23 results mainly from the extension of the lease agreement until 2032 for the office building of the headquarters in Vienna.
+
+The cash flows of lease liabilities are as follows:
+
+|                                        | March 31, 2023 | March 31, 2024 |
+|----------------------------------------|----------------|----------------|
+| In the next 6 months                   | 6,022          | 5,158          |
+| In the next 7 to 12 months             | 5,573          | 4,000          |
+| <b>Gross cash flows up to one year</b> | <b>11,595</b>  | <b>9,158</b>   |
+| Between 1 and 2 years                  | 7,668          | 6,709          |
+| Between 2 and 3 years                  | 5,122          | 5,003          |
+| Between 3 and 4 years                  | 4,327          | 4,183          |
+| Between 4 and 5 years                  | 3,846          | 3,407          |
+| More than 5 years                      | 11,235         | 7,630          |
+| <b>Total</b>                           | <b>43,794</b>  | <b>36,090</b>  |
+
+The weighted average incremental borrowing rate applied for the valuation of lease liabilities as of March 31, 2024 amounted to 4.03% (March 31, 2023: 3.49%). In case the incremental borrowing rate would change by +0.5 pp compared to the current one, the lease liabilities would change by approximately EUR -485 k (March 31, 2023: EUR -640 k); In case the incremental borrowing rate would change by -0.5 pp, the lease liabilities would change by approximately EUR +444 k (March 31, 2023: EUR +659 k).
+
+The Group applies the exemptions regarding "short-term leases with a term of not more than twelve months" and leases of "low-value assets". Those leases are not recognized in the balance sheet, instead, payments made for such leases continue to be recognized as expenses.
+
+{65}------------------------------------------------
+
+Details of these expenses are as follows:
+
+|                                          | 2022/23            |                         | 2023/24                |                    |                         |                        |
+|------------------------------------------|--------------------|-------------------------|------------------------|--------------------|-------------------------|------------------------|
+|                                          | Rental<br>expenses | IT<br>expendi-<br>tures | Automobile<br>expenses | Rental<br>expenses | IT<br>expendi-<br>tures | Automobile<br>expenses |
+| Expenses of low value assets             | 601                | 5,074                   | 460                    | 310                | 4,457                   | 337                    |
+| Expenses of short term leases            | 660                | 205                     | 1,267                  | 901                | 364                     | 976                    |
+| Variable lease payments and service part | 2,861              | 3,451                   | 2,838                  | 3,444              | 7,767                   | 3,042                  |
+| Total                                    | 4,122              | 8,730                   | 4,565                  | 4,656              | 12,588                  | 4,356                  |
+
+## 25 Liabilities from post-employment benefits to employees.
+
+|                                      | March 31, 2023 | March 31, 2024 |
+|--------------------------------------|----------------|----------------|
+| Termination benefits                 | 8,143          | 8,119          |
+| Pension benefits                     | 10,907         | 11,224         |
+| Obligations from anniversary bonuses | 1,551          | 1,819          |
+| Total                                | 20,602         | 21,162         |
+
+#### Parameters.
+
+Termination benefits obligations were valued based on an interest rate of 3.50% (2022/23: 3.95%) and in Mexico on an interest of 9.48% (2022/23: 8.90%) and a percentage rate of 3.00%-5.50% for the salary increases (2022/23: 3.00%-5.50%). Retirement benefit obligations were valued based on an interest rate of 3.50% (2022/23: 3.95%) for the Euro zone and based on an interest rate of 4.90% (2022/23: 4.90%) for Canada as well as compensation increases based on a rate of 2.5%–3.50% (2022/23: 3.00%–5.50%). An interest rate of 3.50%–3.55% (2022/23: 3.95%–4.00% ) was used for the obligations from anniversary bonuses and 9.48% in Mexico (2022/23: 8.90%) and a value of 3.00%–5.50% (2022/23: 3.00%–5.50%) for salary increases. In addition, the calculation was based on the earliest possible statutory retirement age including transition provisions and using the mortality tables AVO 2018-P ANG (2022/23: AVO 2018-P ANG) by Pagler & Pagler for Austria and the 2014 Canadian Pension Mortality Private Tables for Canada.
+
+#### Termination benefits.
+
+This item essentially comprises legal and contractual claims of employees in Austria or their dependents on one-time severance payments. These may arise, in particular, on the basis of an employer's notice, amicable solution to the employment relationship, retirement or death of the employee. In the case of severance payments, the Group bears the risk of inflation resulting from salary adjustments, which simultaneously lead to higher severance payments. For employees who have joined Kapsch TrafficCom in Austria after December 31, 2002, payments into an external employee benefit fund are made on a monthly basis so that the Group does not normally incur any severance payments. Similar severance obligations also exist in other countries, such as in Mexico.
+
+The following amounts are recognized in the balance sheet and the statement of comprehensive income for termination benefits:
+
+|                                                  | 2022/23 | 2023/24 |
+|--------------------------------------------------|---------|---------|
+| Carrying amount as of March 31 of previous year  | 9,419   | 8,143   |
+| Remeasurements (actuarial gains / losses)        | -890    | 497     |
+| Current service cost                             | 192     | 629     |
+| Interest expense                                 | 78      | 265     |
+| Payments                                         | -780    | -1,624  |
+| IC-Transfer                                      | 67      | 165     |
+| Currency translation differences                 | 58      | 43      |
+| Carrying amount as of March 31 of financial year | 8,143   | 8,119   |
+| Total, included in the staff costs (note 6)      | 192     | 629     |
+| Total, included in the financial result (note 9) | 78      | 265     |
+
+{66}------------------------------------------------
+
+Remeasurements of liabilities from post-employment benefits to employees are attributable to the following positions:
+
+|                                                            | 2022/23 | 2023/24 |
+|------------------------------------------------------------|---------|---------|
+| Remeasurements from changes in demographic assumptions     | -3      | 26      |
+| Remeasurements from changes in financial assumptions       | -1,301  | 205     |
+| Remeasurements from other changes (experience adjustments) | 414     | 267     |
+| Total                                                      | -890    | 497     |
+
+The expected allocation for termination benefits for the next financial year 2024/25 amounts to EUR 373 k. The weighted average duration amounts to 6.8 years.
+
+In the following sensitivity analysis for termination benefit obligations, the impacts resulting from changes in significant actuarial assumptions were stated, whereas the other impact parameters were kept constant. However, in reality, it will be rather likely that several of these parameters will change.
+
+| Sensitivities                          | Changes in<br>assumption | Decrease in<br>assumption | Increase in<br>assumption |
+|----------------------------------------|--------------------------|---------------------------|---------------------------|
+| Impact of changes in the discount rate |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 0,5 pp                 | -239                      | 227                       |
+| Expected annual interest expenses (IC) | ± 0,5 pp                 | 28                        | -26                       |
+| Expected annual service costs (CSC)    | ± 0,5 pp                 | -2                        | 2                         |
+| Impact of changes in salary increases  |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 0,5 pp                 | 212                       | -221                      |
+| Expected annual interest expenses (IC) | ± 0,5 pp                 | 7                         | -8                        |
+| Expected annual service costs (CSC)    | ± 0,5 pp                 | 3                         | -3                        |
+| Impact of changes in fluctuation       |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 5%                     | 1                         | -1                        |
+| Expected annual interest expenses (IC) | ± 5%                     | 0                         | -0                        |
+| Expected annual service costs (CSC)    | ± 5%                     | -0                        | 0                         |
+
+#### Pension benefits.
+
+Liabilities for pension benefits recognized at the balance sheet date relate mainly to retirees. All pension agreements are based on the final salary, are granted as fixed monthly pension payments and are not covered by external plan assets (funds). In addition, contributions are paid to an external pension fund for employees of the Group (see note 6). For retirement benefits the Group bears the risk of longevity and inflation due to pension increases.
+
+The following amounts are recognized in the balance sheet and the statement of comprehensive income for pension benefits:
+
+|                                                                                                    | 2022/23 | 2023/24 |
+|----------------------------------------------------------------------------------------------------|---------|---------|
+| Carrying amount as of March 31 of previous year                                                    | 12,962  | 10,907  |
+| Remeasurements of employee benefit obligations after<br>termination of the employment relationship | -1,185  | 848     |
+| Current service cost                                                                               | 3       | 17      |
+| Interest expense                                                                                   | 182     | 445     |
+| Payments                                                                                           | -938    | -1,003  |
+| Currency translation differences                                                                   | -118    | 9       |
+| Carrying amount as of March 31 of financial year                                                   | 10,907  | 11,224  |
+| Total, included in the staff costs (note 6)                                                        | 3       | 17      |
+| Total, included in the financial result (note 9)                                                   | 182     | 445     |
+
+{67}------------------------------------------------
+
+The remeasurements of employee benefit obligations after termination of the employment relationship are as follows:
+
+|                                                        | 2022/23 | 2023/24 |
+|--------------------------------------------------------|---------|---------|
+| Remeasurements from changes in demographic assumptions | 0       | 0       |
+| Remeasurements from changes in financial assumptions   | -2,128  | 288     |
+| Remeasurements from other changes                      | 943     | 560     |
+| Total                                                  | -1,185  | 848     |
+
+The expected allocation for pension benefits for the next financial year 2024/25 amounts to EUR 323 k. The weighted average duration amounts to 9.6 years.
+
+In the following sensitivity analysis for pension obligations, the impacts resulting from changes in significant actuarial assumptions were stated, whereas the other parameters were kept constant. However, in reality it will be rather likely that several of these parameters will change.
+
+| Sensitivities                          | Changes in<br>assumption | Decrease in<br>assumption | Increase in<br>assumption |
+|----------------------------------------|--------------------------|---------------------------|---------------------------|
+| Impact of changes in the discount rate |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 0,5 pp                 | -417                      | 391                       |
+| Expected annual interest expenses (IC) | ± 0,5 pp                 | 38                        | -36                       |
+| Expected annual service costs (CSC)    | ± 0,5 pp                 | 0                         | 0                         |
+| Impact of changes in salary increases  |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 0,5 pp                 | 0                         | 0                         |
+| Expected annual interest expenses (IC) | ± 0,5 pp                 | 0                         | 0                         |
+| Expected annual service costs (CSC)    | ± 0,5 pp                 | 0                         | 0                         |
+
+#### Anniversary bonuses.
+
+The provision for anniversary bonuses (jubilee benefit obligations) relates to long-term claims of employees based on collective bargaining provisions of collective bargaining agreements.
+
+The following amounts are recognized in the balance sheet and in the statement of comprehensive income for anniversary bonuses:
+
+|                                                                                                    | 2022/23 | 2023/24 |
+|----------------------------------------------------------------------------------------------------|---------|---------|
+| Carrying amount as of March 31 of previous year                                                    | 1,817   | 1,551   |
+| Remeasurements of employee benefit obligations after termination of<br>the employment relationship | -213    | 82      |
+| Current service cost                                                                               | 76      | 296     |
+| Interest expense                                                                                   | 15      | 51      |
+| Payments                                                                                           | -168    | -254    |
+| IC-Transfer                                                                                        | 0       | 67      |
+| Currency translation differences                                                                   | 24      | 27      |
+| Carrying amount as of March 31 of financial year                                                   | 1,551   | 1,819   |
+| Total, included in the staff costs (note 6)                                                        | -137    | 378     |
+| Total, included in the financial result (note 9)                                                   | 15      | 51      |
+
+The expected allocation for obligations from anniversary bonuses for the financial year 2024/25 amounts to EUR 145 k, the weighted average duration is 7.9 years.
+
+IIn the following sensitivity analysis for anniversary bonuses, the effects of changes in significant actuarial influencing factors were presented, while the other influencing factors were kept constant. In reality, however, it is more likely that several of these influencing variables will change.
+
+{68}------------------------------------------------
+
+| Sensitivities                          | Changes in<br>assumption | Decrease in<br>assumption | Increase in<br>assumption |
+|----------------------------------------|--------------------------|---------------------------|---------------------------|
+| Impact of changes in the discount rate |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 0,5 pp                 | -50                       | 47                        |
+| Expected annual interest expenses (IC) | ± 0,5 pp                 | 5                         | -5                        |
+| Expected annual service costs (CSC)    | ± 0,5 pp                 | -3                        | 3                         |
+| Impact of changes in salary increases  |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 0,5 pp                 | 39                        | -41                       |
+| Expected annual interest expenses (IC) | ± 0,5 pp                 | 1                         | -1                        |
+| Expected annual service costs (CSC)    | ± 0,5 pp                 | 2                         | -3                        |
+| Impact of changes in fluctuation       |                          |                           |                           |
+| Defined benefit obligation (DBO)       | ± 5%                     | -23                       | 23                        |
+| Expected annual interest expenses (IC) | ± 5%                     | -1                        | 1                         |
+| Expected annual service costs (CSC)    | ± 5%                     | -2                        | 2                         |
+
+#### Analysis of expected maturity of undiscounted benefits.
+
+|                                         | 2024/25 | 2025/26 | 2026/27 | 2027/28 | 2028/29 | over 5<br>years | Total  |
+|-----------------------------------------|---------|---------|---------|---------|---------|-----------------|--------|
+| Termination benefits                    | 694     | 929     | 743     | 771     | 427     | 6,746           | 10,309 |
+| Pension benefits                        | 1,050   | 1,038   | 1,023   | 1,005   | 985     | 10,506          | 15,606 |
+| Obligations from anniversary<br>bonuses | 181     | 152     | 162     | 168     | 95      | 2,724           | 3,482  |
+
+## 26 Provisions.
+
+|                        | March 31, 2023 | March 31, 2024 |
+|------------------------|----------------|----------------|
+| Non-current provisions | 1,454          | 1,810          |
+| Current provisions     | 18,880         | 22,447         |
+| Total                  | 20,334         | 24,257         |
+
+The provisions changed as follows:
+
+|                                                       | March 31,<br>2023 | Addition<br>from<br>accumu<br>lation | Addition | Utilization | Disposal | Reclas-<br>sification | Currency<br>trans-<br>lation dif-<br>ferences | March 31,<br>2024 |
+|-------------------------------------------------------|-------------------|--------------------------------------|----------|-------------|----------|-----------------------|-----------------------------------------------|-------------------|
+| Warranties                                            | 271               | 0                                    | 0        | 0           | 0        | 51                    | 0                                             | 323               |
+| Projects (excluding impending<br>losses)              | 50                | 0                                    | 0        | 0           | 0        | -25                   | 0                                             | 25                |
+| Provision for restructuring costs                     | 6                 | 0                                    | 0        | 0           | 0        | -6                    | 0                                             | 0                 |
+| Other non-current provisions                          | 1,127             | 157                                  | 824      | -450        | -147     | -15                   | -32                                           | 1,462             |
+| Non-current provisions                                | 1,454             | 157                                  | 824      | -450        | -147     | 5                     | -32                                           | 1,810             |
+| Warranties                                            | 1,517             | 0                                    | 0        | 0           | -164     | -51                   | 1                                             | 1,303             |
+| Provision for losses from<br>onerous contracts        | 12,586            | 0                                    | 7,622    | -191        | -2,739   | 0                     | 48                                            | 17,326            |
+| Projects (excluding impending<br>losses)              | 897               | 0                                    | 1,189    | -425        | -97      | 25                    | -47                                           | 1,541             |
+| Legal fees, costs of litigation<br>and contract risks | 615               | 0                                    | 1,142    | -225        | -379     | 0                     | -8                                            | 1,145             |
+| Provision for restructuring costs                     | 204               | 0                                    | 0        | -208        | 0        | 6                     | 0                                             | 204               |
+| Other current provisions                              | 3,063             | 0                                    | 3,938    | -2,036      | -2,911   | -261                  | -662                                          | 1,131             |
+| Current provisions                                    | 18,880            | 0                                    | 13,891   | -3,085      | -6,290   | -281                  | -667                                          | 22,447            |
+| Total                                                 | 20,334            | 157                                  | 14,715   | -3,536      | -6,438   | -276                  | -699                                          | 24,257            |
+
+{69}------------------------------------------------
+
+|                                                    | March 31, 2022 | Additi-on from accumu-lation | Addition | Utilization | Disposal | Reclas-sification | Currency trans-lation dif-ferences | March 31, 2023 |
+|----------------------------------------------------|----------------|------------------------------|----------|-------------|----------|-------------------|------------------------------------|----------------|
+| Warranties                                         | 512            | 0                            | 0        | 0           | 0        | -241              | 0                                  | 27             |
+| Projects (excluding impending losses)              | 75             | 0                            | 0        | 0           | 0        | -25               | 0                                  | 50             |
+| Provision for restructuring costs                  | 22             | 0                            | 0        | 0           | 0        | -16               | 0                                  | 6              |
+| Other non-current provisions                       | 1,076          | 98                           | 4        | 0           | -14      | 0                 | -37                                | 1,127          |
+| Non-current provisions                             | 1,685          | 98                           | 4        | 0           | -14      | -282              | -37                                | 1,454          |
+| Warranties                                         | 1,772          | 0                            | 216      | 0           | -696     | 241               | -16                                | 1,517          |
+| Provision for losses from onerous contracts        | 20,976         | 0                            | 1,458    | -10,032     | -536     | 0                 | 719                                | 12,586         |
+| Projects (excluding impending losses)              | 4,457          | 0                            | 0        | -95         | -3,500   | 25                | 10                                 | 897            |
+| Legal fees, costs of litigation and contract risks | 305            | 0                            | 574      | -67         | -195     | 0                 | -2                                 | 615            |
+| Provision for restructuring costs                  | 155            | 0                            | 184      | -148        | 0        | 16                | -3                                 | 204            |
+| Other current provisions                           | 965            | 0                            | 5,132    | -758        | -2,040   | 0                 | -237                               | 3,063          |
+| Current provisions                                 | 28,630         | 0                            | 7,564    | -11,099     | -6,968   | 282               | 471                                | 18,880         |
+| Total                                              | 30,315         | 98                           | 7,569    | -11,099     | -6,982   | 0                 | 434                                | 20,334         |
+
+As manufacturer, dealer and service provider, the Group issues product warranties at the time of sale to its customers. Usually, under the terms of the warranty contract, the Group has the obligation to repair or replace manufacturing or software defects that become apparent within the period under guarantee. When the Group expects warranty claims on products sold or services rendered during the period under guarantee, a corresponding provision is set up in the financial statements. Based on the expectation that the majority of the expenditure will be incurred in the short or medium term, the best estimate for the cost of warranty is used for the recognition of the provision. Likewise, historical data is taken into account in the calculation of the provision amount. According to past experience, it is probable that there will be claims under the warranties. It is expected that an amount of EUR 17 k will be used in the first half of the financial year 2024/25, EUR 1,286 k in the second half of the year and the remaining amount of EUR 323 k in the following financial years.
+
+Current provisions of EUR 17,326 k have been recognized for losses from onerous contracts in the financial year 2023/24. A significant amount relates to various implementation projects of an American subsidiary that cannot be completed with a profit. The additions to current provisions for onerous contracts in the financial year 2023/24 also result primarily from the USA. A utilization in the amount of EUR 1,412 k is expected in the first half of the financial year 2024/25 and EUR 15,914 k in the second half of the year.
+
+The provisions for projects (excluding impending losses) mainly relate to current costs and repair services for current toll projects. It is expected that an amount of EUR 632 k will be used in the first half of the financial year 2024/25, EUR 909 k in the second half of the financial year and the remaining amount of EUR 25 k in the following financial years.
+
+Provisions for legal fees, costs of litigation and contract risks mainly relate to current legal cases and consulting costs. It is expected that the amount of EUR 550 k will be used in the first half and the amount of EUR 595 k will be used in the second half of the financial year 2024/25.
+
+Of the remaining provision for restructuring costs, utilization in the amount of EUR 2 k is expected in the first half of the subsequent financial year 2024/25.
+
+Other provisions mainly include provisions for taxes and duties, provisions for commissions, bonuses and claims for damages. The utilization in financial year 2023/24 relates to a provision of EUR 1,700 k for claims for damages in Austria. In the financial year 2023/24, the reclassification of other current provisions includes the reclassification to "liabilities held for sale". It is expected that an amount of EUR 606 k will be used in the first half of the financial year 2024/25, EUR 524 k in the second half of the year and the remaining amount of EUR 1,462 k in the following financial years.
+
+{70}------------------------------------------------
+
+## 27 Other liabilities and deferred income.
+
+|                                                        | March 31, 2023 | March 31, 2024 |
+|--------------------------------------------------------|----------------|----------------|
+| Other employee liabilities                             | 22,323         | 25,499         |
+| Liabilities to tax authorities (other than income tax) | 9,358          | 9,007          |
+| Other prepayments received                             | 3,322          | 10,019         |
+| Refund Liabilities                                     | 724            | 114            |
+| Sundry liabilities and deferred income                 | 7,937          | 7,354          |
+| Total                                                  | 43,664         | 51,992         |
+
+Other employee liabilities comprise liabilities to employees and board members, including liabilities for outstanding vacation and accruals for special payments as well as liabilities in connection with personnel costs (social security, etc.).
+
+The increase in other prepayments received is mainly due to advanced prepayments from projects in Brazil and Germany.
+
+The sundry liabilities and deferred income essentially include provisions for invoices not yet received or passive accruals of invoices.
+
+## 28 Contingent liabilities and other commitments as well as disclosure to German infrastructure charge.
+
+The Group's contingent liabilities primarily result from large-scale projects. Operating activities require the disclosure of bid bonds or performance bonds for major projects, which are issued by financial institutes and insurance companies. In case the contractual obligations cannot be fulfilled, there is a risk of utilization, that can result in a recourse claim of the financial institute or insurance company against the Group.
+
+The contingent liabilities and other commitments solely comprise obligations owed to third parties and are in line with standard industry practice. They detail as follows:
+
+|                                         | March 31, 2023 | March 31, 2024 |
+|-----------------------------------------|----------------|----------------|
+| North America (toll collection systems) | 26,595         | 26,752         |
+| Australia (toll collection systems)     | 14,568         | 14,271         |
+| Total                                   | 41,164         | 41,023         |
+
+Further performance and bid bonds from financial institutes or insurance companies, where an outflow of resources is deemed unlikely, amount to EUR 197,322 k (2022/23: EUR 248,347 k) and are not included in the balance sheet or in the contingent liabilities.
+
+Assets of Kapsch TrafficCom AB, Sweden, in the amount of EUR 10,412 k (March 31, 2023: EUR 10,638 k) were pledged as collateral for contingent liabilities in favor of a Swedish bank.
+
+## German infrastructure charge.
+
+In 2018 the joint venture autoTicket GmbH (autoTicket), Germany, was commissioned to levy the German infrastructure charge ("passenger vehicle toll"). Moreover in a separate contract the Group company MTS Maut & Telematik Services GmbH (MTS), Germany, had been awarded the contract for the "automatic control of the passenger vehicle toll".
+
+On June 18, 2019, the European Court of Justice (ECJ) ruled contrary to expectations that the passenger vehicle toll in its planned form, where in Germany accredited vehicles receive a tax relief simultaneously, violates the principles of the European Union. The customer terminated on the following day the contracts for the implementation and operation of the passenger vehicle toll effective September 30, 2019.
+
+{71}------------------------------------------------
+
+The operating parties of the terminated contract for the project "Toll collection" are Kapsch TrafficCom, CTS EVEN-TIM and autoTicket. In December 2019, they jointly asserted claims in the amount of around EUR 560,000 k against the Federal Republic of Germany. The responsible minister is disputing this claim. This matter was therefore need to be resolved before an arbitration tribunal.
+
+In March 2022 Kapsch TrafficCom received an interim arbitration award which affirms a claim for compensation of autoTicket against the Federal Republic of Germany on the merits. Consequently, in July 2023, an arbitration decision was reached with mutually agreed terms, compelling the Federal Republic of Germany to make a payment of EUR 243,000 k. This arbitration decision yielded a one-time EBIT impact of EUR 79.5 million and a cash inflow of EUR 109.2 million during the financial year.
+
+MTS Maut & Telematik Services GmbH (MTS) is fully consolidated and a 100% subsidiary of Kapsch TrafficCom AG. As a result of the termination of the contract for the automatic control of the toll, the parties of the contract (Kapsch TrafficCom AG and MTS) asserted claims against the Federal Republic of Germany as well.
+
+## 29 Interests in subsidiaries
+
+## Consolidated group.
+
+As of March 31, 2024 the consolidated group (including parent company Kapsch TrafficCom AG, Vienna) consists of 59 entities (March 31, 2023: 59 entities). The consolidated group changed as follows:
+
+|                                                           | 2022/23 | 2023/24 |
+|-----------------------------------------------------------|---------|---------|
+| Amount of entities at the beginning of the financial year | 61      | 59      |
+| Initial consolidation                                     | 0       | 3       |
+| Deconsolidations                                          | -2      | -3      |
+| Amount of entities in the consolidated group              | 59      | 59      |
+
+The regional distribution of the consolidated group was as follows:
+
+|                          | 2022/23 | 2023/24 |
+|--------------------------|---------|---------|
+| Austria                  | 6       | 6       |
+| EMEA (excluding Austria) | 28      | 29      |
+| Americas                 | 22      | 21      |
+| APAC                     | 3       | 3       |
+| Total                    | 59      | 59      |
+
+{72}------------------------------------------------
+
+The following companies are included in the consolidated financial statements:
+
+|                                                                                                                               | March 31, 2023   |                                   | March 31, 2024   |                                   |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------|------------------|-----------------------------------|
+| Entity, headquarter of entity                                                                                                 | Group's<br>share | Non-cont-<br>rolling<br>interests | Group's<br>share | Non-cont-<br>rolling<br>interests |
+| Arce Mobility Solutions, S.A., Bilbao, Spain2)                                                                                | –                | –                                 | –                | –                                 |
+| ArtiBrain Software Entwicklungsgesellschaft mbH, Vienna,<br>Austria                                                           | 100.0%           | –                                 | 100.0%           | –                                 |
+| Consorcio ITS Parques del Rio (Consortium), Bogotá, Colombia                                                                  | 60.0%            | 40.0%                             | 60.0%            | 40.0%                             |
+| Consorcio Medellin al Mar (Consortium), Bogotá, Colombia                                                                      | 51.0%            | 49.0%                             | 51.0%            | 49.0%                             |
+| Consorcio Peaje AGR (Consortium), Quito, Ecuador                                                                              | 51.0%            | 49.0%                             | 51.0%            | 49.0%                             |
+| Consorcio Túneles Al Nus (Consortium), Bogotá, Colombia                                                                       | 51.0%            | 49.0%                             | 51.0%            | 49.0%                             |
+| Electronic Toll Collection (PTY) Ltd., Centurion, South Africa                                                                | 100.0%           | –                                 | 100.0%           | –                                 |
+| Intelligent Mobility Solutions Limited, Lusaka, Zambia                                                                        | 51.0%            | 49.0%                             | 51.0%            | 49.0%                             |
+| Kapsch Components GmbH & Co KG, Vienna, Austria                                                                               | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Components GmbH, Vienna, Austria                                                                                       | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Road Services Sp. z o.o., Gliwice, Poland (now: War-<br>saw, Poland)                                                   | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Telematic Services GmbH Deutschland, Berlin,<br>Germany                                                                | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Telematic Services GmbH, Vienna, Austria                                                                               | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Telematic Services IOOO, Minsk, Belarus                                                                                | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Telematic Services Sp. z o.o., Warsaw, Poland                                                                          | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Telematic Services spol. s r.o., Prague, Czech Republic                                                                | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Telematik Technologies Bulgaria EAD, Sofia, Bulgaria                                                                   | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch Traffic Solutions (Consortium), Sofia, Bulgaria                                                                        | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom - Rowing - UTE (Consortium), Buenos Aires,<br>Argentina3)                                                   | 50.0%            | 50.0%                             | 50.0%            | 50.0%                             |
+| Kapsch TrafficCom AB, Jonkoping, Sweden                                                                                       | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Arce Sistemas S.A.U., Bilbao, Spain                                                                         | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Argentina S.A., Buenos Aires, Argentina                                                                     | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Australia Pty Ltd, Melbourne, Australia                                                                     | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom B.V., Amsterdam, Netherlands                                                                                | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Canada Inc., Mississauga, Canada                                                                            | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Chile S.A., Santiago de Chile, Chile                                                                        | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Dominican Republic S.R.L., Santo Domingo,<br>Dominican Republic                                             | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom France SAS, Paris, France                                                                                   | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Holding Corp., McLean, USA                                                                                  | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Holding II US Corp., McLean, USA                                                                            | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Inc., McLean, USA                                                                                           | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Ireland Limited, Dublin, Ireland                                                                            | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Lietuva UAB, Vilnius, Lithuania1)                                                                           | 51.0%            | 49.0%                             | 51.0%            | 49.0%                             |
+| Kapsch TrafficCom Ltd., Middlesex, United Kingdom                                                                             | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom México, S.A.P.I. de C.V. (before: SIMEX,<br>Integración de Sistemas, S.A.P.I. de C.V.), Mexico City, Mexico | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom New Zealand Ltd., Auckland, New Zealand                                                                     | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Norway AS, Oslo, Norway1)                                                                                   | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Peru S.A.C., Lima, Peru                                                                                     | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom PTE. LTD.,The Heeren, Singapore                                                                             | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Russia, OOO, Moscow, Russia                                                                                 | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom S.A.S., Bogotá, Colombia                                                                                    | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Saudi Arabia Co. Lt., Jeddah, Saudi Arabia                                                                  | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Services Ukraine LLC, Kyiv, Ukraine                                                                         | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Services USA, Inc., McLean, USA                                                                             | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom South Africa (Pty) Ltd., Sunninghill,<br>South Africa                                                       | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom South Africa Holding (Pty) Ltd., Cape Town,<br>South Africa                                                 | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Transportation Argentina S.A.,<br>Buenos Aires, Argentina                                                   | 100.0%           | –                                 | 100.0%           | –                                 |
+|                                                                                                                               | March 31, 2023   |                                   | March 31, 2024   |                                   |
+| Entity, headquarter of entity                                                                                                 | Group's<br>share | Non-cont-<br>rolling<br>interests | Group's<br>share | Non-cont-<br>rolling<br>interests |
+| Kapsch TrafficCom Transportation Brasil Ltda., São Paulo, Brazil                                                              | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Transportation Colombia S.A.S., Bogotá,<br>Colombia                                                         | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Transportation S.A.U., Madrid, Spain                                                                        | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom USA, Inc., McLean, USA                                                                                      | 100.0%           | –                                 | 100.0%           | –                                 |
+| Kapsch TrafficCom Zagreb d.o.o, Zagreb, Croatia6)                                                                             | 100.0%           | –                                 | 100.0%           | –                                 |
+| KTC-ZA HOLDING (Pty) Ltd, Cape Town, South Africa6)                                                                           | 100.0%           | –                                 | 100.0%           | –                                 |
+| KTS Beteiligungs GmbH, Vienna, Austria                                                                                        | 100.0%           | –                                 | 100.0%           | –                                 |
+| Mobiserve (Pty) Ltd., Cape Town, South Africa5)                                                                               | 100.0%           | –                                 | 100.0%           | –                                 |
+| MTS Maut & Telematik Services GmbH, Berlin, Germany                                                                           | 100.0%           | –                                 | 100.0%           | –                                 |
+| Streetline Inc., Foster City, USA1)                                                                                           | 97.0%            | 3.0%                              | 97.0%            | 3.0%                              |
+| Telvent Thailand Ltd., Bangkok, Thailand2)                                                                                    | –                | –                                 | –                | –                                 |
+| TMT Services and Supplies (Pty) Ltd., Cape Town, South Africa4)                                                               | 100.0%           | –                                 | 100.0%           | –                                 |
+| tolltickets GmbH, Rosenheim, Germany                                                                                          | 100.0%           | 0.0%                              | 100.0%           | 0.0%                              |
+| Traffic AI Services sp. z o.o., Lublin, Poland7)                                                                              | –                | –                                 | 80.0%            | 20.0%                             |
+| Transport Telematic Systems - LLC, Abu Dhabi,<br>United Arab Emirates4)                                                       | 49.0%            | 51.0%                             | 49.0%            | 51.0%                             |
+| Trust South Africa, Cape Town, South Africa5)                                                                                 | 100.0%           | –                                 | 100.0%           | –                                 |
+
+{73}------------------------------------------------
+
+1) Deconsolidation in financial year 2023/24
+
+2) Deconsolidation in financial year 2022/23
+
+3) Consolidation due to voting-right-agreements
+
+4) Power over the relevant activities of the entity based on substantive rights
+
+5) IFRS 10 control of Trust South Africa and thus full consolidation with 100%
+
+6) Foundation in financial year 2023/24
+
+7) Acquisition of minor significance in financial year 2023/24
+
+Kapsch TrafficCom Zagreb d.o.o., Zagreb, Croatia, was established by Kapsch TrafficCom AG on July 6, 2023.
+
+On November 17, 2023, the company Traffic AI Services sp. z o.o., Lublin, Poland, was acquired. This company is an 80.0% subsidiary of Kapsch Telematic Services Sp. z.o.o., Poland.
+
+On December 19, 2023, KTC-ZA HOLDING (Pty) Ltd., Cape Town, South Africa, was jointly established by investments from Kapsch TrafficCom South Africa Holding (Pty) Ltd, Cape Town (70.0% ownership), and Mobiserve (Pty) Ltd, Cape Town (30.0% ownership).
+
+On July 10, 2023, Kapsch TrafficCom AG sold its 51.0% ownership share in Kapsch TrafficCom Lietuva UAB, Vilnius, Lithuania.
+
+Kapsch TrafficCom Norway AS, Oslo, Norway, was liquidated on July 31, 2023.
+
+In March 2024, the liquidation of Streetline Inc., Foster City, USA (with a corporate interest of 97.0%), was completed.
+
+For all entities mentioned above the headquarter of the company complies with the country of incorporation. The Group's share shows the share at which the companies are included in the consolidated financial statements.
+
+Only the following entities do not report at balance sheet date as of March 31 due to legal restrictions or other reasons, but present interim financial statements:
+
+- Kapsch TrafficCom Russia OOO, Moscow, Russia (December 31)
+- Kapsch Telematik Technologies Bulgaria EAD, Sofia, Bulgaria (December 31)
+- Kapsch Telematic Services IOOO, Minsk, Republic of Belarus (December 31)
+- KTS Beteiligungs GmbH, Vienna (December 31)
+- Kapsch TrafficCom Lietuva UAB, Vilnius, Lithuania (December 31), sold as of July 10, 2023
+- Kapsch TrafficCom México, S.A.P.I. de C.V., México (December 31)
+- Traffic AI Services sp. z o.o., Lublin, Poland (December 31)
+
+{74}------------------------------------------------
+
+## **30 Non-controlling interests.**
+
+The non-controlling interests represent the third party shares in the equity of consolidated subsidiaries.
+
+#### Information on the balance sheet.
+
+The balance sheet of the consolidated subsidiaries with material non-controlling interests and the carrying amount of material non-controlling interests are presented below:
+
+| 2023/24                                           | Amounts before intercompany eliminations |                   |                                |                        |            |                                                           |
+|---------------------------------------------------|------------------------------------------|-------------------|--------------------------------|------------------------|------------|-----------------------------------------------------------|
+|                                                   | Non-<br>current<br>assets                | Current<br>assets | Non-<br>current<br>liabilities | Current<br>liabilities | Net assets | Carrying<br>amount of<br>non-<br>controlling<br>interests |
+| Consorcio ITS Parques del Rio,<br>Colombia        | 0                                        | 281               | 11                             | 373                    | -102       | -41                                                       |
+| Consorcio Medellin al Mar, Colombia               | 0                                        | 1,262             | 0                              | 2,494                  | -1,233     | -604                                                      |
+| Consorcio Peaje AGR, Ecuador                      | 2                                        | 633               | 0                              | 717                    | -81        | -40                                                       |
+| Consorcio Túneles Al Nus, Colombia                | 0                                        | 431               | 0                              | 121                    | 310        | 145                                                       |
+| Intelligent Mobility Solutions Limited,<br>Zambia | 0                                        | 133               | 8,929                          | 5,251                  | -14,047    | -7,261                                                    |
+| Kapsch TrafficCom - Rowing - UTE,<br>Argentina    | 224                                      | 2,940             | 147                            | 821                    | 2,197      | 1,098                                                     |
+| Traffic AI Services Poland                        | 102                                      | 70                | 0                              | 152                    | 20         | 4                                                         |
+| Carrying amount as of March 31,<br>2024           |                                          |                   |                                |                        |            | -6,698                                                    |
+
+|                                                   | Amounts before intercompany eliminations |                   |                                |                        |            |                                                           |
+|---------------------------------------------------|------------------------------------------|-------------------|--------------------------------|------------------------|------------|-----------------------------------------------------------|
+| 2022/23                                           | Non-<br>current<br>assets                | Current<br>assets | Non-<br>current<br>liabilities | Current<br>liabilities | Net assets | Carrying<br>amount of<br>non-<br>controlling<br>interests |
+| Consorcio ITS Parques del Rio,<br>Colombia        | 0                                        | 232               | 9                              | 308                    | -85        | -34                                                       |
+| Consorcio Medellin al Mar, Colombia               | 0                                        | 2,743             | 0                              | 1,834                  | 909        | 445                                                       |
+| Consorcio Peaje AGR, Ecuador                      | 0                                        | 1,045             | 1                              | 942                    | 102        | 50                                                        |
+| Consorcio Túneles Al Nus, Colombia                | 0                                        | 360               | 0                              | 135                    | 224        | 103                                                       |
+| Intelligent Mobility Solutions Limited,<br>Zambia | -0                                       | 155               | 8,120                          | 6,355                  | -14,320    | -7,395                                                    |
+| Kapsch TrafficCom - Rowing - UTE,<br>Argentina    | 75                                       | 4,965             | 0                              | 1,346                  | 3,694      | 1,847                                                     |
+| Kapsch TrafficCom Lietuva UAB,<br>Lithuania       | 0                                        | 46                | 0                              | 7                      | 39         | 22                                                        |
+| Streetline Inc., USA                              | 0                                        | 17                | 0                              | 0                      | 17         | -32                                                       |
+| Carrying amount as of March 31,<br>2023           |                                          |                   |                                |                        |            | -4,994                                                    |
+
+{75}------------------------------------------------
+
+#### Information on the statement of comprehensive income.
+
+The statement of comprehensive income of the consolidated subsidiaries with material non-controlling interests are presented below (amounts before intercompany elimination):
+
+|                                                | Amounts before intercompany eliminations |                       |                            |                            | Amounts attributable to non-controlling interests |                            |                            |
+|------------------------------------------------|------------------------------------------|-----------------------|----------------------------|----------------------------|---------------------------------------------------|----------------------------|----------------------------|
+| 2023/24                                        | Revenues                                 | Result for the period | Other comprehensive income | Total comprehensive income | Result for the period                             | Other comprehensive income | Total comprehensive income |
+| Consorcio ITS Parques del Rio, Colombia        | 0                                        | 0                     | -18                        | -18                        | 0                                                 | -7                         | -7                         |
+| Consorcio Medellin al Mar, Colombia            | 690                                      | -2,171                | 29                         | -2,141                     | -1,064                                            | 14                         | -1,049                     |
+| Consorcio Peaje AGR, Ecuador                   | 482                                      | -183                  | 0                          | -183                       | -90                                               | 0                          | -90                        |
+| Consorcio Túneles Al Nus, Colombia             | 193                                      | 36                    | 50                         | 86                         | 17                                                | 25                         | 42                         |
+| Intelligent Mobility Solutions Limited, Zambia | 0                                        | -1,961                | 2,235                      | 273                        | -961                                              | 1,095                      | 134                        |
+| Kapsch TrafficCom - Rowing - UTE, Argentina    | 5,965                                    | 2,399                 | -3,896                     | -1,497                     | 1,200                                             | -1,948                     | -748                       |
+| Kapsch TrafficCom Lietuva UAB, Lithuania       | 0                                        | -26                   | 0                          | -26                        | -13                                               | 0                          | -13                        |
+| Streetline Inc., USA                           | 0                                        | 0                     | 427                        | 427                        | -13                                               | 13                         | 0                          |
+| Traffic AI Services Poland                     | 10                                       | 24                    | 1                          | 25                         | 5                                                 | 0                          | 5                          |
+| <b>Total</b>                                   |                                          |                       |                            |                            | -918                                              | -808                       | -1,727                     |
+
+|                                                | Amounts before intercompany eliminations |                       |                            |                            | Amounts attributable to non-controlling interests |                            |                            |
+|------------------------------------------------|------------------------------------------|-----------------------|----------------------------|----------------------------|---------------------------------------------------|----------------------------|----------------------------|
+| 2022/23                                        | Revenues                                 | Result for the period | Other comprehensive income | Total comprehensive income | Result for the period                             | Other comprehensive income | Total comprehensive income |
+| Consorcio ITS Parques del Rio, Colombia        | 0                                        | 0                     | 18                         | 18                         | 0                                                 | 7                          | 7                          |
+| Consorcio Medellin al Mar, Colombia            | 7,348                                    | -262                  | -218                       | -480                       | -129                                              | -107                       | -235                       |
+| Consorcio Peaje AGR, Ecuador                   | 552                                      | 3                     | 2                          | 5                          | 2                                                 | 1                          | 3                          |
+| Consorcio Túneles Al Nus, Colombia             | 303                                      | 50                    | -159                       | -109                       | 24                                                | -78                        | -54                        |
+| Intelligent Mobility Solutions Limited, Zambia | 0                                        | -2,525                | 2,348                      | -176                       | -1,237                                            | 1,151                      | -86                        |
+| Kapsch TrafficCom - Rowing - UTE, Argentina    | 8,417                                    | 3,803                 | -1,969                     | 1,834                      | 1,902                                             | -985                       | 917                        |
+| Kapsch TrafficCom Lietuva UAB, Lithuania       | 0                                        | 1                     | 0                          | 1                          | 1                                                 | 0                          | 1                          |
+| Total                                          |                                          |                       |                            |                            | 563                                               | -11                        | 552                        |
+
+{76}------------------------------------------------
+
+#### Information on the cash flow statement and dividends.
+
+The cash flow statement and dividends of the consolidated subsidiaries with material non-controlling interests are presented below (amounts before intercompany elimination):
+
+|                                                   |                         | Cash flow from          |                         |                                   |                                                   |
+|---------------------------------------------------|-------------------------|-------------------------|-------------------------|-----------------------------------|---------------------------------------------------|
+| 2023/24                                           | Operating<br>activities | Investing<br>activities | Financing<br>activities | Cash net<br>increase/<br>decrease | Dividends paid to<br>non-controlling<br>interests |
+| Consorcio Medellin al Mar,<br>Colombia            | -99                     | 176                     | -351                    | -273                              | 0                                                 |
+| Consorcio Peaje AGR, Ecuador                      | -240                    | 249                     | -9                      | 0                                 | 0                                                 |
+| Consorcio Túneles Al Nus,<br>Colombia             | -9                      | 0                       | -0                      | -10                               | 0                                                 |
+| Intelligent Mobility Solutions<br>Limited, Zambia | 599                     | 0                       | -599                    | 0                                 | 0                                                 |
+| Kapsch TrafficCom - Rowing -<br>UTE, Argentina    | 600                     | 0                       | -74                     | 526                               | 0                                                 |
+| Kapsch TrafficCom Lietuva UAB,<br>Lithuania       | -20                     | -8                      | 0                       | -28                               | 0                                                 |
+| Streetline Inc., USA                              | 0                       | -18                     | -0                      | -17                               | 0                                                 |
+| Traffic Al Services Poland                        | 78                      | -41                     | -0                      | -41                               | 0                                                 |
+| Total                                             |                         |                         |                         |                                   | 0                                                 |
+
+|                                                   |                         | Cash flow from          |                         |                                   |                                                   |  |
+|---------------------------------------------------|-------------------------|-------------------------|-------------------------|-----------------------------------|---------------------------------------------------|--|
+| 2022/23                                           | Operating<br>activities | Investing<br>activities | Financing<br>activities | Cash net<br>increase/<br>decrease | Dividends paid to<br>non-controlling<br>interests |  |
+| Consorcio Medellin al Mar,<br>Colombia            | -3,136                  | -8                      | 728                     | -2,416                            | 0                                                 |  |
+| Consorcio Peaje AGR, Ecuador                      | -5                      | 0                       | 0                       | -5                                | 0                                                 |  |
+| Consorcio Túneles Al Nus,<br>Colombia             | 437                     | -55                     | -512                    | -131                              | -251                                              |  |
+| Intelligent Mobility Solutions<br>Limited, Zambia | 0                       | 0                       | 0                       | 0                                 | 0                                                 |  |
+| Kapsch TrafficCom - Rowing -<br>UTE, Argentina    | 571                     | 0                       | -64                     | 507                               | 0                                                 |  |
+| Kapsch TrafficCom Lietuva UAB,<br>Lithuania       | -7                      | 0                       | 0                       | -7                                | 0                                                 |  |
+| Total                                             |                         |                         |                         |                                   | -251                                              |  |
+
+{77}------------------------------------------------
+
+## 31 Related parties.
+
+The related entities and persons of Kapsch TrafficCom include, in particular, Kapsch Group companies, including their subsidiaries, joint ventures and associated companies, their executive bodies (Executive Board and Supervisory Board, if present) as well as close members of the bodies' families and companies over which they have control or significant influence.
+
+The direct parent company of the reporting entity is KAPSCH-Group Beteiligungs GmbH, Vienna. Subsidiaries of this company are referred to as affiliated companies if they are not part of the Group of Kapsch TrafficCom AG.
+
+Balances and transactions between Kapsch TrafficCom AG and its fully consolidated subsidiaries were eliminated in the course of consolidation and are not explained any further.
+
+Services with related parties take place at arm's length. Goods are bought and sold at normal market conditions.
+
+The following table provides an overview of revenues and expenses in the past financial years for related parties:
+
+|                                              | 2022/23 | 2023/24 |
+|----------------------------------------------|---------|---------|
+| Parent company                               |         |         |
+| Revenues                                     | 60      | 65      |
+| Expenses                                     | -123    | -207    |
+| Income (+) / Expense (-) from tax allocation | -26     | 0       |
+| Affiliated companies                         |         |         |
+| Revenues                                     | 241     | 314     |
+| Expenses                                     | -5,998  | -5,897  |
+| Associated companies                         |         |         |
+| Revenues                                     | 96      | 204     |
+| Expenses                                     | -2,350  | 120     |
+| Joint ventures                               |         |         |
+| Revenues                                     | 170     | 53      |
+| Expenses                                     | -3,717  | 0       |
+| Other related parties                        |         |         |
+| Revenues                                     | 0       | 0       |
+| Expenses                                     | -61     | -771    |
+
+{78}------------------------------------------------
+
+The following table provides an overview of receivables and liabilities at the respective balance sheet dates for related parties:
+
+|                                                              | March 31, 2023 | March 31, 2024 |
+|--------------------------------------------------------------|----------------|----------------|
+| Parent company                                               |                |                |
+| Trade receivables and other assets                           | 72             | 150            |
+| Trade payables and other liabilities                         | -5,371         | -4,418         |
+| Receivables (+) / Liabilities (-) from tax allocation        | -26            | -26            |
+| Affiliated companies                                         |                |                |
+| Trade receivables and other non-current and current assets   | 241            | 475            |
+| Trade payables and other liabilities                         | -8,774         | -2,786         |
+| Associated companies                                         |                |                |
+| Trade receivables and other non-current and current assets   | 0              | 0              |
+| Joint ventures                                               |                |                |
+| Trade receivables and other non-current and current assets   | 12,295         | 0              |
+| Trade payables and other liabilities                         | -417           | 0              |
+| Other related parties                                        |                |                |
+| Trade receivables and other non-current and current assets   | 0              | 492            |
+| Trade payables and other payables including pension benefits | -8,900         | -9,224         |
+
+## Parent company.
+
+The parent company serves as the tax group leader for the tax group formed in March 2005. This group includes Kapsch TrafficCom AG and its Austrian subsidiaries. Consequently, all income tax effects from the group taxation on these member companies are treated as transactions with a related party. In the 2020/21 financial year, the positive tax allocation from Kapsch TrafficCom to the Austrian tax group leader, KAPSCH-Group Beteiligungs GmbH, was adjusted. Since then, deferred tax assets from losses have been recognized instead of short-term tax receivables. The utilization of these loss carryforwards is shown under deferred tax assets and liabilities.
+
+The change in trade payables and other liabilities includes a reduction in long-term financial liabilities by EUR 5,083 k due to the capital increase and an increase in trade payables by EUR 4,418 k to KAPSCH-Group Beteiligungs GmbH.
+
+KAPSCH-Group Beteiligungs GmbH, the majority shareholder of Kapsch TrafficCom AG, participated in the capital increase in proportion to its existing 63.291% shareholding. This participation was made through contributions in kind (receivables from Kapsch TrafficCom AG). KAPSCH-Group Beteiligungs GmbH acquired 822,783 new shares, equivalent to 63.291% of the new shares issued, through these contributions. The value of the 822,783 new shares raised via contributions in kind amounts to EUR 7.4 million, representing a 5.75% share of the increased share capital. These new shares were also pledged to banks by KAPSCH-Group Beteiligungs GmbH.
+
+## Affiliated companies.
+
+Trade payables decreased by EUR 3,498 k to Kapsch Aktiengesellschaft and by EUR 2,489 k to Kapsch Partner Solutions.
+
+In connection with the use of the Kapsch trademark and logo, the Group is charged license fees by Kapsch Aktiengesellschaft, Vienna. These fees amount to 0.5% of the Group's total net sales to third parties. The expenses incurred for this in the 2023/24 financial year amounted to EUR 2,696 k (2022/23: EUR 2,501 k).
+
+Services in the field of Human Resources (payroll accounting, administration, recruiting, labor law consulting, personnel development, and personnel secondments) and the provision of apprentices and trainees are centrally provided for the Group by Kapsch Partner Solutions GmbH, Vienna. As of March 1, 2024, the Human Resources department was transferred from Kapsch Partner Solutions GmbH, Vienna, to Kapsch TrafficCom AG. In the 2023/24 financial year, expenses for this services amounted to EUR 1,484 k (2022/23: EUR 1,269 k) for the Group.
+
+Furthermore, in the 2023/24 financial year, transactions with the affiliated company Kapsch Aktiengesellschaft for license fees amounted to EUR 2,691 k. In addition, Kapsch Aktiengesellschaft charged Kapsch TrafficCom AG for the use of the consolidation software and the reallocation of a membership fee. Other expenses of the Group from transactions with affiliated companies related to insurance contracts amounting to EUR 52 k (2022/23: EUR 368 k),
+
+{79}------------------------------------------------
+
+which cover several Group companies. The remaining expenses to affiliated companies concerned other goods and services provided to the Group.
+
+The expenses from transactions with affiliated companies in the 2023/24 financial year included the costs for the provision of the central consolidation system by Kapsch Aktiengesellschaft amounting to EUR 137 k (2022/23: EUR 128 k).
+
+Additionally, affiliated companies supplied hardware (IT equipment) and provided maintenance and services for various customer projects on behalf of the Group amounting to EUR 57 k (2022/23: EUR 200 k).
+
+The rental income of the Group from subleasing to affiliated companies amounted to EUR 0 k in the 2023/24 financial year (2022/23: EUR 6 k). The remaining revenues with affiliated companies related to other goods and services provided.
+
+## Associated companies and joint ventures.
+
+The change in trade receivables and other long- and short-term assets from joint ventures relates to the repayment of loans by autoTicket GmbH, which were included in the consolidated financial statements in the previous year with a balance of EUR 12,274 k.
+
+The liabilities from trade payables and other liabilities to joint ventures, as well as the expenses to joint ventures included in the previous year, are attributable to the consortium MyConsorzio, which is reported as an other investment starting from the 2023/24 financial year.
+
+In March 2024, the shares in the associate company Traffic Technology Services, Inc., USA, were sold. The expenses from associated companies include the reversal of an impairment for a loan, which was impaired in the previous year and repaid in the 2023/24 financial year, amounting to EUR 2,350 k, as well as the disposal of the investment amounting to EUR -2,230 k (2022/23: EUR -2,350 k).
+
+Income from joint ventures amounted to EUR 53 k in the 2023/24 financial year (2022/23: EUR 170 k) and mainly includes interest charges to autoTicket GmbH, Germany.
+
+## Other related parties.
+
+The pension obligations to other related parties are included in trade payables and other liabilities including pension benefits and contain a pension obligation (pensions in payment) to the widow of Karl Kapsch, a former board member of Kapsch Aktiengesellschaft.
+
+Details of compensation and other payments to executive bodies are presented in note 37.
+
+{80}------------------------------------------------
+
+## 32 Risk management.
+
+In regard to the risks of the Group as well as risk management, we refer to item 2.2 in the management report for the Group. The impact of financial risks as described in the management report for the Group, in particular foreign exchange risk, interest rate risk, liquidity risk and credit risk, is disclosed in the following:
+
+## 32.1 Foreign exchange risk.
+
+Kapsch TrafficCom operates internationally and is exposed to foreign exchange risk. This risk originates from business transactions that are executed in a currency which is not in conformity with the functional currency of the respective subsidiary (hereinafter referred to as "foreign currency"). The foreign exchange risk exists in relation to assets and liabilities as well as net investments of foreign business locations not in the Euro zone. During the consolidation process these positions have to be translated to the Group currency Euro.
+
+From Group perspective, the most relevant foreign currency was the US Dollar in the financial year 2023/24. Because the terms of agreement are stipulated in Euro, no foreign exchange risk arises in the Group with regard to the Belorussian ruble.
+
+Customer orders are mainly invoiced in the local currencies of the respective Group companies. Only in cases in which the Group expects to be exposed to significant foreign exchange risk, major orders denominated in foreign currencies are hedged by forward foreign exchange contracts.
+
+Argentina has been classified as a hyperinflationary country since July 1, 2018. The remeasurement in accordance with IAS 29 has been made. The financial statements including comparative figures have been adjusted due to the change in public purchasing power of the Argentine Peso. In the financial year 2023/24 the expenses from hyperinflation adjustment amounted to EUR 7,007 k (2022/23, adjusted: EUR 5,109 k).
+
+The following table simulates the effect of changes in the exchange rate on the result before taxes. To do so a change in exchange rate of ceteris paribus +/-10% relating to current and non-current receivables and payables as of March 31, 2024 and March 31, 2023 respectively has been assumed. The line "EUR" in the table below shows the total impact ceteris paribus of the change to the Euro on the result before taxes for all subsidiaries whose functional currency is not the Euro. The impact on equity would be insignificantly different.
+
+|          | Effect on result before taxes |                 |                 |                 |
+|----------|-------------------------------|-----------------|-----------------|-----------------|
+|          | 2022/23                       |                 | 2023/24         |                 |
+| Currency | Volatility +10%               | Volatility -10% | Volatility +10% | Volatility -10% |
+| USD      | -8,406                        | 10,322          | -7,322          | 8,950           |
+| ZAR      | 166                           | -203            | 1,129           | -1,380          |
+| SEK      | 560                           | -684            | 331             | -404            |
+| GBP      | 54                            | -66             | -17             | 21              |
+| BGN      | -1,128                        | 1,379           | 1,113           | -1,361          |
+| EUR      | 3,338                         | -5,210          | 4,339           | -5,303          |
+
+## 32.2 Interest rate risk.
+
+Interest rate risk is the risk arising from fluctuations in the value of financial instruments, other balance sheet items (e.g. receivables and payables) and/or cash flows due to fluctuations in the market interest rates. For fixed interest balance sheet items, the risk comprises the present value risk. In case the market interest rate for the financial instrument fluctuates, either a profit or a loss may result if the financial instrument is sold prior to maturity.
+
+In the case of variable interest balance sheet items, the risk relates to the cash flow. With variable interest financial instruments, adjustments in the interest rates may result from changes in the market interest rates. Such changes would entail changes in interest payments. The portion of variable interest-bearing financial liabilities (financial liabilities and lease liabilities) amounts to 64%. If the market interest rate had been 50 basis points higher (lower) (+/- 0.5%) as of March 31, 2024, this, as in the previous year, would not have had any material impact on the result of the Group. In the Group, derivative instruments exist to minimize interest rate risk of financial liabilities.
+
+{81}------------------------------------------------
+
+## 32.3 Liquidity risk.
+
+The ongoing monitoring, control and measurement of financial and liquidity positions is carried out at the level of the operational entities, is monitored and optimized in the overall group.
+
+The Group provides sufficient liquidity by maintaining suitable financial reserves, by issuing bonds, through customer prepayments and the continuous reconciliation of the terms of receivables, liabilities and financial assets. To this end, cash flow forecasts are prepared at regular intervals for short-term periods (the next twelve weeks), on a quarterly basis for the medium term (current financial year) as well as for long-term periods (in accordance with long-term payment obligations, particularly those arising from loans). Suitable measures for ensuring sufficient liquidity are then deducted from these forecasts.
+
+Kapsch TrafficCom avoids becoming dependent on individual banks by making sure that the financial structure is always distributed over several partner financial institutions. Major repayment obligations of typically long-term contracts (such as corporate bonds or maturing repayments of long-term loans) are monitored on an ongoing basis and appropriate measures are initiated at an early stage (either cash flow monitoring or timely refinancing) to ensure agreed payment obligations.
+
+Kapsch TrafficCom employs a risk-averse investment strategy. Liquid funds are held such that they are generally available in the short term and can therefore be used quickly whenever needed. When it comes to securities, conservative security funds, which are actively managed on an ongoing basis and include an appropriate share of bonds, are used as a rule for the coverage and hedging of pension obligations. In the event of international financial market turbulence, however, the financial investments made might still develop unfavorably or individual securities might even become untradeable. This might result in reductions in value and impairments, which in turn have a negative impact on the financial result and equity of Kapsch TrafficCom. Such a crisis also increases the default risk of individual issuers of securities or their customers. In addition, the Group might for strategic reasons acquire a direct interest in individual entities by purchasing shares. A sufficiently bad performance of these entities might also necessitate an impairment, which in turn leads to the mentioned negative impact on the financial result and equity.
+
+Cash flows (gross cash flows including interest) show the liquidity risk of future periods and are split into:
+
+- First half year of the next financial year
+- Second half year of the next financial year
+- Between 1 and 2 years
+- Between 2 and 3 years
+- Between 3 and 4 years
+- Between 4 and 5 years
+- More than 5 years
+
+This information is included in note 23 and 24.
+
+## 32.4 Credit risk.
+
+As part of the Group's risk management policy, the Group only engages in business relationships with third parties deemed to be creditworthy and has implemented policies to ensure that the Group sells only to customers with appropriate credit histories. In addition, the Group monitors its receivables balances on an ongoing basis in order to limit its exposure to bad debts. Kapsch TrafficCom endeavors to reduce the risk of customer default as best as possible by obligatory credit checks before contract signing or, in the case of large projects, by additionally collateralizing payments. Nevertheless, it cannot be entirely ruled out that there will be individual payment defaults that would have a material negative impact on the earnings and liquidity development of Kapsch TrafficCom in the case of an event of default.
+
+{82}------------------------------------------------
+
+In the case of large toll collection projects, there is a credit risk essentially in the phase of the construction of the toll system. There is no concentration of credit risk relating to trade receivables since the Group generally has a large number of customers worldwide. Based on the Group's experiences, the default risk for trade receivables can be considered low. The maximum credit risk corresponds to the following book values:
+
+|                                                    | March 31, 2023 | March 31, 2024 |
+|----------------------------------------------------|----------------|----------------|
+| Other non-current financial assets and investments | 16,217         | 4,135          |
+| Non-current contract assets                        | 3,867          | 2,603          |
+| Non-current lease receivables                      | 741            | 225            |
+| Other non-current assets                           | 3,571          | 5,755          |
+| Other current financial assets                     | 1,909          | 1,375          |
+| Current contract assets                            | 82,213         | 77,954         |
+| Trade receivables and other current assets         | 117,438        | 131,000        |
+| Current lease receivables                          | 567            | 474            |
+| Current income tax receivables                     | 4,873          | 5,005          |
+| Cash and cash equivalents                          | 45,228         | 33,376         |
+| Total                                              | 276,623        | 261,902        |
+
+## 33 Capital management.
+
+Capital management pursues value-oriented and sustainable corporate management on the basis of the income statement in individual operating segments. Key performance indicators for the balance sheet and other economic criteria as well as the long-term development of the Group are also monitored and included in the management. Capital management is considered to be a central element for ensuring the medium- and long-term going concern. An important indicator for the capital structure is the equity ratio calculated from the equity (including non-controlling interests) as a percentage of the balance sheet total. The capital management strategy at Kapsch TrafficCom also aims, among other things, at ensuring that Group companies have sufficient equity to meet local requirements. On the Group level, the aim is that the equity ratio in the financial year should remain within a range of roughly 25% to 35% on average. A major key performance indicator that is also often used in the covenants of the Group's loan agreements is the "Gearing in relation to EBITDA". Here, the Group is aiming for a range between 2.0 and 3.5. It indicates whether there is a balanced relationship between the company's net debt and operating earnings power. The Group is constantly checking the observance of all the covenants in connection with loan agreements.
+
+In the past financial year 2023/24, the Group significantly improved both key figures. The equity ratio increased from 10.7% to 18.8% and net debt in relation to EBITDA was reduced from 6.88 (adjusted) to 1.20. This was due to several factors. This was due to several factors: on the one hand, the Group achieved an outstandingly successful consolidated result in the past financial year; on the other hand, the Group was able to increase its equity through the successful placement of new shares and used the cash inflow from Germany mostly to reduce its financial debt. As a result, the Group significantly exceeded the key figures agreed with the banks at all points.
+
+The Group's own target and value for the equity ratio has therefore not yet been achieved. Nevertheless, this target remains upright and the Group is aiming to get closer to it over the next few years through active capital management and to achieve it again as quickly as possible. The measures introduced to reduce costs and increase efficiency should also contribute to this.
+
+Another important goal is the securing of sufficient liquidity necessary in the short and long term to ensure a successful going concern. As in previous years, also in the financial year 2023/24 the Group attached the greatest importance to active liquidity management (both by monitoring the Group-wide amount of liquidity daily and substantially increasing the reliability of the weekly 12-week cash flow forecasts). Also the payment management was professionalized in the financial year and, for example, the essential and long-standing suppliers and business partners have made corresponding payment agreements.
+
+{83}------------------------------------------------
+
+As of May 31, 2023, a strategically important restructuring of the Group's financing was successfully finalised with the main banks of Kapsch TrafficCom AG (see note 23). Part of this agreement is the implementation of measures to improve net working capital and liquidity. In May 2024 an extension of this agreement until March 31, 2026 was agreed (see note 36).
+
+Cash and cash equivalents amounted to EUR 33.4 million as of the balance sheet date. The related decrease compared to the previous year (March 31, 2023: EUR 45.2 million) is due to the scheduled repayment in financial liabilities of EUR 85 million and also lease liabilities of EUR 7.7 million. In total, additional loans amounting EUR 5.3 million were taken out. Furthermore, the change in net working capital in the amount EUR -5.1 million – in particular, trade accounts payable were reduced by EUR 12.1 million – contributed to the reduction in cash and cash equivalents.
+
+Net debt was reduced by EUR 80.3 million in the past financial year.
+
+Besides the mentioned short and medium term targets for liquidity, repayment, and refinancing, the financing of the future course of growth and maintaining and optimal capital structure are also major goals in the Group's capital management over the medium and long term.
+
+Net debt and gearing in relation to EBITDA as well as gearing and the equity ratio as of March 31, 2024 and March 31, 2023 were as follows:
+
+|                                   | March 31, 2023 | March 31, 2024 |
+|-----------------------------------|----------------|----------------|
+| Non-current financial liabilities | 58,472         | 91,906         |
+| Current financial liabilities     | 131,170        | 12,751         |
+| Non-current lease liabilities     | 32,199         | 26,932         |
+| Current lease liabilities         | 11,595         | 9,158          |
+| Total financial liabilities       | 233,435        | 140,747        |
+| Cash and cash equivalents         | -45,228        | -33,376        |
+| Other current financial assets    | -1,909         | -1,375         |
+| Net debt                          | 186,299        | 105,996        |
+| Equity                            | 51,306         | 83,423         |
+| Gearing                           | 363.1%         | 127.1%         |
+| EBITDA1)                          | 27,066         | 88,534         |
+| Gearing in relation to EBITDA1)   | 6.88           | 1.20           |
+| Equity ratio                      | 10.7%          | 18.8%          |
+
+1) Adjustment previous year: presentation of gains from derivative financial instruments in financial income, which were presented under other operating income in the previous year; further information is provided in note 9.
+
+In the financial year 2023/2024, the Group withdrew from its financial investment in Traffic Technology Services, Inc., USA, and is also taking further steps to withdraw from non-strategic business areas or investments in order to minimise the related risk.
+
+## 34 Accounting and valuation principles.
+
+The accounting and valuation principles, which form the basis for these consolidated financial statements, were applied unchanged to the previous period and supplemented by new mandatory IFRS and IFRIC applicable from the financial year.
+
+## 34.1 Consolidation.
+
+## 34.1.1 Subsidiaries.
+
+Subsidiaries are all companies (including structured companies) where the Group exerts its control. The control in this sense means that the Group is exposed to fluctuating returns arising from its interest in the subsidiary, is in possession of entitlements to these returns and has the ability to influence such returns by virtue of its position of 
+
+{84}------------------------------------------------
+
+power with respect to the associated company. Subsidiaries are included within the consolidated financial statements (full consolidation) as from the time when the parent company has acquired control over the subsidiary. They are deconsolidated at the time when such control is relinquished.
+
+All Group internal assets and liabilities, equity, expenses and income as well as unrealized gains and losses from transactions between Group companies are completely eliminated in the course of Group consolidation. In case of consolidation processes affecting profit or loss, income tax effects are taken into consideration and deferred taxes are recognized.
+
+## 34.1.2 Transactions with non-controlling interests.
+
+Transactions with non-controlling interests are treated as transactions with equity owners of the Group. Depending on the ownership structure, the Group splits the gains or losses as well as all components of the comprehensive income to the interests of the parent company and the non-controlling interests. Even in the event of a negative balance of the non-controlling interests, the total comprehensive income is attributed to the parent company and the non-controlling interests. For purchases of non-controlling interests, the difference between any consideration paid and the relevant interest acquired of the carrying value of net assets of the subsidiary is recorded in equity. Gains or losses on disposals to non-controlling interests are also recorded in equity, unless a change in the percentage of shares held leads to a loss of control of the interest.
+
+If the Group loses its control over any of the companies, the assets and liabilities of the former subsidiary are to be removed from the consolidated balance sheet. The remaining interest is to be remeasured at fair value and regarded as the initially recognized value of a financial asset pursuant to IFRS 9, Financial Instruments: Recognition and measurement or as acquisition costs in case of the addition of an interest in an associated company or joint venture. Any resulting gains or losses which are attributable to the controlling interest are recognized in the income statement. In addition, any amounts previously recognized in other comprehensive income with respect to the former subsidiary are accounted for as if the Group had directly disposed of the related assets or liabilities. This means that amounts previously recognized in other comprehensive income are reclassified from equity to the result for the period.
+
+## 34.1.3 Joint arrangements.
+
+The Group applies IFRS 11 to all joint arrangements.
+
+The Group differentiates according to the contractual arrangements at which decisions are made unanimously, concerning rights and obligations of the controlling parties between joint ventures and joint operations. Parties belonging to a joint venture enjoy rights to net assets. In the consolidated financial statements, the result, assets and liabilities are included subject to the equity method.
+
+In the case of the equity method, the interests in joint ventures are initially recognized at acquisition costs. After this, the carrying value of the interests goes up or down according to the share of the Group in profit or loss as well as in any changes in the other comprehensive income of the joint venture. If the share in the (cumulative) losses of a joint venture exceeds the carrying value of the joint venture (including all long-term interests which are to be allocated to the commercial substance after the net investment of the Group in the joint venture), then the Group is not to recognize the excessive loss share unless it has entered into legal or constructive obligations for the joint venture or has made liabilities or provisions for the joint venture. In the case of accumulated losses, a positive carrying amount is only recognised after the accumulated losses have been offset.
+
+Unrealized gains or losses from transactions between Group companies and joint ventures are to be eliminated in the consolidated financial statements in the amount of the share of the Group in the joint venture. Unrealized losses are not eliminated if the transaction gives any indication that there may be an impairment of the asset transferred.
+
+The accounting and valuation principles of joint ventures correspond to those of the parent company.
+
+{85}------------------------------------------------
+
+Proportional results from joint ventures are split in the presentation in the income statement. Results from joint ventures whose activities and strategic alignments are part of Kapsch TrafficCom's core business are reported in the operating result. Results from other joint ventures are reported in the result before income taxes after the financial result.
+
+If there are rights to assets and obligations for liabilities as a result of a contractual agreement it is a joint operation. Recognition in the consolidated financial statements is proportional.
+
+## 34.1.4 Associated companies.
+
+Associated companies are entities in which the Group has a significant but not a controlling influence, generally accompanied by a shareholding of between 20% and 50% of the voting rights. Associated companies are reported using the equity method and initially recognized at acquisition costs. Following the acquisition date, the share of the Group in the result of the associate is recorded in the statement of comprehensive income and the share of changes in other comprehensive income is recognized in other comprehensive income, with a corresponding adjustment being made to the carrying amount of the interest. Dividends received from the associated company reduce the carrying amount of the interest. Goodwill arising on acquisition of associated companies is not separately shown but recorded as part of the carrying amount of associated companies.
+
+If the percentage of shares held in an associated company is reduced but significant influence is retained, only a proportionate share of the amounts previously recognized in other comprehensive income is reclassified to the profit or loss for the period where appropriate.
+
+The cumulative shares of the Group in the profits and losses as well as in the other comprehensive income of the associated company after the acquisition are offset against the carrying amount of the investment. If the Group's share in the losses of an associate, including any unsecured receivables, equals or exceeds its interest in that associated company, the Group will not disclose any additional losses. A liability or provision is only recognized if the Group has entered into legal or constructive obligations for the associated company or has made payments for the associated company.
+
+At each balance sheet date, the Group checks whether there are any indications showing that the investment in an associate is impaired. If this is the case, the impairment requirement is determined as the difference arising from the carrying amount of the interest of the associate and the corresponding recoverable amount and recognized separately in the income statement. Significant unrealized gains from transactions between the Group and associates are eliminated to the extent of the Group's interest in the associates. Unrealized losses are also eliminated unless the transaction provides evidence of an impairment of the asset transferred.
+
+Proportionate results from associated companies are split in the presentation in the income statement. Results from associated companies whose activities and strategic directions are part of the core business of Kapsch TrafficCom are reported in the operating result. Results from other associated companies are reported in the result before income taxes after the financial result.
+
+The accounting and valuation principles of associated companies correspond substantially to those of the parent company.
+
+## 34.1.5 Business combinations.
+
+Business combinations are recognised by the Group using the acquisition method as of the acquisition date. The acquisition date relates to the date of transfer of control to the Group.
+
+The consideration transferred for the acquisition is the fair value of the assets transferred, the equity interests issued by the Group and the liabilities incurred or assumed as at the transaction date. In addition, they include the fair value of any recognized assets or liabilities resulting from a contingent consideration arrangement. Acquisition-related costs are expensed in full as incurred.
+
+In accordance with IFRS 3, any assets acquired and liabilities (including contingent liabilities) assumed in a business combination are measured at their full fair values as of the acquisition date, irrespective of the extent of any non-controlling interests. Intangible assets are recognized separately from goodwill if they are separable from the entity or result from statutory, contractual or other legal rights. No new restructuring provisions may be recognized
+
+{86}------------------------------------------------
+
+within the scope of the purchase price allocation. Any remaining positive differences, which compensate the seller with market opportunities that cannot be identified more closely and with development potential, are capitalized as goodwill in the respective cash generating units (CGUs).
+
+Any contingent consideration to be transferred by the Group is recognized at fair value as of the acquisition date. Subsequent changes to the fair value of the contingent consideration that is deemed to be an asset or liability is measured in accordance with IFRS 9 and a resulting profit or loss recognized in the statement of comprehensive income. Contingent consideration that is classified as equity is not remeasured, and its subsequent settlement is accounted for within equity.
+
+Any hidden reserves and liabilities uncovered are carried forward in line with the corresponding assets and liabilities. The determination of the fair values requires certain estimates and assumptions, in particular of the acquired intangible assets and property, plant and equipment, of the liabilities assumed as well as of the useful lives of the acquired intangible assets and property, plant and equipment.
+
+The Group recognizes any non-controlling interest in the acquiree on an acquisition-by-acquisition basis, either at fair value or at the non-controlling interest's proportionate share of the recognized amounts of the acquiree's net assets.
+
+The Group determines the goodwill at the acquisition date as:
+
+- the fair value of the consideration transferred plus
+- the value recognized of all recognized non-controlling interests in the acquiree plus
+- the fair value of the acquirer's previously held equity interest in the acquiree if the combination is achieved in stages – less
+- the net amount (in general of the fair values) of the identifiable assets acquired and liabilities assumed and contingent liabilities.
+
+If the excess is negative, a gain on a bargain purchase is recognized only upon re-examination of the allocation directly in the result for the period.
+
+## 34.1.6 Non-current assets held for sale.
+
+As of the balance sheet date, Kapsch TrafficCom indirectly holds 82.9% of the shares in TMT Services and Supplies Proprietary Limited (TMT), South Africa, through its subsidiary KTC-ZA Holding Proprietary Limited, South Africa. TMT is a provider of road safety law enforcement solutions and automatic fare collection for public transportation. By the year-end, a negotiated purchase price agreement for the sale of TMT was already in place, so the criteria of IFRS 5 are considered met. Therefore, the assets and liabilities of TMT have been classified as 'held for sale.' The closing occurred in April 2024.
+
+An overview of the assets and liabilities held for sale can be found in the following table:
+
+|                                                    | March 31, 2024 |
+|----------------------------------------------------|----------------|
+| Property, plant and equipment                      | 1,594          |
+| Intangible assets                                  | 3              |
+| Other non-current financial assets and investments | 292            |
+| Deferred tax assets                                | 939            |
+| Trade receivables and other current assets         | 4,814          |
+| Current contract assets                            | 348            |
+| Current tax receivables                            | 74             |
+| Cash and cash equivalents                          | 2,929          |
+|                                                    |                |
+| Non-current lease liabilities                      | 140            |
+| Current financial liabilities                      | 1,931          |
+| Current lease liabilities                          | 149            |
+| Trade payables                                     | 979            |
+| Current contract liabilities                       | 2              |
+| Current provisions                                 | 276            |
+| Other liabilities and deferred income              | 529            |
+
+{87}------------------------------------------------
+
+The criteria were met shortly before the balance sheet date, meaning that ongoing depreciation and amortisation has not been terminated, as no material effect is expected. Only property, plant and equipment, intangible assets and right-of-use assets fall under the measurement assessment of IFRS 5, and therefore, no impairment is expected due to immateriality.
+
+## 34.1.7 Foreign currency translation.
+
+Items included in the financial statements of each of the Group's entities are measured using the currency of the primary economic environment in which the entity operates (functional currency). The consolidated financial statements are presented in Euros, which is Kapsch TrafficCom's presentation currency.
+
+## Translation of foreign financial statements.
+
+In accordance with IAS 21, financial statements of foreign subsidiaries (except for foreign entities from hyperinflationary countries) that have a functional currency different from the Euro which are included in the consolidated financial statements are translated as follows:
+
+The statement of comprehensive income of foreign entities is translated into the Group's presentation currency at average exchange rates of the financial year, balance sheets at the prevailing closing exchange rate at the balance sheet date. The reference rates of the European Central Bank (ECB) and Deutsche Bundesbank, which are accessible via the Austrian Central Bank's (Österreichische Nationalbank) website, serve as the basis for the translation. If no current exchange rates are available, this will result in the use of the exchange rates as disclosed by the national banks that are derived from market information providers (Bloomberg, Thomson Reuters). Differences arising from the currency translation of foreign operations into Euro are recognized in other comprehensive income and collected in equity. If control of the foreign entity is lost, exchange rate differences accumulated in equity are reclassified and presented as part of the gain/loss from the disposal.
+
+Pursuant to IAS 29, a separate measurement is required for hyperinflationary countries. As in accordance with IAS 21, monetary items are translated into the reporting currency of the Group using the prevailing closing exchange rate at the balance sheet date. All non-monetary assets and liabilities are measured either at adjusted cost, or at net realizable value or at fair value. Argentina has been classified as a hyperinflationary country since July 1, 2018. All items in the statement of comprehensive income are to be restated as of the date of initial recognition of the income and expenses in the financial statements, using the general price index. A restatement in accordance with IAS 29 applies. Effects from hyperinflation are included in the financial result and in equity.
+
+As the business activities of Kapsch TrafficCom in Russia are not material, there is no significant risk from the fluctuations of the Russian ruble.
+
+Goodwill and adjustments to the fair value in connection with the acquisition of a foreign company are treated as the assets and liabilities of the foreign company in question and converted in the course of initial consolidation at the transaction rate and subsequently converted with the key date exchange rate as at the financial statements key date of the business operation.
+
+|     | 2022/23               |                                        | 2023/24               |                                        |
+|-----|-----------------------|----------------------------------------|-----------------------|----------------------------------------|
+|     | Average exchange rate | Exchange rate as at balance sheet date | Average exchange rate | Exchange rate as at balance sheet date |
+| AUD | 1.52                  | 1.63                                   | 1.65                  | 1.66                                   |
+| CAD | 1.38                  | 1.47                                   | 1.46                  | 1.47                                   |
+| GBP | 0.86                  | 0.88                                   | 0.86                  | 0.86                                   |
+| SEK | 10.81                 | 11.28                                  | 11.49                 | 11.53                                  |
+| USD | 1.05                  | 1.09                                   | 1.08                  | 1.08                                   |
+| ZAR | 17.67                 | 19.33                                  | 20.29                 | 20.52                                  |
+
+The main exchange rates used during the financial year are shown below:
+
+## Foreign currency transactions.
+
+Transactions in foreign currencies are translated into the functional currency at the exchange rate as of the transaction date or, in case of new measurements, as at the time of the measurement. Foreign exchange gains and losses resulting from the settlement of such transactions and from the translation of monetary assets and liabilities denominated in foreign currencies are recognized in the statement of comprehensive income. Non-monetary items 
+
+{88}------------------------------------------------
+
+in the balance sheet, which are capitalized at costs in a foreign currency are translated with the exchange rate applicable at the day of the transaction; non-monetary items which were recognized at the fair value in a foreign currency are translated at the exchange rate prevailing at the time of measurement.
+
+Foreign exchange gains and losses which are attributable to the translation of cash and cash equivalents as well as financial receivables and financial liabilities are presented in the statement of comprehensive income within the financial result. All other foreign exchange gains and losses are presented in the statement of comprehensive income in other operating income or other operating expenses.
+
+This excludes foreign exchange gains and losses from monetary items to be received from/to be paid to foreign operations which are designated as part of a hedge of a net investment in a foreign operation. Such foreign exchange gains and losses are initially recognized in other comprehensive income and are then reclassified from equity to profit or loss if the net investment is sold (see note 11).
+
+## 34.2 Fair value measurement.
+
+The fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. In measuring the fair value of an asset or a liability, the Group takes into account the characteristics of the asset or liability that market participants would take into account when pricing the asset or liability at the measurement date.
+
+To the greatest extent possible, the Group uses observable market data for the fair value measurement of assets or liabilities. Depending on the availability of observable input factors and their impact on the fair value measurement as a whole, the fair value is assigned to one of 3 levels in the following fair value-hierarchy:
+
+- Level 1: Inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the Group can access at the measurement date.
+- Level 2: Inputs, other than quoted prices included within level 1, that are observable for the asset or liability, either directly or indirectly.
+- Level 3: Inputs at this level are unobservable inputs for the asset or liability.
+
+## 34.3 Revenue recognition.
+
+Revenue is recognized in accordance with IFRS 15 "Revenue from Contracts with Customers". Assessment of each contract is based on the five-step model:
+
+- Identify the contract with a customer
+- Identify the performance obligations
+- Determine the transaction price
+- Allocate the transaction price to the performance obligations
+- Recognize revenue either over time or at a point in time
+
+A customer is defined as a party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for a consideration. It is assessed if the contracts meet the criteria in accordance with IFRS 15.9, in particular the enforceable right to consideration. It is furthermore assessed if the consideration the identity is entitled to is enforceable and revenue is probable (see note 32.4. Credit risk).
+
+The Group identified the following performance obligations:
+
+Implementation projects include the construction of toll collection systems for both individual road sections and nationwide road networks as well as the construction of systems for traffic monitoring, traffic control and traffic safety. Components such as on-board units which are necessary for putting the system into a condition ready for operation, are considered part of the implementation projects. Major software upgrades that are agreed in operation projects as well as implementation within the context of service concession arrangement also fall under this performance obligation.
+
+{89}------------------------------------------------
+
+Implementation projects meet the criteria for "satisfaction of the performance obligation over time", as the Group creates assets that do not have an alternative use and the Group thus has an enforceable right to payment for the performance completed to date. The stage of completion is derived from the ratio of the costs already incurred and the estimated total costs of the corresponding order.
+
+Operation projects mainly include the operation and maintenance of toll collection systems for both individual road sections and nation-wide road networks as well as the operation and maintenance of systems for traffic monitoring, traffic control and traffic safety. Operation within the context of service concession contracts also falls under this performance obligation.
+
+Revenue from operation projects is recognized over time since the customer receives the benefits as the entity performs.
+
+The sale of components that are not made under an implementation or operation project also constitutes a separate performance obligation. As for the sale of components, revenue is recognized as the control of the component is transferred.
+
+There are no warranty obligations beyond those required by law.
+
+The transaction price is mostly fixed but some contracts may also contain elements of variable consideration which are usually bonuses or penalties. They are taken into account if and to the extent that the payment is probable or if penalties are improbable. The transaction price typically refers to the price of the individual performance obligation as the price is set on basis of the costs including a reasonable margin. Cross-subsidizations are not part of the business model of Kapsch TrafficCom. It is therefore for most contracts not necessary to allocate the transaction price to the performance obligations. For service concession arrangements, the transaction price is estimated for each performance obligation. In such cases, allocation is made based on the expected-cost-plus-margin approach. For contracts with a significant financing component, the consideration is adjusted by the interest component.
+
+Contract assets are capitalized if the services are rendered before the consideration is received. Contract liabilities are recognized if the amount of consideration exceeds the amount of performance rendered. Service concession arrangements including the concession right to receive fees result in an intangible asset. That intangible asset increases with construction progress, thus revenue is recognized according to the stage of completion.
+
+Certain costs arising in the course of initiating or performing a contract have to be recognized under IFRS 15 if the criteria are met. Those costs to obtain or fulfill a contract are amortized on a straight-line basis over the contract term of the project.
+
+Other income is recognized by the Group as follows:
+
+- Revenue from recharged expenses is recognized on the basis of the accumulated amounts in accordance with the respective agreements,
+- Interest income is recognized on a time-proportion basis using the effective interest method,
+- Dividend income is recognized when the right to receive payment is established.
+
+## 34.4 Segment information.
+
+The reporting on operating segments is consistent with the internal reporting provided to the chief operating decision- maker (management approach). The chief operating decision-maker is responsible for allocating resources to the operating segments and assessing their performance. The Executive Board of Kapsch TrafficCom has been identified as the chief operating decision-maker.
+
+{90}------------------------------------------------
+
+## 34.5 Property, plant and equipment.
+
+Property, plant and equipment are recognized at acquisition and production cost less accumulated depreciation. Depreciation is charged on a straight-line basis over the expected useful lives of the assets in accordance with the group policies.
+
+Properties are not subject to scheduled depreciation. The useful lives generally range between 5 to 26 years for plants and buildings on leasehold land, 4 to 20 years for technical equipment and machinery, and 3 to 10 years for other equipment, factory, and office equipment. The assets' useful lives and residual values are reviewed, and adjusted if appropriate, in case of evidence leading to an adjustment. An asset's carrying amount is written down to its recoverable amount if the asset's carrying amount is greater than its estimated recoverable amount. The impairment test is carried out in accordance with IAS 36 and is described in chapter 34.7.
+
+Subsequent costs are included in the asset's carrying amount or recognized as a separate asset, as appropriate, only when it is probable that future economic benefits associated with the item will flow to the Group and the cost of the item can be measured reliably. The carrying amount of those assets which were replaced is derecognized. Expenses for repairs and maintenance which do not necessitate a significant replacement investment (i.e. day-today servicing) are charged to the income statement during the financial period in which they are incurred.
+
+The difference between the proceeds from the disposal of property, plant and equipment and the carrying amount is recognized as profit or loss in the result from operating activities.
+
+## 34.6 Intangible assets.
+
+## 34.6.1 Goodwill.
+
+Goodwill arises on the acquisition of subsidiaries. It represents the excess of the consideration transferred for the acquisition beyond the Group's interest in net fair value of the identifiable assets, liabilities, and contingent liabilities.
+
+Goodwill impairment reviews are undertaken at least annually or more frequently if events or changes in circumstances indicate a potential impairment. The Group carries out the annual goodwill impairment review in the fourth quarter. In addition, the Group carries out impairment tests during the year if a triggering event occurs that may cause the asset to be impaired.
+
+For the purpose of impairment testing, goodwill is allocated to each of the cash generating units (CGUs) or groups of cash generating units which are expected to benefit from the synergies of the business combination and have reported the goodwill. Each unit or group of units to which the goodwill is allocated represents the lowest level within the entity at which the goodwill is monitored for internal management purposes.
+
+The impairment loss of goodwill is recognized in the statement of comprehensive income. No write-ups on goodwill are made.
+
+## 34.6.2 Concessions and rights.
+
+Computer software, trademarks, and similar rights are capitalized on the basis of the costs incurred for acquisition and amortized linearly over their estimated useful lives of 4 to 15 years. Acquired customer agreements (toll contracts, maintenance agreements) are recognized at acquisition costs and amortized over estimated useful lives that generally range between 2 and 10 years.
+
+{91}------------------------------------------------
+
+## 34.6.3 Research and development costs.
+
+Research expenditures are recognized as an expense. Costs incurred for development projects (relating to the design and testing of new or improved products) are recognized as intangible assets if the following criteria are fulfilled:
+
+- It is technically feasible to complete the intangible asset so that it will be available for use or sale;
+- management intends to complete the intangible asset and use or sell it;
+- there is an opportunity to use or sell the intangible asset;
+- it can be demonstrated how the intangible asset will generate probable future economic benefits;
+- adequate technical, financial, and other resources are available to complete the development and to use or sell the intangible asset; and
+- the expenditure attributable to the intangible asset during its development can be reliably measured.
+
+Other development expenditures that do not meet these criteria are recognized as an expense. The costs for producing the intangible asset are capitalized as from the point in time when the above criteria are initially met. Development costs previously recognized as an expense cannot be subsequently capitalized. Capitalized development costs are amortized, as soon as they are available for use, using the straight-line method on the basis of the normal useful life, which generally ranges between 3 and 15 years.
+
+Capitalized development assets are tested for impairment annually in accordance with IAS 36 as long as they are not yet available for use.
+
+## 34.7 Impairment of non-financial assets.
+
+Assets that have an indefinite useful life – for example, goodwill or intangible assets not ready for use – are not subject to amortization and are tested annually for impairment. Assets that are subject to amortization are reviewed for impairment whenever events or changes in circumstances indicate that the asset might be impaired.
+
+An impairment loss is recognized for the amount by which the asset's carrying value exceeds its recoverable amount. The recoverable amount is the higher of an asset's net selling price and its value in use. At entity level an impairment is posted if there is any indication that an asset may be impaired and, if necessary, an impairment loss is recognised. Hereon at the level for cash generating units the goodwill is tested. First, the goodwill is amortized by the amount of the impairment. If the impairment is higher than the carrying amount of the goodwill, the carrying amounts of the other assets of these cash-generating units (CGUs) are proportionately reduced.
+
+The value in use of a cash generating unit corresponds to the present value, calculated using the discounted cash flow method, of the future cash flows which the entity will receive from the cash generating unit. In order to determine the value in use, the expected future cash flows plus taxes based on the post-tax discount rate that reflects the current market expectations with regard to the interest effect and the specific risks of the cash generating units, are discounted to their present values. In the process, the current planning, covering a period of four years (detailed forecast period) and approved by Management, is used as the basis with subsequent transition to perpetuity. The growth rates according to the detailed forecast period are based on historical growth rates and on external studies on the future medium-term market development.
+
+The fair value less costs to sell is determined using an appropriate valuation model which is based on the medium-term planning.
+
+The difference between the recoverable amount of assets and their carrying value is reported as profit (in the case of a reversal of an impairment loss) or loss in the operating result. Profits are not reported as revenues. For assets (other than goodwill) for which an impairment loss has been recognized in the past, a check is carried out on each subsequent balance sheet date to determine if any reversal of impairment is required.
+
+The residual carrying values and useful lives are reviewed at each balance sheet date and adjusted as necessary.
+
+{92}------------------------------------------------
+
+## 34.8 Borrowing costs.
+
+Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets are capitalized to the cost of those assets, until such time as the assets are substantially ready for their intended use or sale. A qualifying asset is an asset that requires a substantial period of time (with regard to the Group at least twelve months) to be made ready for its intended use or sale.
+
+Investment income earned on the temporary investment of specific borrowings pending their expenditure on qualifying assets is deducted from the borrowing costs eligible for capitalization within a specific period.
+
+In the financial year 2023/24, the criteria for a qualified asset were not fulfilled for any assets.
+
+All other borrowing costs are expensed in the period in which they are incurred.
+
+## 34.9 Government grants.
+
+Government grants with regard to purchased non-current assets are deferred and taken through profit or loss over the estimated useful life of the respective asset. Government grants are recognized at their fair value, provided it is virtually certain that the Group will comply with all attached conditions and the grant will be received.
+
+Due to materiality considerations, government grants are not disclosed separately in the financial statements but are included in other current liabilities and deferred income.
+
+Other grants received as compensation for expenses or losses already incurred are immediately taken through profit or loss and included in other operating income.
+
+Also grants referring to the COVID-19-pandemic and for reliefs of the effects of the pandemic fall under this point and thus are included in other operating income in the statement of comprehensive income.
+
+## 34.10 Leasing.
+
+IFRS 16 "Leases" specifies the recognition, measurement, presentation as well as disclosure requirements with regard to leases in financial statements. As for Kapsch TrafficCom, this mainly relates to buildings, motor vehicles and IT equipment. A lessee recognizes a right-of-use asset on the underlying asset and a liability that represents its liability to lease payments. Extension and termination options are recognized if virtually certain.
+
+The lessor continues to distinguish between finance or operating leases for accounting purposes. Kapsch Traffic-Com has sub-leasing contracts with affiliated companies as well as the parent company and therefore discloses lease receivables instead of right-of-use assets from leases. which are classified as finance leases. The Group only acts as lessor to an insignificant extent, and thus does not expect any material impact on the Group's financial statements from such leases.
+
+The Group applies exemptions regarding short-term leases with a term of not more than twelve months and leases of low-value assets (around EUR 5 k). Those leases will not be recognized in the balance sheet, instead, payments made for such leases will continue to be recognized as expenses.
+
+For the calculation of the present value of liabilities from leasing contracts the incremental borrowing rate according to the corresponding maturity is calculated and applied. The incremental borrowing rate is derived from a risk free rate of the corresponding maturity, adjusted for country, currency and enterprise risks.
+
+{93}------------------------------------------------
+
+## 34.11 Financial instruments.
+
+Financial instruments include financial assets (such as securities, investments, loans, trade receivables, and cash and cash equivalents) as well as financial liabilities (such as bonds and loans, trade payables, and derivative financial instruments).
+
+Financial instruments are first recognized at fair value.
+
+## 34.11.1 Financial assets.
+
+In accordance with IFRS 9, financial assets are subdivided as follows:
+
+- amortized cost,
+- fair value through profit or loss or
+- fair value through other comprehensive income.
+
+The classification is based on whether the instrument is classified as equity or debt.
+
+Generally, equity investments are mandatorily measured at fair value through profit or loss. In the case of equity instruments that are not held for trading, in accordance with IFRS 9, an entity can make an irrevocable election at initial recognition to classify equity investments at fair value through other comprehensive income (without recycling). The assets are measured at fair value, with gains or losses recognized in other comprehensive income without recycling. The gains and losses resulting from these assets are recognised in other comprehensive income without recycling.
+
+Fair values are determined by transactions in an active market or, where there is no active market, by applying valuation techniques.
+
+All purchases or sales are recognised on the settlement date and the cost of acquisition includes transaction costs. In the case of investments in debt instruments, the classification is based on the company's business model or managing financial assets and the characteristics of the contractual cash flows of the financial assets.
+
+Financial assets are measured at amortized cost if they meet the following two conditions and are not designated as at fair value through profit or loss:
+
+- they are held in a business model whose objective is to hold financial assets to collect the contractual cash flows and
+- the contractual terms of the financial asset give rise to cash flows that are solely payments of principal and interest of the principal amount outstanding.
+
+These financial assets are subsequently measured at amortized cost using the effective interest rate method. If not material, they are not discounted. Cash and cash equivalents, trade receivables and parts of other financial receivables and assets fall into this category.
+
+Financial assets that are neither held in the business model to collect the contractual cash flows nor held in the business model to collect and sell the contractual cash flows are measured at fair value through profit or loss. Assets may be designated or also fall into this category if the contractual cash flows are not solely payments of principal and interest of the principal amount outstanding. The assets are measured at fair value, with gains or losses recognized in the income statement. The fair values are determined through transactions on an active market or, if there is no active market, by using valuation techniques. Debt instruments that do not include solely payments of principal and interest of the principal amount outstanding, and derivative financial instruments fall into this category. Such derivatives that are designated as cash flow hedges to hedge foreign currency risks continue to be accounted for as hedging instruments in accordance with IAS 39.
+
+{94}------------------------------------------------
+
+Financial assets that are measured at fair value through other comprehensive income (FVOCI) are such debt instruments that are held in the business model hold to collect the contractual cash flows and sell, and that are solely payments of principal and interest of the principal amount outstanding. Those financial assets that fulfill the requirement of the FVOCI-business model and that are not optional designated at fair value through profit or loss are measured at fair value through other comprehensive income. The assets are measured at fair value, with gains or losses recognized in other comprehensive income. The fair values are determined through transactions on an active market or, if there is no active market, by using valuation techniques. When financial assets are disposed, the difference between the proceeds from the disposal and the carrying amount is recognized as expense or income in the statement of comprehensive income. The amount stated in equity is additionally recognized through profit or loss in the statement of comprehensive income.
+
+Financial instruments whose maturity does not exceed twelve months after the balance sheet date are stated as current assets, all others are stated as non-current assets.
+
+## 34.11.2 Cash and cash equivalents.
+
+Cash and cash equivalents include cash and cash equivalents, short-term bank deposits held at call and other bank balances, which are convertible to known amounts of cash and subject to insignificant risk of changes in value. Changes in cash and cash equivalents are presented in the cash flow statement. Overdrafts are reported in the balance sheet under current financial liabilities.
+
+## 34.11.3 Financial liabilities.
+
+Financial liabilities are recognised at amortised cost or at fair value through profit or loss in accordance with IFRS 9.
+
+Financial liabilities are non-derivative financial assets with fixed or determinable payments. They are initially recognized at fair value less transaction costs incurred and subsequently at amortized cost, taking into account the effective interest method. Financial liabilities with a remaining term of up to one year are reported as current liabilities; if the remaining term is longer, they are reported under non-current liabilities. Liabilities from current accounts are disclosed under current financial liabilities on the balance sheet. Borrowing costs are recognized as an expense in the statement of comprehensive income on an accrual basis. Liabilities denominated in foreign currencies are measured at the current rate at the balance sheet date.
+
+Financial liabilities include non-current and current financial liabilities, lease liabilities, trade payables, as well as portions of other liabilities.
+
+There are no liabilities that were designated at fair value through profit or loss.
+
+## 34.11.4 Derivative financial instruments.
+
+Derivatives are only used for economic hedging purposes and not as speculative investments. Derivative financial instruments are initially recognized at fair value on the date a derivative contract is entered into. They are subsequently remeasured at their fair value at each reporting date. The method of recognizing gains or losses depends on whether the derivative is designated as a hedging instrument, and if so, the nature of the item being hedged.
+
+Kapsch TrafficCom has a group-wide treasury policy in place to generally regulate hedging transactions. If necessary the Group documents and recognizes the hedging transactions in accordance with IAS 39. As of March 31, 2024 no cash flow hedges nor fair value hedges are recognized in the financial statements.
+
+In addition to that, the Group has derivatives that hedge an asset or a liability. They are therefore measured at fair value through profit or loss. The fair value corresponds to the value which the relevant entity would receive or have to pay upon liquidation of the deal on the balance sheet date. Positive fair values at the balance sheet date are recognized under financial assets and negative fair values under financial liabilities. Changes in the fair value of these derivative financial instruments are recognized immediately in the statement of comprehensive income within the financial result. The full fair value of a hedging derivative is classified as non-current asset or liability when the remaining maturity of the hedged item is more than 12 months; it is classified as a current asset or liability when the remaining maturity of the hedged item is less than 12 months. The fair values of derivative financial instruments are presented in note 15.
+
+{95}------------------------------------------------
+
+In the case of net investments in a foreign operation, exchange rate differences are recognized in other comprehensive income and are reclassified from equity to profit or loss on the sale or partial disposal of the foreign operation or the repayment of the amounts owed.
+
+## 34.11.5 Impairment of financial assets.
+
+In accordance with IFRS 9, recognition of expected credit losses applies to the following financial assets:
+
+- Trade receivables
+- Contract assets
+- Lease receivables
+- Cash and cash equivalent
+
+The Group uses for trade receivables as well as for contract assets without a significant financing component and for lease receivables the simplified impairment model and accordingly calculates impairment at the amount of the lifetime expected credit losses (expected credit loss model) based on a provision matrix in which financial assets are structured according to ageing and the respective default rates are determined for different maturity bands. The age structure breaks down as follows: not past due, 1–30 days, 31–60 days, 61–90 days, 91–180 days, 181–270 days, more than 270 days past due. For financial assets Kapsch TrafficCom expects a loss if contractual payments are past due 270 days or more.
+
+In preparing the provision matrix, historical data on actually incurred defaults as well as forward-looking information and expectations are taken into account by overall estimating a potential loss by Kapsch TrafficCom. For forward-looking information and expectations changes in country specific CDS spreads are taken into account as the CDS-market represents all publicly available information and expectations in regard of market-related changes. The financial assets are allocated to different regions and credit risk and/or the changes to credit risk for the corresponding region are taken into account. Contract assets represent receivables not yet invoiced and do not significantly differ from trade receivables from comparable contracts as regards the risk criteria. Therefore, the same default rates as for receivables not past due are applied. The impairment of lease receivables is not material as of March 31, 2024. Financial assets are written off if no reasonable expectation of recovery exists. For example the debtor is insolvent or no agreement is possible and therefore the cash inflow cannot be anticipated anymore.
+
+Any impairment on cash and cash equivalents would be insignificant and was thus not taken into consideration.
+
+The Group assesses at each balance sheet date whether there is objective evidence of impairment of each significant individual financial asset or group of financial assets. If such evidence exists, the Group accounts for that impairment, and the proportionate loss previously recognized in equity for debt instruments measured at fair value through other comprehensive income is removed from equity and recognized through profit or loss in the statement of comprehensive income. The cumulative loss reclassified from equity to profit or loss is the difference between the acquisition cost and the current fair value, less any impairment loss on that financial asset previously recognized in profit or loss. If in subsequent periods the fair value of the impaired financial instrument increases and that increase is directly related to an event occurring after the impairment was recognized through profit or loss in the statement of comprehensive income, the Group reverses the impairment loss.
+
+## 34.12 Inventories.
+
+Inventories are stated at cost or, if lower, at net realizable value. Cost is determined using the weighted average price method. Production cost includes all directly attributable expenses and fixed and variable overheads (based on normal operating capacity) incurred in connection with production. It excludes, however, borrowing costs as they cannot be allocated to a qualifying asset. Net realizable value is the estimated selling price in the ordinary course of business less applicable variable selling expenses.
+
+{96}------------------------------------------------
+
+## 34.13 Employee benefits.
+
+The Group provides various post-employment benefits to employees and other long-term benefits either based on individual agreements or in accordance with local labor law provisions.
+
+A defined contribution plan is a pension plan under which the Group pays fixed contributions into a separate nongroup entity (fund). The Group has no legal or constructive obligations to pay further contributions if the fund does not hold sufficient assets to pay all employees the benefits relating to employee service in the current and prior periods.
+
+Next to the defined contribution plans, there are defined benefit plans. Typically, defined benefit plans define an amount of pension benefit that an employee will receive on retirement, usually dependent on one or more factors such as age, years of service, and compensation.
+
+The projected unit credit method is used for the calculation of liabilities arising from pension obligations and termination benefits in accordance with IAS 19. According to this method, post-employment costs for employee benefits are recognized in the statement of comprehensive income in such a way that scheduled costs are spread over the employees' years of service on the basis of an expert opinion by a qualified actuary, who completely remeasures the schemes annually. The obligations for pension payments are calculated at the present value of future benefits using interest rates of high-quality corporate bonds whose term roughly equals the term of the liability. The liability recognized on the balance sheet with respect to defined benefit pension plans is the present value of the defined benefit obligation at the end of the reporting period less the fair value of plan assets.
+
+Costs arising from defined benefit plans from pension obligations and termination benefits include the following components:
+
+- Service costs include current as well as past service costs as well as gains or losses from benefit changes or curtailments. Service costs are recognized in profit or loss within personnel expenses.
+- The net interest cost on the defined benefit obligation or plan asset. This component is included in interest expense in the statement of comprehensive income.
+- Remeasurements of the net defined benefit obligation or net asset. These are charged or credited to other comprehensive income in the period in which they arise.
+
+Contributions paid by the Group under a defined contribution pension scheme are charged to the statement of comprehensive income under personnel expenses in the period in which they occur.
+
+For the calculation of liabilities arising from obligations for anniversary bonuses in accordance with IAS 19, the projected unit credit method is used. Anniversary bonuses are special lump-sum payments stipulated in the collective agreement and dependent on compensation and years of service. Eligibility is determined by a certain number of service years. The calculation of liabilities arising from obligations for anniversary bonuses is performed in a similar way as the calculation for liabilities arising from termination benefits. Current service costs are recognized within personnel expenses, net interest costs are recognized in interest expense in the statement of comprehensive income. Remeasurements are recognized within personnel expenses.
+
+## 34.14 Provisions.
+
+Provisions are recognized in the balance sheet in the event of a current legal or constructive obligation to third parties due to past events when it is probable that an outflow of resources will be required to settle the obligation and a reliable estimate of the amount of the obligation can be made. If such a reliable estimate is not possible, no provisions are set up. Provisions are measured based on the present value of the estimated settlement amount. The settlement amount is the best possible estimate of an expense on the basis of which a current obligation might be settled at the balance sheet date or transferred to a third party. This estimate takes into account future cost increases that are foreseeable and likely to occur on the balance sheet date. If material, the provisions are discounted using a pre-tax interest rate that takes into account current market expectations regarding the interest effect and the risks specific to the obligation. Increases in the provision resulting from pure compounding are recognized as interest expense in the income statement.
+
+{97}------------------------------------------------
+
+Provisions for warranties and liabilities for construction flaws, serial and system problems mainly serve as coverage for obligations for free repairs and replacement deliveries, in accordance with the general sales and delivery conditions or due to individual agreements, and are measured on the basis of the group of obligations, using rates based on past experience regarding direct labor and material costs incurred, overheads, replacement deliveries, or rebates. A provision is recognized for the best estimate of the costs incurred for defects to be rectified under the warranty for products sold before the balance sheet date.
+
+Provisions for onerous contracts are recognized if the expected benefit to be derived from the contract is less than the unavoidable costs of meeting the obligations under the contract. The provision is measured at the present value of the amount from the fulfillment of the contract or any compensation payments in case of non-performance, whichever is lower. The recognition of impairment losses on assets dedicated to such onerous contracts is, however, established prior to the recognition of the provisions for onerous contracts.
+
+Provisions for restructuring are recognized if the criteria of IAS 37 are fulfilled and includes the directly linked costs of restructuring, that are compulsory in the course of the restructuring and not referring to any current activities. Restructuring measure were communicated and started in the financial year 2020/21 in Kapsch TrafficCom. The majority of the measures were carried out in the financial year 2021/22 and 2022/23 and the provision was utilized accordingly.
+
+## 34.15 Current and deferred income tax.
+
+The tax expense for the period comprises current and deferred tax. Tax is generally recognized in the statement of comprehensive income. Only taxes that relate to items recognized in other comprehensive income are recognized in other comprehensive income.
+
+The current income tax charge is calculated on the basis of the tax laws applicable at the balance sheet date in the countries where the subsidiaries and associates operate and generate taxable income. The local Management is responsible together with the local fiscal representative for the preparation of tax returns, particularly relating to matters subject to interpretations and for setting up debt provisions, if reasonable, for amounts payable to tax authorities.
+
+Deferred tax assets/liabilities are provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their carrying amounts in the consolidated financial statements. However, if the deferred tax assets/liabilities arise from initial recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction affects neither IFRS profit or loss nor taxable profit or loss, except for those transactions arising from initial recognition of the leasing in accordance with IFRS 16, they are not recognised. Likewise, deferred taxes are not recognized if they arise from the initial recognition of goodwill.
+
+Deferred tax assets/liabilities are determined using tax rates (and laws) that have been enacted or substantially enacted by the balance sheet date and are expected to apply when the related deferred tax asset is realized or the deferred tax liability is settled.
+
+Deferred tax assets are recognized to the extent that it is probable that future taxable profit will be available against which the temporary differences can be utilized. In addition, it is to be assumed that such temporary differences will be reversed in the foreseeable future.
+
+Deferred tax assets for unused tax loss carried forward are recognised to the extent that it is probable that future taxable profits will be available and, in particular in the case of a losses history, there is convincing evidence that sufficient taxable profit will be available in the future against which these unused tax losses can be utilized. A planning horizon of six years is used, with the Group applying appropriate deductions in later planning periods due to greater uncertainties in the utilisation of the loss carry forward.
+
+{98}------------------------------------------------
+
+The carrying value of deferred tax assets is reviewed annually at the balance sheet date and revalued if it is no longer likely that sufficient taxable income will be available to realize such assets partially or in full.
+
+Deferred tax liabilities are provided on temporary differences arising on investments in subsidiaries and associates, except where the timing of the reversal of the temporary difference is controlled by the Group and it is probable that the temporary difference will not be reversed in the foreseeable future.
+
+## 34.16 Non-current assets held for sale and discontinued operations.
+
+Kapsch TrafficCom classifies non-current assets as "held for sale" if the benefit arising from the remaining carrying amount is to be realized predominately through the sale and not through the further use of the asset. The assets are remeasured in accordance with IFRS 5 immediately prior to their classification as "held for sale". The assets are subsequently measured at the lower of carrying amount and fair value less costs to sell. Any impairment is initially allocated to goodwill and subsequently to the other assets and liabilities on a pro rata basis, and recognized in the statement of comprehensive income.
+
+## 34.17 Contingent liabilities.
+
+With regard to contingent liabilities, the Group classifies the possibility of an outflow of resources embodying economic benefits as remote, and a liability does not have to be recognized yet pursuant to IFRS.
+
+Contingent liabilities occur for two reasons. For one, they comprise possible obligations that arise from past events and whose existence will be confirmed by uncertain future events that are at least partly beyond the Group's con trol. For another, they comprise present obligations that fail to meet general or special recognition standards (i.e. the amount of an obligation cannot be measured with sufficient reliability or an outflow of resources to settle the obligations is not deemed probable).
+
+## 34.18 New and amended standards and interpretations that have been adopted by the EU and applied for the first time in financial year 2023/24.
+
+|                                           | New/amended IFRS                                                                                             | Published by the IASB<br>and adopted by the EU | Applicable to<br>financial years<br>beginning on or after | Material impact on<br>group's consolidated<br>financial statements |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|
+| IFRS 17                                   | Insurance Contracts                                                                                          | June 2020                                      | January 1, 2023                                           | None                                                               |
+| IAS 8                                     | Amendments to IAS 8:<br>Definition of Accounting Estimates                                                   | February 2021                                  | January 1, 2023                                           | None                                                               |
+| IAS 1,<br>IFRS<br>Practice<br>Statement 2 | Amendments to IAS 1 and IFRS<br>Practice Statement 2: Disclosure of<br>Accounting policies                   | February 2021                                  | January 1, 2023                                           | None                                                               |
+| IAS 12                                    | Amendments to IAS 12: Deferred Tax<br>related to Assets and Liabilities arising<br>from a Single Transaction | May 2021                                       | January 1, 2023                                           | None                                                               |
+| IAS 12                                    | Amendments to IAS 12: International<br>Tax Reform – Pillar Two Model Rules                                   | May 2021                                       | January 1, 2023                                           | None                                                               |
+
+The application did not have any impact on the consolidated financial statements.
+
+IFRS 17 Insurance Contracts. IFRS 17 was published in May 2017 as a replacement for IFRS 4 Insurance Contracts. The valuation model of IFRS 17 is based on the determination of the current settlement values of insurance contracts, so that their valuations have to be adjusted in each reporting period due to changes in estimates. The new rules will affect the financial statements and key figures of all entities that have insurance contracts or investment contracts with discretionary or investment contracts with discretionary participation features.
+
+From today's perspective, no significant effects on the net assets, financial position and results of operations of the Group are expected.
+
+{99}------------------------------------------------
+
+Amendments to IAS 8: Definition of Accounting Estimates. It clarifies how to distinguish between changes in accounting policies and accounting estimates.
+
+The distinction is important because changes in estimates affect future business prospectively and events, such as changes in accounting methods, however, retrospectively to the past transactions and events and the current period are to be applied.
+
+From today's perspective, there are no significant effects on the Group's net assets, financial position and results of operations expected.
+
+Amendments to IAS 1 and IFRS Practice Statement 2: Disclosure of Accounting Policies. IAS 1 clarifies that entities shall disclose all material accounting policies. Previously, the standard referred to significant accounting policies. The amendments define what is meant by "significant accounting policies" and how to identify them. They also clarify that immaterial information on accounting policies need not be disclosed. However, if it is disclosed, this must not obscure significant information about accounting policies.
+
+From today's perspective, there are no significant effects on the Group's net assets, financial position and results of operations expected.
+
+## Amendments to IAS 12 Income Taxes: Deferred Tax related to Assets and Liabilities arising from a Single
+
+Transaction. IAS 12 clarify how companies account for deferred tax on transactions such as leases and decommis sioning obligations. The main change in Deferred Tax related to Assets and Liabilities arising from a Single Transaction (Amendments to IAS 12) is an exemption from the initial recognition exemption provided in IAS 12.15(b) and IAS 12.24. Accordingly, the initial recognition exemption does not apply to transactions in which equal amounts of deductible and taxable temporary differences arise on initial recognition. This is also explained in the newly inserted paragraph IAS 12.22A. According to the amendments, deferred taxes are to be recognised for transactions in which arise taxable and deductible temporary differences of the same amount on initial recognition.
+
+From today's perspective, there are no significant effects on the Group's net assets, financial position and results of operations expected.
+
+## Amendments to IAS 12: International Tax Reform – Pillar Two Model Rules are:
+
+- an exception to the requirements in IAS 12 under which an entity does not recognise deferred tax assets and liabilities,
+- deferred tax assets and liabilities in connection with the OECD's second pillar of income taxes and does not disclose them,
+- an entity shall disclose that it has applied the exception,
+- the requirement for an entity to disclose separately its current tax expense (income) relating to second pillar income taxes,
+- the requirement for an entity to recognise its actual second pillar tax expense (income) in periods when second pillar legislation has been enacted or
+- substantially enacted but not yet substantively enacted, provides known or reasonably estimable,
+- information that helps users of the financial statements to understand the second pillar income taxes resulting from these laws,
+- the requirement for an entity to apply the exemption and the requirement to disclose that it has applied the exemption immediately after the amendments are published and retrospectively in accordance with IAS 8.
+
+From today's perspective, no material effects on the Group's net assets, financial position and results of operations are expected as Group's net assets, financial position and results of operations, as Group revenues do not exceed the minimum threshold of EUR 750 million.
+
+{100}------------------------------------------------
+
+## 34.19 Standards, interpretations and amendments to published standards that are not yet effective and that have not been prematurely adopted by the Group.
+
+|        | New/amended IFRS                                                                                                                                  | Published by the IASB<br>and adopted by the EU | Applicable to<br>financial years<br>beginning on or after | Material impact on<br>group's consolidated<br>financial statements |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|
+| IAS 1  | Presentation of Financial Statements:<br>Classification of Liabilities as Current or<br>Non-current and Non-current Liabilities<br>with Covenants | January, 2020                                  | January 1, 2024                                           | None                                                               |
+| IAS 16 | Amendments to IFRS 16: Lease Liability<br>in a Sale and Leaseback                                                                                 | September, 2022                                | January 1, 2024                                           | None                                                               |
+
+Amendments to IAS 1 Classification of Liabilities as Current or Non-Current: Amendments to the requirements introduced by classifying liabilities as current or non-current in relation to how an entity classifies debt and other financial liabilities as current or non-current in particular circumstances: affect only the presentation of liabilities in the statement of financial position, not the amount or timing of recognition of any asset, liability income or expenses, or the information that entities disclose about those items.
+
+Amendments clarify that the classification of liabilities as current or non-current should be based on rights that are in existence at the end of the reporting period and align the wording in all affected paragraphs to refer to the "right" to defer settlement by at least twelve months and make explicit that only rights in place "at the end of the reporting period" should affect the classification of a liability; clarify that classification is unaffected by expectations about whether an entity will exercise its right to defer settlement of a liability; and make clear that settlement refers to the transfer to the counterparty of cash, equity instruments, other assets or services.
+
+Only covenants with which an entity is required to comply on or before the reporting date affect the classification of a liability as current or non-current. In addition, an entity has to disclose information in the notes that enables users of financial statements to understand the risk that non-current liabilities with covenants could become repayable within twelve months.
+
+Amendments to IFRS 16 Lease Liability in a Sale and Leaseback Transaction: The amendment clarifies how a seller-lessee subsequently measures sale and leaseback transactions that satisfy the requirements in IFRS 15 to be accounted for as a sale. The new requirements do not prevent a seller-lessee from recognising in profit or loss any gain or loss relating to the partial or full termination of a lease.
+
+|         | New/amended IFRS                                                                                                                     | Published by the IASB<br>but not yet adopted<br>by the EU | Applicable to<br>financial years<br>beginning on or after | Material impact on<br>group's consolidated<br>financial statements |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|
+| IAS 7   | Amendments to IAS 7: Statement of Cash<br>Flows and IFRS 7 Financial Instruments:<br>Disclosures: Supplier Finance Arrange-<br>ments | May, 2023                                                 | January 1, 2024                                           | not yet determined                                                 |
+| IAS 21  | Amendments to IAS 21: The Effects of<br>Changes in Foreign Exchange Rates:<br>Lack of Exchangeability                                | August, 2023                                              | January 1, 2025                                           | not yet determined                                                 |
+| IFRS 18 | Presentation and Disclosures in Financial<br>Statements                                                                              | April, 2024                                               | January 1, 2027                                           | not yet determined                                                 |
+| IFRS 19 | Subsidiaries without Public Accountability:<br>Disclosures                                                                           | May, 2024                                                 | January 1, 2027                                           | not yet determined                                                 |
+
+The Group does not apply these new or amended standards and interpretations prematurely.
+
+{101}------------------------------------------------
+
+Amendments to IAS 7 and IFRS 7: Reverse Factoring Arrangements. The amendments add disclosure requirements and 'signposts' within the existing disclosure requirements that require entities to disclose entities to provide qualitative and quantitative information about financing arrangements with suppliers on liquidity risk in IFRS 7.
+
+Amendments to IAS 21: The effect of changes in foreign exchange rates when there is a lack of exchangeability. The pronouncement contains guidance that specifies when a currency is exchangeable and how is to be determined if it is not. The amendments also extend to corresponding amendments to IFRS 1, in which exchangeability was previously mentioned but not defined.
+
+IFRS 18: Presentation and Disclosure in Financial Statements. The objective of IFRS 18 is to set out requirements for the presentation and disclosure of information in general purpose financial statements to help ensure they provide relevant information that faithfully represents an entity's assets, liabilities, equity, income and expenses.
+
+IFRS 19: Subsidiaries without Public Accountability: Disclosures. The objective of IFRS 19 is to specify the disclosure requirements an entity is permitted to apply instead of the disclosure requirements in other IFRS Accounting Standards.
+
+Standards and interpretations already published by the IASB but not yet endorsed by the EU: These standards and interpretations or adjustments to the standards and interpretations are not yet mandatory apply and, from today's perspective, will not have any significant impact on the Group.
+
+## 35 Earnings per share.
+
+Earnings per share (undiluted earnings) are calculated by dividing the result for the period attributable to equity holders of the company by the weighted average number of ordinary shares in issue during the year, excluding, if any, ordinary shares purchased by Kapsch TrafficCom and held as treasury shares.
+
+As of March 31, 2024, as in the previous year, no treasury shares were held by the company. There were no dilutive effects.
+
+|                                                                              | March 31, 2023 | March 31, 2024 |
+|------------------------------------------------------------------------------|----------------|----------------|
+| Result for the period attributable to equity holders of the company (in EUR) | -24,803,258    | 23,182,648     |
+| Weighted average number of ordinary shares                                   | 13,000,000     | 13,454,645     |
+| Earnings per share (in EUR)                                                  | -1.91          | 1.72           |
+
+## 36 Events after the reporting period.
+
+## Sale of TMT Services and Supplies Proprietary Limited (TMT).
+
+On April 25, 2024, the Group sold its shares in TMT Services and Supplies Proprietary Limited (TMT), South Africa, a provider of road safety law enforcement and automatic fare collection solutions for public transport. These shares were held by a subsidiary of Kapsch TrafficCom AG, KTC-ZA Holding Proprietary Limited, South Africa. The sale resulted in the disposal of assets with a value of EUR 11.0 million and liabilities with a value of EUR 4.0 million. The selling price including variable components is expected to amount to EUR 2.7 million. The overall effects of the deconsolidation will be published in the quarterly highlights for the first quarter of the financial year 2024/25.
+
+## Winning a major infrastructure project in Switzerland.
+
+Kapsch TrafficCom AG announced on April 30, 2024 that it had been contracted by the Swiss Federal Office for Customs and Border Security (BAZG) to supply the heavy goods vehicle (HGV) road fee collection system and to manage the technical operation until at least the end of 2032. This major project has a contract value of EUR 74.5 million.
+
+{102}------------------------------------------------
+
+## Supplementary financing agreement.
+
+In May 2024, the term of the existing restructuring agreement including all credit lines of Kapsch TrafficCom AG was extended until March 31, 2026. Furthermore, Kapsch TrafficCom AG is committed to make repayments totaling EUR 20 million between December 31, 2024 and December 31, 2025.
+
+## Other.
+
+The operation of the tolling system in the Gauteng province in South Africa was extended again by one month. Kapsch TrafficCom expects a prolongation until mid-November 2024 on a reduced scope.
+
+Beyond this, there were no events after the balance sheet date to report.
+
+## 37 Supplementary disclosures.
+
+The average number of staff in the financial year 2023/24 was 3,500 salaried employees and 498 waged earners (2022/23: 3,609 salaried employees and 547 waged earners).
+
+#### Expenses for the auditor.
+
+The expenses for the auditor amounted to EUR 227 k (2022/23: EUR 126 k) for the audit of the consolidated financial statements and are broken down as follows:
+
+|                                                | 2022/23 | 2023/24 |
+|------------------------------------------------|---------|---------|
+| Audit of the consolidated financial statements | 126     | 227     |
+| Subsequent settlement                          | 0       | 131     |
+| Other assurance services                       | 90      | 150     |
+| Tax advisory services                          | 0       | 0       |
+| Other services                                 | 7       | 5       |
+| Total                                          | 222     | 513     |
+
+## Compensation and other payments to members of the Executive and the Supervisory Board.
+
+In the financial year 2023/24, the following persons served on the Executive Board:
+
+- Georg Kapsch (Chairman)
+- Alfredo Escribá Gallego
+- Andreas Hämmerle (until November 2023)
+
+In the financial year 2023/24 the compensation paid to the members of the Executive Board (including pension fund payments) amounted to EUR 3,171 k (2022/23: EUR 1,974 k). The increase in remuneration is primarily due to the profit-based remuneration. Expenses from termination and pension benefits for the Executive Board amounted to EUR 32 k (2022/23: EUR 36 k). In total, this results in total compensation for the Executive Board (before offsetting against provisions) of EUR 3,171 k in the 2023/24 financial year (2022/23: EUR 1,974 k).
+
+In the financial year 2023/24, the following persons served on the Supervisory Board:
+
+- Franz Semmernegg (Chairman)
+- Harald Sommerer (Deputy-Chairman)
+- Sabine Kauper (until September 6, 2023)
+- Monika Brodey (from September 6, 2023)
+- Sonja Hammerschmid
+
+Delegated by the works council:
+
+- Christian Windisch
+- Claudia Rudolf-Misch (until November 22, 2023)
+- Robert Kutschera (from November 22, 2023)
+
+{103}------------------------------------------------
+
+The compensation paid to the members of the Supervisory Board in the financial year 2023/24 amounted to EUR 120 k (2022/23: EUR 120 k).
+
+As in previous years, no advances or loans were granted to members of the Executive Board or Supervisory Board, nor were any guarantees issued in their favor.
+
+## Proposed appropriation of retained earnings.
+
+In accordance with the agreement on the financial restructuring, the Executive Board will propose to the 2024 Annual General Meeting not to distribute a dividend for the financial year 2023/24 and to carry forward the retained earnings to new account.
+
+Authorized for issue:
+
+Vienna, June 18, 2024
+
+Georg Kapsch Chief Executive Officer
+
+Alfredo Escribá Gallego Executive Board member
+
+{104}------------------------------------------------
+
+# *Statement of all Members of the Executive Board.*
+
+## *Pursuant to Sec. 124 (1) Stock Exchange Act 2018.*
+
+We declare to the best of our knowledge that the Consolidated Financial Statements give a true and fair view of the assets, liabilities, financial position and profit or loss of the Group as required by the applicable accounting standards, that the Consolidated Management Report gives a true and fair view of the development and performance of the business and the position of the Group, so that a true and fair view of the assets, liabilities, financial position and profit or loss of the Group is obtained and that the Consolidated Management Report describes the principal risks and uncertainties faced by the Group.
+
+Vienna, June 18, 2024
+
+Georg Kapsch Chief Executive Officer
+
+Signature
+
+Alfredo Escribá Gallego Executive Board member
+
+{105}------------------------------------------------
+
+## *Auditor's Report Report on the Consolidated Financial Statements.*
+
+## Audit Opinion.
+
+We have audited the consolidated financial statements of Kapsch TrafficCom AG, Vienna, and its subsidiaries (the Group), which comprise the consolidated statement of comprehensive income, the consolidated balance sheet as at March 31, 2024, the consolidated statement of changes in equity and the consolidated cash flow statement for the financial year then ended, and the notes to the consolidated financial statements.
+
+In our opinion, the accompanying consolidated financial statements comply with legal requirements and give a true and fair view of the financial position of the Group as at March 31, 2024, and of its financial performance and cash flows for the year then ended in accordance with the International Financial Reporting Standards as adopted by the EU (IFRSs) and the additional requirements under section 245a Austrian Company Code.
+
+## Basis for Opinion.
+
+We conducted our audit in accordance with Austrian Generally Accepted Standards on Auditing. Those standards require the application of the International Standards on Auditing (ISAs). Our responsibilities under those provisions and standards are further described in the "Auditor's Responsibilities for the Audit of the Consolidated Financial Statements" section of our report. We are independent of the Group in accordance with Austrian Generally Accepted Accounting Principles and professional requirements, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained until the date of the auditor's report is sufficient and appropriate to provide a basis for our opinion by this date.
+
+## Key Audit Matters.
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements of the financial year. These matters were addressed in the context of our audit of the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+We have structured key audit matters as follows:
+
+- Description
+- Audit approach and key observations
+- Reference to related disclosures
+
+## 1 Recoverability of the carrying amounts of the cash-generating units including goodwill.
+
+## Description.
+
+The consolidated financial statements contain goodwill in the amount of EUR 22,735 k under the item intangible assets, of which EUR 11,771 k is allocated to the cash-generating unit Tolling-Americas and EUR 7,371 k to the cash-generating unit Tolling-APAC. The Group carries out an impairment test at least once a year and if evidence occurs indicating impairment (impairment test in accordance with IAS 36). In the financial year 2023/24, the impairment test did not indicate a need for impairment. Moreover, the consolidated financial statements as at March 31, 2024 include other intangible assets in the amount of EUR 5,140 k and property, plant and equipment in the amount of EUR 45,960 k.
+
+The CGU Tolling-Americas includes goodwill whose recoverability is significantly determined by business development in North America. In this region, significant losses were incurred in the prior financial years which mainly result from considerable cost overruns and adjustments to planned costs and margins for material projects. As a result, the management identified, resolved on and implemented measures which are expected to lead to a positive development of results in the future. In North America, the financial year 2023/24 was still significantly affected by these restructuring measures and by a period of consolidation and reorganization. Margins for some implementation projects in the US also had to be further adjusted. There is still a negative contribution to earnings in the CGU Tolling-Americas in the amount of EUR -13,192 k (prior year: EUR -20,652 k). Based on the impairment test, no need for impairment exists for the CGUs Tolling-Americas and TM-Americas, with recoverability depending on achieving the return to profitable business planning in the future.
+
+{106}------------------------------------------------
+
+Following the outbreak of the war in Ukraine in March 2022, sanctions resulted in an impact on Kapsch TrafficCom's business in Belarus and are presented in the CGU Tolling-EMEA. Despite the existing sanctions and the associated supply restrictions, there are currently no material negative effects, especially in the important operation of the Austrian-wide toll system for cars and trucks, which runs until 2032. The planning calculation on which the impairment test is based assumes stable ongoing operations. No need for impairment exists for this CGU as at March 31, 2024.
+
+Testing carrying amounts of cash-generating units including goodwill for impairment requires significant estimates to be made by management regarding the future market development and the probability of winning individual major contracts during the planning period. This is particularly true for implementation projects with regard to tolling systems in the Tolling segment, where the order inflow is very volatile and contracts are usually awarded based on invitations to tender, which usually is associated with certain uncertainties. Moreover, there is significant area of judgement involved in the valuation, in particular with regard to the discount rate and the assumptions for the terminal value. With regard to the consolidated financial statements, there is a risk of an overstatement of goodwill due to these estimation uncertainties and it was therefore identified as key audit matter.
+
+## Audit approach and key observations.
+
+We evaluated the appropriateness of significant forward-looking estimates and significant assumptions to derive the future cash flows as well as whether the calculation model used complies with the requirements of IAS 36. Internal evaluation experts were partly involved.
+
+Within our audit and by partly involving our evaluation experts, we first gained an understanding of the planning logic, the planning process and the planning model as well as the impairment test (identification and definition of cash-generating units, determination of the recoverable amount, analysis of impairment, determination of discount rate and growth rate as well as calculation model).
+
+We examined whether the assumptions used in the future cash flows are in line with the plan prepared by the Executive Board and approved by the Supervisory Board. We analyzed and critically assessed the essential drivers for future development (revenue growth, earnings margin, working capital, investment planning) as well as the essential risks for possible deviations from the planning assumptions and discussed them in meetings with the management. The parameters used to determine a discount rate in line with the risk level and the assumptions relating to the long-term growth rate were checked by means of external market and industry data, and the calculation model was tested for mathematical accuracy. Further, we evaluated whether the disclosures on impairment testing provided in the notes are appropriate. This included, in particular, the assessment and recalculation of sensitivity analyses performed to assess the risk of possible deviations from revenues and earnings assumptions as well as from the discount and growth rates used.
+
+The valuation model used by the Company is appropriate to carry out an impairment test as required by IFRS (impairment test in accordance with IAS 36). The assumptions and valuation parameters used in the valuation are reasonable. The disclosures in the notes required by IAS 36 are complete.
+
+## Reference to related disclosures.
+
+Further information on this key audit matter is included in the notes to the consolidated financial statements in note 12 "Property, plant and equipment", 13 "Intangible assets" and note 34.6.1 "Goodwill" in section 34 "Accounting and valuation principles".
+
+## 2 Estimates and assumptions regarding the recognition of revenue from implementation projects.
+
+## Description.
+
+A significant part of the Group's revenues and earnings contributions reported during the financial year comes from the construction of toll systems (tolling) and from the construction of systems for controlling traffic and mobility patterns (traffic management).
+
+In the financial year 2023/24, from the total revenue in the amount of EUR 538,842k, revenue in the amount of EUR 152,551 k related to the implementation of tolling and traffic management systems. The non-current and current contract assets as at March 31, 2024 amount to EUR 80,557 k (thereof EUR 21,312 k from Kapsch TrafficCom USA), and the non-current and current contract liabilities amount to EUR 48,517 k (thereof EUR 28,517 k from Kapsch TrafficCom USA). In addition, provisions for losses from onerous contracts were set up in the amount of 
+
+{107}------------------------------------------------
+
+EUR 17,326 k (thereof EUR 15,033 k from Kapsch TrafficCom USA) in order to provide for potential future losses from the further processing of projects.
+
+The Group realizes revenues for its implementation projects in accordance with IFRS 15 based on the percentage of completion, which is determined from the ratio of the costs already incurred to the estimated total costs for the respective contract. This requires an ongoing assessment and update of the contract costs and the risks from fulfilling the contracts, which may result from technical problems, delays or problems with subcontractors or other external framework conditions and influence the contract margin. Furthermore, damages or contractual penalties can arise from these contracts which have to be considered in the project valuation and require a risk assessment. For single contracts, a variable consideration is included in the transaction price, which also leads to estimates. Numerous projects of the Group usually are technologically complex individual contracts with specific terms of contract and therefore have to be assessed individually with regard to revenue recognition and project risks.
+
+Due to, among others, a lack of resources with regard to qualified employees and delays in the acceptance of various projects due to the insufficient maturity of the software solution, considerable cost overruns in North America and adjustments to planned costs and margins for various projects occurred in the recent past, resulting in an impact on revenue recognition pursuant to IFRS 15. In the financial year 2023/24, progress was made on the percentage of completion of the projects concerned, but due to the provisions of the customer contracts further adjustments to the expected total costs in the amount of EUR 25,272 k of these projects had to be taken into account in the current financial year which led to further negative margin adjustments.
+
+Due to the material impact of the projects, in particular during the construction phase, on the Group's assets and liabilities, financial situation and results of operations and the significant estimates involved in the accounting for these contracts, there is the risk that the revenues from implementation projects and therefore the Group's result and the project-related balance sheet items contain a material misstatement, and this was therefore identified as key audit matter.
+
+## Audit approach and key observations.
+
+Within the framework of our risk-based audit approach, we gained an understanding of the revenue process and internal controls and tested the effectiveness of selected internal controls. This mainly referred to internal automatic and manual controls in connection with the approval of order calculation upon the conclusion of new contracts as well as approval of the ongoing recalculation. We tested the controls regarding the IT system used throughout the Group for revenue recognition in accordance with IFRS 15 "Revenue Engine". Using samples, we recalculated the accurate determination of revenues based on percentage of completion. Based on selected samples we looked at project requests, customer contracts, Supervisory Board minutes, the project budgeting tool as well as detailed cost estimates and held discussions with the project managers and the management team regarding the status of the project, project risks and planning assumptions. In assessing the appropriateness of the estimates, a particular focus was on the review of the regular update of plan assumptions, in particular on the planned cost to complete and the planned project margin. We requested and checked the purchase orders and contracts for both actual and planned revenue. We examined the appropriateness of the disclosures on uncertainties with regard to estimation and examined the calculation of the sensitivity figures by 10% in the case of a change in the planned project margin (profit margin) in absolute terms.
+
+As in the prior year, we performed extended audit procedures with regard to the projects in North America (the subsidiary Kapsch TrafficCom US). In particular, we checked the effectiveness of project controlling controls and discussed with local management and the project managers in charge the risk provisions and cost adjustments as well as the most recent approved planning for the sample projects examined, and critically assessed it.
+
+The valuation methods and underlying assumptions applied for revenue recognition from implementation projects are reasonable. The disclosures in the notes required by IFRS 15 are complete.
+
+## Reference to related disclosures.
+
+The Group's disclosures on revenue recognition are included in note 1.4.1 "Revenue recognition for contract work", in note 2 "Segment information", in note 20 "Contract assets and contract liabilities", note 26 "Provisions" as well as in note 34.3 "Revenue recognition" in section 34 "Accounting and valuation principles".
+
+{108}------------------------------------------------
+
+## 3 Recognition of deferred tax assets.
+
+## Description.
+
+Deferred tax assets in the amount of EUR 45,568 k are reported in the consolidated financial statements, mainly resulting from tax loss carry-forwards in the amount of EUR 36,863 k predominantly in Austria in the amount of EUR 20,192 k (intragroup loss carry-forward via group taxation) and the US in the amount of EUR 9,615k. The Group recognizes deferred tax assets up to the extent it is probable that sufficient taxable profits will be available against which the temporary differences as well as unused tax loss carry-forwards can be utilized. In the case of a history of losses, deferred tax assets are capitalized on loss carry-forwards to the extent that there is convincing substantial evidence that sufficient taxable income, taking into account the potential time limitation for using such loss carry-forwards, will be available in the future. The planning horizon in this context is six years.
+
+Reviewing the recognition of deferred taxes requires management to make significant estimates as regards future market and business development as well as the chance of making profits with individual major contracts within the planning horizon, which is usually subject to a degree of uncertainty. With regard to the consolidated financial statements, there is a risk of an overstatement of deferred tax assets due to these estimation uncertainties, and they were therefore identified as key audit matter.
+
+## Audit approach and key observations.
+
+We examined whether the assumptions used in the future cash flows are in line with the multiyear plan prepared by the Executive Board and approved by the Supervisory Board, and we analyzed and critically assessed the essential drivers for future development (revenue growth, earnings margin, investment planning). Furthermore, we analyzed and critically assessed the adjustments to the tax planning result, which also takes into account future positive one-off effects with substantial indications. The calculation model was tested for mathematical accuracy and the tax rates used were reconciled with external sources. To the extent that a loss history was available, we evaluated in particular whether there is convincing evidence that sufficient taxable profits will be available against which the unused tax loss carry-forwards can be utilized. Further, we evaluated whether the disclosures on deferred tax assets provided in the notes are appropriate. In particular, this included the sensitivity analyses determined to assess the risk of potential deviations from earnings assumptions.
+
+The model used by the Company is suitable to recognize deferred tax assets in accordance with IAS 12. The assumptions used in the valuation are reasonable. The disclosures in the notes required by IAS 12 are complete.
+
+## Reference to related disclosures.
+
+The Group's disclosures on deferred taxes are included in note 1.4.3. The Group's disclosures on deferred taxes are included in note 1.4.3. "Recognition of deferred tax assets", note 10 "Income taxes", note 17 "Deferred tax assets/ liabilities" and note 34.15 "Current and deferred income tax" in section 34 "Accounting and valuation principles".
+
+## 4 Restructuring of financing.
+
+## Description.
+
+As at March 31, 2024, non-current liabilities in the amount of EUR 91,906 k (prior year: EUR 58,472 k) and current financial liabilities in the amount of EUR 12,751 k (prior year: EUR 131,170 k) exist.
+
+In the previous financial year 2022/23, the adverse business development, particularly with regard to profitability and the associated liquidity and debt, has led management to prepare a comprehensive restructuring concept with the help of an external advisor, which includes measures to improve profitability and reduce working capital, but is also intended to create a basis for sustainable future growth. This restructuring concept also forms the basis for the refinancing agreement concluded by Kapsch TrafficCom AG, Vienna, with its main financial creditors on May 31, 2023, which was concluded until May 25, 2025, in which a comprehensive refinancing of current financial liabilities (including the promissory note bonds) was agreed. Existing financing in the amount of EUR 106.3 million was extended until May 25, 2025, and new financing was concluded by this date. This includes a refinancing agreement of 50% of the promissory note bond in the amount of EUR 11.5 million that has matured in mid-June 2023 and the provision of EUR 4.25 million as an additional operating loan by a promissory note creditor. In this context, the Company has agreed to make early repayments from surplus cash and cash equivalents (cash sweep), from extraordinary inflows and from pending proceedings, and to not distribute any dividends. In the course of the refinancing, additional customary covenants and conditions were agreed with the financial creditors, compliance with which will be closely monitored and reported on by the external advisors in the future. The main shareholder KAPSCH-Group Beteiligungs GmbH, Vienna, pledged all its shares held in the Company (around 63.6% of the share 
+
+{109}------------------------------------------------
+
+capital) as collateral. The Company also undertook to utilize the entire existing authorized capital to the extent of 10% of the share capital.
+
+In a supplementary agreement dated May 31, 2024 to the restructuring agreement, the maturity of the non-current loans was extended to March 31, 2026 with the condition that EUR 4 million must be repaid early on a quarterly basis from December 31, 2024.
+
+The measures for ensuring sufficient liquidity implemented by management in the prior years were continued in the financial year 2023/24.
+
+Due to the material impact of the refinancing on the assets and liabilities and financial situation as well as the going concern assumption of the Group, this was identified as key audit matter.
+
+## Audit approach and key observations.
+
+The refinancing from the previous year, which was concluded on May 31, 2023, was revalued by the management in accordance with IFRS 9. We first gained an understanding of the calculation and whether a modification in accordance with IFRS 9 exists. The model for the calculation was evaluated and the cash flows analyzed. These were compared using detailed documentation on the loan agreements and interest payments in order to verify the underlying values of the model. The present values of the original cash flows were compared with the present values of the adjusted cash flows and it was checked whether a change was less than 10%, which means that the recognition of a modification is appropriate and the difference is recognized in the income statement.
+
+In general, the calculation in the model appears plausible and essentially fulfils the requirements of IFRS 9.
+
+We checked the agreements dated May 31, 2023 as well as the supplementary agreement dated May 31, 2024, on refinancing and assessed the resulting impact on the assets and liabilities, financial situation and results of operations as well as the going concern assumption of the Company and assessed the related disclosures made by the Executive Board in the consolidated financial statements. In this process, we first gained an understanding of the planning process and model. We examined whether the assumptions used in the future cash flows are in line with the plan included in the restructuring concept prepared by the Executive Board and approved by the Supervisory Board. We analyzed and critically assessed the essential drivers for future development (such as revenue and cost planning, changes in working capital as well as liquidity planning) as well as the essential risks for possible deviations from the planning assumptions and discussed them in meetings with the management. We interviewed the management on the status of the implementation of the measures.
+
+Furthermore, on the basis of the planning calculations, we assessed whether the Company will be able to fulfil the future repayment obligation included in the supplementary agreement.
+
+Moreover, we assessed the management's measures implemented to ensure sufficient liquidity and checked whether the monitoring implemented by management in this regard (daily monitoring of the group-wide liquidity portfolio and weekly 12-weeks cash flow forecasts) continue to be performed.
+
+Based on the information we have collected and as agreed in the refinancing agreement dated May 31, 2023 and in the supplementary agreement dated May 31, 2024, regular monitoring and external reporting will be carried out by the external advisor to ensure ongoing and appropriate monitoring of liquidity and compliance with the intended implementation of the measures from the restructuring concept.
+
+The application of the accounting method based on the going concern assumption is appropriate.
+
+## Reference to related disclosures.
+
+The Group's disclosure on refinancing is included in note 36 "Events after the reporting period", the disclosures on monitoring liquidity in note 33 "Capital management".
+
+{110}------------------------------------------------
+
+## Other Information.
+
+Management is responsible for the other information. The other information comprises the information included in the annual report, but does not include the consolidated financial statements, the management report for the Group and our auditor's report thereon.
+
+Our opinion on the consolidated financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other information identified above and, in doing so, consider whether the other information is materially inconsistent with the consolidated financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated.
+
+If, based on the work we have performed on the other information that we obtained prior to the date of this auditor's report, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+## Responsibilities of Management and the Audit Committee for the Consolidated Financial Statements.
+
+Management is responsible for the preparation of the consolidated financial statements that give a true and fair view in accordance with International Financial Reporting Standards as adopted by the EU (IFRSs), and the additional regulations of section 245a Austrian Company Code, and for such internal control as management determines is necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the consolidated financial statements, management is responsible for assessing the Group's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Group or to cease operations, or has no realistic alternative but to do so.
+
+The Audit Committee is responsible for overseeing the Group's financial reporting process.
+
+## Auditor's Responsibilities for the Audit of the Consolidated Financial Statements.
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with Austrian Generally Accepted Standards on Auditing, which require the application of ISAs, will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+
+AAs part of an audit in accordance with Austrian Generally Accepted Standards on Auditing, which require the application of ISAs, we exercise professional judgment and maintain professional skepticism throughout the audit.
+
+We also:
+
+- identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risks of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group's internal control.
+
+{111}------------------------------------------------
+
+- evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- evaluate the overall presentation, structure and content of the consolidated financial statements, including the disclosures, and whether the consolidated financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the Group to express an opinion on the consolidated financial statements. We are responsible for the direction, supervision and performance of the group audit. We remain solely responsible for our audit opinion.
+
+We communicate with the Audit Committee regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide the Audit Committee with a statement that we have complied with all relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, on measures taken to eliminate identified threats or on applied safeguards.
+
+From the matters communicated with the Audit Committee, we determine those matters that were of most significance in the audit of the consolidated financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+## Report on Other Legal and Regulatory Requirements.
+
+## Comments on the Management Report for the Group.
+
+Pursuant to Austrian Generally Accepted Accounting Principles, the management report for the Group is to be audited as to whether it is consistent with the consolidated financial statements and as to whether the management report for the Group was prepared in accordance with the applicable legal regulations.
+
+Management is responsible for the preparation of the management report for the Group in accordance with Austrian Generally Accepted Accounting Principles.
+
+We conducted our audit in accordance with Austrian standards on auditing for the audit of the management report for the Group
+
+## Opinion.
+
+In our opinion, the management report for the Group was prepared in accordance with the applicable legal regulations, comprising the details in accordance with section 243a UGB and is consistent with the consolidated financial statements.
+
+## Statement.
+
+Based on the findings during the audit of the consolidated financial statements and due to the obtained understanding concerning the Group and its circumstances no material misstatements in the management report for the Group came to our attention.
+
+{112}------------------------------------------------
+
+## Additional Information in Accordance with Article 10 of the EU Regulation.
+
+We were elected as statutory auditor at the ordinary general meeting dated September 6, 2023. We were appointed by the Supervisory Board on November 7, 2023. We have audited the Group for an uninterrupted period since the financial year 2006.
+
+We confirm that the audit opinion in the "Report on the Consolidated Financial Statements" section is consistent with the additional report to the Audit Committee referred to in Article 11 of the EU Regulation.
+
+We declare that no prohibited non-audit services (Article 5 para. 1 of the EU Regulation) were provided by us and that we remained independent of the audited company in conducting the audit.
+
+## Responsible Engagement Partner.
+
+Responsible for the proper performance of the engagement is Mr. Frédéric Vilan, Austrian Certified Public Accountant.
+
+Vienna, June 18, 2024
+
+PwC Wirtschaftsprüfung GmbH
+
+signed Frédéric Vilain Austrian Certified Public Accountant
+
+*This report is a translation of the original report in German, which is solely valid. Publication and sharing with third parties of the consolidated financial statements together with our auditor's report is only allowed if the consolidated financial statements and the management report for the Group are identical with the German audited version. This auditor's report is only applicable to the German and complete consolidated financial statements with the management report for the Group. For deviating versions, the provisions of section 281 para. 2 UGB apply.*
+
+{113}------------------------------------------------
+
+# *Glossary.*
+
+- AG Legal form of a stock company under Austrian law (DE: Aktiengesellschaft).
+- Americas Region: North, Central and South America.
+	- APAC Region: Asia-Pacific.
+	- C-ITS Cooperative Intelligent Transport System. By connecting different elements of the transport infrastructure, relevant information can be exchanged quickly and directly between vehicles, road infrastructure and road operators. C-ITS technology can therefore significantly contribute to road safety and the prevention of congestion.
+- COVID-19 Infectious disease caused by the coronavirus SARS-CoV-2.
+	- EBIT Earnings Before Interest and Taxes.
+	- EBITDA Earnings Before Interest, Taxes, Depreciation and Amortization.
+	- EMEA Region: Europe, Middle East, Africa.
+		- ERM Enterprise Risk Management.
+		- ESG Environment, Social and Governance. The abbreviation refers to the consideration of sustainable and ethical matters in corporate management.
+		- IFRS International Financial Reporting Standards.
+		- ICS Internal control system.
+		- IPR Intellectual Property Rights.
+		- ITS Intelligent Transportation Systems.
+	- Tolling Reporting segment of Kapsch TrafficCom. This segment comprises the implementation as well as the technical and commercial operation of toll collection systems.
+	- OBU On-board Unit; an electronic device.
+	- Percent points. PP
+	- UGB Austrian Commercial Code (DE: Unternehmensgesetzbuch).
+- Traffic management (TM) Reporting segment of Kapsch TrafficCom. This segment primarily comprises the implementation and operation of systems and solutions to control traffic and mobility behavior (abbreviated: TM).
+	- CGU Cash-generating units.
+
+{114}------------------------------------------------
+
+Image /page/114/Picture/0 description: The image shows the logo for Kapsch. The word "kapsch" is written in black, sans-serif font. To the right of the word are three yellow arrows pointing to the right. Below the word "kapsch" is the phrase "challenging limits" in a smaller, sans-serif font.
+
+*Kapsch TrafficCom*
+
+# *Financial Report 2023/24*
+
+*of Kapsch TrafficCom AG as of March 31, 2024.*
+
+*Management Report and Financial Statements 2023/24.*
+
+{115}------------------------------------------------
+
+## *Table of contents.*
+
+| MANAGEMENT REPORT.                                                                     | JA 3  |
+|----------------------------------------------------------------------------------------|-------|
+| 1 Business performance and economic sitation.                                          | JA 3  |
+| 1.1 Business performance.                                                              | JA 3  |
+| 1.1.1 Economic environment.                                                            | JA 3  |
+| 1.2 Finanzielle und nichtfinanzielle Leistungsindikatoren.                             | JA 7  |
+| 1.2.1 Results of operatios                                                             | JA 7  |
+| 1.2.2 net assets position.                                                             | JA 7  |
+| 1.2.3 Financial position.                                                              | JA 8  |
+| 1.2.4 Non-financial information.                                                       | JA 8  |
+| 1.3 Research and developmen                                                            | JA 9  |
+| 2 . Anticipated development and risks                                                  | JA 10 |
+| 2.1 Outlook.                                                                           | JA 10 |
+| 2.2 Risk report.                                                                       | JA 11 |
+| 2.2.1 Risik management.                                                                | JA 11 |
+| 2.2.2 Industry-specific risks.                                                         | JA 11 |
+| 2.2.3 Strategic risks.                                                                 | JA 13 |
+| 2.2.4 Financial risks.                                                                 | JA 13 |
+| 2.2.5 Personnel risks.                                                                 | JA 14 |
+| 2.2.6 Legal risks.                                                                     | JA 15 |
+| 2.2.7 Cyber risk.                                                                      | JA 15 |
+| 2.2.8 Operational risks.                                                               | JA 16 |
+| 2.2.9 Opportunities                                                                    | JA 16 |
+| 2.2.10Overall assessment of the risk situation                                         |       |
+| 2.3 Internal control system with respect to the accounting process                     | JA 17 |
+| 3 Other disclosures.                                                                   | JA 18 |
+| 3.1 Disclosures on capital, share, voiting and control rights- and related agreements. | JA 18 |
+| 3.2 Corporate-Governance-Report.                                                       | JA 18 |
+| FINANCIAL STATEMENTS.                                                                  | JA 19 |
+| Primaries.                                                                             | JA 19 |
+| Balance sheet as at March 31, 2024.                                                    | JA 19 |
+| Income statement                                                                       | JA 21 |
+| Notes to the financial statements.                                                     | JA 22 |
+| A. General principels.                                                                 | JA 22 |
+| B. Group relations.                                                                    | JA 22 |
+| C. Accounting and valuations methods.                                                  | JA 23 |
+| D. Comments on items in the balance sheet.                                             | JA 25 |
+| E. Comments on income statement items.                                                 | JA 31 |
+| F. Other disclosures.                                                                  | JA 32 |
+| STATEMENT OF ALL MEMBERS OF THE EXECUTIVE BOARD                                        | JA 34 |
+| AUDITOR'S REPORT.                                                                      | JA 35 |
+
+{116}------------------------------------------------
+
+## *CONSOLIDATED MANAGEMENT REPORT.*
+
+## *1 Business performance and economic situation.*
+
+## 1.1 Business performance.
+
+## 1.1.1 Economic environment.
+
+- High interest rates and energy prices weighed on economic performance, particularly in the eurozone.
+- Central bank measures proved effective: inflation rates fell again.
+- Supply chains stabilized, but new disruptions harbour uncertainties.
+
+Over the course of financial year 2023/24, the global economy increasingly recovered from the crises of recent years and proved to be relatively robust. In the eurozone in particular, however, persistently high energy prices and interest rates as well as weak household consumption burdened the economy. Key interest rates were initially raised further and then remained constant over the course of 2023. Inflation rates therefore stabilized at a high level and eventually declined again significantly
+
+## Global supply chain situation.
+
+The global supply chain situation normalized over the course of 2023 after the pandemic-related bottlenecks. Both availability and delivery times improved in the second half of 2023. However, there were disruptions on two important shipping routes in the first few months of 2024: Conflicts in the Red Sea led to a significant decline in trade via the Suez Canal, and traffic slowed down in the Panama Canal due to water shortages caused by the severe drought. The effects were reflected in increased transport times and costs, although the duration and extent of the disruptions could not yet be estimated at the end of the financial year.
+
+## Interst rates.
+
+Both the European Central Bank (ECB) and the Federal Reserve (FED) in the USA continued the gradual increase in key interest rates that began in 2022 in the first months of the financial year. In Europe, the interest rate for main refinancing operations and the interest rates for the marginal lending facility and the deposit facility were raised from 3.50%, 3.75% and 3.00% respectively in March 2023 to 4.50%, 4.75% and 4.00% respectively by September 2023. The FED also raised interest rates in two further steps from 4.75% to 5.00% in March 2023 to a range of 5.25% to 5.50% from July 2023. Interest rates then remained constant and were recently expected to be followed by interest rate cuts.
+
+## Inflation.
+
+The measures taken by central banks to control the enormous inflation took effect in the 2023/24 financial year, with inflation stabilizing at the beginning of 2023 and falling significantly in the following months.
+
+According to the International Monetary Fund (IMF), the global inflation rate averaged 6.8% in 2023 after 8.7% in the previous year. In Austria, it remained higher at 7.7% in 2023 (previous year: 8.6%) and was also significantly higher than the inflation rate in the eurozone of 5.4% (previous year: 8.4%). According to the Austrian Institute of Economic Research (WIFO), the development in the first quarter of 2024 suggests a further slowdown in inflation in Austria. Inflation plays a significant role for Kapsch TrafficCom, particularly in connection with personnel costs.
+
+## Currencies
+
+For Kapsch TrafficCom, the development of the US Dollar (USD) is of particular importance in the foreign exchange markets. The influence of the currency on the business development results from the internationality of the Group with a large number of projects as well as locations in the USA and other countries where invoicing is done in USD. In the financial year 2023/24, the Euro (EUR) trended sideways within a narrow range against the US dollar. The average for the reporting period was EUR/USD 1.08 (previous year: 1.04) with a maximum of 1.13 on July 18, 2023 and a minimum of 1.05 on October 3, 2023.
+
+{117}------------------------------------------------
+
+## Global economic performance.
+
+The IMF estimates a global GDP growth rate of 3.2% for 2023 (previous year: 3.5%). This growth was primarily driven by a strong second half of the year in the USA and in major emerging and developing countries, which recovered quickly from the effects of the COVID pandemic and the conflict in Ukraine.
+
+Accordingly, GDP growth in both the USA (2.5%) and the emerging and eveloping countries (4.3%) exceeded forecasts. In the eurozone, however, the gross domestic product nearly stagnated at 0.4%. This is due to weak household consumption, persistently high energy prices and weaker manufacturing and corporate investment as a result of high interest rates.
+
+## Austria.
+
+High interest rates and high inflation rates characterized the Austrian economy in the financial year 2023/24. The gross domestic product showed a decline of 0.7% in 2023 after an increase of 4.8% in the previous year. According to the Austrian Institute of Economic Research (WIFO), this was primarily due to the low demand for capital goods in connection with the high interest rates.
+
+Exports fell by 0.2%, mainly due to significantly lower exports of services. Investments declined by 2.4%; the construction industry in particular recorded a collapse in demand. The high inflation rate and the resulting lower real disposable income as well as high energy prices also reduced household consumption by 0.3%.
+
+## 1.1.2 Definition of market.
+
+Kapsch TrafficCom is a globally renowned provider of transportation solutions for sustainable mobility. Innovative solutions in the application fields of tolling and tolling services, traffic management and demand management contribute to a healthier world without congestion.
+
+## Vision and mission.
+
+Kapsch TrafficCom's mission is to develop innovative transportation solutions for sustainable mobility. Road users should be able to arrive at their destination conveniently, safely, efficiently, and on time with a minimal environmental impact.
+
+## Target markets.
+
+Kapsch TrafficCom addresses the market for Intelligent Transportation Systems (ITS). These support and optimize traffic (including infrastructure, vehicles, users and industry) and use information and communication technologies for this purpose.
+
+Grand View Research places the global market size at EUR 27.1 billion in the year 2023 (USD 29.91 billion, converted at an exchange rate of 0.9045 as of December 31, 2023), and expects it to grow at a compound annual growth rate (CAGR) of 7.5% from 2024 to 2030.
+
+Within the ITS market, Kapsch TrafficCom focuses on tolling and tolling services as well as traffic management and demand management. Core regions of business activity are EMEA (Europe, Middle East, Africa), Americas (North, Central and South America) and APAC (Asia-Pacific).
+
+## Addressable market.
+
+The addressable market for the company had a volume of EUR 6.4 billion in the financial year 2023/24 according to internal calculations. The market is expected to grow at an average annual rate of 7.9% to EUR 8.7 billion until financial year 2027/28
+
+## Market drivers.
+
+Kapsch TrafficCom has identified the following market drivers:
+
+Environmental protection. The Paris Agreement is an important global climate protection agreement and was adopted in December 2015 at the Paris Climate Change Conference. The European Commission (as part of the "European Green Deal") and the USA are pursuing a reduction in greenhouse gas emissions.
+
+{118}------------------------------------------------
+
+Road traffic plays a significant role here, as it is responsible for a substantial portion of the greenhouse gas emissions. Both traffic management and tolling solutions are recognized tools for influencing traffic and means of transportation.
+
+Need for traffic infrastructure and its maintenance. Studies expect not only an increase in the global population, but also more private vehicles on the roads. As the volume of vehicles grows, it will be inevitably necessary to increase investments in road construction and maintenance. This is usually extremely expensive. At the same time, the increasing number of hybrid or electric vehicles is having a negative impact on mineral oil tax revenues. This means that an increase in the need for alternative financing models, including tolling solutions, can be assumed.
+
+Urbanization. The percentage of people living in cities is increasing. Whereas in the year 1800 only 2% of the world's population was urban, in 2007 for the first time more than half of the world's population lived in cities. Based on a current figure of around 56%, the United Nations forecasts that the urban population will account for more than 60% of the population in 2030 and around 68% in 2050. At the same time, the world's population will rise from around 7.9 billion people today to 8.5 billion in 2030 and 9.7 billion in 2050. It is precisely in urban areas that private and professional mobility gives rise to major challenges. After all, houses cannot be moved at will to expand roads or even rebuild them. Furthermore, as the urban population grows, there will be an increase in the volume of business within a city as well as with business partners outside of the city. Since products must be delivered, a higher urban population tends to bring about an increase in the volume of transportation.
+
+New means of transportation and services. Analysts expect that urban passenger traffic will more than double by 2050. Autonomous vehicles could intensify this trend. The existing road infrastructure will not be able to meet these needs. This results in two consequences: the increased use of public transport and shared means of trans- portation, and – if no appropriate countermeasures are taken – more extensive congestion. In addition, the trend toward electric vehicles will continue. While this reduces immediate CO₂ emissions, the particulate matter problem will remain.
+
+Connected vehicles. Technological advances in the exchange of information between vehicles (vehicle-to-vehicle, V2V), between vehicles and traffic infrastructure (vehicle-to-infrastructure, V2I), and in the area of autonomous driving are rapid. Already today, these developments are enabling increasingly better and more extensive applications for better driving comfort and greater driving safety. In addition, the new communication channels and the enormous volumes of data enable substantial improvements in traffic management.
+
+Data and artificial intelligence. Open data and open interfaces enable more extensive and higher-performing applications. Connected vehicles are an important data source. Machine learning and artificial intelligence create new opportunities for data analysis, simulation, forecasting, and management.
+
+Data security. Due to the use of large amounts of data, the protection of personal data and how it is handled is becoming increasingly important.
+
+Fundamental changes in the business environment of Kapsch TrafficCom. The aforementioned market drivers have already sparked the following trends:
+
+- While the ITS industry relied heavily on hardware in the past, it is increasingly shifting towards software platforms. More and more, module solutions and cloud applications are playing a role.
+- Offered services (anything-as-a-service) put the focus on the user and are integrated into platforms and devices preferred by them.
+- Payment solutions are integrated into vehicle technology, and new payment technologies will enter the market.
+- Intelligent traffic infrastructure can be achieved with more affordable sensors, modules, and connection technologies. Specific domain knowledge and the need for customer-specific solutions will remain significant, however.
+- New solutions can be rolled out on a global scale.
+
+{119}------------------------------------------------
+
+## 1.1.3 Business performance 2023/24.
+
+In financial year 2023/24, Kapsch TrafficCom reached key milestones that placed the company back on a solid base for the future: In May 2023, a financing restructuring was agreed with the major financial creditors, which led to a longer-term financing structure and has since been extended until March 2026. In July, a settlement agreement was reached in the arbitration proceedings between the autoTicket joint venture and the Federal Republic of Germany conducted due to the termination of the operations contract for the collection of the passenger car toll. This led to a significant improvement in the financial and asset position. The earnings also improved as a result.
+
+Although net revenues were slightly below the previous year's figure, Kapsch TrafficCom was able to achieve an increase in invoiced revenues compared to the previous year and numerous project successes, which indicate a future increase in revenues and earnings.
+
+Project successes. The operation projects continued to perform well and several implementation projects were transitioned to the operation phase. Furthermore, Kapsch TrafficCom was able to win several new projects in the reporting period. Of particular strategic importance are those that point the path to the future of roads with tolling services and connected vehicles.
+
+The company was awarded two interconnected contracts in the tolling segment in Switzerland: firstly, the implementation of the collection system for the performance-based heavy vehicle fee (after the balance sheet date) and its operation, and secondly, the corresponding vehicle equipment and registration system for the trucks as well as customer service for the toll service provider for at least eight years. Together, Kapsch TrafficCom thus supplies all essential elements for this state-of-the-art system.
+
+Also noteworthy is the further expansion of the tolltickets network. With the purchase of a single toll box, drivers can since then seamlessly use the road network in France, Italy, Spain and Portugal – a cornerstone for the tolling services business segment in Europe.
+
+In the segment of traffic management, Kapsch TrafficCom sees a particularly increasing demand for urban traffic management and low emission zones. In addition, the implementation and subsequent operation of a Cooperative Intelligent Transport System (C-ITS) with hardware and software for construction site areas were awarded in a highway project in Germany. Shortly after the end of the financial year, Kapsch TrafficCom was awarded a pioneering contract in Florida, USA: In Pinellas County, intersections will be equipped with modern technology to prevent accidents involving pedestrians, and a system that combines predictive analyses with traffic distribution algorithms is designed to help proactively reduce traffic congestion.
+
+Incoming orders reached a remarkable EUR 734 million in the reporting period (previous year: EUR 480 million), and the order backlog amounted to EUR 1.4 billion at the end of the year, 15% higher than in the previous year
+
+{120}------------------------------------------------
+
+## 1.2 Financial and non-financial performance indicators.
+
+## 1.2.1 Results of operations
+
+Kapsch TrafficCom AG's revenue reached EUR 221.9 million in the 2023/24 financial year, significantly higher than the previous year's figure of EUR 155.1 million. The increase is mainly due to the offsetting of EUR 66.3 million relating to the agreement with the Federal Republic of Germany. In the toll segment, revenue amounted to EUR 193.0 million (previous year: EUR 129.8 million). In the traffic management segment, revenue also increased from EUR 25.3 million in the previous year to EUR 28.9 million in the 2023/24 financial year.
+
+Personnel expenses increased by EUR 50.0 million compared to the previous year (EUR 42.9 million). The average number of employees increased by 17 to 449 people.
+
+Other operating expenses decreased by EUR 16.8 million to EUR 48.5 million (previous year: EUR 65.3 million). The change was mainly due to lower expenses for write-downs on loans and receivables from affiliated companies
+
+The operating result of Kapsch TrafficCom AG amounted to EUR 33.3 million in the reporting year and was thus significantly higher than the previous year's figure of EUR -40.6 million. It was influenced by the following one-off effects:
+
+- The joint venture autoTicket GmbH reached a settlement with the Federal Republic of Germany in July 2023 and received an amount of EUR 243 million. The cash inflow to Kapsch TrafficCom AG from this settlement to date amounted to EUR 109.2 million. This one-off effect had a positive impact on Kapsch TrafficCom AG's EBIT by EUR 79.2 million.
+- After an agreement was reached with a customer regarding overdue receivables, these receivables were written off in the amount of EUR 10.1 million, while a credit note of EUR 5.5 million was issued, which led to a reduction in revenues.
+
+The financial result improved by EUR 74.3 million to EUR 7.5 million (previous year: EUR -66.8 million). The main deviation is due to the fact that massive write-downs were made on affiliated companies in the previous year.
+
+## 1.2.2 Net assets positions.
+
+Total assets of EUR 398.8 million as of the balance sheet date of March 31, 2024 decreased by EUR 18.9 million compared to the end of the 2022/23 financial year (March 31, 2023: EUR 418.1 million).
+
+Fixed assets decreased by EUR 39.2 million to EUR 210.0 million as of March 31, 2024 (previous year: EUR 249.2 million). The change is mainly due to the decrease in financial assets totaling EUR 33.4 million in the 2023/24 financial year.
+
+Inventories increased from EUR 6.0 million to EUR 7.1 million. This is due to an increase in inventory items of almost EUR 1.0 million.
+
+Group receivables, also include receivables from companies in which participiations are held (including loans), increased from EUR 174.2 million in the previous year to EUR 193.5 million in the reporting year 2023/24.
+
+Cash and cash equivalents of EUR 2.0 million were at the previous year's level of EUR 2.0 million.
+
+At EUR 198.9 million, equity was significantly higher than the comparative figure as of March 31, 2023 (EUR 151.7 million). The equity ratio increased significantly to 49,9% as of March 31, 2024 (previous year: 36.3%)
+
+Long-term liabilities increased from EUR 89.9 million in the previous year to EUR 100.2 million as of the balance sheet date of March 31, 2024. The main reason for this is the reclassification of short-term liabilities to long-term liabilities. Group liabilities increased by EUR 3.6 million to EUR 81.4 million (previous year: EUR 77.8 million). Other liabilities increased from EUR 6.6 million in the previous year to EUR 7.6 million as of the balance sheet date of March 31, 2024.
+
+{121}------------------------------------------------
+
+## 1.2.3 Financial position.
+
+The net cash flow from operating activities was significantly positive in the reporting period due to the increase in sales revenues and other operating income related to the agreement with Germany and amounted to EUR 96.7 million (previous year: -30.6 million).
+
+The net cash flow from investing activities of EUR -3.2 million (previous year: EUR 18.4 million) results mainly from payments for financial investments.
+
+The net cash flow from financing activities was negative in the 2023/24 financial year at EUR -93.6 million (previous year: EUR 2.1 million). The change results, also as a result of the restructuring of financing, primarily from the repayment of short-term financial liabilities in the amount of EUR 76.1 million.
+
+The cash and cash equivalents as of March 31, 2024 amounted to EUR 2.0 million (March 31, 2023 EUR 2.0 million)
+
+## 1.2.4 Non-Financial information.
+
+Kapsch TrafficCom Group prepares a separate consolidated non-financial report that fulfils the legal requirements pursuant to section 267a of the Austrian Commercial Code (UGB)
+
+{122}------------------------------------------------
+
+## 1.3 Research and develpoment.
+
+In the financial year 2023/24 Kapsch TrafficCom invested 5% of its revenues in generic development, development support and product management.
+
+In line with the corporate strategy "Strategie 2027" Kapsch TrafficCom launched a multi-year technology transformation program in the financial year 2021/22. The goal of this program is to safeguard and modernize the company's technology portfolio and reinforce its leadership in the marketplace. The emphasis is on advancing an agile way of working, developing the company's technology stack faster and more flexibly as well as adapting the current product and solution portfolio to the ever-evolving market requirements. This enables a faster time to market and more efficient delivery of solutions, resulting in improved revenues and margins.
+
+With a strong focus on customers and their needs, the transformation is based on four pillars:
+
+- Product portfolio. In the product area, the product management team was strengthened. The team was also given responsibility to manage and steer the portfolio by means of a holistic view and a portfolio strategy aimed at consoli- dation and optimization. This identifies commonalities and synergies and builds on intelligent platforms.
+- Technology stack. The technology stack evolution allows Kapsch TrafficCom to accelerate the migration to the cloud as well as the adoption of new technologies and architectures. The technology stack is the frame for standardizing and developing technologies
+- Organization and processes. Kapsch TrafficCom introduced SAFe (Scaled Agile Framework©) to continuously improve its software engineering methodology, organization and processes. This system and software engineering methodology leverages industry-standard agile principles to enable the development of the most complex software and cyber-physical systems and to promote customer centricity. The initial pilot projects showed successful outcomes in software development. The key improvements included better alignment with customer requirements, enhanced quality through early defect detection and increased predictability by adapting swiftly to changes. In the next step, these methods will be expanded to other teams in order to accelerate and improve the quality of software releases, with a focus on effectively meeting customer needs.
+- Culture. Fostering and nurturing a culture of collaboration, curiosity and innovation is the fourth pillar of transformation and a key success factor.
+
+In the financial year 2022/23, the patent portfolio of Kapsch TrafficCom was further optimized. The focus was on topics of high strategic importance. As of March 31, 2024, the patent portfolio consisted of 118 patent families with 824 individual patents and 41 pending patent applications. In the financial year, three new patent families were filed in the field of tolling and one patent family was discontinued.
+
+Kapsch TrafficCom strives to mitigate the risk of patent infringements and to foster the patenting of new ideas. Hence, the Intellectual Property Rights (IPR) management focusses on supporting product management and product development. Patent analysis in various areas ensures that products and solutions are actually free to operate. Based on these patent analyses and the expertise gained from them, Kapsch TrafficCom also intends to file more of its own patents in order to secure its freedom to operate and its unique selling proposition for its products and solutions.
+
+In addition, the global patent monitoring system was further established. Its task is to analyze patent applications from competitors and in relevant technology segments in order to gain a better overview of competitors' strategies.
+
+The development expenses of Kapsch TrafficCom amounted to EUR 51.7 million in the financial year 2023/24 (previous year: EUR 43.6 million).
+
+{123}------------------------------------------------
+
+## *2 Anticipated develpoment and risks.*
+
+## 2.1 Outlook to financial year 2024/25.
+
+For the financial year 2024/25, the management expects revenues to grow above the forecasted average annual market growth of 7.5% from 2024 to 2030 according to Grand View Research. The operating result (EBIT) should show a slight improve- ment compared to the result adjusted for one-time effects of EUR 15.1 million, whereby positive onetime effects are also possible again.
+
+*Expectation for financial year 2024/25: Revenue growth above market growth Slight improvement in EBIT*
+
+## Revenues.
+
+Revenues continue to be affected by the economic and political uncertainties in connection with the global conflicts. In the past financial year, net revenues were also negatively impacted by a customer credit note and deferred revenues.
+
+The high order intake and order backlog will increasingly be reflected in revenues and form a solid basis for further growth. In the medium term, revenuess of at least EUR 200 million should be possible again.
+
+## EBIT (operating result).
+
+The EBIT of the past year was influenced by many one-time effects, both positive and negative. Kapsch TrafficCom is therefore utilizing the figure of EUR 5 million adjusted for these one-time effects as a starting point for further development.
+
+Despite the improved situation, the focus remains on costs. In addition, Kapsch TrafficCom is analyzing its process organization from bottom to top according to a Zero Base Approach in order to avoid project difficulties of the past in the future. The aim is to increase efficiency through global standards and tools.
+
+## Liquidity.
+
+The increase in invoiced revenues in the reporting period and the recently awarded projects will be reflected in earnings and liquidity. In addition, the restructuring of financing has led to a longer-term financing structure. In May 2024, the term of the existing restructuring agreement, including all credit lines, was extended until March 31, 2026.
+
+As of the reporting date, Kapsch TrafficCom had already generated around half of the further cash inflows from pending proceedings and other measures of at least EUR 30 million targeted in the half-year 2023/24: The total net cash inflow from the settlement agreement in Germany was around EUR 5 million higher than expected; the sale of the investment Traffic Technology Services Inc., USA, which is not part of the strategic core business, also brought in an inflow of around EUR 7.9 million. The management is still aiming for further cash inflows to reduce net debt further. The aim is to achieve a minimum level of net debt to EBITDA of less than 3.0x in the longer term.
+
+In connection with this, the aim is also to release the dividend block and lift the pledge on the shares of the core shareholder KAPSCH-Group Beteiligungs GmbH.
+
+## Non-financial targets.
+
+The company's non-financial targets can be found in the separate non-financial report in accordance with Section 267a UGB.
+
+## Corporate governance.
+
+The mandates of Franz Semmernegg and Harald Sommerer as Chairman and Deputy Chairman of the Supervisory Board will expire in financial year 2024/25. Both will leave the Board. In the course of the new elections, the Supervisory Board is to be intentionally positioned more strongly as an advisory body to the Executive Board.
+
+{124}------------------------------------------------
+
+## Strategy 2027.
+
+Global megatrends as well as growing awareness and legal requirements regarding climate and environmental protection are increasing the demand for comprehensive and intelligent transportation solutions. More and more, this confirms that Kapsch TrafficCom is addressing the right issues with its Strategy 2027, even if implementation is taking longer than originally assumed due to the market situation.
+
+A comprehensive strategy review was launched in the past financial year and is still ongoing. One of the first changes resulting from this was the sale of the non-core investments Traffic Technology Services, Inc. in the USA (TTS) and TMT Services and Supplies Proprietary Limited in South Africa (TMT).
+
+Kapsch TrafficCom is still predominantly perceived as a hardware provider. In fact, however, the company is already more of a provider of software and services; this development and change will continue – while retaining the hardware component – and will be shaped in the strategy review.
+
+## 2.2 Risk report.
+
+## 2.2.1 Risk management.
+
+The enterprise-wide risk management process (Enterprise Risk Management, ERM) of the Kapsch TrafficCom Group is based on the COSO Enterprise Risk Management – Integrated Framework, an internationally recognized standard for risk management.
+
+The risk management process aims at an early identification, assessment, and management of those risks that can significantly affect the achievement of the strategic and operating objectives of the company. The primary goal is not risk avoidance, but the controlled and conscious handling of risks and the timely recognition and exploitation of opportunities that arise. In this way, ERM makes a valuable contribution to corporate management.
+
+As part of ERM, major risks are identified, quantified, and globally aggregated on a quarterly basis. The risk report derived from this enables the concise assessment and monitoring of the major business risks. The report is sent to the Executive Board, the Audit Committee of the Supervisory Board, and the first reporting level. The Audit Committee is informed immediately by the Executive Board about important events. The Supervisory Board also deals with the effectiveness of the risk management system as part of its monitoring of the Executive Board. The design and implementation aspects of the risk management system are reviewed annually by the auditor in accord- ance with Rule 83 of the Austrian Code of Corporate Governance (ÖCGK) to ensure that the system is adequately designed and implemented. To further strengthen risk management, internal audits are carried out after this exter- nal audit to assess the operational effectiveness of the system. This proactive approach enables Kapsch TrafficCom to continuously improve and ensure the effectiveness of its risk management in day-to-day operations. The project-oriented risk management encompasses both customerprojects and internal development projects. Using institutionalized processes, an analysis of all relevant risks and opportunities is already carried out in the course of offer preparation. Consequently, a basis is created for decisions and for the timely planning and implementation of control measures.
+
+The main generic risks and opportunities of Kapsch TrafficCom and the general handling of these risks are briefly discussed in the following. The environmental, social and governance impacts, risks and opportunities of Kapsch TrafficCom are explained in the separate non-financial report.
+
+## 2.2.2 Industry-specific risks.
+
+Volatility of new orders. Kapsch TrafficCom's most relevant customer groups include primarily government agencies and municipal authorities as well as private concessionaires, public-private partnerships and consumers. Larger
+
+contracts are usually tendered. Until a contract is actually awarded to Kapsch TrafficCom, there are a number of uncertainty factors both within and out- side of the company's area of influence. For example, political changes, appeals or lawsuits by unsuccessful bidders can lead to a delay in the awarding of a contract, to its cancellation or to a modification of the
+
+*Geographic diversification and expansion of the product portfolio contribute to stabilizing revenues*
+
+tender. There is also the risk that offers made by Kapsch TrafficCom will not succeed for technological, financial, formal or other reasons.
+
+{125}------------------------------------------------
+
+The expansion into new business areas is aimed at increasing revenue growth and smoothing out revenue spikes in order to achieve a more stable revenue development. This is to be achieved in particular by further broadening the customer and product portfolio and by increasing the share of revenue from the operating business (technical and commercial operations of systems usually previously set up by the company) and from the tolling service business. The latter is typically commissioned on a long-term basis and is therefore characterized by better predictable revenues.
+
+The economic situation of relevant national economies, possible government investment programs, changes in political priorities, an increasing focus on sustainability, trade conflicts, military conflicts or epidemics can have a significant impact on incoming orders.
+
+Risks of project execution. Intelligent transportation solutions are often technically complex and challenging systems, that must be implemented within a strict timeframe. However, the actual project environment cannot be
+
+fully analyzed and taken into account during the preparation of an offer. Therefore, uncertainties remain with regard to integration efforts for thirdparty systems, efforts for interfaces and other factors accelerating or delaying the handling of projects. Unavoidable dependencies on suppliers and service providers can also have a negative effect on the quality
+
+*Technical challenges and tight schedules cause typical project risks*
+
+and timely completion of a project. All of these factors thus affect the risk of missed deadlines and/or system and product defects.
+
+In connection with the installation of systems, Kapsch TrafficCom is generally contractually obligated to issue performance and delivery date guarantees. If the contractual services are not fulfilled or if deadlines are exceeded, penalties and damages usually have to be paid, in some cases even damages for lost toll revenue. Significant missed deadlines can also result in premature termination of a contract by the customer. A significant delay in a project, a clear failure to meet the contractually agreed performance criteria or failed implementation of a project could reduce the chances of success in future tenders. There is also the risk that projects of Kapsch TrafficCom cannot be realized at the previously calculated costs. Due to the strong social opposition to toll systems that is sometimes encountered, the risk of a late or limited start to toll collection exists, which can have further consequences on revenues, profitability and payment flows in the operation project.
+
+Kapsch TrafficCom employs project management methods and project risk management procedures based on the IPMA (International Project Management Association) standards in order to minimize such risks in projects.
+
+Long-term contracts with public agencies. For many projects, contracts are awarded by public agencies. Frame- work agreements and service contracts in connection with tolling or traffic management projects may include terms and conditions that are not negotiable in a tender process and that may be disadvantageous for Kapsch TrafficCom. Some multi-year contracts contain demanding requirements regarding the targeted performance of the implemented systems, components and processes. Failure to meet these requirements can result in considerable contractual penalties, obligations to pay damages or termination of the contract. On the other hand, in some contracts substantial bonus payments may be earned in the case of over-performance. Moreover, for long-term contracts, the achievable margins may deviate from the original calculations due to cost changes.
+
+Contracts may entail liabilities relating to a loss of profit by customers, product liabilities and other liabilities. Kapsch TrafficCom strives to include appropriate limitations of liability in contracts. However, there can be no assurance that all contracts will contain sufficient limitations of liability or that they will be enforceable under applicable law.
+
+Risks in the supply chain. As a manufacturer of high-tech, multi-component devices and as a supplier of these devices and/or third-party products in the context of tolling and traffic management projects, Kapsch TrafficCom is dependent on the functional capability of the supply chain. It is essential to receive ordered components on time in order to ensure that they are available for ongoing projects when needed. At the same time, the components must be of good quality and offered at a reasonable price to achieve satisfactory financial results.
+
+The situation on the global market for semi-conductors can be significantly affected by shifts in production capacity, geopolitical changes in the main production regions and disruptions in logistics. This can lead to the unavailability of the necessary components as well as fluctuations in delivery times and prices and cause difficulties in ongoing projects. Financial or operational difficulties at individual suppliers can also lead to delays in delivery, additional costs or a deterioration in the price-performance ratio of the components if supplier substitution is necessary.
+
+{126}------------------------------------------------
+
+This risk is limited by the fact that Kapsch TrafficCom ensures that at least two suppliers from different countries of origin are utilized for critical materials, insofar as this is economically feasible.
+
+## 2.2.3 Strategic risks.
+
+Ability to innovate. The strong market position of Kapsch TrafficCom is based to a large extent on its ability to develop high quality, efficient and reliable systems, components, solutions and services. Kapsch TrafficCom is
+
+committed to ongoing and consistent innovation. In order to maintain its high technological standards, Kapsch TrafficCom invests in research and development activities. However, if Kapsch TrafficCom does not succeed in developing innovative systems, components, solutions and services in line with market requirements, this may be detrimental to its competitive position.
+
+Since the striving for innovation leadership is based to a large extent on technology, internal know-how and intellectual property, the global increase in product piracy and reverse engineering may have negative impacts on the market position of Kapsch TrafficCom. The company therefore places great importance on protecting technologies and the company's internal know-how, such as through patents and non-disclosure agreements with relevant contractual partners. On the other hand, newly developed systems, components, solutions or services may also infringe the intellectual property rights of third parties.
+
+Acquisition and integration of companies as part of the Group's growth. The Group's growth can be organic as well as through selected acquisitions or the establishment of joint ventures. In the course of these activities, it is
+
+necessary to overcome a number of challenges in order to achieve the desired goals and synergies, as well as to realize the expected opportunities arising from the acquisition of new technologies and market knowhow.
+
+Country risk. Due to the further expansion of business activities in countries outside of Europe, Kapsch TrafficCom is subject to increased political risk in some countries. Significant and currently unforeseeable political changes may have a major impact on the ability to implement or operate projects in these countries as well as to make funds available or withdraw them again. Interference with the property rights of Kapsch TrafficCom or problems with business practices and activities may also arise. Kapsch TrafficCom includes these risks in the evaluation of such projects.
+
+## 2.2.4 Financial risks.
+
+Foreign exchange risk. As a global company, Kapsch TrafficCom maintains branches and subsidiaries in many countries outside the Euro zone. Consequently, transaction risks arise from possible exchange rate fluctuations,
+
+which may be reflected in the consolidated financial statements as exchange rate losses or gains. Kapsch TrafficCom strives as far as possible to avoid these transaction risks in the amount of the net currency positions from the respective projects or to hedge them, if necessary. However, because the net currency position at the respective payment flow deadlines is often difficult to predict, hedging is only possible to a limited extent.
+
+The remaining exchange rate risk is accepted and included in the business planning. Due to the conversion of individual financial statements of the subsidiaries outside the Euro zone into the Group currency of the Euro, Kapsch TrafficCom is also subject to a translation risk. In addition, long-term disadvantageous exchange rate changes can also cause a change in the position of Kapsch TrafficCom relative to competitors, such as when products or services based on a euro-cost structure can no longer be offered at competitive prices outside the Euro zone.
+
+*Financial risks arise from exchange rate and interest rate fluctuations as well as loans. Sufficient liquidity increases the flexibility and the ability*
+
+*An ongoing and consistent innovation process supports the strong market position*
+
+*The international growth is opening up new opportunities*
+
+*but also poses risks*
+
+*to take quick action*
+
+{127}------------------------------------------------
+
+Interest rate risk. Within the framework of project financing, the Group regularly agrees to variable interest rates that are tied to market interest rates (e.g. Euribor). In this context, there is an interest rate risk, which — where material — is hedged by suitable financial instruments.
+
+Liquidity risk. Sufficient financial resources have to be available for Kapsch TrafficCom to meet its payment obligations at all times. The availability of medium- and long-term financing is necessary for the implementation of large-scale projects, such as the implementation of a nationwide tolling system with an agreed delayed payment by a major client, and for the acquisition of companies. In addition, the execution of large projects regularly requires the provision of bank guarantees, some of which are extensive, as collateral for bid obligations (bid bonds) or to secure possible warranty claims (performance bonds).
+
+In financing agreements, Kapsch TrafficCom is subject to the usual limitations of its business policy, such as with regard to taking on additional borrowings, the use of assets as collateral or the provision of guarantees and sureties in favor of third parties. The availability of financing and bank guarantees depends not only on market conditions but in particular on the net assets, financial position and earnings situation of Kapsch TrafficCom. A lack of liquid assets (even if the Group is otherwise essentially solvent), of financing or of bank guarantees could in turn have an extremely adverse impact on the net assets, financial position and earnings situation of Kapsch TrafficCom. The Group continuously monitors compliance with all covenants in connection with loan agreements.
+
+Liquidity risk is counteracted by ongoing Group-wide cash flow planning. This enables potential liquidity bottlenecks to be identified at an early stage and appropriate countermeasures to be taken in time.
+
+Credit risk. Kapsch TrafficCom is exposed to the risk of non-payment by customers. The main customers of Kapsch TrafficCom are to a large extent state agencies, especially in connection with the implementation or operation of nation-wide or regional tolling and traffic management systems. Kapsch TrafficCom also acts as a subcontractor to third parties (for example concessionaires, general contractors, etc.) in public sector projects. The scope of a potential non-payment varies depending on the size of the order and can have a noticeable impact on the earnings situation in the case of individual large projects. The creditworthiness of new and existing customers is evaluated, and hedging is performed according to the assessment of the existing non-payment risk. In addition, Kapsch TrafficCom takes advantage of offers from public institutions, such as OeKB (Oesterreichische Kontrollbank), EKN (Exportkredit- namnden; Swedish National Export Credits Guarantee Board) and MIGA (Multilateral Investment Guarantee Agency), to hedge against the non-payment risk on the basis of guarantees. Moverover, there is a risk that counterparties of both original and derivative financial instruments (including financial institutions assumed to have good credit ratings) cannot meet their payment liabilities when due. A payment default or the need to impair receivables could have an extremely adverse impact on the net assets, financial position and earnings situation of Kapsch TrafficCom.
+
+## 2.2.5 Personnel risk.
+
+The success of Kapsch TrafficCom depends to a significant extent on key personnel, in particular technical experts with many years of specific experience. In addition, the ability to recruit qualified employees with state-of-the-art technology knowledge, to integrate them into the Company and to retain them in the long term is of high importance for the success of the Group. The loss of important employees in key positions and difficulties in recruiting personnel can have a negative impact on the success of the Group.
+
+Kapsch TrafficCom has been proactively implementing measures to counteract this risk for several years. These include, for example, an internal career and training platform that allows employees to advance their careers autonomously and away from approval processes. Attractive offers such as bonus systems or further training opportunities addi- tionally support these efforts. A periodic employee survey as well as an "OpenLine2CEO" to Georg Kapsch enable the management to identify current concerns, worries and wishes as well as the general mood and to respond appropriately.
+
+{128}------------------------------------------------
+
+## 2.2.6 Legal risk.
+
+I A large number of regulations and legal requirements must be observed in connection with participation in public sector tenders, the establishment and operation of tolling and mobility solutions, acquisitions and cooperations as well as capital market issues. It may take a considerable administrative, technical and commercial effort to capture, enforce and monitor all compliance requirements. If applicable regulations or official requirements cannot be met, this can lead to severe penalties and also reduce the ability of (successfully) taking part in future tenders as well as restrict the continuation of the relevant business activity.
+
+The expansion of business activities into new regions and into select new business fields tends to increase the risk of patent violations or the violation of intellectual property rights (IPR). This can result in financial damages from court actions. Kapsch TrafficCom attempts to counteract this risk as far as possible by performing an evaluation of possible IPR violations prior to entry into new markets or regions, for example. However, it is not possible to completely avoid this risk.
+
+Changes in the geopolitical situation, such as military conflicts, can lead to the legal framework becoming more complex as a result of sanctions and embargoes being imposed. In order to remain compliant with the respective requirements, Kapsch TrafficCom continuously monitors the relevant regulations.
+
+## 2.2.7 Cyber-risk.
+
+As a core process of ISO/IEC 27001, Kapsch TrafficCom has a uniform risk management process for information security that is integrated into corporate risk management. The structured approach to considering risks related to information security is derived from Kapsch TrafficCom's business processes and represents a holistic approach. The risk management process is implemented in all companies whose IT is fully integrated into the Group IT, regardless of whether they are formally certified in accordance with ISO/IEC 27001 or not.
+
+## 2.2.8 Operational risks.
+
+Kapsch TrafficCom's involvement in the realization of complex tolling and traffic management projects as well as in the production of components entails certain operational risks, including risks in the areas of health, safety, environment and quality (HSSEQ). In order to adequately mitigate these risks, Kapsch TrafficCom has developed internal processes that meet the requirements of ISO 14001 and ISO 45001. In addition, aspects of ISO 9001 were integrated in order to meet quality management standards, and at individual locations also aspects of ISO 50001 in order to efficiently organize energy management and optimize energy consumption.
+
+Local legal requirements sometimes exceed ISO standards, therefore Kapsch TrafficCom continuously monitors the legal requirements in the countries in which it operates. This ensures that the operational standards always comply with the strictest local regulations.
+
+Through regular training and further education, Kapsch TrafficCom strengthens the awareness and skills of its employees with regard to HSSEQ topics. Furthermore, Kapsch TrafficCom utilizes ongoing audits and performance analyses to monitor and continuously improve compliance with these standards. This systematic approach not only helps to minimize risks, but also promotes sustainable corporate management and increases customer satisfaction.
+
+## 2.2.9 Opportunities.
+
+The enterprise risk management approach of Kapsch TrafficCom not only addresses risks but also encompasses the regular identification, evaluation and management of opportunities. The goal of these efforts is to manage the strategic orientation of the product portfolio and market activities throughthe early identification of opportunities and to develop corresponding potential.
+
+{129}------------------------------------------------
+
+Market opportunities exist in geographic diversification as well as increasing expansion of the customer and product portfolios, driven in part by the following factors::
+
+- Opportunities arise from so-called change requests requests for changes from customers that only arise in the course of project execution. These change requests result in extensions to the contractual delivery components and are priced and paid for separately.
+- In addition, the increasing financing requirements of infrastructure projects and the growing need to relieve government budgets are creating opportunities both to open up new tolling markets in so-called emerging and developing countries and to expand activities in already developed markets.
+- The global rise in traffic volumes and the associated impact on the environment and society open up further opportu- nities in the area of mobility solutions, as, for example, toll collection, traffic management and demand management are increasingly being used as controlling instruments in environmental and traffic policy. In both segments, this creates opportunities to further develop and market the portfolio in line with the new requirements
+- Furthermore, demands with regard to increasing the productivity of vehicles and vehicle operations, as well as the rising comfort expectations of travelers, are opening up opportunities by expanding the functionalities of existing systems. This offers opportunities to acquire new customers or to serve both public-sector customers and end customers with new concepts. This particularly applies in the area of tolling services.
+
+Other opportunities. Continuous innovation, technical advancements and the acquisition of new technologies by means of corporate acquisitions create opportunities for Kapsch TrafficCom to improve efficiency and performance of customer systems and to gain a technological edge over competitors with regard to the performance and functionality of the offered systems.
+
+## 2.2.10 Overall assessment of the risk situation.
+
+From the current perspective, no risks have been identified that could endanger the continued operations of Kapsch TrafficCom. Due to the geographic diversification, the continuous expansion of the product and solution portfolio as well as the development of new business models through selected new ITS solutions, the business activities of Kapsch TrafficCom could be positioned more broadly without the need to step outside the core business area. The concentration of risk in individual regions and in individual large projects was thereby reduced.
+
+{130}------------------------------------------------
+
+## 2.3 Internal control system with respect to the accounting process.
+
+As in the previous year, the Group-wide uniform documentation of all controls for achieving the key controlling goals was advanced again in the financial year 2023/24. This aims to increase efficiency and at the same time reduce risk in the Group as well as to show alternative courses of action to management.
+
+The basis of the processes for Group accounting and reporting is an accounting manual (IFRS Accounting Manual), that is issued and regularly updated by the Kapsch Group. In this manual, the essential accounting and reporting requirements based on the International Financial Reporting Standards (IFRS) are specified throughout the Group. Another important basis of the internal control system (ICS) are the Group guidelines, work instructions and process descriptions.
+
+Central elements of the ICS are execution of the principle of dual control and the segregation of duties as well as defined actions for monitoring the effectiveness and efficiency of operating activities, the reliability of financial reporting and compliance with relevant legal regulations. In this regard, Kapsch TrafficCom acts based on international standards and best practices, such as COSO Enterprise Risk Management – Integrated Framework.
+
+The accounting of business transactions in Kapsch TrafficCom is managed by a variety of software solutions. In a number of countries, the accounting has been outsourced to local tax accountants due to the small size of the subsid- iaries. The individual companies submit reporting packages to the head office on a monthly basis containing all relevant accounting data pertaining to the income statement, the balance sheet and the cash flow accounting. This data is then entered into the central consolidation system OneStream on a monthly basis. The financial information is reviewed at Group level by Kapsch TrafficCom AG and forms the basis for interim reporting.
+
+The Executive Board informs the Supervisory Board in regular meetings about the economic development in the form of consolidated presentations consisting of segment reporting, earnings development with budget and yearon-year comparison, forecasts, consolidated financial statements, personnel and order development as well as selected key financial figures.
+
+In accordance with local requirements, responsibility for the implementation and monitoring of the internal control system lies with the relevant local management. The management of the individual subsidiaries is responsible for establishing and designing an internal control system in line with the requirements of the respective company with regard to the accounting process and for ensuring compliance with the Group-wide guidelines and regulations.
+
+{131}------------------------------------------------
+
+## *3 Other disclosures.*
+
+## 3.1 Disclosures on capital, share, voting and control rights and related agreements.
+
+The fully paid-in share capital of Kapsch TrafficCom AG amounts to EUR 14.3 million. It is divided into 14.3 million shares. There are no legal or statutory caps or restrictions on the exercise of voting rights or the transfer of shares. KAPSCH-Group Beteiligungs GmbH held roughly 63.3% of the shares as of March 31, 2024. In connection with the refinancing, KAPSCH-Group Beteiligungs GmbH pledged all of its shares in Kapsch TrafficCom AG in favor of the financing banks in financial year 2023/24. This also results in restrictions customary in the market with respect to the transfer of the shares and a corresponding requirement for the consent of these banks.
+
+KAPSCH-Group Beteiligungs GmbH is a wholly owned subsidiary of DATAX HandelsgmbH, whose shares are held (partly indirectly, partly directly) in equal parts by Traditio-Privatstiftung and Children of Elisabeth-Privatstiftung, two private foundations under the Austrian Private Foundation Act. Each of these private foundations is managed by its own Executive Board, with no individual serving on both boards. The beneficiaries of these private foundations are Georg Kapsch and members of his family (Traditio-Privatstiftung) as well as Elisabeth Kapsch and members of her family (Children of Elisabeth-Privatstiftung).
+
+There was no other shareholder holding more than 10% of the voting rights in Kapsch TrafficCom AG as of March 31, 2024. In the financial year 2023/24, Kapsch TrafficCom did not acquire or dispose of any treasury shares and did not hold any as of the balance sheet date.
+
+No shares with special control rights exist. No restrictions exist with respect to the exercising of the voting right by employees with capital participation. There are no special provisions regarding the appointment and recall of the members of the Executive Board and the Supervisory Board as well as the modification of the articles of association.
+
+The company currently has no conditional capital authorizing the Executive Board, with the approval of the Supervisory Board, to issue shares without (further) referral to the Annual General Meeting.
+
+Conventional "change of control" clauses, which may lead to termination of the contract, relate to financing agreements, such as the promissory note bond ("Schuldscheindarlehen") and further financing, totaling about EUR 94 million, or are related to individual customer contracts.
+
+No compensation agreements exist between Kapsch TrafficCom AG and its Executive Board and Supervisory Board Members or employees for the event of a public takeover offer.
+
+## 3.2 Corporate-Governance-Report.
+
+In accordance with C-rule 61 of the Austrian Corporate Governance Code, it is pointed out that the Consolidated Corporate Governance Report can be accessed on the internet at https://www.kapsch.net/en/ir/Corporate-Governance.
+
+Vienna, June 18, 2024
+
+Georg Kapsch Chief Executive Officer
+
+Alfredo Escribá Gallego Executive Board member
+
+{132}------------------------------------------------
+
+# *FINANCIAL STATEMENTS.*
+
+## *Primaries.*
+
+## Balance sheet as at March31, 2024.
+
+| in EUR                                                                                          | March 31, 2023 | March 31, 2024 |
+|-------------------------------------------------------------------------------------------------|----------------|----------------|
+| ASSETS                                                                                          |                |                |
+| A. Fixed assets                                                                                 |                |                |
+| I. Intangible assets                                                                            |                |                |
+| 1. Industrial property and similar rights and assets,<br>and licenses in such rights and assets | 14,078,562     | 8,430,816      |
+| 2. Prepayments made and assets under construction                                               | 101,913        | 230,959        |
+| Total intangible assets                                                                         | 14,180,475     | 8,661,775      |
+| II. Tangible assets                                                                             |                |                |
+| 1. Leasehold improvements                                                                       | 526,441        | 235,391        |
+| 2. Technical equipment and machinery                                                            | 385,711        | 278,180        |
+| 3. Other equipment, factory and office equipment                                                | 1,354,258      | 1,285,824      |
+| 4. Prepayments made and assets under construction                                               | 100,469        | 370,387        |
+| Total tangible assets                                                                           | 2,366,880      | 2,169,782      |
+| III. Financial assets                                                                           |                |                |
+| 1. Shares in affiliated companies                                                               | 141,450,206    | 138,442,198    |
+| 2. Loans to affiliated companies                                                                | 55,904,949     | 58,213,521     |
+| 3. Participating interests                                                                      | 35,252,933     | 2,556,035      |
+| 4. Securities                                                                                   | 4,375          | 4,375          |
+| Total financial assets                                                                          | 232,612,463    | 199,216,129    |
+| Total fixed assets                                                                              | 249,159,817    | 210,047,686    |
+| B. Current assets                                                                               |                |                |
+| I. Inventories                                                                                  |                |                |
+| 1. Merchandise                                                                                  | 2,953,843      | 4,058,352      |
+| 2. Services not yet invoiced                                                                    | 2,666,997      | 2,645,204      |
+| 3. Prepayments made                                                                             | 361,815        | 361,998        |
+| Total inventories                                                                               | 5,982,656      | 7,065,554      |
+| II. Receivables and other assets                                                                |                |                |
+| 1. Trade receivables                                                                            | 5,530,315      | 11,757,766     |
+| thereof with a remaining maturity of more than one year                                         | 0              | 2,241,201      |
+| 2. Receivables from affiliated companies                                                        | 105,463,383    | 134,897,838    |
+| thereof with a remaining maturity of more than one year                                         | 13,034,678     | 12,383,601     |
+| 3. Receivables from companies in which the Company has<br>a participating interest              | 12,869,357     | 411,254        |
+| thereof with a remaining maturity of more than one year                                         | 12,274,083     | 0              |
+| 4. Other receivables and assets                                                                 | 8,186,014      | 6,544,662      |
+| thereof with a remaining maturity of more than one year                                         | 0              | 0              |
+| Total receivables and other assets                                                              | 132,049,069    | 153,611,520    |
+| II. Cash on hand, cash at banks                                                                 | 1,985,608      | 1,975,656      |
+| Total current assets                                                                            | 140,017,333    | 162,652,730    |
+| C. Prepaid expenses and deferred charges                                                        | 1,575,121      | 3,634,961      |
+| D. Deferred tax assets                                                                          | 27,323,377     | 22,502,291     |
+| TOTAL ASSETS                                                                                    | 418,075,647    | 398,837,668    |
+
+{133}------------------------------------------------
+
+## Balance sheet as at March 31, 2024.
+
+| in EUR                                                                        |  | March 31, 2023 |  | March 31, 2024 |
+|-------------------------------------------------------------------------------|--|----------------|--|----------------|
+| SHAREHOLDERS' EQUITY AND LIABILITIES                                          |  |                |  |                |
+| A. Shareholders' equity                                                       |  |                |  |                |
+| 1. Share capital called up and paid in                                        |  | 13,000,000     |  | 14,300,000     |
+| Share capital subscribed                                                      |  | 13,000,000     |  | 14,300,000     |
+| 2. Capital reserves                                                           |  | 117,400,000    |  | 127,800,000    |
+| 3. Unappropriated retained earnings                                           |  | 21,319,208     |  | 56,834,210     |
+| thereof prior period unappropriated retained earnings<br>brought forward      |  | 120,008,724    |  | 21,319,208     |
+| Total shareholders' equity                                                    |  | 151,719,208    |  | 198,934,210    |
+| B. Accruals and provisions                                                    |  |                |  |                |
+| 1. Accruals for severance payments                                            |  | 4,859,885      |  | 5,074,200      |
+| 2. Other accruals and provisions                                              |  | 20,371,911     |  | 19,434,055     |
+| Total accruals and provisions                                                 |  | 25,231,796     |  | 24,508,255     |
+|                                                                               |  |                |  |                |
+| C. Accounts payable                                                           |  |                |  |                |
+| 1. Promissory note bonds                                                      |  | 31,507,988     |  | 8,509,749      |
+| thereof convertible                                                           |  | 0              |  | 0              |
+| thereof with a remaining maturity of less than one year                       |  | 23,007,988     |  | 9,749          |
+| thereof with a remaining maturity of more than one year                       |  | 8,500,000      |  | 8,500,000      |
+| 2. Bank loans and overdrafts                                                  |  | 113,980,572    |  | 60,886,463     |
+| thereof with a remaining maturity of less than one year                       |  | 69,880,572     |  | 0              |
+| thereof with a remaining maturity of more than one year                       |  | 44,100,000     |  | 60,886,463     |
+| 3. Prepayments received                                                       |  | 1,154,537      |  | 1,789,018      |
+| 4. Trade payables                                                             |  | 8,669,831      |  | 13,893,779     |
+| thereof with a remaining maturity of less than one year                       |  | 8,669,831      |  | 13,893,779     |
+| thereof with a remaining maturity of more than one year                       |  | 0              |  | 0              |
+| 5. Payables to affiliated companies                                           |  | 77,454,268     |  | 81,392,229     |
+| thereof with a remaining maturity of less than one year                       |  | 46,050,115     |  | 56,971,499     |
+| thereof with a remaining maturity of more than one year                       |  | 31,404,153     |  | 24,420,730     |
+| 6. Payables to companies in which the Company has a<br>participating interest |  | 380,847        |  | 0              |
+| thereof with a remaining maturity of less than one year                       |  | 380,847        |  | 0              |
+| thereof with a remaining maturity of more than one year                       |  | 0              |  | 0              |
+| 7. Other liabilities                                                          |  | 6,597,330      |  | 7,581,423      |
+| thereof taxes                                                                 |  | 73,532         |  | 75,415         |
+| thereof social security payables                                              |  | 801,886        |  | 908,906        |
+| thereof with a remaining maturity of less than one year                       |  | 6,597,330      |  | 7,581,423      |
+| thereof with a remaining maturity of more than one year                       |  | 0              |  | 0              |
+| Total accounts payable                                                        |  | 239,745,374    |  | 174,052,661    |
+| D. Other current liabilities and deferred income                              |  | 1,379,270      |  | 1,342,542      |
+| TOTAL SHAREHOLDERS' EQUITY AND LIABILITIES                                    |  | 418,075,647    |  | 398,837,668    |
+
+{134}------------------------------------------------
+
+#### Income statement.
+
+| in EUR                                                                                               | 2022/23             | 2022/24           |
+|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| 1. Net sales                                                                                         | 155,126,193         | 221,903,376       |
+| 2. Change in services not yet invoiced                                                               | -8,651,541          | -21,794           |
+| 3. Other operating income                                                                            |                     |                   |
+| a) Income from the retirement of fixed assets excluding<br>financial assets                          | 125                 | 3,000             |
+| b) Income from the reversal of accruals and provisions                                               | 4,023,864           | 420,830           |
+| c) Other                                                                                             | 12,937,314          | 19,434,122        |
+|                                                                                                      | 16,961,303          | 19,857,952        |
+| 4. Cost of materials and other purchased services                                                    |                     |                   |
+| a) Cost of materials                                                                                 | -31,626,342         | -43,379,569       |
+| b) Cost of purchased services                                                                        | -57,550,908         | -60,044,490       |
+|                                                                                                      | -89,177,250         | -103,424,059      |
+| 5. Personnel expenses                                                                                |                     |                   |
+| a) Wages                                                                                             | 0                   | 0                 |
+| b) Salaries                                                                                          | -34,076,763         | -39,602,854       |
+| c) Social benefits                                                                                   | -8,776,378          | -10,371,825       |
+| thereof expenses for pensions                                                                        | -87,885             | -35,925           |
+| thereof expenses for severance payments and contributions<br>to staff provision funds                | 40,453              | -1,038,897        |
+| thereof expenses for statutory social security, payroll-related<br>taxes and mandatory contributions | -8,437,931          | -9,071,271        |
+|                                                                                                      | -42,853,140         | -49,974,679       |
+| 6. Depreciation and amortization of fixed tangible and<br>intangible assets                          | -6,696,635          | -6,535,227        |
+| 7. Other operating expenses                                                                          | -65,346,741         | -48,679,359       |
+| thereof taxes not included in line 16                                                                | -128,842            | -73,284           |
+| <b>8. Subtotal of lines 1 to 7</b>                                                                   | <b>-40,637,952</b>  | <b>33,126,210</b> |
+| 9. Income from participating interests                                                               | 10,873,116          | 52.991.600        |
+| thereof from affiliated companies                                                                    | 10,873,116          | 22,991,600        |
+| 10. Other interest and similar income                                                                | 4,611,127           | 5,902,692         |
+| thereof from affiliated companies                                                                    | 4,130,688           | 4,070,380         |
+| 11. Income from the disposal of fixed financial assets                                               | 7,137,922           | 641.494           |
+| 12. Expenses on fixed financial assets                                                               | -84,452,993         | -35,263,581       |
+| thereof write-downs                                                                                  | -84,452,993         | -32,037,244       |
+| thereof relating to affiliated companies                                                             | -80,193,928         | -6,327,424        |
+| 13. Interest and similar expenses                                                                    | -5,000,433          | -16,815,052       |
+| thereof relating to affiliated companies                                                             | -757,076            | -731,976          |
+| <b>14. Subtotal of lines 9 to 13</b>                                                                 | <b>-66,831,260</b>  | <b>7,457,151</b>  |
+| <b>15. Profit/Loss before taxation<br/>(subtotal of lines 8 and 14)</b>                              | <b>-107,469,212</b> | <b>40,583,361</b> |
+| 16. Taxes on income                                                                                  | 8,779,696           | -5,068,358        |
+| thereof recharged to group parent                                                                    | 0                   | 0                 |
+| thereof deferred taxes                                                                               | 8,878,679           | -4.821.086        |
+| 17. Profit/Loss after taxation                                                                       | -98,689,516         | 35,515,002        |
+| 18. Net profit/loss for the year                                                                     | -98,689,516         | 35,515,002        |
+| 19. Prior period unappropriated retained earnings<br>brought forward                                 | 120,008,724         | 21,319,208        |
+| 20. Unappropriated retained earnings                                                                 |                     |                   |
+
+{135}------------------------------------------------
+
+## *Notes to the financial statements.*
+
+## A. General principles.
+
+The financial statements as at March 31, 2024 have been prepared in accordance with the financial reporting requirements of the UGB (Austrian Company Code) as amended.
+
+In preparing these financial statements, the previous form of presentation has been maintained.
+
+The financial statements, prepared under Austrian generally accepted accounting principles, present a true and fair view of the assets and liabilities, the financial situation of the Company, as well as its results of operations.
+
+Accounting and valuation methods are based on generally accepted accounting principles. Section 201 para. 2 UGB was adhered to, as were the provisions on classification and valuation of balance sheet and income statement items under sections 195 to 211 and 222 to 235 UGB. The income statement was prepared in accordance with the total expenditure format.
+
+The principle of completeness was observed in preparing the financial statements. With regard to the valuation, the Company's ability to continue as a going concern was assumed.
+
+The principle of individual valuation was applied in the valuation of assets and liabilities
+
+Taking into account the principle of prudence, the Company only reported the profits realized as of the balance sheet date. All identifiable risks and impending losses occurred until the balance sheet date were taken into account.
+
+Estimates are based on prudent assessment. If statistical experience exists for similar circumstances, it was taken into account by the Company in its estimates
+
+Fighting in Ukraine. The global economy recovered quickly from the effects of the conflict in Ukraine. To date, there has been no significant impact on the risk situation.
+
+## B. Group relations.
+
+The Company is a 63.291% subsidiary of KAPSCH-Group Beteiligungs GmbH, Vienna, and thus is related to its shareholder and its affiliated companies as a group company.
+
+DATAX HandelsgmbH, Vienna, prepares the consolidated financial statements for the largest group of companies. These consolidated financial statements are deposited at the Commercial Court Vienna.
+
+The Company prepares the consolidated financial statements for the smallest group of companies.
+
+With regard to the disclosure on the legal and economic relations with affiliated companies, the protection-of-interest clause pursuant to section 242 UGB was used
+
+{136}------------------------------------------------
+
+## C. Accounting and valuation methods.
+
+The previously applied accounting and valuation methods have been maintained
+
+## 1. Fixed assets.
+
+Purchased intangible assets and tangible assets are valued at acquisition cost less scheduled straight-line amortization/depreciation charged according to the estimated useful life of the assets
+
+Low-value fixed assets with individual acquisition costs of up to EUR 1,000.00 (previous year EUR 800.00) were fully written off in the year of acquisition or production
+
+## 1.1 Intangible assets.
+
+Acquired IT software is amortized based on a useful life of between four and eight years.
+
+In the reporting year, intangible assets in the amount of EUR 0.00 (prior year: EUR 0k) were acquired from affiliated companies
+
+## 1.2 Tangible assets.
+
+Tangible assets were depreciated on a straight-line basis over the following useful lives:
+
+|                                               | Years |
+|-----------------------------------------------|-------|
+| Investments in leasehold buildings            | 2-12  |
+| Technical equipment and machinery             | 2-5   |
+| Other equipment, factory and office equipment | 2-15  |
+
+No write-downs were charged in the financial year.
+
+Additions to fixed assets are depreciated according to the date of their initial use
+
+## 1.3 Financial assets.
+
+Financial assets are stated at acquisition costs or the lower market values at the balance sheet date. Write-downs/ write-ups are made only in case a diminution/increase in value is expected to be permanent.
+
+## Write-ups of fixed assets.
+
+Write-ups of fixed assets are made when the reasons for the extraordinary depreciation no longer apply. The write-up is made up to a maximum of the net book value, which results taking into account the normal depreciation that would have had to be made in the meantime.
+
+## 2. Current assets.
+
+## 2.1 Inventories.
+
+The stocks of purchased goods, recorded by means of electronic data processing, were stated using the moving average price method. Inventories denominated in foreign currencies were stated using the exchange rate at the date of acquisition. Where required, write-downs were made to the lower replacement costs. A proportional deduction from acquisition or production cost was made for goods with diminished usability or marketability, which was derived from the respective inventory turnover ratio.
+
+Services not yet invoiced were stated at acquisition or production cost which include direct costs as well as proportionate material and production overheads.
+
+{137}------------------------------------------------
+
+In case of long-term contracts, no administrative and selling overheads were capitalized, directly attributable finance cost was capitalized depending on the project. At the balance sheet date, there are no services not yet invoiced for which finance cost was capitalized. Expenses for social benefits were not included. To provide for losses from pending transactions arising from the projects, the asset affected is written off or provisions are set up.
+
+## 2.2 Receivables and other assets.
+
+Receivables and other assets were stated at nominal values. Identifiable risks were considered in the valuation of the individual receivables by write-downs. Non-interest-bearing receivables or receivables bearing particularly low interest were discounted.
+
+Receivables in foreign currencies are translated using the exchange rate at the date of the original transaction or the lower bank buying rate prevailing at the balance sheet date.
+
+## 2.3 Cash on hand, cash at banks.
+
+Cash on hand and cash at banks denominated in foreign currencies are reported using the exchange rate at the date of the original transaction or the lower rate prevailing at the balance sheet date.
+
+## 3. Prepaid expenses and deferred charges.
+
+Prepaid expenses include payments effected before the balance sheet date as far as they relate to expenses for a specific time after the balance sheet date
+
+## 4. Deferred tax assets.
+
+Deferred tax assets are recognized on differences between the valuation according to company law and the valuation according to tax law with respect to assets, accruals and provisions, accounts payable, prepaid expenses and deferred charges as well as deferred income which are expected to decrease in later financial years.
+
+Since the financial year 2021/2022, the option to recognise deferred tax assets for tax loss carryforwards (internal loss carryforwards that are kept evident within the framework of group management and offset against future positive tax results) has been used
+
+Deferred tax assets for existing tax loss carryforwards are created to the extent that there are sufficient deferred tax liabilities or there are convincing, substantial indications that sufficient taxable income will be available to utilize these loss carryforwards in the future (planning horizon of six years, whereby the Group applies appropriate discounts in later planning periods due to greater uncertainty in the utilization of the loss carryforwards).
+
+Deferred taxes are valued using a tax rate of 23% for all differences (previous year: 23% for temporary differences that are eliminated in the following financial year and 23% for the other temporary differences and loss carryforwards) without taking discounting into account.
+
+Deferred tax assets were offset against deferred tax liabilities because it is legally possible to offset the actual tax refund claims against the actual tax liabilities.
+
+## 5. Accruals and provisions.
+
+The accruals and provisions were set up in accordance with the principle of prudence at the estimated amounts.
+
+The accruals for severance payments and the provisions for anniversary bonuses were calculated as stated in the AFRAC (Austrian Financial Reporting and Auditing Committee) opinion 27 "Accruals for pensions and severance payments, provisions for anniversary bonuses and comparable obligations falling due in the long term under the provisions of the Austrian Company Code" (June 2022, available in German only) pursuant to accepted actuarial methods in accordance with IAS 19 using the projected unit credit method.
+
+{138}------------------------------------------------
+
+A discount rate of 3,55% (prior year: 4.0%) was used for the calculation of the provisions for anniversary bonuses and a discount rate of 3.50% (prior year: 3.95%) for the calculation of accruals for severance payments. A rate of 3.0% (prior year: 3,0%) was assumed for salary increases. Furthermore, the calculation was based on the earliest possible retirement age in accordance with the transitional statutory provisions and the mortality tables AVÖ 2018-P ANG for salaried employees. Staff turnover rates were determined based on the period of service.
+
+The interest rate used is the interest rate at the balance sheet date.
+
+All changes in personnel-related accruals and provisions (including interest expense) were recorded entirely in personnel expenses.
+
+In accordance with the principle of prudence, other accruals and provisions take into account all risks identifiable at the time the balance sheet was prepared and all liabilities uncertain as to their amounts or bases. Other accruals and provisions were stated at the best possible estimate of the settlement amount
+
+## 6. Accounts payable.
+
+In accordance with the principle of prudence, accounts payable were valued at the settlement amount.
+
+Payables in foreign currencies are translated using the exchange rate at the date of the original transaction or the higher bank selling rate prevailing at the balance sheet date.
+
+Exchange gains or losses from foreign currency valuation are recorded entirely in the operating result (other operating income or other operating expense)
+
+## D. Comments on items in the balance sheet.
+
+## Assets.
+
+## Movements in fixed assets:
+
+|                                                                                                 | Acquisition cost         |           |             |                           |
+|-------------------------------------------------------------------------------------------------|--------------------------|-----------|-------------|---------------------------|
+| in EUR                                                                                          | Balance<br>April 1, 2023 | Additions | Disposals   | Balance<br>March 31, 2024 |
+| I. Intangible assets                                                                            |                          |           |             |                           |
+| 1. Industrial property and similar rights and<br>assets, and licenses in such rights and assets | 49,403,517               | 55,729    | 0           | 49,459,246                |
+| 2. Prepayments made and assets under<br>construction                                            | 101,913                  | 129,046   | 0           | 230,959                   |
+|                                                                                                 | 49,505,429               | 184,775   | 0           | 49,690,204                |
+| II. Tangible assets                                                                             |                          |           |             |                           |
+| 1. Leasehold improvements                                                                       | 6,538,418                | 87,466    | 0           | 6,625,884                 |
+| 2. Technical equipment and machinery                                                            | 2,532,502                | 53,932    | 0           | 2,586,434                 |
+| 3. Other equipment, factory and office equipment                                                | 7,493,544                | 224,877   | -1,538      | 7,716,883                 |
+| 4. Prepayments made and assets under<br>construction                                            | 100,469                  | 269,918   | 0           | 370,387                   |
+|                                                                                                 | 16,664,933               | 636,193   | -1,538      | 17,299,588                |
+| III. Financial assets                                                                           |                          |           |             |                           |
+| 1. Shares in affiliated companies                                                               | 269,892,237              | 2,849,300 | -11,382     | 272,730,155               |
+| 2. Loans to affiliated companies                                                                | 77,411,110               | 2,308,572 | 0           | 79,719,682                |
+| 3. Participating interests                                                                      | 51,427,615               | 270,183   | -11,516,326 | 40,181,472                |
+| 4. Securities                                                                                   | 4,375                    | 0         | 0           | 4,375                     |
+|                                                                                                 | 398,735,337              | 5,428,055 | -11,527,708 | 392,635,684               |
+| Total fixed assets                                                                              | 464,905,699              | 6,249,023 | -11,529,246 | 459,625,476               |
+
+{139}------------------------------------------------
+
+|                                                                                                    | Accumulated amortization/depreciation |            |           |           |                              | Net book values              |                              |
+|----------------------------------------------------------------------------------------------------|---------------------------------------|------------|-----------|-----------|------------------------------|------------------------------|------------------------------|
+| in EUR                                                                                             | Balance<br>April 1,<br>2023           | Additions  | Disposals | Write-ups | Balance<br>March 31,<br>2024 | Balance<br>March 31,<br>2024 | Balance<br>March 31,<br>2023 |
+| I. Intangible assets                                                                               |                                       |            |           |           |                              |                              |                              |
+| 1. Industrial property and similar rights<br>and assets, and licenses in such rights<br>and assets | 35,324,955                            | 5,703,475  | 0         | 0         | 41,028,430                   | 8,430,816                    | 14,078,562                   |
+| 2. Prepayments made and assets<br>under construction                                               | 0                                     | 0          | 0         | 0         | 0                            | 230,959                      | 101,913                      |
+|                                                                                                    | 35,324,955                            | 5,703,475  | 0         | 0         | 41,028,430                   | 8,661,775                    | 14,180,475                   |
+| II. Tangible assets                                                                                |                                       |            |           |           |                              |                              |                              |
+| 1. Leasehold improvements                                                                          | 6,011,977                             | 378,516    | 0         | 0         | 6,390,493                    | 235,391                      | 526,441                      |
+| 2. Technical equipment and machinery                                                               | 2,146,790                             | 161,464    | 0         | 0         | 2,308,254                    | 278,180                      | 385,712                      |
+| 3. Other equipment, factory and office<br>equipment                                                | 6,139,286                             | 291,772    | 0         | 0         | 6,431,058                    | 1,285,824                    | 1,354,258                    |
+| 4. Prepayments made and assets<br>under construction                                               | 0                                     | 0          | 0         | 0         | 0                            | 370,387                      | 100,469                      |
+|                                                                                                    | 14,298,053                            | 831,752    | 0         | 0         | 15,129,805                   | 2,169,782                    | 2,366,880                    |
+| III. Financial assets                                                                              |                                       |            |           |           |                              |                              |                              |
+| 1. Shares in affiliated companies                                                                  | 128,442,031                           | 6,327,424  | 0         | 481,499   | 134,287,956                  | 138,442,198                  | 141,450,206                  |
+| 2. Loans to affiliated companies                                                                   | 21,506,160                            | 0          | 0         | 0         | 21,506,160                   | 58,213,521                   | 55,904,949                   |
+| 3. Participating interests                                                                         | 16,174,683                            | 25,709,820 | 4,259,065 | 0         | 37,625,438                   | 2,556,035                    | 35,252,933                   |
+| 4. Securities                                                                                      | 0                                     | 0          | 0         | 0         | 0                            | 4,375                        | 4,375                        |
+|                                                                                                    | 166,122,874                           | 32,037,245 | 4,259,065 | 481,499   | 193,419,554                  | 199,216,129                  | 232,612,463                  |
+| Total fixed assets                                                                                 | 215,745,882                           | 38,572,472 | 4,259,065 | 481,499   | 249,577,790                  | 210,047,686                  | 249,159,817                  |
+
+Financial obligations of the Company from the use of tangible assets not recognized in the balance sheet amount to:
+
+| Obligations from rental and lease agreements | 2022/23  | 2022/24    |
+|----------------------------------------------|----------|------------|
+|                                              | in EUR k | in EUR     |
+| In the following financial year              | 3,696    | 3,442,778  |
+| In the next 5 financial years                | 12,191   | 10,457,062 |
+
+#### Financial assets.
+
+#### Loans
+
+Of the loans to affiliated companies amounting to EUR 58,213,521.90 (previous year: EUR 55,905 thousand), EUR 0 have a remaining term of up to one year (previous year: EUR 0 thousand).
+
+{140}------------------------------------------------
+
+#### Shares in affiliated companies and participations as well as loans to affiliated companies.
+
+#### Supplementary disclosures pursuant to section 238 para. 1 subsec. 4 UGB.
+
+| Figures as at March 31, 2024                                                    | Share in % | Shareholders' equity in EUR k | Result of financial year in EUR k | FN |
+|---------------------------------------------------------------------------------|------------|-------------------------------|-----------------------------------|----|
+| <b>a) Shares in affiliated companies</b>                                        |            |                               |                                   |    |
+| Kapsch TrafficCom AB, Jönköping, Sweden                                         | 100.00     | 12,270                        | 462                               | 1) |
+| Kapsch TrafficCom Argentina S.A., Buenos Aires, Argentina                       | 95.00      | 3,140                         | -1,687                            | 1) |
+| Kapsch Components GmbH & Co KG, Vienna                                          | 100.00     | 5,454                         | 2,669                             | 1) |
+| Kapsch Components GmbH, Vienna                                                  | 100.00     | 152                           | 5                                 | 1) |
+| Kapsch TrafficCom B.V., Amsterdam, Netherlands                                  | 100.00     | 10,457                        | 23                                | 1) |
+| Kapsch Telematic Services GmbH, Vienna                                          | 93.00      | -4,815                        | 117                               | 1) |
+| Kapsch Telematic Technologies Bulgaria EAD, Sofia, Bulgaria                     | 100.00     | 408                           | 144                               | 1) |
+| Kapsch TrafficCom Ltd., Middlesex, United Kingdom                               | 100.00     | 1,140                         | 294                               | 1) |
+| Artibrain Software Entwicklungsgesellschaft mbH, Vienna                         | 100.00     | 23                            | -3                                | 1) |
+| Kapsch TrafficCom Russia 0.0.0., Moscow, Russia                                 | 100.00     | -1,173                        | -87                               | 1) |
+| Kapsch TrafficCom France SAS, Paris, France                                     | 30.20      | 1,424                         | 1,389                             | 1) |
+| Electronic Toll Collection (Pty) Ltd., Cape Town, South Africa                  | 9.62       | 11,602                        | 7,524                             | 1) |
+| Kapsch TrafficCom South Africa Holding (Pty) Ltd., Cape Town, South Africa      | 100.00     | 1,174                         | 27                                | 1) |
+| KTS Beteiligungs GmbH, Vienna                                                   | 100.00     | -524                          | 22                                | 1) |
+| Transport Telematic Systems LLC, Abu Dhabi, United Arab Emirates                | 49.00      | 431                           | 34                                | 1) |
+| Kapsch Telematic Services IOOO, Minsk, Belarus                                  | 99.00      | 2,593                         | 3,473                             | 1) |
+| Kapsch TrafficCom Lietuva UAB, Vilnius, Lithuania                               | 0.00       | 0                             | 0                                 | 1) |
+| Kapsch TrafficCom Transportation S.A.U., Madrid, Spain                          | 100.00     | 7,183                         | 2,732                             | 1) |
+| tolltickets GmbH, Rosenheim, Germany                                            | 100.00     | -11,258                       | -2,291                            | 1) |
+| Kapsch TrafficCom S.A.S., Bogota, Colombia                                      | 100.00     | -4,207                        | -811                              | 1) |
+| Intelligent Mobility Solutions Limited, Lusaka, Zambia                          | 51.00      | -14,427                       | -1,961                            | 1) |
+| MTS Maut & Telematik Services GmbH, Berlin, Germany                             | 100.00     | -1,393                        | -352                              | 1) |
+| Kapsch TrafficCom Dominican Republic S.R.L., Santo Dominigo, Dominican Republic | 99.00      | -859                          | -305                              | 1) |
+| Kapsch TrafficCom Norway AS, Oslo, Norway                                       | 0.00       | 0                             | 0                                 | 1) |
+| SIMEX, Integracion de Sistemas, S.A.P.I. de C.V. Mexico City, Mexico            | 69.50      | -1,815                        | -1,297                            | 1) |
+| Kapsch TrafficCom Peru S.A.C., Lima, Peru                                       | 99.93      | -532                          | -213                              | 1) |
+| Kapsch TrafficCom Transportation Argentina S.A., Buenos Aires, Argentina        | 22.03      | -903                          | -3,147                            | 1) |
+| Kapsch TrafficCom Ireland Limited, Dublin, Ireland                              | 100.00     | 360                           | 60                                | 1) |
+| Kapsch Telematic Services Sp.z.o.o., Warzaw, Poland                             | 100.00     | -1,853                        | 942                               | 1) |
+| Kapsch TrafficCom Zagreb d.o.o.; Zagreb, Croatia                                | 100.00     | 0                             | 0                                 | 1) |
+| Kusa Kokutsha (Pyd) Ltd., Cape Town, South Africa                               | 5.00       | 0                             | 0                                 | 1) |
+| <b>b) Participating interests</b>                                               |            |                               |                                   |    |
+| Traffic Technology Services Inc., Beaverton, United States                      | 42.44      | 0                             | 0                                 | 1) |
+| MoKA SAS, Paris, France                                                         | 50.00      | 253                           | 1                                 | 2) |
+| Natras AG, Adliswil, Swiss                                                      | 50.00      | 270                           | 0                                 | 1) |
+| autoTicket GmbH, Berlin, Germany                                                | 50.00      | 67,183                        | 118,438                           | 2) |
+
+1) Figures as at March 31, 2024 (IFRS)
+
+2) Figures as at December 31, 2023 (local law)
+
+On July 6, 2023, Kapsch TrafficCom Zagreb d.o.o, Zagreb, Croatia, was founded. On July 10, 2023, the 51.0% share of Kapsch TrafficCom Lietuva UAB, Vilnius, Lithuania, was sold. As of July 31, 2023, Kapsch TrafficCom Norway AS, Oslo, Norway, was liquidated
+
+Of the write-down on shares in affiliated companies totaling EUR 6,327,424.39 in the 2023/24 financial year relates to Kapsch Telematic Services GmbH, Vienna, Austria, EUR 4,153,710.79, Kapsch TrafficCom S.A.S., Bogota, Colombia, EUR 1,929,650.50, Kapsch Traffic Com Peru S.A.C., Lima, Peru, EUR 110,150.67, Kapsch TrafficCom Russia OOO, Moscow, Russia, EUR 90,000.00 and Kapsch TrafficCom Dominican Republic S.R.L., Santo Domingo, Dominican Republic, EUR 43,912.43
+
+{141}------------------------------------------------
+
+In the 2023/24 financial year, a write-up of shares in affiliated companies amounting to EUR 481,498.97 was made at KTS Beteiligungs GmbH, Vienna.
+
+In the case of the investment in autoTicket GmbH, Germany, the shareholders, Kapsch TrafficCom AG holds a 50% share, decided to distribute a dividend, which was divided equally among the shareholders. The pro rata dividend of Kapsch TrafficCom AG amounted to EUR 30,000 thousand. The book value as of March 31, 2024 was EUR 2,161 thousand (March 31, 2023 EUR 27,871 thousand). In addition, there was a distribution-related write-down of EUR 25,710 thousand on the equity attributable to Kapsch TrafficCom AG, Vienna.
+
+In March 2024, the shares of the associated company Traffic Technology Services, Inc., USA, were sold. The loss from the sale was recorded in the financial result.
+
+Of the shares in affiliated companies, EUR 63,345,088.01 thousand is attributable to Kapsch TrafficCom B.V., Amsterdam, Netherlands, which acts as the holding company of the Kapsch TrafficCom North America Group. Furthermore, there are loans to affiliated companies from the US companies (subsidiaries/grandchildren of Kapsch TrafficCom B.V.) amounting to EUR 58,213,520.90.
+
+## Current assets.
+
+#### Inventories.
+
+Inventories included write-downs on goods amounting to EUR 3,271,501.07 (previous year: EUR 3,254 thousand)
+
+## Receivables.
+
+The accounts receivable from trade and services with a remaining term of more than one year amounting to EUR 2,241 thousand relate to a long-standing customer of Kapsch TrafficCom AG.
+
+The accounts receivable from affiliated companies relate to accounts receivable from trade and services amounting to EUR 108,505,251.94 (previous year: EUR 84,782 thousand), loan receivables amounting to EUR 17,394,342.36 (previous year: EUR 14,693 thousand) and dividend receivables amounting to EUR 8,998,243.26 (previous year: EUR 5,988 thousand).
+
+The accounts receivable from companies with a participating interest relate to loan receivables amounting to EUR 0.00 (previous year: EUR 12,274 thousand) and accounts receivable from trade and services amounting to EUR 411,254.34 (previous year: EUR 595 thousand).
+
+Other receivables and assets mainly include research bonuses, receivables from the tax office, accrued receivables and other receivables.
+
+Other receivables include income of EUR 4,896,234.48 (previous year: EUR 6,660 thousand), that will affect cash low only after the balnace sheet date.
+
+## Deferres tax assets.
+
+Deferred tax assets amounting to EUR 2,310,561.74 (previous year: EUR 2,313 thousand) result from temporary differences from severance pay provisions, open sevenths from depreciation of shares in affiliated companies and investments as well as from fixed assets and also include the amounts of the subsidiary Kapsch Components GmbH & Co KG, Vienna, whose tax result is attributable to Kapsch TrafficCom AG, Vienna. Deferred taxes include longterm temporary differences in the amount of EUR 2,228.541,90 (prior year: EUR 2,147 k).
+
+Deferred tax assets are recognized for tax loss carryforwards (internal loss carryforwards from group taxation) to the extent that this tax benefit is likely to be offset by furture taxable income.. The company has capitalized deferred taxes for tax losses amounting to EUR 20.191.729,00 (previous year: EUR 25,010 thousand), that can be offset against future taxable income on the basis of the tax planning calculation.
+
+{142}------------------------------------------------
+
+## Shareholders' equity and liabilities.
+
+## Shareholders' equity.
+
+## Disclosures on share capital.
+
+The registered share capital of the company amounts to EUR 14,300,000.00 (March 31, 2023: EUR 13,000,000) due to a capital increase carried out in November 2023. The share capital is fully paid in. The total number of shares issued is 14,300,000. The shares are no-par value bearer shares.
+
+## Capital increase
+
+On November 21, 2023, the offer period for the capital increase resolved on that day ended, in which a total of 1,300,000 new voting bearer shares (ordinary shares) were issued, of which 477,217 shares against cash contributions and 822,783 shares against contributions in kind. The issue and subscription price was EUR 9.00 per new share and the gross proceeds EUR 11.7 million. The increase in the tied capital reserve in the amount of EUR 10.4 million stems from the difference between gross proceeds of EUR 11.7 million from the capital increase and the share capital increase in the amount of EUR 1.3 million.
+
+## Authorization of repurchase of shares.
+
+As of March 31, 2024, Kapsch TrafficCom held, as in the previous year, no treasury shares, no shares retained for options retained for options and no conversion rights
+
+## Proposed appropriation of retained earnings.
+
+In accordance with the financing-restructuring agreement, the Board of Directors will propose to the 2024 Annual General Meeting that no dividend be paid for the 2023/24 financial year and that the retained profit be carried forward to new account
+
+## Amount subject to a prohibition of profit distribution.
+
+Of the retained profit of EUR 59.8 million, an amount of EUR 22.5 million is prohibited from distribution in accordance with Section 235 Para. 2 of the Austrian Commercial Code (UGB)
+
+## Accruals and provisions.
+
+Other accruals and provisions include the following items:
+
+|                                                                                                                         | March 31, 2023 | March 31, 2024 |
+|-------------------------------------------------------------------------------------------------------------------------|----------------|----------------|
+|                                                                                                                         | in EUR k       | in EUR         |
+| Project-based accruals and provisions (including impending losses)                                                      | 7,010          | 6,167,711      |
+| Invoices not yet received (excl. projects)                                                                              | 5,049          | 3,511,062      |
+| Personnel-related accruals and provisions (including vacation accruals of<br>EUR 3.265.071,88; prior year: EUR 2.507 k) | 4,334          | 7,316,413      |
+| Restructuring costs                                                                                                     | 184            | 0              |
+| Warranties and liabilities for construction flaws, as well as production and<br>system defects                          | 1,433          | 1,268,873      |
+| Other accruals and provisions                                                                                           | 2,363          | 1,169,996      |
+| Total                                                                                                                   | 20,372         | 19,434,055     |
+
+## Accounts payable.
+
+Of the payables bank loans and overdrafts in the amount of EUR 0.00 (prior year: EUR 12,500 k) have a remaining maturity of more than 5 years.
+
+As at June 9, 2016 five promissory note bonds were issued. The remaining tranches as at the balance sheet date March 31, 2023 are as follows:
+
+| Tranche         | Interest rate | Interest fixing and<br>interest payment | Repayment     |
+|-----------------|---------------|-----------------------------------------|---------------|
+| EUR 8.5 million | 2.26%         | yearly                                  | June 16, 2026 |
+
+{143}------------------------------------------------
+
+With regard to the supplementary agreement on financing, we refer to the report section on events after the balance sheet date and to the 2023/24 Group report of Kapsch TrafficCom AG.
+
+Liabilities to affiliated companies relate to loan liabilities amounting to EUR 24,420,729.57 (previous year: EUR 31,404 thousand), purchase price liabilities for the acquisition of Kapsch Telematic Services Sp.z.o.o. amounting to EUR 0.00 (previous year: EUR 4,872 thousand) and trade accounts payable.
+
+Other liabilities include expenses amounting to EUR 2,939,006.89 (previous year: EUR 3,119 thousand) that will only be paid after the balance sheet date.
+
+## Collateral securities.
+
+The reported export promotion loan of EUR 1,425,462.56 (previous year: EUR 1,425 thousand), the equity financing of EUR 20,353,000.00 (previous year: EUR 30,354 thousand) and the export loan of EUR 10,863,000.00 (previous year: EUR 17,900 thousand) are secured by bills of exchange.
+
+## Contingent liabilities and other financial obligations.
+
+| Values in EUR                                                         | March 31, 2023 | March 31, 2024 |
+|-----------------------------------------------------------------------|----------------|----------------|
+| Assumption of liabilities on behalf of subsidiaries                   | 33,876         | 34,237,716     |
+| Bank guarantees for the performance of contracts relating to projects | 35,391         | 46,502,403     |
+| Payment guarantees                                                    | 161            | 160,873        |
+| Performance bonds                                                     | 163,785        | 165,844,820    |
+| Other guarantees (security deposits, bid bonds and sureties)          | 887            | 1,274,300      |
+| Total                                                                 | 234,100        | 248,020,112    |
+
+Furthermore, performance guarantees were provided by Kapsch TrafficCom AG, Vienna, for export transactions and projects of Kapsch TrafficCom AB, Jönköping, Sweden, with an order value of EUR 7,752,203.37 (previous year: EUR 7.8 million).
+
+## German infrastructure charge.
+
+In 2018 the joint venture autoTicket GmbH (autoTicket), Germany, was commissioned to levy the German infrastructure charge ("passenger vehicle toll"). Moreover in a separate contract the Group company MTS Maut & Telematik Services GmbH (MTS), Germany, had been awarded the contract for the "automatic control of the passenger vehicle toll".
+
+On June 18, 2019, the European Court of Justice (ECJ) ruled contrary to expectations that the passenger vehicle toll in its planned form, where in Germany accredited vehicles receive a tax relief simultaneously, violates the principles of the European Union. The customer terminated on the following day the contracts for the implementation and operation of the passenger vehicle toll effective September 30, 2019.
+
+The operating parties of the terminated contract for the project "Toll collection" are Kapsch TrafficCom, CTS EVEN-TIM and autoTicket. In December 2019, they jointly asserted claims in the amount of around EUR 560,000 k against the Federal Republic of Germany. The responsible minister is disputing this claim. This matter was therefore need to be resolved before an arbitration tribunal.
+
+In March 2022 Kapsch TrafficCom received an interim arbitration award which affirms a claim for compensation of autoTicket against the Federal Republic of Germany on the merits. Consequently, in July 2023, an arbitration decision was reached with mutually agreed terms, compelling the Federal Republic of Germany to make a payment of TEUR 243,000. The developments described led to an increase in sales revenue of EUR 66.3 million and a significantly improved net cash flow from operating activities of EUR 68.3 million.
+
+{144}------------------------------------------------
+
+## Derivative financial instruments.
+
+At the balance sheet date, derivative financial instruments break down as follows and are included in the following balance sheet items
+
+| Figures as of March 31, 2023   | Nominal amount | Number | Fair value 1) | Book value | Balance sheet item |
+|--------------------------------|----------------|--------|---------------|------------|--------------------|
+| Type of financial instrument   |                |        |               |            |                    |
+| Interest rate-related products |                |        |               |            |                    |
+| Interest rate swap (05/2025)   |                | 1      | 715,964.73    | 0.00       | n/a                |
+| Interest rate swap (05/2025)   |                | 1      | -62,498.60    | 0.00       | n/a                |
+| Interest rate swap (09/2027)   |                | 1      | 1,262,883.11  | 0.00       | n/a                |
+
+1) A positive amount in this column refers to a positive fair value, a negative amount to a negative fair value.
+
+| Figures as of March 31, 2023   | Nominal amount | Number | Fair value 1) | Book value | Balance sheet item |
+|--------------------------------|----------------|--------|---------------|------------|--------------------|
+| Type of financial instrument   |                |        |               |            |                    |
+| FX Rate Swap                   |                | 1      | 240,308.77    | 0.00       | n/a                |
+| Interest rate-related products |                |        |               |            |                    |
+| Interest rate swap (12/2026)   | EUR 20,000,000 | 1      | 1,418,479.49  | 0.00       | n/a                |
+| Interest rate swap (09/2027)   | EUR 25,000,000 | 1      | 2,055,612.57  | 0.00       | n/a                |
+
+1) A positive amount in this column refers to a positive fair value, a negative amount to a negative fair value.
+
+The fair value corresponds to the market value.
+
+## E. Comments on income statement items..
+
+#### Breakdown of net sales.
+
+|                                      | March 31, 2023 | March 31, 2024 |
+|--------------------------------------|----------------|----------------|
+|                                      | in EUR k       | in EUR         |
+| Toll                                 | 129,807        | 193,010,031    |
+| Traffic management                   | 25,319         | 28,893,345     |
+| Total net sales by field of activity | 155,126        | 221,903,376    |
+| Domestic                             | 12,639         | 12,920,254     |
+| European Union, excl. Austria        | 54,749         | 114,008,934    |
+| Non-European Union                   | 87,738         | 94,974,188     |
+| Total net sales by region            | 155,126        | 221,903,376    |
+
+At the beginning of July 2023, a settlement was reached in connection with the termination of the operating contract for the collection of the infrastructure levy, the car toll in Germany. autoTicket GmbH, a joint venture between Kapsch TrafficCom and CTS Eventim, received an amount of EUR 243 million from the Federal Republic of Germany. An amount of EUR 66.3 million of the cash inflow of EUR 79.5 million is included in sales revenue.
+
+## 3 Other operation income.
+
+After an agreement was reached with a customer regarding overdue receivables, the write-down for these receivables in the amount of EUR 10.1 million, which was created as of March 31, 2023, was reversed. The agreement included, on the one hand, an installment payment agreement in the amount of EUR 4.5 million and, on the other hand, a credit for the receivables in the amount of EUR 5.6 million, which was recorded in sales.
+
+The salaries includes expenses from the change in provisions for anniversary bonuses in the amount of EUR 34,975.51 (previous year: EUR 197 thousand).
+
+{145}------------------------------------------------
+
+The item expenses for severance payments and payments to company employee pension funds includes expenses from severance payments in the amount of EUR 552,563.09 (previous year: income of EUR 482 thousand) and expenses from payments to company employee pension funds in the amount of EUR 486,333.85 (previous year: EUR 441 thousand).
+
+Other operating expenses were reduced to EUR 48,679,358.88 (previous year EUR 65,347 thousand). The previous year was burdened with the included write-downs on loans and receivables in the amount of EUR 23.5 million. The current value in the 2023/24 financial year is EUR 4,317,375.69. The maintenance expenses were reduced to EUR 2,181,333.79 (previous year: EUR 3,405 thousand) also legal and consulting expenses to EUR 7,096,416.40 (previous year: EUR 7,604 thousand). On the other hand, IT expenses increased to EUR 10,187,767.16 (previous year: EUR 8,727 thousand), licensing and patent expenses to EUR 4,292,718.82 (previous year: EUR 3,382 thousand) and the expenses for guarantee commissions to EUR 3,363,369.30 (previous year: EUR 900 thousand).
+
+Regarding the expenses for the auditor, we refer to the 2023/24 Group report of Kapsch TrafficCom AG. In addition, a distribution of Autoticket in the amount of 30 million is included in the position
+
+## Financial result.
+
+Income from investments relates to dividends received from affiliated companies and is not phase-congruent.
+
+The interest expense in the past financial year was significantly higher than the previous year at EUR 16,815 thousand, mainly due to the agreement to restructure financing in May 2023. For the coming financial years, a decline to a standard market interest rate level is expected here again.
+
+The expenses from financial assets relate to the depreciation of shares in affiliated companies in the amount of EUR 6,327 thousand and associated companies in the amount of EUR 25,710 thousand, as well as the loss from the sale of Traffic Technology Services Inc., USA, in the amount of EUR 3,215 thousand.
+
+## Taxes on income.
+
+The Company is member of a tax group. Parent of the tax group is KAPSCH-Group Beteiligungs GmbH, Vienna. In accordance with section 9 para. 1 KStG (Austrian Corporate Income Tax Act), the relevant tax result of the respective group member is allocated to the relevant tax result of the participating group member or the group parent in the respective financial year. Pursuant to section 7 para. 2 KStG, the income is determined at the group parent based on the consolidated result of the group and taxed. Tax is allocated using the stand-alone method, whereby an allocation to the group parent only takes place in the event of a taxable profit. Tax losses are carried forward in the form of an internal loss carryforward and offset against future positive results
+
+## F. Other disclosures.
+
+## Disclosures on board members and staf.
+
+The average number of employees during the 2023/24 financial year was 449 employees (previous year: 432 employees).
+
+The current remuneration (including pension fund payments) of the Executive Board in the 2023/24 financial year amounted to EUR 3,171 thousand (previous year: EUR 1,974 thousand). The increase in remuneration is primarily due to the profit-related remuneration. Expenses for severance payments and pensions for Executive Board members amounted to EUR 32 thousand and relate to payments to company employee pension funds (previous year: EUR 36 thousand). In total, this results in total remuneration of the Executive Board in the 2023/24 financial year of EUR 3,171 thousand (previous year: EUR 1,974 thousand).
+
+For the members of the Supervisory Board, Supervisory Board remuneration (including travel expenses) of EUR 118,300.00 (previous year: EUR 120 thousand) was recorded as an expense.
+
+{146}------------------------------------------------
+
+As in previous years, no advances or loans were granted to members of the Management Board or Supervisory Board, nor were any guarantees given in their favor.
+
+The Executive Board and Supervisory Board are composed of the following persons
+
+## Executive Board.
+
+Georg Kapsch (Chairman) Alfredo Escribá Gallego Andreas Hämmerle (until November 2023)
+
+## Supervisory Board.
+
+Franz Semmernegg (Chairman) Harald Sommerer (Deputy-Chairman) Sabine Kauper (until September 6, 2023) Monika Brodey (from September 6, 2023) Sonja Hammerschmid
+
+Delegated by the works council:
+
+Christian Windisch Claudia Rudolf-Misch (until November 22, 2023) Robert Kutschera (from November 22, 2023)
+
+## Subsequent events.
+
+## Winning a major infrastructure project in Switzerland.
+
+Kapsch TrafficCom AG announced on April 30, 2024 that it had been contracted by the Swiss Federal Office for Customs and Border Security (BAZG) to supply the heavy goods vehicle (HGV) road fee collection system and to manage the technical operation until at least the end of 2032. This major project has a contract value of EUR 74.5 million.
+
+## Supplementary financing agreement.
+
+In May 2024, the term of the existing restructuring agreement including all credit lines of Kapsch TrafficCom AG was extended until March 31, 2026. Furthermore, Kapsch TrafficCom AG is committed to make repayments totaling EUR 20 million between December 31, 2024 and March 31, 2026.
+
+Beyond this, there were no events after the balance sheet date to report.
+
+Vienna, June 18, 2024
+
+Georg Kapsch Chief Executive Officer
+
+Signature
+
+Alfredo Escribá Gallego Executive Board member
+
+{147}------------------------------------------------
+
+# *Statement of all Members of the Executive Board.*
+
+## *Pursuant to Sec. 124 (1) Stock Exchange Act 2018*
+
+We declare to the best of our knowledge that the Financial Statements give a true and fair view of the assets, liabilities, financial position and profit or loss of the parent company as required by the applicable accounting standards and that the Management Report gives a true and fair view of the development and performance of the business and the position of the company, together with a description of the principal risks and uncertainties the company faces.
+
+Vienna, June 18, 2024
+
+Georg Kapsch Vorsitzender des Vorstands
+
+Signature
+
+Alfredo Escribá Gallego Mitglied des Vorstands
+
+{148}------------------------------------------------
+
+# *AUDITOR'S REPORT. Report on the Financial Statements.*
+
+## Audit Opinion.
+
+We have audited the financial statements of Kapsch TrafficCom AG, Vienna, which comprise the balance sheet as at March 31, 2024, the income statement for the financial year then ended and the notes.
+
+In our opinion, the accompanying financial statements comply with legal requirements and give a true and fair view of the financial position of the Company as at March 31, 2024, and of its financial performance for the financial year then ended in accordance with Austrian Generally Accepted Accounting Principles.
+
+## Basis for Opinion.
+
+We conducted our audit in accordance with Regulation (EU) No. 537/2014 (hereinafter EU Regulation) and Austrian Generally Accepted Standards on Auditing. Those standards require the application of the International Standards on Auditing (ISAs). Our responsibilities under those provisions and standards are further described in the "Auditor's Responsibilities for the Audit of the Financial Statements" section of our report. We are independent of the Company in accordance with Austrian Generally Accepted Accounting Principles and professional requirements, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained until the date of the auditor's report is sufficient and appropriate to provide a basis for our opinion by this date.
+
+## Key Audit Matters.
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the financial statements of the financial year. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+We have structured key audit matters as follows:
+
+- Description
+- Audit approach and key observations
+- Reference to related disclosures
+
+## 1 Valuation oh shares in affiliated companies and participating interests as well as loans to and loan receivables from affiliated companies and participating interests.
+
+## Description.
+
+As a holding company, Kapsch TrafficCom AG, Vienna, holds material shares in affiliated companies (book values in the amount of EUR 138,442k) and participating interests (book values in the amount of EUR 2,556k) as at March 31, 2024. Moreover, loans in the amount of
+
+EUR 58,214k as well as loan receivables from affiliated companies in the amount of EUR 17,394k and from participating interests in the amount of EUR 0k exist.
+
+Pursuant to section 204 para. 2 UGB, shares in affiliated companies and participating interests as well as loans are to be written down in case a diminution in value occurs that is expected to be permanent. Pursuant to section 207 UGB, the strict lower of cost or market principle is to be taken into account for current assets (loan receivables). Write-ups are made if the reasons for the write-down no longer apply, however they are capped at acquisition cost.
+
+In the financial year 2023/24, write-downs on the shares in affiliated companies in the amount of EUR 6,327k were made based on the tests for write-downs (thereof EUR 1,930k on Kapsch TraffiCom S.A.S, Colombia, and EUR 4,154k on Kapsch Telematic Service GmbH (KTS), Austria). In the financial year under review, for the participating interest in Auto Ticket GmbH, a distribution-related write-down on the book value under tax on equity attributable to Kapsch TrafficCom AG, Vienna, was made in the amount of EUR 25,710k. The book value of the participating interest after the write-down amounts to EUR 2,556k. The Traffic Technology Services Inc., USA was sold during the fiscal year, resulting in loss amounting to TEUR 3.215.
+
+{149}------------------------------------------------
+
+Based on the expected business development, in the financial year 2023/24, write-downs on loan receivables from affiliated companies were made in the amount of EUR 4,006k. These write-downs relate in the amount of EUR 3,574k to Kapsch TrafficCom Services USA and in the amount of EUR 432k to Intelligent Mobility Solutions. No write-downs on loan receivables from participating interests were made.
+
+No requirement for value adjustment of the book value of loans to affiliated companies has been identified.
+
+Management believes that no further diminutions in value or reversals of write-downs (up to a maximum of the amount of acquisition cost) apply to shares in affiliated companies, participating interests as well as loans to and loan receivables from affiliated companies and participating interests as at March 31, 2024 and that, consequently, no further write-downs or write-ups are required.
+
+Valuation of shares in affiliated companies and participating interests as well as in loans and loan receivables requires management to make material estimates on future market developments and the probability of the subsidiaries winning contracts in the planning period. This is particularly true for implementation projects with regard to tolling systems in the Tolling segment, where the order inflow is very volatile and contracts are usually awarded based on invitations to tender, which usually is associated with certain uncertainties. Moreover, there is a significant area of judgement involved in the valuation, in particular with regard to the discount rate and the long-term growth rate. With regard to the financial statements, there is a risk of an overstatement of shares in affiliated companies and participating interests due to these estimation uncertainties and it was therefore identified as key audit matter. The valuation of loans is also subject to significant management estimates. These estimates relate to the future prospects of the subsidiaries and their ability to repay the outstanding loans. Due to this uncertainty, there is a risk of overstatement of loans and loan receivables in the financial statements, which is why they were also identified as a key audit matter.
+
+## Audit approach and key observations.
+
+We assessed management's approach to the valuation of shares in affiliated companies and loans to affiliated companies to determine whether it appropriately identifies a potential need for diminutions in value.
+
+We first gained an understanding of the valuation model itself and the key value drivers of the current values.
+
+With the partial involvement of our internal valuation experts, we examined whether the selected valuation method complies with recognized valuation principles and analyzed and critically assessed the main drivers for future development (such as net sales, expenses, project planning, investments, changes in working capital) as well as the main risks for possible deviations from the planning assumptions and discussed them with management. The assumptions regarding the discount rate and the growth rate were checked by means of external market and industry data, and the calculation model was tested for mathematical accuracy. In addition, we have checked if the corresponding loan receivables have been adjusted in value.
+
+The valuation models used by the Company are suitable to assess the valuation of the shares in affiliated companies and the participating interests as well as the loans and loan receivables. The assumptions and valuation parameters used in the valuation are reasonable.
+
+## Reference to related disclosures.
+
+For further information, reference is made to the notes to the financial statements of Kapsch TrafficCom AG, Vienna, Section D. Comments on items in the balance sheet "Shares in affiliated companies and participating interests as well as loans to affiliated companies" and "Current assets, Receivables".
+
+{150}------------------------------------------------
+
+## 2 Estimates and assumptions regarding net sales, services not yet invoiced and project-related accruals in the accounting of inventories.
+
+## Description.
+
+Services not yet invoiced as at March 31, 2024 amount to EUR 2,645k, project-related accruals including accruals for impending losses amount to EUR 6,168k. Implementation projects, in particular, require an ongoing assessment and update of the contract costs and the risks from fulfilling the contracts which may result from technical and time delays, supply chain bottlenecks or other external framework conditions and influence the project margin. Furthermore, damages or contractual penalties can arise from these contracts which have to be considered in the project valuation and require a risk assessment. The major projects of the Company usually are technologically complex individual contracts with specific terms of contract and therefore have to be assessed individually with regard to revenue recognition and project risks.
+
+Due to the material impact of the major projects, in particular during the construction phase, on the Company's financial position and financial performance and the considerable estimates involved in the accounting for these contracts, there is the risk that the project revenue, the result and the related services not yet invoiced and project-related accruals contain a material misstatement, and this was therefore identified as key audit matter.
+
+## Audit approach and key observations.
+
+Within the framework of our risk-based audit approach, we gained an understanding of the processes and internal controls relevant for the accounting of construction contracts and tested the effectiveness of selected internal controls. This mainly referred to internal controls in connection with the approval of order calculation upon the conclusion of new contracts as well as approval of the ongoing recalculation. In the course of our detailed audit procedures, we requested the project valuations for random samples of projects and reperformed the calculation of the accruals/deferrals and accruals for those projects based on plan revenue and costs as well as the costs incurred up until the balance sheet date. We looked at project requests, customer contracts, Supervisory Board minutes, the project budgeting tool as well as detailed cost estimates and held discussions with the project managers and the management team regarding the status of the project, project risks and planning assumptions. In assessing the appropriateness of the estimates, a particular focus was on the review of the regular update of plan assumptions, in particular on the planned cost to complete and the planned project margin. In order to assess the accuracy of the estimates, we requested and checked the purchase orders and contracts for both actual and planned revenue.
+
+The valuation methods used and the underlying assumptions in the valuation of the project are reasonable and comply with the provisions of the UGB.
+
+## Reference to related disclosures.
+
+For further information, reference is made to the notes to the financial statements of Kapsch TrafficCom AG, Vienna, Section C. Accounting and valuation methods "2.1. Inventories" and "5. Accruals and provisions" as well as Section D. Comments on items in the balance sheet under "Accruals and provisions".
+
+{151}------------------------------------------------
+
+## 3 Recognition of deferred tax assets.
+
+## Description.
+
+In the financial statements, deferred tax assets in the amount of EUR 22.502k (prior year: EUR 27,323k) are reported which are mainly attributable to internal loss carry-forwards from the tax group. The Company recognizes deferred tax assets up to the extent it is probable that sufficient taxable profits will be available against which the temporary differences as well as unused tax loss carry-forwards can be utilized. In the case of a history of losses, capitalization only occurs to the extent that there is convincing substantial evidence that sufficient taxable income will be available in the future. The planning horizon in this context is six years.
+
+The recognition of deferred taxes requires management to make significant estimates as regards future market and business development within the planning horizon, which is usually subject to a degree of uncertainty. With regard to the financial statements, there is a risk of an overstatement of deferred tax assets due to these estimation uncertainties, and they were therefore identified as key audit matter.
+
+## Audit approach and key observations.
+
+We examined whether the assumptions used in the future cash flows are plausible and transparent, and we analyzed and critically assessed the essential drivers for future development (revenue growth, earnings margin, investment planning). Furthermore, we analyzed and critically assessed the adjustments to the tax planning result. The calculation model was tested for mathematical accuracy and the tax rates used were reconciled with external sources. We evaluated in particular whether there is convincing evidence that sufficient taxable profits will be available against which the unused tax loss carryforwards can be utilized. Further, we evaluated whether the disclosures on deferred taxes provided in the notes are appropriate.
+
+The model used by the Company is suitable to recognize deferred tax assets in accordance with the provisions of the UGB. The assumptions used in the valuation are reasonable. The disclosures in the notes required by UGB are complete.
+
+## Reference to related disclosures.
+
+The Company's disclosures on the recognition of deferred taxes are included in Section C. Accounting and valuation methods under "Deferred tax assets" as well as Section D. Comments on items in the balance sheet under "Deferred tax assets".
+
+## 4 Restructuring of financing.
+
+## Description.
+
+As at March 31, 2024, bank loans and overdrafts in the amount of EUR 60,886k (prior year: EUR 113,981k) exist, thereof, no liabilities with a remaining maturity of less than one year exist (prior year: EUR 69,881k). In addition, promissory note loans in the amount of EUR 8,510k (prior year: EUR 31,508k) exist, thereof EUR 9k (prior year: EUR 23,007k) short-term.
+
+In the previous financial year 2022/23, the adverse business development, particularly with regard to profitability and the associated liquidity and debt, has led management to prepare a comprehensive restructuring concept with the help of an external advisor, which includes measures to improve profitability and reduce working capital, but is also intended to create a basis for sustainable future growth. This restructuring concept also forms the basis for the refinancing agreement concluded by Kapsch TrafficCom AG, Vienna, with its main financial creditors on May 31, 2023, which was concluded until May 25, 2025, in which a comprehensive refinancing of current financial liabilities (including the promissory note bonds) was agreed. Existing financing in the amount of EUR 106.3 million was extended until May 25, 2025, and new financing was concluded by this date. This includes a refinancing agreement of 50% of the promissory note bond in the amount of EUR 11.5 million that has matured in mid-June 2023 and the provision of EUR 4.25 million as an additional operating loan by a promissory note creditor. In this context, the Company has agreed to make early repayments from surplus cash and cash equivalents (cash sweep), from extraordinary inflows and from pending proceedings, and to not distribute any dividends. In the course of the refinancing, additional customary covenants and conditions were agreed with the financial creditors, compliance with which will be closely monitored and reported on by the external advisors in the future. The main shareholder KAPSCH-Group Beteiligungs GmbH, Vienna, pledged all its shares held in the Company (around 63.6% of the share capital) as collateral. The Company also undertook to utilize the entire existing authorized capital to the extent of 10% of the share capital.
+
+{152}------------------------------------------------
+
+In a supplementary agreement dated May 31, 2024 to the restructuring agreement, the maturity of the non-current loans was extended to March 31, 2026 with the condition that EUR 4 million must be repaid early on a quarterly basis from December 31, 2024.
+
+The measures for ensuring sufficient liquidity implemented by management in the prior years were continued in the financial year 2023/24.
+
+Due to the material impact of the refinancing on the assets and liabilities and financial situation as well as the going concern assumption of the Group, this was identified as key audit matter.
+
+## Audit approach and key observations.
+
+The refinancing from the previous year, which was concluded on May 31, 2023, was revalued by the management. We first gained an understanding of the calculation and whether a significant contract adjustment in accordance with AFRAC 14 has been made. The model for the calculation was evaluated and the cash flows analyzed. These were compared using detailed documentation on the loan agreements and interest payments in order to verify the underlying values of the model. The present values of the original cash flows were compared with the present values of the adjusted cash flows and it was checked whether this is a significant contract adjustment – considering qualitative and quantitative aspects. The result was that no significant contract adjustment has been made and the difference is recognized in the income statement.
+
+We checked the agreements dated May 31, 2023 as well as the supplementary agreement dated May 31, 2024, on refinancing and assessed the resulting impact on the assets and liabilities, financial situation and results of operations as well as the going concern assumption of the Company and assessed the related disclosures made by the Executive Board in the consolidated financial statements. In this process, we first gained an understanding of the planning process and model. We examined whether the assumptions used in the future cash flows are in line with the plan included in the restructuring concept prepared by the Executive Board and approved by the Supervisory Board. We analyzed and critically assessed the essential drivers for future development (such as revenue and cost planning, changes in working capital as well as liquidity planning) as well as the essential risks for possible deviations from the planning assumptions and discussed them in meetings with the management. We interviewed the management on the status of the implementation of the measures.
+
+Furthermore, on the basis of the planning calculations, we assessed whether the Company will be able to fulfil the future repayment obligation included in the supplementary agreement.
+
+Moreover, we assessed the management's measures implemented to ensure sufficient liquidity and checked whether the monitoring implemented by management in this regard (daily monitoring of the group-wide liquidity portfolio and weekly 12-weeks cash flow forecasts) continue to be performed.
+
+Based on the information we have collected and as agreed in the refinancing agreement dated May 31, 2023 and in the supplementary agreement dated May 31, 2024, regular monitoring and external reporting will be carried out by the external advisor to ensure ongoing and appropriate monitoring of liquidity and compliance with the intended implementation of the measures from the restructuring concept.
+
+The application of the accounting method based on the going concern assumption is appropriate
+
+## Reference to related disclosures.
+
+The Company's disclosures on refinancing are included in the notes under "Subsequent events" under Section F. "Other disclosures".
+
+{153}------------------------------------------------
+
+## Other Information.
+
+Management is responsible for the other information. The other information comprises the information included in the annual report, but does not include the financial statements, the management report and our auditor's report thereon.
+
+Our opinion on the financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information identified above and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated.
+
+If, based on the work we have performed on the other information that we obtained prior to the date of this auditor's report, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+## Responsibilities of Management and the Audit Committee for the Financial Statements.
+
+Management is responsible for the preparation of the financial statements that give a true and fair view in accordance with Austrian Generally Accepted Accounting Principles, and for such internal control as management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, management is responsible for assessing the Company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+
+The Audit Committee is responsible for overseeing the Company's financial reporting process.
+
+## Auditor's Responsibilities for the Audit of the Financial Statements.
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with the EU Regulation and with Austrian Generally Accepted Standards on Auditing, which require the application of ISAs, will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with the EU Regulation and with Austrian Generally Accepted Standards on Auditing, which require the application of ISAs, we exercise professional judgment and maintain professional skepticism throughout the audit.
+
+{154}------------------------------------------------
+
+## We also:
+
+- identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risks of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control.
+- evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- conclude on the appropriateness of management's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor's report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the Company to cease to continue as a going concern.
+- evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+We communicate with the Audit Committee regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide the Audit Committee with a statement that we have complied with all relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, on measures taken to eliminate identified threats or on applied safeguards.
+
+From the matters communicated with the Audit Committee, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+{155}------------------------------------------------
+
+## Report on Other Legal and Regulatory Requirements.
+
+## Comments on the Management Report for the Company.
+
+Pursuant to Austrian Generally Accepted Accounting Principles, the management report is to be audited as to whether it is consistent with the financial statements and as to whether the management report was prepared in accordance with the applicable legal regulations.
+
+Management is responsible for the preparation of the management report in accordance with Austrian Generally Accepted Accounting Principles.
+
+We conducted our audit in accordance with Austrian standards on auditing for the audit of the management report.
+
+## Opinion.
+
+In our opinion, the management report for the Company was prepared in accordance with the applicable legal regulations, comprising the details in accordance with section 243a UGB, and is consistent with the financial statements.
+
+## Statement.
+
+Based on the findings during the audit of the financial statements and due to the obtained understanding concerning the Company and its circumstances no material misstatements in the management report came to our attention.
+
+## Additional Information in Accordance with Article 10 of the EU Regulation.
+
+We were elected as statutory auditor at the ordinary general meeting dated September 6, 2023. We were appointed by the Supervisory Board on November 7, 2023. We have audited the Company's financial statements for an uninterrupted period since 2002.
+
+We confirm that the audit opinion in the "Report on the Financial Statements" section is consistent with the additional report to the Audit Committee referred to in Article 11 of the EU Regulation.
+
+We declare that no prohibited non-audit services (Article 5 para. 1 of the EU Regulation) were provided by us and that we remained independent of the audited company in conducting the audit.
+
+## Responsible Engagement Partner.
+
+Responsible for the proper performance of the engagement is Frédéric Vilan, Austrian Certified Public Accountant.
+
+Vienna, June 18, 2024
+
+PwC Wirtschaftsprüfung GmbH
+
+signed Frédéric Vilain Austrian Certified Public Accountant
+
+Publication and sharing of the financial statements together with our auditor's report is only allowed in the version audited by us. This auditor's report is only applicable to the German and complete financial statements with the management report. For deviating versions, the provisions of section 281 para. 2 UGB apply.
+
+{156}------------------------------------------------
+
+#### Disclaimer.
+
+Certain statements in this report are forward-looking statements. They contain the words "believe," "intend," "expect," "plan," "assume," and terms of a similar meaning. Forward-looking statements reflect the beliefs and expectations of the company. Actual events may deviate significantly from the expected developments, due to a range of factors. As a result, readers are cautioned not to place undue reliance on such forward-looking statements. Kapsch TrafficCom AG is under no obligation to update forward-looking statements made herein, unless required by applicable law.
+
+This report was created with care and all data has been checked conscientiously. Nevertheless, the possibility of layout and printing errors cannot be excluded. Differences in calculations may arise due to the rounding of individual items and percentages. The English translation is for convenience; only the German version is authentic.
+
+When referring to people, the authors strive to use both the male and female forms as far as possible (for example: he or she). For readability reasons, occasionally only the masculine form is used. However, it always refers to people of all gender categories.
+
+This report does not constitute a recommendation or invitation to purchase or sell securities of Kapsch TrafficCom.
+
+## Imprint.
+
+Media owner and publisher: Kapsch TrafficCom AG Place of publishing: Vienna, Austria Editorial deadline: June 18, 2024
+
+{157}------------------------------------------------
+
+#### *Kapsch TrafficCom*
+
+Kapsch TrafficCom is a globally renowned provider of transportation solutions for sustainable mobility with successful projects in more than 50 countries. Innovative solutions in the application fields of tolling, tolling services, traffic management and demand management contribute to a healthy world without congestion.
+
+With one-stop-shop solutions, the company covers the entire value chain of customers, from components to design and implementation to the operation of systems.
+
+Kapsch TrafficCom, headquartered in Vienna, has subsidiaries and branches in more than 25 countries and is listed in the Prime Market segment of the Vienna Stock Exchange (ticker symbol: KTCG). In its 2023/24 financial year, about 4,000 employees generated revenues of EUR 539 million.
+
+*www.kapsch.net*
+
+{158}------------------------------------------------
+
+## Financial calendar.
+
+| August 21, 2024   | Result Q1 2024/25                   |
+|-------------------|-------------------------------------|
+| August 25, 2024   | Record date: Annual General Meeting |
+| September 4, 2024 | Annual General Meeting              |
+| November 20, 2024 | Result H1 2024/25                   |
+| February 19, 2025 | Result Q1–Q3 2024/25                |
+
+## Contact for investors.
+
+| Investor Relations team      | Marcus Handl, Valerie Riegler |
+|------------------------------|-------------------------------|
+| Shareholders' telephone line | +43 50 811 1122               |
+| E-mail                       | IR.kapschtraffic@kapsch.net   |
+| Website                      | www.kapsch.net                |
+
+#### Disclaimer.
+
+Certain statements in this report are forward-looking statements. They contain the words "believe," "intend," "expect," "plan," "assume," and terms of a similar meaning. Forward-looking statements reflect the beliefs and expectations of the company. Actual events may deviate significantly from the expected developments, due to a range of factors. As a result, readers are cautioned not to place undue reliance on such forward-looking statements. Kapsch TrafficCom AG is under no obligation to update forward-looking statements made herein, unless required by applicable law.
+
+This report was created with care and all data has been checked conscientiously. Nevertheless, the possibility of layout and printing errors cannot be excluded. Differences in calculations may arise due to the rounding of individual items and percentages. The English translation is for convenience; only the German version is authentic.
+
+When referring to people, the authors strive to use both the male and female forms as far as possible (for example: he or she). For readability reasons, occasionally only the masculine form is used. However, it always refers to people of all gender categories.
+
+This report does not constitute a recommendation or invitation to purchase or sell securities of Kapsch TrafficCom.
+
+#### Imprint.
+
+Media owner and publisher: Kapsch TrafficCom AG Place of publishing: Vienna, Austria Editorial deadline: June 18, 2024
+
+{159}------------------------------------------------
+
+#### *Kapsch TrafficCom*
+
+Kapsch TrafficCom is a globally renowned provider of transportation solutions for sustainable mobility with successful projects in more than 50 countries. Innovative solutions in the application fields of tolling, tolling services, traffic management and demand management contribute to a healthy world without congestion.
+
+With one-stop-shop solutions, the company covers the entire value chain of customers, from components to design and implementation to the operation of systems.
+
+Kapsch TrafficCom, headquartered in Vienna, has subsidiaries and branches in more than 25 countries and is listed in the Prime Market segment of the Vienna Stock Exchange (ticker symbol: KTCG). In its 2023/24 financial year, about 4,000 employees generated revenues of EUR 539 million.
+
+*www.kapsch.net*

@@ -1,0 +1,114 @@
+{
+  "company_slug": "jenoptik_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\jenoptik_ag\\2023\\jenoptik_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\jenoptik_ag\\2023\\focused\\jenoptik_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        135
+      ],
+      "start_page": 133,
+      "end_page": 140,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "135": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        152,
+        153,
+        154,
+        155,
+        157,
+        158,
+        162,
+        163,
+        164
+      ],
+      "start_page": 150,
+      "end_page": 169,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "152": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8",
+                "Annex I",
+                "Annex II"
+              ],
+              "153": [
+                "Annex I"
+              ],
+              "154": [
+                "Article 8"
+              ],
+              "155": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "157": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "158": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "162": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "163": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "164": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

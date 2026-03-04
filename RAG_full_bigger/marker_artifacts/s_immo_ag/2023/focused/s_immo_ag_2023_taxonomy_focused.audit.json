@@ -1,0 +1,81 @@
+{
+  "company_slug": "s_immo_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\s_immo_ag\\2023\\s_immo_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\s_immo_ag\\2023\\focused\\s_immo_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        2,
+        6,
+        9,
+        10,
+        16,
+        19,
+        20
+      ],
+      "start_page": 1,
+      "end_page": 25,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "2": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "6": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "9": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "10": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "16": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "19": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "20": [
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

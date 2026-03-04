@@ -771,7 +771,8 @@ TOTAL matched (sum steps): 234
 Benchmark activities (common companies): 271 | match rate: 86.35%
 Benchmark activities (ALL companies):    307 | match rate: 76.22%
 
-opzione 3 (--top_k 12 --w_bm25 0.5 --w_emb 0.5):
+opzione 3: 
+(--top_k 12 --w_bm25 0.5 --w_emb 0.5):
 ==================== ALL YEARS ====================
 
 === SUMMARY ===
@@ -802,7 +803,7 @@ Benchmark activities (ALL companies):    1476 | match rate: 70.73%
 
 
 ==================== YEAR = 2023 ====================
-0.5 e 0.5
+
 === SUMMARY ===
 Companies in common: 137
 Matched activities: 649
@@ -852,6 +853,94 @@ Missing subcode (code_numeric): 26
 === 4-STEP MATCH ===
 Step1 (label+code) matched: 214
 Step2 (code-only) matched:  42
+Step3 (exact activity) matched: 11
+Step4 (fuzzy activity) matched: 1
+TOTAL matched (sum steps): 268
+Benchmark activities (common companies): 271 | match rate: 98.89%
+Benchmark activities (ALL companies):    307 | match rate: 87.30%
+
+secondo test con --top_k 8 --w_bm25 0.65 --w_emb 0.35:
+
+==================== ALL YEARS ====================
+
+=== SUMMARY ===
+Companies in common: 172
+Matched activities: 942
+Benchmark total activities (common companies): 1196 | match rate: 78.76%
+RAG total activities (common companies): 1608 | match rate: 58.58%
+
+=== TOTAL MATCH (Label + sub_code) ===
+Benchmark rows (effective, company common): 1193
+Matched rows (OR on slash):               739 | match rate: 61.94%
+Matched pairs sum (counts alternatives):  740
+Matched rows (solo codice):               962 | match rate: 81.25%
+
+=== RAG MISSING VALUES (common companies) ===
+Missing label (rag_label): 656
+Missing activity (activity): 2
+Missing subcode (code_numeric): 265
+
+=== 4-STEP MATCH ===
+Step1 (label+code) matched: 740
+Step2 (code-only) matched:  231
+Step3 (exact activity) matched: 50
+Step4 (fuzzy activity) matched: 16
+TOTAL matched (sum steps): 1037
+Benchmark activities (common companies): 1196 | match rate: 86.71%
+Benchmark activities (ALL companies):    1476 | match rate: 70.26%
+
+
+==================== YEAR = 2023 ====================
+
+=== SUMMARY ===
+Companies in common: 137
+Matched activities: 638
+Benchmark total activities (common companies): 873 | match rate: 73.08%
+RAG total activities (common companies): 1222 | match rate: 52.21%
+
+=== TOTAL MATCH (Label + sub_code) ===
+Benchmark rows (effective, company common): 870
+Matched rows (OR on slash):               476 | match rate: 54.71%
+Matched pairs sum (counts alternatives):  477
+Matched rows (solo codice):               660 | match rate: 76.48%
+
+=== RAG MISSING VALUES (common companies) ===
+Missing label (rag_label): 565
+Missing activity (activity): 2
+Missing subcode (code_numeric): 235
+
+=== 4-STEP MATCH ===
+Step1 (label+code) matched: 477
+Step2 (code-only) matched:  190
+Step3 (exact activity) matched: 38
+Step4 (fuzzy activity) matched: 15
+TOTAL matched (sum steps): 720
+Benchmark activities (common companies): 873 | match rate: 82.47%
+Benchmark activities (ALL companies):    1120 | match rate: 64.29%
+
+
+==================== YEAR = 2024 ====================
+
+=== SUMMARY ===
+Companies in common: 31
+Matched activities: 255
+Benchmark total activities (common companies): 271 | match rate: 94.10%
+RAG total activities (common companies): 321 | match rate: 79.44%
+
+=== TOTAL MATCH (Label + sub_code) ===
+Benchmark rows (effective, company common): 271
+Matched rows (OR on slash):               216 | match rate: 79.70%
+Matched pairs sum (counts alternatives):  216
+Matched rows (solo codice):               254 | match rate: 94.42%
+
+=== RAG MISSING VALUES (common companies) ===
+Missing label (rag_label): 78
+Missing activity (activity): 0
+Missing subcode (code_numeric): 18
+
+=== 4-STEP MATCH ===
+Step1 (label+code) matched: 216
+Step2 (code-only) matched:  40
 Step3 (exact activity) matched: 11
 Step4 (fuzzy activity) matched: 1
 TOTAL matched (sum steps): 268

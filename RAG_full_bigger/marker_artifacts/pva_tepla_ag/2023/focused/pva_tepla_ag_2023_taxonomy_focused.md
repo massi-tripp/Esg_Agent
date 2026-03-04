@@ -1,0 +1,686 @@
+## Page 46
+
+#### **Occupational health and safety**
+
+Taking action to protect our employees' health and boost their performance is second nature to us as a responsible company. We aim to keep the number of accidents and days lost due to illness as low as possible.
+
+To ensure our employees have a safe working environment, we have an occupational health and safety management system. It is based on the respective legal requirements applicable in the countries where we operate. The minimum requirement for occupational health and safety is compliance with the relevant country-specific legal provisions. Our efforts to promote the health and safety of our employees go beyond this.
+
+Occupational safety requirements differ between the areas of production, service, administration and sales. That is why the PVA TePla Group has implemented measures geared to local conditions, helping ensure that employees are not exposed to hazards at work. These include, for example, the legally mandated fire safety measures in the form of a central fire alarm system, fireproof walls, smoke ventilation systems, sprinkler systems and everyday equipment to make working life easier. The latter comprises protective equipment such as hard hats, safety shoes and safety goggles. In addition, employees at the German locations are covered by group accident insurance.
+
+Our approach to continuously improving our occupational health and safety management system encompasses regular inspections and assessments. These allow us to identify potential risks and weaknesses and take appropriate steps to minimize or eliminate these risks. The purpose of the measures and processes implemented is to guarantee a high degree of safety for the PVA TePla Group's workforce.
+
+Safety briefings for all employees are regularly conducted at all locations. Most of these are held online.
+
+Accidents and cases of illness are recorded and evaluated as a means of measuring occupational health and safety. Our objective is to keep the accident rate not only as low as possible but also below the industry average. To this end, we use as our benchmark the figures reported for German accident insurance in the industrial sector. We also record sick days as part of our occupational health management. Our sickness rate was 5 percent in the year under review.
+
+In 2023, the accident frequency rate per thousand employees was 19.2 (accidents at work involving at least one lost day), compared with 14.7 in the previous year. The last recorded industry average for 2022 was 21.1.<sup>7</sup> As in the previous year, there were no fatal work-related accidents at PVA TePla in fiscal year 2023.
+
+The health of our employees is of the utmost importance to us. We have implemented preventive measures to avoid work-related issues and occupational diseases. This includes paying close attention to workplace ergonomics, which have been further enhanced at many locations in recent years. Our offices are furnished with height-adjustable desks and ergonomic chairs. During the reporting period, we additionally offered first aid courses in cooperation with the German Red Cross to train our employees on how to deal with medical emergencies. We likewise gave our employees the opportunity to participate in driver safety training with the German automobile club, ADAC, in order to safeguard against commuting accidents.
+
+As part of our occupational health management, employees have access to a company physician for general checkups, eye tests, flu and coronavirus booster shots as well as similar services, frequently even in the workplace.
+
+## Page 47
+
+In addition, a professionally equipped fitness room is freely available to employees in the company building in Wettenberg, Germany. At other locations, external options are offered, such as regular use of a basketball court. A PVA Health Day is usually also held at least once a year. At this event, employees can participate in various health promotion programs – covering topics including posture and daytime drowsiness – provided in cooperation with the Techniker Krankenkasse health insurance fund.
+
+#### **Training and education**
+
+We are actively committed to promoting training for junior employees and, in line with our growth strategy, have set ourselves the target of significantly increasing the number of trainees we have. Looking ahead, we will introduce KPIs to measure the success of the strategy. This will allow us to make a meaningful assessment of its effectiveness.
+
+We anticipate a significant increase in training and education spending over the medium term, so that employees always have the skills they need to meet the challenges of an ever-evolving business environment.
+
+To fill the training positions in the various specialist areas, the PVA TePla Group enters into sponsorships with schools and universities at its German locations, offering orientation days and internships for students. Specific training programs have been developed and established to meet our high demand for young talent who have had hands-on training. The PVA TePla Group works with other companies to run these programs. Trainees learn the basics in training workshops before moving on in the second year to in-depth training specific to the PVA TePla Group. At the same time, we cooperate with universities, supporting the training of students and supervising term papers as well as bachelor's, master's and doctoral theses. As part of the PVA TePla Group's training concept, these programs have already been and will be further intensified and supplemented to include, for example, dual work-study courses. To enhance our attractiveness as a training organization, graduates of the various training programs – including the dual work-study courses – are usually offered a permanent position following successful completion of their training.
+
+In 2023, 34 trainees were employed (2022: 34), including work-study students.
+
+Investing in the further education of the existing workforce is likewise crucial to our lasting economic success. The PVA TePla Group offers an array of development opportunities so that employees can fully realize their potential. The training offering covers personal, management, social and professional skills. Employees with relevant experience can participate in suitable further training, enabling them to specialize and take advantage of corresponding career opportunities within the Group. In line with the current corporate strategy, we plan to step up these measures in fiscal year 2024, enhancing the offering with Group-wide concepts and international approaches. By taking these steps, the PVA TePla Group is paving the way for its employees' continuous development and providing them with the requisite skills to take on fresh tasks.
+
+In fiscal year 2023, training and education expenses amounted to EUR 492 thousand, up from EUR 364 thousand a year earlier.
+
+## Page 48
+
+Image /page/47/Picture/1 description: The image shows the text "EU Taxonomy" in blue font, with a superscript "8" next to "Taxonomy". To the right of the text is a green leaf symbol inside a circle, with blue, gray, and yellow stripes on the right side of the circle.
+
+#### **1. Reporting requirements**
+
+For fiscal year 2023, nonfinancial undertakings required to prepare nonfinancial reporting in accordance with Articles 19a and 29a of Directive 2013/34/EU of the European Parliament and of the Council (the Accounting Directive) must disclose how and to what extent their activities are associated with economic activities that qualify as environmentally sustainable in accordance with Regulation (EU) 2020/852 of the European Parliament and of the Council and the supplementary delegated acts (hereinafter: the EU Taxonomy Regulation). Under Article 3 of the EU Taxonomy Regulation, an economic activity qualifies as environmentally sustainable "where that economic activity:
+
+- a) contributes substantially to one or more of the environmental objectives set out in Article 9 in accordance with Articles 10 to 16;
+- b) does not significantly harm any of the environmental objectives set out in Article 9 in accordance with Article 17;
+- c) is carried out in compliance with the minimum safeguards laid down in Article 18; and
+- d) complies with technical screening criteria that have been established by the Commission in accordance with Article 10(3), 11(3), 12(2), 13(2), 14(2) or 15(2)." The following environmental objectives are set forth in Article 9:
+- 1. climate change mitigation (Art. 10),
+- 2. climate change adaptation (Art. 11),
+- 3. the sustainable use and protection of water and marine resources (Art. 12),
+- 4. the transition to a circular economy (Art. 13),
+- 5. pollution prevention and control (Art. 14), and
+- 6. the protection and restoration of biodiversity and ecosystems (Art. 15).
+
+For fiscal year 2023, taxonomy eligibility and taxonomy alignment for the two environmental objectives climate change mitigation and climate change adaptation, and taxonomy eligibility for the four other environmental objectives must be reported in accordance with Delegated Regulation 2023/2486 of November 21, 2023 amending Delegated Regulation (EU) 2021/2178. This information must be disclosed based on the respective proportion of turnover (referred to in the consolidated financial statements of the PVA TePla Group as "revenue"), capital expenditure (CapEx) and operating expenditure (OpEx). To avoid double counting, the analysis of turnover and CapEx was primarily conducted in association with the climate change mitigation environmental objective. This was then supplemented by a review of further turnover and CapEx for the climate change adaptation environmental objective. No additional taxonomy-eligible economic activities were identified in the review relating to the climate change adaptation environmental objective.
+
+In accordance with the EU Taxonomy, PVA TePla's OpEx amounts to around EUR 12,100,000. The expenses included in this denominator are insignificant in relation to the total operating expenses at PVA for the business model, which is why we have refrained from analyzing these expenses and report the taxonomy-eligible portion as zero.
+
+For the purposes of generally assessing taxonomy alignment, we conducted an analysis based on the minimum safeguards requirements. In the year under review, PVA TePla committed no known violations of labor law or human rights, corruption or bribery, tax evasion, competition law or other elements of the Directive relevant to the minimum safeguards. Individual processes for documenting the minimum safeguards still need to be implemented. Consequently, full compliance in accordance with the taxonomy requirements cannot yet be reported.
+
+Since the PVA TePla Group does not pursue any relevant economic activities involving natural gas or nuclear energy, the reporting does not include the tables on non-disclosure of natural gas and nuclear energy activities.
+
+## Page 49
+
+Nor did the Group pursue any taxonomy-aligned activities to cover its own internal consumption within the meaning of Annex I Section 1.2.3 of Delegated Regulation 2021/2178 in the reporting year.
+
+The wording and requirements of the Taxonomy Regulation and the associated delegated acts are still subject to uncertainties in their interpretation. This combined nonfinancial statement presents their interpretation by the PVA TePla Group's legal representatives.
+
+#### **2. Assessment of turnover**
+
+First, all economic activities of the PVA TePla Group relevant to external turnover were cross-referenced against the activity descriptions for the six environmental objectives, as set forth in Delegated Regulations (EU) 2021/2139 and 2023/2485 (climate change mitigation and climate change adaptation) and Delegated Regulation (EU) 2023/2486 (the four other environmental objectives), to determine which economic activities are taxonomy-eligible under the EU Taxonomy Regulation in association with the six environmental objectives. The analysis covered the PVA TePla Group's full basis of consolidation.
+
+The economic activities of the PVA TePla Group not covered by Delegated Regulations (EU) 2021/2139 and 2023/2485 (climate change mitigation and climate change adaptation) and Delegated Regulation (EU) 2023/2486 (the four other environmental objectives) do not qualify as taxonomy-eligible.
+
+For the products manufactured by PVA TePla, the assessment of PVA TePla's economic activities and the cross-referencing against the economic activities defined as taxonomy-eligible found that the manufacture of the products does not itself involve any taxonomy-eligible activities within the meaning of the EU Taxonomy Regulation. This is because PVA TePla's equipment and technologies are not covered by the specific economic activity descriptions.
+
+However, as a supplier, the PVA TePla Group supports key manufacturing processes and technological developments of other industrial undertakings with its systems and services.
+
+The systems and types of equipment that the PVA TePla Group manufactures and delivers to its customers can generally be used for the following economic activities:
+
+#### Climate change mitigation environmental objective:
+
+- 3.1 Manufacture of renewable energy technologies
+- 3.2 Manufacture of equipment for the production and use of hydrogen
+- 3.3 Manufacture of low carbon technologies for transport
+- 3.4 Manufacture of batteries
+- 3.5 Manufacture of energy efficiency equipment for buildings
+- 3.6 Manufacture of other low carbon technologies
+- 3.18 Manufacture of automotive and mobility components
+- 3.21 Manufacturing of aircraft
+
+## Page 50
+
+#### Transition to a circular economy environmental objective:
+
+1.2 Manufacture of electrical and electronic equipment
+
+Since these economic activities are not carried out by PVA TePla itself, they do not qualify as taxonomy-eligible economic activities for the company.
+
+However, turnover related to repair orders and replacement parts orders was identified for the new transition to a circular economy environmental objective. These can be allocated to the activities "5.1 Repair, refurbishment and remanufacturing" and "5.2 Sale of spare parts", respectively. Taxonomy alignment was not assessed for the transition to a circular economy environmental objective for 2023.
+
+This means a total taxonomy-eligible turnover of EUR 7,709,092 was identified, of which EUR 7,064,986 was attributable to the "5.2 Sale of spare parts" activity and EUR 644,106 to the "5.1 Repair, refurbishment and remanufacturing" activity.
+
+The denominator for turnover includes revenue in accordance with IAS 1.82 (a), which was taken from the income statement.
+
+#### **3. Assessment of capital expenditure**
+
+The figures for the denominator for the CapEx KPI were taken from the consolidated financial statements for fiscal year 2023 and comprise property, plant and equipment, and intangible assets, less goodwill.
+
+To compute the numerator for the CapEx KPI, an analysis of the consolidated statement of changes in non-current assets for fiscal year 2023 was carried out. All additions to assets, which were also used to compute the denominator for CapEx, were assessed with regard to taxonomy eligibility and, based on this, for taxonomy alignment for the environmental objectives of climate change mitigation and climate change adaptation. For fiscal year 2023, the assessment identified taxonomy-eligible CapEx associated with the following activities:
+
+Climate change mitigation environmental objective:
+
+- 4.1 Electricity generation using solar photovoltaic technology
+- 6.4 Operation of personal mobility devices, cycle logistics
+- 6.5 Transport by motorbikes, passenger cars and light commercial vehicles
+- 7.1 Construction of new buildings
+- 7.2 Renovation of existing buildings
+- 7.4 Installation, maintenance and repair of charging stations for electric vehicles in buildings
+- 7.7 Acquisition and ownership of buildings
+- 8.1 Data processing, hosting and related activities
+
+## Page 51
+
+#### Transition to a circular economy environmental objective:
+
+4.1 Manufacture of electrical and electronic equipment
+
+The extension of the EU Taxonomy Regulation to include the four new environmental objectives, together with our capital expenditure on photovoltaic systems and electric vehicle charging stations, as well as the construction of new buildings, resulted in significantly higher taxonomy-eligible CapEx being identified this year than in the previous year. It rose from around EUR 3,797,000 in 2022 to approximately EUR 9,760,444 in 2023.
+
+In 2023, we invested in the installation of photovoltaic systems in Wettenberg and Jena, Germany (activity 4.1). However, since the systems' compliance with DNSH criteria could not be assured, this could not be classified as taxonomy-aligned CapEx. The same applies to the additions related to cycle leasing under activity 6.4, to the renovation spending at our location in Taiwan (activity 7.2) and to the installation of electric vehicle charging stations in Wettenberg, Germany (activity 7.4). In these cases, compliance with the DNSH criteria similarly could not be assured, so the CapEx was classified as non-taxonomy-aligned.
+
+PVA TePla's vehicle fleet, which is covered by "6.5 Transport by motorbikes, passenger cars and light commercial vehicles", underwent a detailed assessment. According to the Commission Notice on the interpretation of certain legal provisions of the Disclosures Delegated Act under Article 8 of EU Taxonomy Regulation on the reporting of taxonomy-eligible economic activities and assets (2022/C 385/01), all vehicles, including those with combustion engines, qualify as taxonomy-eligible. This means that PVA TePla's vehicle fleet is a taxonomy-eligible asset category in terms of CapEx. The assessment of the taxonomy alignment of this asset category – based on whether screening criteria for determining a substantial contribution to climate change mitigation were met – found that only a small proportion of the vehicle fleet met the technical screening criteria. However, since compliance with the DNSH criteria could not be assured, no taxonomyaligned CapEx could be reported. The vehicles were assessed at line item level.
+
+In 2023, a large proportion of our taxonomy-eligible CapEx was attributable to the new construction of two production halls at our locations in Wettenberg, Germany, and in Italy (activity 7.1). However, since the DNSH criteria likewise could not be assured in this case, the CapEx was classified as non-taxonomy-eligible. Additionally, we were unable to confirm the taxonomy alignment of our rented buildings and housing, as we do not yet fully meet the minimum safeguarding requirements (activity 7.7).
+
+In the year under review, activity 8.1 primarily involved CapEx relating to servers and data centers. Since the technical screening criteria for these two categories could not be unequivocally assured, the CapEx was classified as non-taxonomyaligned.
+
+The assessment did not take into account any capital expenditure for parts of a plan to expand taxonomy-aligned economic activities or to allow taxonomy-eligible economic activities to become taxonomy-aligned (referred to as CapEx plans). This is because PVA TePla's CapEx planning does not yet include evaluation in respect of DNSH criteria or compliance with minimum safeguarding requirements.
+
+## Page 52
+
+#### Proportion of revenue from products or services associated with taxonomy-aligned economic activities – disclosure covering 2023
+
+| Financial year 2023                                                                                                        |         | 2023         |                                  |                                 |                                 |            | Substantial contribution criteria |                     |              |
+|----------------------------------------------------------------------------------------------------------------------------|---------|--------------|----------------------------------|---------------------------------|---------------------------------|------------|-----------------------------------|---------------------|--------------|
+| Economic activities (1)                                                                                                    | Code(a) | Turnover     | Proportion<br>of revenue<br>2023 | Climate<br>change<br>mitigation | Climate<br>change<br>adaptation | Water      | Pollution                         | Circular<br>economy | Biodiversity |
+|                                                                                                                            | (2)     | (3)          | (4)                              | (5)                             | (6)                             | (7)        | (8)                               | (9)                 | (10)         |
+|                                                                                                                            |         | EUR thousand | %                                | Y; N; N/EL                      | Y; N; N/EL                      | Y; N; N/EL | Y; N; N/EL                        | Y; N; N/EL          | Y; N; N/EL   |
+| A. Taxonomy-eligible activities                                                                                            |         |              |                                  |                                 |                                 |            |                                   |                     |              |
+| A.1 Environmentally sustainable activities<br>(taxonomy-aligned)                                                           |         |              |                                  |                                 |                                 |            |                                   |                     |              |
+| Turnover of environmentally sustainable activities<br>(taxonomy-aligned) (A.1)                                             |         |              | 0%                               | 0%                              | 0%                              | 0%         | 0%                                | 0%                  | 0%           |
+| Of which enabling                                                                                                          |         | 0            | 0%                               | 0%                              | 0%                              | 0%         | 0%                                | 0%                  | 0%           |
+| Of which transitional                                                                                                      |         | 0            | 0%                               | 0%                              |                                 |            |                                   |                     |              |
+| A.2 Taxonomy-eligible<br>but not environmentally sustainable activities<br>(not taxonomy-aligned activities)               |         |              |                                  |                                 |                                 |            |                                   |                     |              |
+| Repair, refurbishment and remanufacturing                                                                                  | CE 5.1  | 644          | 0.20%                            | N/EL                            | N/EL                            | N/EL       | N/EL                              | EL                  | N/EL         |
+| Sale of spare parts                                                                                                        | CE 5.2  | 7,065        | 2.70%                            | N/EL                            | N/EL                            | N/EL       | N/EL                              | EL                  | N/EL         |
+| Turnover of taxonomy-eligible<br>but not environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2) |         | 7,709        | 2.90%                            | 0%                              | 0%                              | 0%         | 0%                                | 2.90%               | 0%           |
+| A. Turnover of taxonomy-eligible activities (A.1 + A.2)                                                                    |         | 7,709        | 2.90%                            | 0%                              | 0%                              | 0%         | 0%                                | 2.90%               | 0%           |
+| B. Taxonomy-non-eligible activities                                                                                        |         |              |                                  |                                 |                                 |            |                                   |                     |              |
+| Turnover of taxonomy-non-eligible activities                                                                               |         | 255,737      | 97%                              |                                 |                                 |            |                                   |                     |              |
+| Total                                                                                                                      |         | 263,446      | 100%                             |                                 |                                 |            |                                   |                     |              |
+
+(a) The code constitutes the abbreviation of the relevant objective to which the economic activity is eligible to make
+
+a substantial contribution, as well as the section number of the activity in the relevant Annex covering the objective, i. e.
+
+– Climate change mitigation (CCM)
+
+- Climate change adaptation (CCA)
+- Water (WTR)
+
+– Circular economy (CE)
+
+– Pollution prevention and control (PPC)
+
+– Biodiversity and ecosystems (BIO)
+
+Y Yes, taxonomy-eligible and taxonomy-aligned activity with the relevant environmental objective
+
+N No, taxonomy-eligible and non-taxonomy-aligned activity with the relevant environmental objective
+
+N/EL Not eligible, non-taxonomy-eligible activity for the relevant environmental objective
+
+EL Eligible, taxonomy-eligible activity for the relevant environmental objective
+
+## Page 53
+
+|                                         |                                         |               |                   |                            |                      | DNSH criteria ("does not significantly harm") |                                                                                          |                                          |                                      |  |  |
+|-----------------------------------------|-----------------------------------------|---------------|-------------------|----------------------------|----------------------|-----------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------|--------------------------------------|--|--|
+| Climate<br>change<br>mitigation<br>(11) | Climate<br>change<br>adaptation<br>(12) | Water<br>(13) | Pollution<br>(14) | Circular<br>economy<br>(1) | Biodiversity<br>(16) | Minimum<br>safeguards<br>(17)                 | Proportion of<br>taxonomy-aligned (A.1.)<br>or eligible (A.2.)<br>turnover, 2022<br>(18) | Category<br>enabling<br>activity<br>(19) | Category<br>transitional<br>activity |  |  |
+| Y/N                                     | Y/N                                     | Y/N           | Y/N               | Y/N                        | Y/N                  | Y/N                                           | %                                                                                        | E                                        |                                      |  |  |
+|                                         |                                         |               |                   |                            |                      |                                               | 0%                                                                                       |                                          |                                      |  |  |
+|                                         |                                         |               |                   |                            |                      |                                               | 0%                                                                                       | E                                        |                                      |  |  |
+|                                         |                                         |               |                   |                            |                      |                                               | 0%                                                                                       |                                          |                                      |  |  |
+
+Proportion of revenue from products or services associated with taxonomy-aligned economic activities
+
+– disclosure covering 2023
+
+A.2 Taxonomy-eligible
+
+**B. Taxonomy-non-eligible activities**
+
+but not environmentally sustainable activities (not taxonomy-aligned activities)
+
+– Climate change mitigation (CCM) – Climate change adaptation (CCA)
+
+– Pollution prevention and control (PPC) – Biodiversity and ecosystems (BIO)
+
+– Water (WTR) – Circular economy (CE)
+
+Turnlover of taxonomy-non-eligible activities 255,737 97 % Total 263,446 100 %
+
+(a) The code constitutes the abbreviation of the relevant objective to which the economic activity is eligible to make a substantial contribution, as well as the section number of the activity in the relevant Annex covering the objective, i. e.
+
+Y Yes, taxonomy-eligible and taxonomy-aligned activity with the relevant environmental objective N No, taxonomy-eligible and non-taxonomy-aligned activity with the relevant environmental objective
+
+N/EL Not eligible, non-taxonomy-eligible activity for the relevant environmental objective EL Eligible, taxonomy-eligible activity for the relevant environmental objective
+
+| Repair, refurbishment and remanufacturing<br>CE 5.1<br>644<br>0.20 %<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>EL<br>N/EL      | 0 % |  |
+|-------------------------------------------------------------------------------------------------------------------------|-----|--|
+| Sale of spare parts<br>CE 5.2<br>7,065<br>2.70 %<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>EL<br>N/EL                          | 0 % |  |
+| Turnover of taxonomy-eligible<br>7,709<br>2.90 %<br>0 %<br>0 %<br>0 %<br>0 %<br>2.90 %<br>0 %                           | 0 % |  |
+| but not environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2)                               |     |  |
+| A. Turnover of taxonomy-eligible activities (A.1 + A.2)<br>7,709<br>2.90 %<br>0 %<br>0 %<br>0 %<br>0 %<br>2.90 %<br>0 % | 0 % |  |
+
+## Page 54
+
+#### Template: Proportion of CapEx from products or services associated with taxonomy-aligned economic activities – disclosure covering 2023
+
+|                                                                                                                         |                |              |                                |                                 |                                 |            | Substantial contribution criteria |                     |              |
+|-------------------------------------------------------------------------------------------------------------------------|----------------|--------------|--------------------------------|---------------------------------|---------------------------------|------------|-----------------------------------|---------------------|--------------|
+| Financial year 2023                                                                                                     |                | 2023         |                                |                                 |                                 |            |                                   |                     |              |
+| Economic activities (1)                                                                                                 | Code(a)        | CapEx        | Proportion<br>of CapEx<br>2023 | Climate<br>change<br>mitigation | Climate<br>change<br>adaptation | Water      | Pollution                         | Circular<br>economy | Biodiversity |
+|                                                                                                                         | (2)            | (3)          | (4)                            | (5)                             | (6)                             | (7)        | (8)                               | (9)                 | (10)         |
+|                                                                                                                         |                | EUR thousand | %                              | Y; N; N/EL                      | Y; N; N/EL                      | Y; N; N/EL | Y; N; N/EL                        | Y; N; N/EL          | Y; N; N/EL   |
+| A. Taxonomy-eligible activities                                                                                         |                |              |                                |                                 |                                 |            |                                   |                     |              |
+| A.1 Environmentally sustainable activities<br>(taxonomy-aligned)                                                        |                |              |                                |                                 |                                 |            |                                   |                     |              |
+| CapEx of environmentally sustainable activities<br>(taxonomy-aligned) (A.1)                                             |                |              | 0%                             | 0%                              | 0%                              | 0%         | 0%                                | 0%                  | 0%           |
+| Of which enabling activities                                                                                            |                | 0            | 0%                             | 0%                              | 0%                              | 0%         | 0%                                | 0%                  | 0%           |
+| Of which transitional activities                                                                                        |                | 0            | 0%                             | 0%                              |                                 |            |                                   |                     |              |
+| A.2 Taxonomy-eligible<br>but not environmentally sustainable activities<br>(not taxonomy-aligned activities)            |                |              |                                |                                 |                                 |            |                                   |                     |              |
+| Electricity generation using<br>solar photovoltaic technology                                                           | CCM 4.1        | 282          | 1.90%                          | EL                              | N/EL                            | N/EL       | N/EL                              | N/EL                | N/EL         |
+| Operation of personal mobility devices,<br>cycle logistics                                                              | CCM 6.4        | 38           | 0.30%                          | EL                              | N/EL                            | N/EL       | N/EL                              | N/EL                | N/EL         |
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                                | CCM 6.5        | 494          | 3.40%                          | EL                              | N/EL                            | N/EL       | N/EL                              | N/EL                | N/EL         |
+| Construction of new buildings                                                                                           | CCM 7.1/CE 3.1 | 7,078        | 48.50%                         | EL                              | N/EL                            | N/EL       | N/EL                              | EL                  | N/EL         |
+| Renovation of existing buildings                                                                                        | CCM 7.2/CE 3.2 | 54           | 0.40%                          | EL                              | N/EL                            | N/EL       | N/EL                              | EL                  | N/EL         |
+| Installation, maintenance and repair of charging<br>stations for electric vehicles in buildings                         | CCM 7.4        | 49           | 0.30%                          | EL                              | N/EL                            | N/EL       | N/EL                              | N/EL                | N/EL         |
+| Acquisition and ownership of buildings                                                                                  | CCM 7.7        | 1,215        | 8.30%                          | EL                              | N/EL                            | N/EL       | N/EL                              | N/EL                | N/EL         |
+| Data processing, hosting and related activities                                                                         | CCM 8.1        | 155          | 1.10%                          | EL                              | N/EL                            | N/EL       | N/EL                              | N/EL                | N/EL         |
+| Manufacture of electrical and<br>electronic equipment                                                                   | CE 1.2         | 394          | 2.70%                          | N/EL                            | N/EL                            | N/EL       | N/EL                              | EL                  | N/EL         |
+| CapEx of taxonomy-eligible<br>but not environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2) |                | 9,760        | 66.80%                         | 64.10%                          | 0%                              | 0%         | 0%                                | 2.70%               | 0%           |
+| A. CapEx of taxonomy-eligible activities (A.1 + A.2)                                                                    |                | 9,760        | 66.80%                         | 64.10%                          | 0%                              | 0%         | 0%                                | 2.70%               | 0%           |
+| B. Taxonomy-non-eligible activities                                                                                     |                |              |                                |                                 |                                 |            |                                   |                     |              |
+| CapEx of taxonomy-non-eligible activities                                                                               |                | 4,841        | 33.2%                          |                                 |                                 |            |                                   |                     |              |
+| Total                                                                                                                   |                | 14,602       | 100%                           |                                 |                                 |            |                                   |                     |              |
+
+## Page 55
+
+|  |  |  |  |  |  | DNSH criteria ("does not significantly harm") |                                 |       |           |                     |              |                       |                                                                               |                                  |
+|--|--|--|--|--|--|-----------------------------------------------|---------------------------------|-------|-----------|---------------------|--------------|-----------------------|-------------------------------------------------------------------------------|----------------------------------|
+|  |  |  |  |  |  | Climate<br>change<br>mitigation               | Climate<br>change<br>adaptation | Water | Pollution | Circular<br>economy | Biodiversity | Minimum<br>safeguards | Proportion of<br>taxonomy-aligned (A.1.)<br>or eligible (A.2.)<br>CapEx, 2022 | Category<br>enabling<br>activity |
+|  |  |  |  |  |  | (11)                                          | (12)                            | (13)  | (14)      | (1)                 | (16)         | (17)                  | (18)                                                                          | (19)                             |
+|  |  |  |  |  |  | Y/N                                           | Y/N                             | Y/N   | Y/N       | Y/N                 | Y/N          | Y/N                   | %                                                                             | E                                |
+|  |  |  |  |  |  |                                               |                                 |       |           |                     |              |                       | 0                                                                             |                                  |
+|  |  |  |  |  |  |                                               |                                 |       |           |                     |              |                       | 0                                                                             | E                                |
+|  |  |  |  |  |  |                                               |                                 |       |           |                     |              |                       | 0                                                                             |                                  |
+
+Template: Proportion of CapEx from products or services associated with taxonomy-aligned economic activities –
+
+disclosure covering 2023
+
+A.2 Taxonomy-eligible
+
+but not environmentally sustainable activities (not taxonomy-aligned activities) Electricity generation using solar photovoltaic technology
+
+**B. Taxonomy-non-eligible activities**
+
+CapEx of taxonomy-non-eligible activities 4,841 33.2 % Total 14,602 100 %
+
+| Electricity generation using<br>CCM 4.1<br>282<br>1.90 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>solar photovoltaic technology                                  | 0 %     |  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--|
+| Operation of personal mobility devices,<br>CCM 6.4<br>38<br>0.30 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>cycle logistics                                      | 0.36 %  |  |
+| Transport by motorbikes, passenger cars<br>CCM 6.5<br>494<br>3.40 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>and light commercial vehicles                       | 2.69 %  |  |
+| Construction of new buildings<br>CCM 7.1/CE 3.1<br>7,078<br>48.50 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>EL<br>N/EL                                                          | 0 %     |  |
+| Renovation of existing buildings<br>CCM 7.2/CE 3.2<br>54<br>0.40 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>EL<br>N/EL                                                           | 0 %     |  |
+| Installation, maintenance and repair of charging<br>CCM 7.4<br>49<br>0.30 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>stations for electric vehicles in buildings | 0 %     |  |
+| Acquisition and ownership of buildings<br>CCM 7.7<br>1,215<br>8.30 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL                                                       | 18.99 % |  |
+| Data processing, hosting and related activities<br>CCM 8.1<br>155<br>1.10 %<br>EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>N/EL                                                | 4.59 %  |  |
+| Manufacture of electrical and<br>CE 1.2<br>394<br>2.70 %<br>N/EL<br>N/EL<br>N/EL<br>N/EL<br>EL<br>N/EL<br>electronic equipment                                           | 0 %     |  |
+| CapEx of taxonomy-eligible<br>9,760<br>66.80 %<br>64.10 %<br>0 %<br>0 %<br>0 %<br>2.70 %<br>0 %                                                                          |         |  |
+| but not environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2)                                                                                |         |  |
+| A. CapEx of taxonomy-eligible activities (A.1 + A.2)<br>9,760<br>66.80 %<br>64.10 %<br>0 %<br>0 %<br>0 %<br>2.70 %<br>0 %                                                | 27 %    |  |
+
+## Page 56
+
+#### Template: Proportion of OpEx from products or services associated with taxonomy-aligned economic activities – disclosure covering 2023
+
+|                                                                                                                        |         | 2023         |                            |  |                                 |                                 |            |            | Substantial contribution criteria |
+|------------------------------------------------------------------------------------------------------------------------|---------|--------------|----------------------------|--|---------------------------------|---------------------------------|------------|------------|-----------------------------------|
+| Financial year 2023                                                                                                    |         |              |                            |  |                                 |                                 |            |            |                                   |
+| Economic activities (1)                                                                                                | Code(a) | OpEx         | Proportion<br>of OpEx 2023 |  | Climate<br>change<br>mitigation | Climate<br>change<br>adaptation | Water      | Pollution  | Circular<br>economy               |
+|                                                                                                                        | (2)     | (3)          | (4)                        |  | (5)                             | (6)                             | (7)        | (8)        | (9)                               |
+|                                                                                                                        |         | EUR thousand | %                          |  | Y; N; N/EL                      | Y; N; N/EL                      | Y; N; N/EL | Y; N; N/EL | Y; N; N/EL                        |
+| A. Taxonomy-eligible activities                                                                                        |         |              |                            |  |                                 |                                 |            |            |                                   |
+| A.1 Environmentally sustainable activities<br>(taxonomy-aligned)                                                       |         |              |                            |  |                                 |                                 |            |            |                                   |
+| OpEx of environmentally sustainable activities<br>(taxonomy-aligned) (A.1)                                             |         |              | 0%                         |  | 0%                              | 0%                              | 0%         | 0%         | 0%                                |
+| Of which enabling                                                                                                      |         |              | 0%                         |  | 0%                              | 0%                              | 0%         | 0%         | 0%                                |
+| Of which transitional                                                                                                  |         |              | 0%                         |  | 0%                              | 0%                              | 0%         | 0%         | 0%                                |
+| A.2 Taxonomy-eligible<br>but not environmentally sustainable activities<br>(not taxonomy-aligned activities)           |         |              |                            |  |                                 |                                 |            |            |                                   |
+| OpEx of taxonomy-eligible<br>but not environmentally sustainable activities<br>(not taxonomy-aligned activities) (A.2) | –       |              | 0%                         |  | 0%                              | 0%                              | 0%         | 0%         | 0%                                |
+| A. OpEx of taxonomy-eligible activities (A.1 + A.2)                                                                    | –       |              | 0%                         |  | 0%                              | 0%                              | 0%         | 0%         | 0%                                |
+| B. Taxonomy-non-eligible activities                                                                                    |         |              |                            |  |                                 |                                 |            |            |                                   |
+| OpEx of taxonomy-non-eligible activities                                                                               |         | 12,100       | 100%                       |  |                                 |                                 |            |            |                                   |
+| Total                                                                                                                  |         | 12,100       | 100%                       |  |                                 |                                 |            |            |                                   |
+
+## Page 57
+
+|      | DNSH criteria ("does not significantly harm") |                                 |       |           |                     |              |                       |                                                                                       |                                  |                                      |
+|------|-----------------------------------------------|---------------------------------|-------|-----------|---------------------|--------------|-----------------------|---------------------------------------------------------------------------------------|----------------------------------|--------------------------------------|
+|      | Climate<br>change<br>mitigation               | Climate<br>change<br>adaptation | Water | Pollution | Circular<br>economy | Biodiversity | Minimum<br>safeguards | Proportion of<br>taxonomy-aligned (A.1.)<br>or taxonomy-eligible<br>(A.2.) OpEx, 2022 | Category<br>enabling<br>activity | Category<br>transitional<br>activity |
+| (11) | (12)                                          | (13)                            | (14)  | (1)       | (16)                | (17)         | (18)                  | (19)                                                                                  | (20)                             |                                      |
+| Y/N  | Y/N                                           | Y/N                             | Y/N   | Y/N       | Y/N                 | Y/N          | %                     | E                                                                                     |                                  |                                      |
+|      |                                               |                                 |       |           |                     |              |                       |                                                                                       |                                  |                                      |
+|      |                                               |                                 |       |           |                     |              |                       | E                                                                                     |                                  |                                      |
+|      |                                               |                                 |       |           |                     |              |                       |                                                                                       | T                                |                                      |
+|      |                                               |                                 |       |           |                     |              |                       |                                                                                       |                                  |                                      |
+
+Template: Proportion of OpEx from products or services associated with taxonomy-aligned economic activities –
+
+A. OpEx of taxonomy-eligible activities (A.1 + A.2) – 0 % 0 % 0 % 0 % 0 % 0 % 0 %
+
+– 0 % 0 % 0 % 0 % 0 % 0 % 0 %
+
+disclosure covering 2023
+
+but not environmentally sustainable activities (not taxonomy-aligned activities) OpEx of taxonomy-eligible
+
+but not environmentally sustainable activities (not taxonomy-aligned activities) (A.2)
+
+OpEx of taxonomy-non-eligible activities 12,100 100 % Total 12,100 100 %
+
+**B. Taxonomy-non-eligible activities**
+
+## Page 58
+
+# **Macroeconomic environment and sector development**
+
+The macroeconomic and sector-specific conditions primarily concern PVA TePla AG's subsidiaries. However, since PVA TePla AG generates the bulk of its income from profit transfer agreements with its subsidiaries, these conditions are not only relevant for the PVA TePla Group as a whole, but also for the holding company as a stock corporation under German law (AG).
+
+The Kiel Institute Economic Outlook<sup>9</sup> published by the Kiel Institute for the World Economy (IfW) shows that – although economic expansion was moderate – the global economy fared better than expected in 2023, even faced with the inflation shock and the massive tightening of monetary policy. Inflation is now falling rapidly and monetary policymakers are likely to start cutting interest rates as early as the first half of 2024. However, an economic upturn is not yet on the horizon. The high degree of uncertainty surrounding general economic conditions and the lack of fiscal policy stimulus are curbing growth in advanced economies. In China, economic momentum remains lackluster due to structural problems. The outlook for the coming year foresees a 2.8 percent rise in global production (measured at purchasing power parities) compared with 3.1 percent in 2023. The global economy is expected to recover in 2025, growing by 3.2 percent. This forecast remains largely unchanged compared with the fall outlook. According to experts, unemployment in advanced economies is likely to rise slightly in the near future but remain at a historically low level. The underlying upward price trend has significantly eased recently and it is anticipated that inflation rates will settle close to target levels again by 2025.
+
+Industrial production and global trade remain sluggish. Despite a slight rise in the summer, global industrial production in September 2023 was barely any higher than at the beginning of 2022. The low level of the manufacturing purchasing managers' indices points to momentum remaining weak for the time being. Global trade is significantly down on the prior-year level. Nor are there any clear signs of a recovery here. The Kiel Trade Indicator, which estimates global trade flows based on real-time data from container shipping, has recently declined again. According to the IfW, this reflects the ongoing challenges and uncertainties facing the global economy.
+
+#### **Expected recovery in the eurozone: forecasts point to gradual growth**
+
+Following its strong recovery after the pandemic, the eurozone economy is currently in a phase of sluggish growth. The economy has stagnated as a result of the higher cost of living curbing consumption, deteriorating financing conditions caused by the rapid tightening of monetary policy and weak external economic stimuli.
+
+As the year progresses, the European economy should gradually regain momentum. On the one hand, real wages are rising again due to accelerated wage growth and declining inflation, which is favoring a revival in private consumption. On the other, financing conditions are expected to improve with the anticipated easing of monetary policy. The external economic environment should also brighten. Nevertheless, it is anticipated that GDP growth will remain relatively weak at 0.8 percent in 2024 after 0.5 percent in 2023, only accelerating to 1.5 percent in 2025.
+
+Inflation is expected to fall from an average of 5.4 percent in 2023 to 2.2 percent (2024) and 1.9 percent (2025), thus closing in on the European Central Bank's inflation target.
+
+## Page 59
+
+#### **Structural challenges weigh on China's economy**
+
+Despite an unexpectedly strong third-quarter increase of 1.3 percent in gross domestic product, the economic outlook for China remains subdued. The crisis on the real estate market is continuing, accompanied by declining investments and negative financial impacts. Worsening labor market opportunities, high youth unemployment and increased uncertainty are weighing on consumer confidence. At the same time, falling revenues and high communal debt are curbing public investment. The country's central government is endeavoring to improve the situation through debt restructuring programs and has already implemented various measures to stimulate the economy – so far with little apparent success. China's overall lower growth rate trend is expected to persist, also due to negative demographic developments and changes in trade policy. GDP growth is likely to fall from 5.4 percent in 2023 to 4.7 percent in 2024 and 4.6 percent in 2025.
+
+#### **A soft landing in the USA**
+
+Although gross domestic product in the USA rose by a surprising 1.3 percent in the third quarter of 2023, the country's economic momentum is forecast to weaken noticeably. A recession is no longer expected. Yet the subdued corporate mood and weakening labor market trend are pointing to a slowdown. Positive signals are coming from the strong growth in corporate investment, which is being supported by government programs. Private consumption will probably increase further as real wages rise and the savings accrued during the COVID-19 crisis are utilized. To date, the restrictive monetary policy has had a particularly noticeable impact on residential construction. The recession in that sector is projected to end in the current year, partly because mortgage interest rates appear to have peaked. Experts put GDP growth in 2023 at 2.4 percent, with growth of 1.5 percent and 2.0 percent expected for 2024 and 2025, respectively. The unemployment rate is likely to rise slightly to 4.4 percent during the forecast period, while the inflation rate should gradually approach the Fed's target.
+
+#### **Industry development**
+
+World Semiconductor Trade Statistics (WSTS)10 has revised its forecast for the global semiconductor market. The estimated market valuation has been updated to USD 520 billion for 2023, corresponding to a year-on-year decline of 9.4 percent.
+
+Despite this contraction, there are signs of some degree of recovery in certain segments. According to estimates, discrete semiconductors – especially power semiconductors – saw year-on-year growth of 5.8 percent.
+
+Regional differences characterize the picture for 2023, with only the European market forecast to have grown by 5.9 percent. Declines are likely in the other regions, including the Americas (– 6.1 percent), the Asia-Pacific region (– 14.4 percent) and Japan (– 2.0 percent).
+
+Despite the challenges in 2023, a robust recovery is expected in 2024, with estimated growth of 13.1 percent and a market valuation of USD 588 billion. This growth will be driven primarily by the memory sector, which is forecast to expand by more than 40 percent year on year. Other main segments are also expected to record single-digit growth, and all regions – particularly the Americas and Asia-Pacific – look set for further growth.
+
+## Page 60
+
+According to SEMI11 in its most recent quarterly World Fab Forecast Report, global semiconductor capacity increased by a projected 5.5 percent to 29.6 million wafers per month (wpm) in 2023. This growth is being driven by capacity expansions in areas such as generative AI applications and high-performance computing (HPC), as well as by the recovery in the final demand for chips.
+
+Global semiconductor capacity is anticipated to increase by a further 6.4 percent in 2024, reaching the 30 million wpm mark for the first time. This forecast is based on rising market demand, higher investment in chip factories and a broader recovery across the industry.
+
+11 https://semi.org/en/news-media-press-releases/semi-press-releases/global-semiconductor-capacity-projected-to-reach-record-high-30-millionwafers-per-month-in-2024-semi-reports
+
+## Page 61
+
+### **Business development of the Group**
+
+2023 was another successful year for PVA TePla. We significantly increased revenue thanks to forward-looking procurement planning and inventory building despite tight supply and logistics chains. We ended fiscal year 2023 with a 28-percent increase in revenue to EUR 263.4 million and an EBITDA margin of 15.8 percent. In particular, an improved gross margin and economies of scale contributed to the positive earnings performance.
+
+In our forecast for fiscal year 2023, we had anticipated revenue in the range of EUR 240 million to EUR 260 million and operating earnings before interest, taxes, depreciation and amortization (EBITDA) of between EUR 36 million and EUR 40 million. We exceeded this forecast.
+
+#### **Key performance indicators of the PVA TePla Group**
+
+| in EUR million                         | 2022  | 2023  | Change   |
+|----------------------------------------|-------|-------|----------|
+| Revenue                                | 205.2 | 263.4 | + 28.4 % |
+| Gross profit                           | 59.1  | 77.5  | + 31.1 % |
+| EBITDA                                 | 30.0  | 41.5  | + 38.3 % |
+| EBITDA margin (%)                      | 14.6  | 15.8  | + 1.2 pp |
+| EBIT                                   | 25.1  | 34.4  | + 37.1 % |
+| EBIT margin (%)                        | 12.2  | 13.0  | + 0.8 pp |
+| Profit before taxes                    | 23.8  | 34.1  | + 43.3 % |
+| Consolidated net profit for the period | 17.7  | 24.4  | + 37.9 % |
+
+#### **Orders**
+
+Order intake and order backlog (Comparison 2022–2023, EUR million)
+
+Image /page/60/Figure/8 description: This image shows a bar chart comparing order intake and order backlog for industrial systems and semiconductor systems in 2022 and 2023. For order intake, industrial systems had 82.4 in 2022 and 79.4 in 2023, while semiconductor systems had 152.6 in 2022 and 142.4 in 2023. For order backlog, industrial systems had 104.4 in 2022 and 103.9 in 2023, while semiconductor systems had 219.9 in 2022 and 174.3 in 2023. The total order intake was 235.0 in 2022 and 221.8 in 2023. The total order backlog was 324.3 in 2022 and 278.3 in 2023.
+
+## Page 62
+
+The order backlog of the PVA TePla Group fell to EUR 278.3 million from the very high level of EUR 324.3 million on the prior-year reporting date. The main reasons for this 14.2-percent decline are the high number of orders executed in the last calendar quarter of fiscal year 2023 and a changed order mix with shorter lead times. Overall, demand remains stable and the persistently high order backlog continues to ensure the good visibility of the business. The Semiconductor Systems operating segment accounted for EUR 174.3 million (previous year: EUR 219.9 million) and Industrial Systems for EUR 103.9 million (previous year: EUR 104.4 million) of the order backlog at the reporting date.
+
+At EUR 221.8 million, order intake was 5.6 percent below the previous year's level of EUR 235.0 million, with a book-to-bill ratio (i.e. the ratio of incoming orders to revenue) of 0.84.
+
+In the Semiconductor Systems operating segment, order intake amounted to EUR 142.4 million (previous year: EUR 152.6 million) and mainly comprised orders from the semiconductor industry for metrology and crystal growing systems.
+
+Order intake in the Industrial Systems operating segment amounted to EUR 79.4 million (previous year: EUR 82.4 million). The orders relate to technologies such as those used in the aerospace, medical technology and optical industries.
+
+#### **Revenue and results of operations**
+
+Overall, we generated consolidated revenue of EUR 263.4 million in fiscal year 2023, which corresponds to growth of around 28 percent compared with EUR 205.2 million in the previous reporting period.
+
+Image /page/61/Figure/7 description: The image shows the consolidated revenue from January 1 to December 31 in EUR million. In 2022, the revenue was 205.2, and in 2023, it was 263.4, which is a 28% increase. The revenue is divided into two categories: Industrial Systems and Semiconductor Systems. Industrial Systems account for 29% of the revenue, while Semiconductor Systems account for 71%.
+
+The Semiconductor Systems operating segment accounted for EUR 186.1 million, or – as in the previous year – 71 percent of revenue, and the Industrial Systems operating segment for EUR 77.4 million, or 29 percent (previous year: 29 percent). One customer based in Germany and one customer based in the Netherlands each contributed more than 10 percent to consolidated revenue in the reporting period.
+
+## Page 168
+
+In our opinion, the reproductions of the consolidated financial statements and the combined management report contained in the above-mentioned file and prepared for publication purposes comply, in all material respects, with the requirements of Section 328 (1) HGB for the electronic reporting format. Beyond this audit opinion and our audit opinions on the accompanying consolidated financial statements and on the accompanying combined management report for the financial year from January 1, 2023 to December 31, 2023 contained in the "REPORT ON THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS AND OF THE COMBINED MANAGEMENT REPORT" above, we do not express any audit opinion on the information contained in these reproductions or on the other information contained in the above-mentioned file.
+
+#### **Basis for the audit opinion**
+
+We conducted our audit of the reproduction of the consolidated financial statements and of the combined management report contained in the above-mentioned file in accordance with Section 317 (3a) HGB and IDW Auditing Standard: Audit of the Electronic Reproduction of Financial Statements and Management Reports Prepared for Publication Purposes in Accordance with Section 317 (3a) HGB (IDW PS 410 (06.2022)). Our responsibilities under those requirements are further described in the "Auditor's responsibilities for the audit of the ESEF documents" section. Our audit practice has applied the requirements of the IDW Quality Management Standards, which implement the International Standards on Quality Management of the IAASB.
+
+#### **Responsibility of the legal representatives and the Supervisory Board for the ESEF documents**
+
+The executive directors of the company are responsible for the preparation of the ESEF documents including the electronic reproduction of the consolidated financial statements and the combined management report in accordance with Section 328 (1) sentence 4 no. 1 HGB and for the tagging of the consolidated financial statements in accordance with Section 328 (1) sentence 4 no. 2 HGB.
+
+Furthermore, the company's management is responsible for such internal control as they have determined necessary to enable the preparation of ESEF documents that are free from material non-compliance, whether due to fraud or error, with the requirements of Section 328 (1) HGB for the electronic reporting format.
+
+The Supervisory Board is responsible for overseeing the process of preparing the ESEF documents as part of the financial reporting process.
+
+## Page 169
+
+#### **Auditor's responsibility for the audit of the ESEF documents**
+
+Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material – intentional or unintentional – non-compliance with the requirements of Section 328 (1) HGB. During the audit, we exercise professional judgment and maintain professional skepticism. In addition
+
+- Identify and assess the risks of material non-compliance with the requirements of Section 328 (1) HGB, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.
+- Obtain an understanding of internal control relevant to the audit of the ESEF documentation in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of these controls.
+- we assess the technical validity of the ESEF documents, i.e. whether the file containing the ESEF documents meets the requirements of Delegated Regulation (EU) 2019/815 in the version applicable at the reporting date for the technical specification for this file.
+- Evaluate whether the ESEF documents enable an XHTML reproduction with content equivalent to the audited consolidated financial statements and the audited combined management report.
+- we assess whether the tagging of the ESEF documents with Inline XBRL technology (iXBRL) in accordance with Articles 4 and 6 of the Delegated Regulation (EU) 2019/815 in the version applicable at the reporting date provides an adequate and complete machine-readable XBRL copy of the XHTML reproduction.
+
+#### **Other information in accordance with article 10 EU-APrVO**
+
+We were elected as auditor by the annual general meeting on June 28, 2023. We were engaged by the chairman of the audit committee on July 17, 2023. We have been the auditor of PVA TePla AG without interruption since the financial year 2022.
+
+We declare that the audit opinions expressed in this auditor's report are consistent with the additional report to the audit committee pursuant to Article 11 of the EU Audit Regulation (audit report).
+
+#### **Other matters – use of the audit opinion**
+
+Our audit opinion should always be read in conjunction with the audited consolidated financial statements and the audited combined management report as well as the audited ESEF documents. The consolidated financial statements and the combined management report converted into the ESEF format – including the versions to be filed in the company register – are merely electronic reproductions of the audited consolidated financial statements and the audited combined management report and do not replace them. In particular, the ESEF report and our audit opinion contained therein can only be used in conjunction with the audited ESEF documents provided in electronic form.
+
+## Page 170
+
+#### **Responsible auditor**
+
+The German Public Auditor responsible for the engagement is Alexander Gebhardt.
+
+#### **Appendix to the auditor's report: components of the combined management report not audited for content**
+
+We have not audited the content of the following components of the combined management report:
+
+- the combined non-financial statement contained in the combined management report, which is included in the chapters of the combined management report and to the extent that they are marked in tabular form in the section "About this report" as not being part of the management report and as unaudited, as well as the chapter "EU Taxonomy"
+- the (Group) declaration on corporate governance contained in the section "Declaration on corporate governance and corporate governance report" of the combined management report
+- the information contained in the combined management report that is not part of the management report and is marked as unaudited. These include
+
+the section "Principles and objectives of the internal control system (ICS) and risk management system (RMS)"
+
+Frankfurt a. M., March 12, 2024
+
+BDO AG Auditing company
+
+signed Weiler signed Gebhardt Certified Public Accountant Certified Public Accountant
+
+signed Gebhardt
+Certified Public Accountant
+
+## Page 171
+
+### **Independent auditor's report on a limited assurance engagement on the consolidated non-financial statement**
+
+#### **To PVA TePla AG, Wettenberg**
+
+We have performed a limited assurance engagement on the combined non-financial group statement of PVA TePla AG, Wettenberg (hereinafter: PVA TePla or the Company), for the period from January 1 to December 31, 2023 (hereinafter the "non-financial group statement") included in the combined management report according to the table "Contents of the combined non-financial group statement" in the section "About this report".
+
+The external sources of documentation or expert opinions referred to in the non-financial group statement are not subject to our audit.
+
+#### **Responsibility of the legal representatives**
+
+The executive directors of the company are responsible for the preparation of the non-financial group statement in accordance with §§ 315c in conjunction with 289c to 289e HGB and Article 8 of REGULATION (EU) 2020/852 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2020 on the establishment of a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 June 2020 on the establishment of a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 (hereinafter referred to as the "EU Taxonomy Regulation") and the delegated acts adopted in this regard, as well as with their own interpretation of the wording and terms contained in the EU Taxonomy Regulation and the delegated acts adopted in this regard, as presented in the "EU Taxonomy" section of the non-financial group statement.
+
+This responsibility of the legal representatives of the company includes the selection and application of appropriate methods for non-financial reporting as well as making assumptions and estimates for individual non-financial disclosures of the Group that are reasonable in the circumstances. Furthermore, the legal representatives are responsible for the internal controls they have deemed necessary to enable the preparation of a non-financial Group statement that is free from material misstatement, whether due to fraud (manipulation of the non-financial statement) or error.
+
+The EU Taxonomy Regulation and the related delegated acts contain formulations and terms that are still subject to considerable interpretation uncertainty and for which clarifications have not yet been published in every case. The legal representatives have therefore set out their interpretation of the EU Taxonomy Regulation and the delegated acts adopted in this regard in the "EU Taxonomy" section of the non-financial Group statement. They are responsible for the reasonableness of this interpretation. Due to the inherent risk that undefined legal terms can be interpreted differently, the legal conformity of the interpretation is subject to uncertainty.
+
+## Page 172
+
+#### **Independence and quality management of the auditing company**
+
+We have complied with the German professional regulations on independence and other requirements of professional conduct.
+
+Our auditing firm applies the national statutory regulations and professional pronouncements – in particular the Professional Code of Conduct for German Public Auditors and Chartered Accountants (BS WP/vBP) and the IDW Quality Management Standards issued by the Institute of Public Auditors in Germany (IDW) – and accordingly maintains a comprehensive quality management system that includes documented regulations and measures relating to compliance with professional conduct requirements, professional standards and relevant statutory and other legal requirements.
+
+#### **Responsibility of the auditor**
+
+Our responsibility is to express a limited assurance conclusion on the consolidated non-financial statement based on our audit.
+
+We conducted our assurance engagement in accordance with the International Standard on Assurance Engagements (ISAE) 3000 (Revised): "Assurance Engagements other than Audits or Reviews of Historical Financial Information", issued by the IAASB. This Standard requires that we plan and perform the assurance engagement to obtain limited assurance about whether any matters have come to our attention that cause us to believe that the non-financial group statement of the Company, other than the external documentation sources or expert opinions referred to in the non-financial group statement, is not prepared, in all material respects, in accordance with § 315c in conjunction with § 289c to 289c of the German Commercial Code (HGB).289c to 289e HGB of the EU Taxonomy Regulation and the related delegated acts as well as the interpretation by the legal representatives presented in section EU Taxonomy of the non-financial group statement.
+
+In a limited assurance engagement, the audit procedures performed are less extensive than in a reasonable assurance engagement and therefore considerably less assurance is obtained. The selection of audit procedures is at the auditor's discretion.
+
+As part of our audit, we performed, among others, the following audit procedures and other activities:
+
+- Gaining an understanding of the structure of the Group's sustainability organization and the involvement of stakeholders
+- Interviews with employees responsible for the materiality analysis at Group level to gain an understanding of PVA Tepla's approach to identifying material topics and corresponding reporting boundaries
+- A risk assessment, including a media analysis, of relevant information on PVA Tepla's sustainability performance in the reporting period
+- Assessment of the suitability of the internally developed definitions
+- Assessment of the design and implementation of systems and processes for the collection, processing and monitoring of data on environmental, labor and social matters, respect for human rights, anti-corruption and anti-bribery, including the consolidation of data
+- Inquiries of personnel at group level and the legal representatives who are responsible for the determination of disclosures on concepts, due diligence processes, results and risks, as well as for the implementation of internal control procedures and the consolidation of disclosures
+- Inspection of selected internal and external documents
+- Analytical assessment of the data and trends of the quantitative data reported for consolidation at Group level by all locations
+
+## Page 173
+
+- Reconciliation of selected disclosures with the corresponding data in the consolidated financial statements and the other components of the Group management report
+- Evaluation of the process for identifying taxonomy-eligible economic activities and the corresponding disclosures in the non-financial group statement
+- Assessment of the overall presentation of the information
+
+In determining the disclosures pursuant to Article 8 of the EU Taxonomy Regulation, the executive directors are required to interpret undefined legal terms. Due to the inherent risk that undefined legal terms can be interpreted differently, the legal conformity of the interpretation and, accordingly, our audit in this regard is subject to uncertainty.
+
+#### **Audit opinion**
+
+Based on the assurance procedures performed and assurance evidence obtained, nothing has come to our attention that causes us to believe that the consolidated non-financial statement of PVA Tepla for the period from January 1 to December 31, 2023 has not been prepared, in all material respects, in accordance with Sections 315c in conjunction with 289c to 289e HGB and the EU Taxonomy Regulation and the related delegated acts as well as the interpretation by the executive directors as set out in the EU Taxonomy section of the consolidated non-financial statement.
+
+We do not express an opinion on the external documentation sources or expert opinions referred to in the Group nonfinancial statement.
+
+#### **Restriction on the use of the endorsement**
+
+We draw attention to the fact that the audit was conducted for the purposes of the company and that the report is only intended to inform the company about the results of the audit. Consequently, it is not suitable for any purpose other than the aforementioned. Thus, the report is not intended to be used by third parties to make (asset) decisions. Our responsibility is solely to the company. We do not accept any responsibility towards third parties. Our audit opinion is not modified in this respect.
+
+#### **Reference to order conditions**
+
+This engagement is based on the "Special Engagement Terms of BDO AG Wirtschaftsprüfungsgesellschaft" dated March 1, 2021 agreed with the company and the "General Engagement Terms for Wirtschaftsprüfer and Wirtschaftsprüfungsgesellschaften" issued by the IDW dated January 1, 2017 (www.bdo.de/auftragsbedingungen).
+
+Frankfurt a. M., March 12, 2024
+
+BDO AG Auditing company
+
+signed Gebhardt signed Möller
+
+Certified Public Accountant Partner Sustainability Services
+
+## Page 174
+
+### **GRI content index**
+
+PVA TePla AG has reported the information detailed in this GRI content index for the period from January 1 to December 31, 2023, with reference to the GRI Standards.
+
+| GRI 1: Foundation 2021           |                                                                                |                                                                                                                                                                                                                                             |
+|----------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GRI 2 – General Disclosures 2021 |                                                                                |                                                                                                                                                                                                                                             |
+| GRI Standard                     | Disclosure                                                                     | Reference                                                                                                                                                                                                                                   |
+| GRI 2-01                         | Organizational details                                                         | – Fundamentals of the Group<br>– Business activities and strategy<br>– Organizational structure<br>– Major locations and scope of consolidation<br>– Management system                                                                      |
+| GRI 2-02                         | Entities included in the organization's sustainability<br>reporting            | – Fundamentals of the Group<br>– Organizational structure<br>– Major locations and scope of consolidation                                                                                                                                   |
+| GRI 2-03                         | Reporting period, frequency and contact point                                  | – Fundamentals of the Group                                                                                                                                                                                                                 |
+| GRI 2-04                         | Restatements of information                                                    | – Research and development<br>– Energy consumption and greenhouse gas emissions                                                                                                                                                             |
+| GRI 2-06                         | Activities, value chain and other business relationships                       | – Business activities and strategy<br>– Organizational structure<br>– Major locations and scope of consolidation<br>– Research and development<br>– Respect for human rights                                                                |
+| GRI 2-07                         | Employees                                                                      | – Responsibility for our team                                                                                                                                                                                                               |
+| GRI 2-08                         | Workers who are not employees                                                  | – Respect for human rights                                                                                                                                                                                                                  |
+| GRI 2-09                         | Governance structure and composition                                           | – Management Board<br>– Governance structure<br>– Working methods of the Management Board and<br>Supervisory Board as well as the composition and<br>working methods of their committees<br>– Diversity                                     |
+| GRI 2-10                         | Nomination and selection of the highest governance body                        | – Working methods of the Management Board and<br>Supervisory Board as well as the composition and<br>working methods of their committees                                                                                                    |
+| GRI 2-11                         | Chair of the highest governance body                                           | – Supervisory Board<br>– Working methods of the Management Board and<br>Supervisory Board as well as the composition and<br>working methods of their committees                                                                             |
+| GRI 2-12                         | Role of the highest governance body in overseeing<br>the management of impacts | – Report of the Supervisory Board<br>– Sustainability                                                                                                                                                                                       |
+| GRI 2-13                         | Delegation of responsibility for managing impacts                              | – Sustainability                                                                                                                                                                                                                            |
+| GRI 2-14                         | Role of the highest governance body in sustainability<br>reporting             | – Report of the Supervisory Board<br>– Sustainability                                                                                                                                                                                       |
+| GRI 2-15                         | Conflicts of interest                                                          | – Working methods of the Management Board and<br>Supervisory Board as well as the composition and<br>working methods of their committees<br>– Declaration of conformity with the recommendations<br>of the German Corporate Governance Code |
+| GRI 2-16                         | Communication of critical concerns                                             | – Good corporate governance und compliance<br>– Whistleblowing                                                                                                                                                                              |
+| GRI 2-17                         | Collective knowledge of the highest governance body                            | –                                                                                                                                                                                                                                           |
+| GRI 2-18                         | Evaluation of the performance of the highest governance body                   | –                                                                                                                                                                                                                                           |
+| GRI 2-22                         | Statement on sustainable development strategy                                  | – Business activities and strategy<br>– Sustainability<br>– Materiality and stakeholder engagement<br>– Disclosures on corporate governance practices                                                                                       |
+| GRI 2-23                         | Policy commitments                                                             | – Business activities and strategy<br>– Sustainability<br>– Disclosures on corporate governance practices                                                                                                                                   |
+| GRI 2-25                         | Processes to remediate negative impacts                                        | – Good corporate governance and compliance<br>– Whistleblowing                                                                                                                                                                              |
+| GRI 2-26                         | Mechanisms for seeking advice and raising concerns                             | – Good corporate governance and compliance<br>– Whistleblowing                                                                                                                                                                              |
+| GRI 2-27                         | Compliance with laws and regulations                                           | – Responsible corporate governance<br>– Sustainability in the supply chain<br>– Respect for human rights<br>– Disclosures on corporate governance practices                                                                                 |
+| GRI 2-29                         | Approach to stakeholder engagement                                             | – Materiality and stakeholder engagement<br>– Respect for human rights<br>– Other corporate governance disclosures                                                                                                                          |
+| GRI 3 – Material Topics 2021     |                                                                                |                                                                                                                                                                                                                                             |
+| GRI 3-01                         | Guidance to determine material topics                                          | – Materiality and stakeholder engagement                                                                                                                                                                                                    |
+| GRI 3-02                         | List of material topics                                                        | – Contents of the combined nonfinancial statement<br>– Materiality and stakeholder engagement                                                                                                                                               |
+| GRI 200 – Economy                |                                                                                |                                                                                                                                                                                                                                             |
+| GRI 205                          | Anti-corruption 2016                                                           | – Good corporate governance and compliance<br>– Whistleblowing                                                                                                                                                                              |
+| GRI 205-2                        | Communication and training about anti-corruption policies and procedures       | – Good Corporate Governance und Compliance<br>– Whistleblowing                                                                                                                                                                              |
+| GRI 300 – Environment            |                                                                                |                                                                                                                                                                                                                                             |
+| GRI 302                          | Energy 2016                                                                    | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 302-1                        | Energy consumption within the organization                                     | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 302-4                        | Reduction of energy consumption                                                | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 305                          | Emissions 2016                                                                 | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 305-1                        | Direct (Scope 1) GHG emissions                                                 | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 305-2                        | Energy indirect (Scope 2) GHG emissions                                        | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 305-5                        | Reduction of GHG emissions                                                     | – Energy consumption and greenhouse gas emissions                                                                                                                                                                                           |
+| GRI 306                          | Effluents and Waste 2016                                                       | – Waste                                                                                                                                                                                                                                     |
+| GRI 306-2                        | Waste by type and disposal method                                              | – Waste                                                                                                                                                                                                                                     |
+| GRI 400 – Social                 |                                                                                |                                                                                                                                                                                                                                             |
+| GRI 401                          | Employment 2016                                                                | – Responsibility for our team<br>– Employee satisfaction                                                                                                                                                                                    |
+| GRI 401-1                        | New employee hires and employee turnover                                       | – Responsibility for our team<br>– Employee satisfaction                                                                                                                                                                                    |
+| GRI 401-2                        | Benefits                                                                       | – Responsibility for our team<br>– Employee satisfaction                                                                                                                                                                                    |
+| GRI 403                          | Occupational Health and Safety 2018                                            | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI 403-1                        | Occupational health and safety management system                               | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI 403-2                        | Hazard identification, risk assessment,<br>and incident investigation          | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI-403-3                        | Occupational health services                                                   | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI-403-5                        | Worker training on occupational health and safety                              | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI-403-6                        | Promotion of worker health                                                     | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI 403-9                        | Work-related injuries                                                          | – Occupational health and safety                                                                                                                                                                                                            |
+| GRI 404                          | Training and Education 2016                                                    | – Aus- und Weiterbildung                                                                                                                                                                                                                    |
+| GRI 404-2                        | Programs for upgrading employee skills and transition<br>assistance programs   | – Training and education                                                                                                                                                                                                                    |
+| GRI 405                          | Diversity and Equal Opportunity 2016                                           | – Responsibility for our team                                                                                                                                                                                                               |
+| GRI 405-1                        | Diversity of governance bodies and employees                                   | – Responsibility for our team                                                                                                                                                                                                               |
+
+## Page 175
+
+<MISSING_PAGE_TEXT>
+
+## Page 176
+
+<MISSING_PAGE_TEXT>
+
+## Page 177
+
+#### **Financial calendar**
+
+| May 15, 2024      | Interim Report Q1     |
+|-------------------|-----------------------|
+| May 16, 2024      | Capital Markets Day   |
+| June 26, 2024     | Shareholders' Meeting |
+| August 14, 2024   | Half year report      |
+| November 12, 2024 | Interim Report Q3     |
+
+#### **Imprint**
+
+PVA TePla AG Im Westpark 10 – 12 35435 Wettenberg Deutschland
+
+Phone +49 (0) 641 / 6 86 90-0 E-Mail info@pvatepla.com Internet www.pvatepla.com
+
+#### **Investor Relations**
+
+Dr. Gert Fisahn Phone +49 (0) 641/6 86 90-400 E-Mail gert.fisahn@pvatepla.com
+
+#### **Published by**
+
+PVA TePla AG
+
+This report is available for download in English and German on the Internet at www.pvatepla.com under Investor Relations / Financial Reports.
+
+In case of doubt the German version shall be authoritative.
+
+## Page 178
+
+Image /page/177/Picture/0 description: The image shows a pie chart with three sections in blue, light blue, and yellow. Around the pie chart are wireframe drawings of an airplane, an electric car charging, a cell phone, a pair of glasses, a solar panel, and a wind turbine.
+
+Image /page/177/Picture/1 description: The image shows the logo for PVA TePla. The logo consists of the letters "PVA" in gray, followed by a blue, gray, and yellow circle, and then the letters "TePla" in gray.

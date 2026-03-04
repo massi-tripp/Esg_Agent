@@ -1,0 +1,220 @@
+{
+  "company_slug": "omv_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\omv_ag\\2023\\omv_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\omv_ag\\2023\\focused\\omv_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "start_page": 8,
+      "end_page": 21,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "10": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "11": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "12": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities",
+                "Article 8"
+              ],
+              "13": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "14": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "15": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities"
+              ],
+              "16": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        32,
+        35
+      ],
+      "start_page": 30,
+      "end_page": 40,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "32": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "35": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        61
+      ],
+      "start_page": 59,
+      "end_page": 66,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "61": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        148,
+        153,
+        154,
+        155,
+        156,
+        158,
+        160
+      ],
+      "start_page": 146,
+      "end_page": 165,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "148": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "153": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "154": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "155": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "156": [
+                "Environmentally sustainable activities"
+              ],
+              "158": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "160": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        217,
+        220,
+        225,
+        226
+      ],
+      "start_page": 215,
+      "end_page": 226,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "217": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "220": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "225": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "226": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

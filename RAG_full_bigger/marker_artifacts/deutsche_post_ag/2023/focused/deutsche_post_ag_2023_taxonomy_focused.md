@@ -1,0 +1,1663 @@
+## Page 13
+
+Image /page/12/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in a smaller font, also in red. The background of the image is yellow.
+
+Only one extraordinary meeting of the Strategy and Sustainability Committee, along with three meetings of the Finance and Audit Committee to discuss the financial figures ahead of the quarterly reporting, took place as videoconferences. All members of the Supervisory Board took part in the plenary meetings; only Simone Menne was excused from one meeting. Attendance at plenary and committee meetings in 2023 is shown individually in the table. No member took part in fewer than three-fourths of the meetings. Meetings of the Supervisory Board were held regularly without the Board of Management members, for example on matters regarding the Board of Management and to review the efficiency of the Supervisory Board's work.
+
+The members of the Board of Management participated in all plenary meetings and reported on the business performance in the divisions for which they are responsible. The CEO and the members of the Board of Management responsible for the respective committee attended the committee meetings. Executives from the tier immediately below the Board of Management and the auditors were also invited to attend for individual agenda items. The members of the Financial and Audit Committee discussed individual matters with the auditors, also without the Board of Management members being present.
+
+#### Discussions with investors
+
+In the autumn of the past year, I held talks with several investors and proxies on topics that fall under the responsibility of the Supervisory Board. The talks focused on, among other topics, the ESG Roadmap of DHL Group, in particular governance aspects, and the anchoring of ESG criteria in the short- and long-term Board of Management remuneration, as well as the qualifications of the individual members of the Supervisory Board, which are shown in the curriculum vitae of the Supervisory Board members on the company's website and in table form in the **[Annual Corporate Governance Statement.](#page-115-0)** The professional experience and expertise of the new Supervisory Board members proposed by the Supervisory Board to the 2024 Annual General Meeting were discussed in detail, in consideration of their independence and the future composition of the committees. The Board of Management's intention to convene the 2024 Annual General Meeting once again as an in-person meeting was also positively received by the investors.
+
+#### Key topics addressed in plenary meetings
+
+All meetings centered on reporting and discussion of the Group's and its divisions' financial position and business performance, as well as information on the discussions of the committee meetings.
+
+Furthermore, the risks and opportunities for the company associated with environmental, social and governance (ESG) aspects were of importance, as well as the environmental and social impact of the company's current operations and the implementation of the sustainability strategy. There was also regular exchange with the Board of Management on digitalization, including the developments in the field of artificial intelligence. In addition to the strategic direction of the product portfolio in the Group as a whole, the impact of new regulatory parameters on the business in the Post & Parcel Germany division was also a material topic in the year under review.
+
+In March 2023, we discussed the annual and consolidated financial statements, including the management report and the nonfinancial statement. At the recommendation of the Finance and Audit Committee, we approved the financial statements that had been given an unqualified opinion by the audit firm PricewaterhouseCoopers (PwC). We concurred with the Board of Management's proposed resolution on the appropriation of the net retained profit and therefore a dividend distribution in the amount of €1.85 per share. In line with the finance strategy, 41.1% of net profit was thus distributed to the shareholders last year. Following many years of having our financial statements audited by PwC, the annual and consolidated financial statements for the 2023 fiscal year were audited by the audit firm Deloitte GmbH Wirtschaftsprüfungsgesellschaft (Deloitte), Munich, as resolved by the Annual General Meeting. The responsible auditors were Prof. Dr. Frank Beine and Dr. Hendrik Nardmann.
+
+Approval of the remuneration report, the report of the Supervisory Board to the Annual General Meeting and the proposed resolutions on the agenda items of the Annual General Meeting, including the (re-)election of Katrin Suder and Mario Daberkow to the Supervisory Board, were also the subject of the March meeting, as well as the determination of the annual bonus of Board of Management members on the basis of the respective degree of target achievement and corresponding recommendations of the Executive Committee. Our discussions also focused on the status of collective bargaining negotiations and the expansion of the volume of the current share program to as much as €3 billion in conjunction with the approval of a potential collection of up to 55 million further repurchased shares. Moreover, in this meeting, the Supervisory Board approved the establishment of a joint venture with Saudi Aramco.
+
+## Page 14
+
+Image /page/13/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in a smaller font, also in red. The background of the image is yellow.
+
+In the meeting in June, we discussed in particular the acquisition of the Turkish parcel service provider MNG Kargo. In addition, the agenda included the change of the Group name from Deutsche Post DHL Group to DHL Group and the approval of the adjustment of business responsibilities on the Board of Management. The allocation of business responsibilities was adjusted so that the Group Brand Marketing function was transferred to the responsibility of John Pearson. John Pearson is already responsible for the Customer Solutions & Innovation function and the Global Commercial Board. With the additional responsibility for the Group Brand Marketing function, significant commercial functions of the Group are now bundled under one umbrella.
+
+In September, our focus was on the reform of the Postal Act and the potential impact on the financial position and results of operations of the company. Without the presence of the Board of Management, we discussed at length the effectiveness and efficiency of our activities in the plenary meetings and in the committees. The subject of our analysis included collaboration within the Supervisory Board and with the members of the Board of Management, the work in the committees, the involvement of the Supervisory Board in the strategic direction of the company and the skills profile of the Supervisory Board. In preparation for this agenda item, the members of the Supervisory Board had completed a detailed questionnaire with selected questions on various topics, for example their satisfaction with the information provided and the frequency and structure of the Supervisory Board meetings. According to the results of our discussions, the Supervisory Board performed its monitoring and advisory duties effectively and efficiently. We will continue to include suggestions made by individual members of the Supervisory Board in our discussions between the annual efficiency reviews.
+
+In our final Supervisory Board meeting of the year in December, we approved the Group's business plan for 2024 after intense discussion, defined the annual bonus targets for the Board of Management members and addressed the topics of digitalization and the energy transition. We resolved to comply without limitation with the suggestions and recommendations of the German Corporate Governance Code in the year under review.
+
+#### Material topics of the committee meetings
+
+The six committees of the Supervisory Board prepare the plenary discussions and decisions and meet in advance of the plenary meetings. The committees have also been tasked with making the final decisions regarding a few matters, including Executive Committee approval for secondary activities of Board of Management members or Finance and Audit Committee approval of nonaudit services to be provided by the auditor. In the plenary meetings, the committee chairs provide the members of the Supervisory Board with comprehensive information on the work of the committees and are available for questions and further discussion. The **[Annual Corporate Governance Statement](#page-116-0)** provides information on the tasks of the committees and their members.
+
+The Executive Committee met four times in 2023 and dealt primarily with Board of Management matters, such as succession planning on the Board of Management, the discussion of the remuneration report to the Annual General Meeting, target achievement for annual bonus calculation for the previous year and the target agreements for the following year.
+
+The Finance and Audit Committee met seven times. Following the election of Deloitte as auditor by the Annual General Meeting, the Finance and Audit Committee commissioned the audit firm with the audit of the annual and consolidated financial statements and the audit review of the 2023 half-yearly report. The committee also commissioned Deloitte with the audit of the nonfinancial statement contained in the management report to obtain limited assurance and reasonable assurance regarding selected indicators and discussed the audit strategy, planning, results and quality with the auditors. The committee also discussed the halfyearly financial report following the review by the auditor and the quarterly financial statements with the CEO and the Board member for finance prior to publication, in the presence of the auditors. The committee monitored the independence of the auditor and had the auditor's nonaudit services submitted for approval. It also had reports submitted on the nonaudit services rendered in general as well as the status of the utilization of the statutory budget provided for this purpose. As the committee chair, Stefan Schulte was also in regular dialog with the auditor outside of the meetings regarding the progress of the audits and reported on this to the committee. Also covered at the meetings were the accounting process, risk management and the findings of internal audits. Moreover, the committee dealt intensively with the planned reform of the Postal Act and the impact on the financial situation and results of operations of the company. It obtained detailed reports from the Chief Compliance Officer on meaningful aspects of compliance and on updates to the compliance organization and compliance management. The effectiveness and development of the internal control and risk management system was also regularly presented and discussed in the presence of the responsible department head.
+
+## Page 15
+
+Image /page/14/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines to the left. The word "Group" is in red and is located to the right and below the DHL part of the logo. The background is yellow.
+
+The Strategy and Sustainability Committee met five times, primarily addressing the strategic positioning of the individual business units in their respective market segments and the implementation of our Strategy 2025. In addition, the committee dealt with the company's sustainability strategy and its implementation in detail and on an ongoing basis. The meetings also focused on the acquisition and disposal of equity interest in companies, such as the establishment of a joint venture between DHL Supply Chain and Saudi Aramco.
+
+The Nomination Committee met once during the reporting period. In preparation for the 2024 Annual General Meeting, the committee recommended to the Supervisory Board at the end of 2023 that it nominate Ann-Kristin Achleitner and Hans-Ulrich Engel for election to the Supervisory Board as successors to Simone Menne and Stefan Schulte, as well as Heinrich Hiesinger for reelection. The term of office for each is to be four years.
+
+The Mediation Committee did not meet in the year under review.
+
+The Personnel Committee held four meetings and dealt with, among other topics, the safety of employees, the status of collective bargaining negotiations, the promotion of women in executive positions, the results of the Employee Opinion Survey, the Groupwide corporate strategy for HR development, and the recruitment, retention and development of talents.
+
+#### Support of the members of the Supervisory Board
+
+The company supports the members of the Supervisory Board in their activities on an ongoing basis. New members are provided with a diverse and comprehensive range of offers that ensure quick and specific onboarding. In addition to the opportunity for thorough discussions with the members of the Board of Management, the chair and, if necessary, other members of the Supervisory Board, they are given a broad array of information on relevant subjects, primarily via access to the digital data room specifically designed for the Supervisory Board, which also contains the minutes from prior Supervisory Board meetings. The costs for attending selected external training events as well as those for subscribing to industry publications are also reimbursed. Along with visits to important operating sites of the Group in conjunction with a Supervisory Board meeting, the members of the Board of Management also offer tours of individual operating units that give the Supervisory Board members the opportunity to develop a full understanding of the operating processes by providing them with in-depth insights into the conditions at the sites. In June, for instance, the Supervisory Board toured the DHL hub in Leipzig, where – following an introductory lecture – it was led through the expansive premises during the busy evening hours and introduced to individual work processes and responsibilities. Various executives from the Express division, some of whom work on-site, were available to answer questions and to make recommendations. Directors' Day, which takes place twice per year, also enables the members of the Supervisory Board to deepen their understanding of current topics and developments that are relevant to the company. In 2023, the agenda consisted of the topics of regulation of the postal market, ESG key performance indicators as a basis for corporate governance and Board of Management remuneration, as well as updates on supply chain legislation, the Corporate Sustainability Reporting Directive and the EU Taxonomy.
+
+#### Changes to the Board of Management
+
+With Frank Appel's resignation after more than 20 years on the Board of Management, Tobias Meyer assumed the role of CEO upon the conclusion of the 2023 Annual General Meeting. He has been a member of the Board of Management since 2019 and was previously responsible for Post & Parcel Germany and Global Business Services. There were no other personnel changes during the reporting period.
+
+## Page 16
+
+Image /page/15/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters "DHL" is the word "Group" in red.
+
+#### Changes to the Supervisory Board
+
+With regard to shareholder representatives, Katja Windt resigned from the Supervisory Board after twelve years of membership effective upon conclusion of the Annual General Meeting on May 4, 2023. Her successor is Katrin Suder, a freelance corporate consultant. Mario Daberkow, a member of the Supervisory Board since 2018 and responsible for Global IT Infrastructure & Services at Volkswagen AG, was reelected by the Annual General Meeting. Katrin Suder and Mario Daberkow were each elected for a term of four years.
+
+The terms of office for Simone Menne, Heinrich Hiesinger and Stefan Schulte end as scheduled following the Annual General Meeting planned for May 3, 2024. In light of the rules of the German Corporate Governance Code, Simone Menne and Stefan Schulte are no longer eligible for reelection following their many years of membership on the Supervisory Board. The Supervisory Board recommends to the Annual General Meeting the election of Ann-Kristin Achleitner and Hans-Ulrich Engel and the reelection of Heinrich Hiesinger, each for a four-year term of office. Both candidates to be newly elected have extensive knowledge in the field of accounting and reporting in particular. The intention is to elect Hans-Ulrich Engel as the Chair of the Finance and Audit Committee, provided he is elected to the Board. The main skills of the members of the Supervisory Board can also be found in the qualification matrix in the **[Annual Corporate Governance Statement.](#page-115-0)**
+
+The term of office for the employee representatives on the Supervisory Board ended as scheduled at the end of the 2023 Annual General Meeting. Nearly all members were reelected for another term of office. Silke Busch was elected as a new member to succeed Gabriele Gülzau. The Supervisory Board confirmed Andrea Kocsis as Deputy Chair of the Supervisory Board and the reelected employee representatives in their committee positions.
+
+An overview of current Supervisory Board members is provided in **[Boards and committees.](#page-7-0)**
+
+#### Managing conflicts of interest
+
+Supervisory Board members neither hold positions on the governing bodies of, nor provide consultancy services to, the Group's main competitors, nor do they maintain personal relationships with them. No conflicts of interest were reported to the Supervisory Board in the year under review.
+
+#### Company in compliance with all recommendations of the German Corporate Governance Code
+
+In December 2023, the members of the Board of Management and the Supervisory Board issued a statement declaring that, since the issue of the declaration of conformity in December 2022, all recommendations of the Government Commission German Corporate Governance Code as amended on April 28, 2022, and published in the *Bundesanzeiger* (Federal Gazette) on June 27, 2022, had been complied with, and that all recommendations are to be complied with going forward. The statements from past years can be accessed on the company's website. Further information regarding corporate governance within the company can be found in the **[Annual Corporate Governance Statement.](#page-111-0)**
+
+#### 2023 annual and consolidated financial statements examined
+
+The auditors elected by the 2022 Annual General Meeting for 2023 for the first time, Deloitte GmbH Wirtschaftsprüfungsgesellschaft (Deloitte), Munich, audited the annual and consolidated financial statements for the 2023 fiscal year, including the combined management report, and issued unqualified audit opinions. Deloitte also audited the combined nonfinancial statement for the 2023 fiscal year separately in a limited and, for certain indicators, reasonable assurance engagement and raised no objections. Deloitte also conducted the voluntary review of the half-yearly financial report. No objections were raised. The joint remuneration report for the Board of Management and the Supervisory Board for the 2023 fiscal year was subjected to a formal audit and given a corresponding audit opinion in accordance with Section 162(3) AktG.
+
+After prior examination by the Finance and Audit Committee, the Supervisory Board in its meeting today went through the annual and consolidated financial statements, including the Board of Management's proposal on the appropriation of the net retained profit and the combined management report including the combined nonfinancial statement for the 2023 fiscal year, and discussed them in depth with the Board of Management. Deloitte reported on the results of the audit before the Finance and Audit Committee and plenary meeting and was available to answer questions. The Supervisory Board concurred with the results of the audit and approved the annual and consolidated financial statements for the 2023 fiscal year, as recommended by the Finance and
+
+## Page 17
+
+Image /page/16/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines to the left of the letters. Below the DHL part of the logo is the word "Group" in red.
+
+Audit Committee. No objections were raised on the basis of the final outcome of the examination by the Finance and Audit Committee and the Supervisory Board of the annual and consolidated financial statements, the combined management report including the combined nonfinancial statement, and the proposal for the appropriation of the net retained profit.
+
+The Supervisory Board endorsed the Board of Management's proposal for the appropriation of net retained profit and the payment of a dividend of €1.85 per share.
+
+The Supervisory Board would like to expressly thank all employees and Board of Management members for their dedicated efforts.
+
+Bonn, March 5, 2024 The Supervisory Board
+
+Dr. Nikolaus von Bomhard Chairman
+
+## Page 18
+
+<span id="page-17-0"></span>Image /page/17/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part of the logo is the word "Group" in red.
+
+### Preliminary Remarks
+
+#### Applied reporting standards
+
+As a listed company, Deutsche Post AG has prepared its consolidated financial statements in accordance with Section 315e Handelsgesetzbuch (HGB – German Commercial Code) in compliance with International Financial Reporting Standards (IFRSs) and the corresponding Interpretations of the International Accounting Standards Board (IASB) as adopted in the European Union.
+
+The combined management report comprises the Group Management Report of DHL Group and the Management Report of Deutsche Post AG. Unless otherwise noted, the information presented refers to the Group. Information pertaining solely to Deutsche Post AG is identified as such.
+
+The combined management report also includes the combined **[nonfinancial statement](#page-58-0)** for Deutsche Post AG and for the Group in accordance with Sections 289b(1) and 315b(1) HGB. The **[nonfinancial key performance indicators](#page-33-0)** used for steering the Group were determined on the basis of their materiality in accordance with the German Commercial Code and the German Accounting Standards (GASs). Determining the report contents and the material topics is guided by the GRI Standards (core option) as a framework, supplemented by HGB requirements. The nonfinancial statement also includes information aimed at facilitating sustainable investment (EU Taxonomy) in accordance with Article 8 of Regulation 2020/852 of the European Parliament and of the European Council, as well as Delegated Regulations 2021/2178 and 2023/2486 of the European Commission. In the interest of avoiding repetition, we refer to other sections of the combined management report for reporting on mandatory disclosures, provided that they already are explained in greater detail there. Information regarding employees applies to all of the Group's staff; exceptions are noted as such.
+
+#### Independent audit
+
+The consolidated financial statements of Deutsche Post AG and its subsidiaries and the combined management report for the fiscal year from January 1 to December 31, 2023, were audited by Deloitte GmbH Wirtschaftsprüfungsgesellschaft (Deloitte), Munich, in a reasonable assurance engagement, **[auditor's report.](#page-223-0)** This excludes quarterly figures during the year.
+
+The combined nonfinancial statement was audited separately by Deloitte on behalf of the Supervisory Board in a limited and, for certain indicators, reasonable assurance engagement, **[practitioner's report.](#page-231-0)**
+
+The contents of the **[Annual Corporate Governance Statement](#page-111-0)** pursuant to Section 289f and 315d HGB have not been audited.
+
+#### Forward-looking statements
+
+This report contains forward-looking statements that are not historical facts. They also include statements concerning assumptions and expectations that are based upon current plans, estimates and projections and the information available to Deutsche Post AG at the time this report was completed. They should not be considered to be assurances of future performance and results contained therein. Instead, they depend on a number of factors and are subject to various risks and uncertainties (particularly those described in the "Expected developments, opportunities and risks" section) and are based on assumptions that may prove to be inaccurate. It is possible that actual performance and results may differ from the forward-looking statements made in this report. Deutsche Post AG undertakes no obligation to update the forward-looking statements contained in this report except as required by applicable law. If Deutsche Post AG updates one or more forward-looking statements, no assumption can be made that the statement(s) in question or other forward-looking statements will be updated regularly.
+
+#### Disclosures unrelated to the management report
+
+The German Corporate Governance Code stipulates disclosures related to the internal control and risk management system that go beyond the legal requirements for the management report and are therefore excepted from the auditor's review of the contents of the management report. These disclosures are set apart from those to be audited in separate paragraphs and marked accordingly
+
+.
+
+## Page 19
+
+<span id="page-18-0"></span>Image /page/18/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters. There are three horizontal red lines to the left of the letters. The word "Group" is in red and is located below the letters. The background is yellow.
+
+#### Additional information
+
+In the annual report available digitally and as a PDF, we refer to – and link to – additional information online. This information is not a part of the report and is therefore excepted from the auditor's review of the contents.
+
+#### Translation
+
+The English version of the 2023 Annual Report of DHL Group constitutes a translation of the original German version. Only the German version is legally binding, insofar as this does not conflict with legal provisions in other countries.
+
+## GENERAL INFORMATION
+
+#### Business model
+
+#### An international service portfolio
+
+Deutsche Post AG, as the parent company of DHL Group, is a listed German corporation domiciled in Bonn. Under the DHL and Deutsche Post brands, DHL Group provides a wide-ranging portfolio of services comprising international express shipping, freight transport, supply chain management, e-commerce and post and parcel services. The Group is organized into five operating divisions: Express; Global Forwarding, Freight; Supply Chain; eCommerce; and Post & Parcel Germany. Each of the divisions is managed by its own divisional headquarters and subdivided into functions, business units or regions for reporting purposes.
+
+Group management functions are centralized in the Corporate Center. The internal services that support the entire Group are consolidated in our Global Business Services (GBS) unit. Customer Solutions & Innovation (CSI) is DHL's cross-divisional account management and innovation unit.
+
+## Page 20
+
+Image /page/19/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal lines to the left of the "D". Below the letters is the word "Group" in red.
+
+#### CORPORATE STRUCTURE AS OF DECEMBER 31, 2023
+
+Image /page/19/Figure/4 description: The image is a diagram illustrating the divisions and group functions of DHL Group. The diagram is divided into two main sections: Divisions and Group Functions. The Divisions section includes five divisions: Express, Global Forwarding, Freight, Supply Chain, E-commerce, and Post & Parcel Germany. Each division is represented by an image and a brief description of its services. Express provides transport of urgent documents and goods, primarily as time-definite international shipments. Global Forwarding, Freight offers international forwarding services for air, ocean, and overland freight. Supply Chain provides tailor-made logistics services and supply chain solutions based on globally standardized modules such as warehousing, transport, and value-added services. E-commerce provides domestic parcel transport in selected countries in Europe, the USA, and Asia, as well as deferred cross-border services to, from, and within Europe, and from the United States. Post & Parcel Germany transports, sorts, and delivers documents and goods in Germany and exports to the rest of the world. A pie chart shows the share of consolidated revenue for 2023, with the following percentages: 22.1%, 29.7%, 20.6%, 7.6%, and 20.1%. The Group Functions section includes Corporate Center, Global Business Services, and Customer Solutions & Innovation. Below these functions are CEO, Finance, and Human Resources. A note at the bottom indicates that '1' refers to Note 11 to the consolidated financial statements.
+
+#### Organizational changes
+
+After more than 15 years as CEO, Frank Appel's term of office as a member of the Board of Management expired at the end of the Annual General Meeting on May 4, 2023. Tobias Meyer, who has been a member of the Board of Management since April 2019, has been the CEO since that date.
+
+## Page 21
+
+<span id="page-20-0"></span>Image /page/20/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+As of July 1, 2023, the Group changed its name from Deutsche Post DHL Group to DHL Group and, since then, the exchange symbol has been DHL. This does not impact the services offered by the divisions. The DHL and Deutsche Post brands will continue to be used as before. The change of name does not have any impact on the names or characteristics of the Group's legal entities, particularly Deutsche Post AG, or on the internal and external relations with these entities.
+
+#### Worldwide presence
+
+Our locations can be found in the **[list of shareholdings.](https://group.dhl.com/content/dam/deutschepostdhl/en/media-center/investors/documents/annual-reports/DHL-Group-list-of-shareholdings-2023-12-31.pdf)** The following description of the divisions shows market shares and market volumes – where available and useful – in the most important regions.
+
+#### Express division
+
+Image /page/20/Figure/7 description: The image displays DHL's global express network statistics. It states that DHL operates in over 220 countries, has over 295 dedicated aircraft, and services over 500 airports. DHL also has around 115,000 service points, 3 million customers, around 3,800 facilities, 22 hubs, and around 116,000 employees.
+
+#### Time-definite international shipments
+
+In the Express division, we transport urgent documents and goods reliably and on time from door to door. International timedefinite shipments are our core business. The division's main product is Time Definite International (TDI), a cross-border transport and delivery service with predefined, standardized transit times. Our expertise in customs clearance keeps shipments moving as a prerequisite in ensuring fast and reliable door-to-door service. We also provide industry-specific services to round out our TDI product. For example, our Medical Express transport solution, which is tailored specifically to companies in the life sciences and healthcare sectors, offers various types of thermal packaging for temperature-controlled, chilled and frozen contents.
+
+## Page 22
+
+Image /page/21/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in a bold, red font, with three horizontal red lines to the left of the letters. Below the letters, the word "Group" is written in a smaller, red font. The background of the logo is yellow.
+
+Around 288 million TDI shipments were transported worldwide in 2023. We estimate our global market share at around 43% on the basis of a survey from 2021.
+
+#### Our virtual airline
+
+Our global air freight network is operated by multiple airlines, some of which are wholly owned by the Group. The combination of our own and purchased capacities allows us to respond flexibly to fluctuating demand. The following graphic illustrates how our available freight capacity is organized and offered on the market. Most of the freight capacity is used for TDI, our main product. If any cargo space remains on our own flights, we sell it to customers in the air freight sector. The largest buyer of remaining capacity is the DHL Global Forwarding business unit.
+
+#### AVAILABLE CAPACITY
+
+Image /page/21/Figure/7 description: The image shows a yellow and red DHL cargo plane with three cargo containers labeled 1, 2, and 3. Below the plane, there are descriptions of each container. Container 1 is labeled "Core" and is described as "Express TDI core product - capacity based upon average utilization, adjusted on a daily basis." Container 2 is labeled "BSA" and is described as "Block Space Agreement - guaranteed air cargo product." Container 3 is labeled "ACS" and is described as "Air Capacity Sales, average total spare capacity that is not slated to be utilized for BSA or TDI core volumes."
+
+#### Keeping our customer service promise and standards
+
+In order to verify the keeping of our service promise as a global network operator and to further improve it, we monitor the satisfaction and changing requirements of our customers, for example through our Insanely Customer Centric Culture program and with the Net Promoter Approach.
+
+At our quality control centers, we track shipments across the globe and adjust the processes dynamically as required. All premium products are tracked until they are delivered.
+
+We conduct regular reviews of operational safety, compliance with standards and quality of service at our facilities in cooperation with government authorities. Approximately 450 locations have been certified by the Transported Asset Protection Association (TAPA).
+
+## Page 23
+
+<span id="page-22-0"></span>Image /page/22/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters is the word "Group" in red.
+
+[The Company](#page-2-0)  [Combined Management Report](#page-17-0) [Further Information](#page-222-0)
+
+[Consolidated Financial Statements](#page-122-0) 
+
+### Global Forwarding, Freight division
+
+Image /page/22/Figure/4 description: The image shows a graphic with the text "AIR, OCEAN AND OVERLAND FREIGHT" at the top. Below this, there are three circular sections containing information. The first section on the left states "Around 200 freight terminals". The middle section says "Around 47,000 employees". The section on the right says "250,000+ customers". In between the middle and right sections, it says "120+ countries".
+
+#### Air, ocean and overland freight forwarding services
+
+Air, ocean and overland freight forwarding services are the core business of the Global Forwarding, Freight division. They include standardized transports as well as multimodal and sector-specific solutions, together with customized industrial projects and customs services. Our business model is based upon brokering transport services between customers and freight carriers. The global reach of our network allows us to offer efficient routing and multimodal transport options. Compared with the Group's other divisions, our operational business model is asset light. Global Forwarding, Freight is among the top three global freight forwarding companies in a market that remains fragmented.
+
+#### Declining volumes in freight markets due to overall normalization
+
+As expected, the overall situation on the freight markets returned to normal in 2023. In this environment, we reached around 1.7 million tons (previous year: around 1.9 million tons) of export air freight transported. In ocean freight, volumes decreased by 6.2% to around 3.1 million (previous year: around 3.3 million) 20-foot container units transported.
+
+## Page 57
+
+Image /page/56/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters "DHL" is the word "Group" in red.
+
+#### BALANCE SHEET OF DEUTSCHE POST AG (HGB) AS OF DECEMBER 31
+
+| €m                                 | 2022   | 2023   |
+|------------------------------------|--------|--------|
+| ASSETS                             |        |        |
+| Intangible assets                  | 281    | 337    |
+| Property, plant and equipment      | 4,409  | 4,642  |
+| Noncurrent financial assets        | 13,192 | 13,124 |
+| Fixed assets                       | 17,882 | 18,103 |
+| Inventories                        | 88     | 94     |
+| Receivables and other assets       | 26,436 | 25,556 |
+| Cash and cash equivalents          | 2,026  | 1,287  |
+| Current assets                     | 28,550 | 26,933 |
+| Prepaid expenses                   | 303    | 391    |
+| TOTAL ASSETS                       | 46,735 | 45,425 |
+| EQUITY AND LIABILITIES             |        |        |
+| Subscribed capital                 | 1,239  | 1,239  |
+| Treasury shares                    | -40    | -58    |
+| Issued capital                     | 1,199  | 1,187  |
+| (Contingent capital: €159 million) |        |        |
+| Capital reserves                   | 4,679  | 4,682  |
+| Earnings reserves                  | 2,711  | 3,954  |
+| Net retained profit                | 10,635 | 9,216  |
+| Equity                             | 19,224 | 19,033 |
+| Provisions                         | 5,867  | 6,005  |
+| Liabilities                        | 21,510 | 20,195 |
+| Deferred income                    | 134    | 192    |
+| TOTAL EQUITY AND LIABILITIES       | 46,735 | 45,425 |
+
+Current assets fell by €1,619 million, with receivables from affiliated companies decreasing by €1,032 million, mainly as a result of the decline in short-term loans (€199 million) and the lower receivables from profit transfer agreements (€874 million). Cash and cash equivalents decreased by €745 million, due primarily to money market investments being €1,104 million lower.
+
+Equity was down from €19,224 million in the previous year to €19,033 million. Net profit for 2023 of €2,786 million exceeded the dividend paid to shareholders of €2,205 million in 2023. Earnings reserves rose by €1,243 million, in particular due to the transfer of €2,000 million to earnings reserves and the issue of shares primarily for executive remuneration plans in the amount of €209 million. The decline of €966 million in earnings reserves had the opposite effect and was due to the offsetting of share buybacks. The equity ratio increased slightly from 41.1% to 41.9%. For the disclosures pursuant to Section 160(1), no. 2, of the Aktiengesetz (German Stock Corporation Act), please refer to notes 26 and 27 to the financial statements of Deutsche Post AG, as well as appendix 5, for the 2023 fiscal year.
+
+Provisions were up by €138 million in the reporting period. Provisions for pensions and similar obligations decreased by €179 million due to discounting effects from the higher overall interest rates and higher fair values of the plan assets. The change in provisions for taxes of €266 million is primarily attributable to the increase in provisions for income taxes (€262 million).
+
+## Page 58
+
+<span id="page-57-0"></span>Image /page/57/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized font with three horizontal lines to the left of the letters. Below the DHL part of the logo is the word "Group" in red.
+
+Liabilities decreased by €1,315 million to €20,195 million. The liabilities arising from bonds remain unchanged. Liabilities to banks declined by €96 million. Trade payables decreased by €115 million, liabilities to investees by €62 million and other liabilities by €107 million. The decrease in liabilities to affiliated companies amounting to €935 million resulted largely from intra-Group cash management.
+
+#### Decline in cash funds
+
+Deutsche Post AG's cash funds fell by €745 million to €1,281 million in the 2023 fiscal year.
+
+#### Decrease in debt
+
+Deutsche Post AG's debt (provisions and liabilities) fell by €1,177 million to €26,200 million compared with the previous year. The decrease was due chiefly to a decrease in liabilities to affiliated companies (€935 million).
+
+#### Expected developments, opportunities and risks
+
+The international strategy and associated performance forecast of DHL Group also reflect the expectations for Deutsche Post AG as the parent company. Since Deutsche Post AG is interconnected with the companies of DHL Group through arrangements, including financing and guarantee commitments and direct and indirect investments in its investees, Deutsche Post AG's opportunities and risks fundamentally align with those of the Group. The section titled **[expected developments, opportunities and risks](#page-93-0)** therefore also covers expected developments, opportunities and risks with respect to Deutsche Post AG as the parent company. The Post & Parcel Germany division reflects Deutsche Post AG's core business in material respects. The subsidiaries have an indirect influence on Deutsche Post AG through net investment income from profit transfer agreements. Earnings development in 2023 corresponded with the forecast from the previous year and enables the planned dividend distribution in 2024 from the net profit for 2023.
+
+In addition to its own operations, the subsidiaries' future operating results influence the future results of Deutsche Post AG. The HGB financial statements are material to calculating the dividend. Without one-off effects from the financial result, we anticipate for the 2024 fiscal year a result for Deutsche Post AG at the level of the previous year, which should enable a dividend payment compatible with our financial strategy.
+
+## Page 59
+
+<span id="page-58-0"></span>Image /page/58/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+## NONFINANCIAL STATEMENT
+
+pursuant to Sections 289b to 289e and 315b, 315c in conjunction with 289c to 289e HGB with respect to Deutsche Post AG and DHL Group.
+
+### General information
+
+#### Report boundary and framework
+
+All disclosures in the nonfinancial statement relate to the **[entire consolidated group](#page-128-0)** of the company, as used as the basis for the consolidated financial statements. Any deviations from this rule are indicated accordingly. The report contents and the material topics are guided by the GRI Standards (core option) as a framework, supplemented by HGB requirements. The performance indicators used for managing the Group were determined in accordance with the HGB and German Accounting Standard 20 was applied. We illustrate the definition of the performance indicators in the **[steering metrics](#page-33-0)** chapter. The nonfinancial statement also includes information aimed at facilitating sustainable investment (EU Taxonomy). In the interest of avoiding repetition, we refer to other sections of the management report for reporting on mandatory disclosures, provided that they already are explained in greater detail there. Information regarding employees applies to all of the Group's staff; exceptions are noted as such.
+
+#### Report contents and material topics
+
+Six topics were derived from the materiality analysis for 2021 (pursuant to GRI Standards core option and HGB) that our business has a material influence on and that, conversely, can affect our business: climate and environmental protection, employee engagement, diversity and inclusion, occupational health and safety, compliance and cybersecurity. These topics also form the foundation for our ESG Roadmap. The Board of Management and the Supervisory Board reviewed and confirmed the direction for the 2023 fiscal year.
+
+## Page 60
+
+Image /page/59/Picture/0 description: The image shows the DHL Group logo. The logo is red and consists of the letters "DHL" in a stylized font, with three horizontal lines to the left of the letters. Below the letters is the word "Group" in a smaller font. The background is yellow.
+
+#### CONTENTS OF THE NONFINANCIAL STATEMENT (COMBINED)1
+
+| HGB aspects                                                  | Concepts                                                       | Performance indicators,<br>further measures2                                                                    |           | Target<br>2023 | Result | Target<br>2024 |
+|--------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------|----------------|--------|----------------|
+| General information<br>Business model                        | Global logistics company                                       | –                                                                                                               |           | –              | –      | –              |
+| Environment                                                  | Climate and environmental protection:                          | Logistics-related GHG emissions3                                                                                | Mt CO2e10 | 39             | 33.27  | 34.9           |
+| Environmental matters                                        | Avoiding GHG emissions                                         | Realized Decarbonization Effects3, 4                                                                            | Mt CO2e10 | 1.3            | 1.3    | 1.5            |
+| Social<br>Employee matters                                   | Maintain employee engagement and<br>motivation at a high level | Employee Engagement3, 4, 5                                                                                      | %         | >80            | 83     | >80            |
+|                                                              | Fill management positions with<br>women                        | Share of women in middle and upper<br>Management3                                                               | %         | 27.7           | 27.2   | 28.8           |
+|                                                              |                                                                | Ensure health at work, avoid accidents Lost time injury frequency rate (LTIFR)<br>per 200,000 working hours3, 6 | Ratio     | 3.5            | 3.1    | 3.3            |
+| Social responsibility<br>Social matters                      | Employee pride in contribution to<br>society                   | Approval rate in the annual survey of<br>employees                                                              | %         | –              | 78     | –              |
+| Corporate governance Anti-<br>corruption and bribery matters | Compliance with laws, principles and<br>policies               | Share of valid compliance training<br>certificates3, 7                                                          | %         | 98             | 98.6   | 98             |
+| Respect for human rights                                     | Carry out internal audits with regard to<br>human rights       | Internal audits                                                                                                 | Number    | –              | 53     | –              |
+|                                                              | Implement human rights in the<br>workforce                     | Carry out on-site reviews                                                                                       | Countries | –              | 10     | –              |
+|                                                              |                                                                | Share of valid training certificates in<br>middle and upper management                                          | %         | –              | 99.5   | –              |
+|                                                              | Implement standards in the supply<br>chain                     | Supplier spend covered by an accepted<br>Supplier Code of Conduct                                               | € billion | –              | >35    | –              |
+|                                                              |                                                                | Potential high-risk suppliers assessed                                                                          | Number    | –              | >4,000 | –              |
+| Company-specific Cybersecurity                               | Guarantee IT systems and data<br>security                      | Cybersecurity rating3, 4                                                                                        | Points    | 6908           | 750    | 690            |
+| Voluntary disclosures<br>Taxes                               | Avoid corporate structures for tax<br>optimization             | –                                                                                                               | €m        | –              | 5,2749 | –              |
+
+1 Reporting pursuant to Sections 289b to 289e and 315b, 315c in conjunction with 289c to 289e HGB.
+
+2 Performance indicators are steering-relevant and are assigned target values (pursuant to Sections 289b to 289e and 315b, 315c in conjunction with 289c to 289e HGB).
+
+3 Performance indicator, steering-relevant in the reporting period.
+
+4 Remuneration-relevant in the reporting period.
+
+5 Represents the aggregated and weighted results of five statements in the annual Group-wide survey of employees.
+
+6 Work-related accidents resulting in at least one working day of absence following the day of the accident.
+
+7 Middle and upper management.
+
+8 In line with changes to the rating agency's method, we adjusted our target from 710 to 690 points.
+
+9 Income taxes paid, other business taxes, employer social security contributions.
+
+10 Mt CO2e = million metric tons of CO2e.
+
+REPORTING ON THE FACILITATION OF SUSTAINABLE INVESTMENTS (EU TAXONOMY)1
+
+| %                            | 2022 | 2023 |
+|------------------------------|------|------|
+| Taxonomy-eligible shares     |      |      |
+| Revenue                      | 53   | 65   |
+| Capital expenditure (capex)  | 63   | 91   |
+| Operating expenditure (opex) | 58   | 82   |
+| Taxonomy-aligned shares      |      |      |
+| Revenue                      | 12   | 15   |
+| Capital expenditure (capex)  | 25   | 30   |
+| Operating expenditure (opex) | 11   | 15   |
+
+1 Pursuant to Article 8 of Regulation 2020/852 of the European Parliament and of the Council as well as Delegated Regulations 2021/2178 and 2023/2486 of the European Commission.
+
+## Page 61
+
+Image /page/60/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. The word "Group" is in black and is located to the right and below the DHL part of the logo. The background is yellow.
+
+#### Sustainability anchored in strategy and remuneration
+
+For us, sustainability and sustainable business practices are above all an opportunity that we recognize as a meaningful factor in differentiating ourselves from the competition, which is also reflected in our purpose of "Connecting people, improving lives." The long-term success of our company is determined by the degree to which we meet the needs of our key stakeholder groups, minimize the environmental impact of our business, act as trustworthy business partners and increase our contributions to society.
+
+With our **ESG Roadmap**, we have geared our climate and environmental protection activities (**e**nvironment) more toward decarbonization to minimize our environmental footprint. The strategic approaches toward social responsibility (**s**ocial) and corporate governance (**g**overnance) were more clearly defined with the objective of providing a safe and motivating working environment and ensuring transparent, legally compliant business practices throughout the Group. In this way, we also take our potential for opportunities and risks into account within the context of sustainability.
+
+Image /page/60/Picture/6 description: The image is a circular diagram outlining sustainability commitments. The central text reads "OUR SUSTAINABILITY COMMITMENTS" in bold, stacked text. The diagram is divided into three colored sections: green, red, and yellow. The green section, located at the top left, contains the text "Clean operations for climate protection" along with a leaf icon. The red section, at the top right, states "Great company to work for all" and includes an icon of two people. The yellow section, at the bottom, reads "Highly trusted company" and features a globe icon. Encircling the entire diagram is the text "Lasting impact in communities through our Go programs".
+
+Sustainability is factored into the annual bonus of Board of Management members in the form of the three ESG performance indicators Realized Decarbonization Effects, Employee Engagement
+
+and cybersecurity rating, each of which is weighted at 10%. The details are provided in a separate statutory **remuneration report.** In the year under review, these ESG performance indicators were also included in the annual bonus calculation for executives in upper management.
+
+#### Supporting sustainability initiatives
+
+We participate in numerous United Nations (UN) initiatives and support its Sustainable Development Goals (SDGs). Our commitment is most closely aligned with the goals of Quality Education (SDG 4), Gender Equality (SDG 5), Decent Work and Economic Growth (SDG 8), Sustainable Cities and Communities (SDG 11), Climate Action (SDG 13) and Partnerships for the Goals (SDG 17).
+
+In addition, we take part in various **sustainability initiatives**, for example to promote the development of sustainable fuels and technologies, and are working with our transport partners on reducing fuel consumption and the emission of greenhouse gases (GHG). In addition, we are involved in committees of the EFRAG and the International Sustainability Standards Board to develop European and global reporting standards for sustainability. In the year under review, DHL Group became a member of Transparency International Germany.
+
+#### Guidelines define implementation of ESG standards throughout the Group
+
+We conduct our business in accordance with applicable law and pursuant to our own ESG standards. DHL Group signed the UN Global Compact in 2006. The ten principles of this compact – as well as the principles of the Universal Declaration of Human Rights, the OECD Guidelines for Multinational Enterprises, the International Labor Organization's (ILO) Declaration on Fundamental Principles and Rights at Work and the principle of social partnership – are anchored in the Group through our Code of Conduct for Employees and our Human Rights Policy Statement; additional internal guidelines provide further specificity on these principles.
+
+We provide for compliance with our ethical, social and environmental values in the supply chain by means of our Code of Conduct for Suppliers (Supplier Code of Conduct). The Supplier Code of Conduct is a binding component of the Group's relationships with our suppliers, including subcontractors. By signing, they commit to complying with our standards and implementing them in their own supply chains.
+
+Our Code of Conduct, along with the internal policy on anti-corruption and standards for business ethics derived from it, provides all employees and managers with clear rules and standards for complying with laws and regulations while contributing to the success of the Group within the scope of their jobs and responsibilities. All our employees, but in particular our managers, play a key role when it comes to implementing our values and objectives, so we have made the Code of Conduct an integral component of their employment contracts.
+
+## Page 62
+
+Image /page/61/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+The codes of conduct and the Group guidelines are reviewed annually to ensure that they are complete and up to date.
+
+#### Steering and planning
+
+Our performance indicators, key figures and targets are completely integrated in our financial systems and reporting and planning processes, as well as in the internal control system and the opportunity and risk management process. The development of actual versus planned performance indicators is presented to the Board of Management along with financial KPIs and discussed monthly; the Employee Engagement performance indicator is determined and discussed once per year. Approaches to solutions are discussed and resolved in the event of deviations from plan; in the year under review, the focus in this regard was on managing the procurement of sustainable fuels.
+
+#### Nonfinancial risks
+
+Opportunity and risk management takes place in Group Controlling and covers sustainability-related aspects. Opportunities and risks arising from climate change are assessed using a scenario analysis according to the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), which also takes the provisions of the EU Taxonomy into account. This involves discussing and assessing both transitory and physical **[risks stemming from climate change](#page-64-0)** using various scenarios.
+
+In the reporting period, the **[ESG risks](#page-99-0)** identified in the previous year in the material issues of climate change (risk categories: operational, market- and customer-specific and from regulation) and information technology were confirmed. These risks are assessed as being of medium significance for the Group.
+
+#### Organization of sustainability
+
+The Board of Management is the central decision-maker on Group-wide sustainability focus, whereas the divisions are responsible for implementation of the measures. The progress achieved is regularly discussed by the **[Board of Management](https://group.dhl.com/en/about-us/corporate-governance/board-of-management.html)**. The ESG topics are also regularly dealt with in the meetings of the Supervisory Board as well as its Strategy and Sustainability Committee and Finance and Audit Committee. The perspective of external stakeholder groups is included through the **[Sustainability Advisory Council.](https://group.dhl.com/en/sustainability/sustainability-roadmap/sustainability-advisory-council.html)**
+
+- Department Chief Executive Officer: Responsible for strategic orientation, stakeholder dialogue and implementation of the ESG programs. The ESG topics are developed further in the Group strategy and regularly reviewed by the Sustainability Steering Board. The Sustainability Steering Board comprises the CEO, the CFO and the Board member for Human Resources, as well as managers from central and divisional functions. As of January 1, 2024, responsibility for the Group-wide cybersecurity standards was shifted from the Department Global Business Services to the Department Chief Executive Officer.
+- Department Human Resources: Develops Group-wide concepts for leadership and corporate culture, for the promotion of talents and skills, specifications related to HR processes and services as well as for maintaining relationships with the employee representatives and for respecting human rights in our workforce.
+- Department Finance: Responsible for ESG reporting and controlling, opportunity and risk assessment, integration of the internal control system and the financial systems, compliance management and data protection. In the year under review, responsibility for the materiality analysis was moved from the Department Chief Executive Officer to the Department Finance.
+- Department Global Business Services: Among other topics, responsible for determining the Group-wide standards for sustainable procurement and the process for selecting suppliers, as well as the specifications for Insurance & Risk Management and Corporate Real Estate.
+
+## Page 63
+
+<span id="page-62-0"></span>Image /page/62/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part, the word "Group" is written in red.
+
+#### SIGNIFICANT DECISION-MAKING BODIES FOR SUSTAINABILITY
+
+Image /page/62/Figure/4 description: The image is an organizational chart showing the structure of a company's management and its focus on sustainability. At the top is the "BOARD OF MANAGEMENT" with the description "Central decision-making and sustainability focus." Below this are three sections: "Strategy and management," "Responsibility for topics," and "Reporting and controlling." Under "Strategy and management" are the "Sustainability Advisory Council" (described as an independent external body with experts from scientific, political, and business communities), and the "Sustainability Steering Board" (focused on ongoing monitoring of the sustainability agenda, chaired by the CEO, CFO, and CHRO). Under "Responsibility for topics" are several boards: "Operations Board" (climate protection and occupational safety, chaired by the CEO), "Global Commercial Board" (sustainable product portfolio, chaired by Express), "HR Board" (employee matters and human rights, chaired by the CHRO), "Global Business Services Board" (compliance, procurement, real estate, insurance & risk management, chaired by the CEO), and "IT Board" (cyber-security, data protection, and IT systems, chaired by the CEO). Under "Reporting and controlling" is the "Finance Board" (key figures, planning, opportunity and risk assessment, reporting, and materiality analysis, chaired by the CFO). To the right of the "BOARD OF MANAGEMENT" is the "Supervisory Board" (control and consultation), with sub-committees for "Strategy and Sustainability Committee" and "Finance and Audit Committee." At the bottom, it mentions "Divisions" and "Operational management of sustainability."
+
+1 CEO = Chief Executive Officer, Board of Management members responsible for Finance (CFO), HR (CHRO), Express.
+
+#### Focus areas in the reporting period
+
+In June 2023, the first sustainability-linked bond was placed with an issue volume of €500 million and a term through 2033. The interest rate of the bond is linked to our medium-term target of significantly reducing GHG emissions by 2030.
+
+The focus throughout the year was on the interpretation and application of the European Union's (EU) new requirements of sustainability reporting that have to be applied starting in the 2024 fiscal year. The materiality analysis was conceptualized and carried out in consideration of the new requirements of materiality. As part of this, the effects, risks and opportunities were evaluated during internal expert meetings and in-depth assessments were carried out. This also included a comprehensive location-based analysis of aspects related to biodiversity. The results were discussed with internal as well as external stakeholders. According to our current assessment, we classify the ESRS topics of climate protection, own workforce, workers in the value chain and business conduct, as well as cybersecurity as a company-specific topic, as material. In addition, ESG metrics, responsibilities and internal collection and reporting systems were reviewed for necessary adjustments or expansions; moreover, the additional requirements of the EU Taxonomy were implemented.
+
+#### Environment
+
+#### Climate protection in the focus of our operations
+
+The main environmental impact of our business activities is caused by logistics-related greenhouse gases (GHG), which contribute to climate change. The EU also classifies the transport sector as energy-intensive **[\(high climate impact sector\)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302772)**. Within the framework of our ESG Roadmap, we have defined measures and ambitious targets to minimize these effects, to realize opportunities and to avoid risks.
+
+## Page 64
+
+Image /page/63/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part of the logo is the word "Group" in red.
+
+**Medium-term target:** We have set ourselves a target of reducing our logistics-related GHG emissions to below 29 million metric tons of CO₂e by the year 2030. In addition to our own GHG emissions in Scope 1 and Scope 2, we also include the Scope 3 emissions from upstream transportation and distribution (category 4), fuel- and energy-related activities (category 3) and business travel (category 6) in this target.
+
+This target was developed based on the requirements of the Science Based Targets initiative (SBTi) and supports global efforts to limit global warming in accordance with the Paris Agreement of the United Nations. The SBTi verified the following subtargets in this regard and assessed them as aligned with limiting global warming to 1.5 degrees Celsius: using 2021 as the base year, DHL Group has committed to reducing its direct net GHG emissions from the use of fuels and the indirect emissions from purchased energy (Scopes 1 and 2) by 42% by the year 2030. Logistics-related Scope 3 emissions from fuel- and energy-related activities, upstream transportation and distribution and business travel are to be reduced by 25% by 2030. The interest rate of our first sustainability-linked bond is linked to these subtargets.
+
+The use of sustainable fuels is a significant focus of our climate protection activities. The reduction effects generated through these measures offer us the opportunity to implement climate protection directly in the transport sector and in our supply chain in a targeted manner. As part of this, fossil fuels are replaced by either the direct use of certified sustainable fuels or the documented use thereof (book and claim). This makes a positive impact on our target calculation. To calculate the market-based effects, we use the guidelines of the Voluntary Market Based Measures Framework for Logistics Emissions Accounting and Reporting published by the Smart Freight Centre.
+
+**Long-term target:** We want to reduce the GHG emissions of our logistics services to net zero by 2050. That means we will use active reduction measures to reduce these emissions (Scopes 1, 2 and 3) down to an unavoidable minimum, which is to be fully compensated for with recognized countermeasures (excluding offsetting).
+
+#### DECARBONIZATION TARGETS
+
+**Million metric tons of CO2e** 
+
+Image /page/63/Figure/9 description: The image is a bar graph showing the reduction of CO2e emissions over time. The y-axis is labeled "Million metric tons of CO2e". The x-axis shows the years 2021, 2023, Target 2024, 2030, Target 2030, and Target 2050. The bar for 2021 is at 40. The bar for 2023 is at 33, with a target of 39. The bar for Target 2024 is at 35. The bar for 2030 without decarbonization measures is not labeled. The bar for Target 2030 after decarbonization measures is at 29. The target for 2050 is Net 0. A box on the right side of the graph states "-42% Scopes 1, 22" and "-25% Scope 33".
+
+1 Includes the effect from the acquisition of the Hillebrand Group in the 2022 fiscal year, recognized starting in the **[2022 Annual Report.](https://www.dpdhl.com/content/dam/dpdhl/en/media-center/investors/documents/annual-reports/DPDHL-2022-Annual-Report.pdf#Page=54)**
+
+2 Market-based method.
+
+3 Includes the Scope 3 categories 4 (upstream transportation and distribution), 3 (fuel- and energy-related activities) and 6 (business travel).
+
+## Page 65
+
+<span id="page-64-0"></span>Image /page/64/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part of the logo is the word "Group" in red.
+
+#### Implementing climate objectives
+
+For achieving our goals by 2030, we plan to **[spend up to an additional](https://group.dhl.com/en/sustainability/environment.html)** €7 billion to expand the proportion of sustainable fuels and technologies in our fleets and buildings. We round out this package of measures with a range of specifically environmentally friendly products: GoGreen Plus enables our customers to make a conscious decision for sustainable transport solutions or the use of sustainable fuels. This approach allows us to uphold our responsibility to the climate and the environment.
+
+The central climate protection activities are developed in the Department Chief Executive Officer and Group guidelines are adapted accordingly or drafted and implemented throughout the Group. The Department Finance collects environmental data, monitors progress toward goals, assesses opportunities and risks and carries out internal and external reporting, embedded in the internal control system.
+
+Our orientation with regard to climate and environmental protection is set out in Group policies: in the Code of Conduct and the Supplier Code of Conduct, in the Environmental and Energy Policy and the internal policies for sustainable fuels and procurement processes. In the year under review, the Environmental and Energy Policy was completely revised and adapted in line with the ESG Roadmap.
+
+In addition, together with our subcontractors, we work as part of a wide range of initiatives to develop sustainable fuels and technologies in order to reduce fuel consumption and lower GHG emissions. This also enables us to procure the consumption and emissions data necessary for subcontractor management. The Clean Cargo Initiative of the global shipping industry and our internal **[Green Carrier Certification](https://www.dhl.com/de-en/home/global-forwarding/products-and-solutions/gogreen-solutions.html)** for road freight are examples of this.
+
+#### Risks arising from climate change
+
+Opportunities and risks arising from climate change were assessed using a scenario analysis according to the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). This involved applying the Representative Concentration Pathways (RCPs) of the Intergovernmental Panel on Climate Change including average warming of the planet by less than 2, more than 2 or more than 4 degrees Celsius through the year 2100 to assess physical risks that could result from a rise in ocean levels, for instance. For transitory risks, we used the sustainable development scenario of the International Energy Agency.
+
+Together with the respective Board of Management members responsible for the divisions, as part of the financial and nonfinancial **[risk assessment](#page-101-0)**, we also analyzed and evaluated the possible effects of climate change on our business models, strategy and operational business as well as our mission of achieving net zero GHG emissions by 2050. Moreover, the assessment of locations with increased physical risk was confirmed.
+
+This results mainly in transitory risks for the Group, particularly with regard to GHG emissions: operational limitations due to stricter regulation (carbon taxes and levies) as well as the lack of availability of sustainable fuels for air transport (sustainable aviation fuels) and energy from renewable sources.
+
+#### Progress in decarbonization
+
+The management of our measures is focused on the development of net logistics-related GHG emissions (GHG emissions) and the GHG emissions avoided by the company's own decarbonization measures. Our calculation for this includes the entire process chain for generating and supplying energy for transport with the Scope 3 categories 4 (upstream transportation distribution), 3 (fueland energy-related activities) and 6 (business travel) of the GHG Protocol (well-to-wheel). The other Scope 3 categories not directly related to logistics are not taken into account as part of our medium-term target.
+
+## Page 66
+
+Image /page/65/Figure/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+The calculation of Scope 1 GHG emissions takes the use of sustainable fuels into consideration on the basis of amounts purchased. For calculating Scope 3 emissions, we use an activity-based calculation model that also accounts for fuel amounts and reduction measures documented by transport companies. In the Scope 1 and 3 GHG emissions, reduction effects from market-based processes are also included that represent a substitution of fossil fuels – without direct physical procurement of the fuels – documented by means of certificates (book and claim).
+
+The GHG emissions are the result of the modes of transport and are broken down as follows: 68% air, 24% land and 7% ocean (previous year: 69% air, 22% land and 8% ocean); buildings still contribute 1%. In the year under review, GHG emissions fell by 9.1% to 33.27 million metric tons of CO2e. The Scope 1 net and Scope 2 (market-based method) GHG emissions decreased by 0.8% to 8.30 million metric tons of CO2e; the net Scope 3 emissions decreased by 11.5% to 24.97 million metric tons of CO2e.
+
+The decrease in GHG emissions is primarily influenced by the declining development of shipment volumes. Realized Decarbonization Effects from our measures of 1.3 million metric tons of CO2e (previous year: 1 million metric tons of CO2e) made a reduction contribution, meaning we achieved our target for the year under review. As part of this, the use of electricity from renewable sources, the electrification of our pickup and delivery fleet and fueling with sustainable fuels and/or the voluntary blending in the distribution networks used had an emissions-reducing effect.
+
+An additional reduction of 128 metric kilotons of CO₂e results from the statutorily mandated blending of biofuels (previous year adjusted: 140 metric kilotons of CO2e) that is not included in our Realized Decarbonization Effects. The burning of biomass (biological material made up of carbon, hydrogen and oxygen) resulted in emissions in the amount of 787 metric kilotons of CO2e (previous year: 538 metric kilotons of CO2e) that are not attributable to Scopes 1, 2 and 3 under the GHG Protocol. In the year under review, GHG intensity was 407 grams of CO2e per € of revenue (previous year adjusted: 387 grams of CO2e per € of revenue).
+
+## Page 67
+
+Image /page/66/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal lines to the left of the "D". Below the letters is the word "Group" in red.
+
+[Combined Management Report](#page-17-0)  [Further Information](#page-222-0) 
+
+#### GHG EMISSIONS1
+
+|                                                           | 2022     |       |       |
+|-----------------------------------------------------------|----------|-------|-------|
+| Million metric tons of CO2e                               | adjusted | 2023  | +/–%  |
+| Total logistics-related net GHG emissions                 | 36.59    | 33.27 | -9.1  |
+| Scope 1 net                                               | 8.30     | 8.25  | -0.6  |
+| Scope 1 without market-based measures                     | 8.30     | 8.26  | -0.5  |
+| of which air transport                                    | 6.91     | 6.97  | 0.9   |
+| road transport                                            | 1.13     | 1.05  | -7.1  |
+| buildings                                                 | 0.26     | 0.24  | -7.7  |
+| Reduction through market-based measures                   | > -0.01  | -0.01 | 0.0   |
+| Scope 2 (market-based method)                             | 0.07     | 0.05  | -28.6 |
+| of which electricity (road transport and buildings)       | 0.04     | 0.02  | -50.0 |
+| district heating and cooling (buildings)                  | 0.03     | 0.03  | 0.0   |
+| Scope 3 (logistics-related) net                           | 28.22    | 24.97 | -11.5 |
+| Scope 3 (logistics-related) without market-based measures | 28.27    | 25.09 | -11.2 |
+| of which Category 3 – Fuel- and Energy-Related Activities | 1.87     | 1.87  | 0.0   |
+| Category 4 – Upstream Transportation and Distribution     | 26.33    | 23.14 | -12.1 |
+| Category 6 – Business Travel                              | 0.07     | 0.08  | 14.3  |
+| Reduction through market-based measures                   | -0.05    | -0.12 | 140.0 |
+| For informational purposes                                |          |       |       |
+| Scope 2 (location-based method)2                          | 0.69     | 0.67  | -2.9  |
+| Scope 3 (not logistics-related)2                          | 5.91     | 5.88  | -0.5  |
+| of which Category 1 – Purchased Goods and Services        | 3.00     | 2.78  | -7.3  |
+| Category 2 – Capital Goods                                | 2.29     | 2.49  | 8.7   |
+| Category 7 – Employee Commuting                           | 0.62     | 0.61  | -1.6  |
+
+1 Emissions factors from EN 16258 (kerosene, diesel and other fossil fuels), from the GLEC Framework (fuels from natural gas and biogas) and from the IEA (electricity and district heating) are used to calculate the GHG emissions.
+
+2 Not included in the 2030 targets.
+
+#### Using sustainable technologies and fuels
+
+The focus of our measures remains mainly on the modes of transport using the most fuel and generating the most emissions, namely air and ocean freight and road transport, and further increasing the electrification of our fleet of pickup and delivery vehicles. We also invest in technologies to design our own new buildings to be climate-neutral. The share of sustainable fuels is to top 30% in air and ocean freight as well as land transport by 2030. In pickups and deliveries, 60% of vehicles used are to be electric vehicles. We want to design all of our new buildings to be climate-neutral.
+
+Sustainable technologies and fuels are often more expensive than conventional technologies and fossil fuels. In the year under review, the additional expenses for decarbonization measures as a result of this increased by 55.6% to €442 million. This enables a reduction of around 1.3 million metric tons of CO2e (previous year: 1 million metric tons of CO2e), including 127 metric kilotons of CO2e from market-based mechanisms. The share of sustainable fuels increased by 1.1 percentage points to 2.8% (previous year: 1.7%). In pickups and deliveries, we increased the share of e-vehicles used in the reporting period to 37.6%; the number of evehicles was around 35,200 (previous year: 27,800). We therefore made significant progress toward achieving our goal of reaching a share of 60% by 2030. At 97%, the share of electricity from renewable sources used was well above the level of the previous year (previous year: 94%).
+
+## Page 68
+
+Image /page/67/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines to the left. The word "Group" is in red and is located to the right and below the DHL part of the logo. The background is yellow.
+
+#### ADDITIONAL EXPENSES FOR DECARBONIZATION
+
+| €m                                 | 2022 | 2023 | +/-  |
+|------------------------------------|------|------|------|
+| Sustainable fuels and technologies | 284  | 442  | 55.  |
+| of which sustainable fuel          | 66   | 135  | 104. |
+| of which aviation fuel             | 53   | 113  | 113. |
+| electrification of the fleet       | 179  | 244  | 36.  |
+| buildings                          | 24   | 38   | 58.  |
+| additional measures1               | 15   | 25   | 66.  |
+
+1 Shifting shipments to rail, biogas trucks, including supply infrastructure, electricity from renewable sources.
+
+We are also driving decarbonization with our portfolio of GoGreen Plus products. We enable our customers to make a conscious decision for sustainable transport solutions or the use of sustainable fuels. We already offer sustainable alternatives for around two-thirds of our classic product range. We also launched the DHL GoGreen Dashboard, a digital reporting platform for our customers that enables them to consolidate their GHG emissions across all modes of transport, with various options for displaying and breaking down the data.
+
+As a supplement to GoGreen Plus, we still offer our customers offsetting products to compensate for their GHG emissions. However, in accordance with the GHG Protocol and for the presentation of the Realized Decarbonization Effects, this offsetting is not taken into account as an emissions reduction for the calculation of our own GHG footprint. In the year under review, **[certificates](https://group.dhl.com/content/dam/deutschepostdhl/en/media-center/responsibility/dpdhl-group-sgs-verification-statement-gogreen-offsetting-052023.pdf)** in the amount of 1.0 million metric tons of CO2e were retired for the 2022 fiscal year.
+
+#### Divisions drive decarbonization
+
+Express was able to conclude further delivery contracts for sustainable aircraft fuels. Moreover, the modernization of the aircraft fleet for use on intercontinental and regional routes was continued and the network of partnerships with transport subcontractors was expanded further. Furthermore, Express continued with the expansion of its fleet of e-vehicles.
+
+Global Forwarding, Freight concluded additional partnerships for insetting with sustainable fuels. Our Green Carrier Certification for transport partners creates transparency regarding the sustainability of our subcontractors. Around 1,000 Freight users already receive emissions reports; via myDHLi, we offer Global Forwarding users reports containing real-time data on air and ocean freight. Our customers are thus supported in achieving their own sustainability goals.
+
+Supply Chain is driving the decarbonization of its supply chains with a portfolio of state-of-the-art, sustainable products for carbonneutral storage, transport and packaging. In the year under review, a guideline for sustainable transports for relevant subsidiaries was introduced that describes the effective use of sustainable drive technologies and fuels in consideration of economic aspects. In addition, the focus was on the further expansion of carbon-neutral warehouses and sustainable transport. Some of our fueling stations in the Great Britain were converted from diesel to HVO (hydrotreated vegetable oil). In Ireland, biogas production is being expanded by partners to enable fueling trucks with sustainably produced gas.
+
+eCommerce continues to focus on the expansion of the fleet of e-vehicles and the increased use of electricity from renewable sources. Delivery and pickup in the Netherlands are being made more climate-friendly through the increased use of HVO.
+
+Post & Parcel Germany continued the expansion of its fleet of e-vehicles. In addition, further measures were tested to make transport between our locations more sustainable. Using gas-powered trucks (sustainably produced compressed natural gas – CNG) for longer transport routes was identified as a solution. Moreover, the portfolio of sustainable products was expanded. The CO2e Sustainability Report offers business customers additional transparency regarding the GHG emissions caused by the transport of their national goods shipments.
+
+## Page 81
+
+<span id="page-80-0"></span>Image /page/80/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters is the word "Group" in red.
+
+#### Cybersecurity
+
+Our cybersecurity management activities protect the information of the Group, our business partners and our employees as well as IT systems from unauthorized access or manipulation and data misuse. In addition, this ensures uninterrupted availability and enables reliable operations. Our internal guidelines and processes are based on ISO 27002 and our data centers are certified in accordance with ISO 27001.
+
+Since January 1, 2024, the Group Chief Information Security Officer (Group CISO) has reported directly to the CEO (previous year: Corporate Board Member for Global Business Services). The IT Board determines the cybersecurity strategy and defines and manages Group-wide measures for cybersecurity, for protecting systems and data and for digitalization processes. The Information Security Committee is made up of the central functions of Group CISO, IT Audit, Human Resources, Legal Services, Data Protection and Corporate Security, as well as the divisional CISOs. The committee assesses potential threats on an ongoing basis, evaluates the potential of new risks and monitors compliance with our security standards.
+
+We limit access to our systems and data such that employees can only access the data they need to perform their duties. All systems and data are backed up on a regular basis, and critical data are replicated across data centers. Additionally, by performing continuous software updates, we can fix potential security vulnerabilities and protect system functionality.
+
+A variety of communication measures and training sessions help our workforce become more aware of possible cybersecurity risks. All employees and managers with a corporate email address are continuously made aware of risks via phishing simulations. We also draw attention to current risks using IT crisis simulations. Participation in Information Security Awareness training is mandatory for all employees with a computer workstation. All participants who have already completed their training must update their certification every two years.
+
+Our cybersecurity undergoes independent assessment by the external rating agency BitSight. This rating is based on the technical analysis of any weak points and brings potential security risks to the attention of the rated company; this is carried out by an automated service on a daily basis. Unlike with a self-assessment, a cybersecurity rating offers greater transparency and enables comparison with other companies thanks to standardization. We compare our performance with DAX 40 companies as well as with major customers and logistics companies that are not covered by the DAX 40. The target amount is determined by the aspiration to be within the upper quarter of this comparison group.
+
+The cybersecurity rating has been remuneration-relevant since this reporting period. This performance indicator makes up 10% of the annual bonus calculation for the Board of Management. As announced, the rating scale for the cybersecurity rating in the year under review has changed due to adjustments to the method of the rating agency. In line with the change, we adjusted our target for the 2023 fiscal year from 710 to 690 points. The rating amounted to 750 of 820 achievable points as of the end of the year under review (previous year: 700 points). The target for the year under review was thus exceeded.
+
+#### Tax strategy as a standard adhered to worldwide
+
+Our tax strategy is aligned with our Group strategy and must be adhered to throughout the Group. The overarching approach applied by the Group is that taxes are always incidental to and follow business needs.
+
+We do not undertake aggressive tax planning or enter into artificial arrangements with the goal of avoiding taxes. Our Group maintains locations in more than 220 countries and territories, including some with lower tax rates than those in Germany. These locations are necessary for carrying out our operational business in those regions. None of our companies was established with the purpose of obtaining tax benefits or is currently used to pursue aggressive tax structuring.
+
+In interpreting and applying tax legislation, we follow the letter of the law; in case of ambiguity, we follow the law's spirit and intended purpose. As a globally active group of companies, our activities necessarily include operations in countries where uncertainty is high. In order to mitigate this uncertainty and obtain the greatest possible degree of legal certainty, we are in continual dialogue with tax authorities and tax advisers. This allows us to meet tax compliance requirements in the countries in which we operate. Our Group risk management system incorporates a tax risk management framework that enables us to monitor tax risks and respective countermeasures.
+
+## Page 82
+
+Image /page/81/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized font with three horizontal lines to the left of the letters. Below the DHL part of the logo is the word "Group" in red.
+
+In the year under review, we recognized taxes and social security contributions totaling €5,274 million.
+
+#### TAXES AND SOCIAL SECURITY CONTRIBUTIONS
+
+| €m                                                  | 2022         | 2023         | +/-%  |
+|-----------------------------------------------------|--------------|--------------|-------|
+| <b>Total</b>                                        | <b>5,354</b> | <b>5,274</b> | -1.5  |
+| Income taxes paid1                                  | 1,782        | 1,625        | -8.8  |
+| Other business taxes1                               | 380          | 363          | -4.5  |
+| of which taxes on capital, real estate and vehicles | 150          | 171          | 14.0  |
+| other operating taxes                               | 230          | 192          | -16.5 |
+| Employer's social security contributions1           | 3,192        | 3,286        | 2.9   |
+
+1 **[Notes to the consolidated financial statements:](#page-194-0)** Income taxes paid: **[note 42.1](#page-194-0)**; other business taxes: **[note 17](#page-161-0)**; employer contributions: **[note 15](#page-159-0)**.
+
+## Page 83
+
+<span id="page-82-0"></span>Image /page/82/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters "DHL" is the word "Group" in red.
+
+#### EU Taxonomy
+
+Pursuant to Article 8 of Regulation 2020/852 of the European Parliament and of the Council as well as Delegated Regulations 2021/2178 and 2023/2486 of the European Commission.
+
+#### Contribution to the climate and environmental objectives of the European Union
+
+We report our contribution to the European Union's (EU) six environmental objectives according to the guidelines laid down in the EU Taxonomy regulation and report the taxonomy-aligned (aligned) and taxonomy-eligible shares of revenue, capital expenditure (capex) and operating expenditure (opex).
+
+Taxonomy-eligible economic activities (activities) are considered environmentally sustainable and therefore aligned if they make a substantial contribution to one of the six EU environmental objectives and are not associated with significant harm to one or more other environmental objectives (do-no-significant-harm (DNSH) criteria). In addition, for all activities, the Group complies with required frameworks for minimum safeguards that relate to respecting human rights and social and labor standards, as well as anti-corruption fair competition and taxation.
+
+Aligned activities exclusively make a substantial contribution to EU environmental objective 1. No aligned activities were identified in conjunction with EU environmental objective 2 that make a substantial contribution to risk avoidance or the reduction of the risk of adverse effects of the current and projected climate on the activity itself or on people, nature or assets without increasing the risk of adverse effects on people, nature or assets. The activities in the area of construction and real estate make no substantial contribution to EU environmental objective 4.
+
+#### SIX EU ENVIRONMENTAL OBJECTIVES
+
+- 1 Climate change mitigation
+- 2 Climate change adaptation
+- 3 Sustainable use and protection of water and marine resources
+- 4 Transition to a circular economy
+- 5 Pollution prevention and control
+- 6 Protection and restoration of biodiversity and ecosystems
+
+The requirements of the EU Taxonomy were expanded in the year under review: new activities in the air freight sector were added to the first EU environmental objective, and further activities were added to the EU environmental objectives 3 to 6. The taxonomy eligibility was determined and reported for these new activities. In accordance with this, we primarily carry out activities in EU environmental objectives 1 and 2; with regard to EU environmental objective 4, two activities fall under the area of construction and real estate.
+
+The Group policy for implementing the requirements of the EU Taxonomy includes the guidelines for determining the aligned shares of revenue, capex and opex. The data is collected accordingly in the Group-wide finance and controlling systems. In the year under review, the Group policy and the Group-wide finance and controlling systems were adapted with regard to the additional requirements. For the first time, we can now report the taxonomy-eligible shares of our air freight operations.
+
+#### Development of the Taxonomy KPIs
+
+The taxonomy-eligible and -aligned shares increased compared with the previous year. The expansion of the taxonomy requirements in the area of air freight in particular played a significant role in the increase in taxonomy eligibility. The increase in taxonomy alignment results from our decarbonization measures in the pickup and delivery fleet and the improved identification of taxonomy-aligned activities.
+
+## Page 84
+
+<span id="page-83-0"></span>Image /page/83/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines to the left. The word "Group" is in red and is located to the right and below the DHL part of the logo. The background is yellow.
+
+#### TAXONOMY-ELIGIBLE AND -ALIGNED SHARES
+
+| %                            | 2022 | 2023 |
+|------------------------------|------|------|
+| Taxonomy-eligible shares     |      |      |
+| Revenue                      | 53   | 65   |
+| Capital expenditure (capex)  | 63   | 91   |
+| Operating expenditure (opex) | 58   | 82   |
+| Taxonomy-aligned shares      |      |      |
+| Revenue                      | 12   | 15   |
+| Capital expenditure (capex)  | 25   | 30   |
+| Operating expenditure (opex) | 11   | 15   |
+
+#### Determining taxonomy eligibility
+
+In the year under review, the reporting approach for the taxonomy-eligible activities was reviewed and confirmed: We still assign our transport services, including the necessary infrastructure and buildings, to Sector 6 "Transport," while real estate not used for transport services is assigned to Sector 7 "Construction and real estate." The reporting approach for the following activities was supplemented, reviewed and adapted.
+
+#### CHANGES IN REPORTING APPROACH
+
+| Activity | Change                                                                 |                                                                                              |
+|----------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| 6.15     | Infrastructure enabling low-carbon road transport and public transport | Air transport hubs with transshipment to road freight are now reported as taxonomy-eligible. |
+| 6.19     | Passenger and freight air transport                                    | New                                                                                          |
+| 6.20     | Air transport ground handling operations                               | New                                                                                          |
+| 7.3      | Installation, maintenance and repair of energy efficiency equipment    | Previously reported in activity 6.15. Now reported separately.                               |
+| 7.6      | Installation, maintenance and repair of renewable energy technologies  | Previously reported in activity 6.15. Now reported separately.                               |
+
+The EU Taxonomy still does not take into account all economic activities that are relevant for our business. Revenue from operating warehouses (Supply Chain division) in particular is therefore not reported as taxonomy-eligible.
+
+Capex generated by the addition of assets can be assigned directly to individual activities, while revenue and opex can generally not be directly assigned. In these cases, we primarily use a cost-based allocation logic that reflects the business models of the divisions. We avoid double counting by assigning revenue, capex and opex to only one activity respectively and taking intra-Group relationships into account on a consolidated basis. Property, plant and equipment from business combinations were primarily allocated to the "Construction and real estate" and "Transport" sectors; intangible assets from business combinations were classified as not taxonomy-eligible.
+
+## Page 85
+
+<span id="page-84-0"></span>Image /page/84/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized, bold font with three horizontal lines to the left of the letters. Below the DHL part of the logo, the word "Group" is written in red.
+
+#### Determining taxonomy alignment
+
+All taxonomy-eligible activities were reviewed with regard to their alignment in the year under review. The following statements are in regard to the aligned assets per activity and the associated shares of revenue, capex and opex.
+
+#### APPLIED EVALUATION METHOD
+
+| Technical evaluation criterion                                                                                                                                                                                                                                                                                                                                                          | Method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Substantial contribution to climate change mitigation: Does no<br>significant harm (DNSH) to the EU environmental objectives of the<br>sustainable use and protection of water and marine resources<br>(DNSH 3), the transition to a circular economy (DNSH 4), pollution<br>prevention and control (DNSH 5), the protection and restoration of<br>biodiversity and ecosystems (DNSH 6) | Carried out on the basis of individual assets or groups of assets, provided that the<br>evaluation of the criteria is possible on a superordinate level by means of uniform<br>Group processes and within the framework of applicable national or EU regulations.<br>These values were assessed as not aligned in all other cases. Various technical<br>screening criteria relate to requirements from applicable EU legislation. If no equivalent<br>requirements apply in non-EU countries, no alignment can be demonstrated<br>accordingly.                                                                                                                                                                                                                                                            |
+| Does no significant harm (DNSH) to the EU environmental objective<br>of climate change adaptation (DNSH 2)                                                                                                                                                                                                                                                                              | The climate-change-related risk assessment was carried out based on the TCFD<br>analysis, which we supplemented with adjustment solutions for physical climate risks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| EU minimum safeguards for the respect for human rights and the<br>preserving of employees' rights, as well as regarding anti-corruption,<br>fair competition and taxation                                                                                                                                                                                                               | Ensured with our Code of Conduct, the Group policies on anti-corruption and standards<br>for business ethics, the environment and energy, the Competition Compliance Policy,<br>the Human Rights Policy Statement, the corresponding processes and management<br>systems, the regular audits carried out by Corporate Internal Audit and the Group Tax<br>Strategy. Ensured in the supply chain with our Supplier Code of Conduct, the<br>procurement processes and supplier management, as well as the implementation of<br>the requirements under the LkSG. At the time this report was prepared, there were no<br>relevant legal proceedings ongoing in this context.                                                                                                                                  |
+| Activity                                                                                                                                                                                                                                                                                                                                                                                | Method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 6.2 Freight rail transport                                                                                                                                                                                                                                                                                                                                                              | Our service providers were unable to confirm any alignment for the subcontracted rail transport.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 6.4 Operation of personal mobility devices, cycle logistics: devices not subject to permits                                                                                                                                                                                                                                                                                             | Assets within this activity, e. g. bicycles, meet the requirements of the substantial contribution to cycle logistics. Thanks to partnerships with certified recycling companies, compliance with the requirements of DNSH 4 can be ensured and demonstrated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 6.5 Transport by motorbikes, passenger cars and light commercial vehicles: Light commercial vehicles1                                                                                                                                                                                                                                                                                   | Our electric vehicles operate without emissions and therefore meet the requirements of the substantial contribution. Compliance with regard to recyclability (DNSH 4) and emissions thresholds (DNSH 5) is a basic requirement for approval of electric vehicles in Europe, which is why we considered these to be met. In addition, the simultaneous meeting of the criteria for fuel efficiency and rolling noise of tires represents a substantial requirement of DNSH 5. For this reason, we have determined the respective vehicle- and use-specific requirements of the tires, including the load-capacity index, and identified the highest class containing some products in the EPREL2 database for each specification as well as checked the tire classification under DNSH 5 for each vehicle. |
+| 6.6 Freight transport services by road3: Heavy-duty vehicles4                                                                                                                                                                                                                                                                                                                           | Method is analogous to 6.5. Our electric vehicles do not transport any fossil fuels and are evaluated as aligned.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 6.10 Sea and coastal freight water transport, vessels for port operations and auxiliary activities                                                                                                                                                                                                                                                                                      | Our service providers were unable to confirm any alignment for the subcontracted ocean transport.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 6.15 Infrastructure enabling low-carbon road transport and public transport: Infrastructure necessary for transport, for example sorting and distribution centers (including integral equipment) and air transport hubs with transshipment to road freight                                                                                                                              | Sorting and distribution centers, Packstation parcel lockers and hubs enable cargo handling between road freight and other modes of transport and therefore fulfill the substantial contribution of this activity. Compliance with the requirements of DNSH 4 could not be demonstrated for the construction of new buildings5 in particular outside of the EU. The analysis of the location and noise pollution of our sites showed that nearly all of them meet the requirements of DNSH 5 and 6.                                                                                                                                                                                                                                                                                                       |
+| 7.1 Construction of new buildings: Office and administration buildings as well as warehouses                                                                                                                                                                                                                                                                                            | Within the EU, we were unable to demonstrate alignment; outside of the EU, alignment could not be evaluated due to a lack of well-founded thresholds for nonresidential buildings.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 7.2 Renovation of existing buildings: Office and administration buildings as well as warehouses                                                                                                                                                                                                                                                                                         | Only major renovations are taxonomy-eligible. Generally, renovations do not make a substantial contribution (reduction of the primary energy need by 30%).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 7.3 Installation, maintenance and repair of energy efficiency equipment: Relates to energy-efficient sources of light, among other things                                                                                                                                                                                                                                               | There are no specific DNSH criteria for all of the measures mentioned except for insulation measures. These are therefore always taxonomy-aligned. For insulation measures, additional criteria under DNSH 5 have to be fulfilled (DNSH 2 and EU minimum safeguards are reviewed across activities).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 7.6 Installation, maintenance and repair of renewable energy technologies: Relates to photovoltaic systems, among other things                                                                                                                                                                                                                                                          | Activity is always aligned, as there are no specific DNSH criteria (DNSH 2 and EU minimum safeguards are reviewed across activities).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 7.7 Acquisition and ownership of buildings: Office and administration buildings as well as warehouses                                                                                                                                                                                                                                                                                   | Within the EU, we were able to demonstrate alignment for some office buildings and warehouses (buildings) with particularly low energy consumption that were constructed before 2021. For buildings built in or after 2021, alignment could not be demonstrated. Outside of the EU, alignment could not be verified due to a lack of thresholds, as well as inapplicable EU criteria for energy certificates.                                                                                                                                                                                                                                                                                                                                                                                             |
+| 8.1 Data processing, hosting and related activities                                                                                                                                                                                                                                                                                                                                     | Our data centers do not meet the criteria for a substantial contribution to climate change mitigation and are therefore not aligned.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+We generate a significant portion of our revenue from transport services (transport sector) in collaboration with suppliers and subcontractors, who render their services on an independent basis from a legal perspective. As a result, these activities and the assets associated with them must be evaluated there with regard to alignment with the EU Taxonomy. At the time this report was prepared, we largely did not have any information on the meeting of technical criteria for these activities and assets, so we are reporting them as not taxonomy-aligned, in particular in the activities 6.2, 6.5, 6.6 and 6.10. Even suppliers and subcontractors who report pursuant to the EU Taxonomy were unable to confirm to us the alignment of their underlying activities. If shares of revenue and opex cannot be directly assigned to aligned activities, we apply specific allocation keys – such as the percentage of taxonomy-aligned vehicles in the entire fleet – that also take individual characteristics of the divisions into account.
+
+## Page 86
+
+Image /page/85/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters is the word "Group" in a smaller font size, also in red. The background is yellow.
+
+#### DETERMINING TAXONOMY ALIGNMENT (EU ENVIRONMENTAL OBJECTIVE OF CLIMATE CHANGE MITIGATION)
+
+1 EU Taxonomy vehicle classes M1 and N1 (unladen weight of up to 2.8 metric tons and total permitted weight of up to 3.5 metric tons).
+
+2 European Product Registry for Energy Labeling.
+
+3 Not including subcontracted road freight.
+
+4 EU Taxonomy vehicle classes N1 to N3 (unladen weight of more than 2.8 metric tons or total permitted weight of more than 3.5 metric tons).
+
+5 The criteria for recycling requirements for construction and demolition works are not applicable to existing buildings.
+
+## Page 87
+
+Image /page/86/Picture/0 description: The image shows the DHL Group logo. The logo is red and consists of the letters "DHL" in a bold, stylized font, with three horizontal lines to the left of the letters. Below the letters, the word "Group" is written in a smaller, less bold font. The background of the image is yellow.
+
+[Combined Management Report](#page-17-0) [Further Information](#page-222-0) 
+
+Further Information
+
+#### PROPORTION OF REVENUE FROM PRODUCTS OR SERVICES ASSOCIATED WITH TAXONOMY-ALIGNED ECONOMIC ACTIVITIES – DISCLOSURE COVERING YEAR 2023
+
+|                                                                                                              | 2023        |                      | Substantial contribution criteria    |                                                            |                                                         |                               |                                             |                                   |                                       | DNSH criteria (do no significant harm)          |                                                 |                       |                                     |                           |                              |                                       | 2022                                                                                      |                                                |                                                    |
+|--------------------------------------------------------------------------------------------------------------|-------------|----------------------|--------------------------------------|------------------------------------------------------------|---------------------------------------------------------|-------------------------------|---------------------------------------------|-----------------------------------|---------------------------------------|-------------------------------------------------|-------------------------------------------------|-----------------------|-------------------------------------|---------------------------|------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------|
+| Economic activities<br>(1)                                                                                   | Code<br>(2) | Revenue<br>(3)<br>m€ | Proportion of<br>Revenue<br>(4)<br>% | Climate<br>change<br>mitigation<br>(5)<br>Y1; N2;<br>N/EL3 | Climate<br>change<br>adaptation<br>(6)<br>Y; N;<br>N/EL | Water<br>(7)<br>Y; N;<br>N/EL | Circular<br>economy<br>(8)<br>Y; N;<br>N/EL | Pollution<br>(9)<br>Y; N;<br>N/EL | Biodiversity<br>(10)<br>Y; N;<br>N/EL | Climate<br>change<br>mitigation<br>(11)<br>Y; N | Climate<br>change<br>adaptation<br>(12)<br>Y; N | Water<br>(13)<br>Y; N | Circular<br>economy<br>(14)<br>Y; N | Pollution<br>(15)<br>Y; N | Biodiversity<br>(16)<br>Y; N | Minimum<br>safeguards<br>(17)<br>Y; N | Proportion of<br>Taxonomy-<br>aligned (A.1)<br>or -eligible<br>(A.2) revenue<br>(18)<br>% | Category<br>enabling<br>activity<br>(19)<br>E4 | Category<br>transitional<br>activity<br>(20)<br>T5 |
+| A Taxonomy-eligible activities                                                                               |             |                      |                                      |                                                            |                                                         |                               |                                             |                                   |                                       |                                                 |                                                 |                       |                                     |                           |                              |                                       |                                                                                           |                                                |                                                    |
+| A.1 Environmentally sustainable activities<br>(Taxonomy-aligned)                                             |             |                      |                                      |                                                            |                                                         |                               |                                             |                                   |                                       |                                                 |                                                 |                       |                                     |                           |                              |                                       |                                                                                           |                                                |                                                    |
+| Transport                                                                                                    |             | 11,956               | 14.6                                 |                                                            |                                                         |                               |                                             |                                   |                                       |                                                 |                                                 |                       |                                     |                           |                              |                                       | 12.0                                                                                      |                                                |                                                    |
+| Operation of personal mobility devices,<br>cycle logistics                                                   | CCM 6.4     | 2,096                | 2.5                                  | Y                                                          | N                                                       | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  | Y                                               | Y6                                              | Y6                    | Y                                   | Y6                        | Y                            |                                       | 2.2                                                                                       |                                                |                                                    |
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                     | CCM 6.5     | 3,086                | 3.8                                  | Y                                                          | N                                                       | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  | Y                                               | Y6                                              | Y                     | Y                                   | Y6                        | Y                            |                                       | 2.4                                                                                       |                                                |                                                    |
+| Freight transport services by road                                                                           | CCM 6.6     | 322                  | 0.4                                  | Y                                                          | N                                                       | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  | Y                                               | Y6                                              | Y                     | Y                                   | Y6                        | Y                            |                                       | 0.2                                                                                       |                                                |                                                    |
+| Infrastructure enabling low-carbon<br>road transport and public transport                                    | CCM 6.15    | 6,452                | 7.9                                  | Y                                                          | N/EL                                                    | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  | Y                                               | Y                                               | Y                     | Y                                   | Y                         | Y                            |                                       | 7.2                                                                                       | E                                              |                                                    |
+| Revenue of environmentally sustainable<br>activities (Taxonomy-aligned) (A.1)                                |             | 11,956               | 14.6                                 | 14.6%                                                      | 0.0%                                                    |                               |                                             |                                   |                                       |                                                 |                                                 |                       |                                     |                           |                              |                                       | 12.0                                                                                      |                                                |                                                    |
+| Of which Enabling                                                                                            |             | 6,452                | 7.9                                  | 7.9%                                                       | 0.0%                                                    |                               |                                             |                                   |                                       |                                                 | Y                                               | Y                     | Y                                   | Y                         | Y                            | Y                                     | 7.2                                                                                       | E                                              |                                                    |
+| Of which Transitional                                                                                        |             | 0                    | 0.0                                  | 0.0%                                                       |                                                         |                               |                                             |                                   |                                       |                                                 | Y                                               | Y                     | Y                                   | Y                         | Y                            | Y                                     | 0.0                                                                                       |                                                |                                                    |
+| A.2 Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) |             |                      |                                      | EL7;<br>N/EL                                               | EL;<br>N/EL                                             | EL;<br>N/EL                   | EL;<br>N/EL                                 | EL;<br>N/EL                       | EL;<br>N/EL                           |                                                 |                                                 |                       |                                     |                           |                              |                                       |                                                                                           |                                                |                                                    |
+| Transport                                                                                                    |             | 40,840               | 50.0                                 |                                                            |                                                         |                               |                                             |                                   |                                       |                                                 |                                                 |                       |                                     |                           |                              |                                       | 41.1                                                                                      |                                                |                                                    |
+| Freight rail transport                                                                                       | CCM 6.2     | 28                   | 0.0                                  | EL                                                         | EL                                                      | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  |                                                 |                                                 |                       |                                     |                           |                              |                                       | 0.1                                                                                       |                                                |                                                    |
+| Operation of personal mobility devices,<br>cycle logistics                                                   | CCM 6.4     | 3                    | 0.0                                  | EL                                                         | EL                                                      | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  |                                                 |                                                 |                       |                                     |                           |                              |                                       | 0.1                                                                                       |                                                |                                                    |
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                     | CCM 6.5     | 10,051               | 12.3                                 | EL                                                         | EL                                                      | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  |                                                 |                                                 |                       |                                     |                           |                              |                                       | 8.8                                                                                       |                                                |                                                    |
+| Freight transport services by road                                                                           | CCM 6.6     | 12,945               | 15.9                                 | EL                                                         | EL                                                      | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  |                                                 |                                                 |                       |                                     |                           |                              |                                       | 18.3                                                                                      |                                                |                                                    |
+| Sea and coastal freight water transport,<br>vessels for port operations and auxiliary<br>activities          | CCM 6.10    | 3,741                | 4.6                                  | EL                                                         | EL                                                      | N/EL                          | N/EL                                        | N/EL                              | N/EL                                  |                                                 |                                                 |                       |                                     |                           |                              |                                       | 8.5                                                                                       |                                                |                                                    |
+
+## Page 88
+
+Image /page/87/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+[The Company](#page-2-0) 
+
+[Consolidated Financial Statements](#page-122-0) 
+
+[Combined Management Report](#page-17-0) [Further Information](#page-222-0) 
+
+| Infrastructure enabling low-carbon<br>road transport and public transport                                                 | CCM 6.15 | 3,685   | 4.5   | EL    | N/EL | N/EL | N/EL | N/EL | N/EL |  | 5.3  |
+|---------------------------------------------------------------------------------------------------------------------------|----------|---------|-------|-------|------|------|------|------|------|--|------|
+| Passenger and freight air transport8                                                                                      | CCM 6.19 | 9,976   | 12.2  | EL    | N/EL | N/EL | N/EL | N/EL | N/EL |  |      |
+| Air transport ground handling<br>operations8                                                                              | CCM 6.20 | 411     | 0.5   | EL    | N/EL | N/EL | N/EL | N/EL | N/EL |  |      |
+| Construction and real estate activities                                                                                   |          | 320     | 0.4   |       |      |      |      |      |      |  | 0.4  |
+| Construction of new buildings                                                                                             | CCM 7.1  | 320     | 0.4   | EL    | EL   | N/EL | EL   | N/EL | N/EL |  | 0.4  |
+| Revenue of Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) (A.2) |          | 41,160  | 50.4  | 50.4% | 0.0% |      | 0.0% |      |      |  | 41.5 |
+| A Revenue of Taxonomy eligible activities<br>(A.1 + A.2)                                                                  |          | 53,116  | 65.0  | 65.0% | 0.0% |      | 0.0% |      |      |  | 53.5 |
+| B Taxonomy-non-eligible activities                                                                                        |          |         |       |       |      |      |      |      |      |  |      |
+| Revenue of Taxonomy-non-eligible<br>activities                                                                            |          | 28,642  | 35.0  |       |      |      |      |      |      |  |      |
+| Total (A + B)                                                                                                             |          | 81,7589 | 100.0 |       |      |      |      |      |      |  |      |
+
+1 Yes, taxonomy-eligible and taxonomy-aligned activity with the relevant objective.
+
+2 No, taxonomy-eligible but not Taxonomy-aligned activity with the relevant objective.
+
+3 Not eligible, taxonomy-non-eligible activity for the relevant objective.
+
+4 Enabling.
+
+5 Transitional.
+
+6 No DNSH criteria established.
+
+7 Eligible, taxonomy-eligible activity for the relevant objective.
+
+8 Taxonomy-alignment will be assessed for fiscal-year 2024 onwards.
+
+9 Revenue pursuant to the **[Income statement.](#page-122-0)**
+
+## Page 89
+
+Image /page/88/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part, the word "Group" is written in red.
+
+[Combined Management Report](#page-17-0) [Further Information](#page-222-0) 
+
+Further Information
+
+#### PROPORTION OF CAPEX FROM PRODUCTS OR SERVICES ASSOCIATED WITH TAXONOMY-ALIGNED ECONOMIC ACTIVITIES – DISCLOSURE COVERING YEAR 2023
+
+|                                                                                                        |          |         | 2023                |                           | Substantial contribution criteria DNSH criteria (do no significant harm) |            |                  |            |              |                           |                           |       |                  |           |              |                    | 2022                                                                   |                            |                                |
+|--------------------------------------------------------------------------------------------------------|----------|---------|---------------------|---------------------------|--------------------------------------------------------------------------|------------|------------------|------------|--------------|---------------------------|---------------------------|-------|------------------|-----------|--------------|--------------------|------------------------------------------------------------------------|----------------------------|--------------------------------|
+| Economic activities                                                                                    | Code     | Capex   | Proportion of Capex | Climate change mitigation | Climate change adaptation                                                | Water      | Circular economy | Pollution  | Biodiversity | Climate change mitigation | Climate change adaptation | Water | Circular economy | Pollution | Biodiversity | Minimum safeguards | Proportion of Taxonomy-aligned (A.1) or -eligible enabling (A.2) Capex | Category enabling activity | Category transitional activity |
+| (1)                                                                                                    | (2)      | (3)     | (4)                 | (5)                       | (6)                                                                      | (7)        | (8)              | (9)        | (10)         | (11)                      | (12)                      | (13)  | (14)             | (15)      | (16)         | (17)               | (18)                                                                   | (19)                       | (20)                           |
+|                                                                                                        |          | €m      | %                   | Y1; N2; N/EL3             | Y; N; N/EL                                                               | Y; N; N/EL | Y; N; N/EL       | Y; N; N/EL | Y; N; N/EL   | Y; N                      | Y; N                      | Y; N  | Y; N             | Y; N      | Y; N         | Y; N               | %                                                                      | E4                         | T5                             |
+| A Taxonomy-eligible activities                                                                         |          |         |                     |                           |                                                                          |            |                  |            |              |                           |                           |       |                  |           |              |                    |                                                                        |                            |                                |
+| A.1 Environmentally sustainable activities (Taxonomy-aligned)                                          |          |         |                     |                           |                                                                          |            |                  |            |              |                           |                           |       |                  |           |              |                    |                                                                        |                            |                                |
+| Transport                                                                                              |          | 2,004   | 29.4                |                           |                                                                          |            |                  |            |              |                           |                           |       |                  |           |              |                    | 25.2                                                                   |                            |                                |
+| Operation of personal mobility devices, cycle logistics                                                | CCM 6.4  | 16      | 0.0                 | Y                         | N N/EL                                                                   | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y7                        | Y7    | Y                | Y7        | Y            | 0.0                |                                                                        |                            |                                |
+| Transport by motorbikes, passenger cars and light commercial vehicles                                  | CCM 6.5  | 2958    | 4.4                 | Y                         | N N/EL                                                                   | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y7                        | Y     | Y                | Y7        | Y            | 2.5                |                                                                        |                            |                                |
+| Transport by motorbikes, passenger cars and light commercial vehicles                                  | CCM 6.5  | 29      | 0.0                 | Y                         | N N/EL                                                                   | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y7                        | Y     | Y                | Y7        | Y            | 0.0                |                                                                        |                            |                                |
+| Freight transport services by road                                                                     | CCM 6.6  | 6410    | 0.9                 | Y                         | N N/EL                                                                   | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y7                        | Y     | Y                | Y7        | Y            | 0.2                |                                                                        |                            |                                |
+| Infrastructure enabling low-carbon road transport and public transport                                 | CCM 6.15 | 1,64211 | 24.1                | Y                         | N/EL N/EL                                                                | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y                         | Y     | Y                | Y         | Y            | 22.5               | E                                                                      |                            |                                |
+| Construction and real estate activities                                                                |          | 35      | 0.5                 |                           |                                                                          |            |                  |            |              |                           |                           |       |                  |           |              |                    | 0.0                                                                    |                            |                                |
+| Installation, maintenance and repair of renewable energy technologies                                  | CCM 7.6  | 512     | 0.1                 | Y                         | N N/EL                                                                   | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y7                        | Y7    | Y7               | Y7        | Y            | 0.0                | E                                                                      |                            |                                |
+| Acquisition and ownership of buildings                                                                 | CCM 7.7  | 3013    | 0.4                 | Y                         | N N/EL                                                                   | N/EL       | N/EL             | N/EL       | N/EL         | Y                         | Y7                        | Y7    | Y7               | Y7        | Y            | 0.0                |                                                                        |                            |                                |
+| Capex of environmentally sustainable activities (Taxonomy-aligned) (A.1)                               |          | 2,039   | 29.9                | 29.9%                     |                                                                          |            |                  |            |              |                           |                           |       |                  |           |              | 25.2               |                                                                        |                            |                                |
+| Of which Enabling                                                                                      |          | 1,647   | 24.2                | 24.2%                     |                                                                          |            |                  |            |              | Y                         | Y                         | Y     | Y                | Y         | Y            | 22.5               | E                                                                      |                            |                                |
+| Of which Transitional                                                                                  |          | 2       | 0.0                 | 0.0%                      |                                                                          |            |                  |            |              | Y                         | Y7                        | Y     | Y                | Y7        | Y            | 0.0                |                                                                        |                            |                                |
+| A.2 Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities) |          |         |                     | EL14; N/EL                | EL; N/EL                                                                 | EL; N/EL   | EL; N/EL         | EL; N/EL   | EL; N/EL     |                           |                           |       |                  |           |              |                    |                                                                        |                            |                                |
+| Transport                                                                                              |          | 2,845   | 41.7                |                           |                                                                          |            |                  |            |              |                           |                           |       |                  |           |              |                    | 20.0                                                                   |                            |                                |
+| Transport by motorbikes, passenger cars and light commercial vehicles                                  | CCM 6.5  | 247     | 3.6                 | EL                        | EL N/EL                                                                  | N/EL       | N/EL             | N/EL       | N/EL         |                           |                           |       |                  |           |              |                    | 2.3                                                                    |                            |                                |
+| Freight transport services by road                                                                     | CCM 6.6  | 393     | 5.8                 | EL                        | EL N/EL                                                                  | N/EL       | N/EL             | N/EL       | N/EL         |                           |                           |       |                  |           |              |                    | 5.5                                                                    |                            |                                |
+
+## Page 90
+
+Image /page/89/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in large, bold, red letters with three horizontal red lines to the left of the letters. Below the DHL letters is the word "Group" in smaller red letters.
+
+[The Company](#page-2-0) 
+
+[Consolidated Financial Statements](#page-122-0) 
+
+[Combined Management Report](#page-17-0) 
+
+|                                                                                                                                  |          |                    |              |              |             |             |      |      |             |                                                                                                              |          |       | 2023                       |                                 | Substantial contribution criteria |               |                     |               |                   |                                 |                                 | DNSH criteria (do no significant harm) |                     |           |                   |                            |                                                                           |                                  | 2022                                      |  |  |  |
+|----------------------------------------------------------------------------------------------------------------------------------|----------|--------------------|--------------|--------------|-------------|-------------|------|------|-------------|--------------------------------------------------------------------------------------------------------------|----------|-------|----------------------------|---------------------------------|-----------------------------------|---------------|---------------------|---------------|-------------------|---------------------------------|---------------------------------|----------------------------------------|---------------------|-----------|-------------------|----------------------------|---------------------------------------------------------------------------|----------------------------------|-------------------------------------------|--|--|--|
+| Infrastructure enabling low-carbon<br>road transport and public transport                                                        | CCM 6.15 | 1,001              | 14.7         | EL           | N/EL        | N/EL        | N/EL | N/EL | 12.2        | Economic activities                                                                                          | Code     | Opex  | Propor-<br>tion of<br>Opex | Climate<br>change<br>mitigation | Climate<br>change<br>adaptation   | Water         | Circular<br>economy | Pollution     | Bio-<br>diversity | Climate<br>change<br>mitigation | Climate<br>change<br>adaptation | Water                                  | Circular<br>economy | Pollution | Bio-<br>diversity | Minimum<br>safe-<br>guards | Proportion of<br>Taxonomy-<br>aligned (A.1)<br>or -eligible<br>(A.2) Opex | Category<br>enabling<br>activity | Category<br>transi-<br>tional<br>activity |  |  |  |
+| Passenger and freight air transport15                                                                                            | CCM 6.19 | 1,164              | 17.0         | EL           | N/EL        | N/EL        | N/EL | N/EL |             | (1)                                                                                                          | (2)      | (3)   | (4)                        | (5)                             | (6)                               | (7)           | (8)                 | (9)           | (10)              | (11)                            | (12)                            | (13)                                   | (14)                | (15)      | (16)              | (17)                       | (18)                                                                      | (19)                             | (20)                                      |  |  |  |
+| Air transport ground handling<br>operations15                                                                                    | CCM 6.20 | 40                 | 0.6          | EL           | N/EL        | N/EL        | N/EL | N/EL |             |                                                                                                              |          | €m    | %                          | Y1; N2;<br>N/EL3                | Y; N;<br>N/EL                     | Y; N;<br>N/EL | Y; N;<br>N/EL       | Y; N;<br>N/EL | Y; N;<br>N/EL     | Y; N                            | Y; N                            | Y; N                                   | Y; N                | Y; N      | Y; N              | Y; N                       | %                                                                         | E4                               | T5                                        |  |  |  |
+| <b>Construction and real estate activities</b>                                                                                   |          | <b>1,327</b>       | <b>19.5</b>  |              |             |             |      |      | <b>17.3</b> | A Taxonomy-eligible activities                                                                               |          |       |                            |                                 |                                   |               |                     |               |                   |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+| Construction of new buildings                                                                                                    | CCM 7.1  | 0                  | 0.0          | EL           | EL          | N/EL        | EL   | N/EL | 0.1         | A.1 Environmentally sustainable<br>activities (Taxonomy-aligned)                                             |          |       |                            |                                 |                                   |               |                     |               |                   |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+| Renovation of existing buildings                                                                                                 | CCM 7.2  | 21                 | 0.3          | EL           | EL          | N/EL        | EL   | N/EL | 0.0         | Transport                                                                                                    |          | 420   | 14.7                       |                                 |                                   |               |                     |               |                   |                                 |                                 |                                        |                     |           |                   |                            | 11.4                                                                      |                                  |                                           |  |  |  |
+| Installation, maintenance and repair of<br>energy efficiency equipment                                                           | CCM 7.3  | 1                  | 0.0          | EL           | EL          | N/EL        | N/EL | N/EL | 0.1         | Operation of personal mobility devices,<br>cycle logistics                                                   | CCM 6.4  | 306   | 1.0                        | Y                               | N                                 | N/EL          | N/EL                | N/EL          | N/EL              | Y                               | Y                               | Y7                                     | Y                   | Y         | Y7                | Y                          | 1.0                                                                       |                                  |                                           |  |  |  |
+| Acquisition and ownership of buildings                                                                                           | CCM 7.7  | 1,305              | 19.2         | EL           | EL          | N/EL        | N/EL | N/EL | 17.1        | Transport by motorbikes, passenger<br>cars and light commercial vehicles                                     | CCM 6.5  | 768   | 2.7                        | Y                               | N                                 | N/EL          | N/EL                | N/EL          | N/EL              | Y                               | Y                               | Y7                                     | Y                   | Y         | Y7                | Y                          | 1.8                                                                       |                                  |                                           |  |  |  |
+| <b>Information and communication</b>                                                                                             |          | <b>10</b>          | <b>0.1</b>   |              |             |             |      |      | <b>0.1</b>  | Freight transport services by road                                                                           | CCM 6.6  | 99    | 0.3                        | Y                               | N                                 | N/EL          | N/EL                | N/EL          | N/EL              | Y                               | Y                               | Y7                                     | Y                   | Y         | Y7                | Y                          | 0.3                                                                       |                                  |                                           |  |  |  |
+| Data processing, hosting and related<br>activities                                                                               | CCM 8.1  | 10                 | 0.1          | EL           | EL          | N/EL        | N/EL | N/EL | 0.1         | Infrastructure enabling low-carbon<br>road transport and public transport                                    | CCM 6.15 | 30510 | 10.7                       | Y                               | N/EL                              | N/EL          | N/EL                | N/EL          | N/EL              | Y                               | Y                               | Y                                      | Y                   | Y         | Y                 | Y                          | 8.3                                                                       | E                                |                                           |  |  |  |
+| <b>Capex of Taxonomy-eligible but not<br/>environmentally sustainable activities<br/>(not Taxonomy-aligned activities) (A.2)</b> |          | <b>4,182</b>       | <b>61.3</b>  | <b>61.3%</b> | <b>0.0%</b> | <b>0.0%</b> |      |      | <b>37.4</b> | Opex of environmentally sustainable<br>activities (Taxonomy-aligned) (A.1)                                   |          | 420   | 14.7                       | 14.7%                           |                                   | 0.0%          |                     |               |                   |                                 |                                 |                                        |                     |           |                   |                            | 11.4                                                                      |                                  |                                           |  |  |  |
+| <b>A Capex of Taxonomy eligible activities<br/>(A.1 + A.2)</b>                                                                   |          | <b>6,221</b>       | <b>91.2</b>  | <b>91.2%</b> | <b>0.0%</b> | <b>0.0%</b> |      |      | <b>62.0</b> | Of which Enabling                                                                                            |          | 305   | 10.7                       | 10.7%                           |                                   | 0.0%          |                     |               |                   |                                 | Y                               | Y                                      | Y                   | Y         | Y                 | Y                          | 8.3                                                                       | E                                |                                           |  |  |  |
+| <b>B Taxonomy-non-eligible activities</b>                                                                                        |          |                    |              |              |             |             |      |      |             | Of which Transitional                                                                                        |          | 0     | 0.0                        | 0.0%                            |                                   |               |                     |               |                   |                                 | Y                               | Y                                      | Y                   | Y         | Y                 | Y                          | 0.0                                                                       |                                  | T                                         |  |  |  |
+| <b>Capex of Taxonomy-non-eligible<br/>activities</b>                                                                             |          | <b>598</b>         | <b>8.8</b>   |              |             |             |      |      |             | A.2 Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) |          |       |                            | EL11;<br>N/EL                   | EL;<br>N/EL                       | EL;<br>N/EL   | EL;<br>N/EL         | EL;<br>N/EL   | EL;<br>N/EL       |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+| <b>Total (A + B)</b>                                                                                                             |          | <b>6,81916, 17</b> | <b>100.0</b> |              |             |             |      |      |             | Transport                                                                                                    |          | 1,327 | 46.3                       |                                 |                                   |               |                     |               |                   |                                 |                                 |                                        |                     |           |                   |                            | 25.2                                                                      |                                  |                                           |  |  |  |
+| Operation of personal mobility devices,<br>cycle logistics                                                                       | CCM 6.4  | 1                  | 0.0          | EL           | EL          | N/EL        | N/EL | N/EL | N/EL        |                                                                                                              |          |       |                            |                                 |                                   |               | 0.1                 |               |                   |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+| Transport by motorbikes, passenger<br>cars and light commercial vehicles                                                         | CCM 6.5  | 298                | 10.4         | EL           | EL          | N/EL        | N/EL | N/EL | N/EL        |                                                                                                              |          |       |                            |                                 |                                   |               | 6.8                 |               |                   |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+| Freight transport services by road                                                                                               | CCM 6.6  | 291                | 10.2         | EL           | EL          | N/EL        | N/EL | N/EL | N/EL        |                                                                                                              |          |       |                            |                                 |                                   |               | 12.5                |               |                   |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+| Sea and coastal freight water transport,<br>vessels for port operations and auxiliary<br>activities                              | CCM 6.10 | 2                  | 0.1          | EL           | EL          | N/EL        | N/EL | N/EL | N/EL        |                                                                                                              |          |       |                            |                                 |                                   |               | 0.2                 |               |                   |                                 |                                 |                                        |                     |           |                   |                            |                                                                           |                                  |                                           |  |  |  |
+
+1 Yes, taxonomy-eligible and taxonomy-aligned activity with the relevant objective.
+
+2 No, taxonomy-eligible but not Taxonomy-aligned activity with the relevant objective.
+
+3 Not eligible, taxonomy-non-eligible activity for the relevant objective.
+
+4 Enabling.
+
+5 Transitional.
+
+6 Of which property, plant and equipment: €1 million.
+
+7 No DNSH criteria established.
+
+8 Of which property, plant and equipment: €92 million, right-of-use assets: €203 million.
+
+9 Of which property, plant and equipment: €2 million.
+
+10 Of which property, plant and equipment: €51 million, right-of-use assets: €13 million.
+
+11 Of which intangible assets: €24 million, property, plant and equipment: €848 million, right-of-use assets: €770 million.
+
+12 Of which property, plant and equipment: €5 million.
+
+13 Of which right-of-use assets: €30 million.
+
+14 Eligible, taxonomy-eligible activity for the relevant objective.
+
+15 Taxonomy-alignment will be reported as of fiscal-year 2024.
+
+16 Including Capex pursuant to segment reporting and investment properties: €6,709 million, **[Note 10](#page-152-0) [and 24 to the consolidated financial statements.](#page-170-0)** 
+
+17 Including additions from business combinations: €109 million, of which intangible assets (excluding goodwill): €14 million, property, plant and equipment: €46 million, right-of-use assets: €49 million **[Note 22](#page-166-0) [and 23 to the consolidated financial statements.](#page-169-0)**
+
+## Page 91
+
+Image /page/90/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part, the word "Group" is written in red.
+
+[Combined Management Report](#page-17-0) [Further Information](#page-222-0) 
+
+Further Information
+
+#### PROPORTION OF OPEX FROM PRODUCTS OR SERVICES ASSOCIATED WITH TAXONOMY-ALIGNED ECONOMIC ACTIVITIES – DISCLOSURE COVERING YEAR 2023
+
+## Page 92
+
+Image /page/91/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized font with three horizontal lines to the left of the letters. Below the DHL part of the logo is the word "Group" in red.
+
+[Consolidated Financial Statements](#page-122-0) 
+
+[Combined Management Report](#page-17-0) [Further Information](#page-222-0) 
+
+Further Information
+
+| Infrastructure enabling low-carbon<br>road transport and public transport                                              | CCM 6.15 | 158     | 5.5   | EL    | N/EL | N/EL | N/EL | N/EL | 5.6  |
+|------------------------------------------------------------------------------------------------------------------------|----------|---------|-------|-------|------|------|------|------|------|
+| Passenger and freight air transport12                                                                                  | CCM 6.19 | 567     | 19.8  | EL    | N/EL | N/EL | N/EL | N/EL |      |
+| Air transport ground handling<br>operations12                                                                          | CCM 6.20 | 10      | 0.3   | EL    | N/EL | N/EL | N/EL | N/EL |      |
+| Construction and real estate activities                                                                                |          | 583     | 20.4  |       |      |      |      |      | 20.5 |
+| Construction of new buildings                                                                                          | CCM 7.1  | 2       | 0.1   | EL    | EL   | N/EL | EL   | N/EL | 0.1  |
+| Acquisition and ownership of buildings                                                                                 | CCM 7.7  | 581     | 20.3  | EL    | EL   | N/EL | N/EL | N/EL | 20.4 |
+| Information and communication                                                                                          |          | 24      | 0.8   |       |      |      |      |      | 0.8  |
+| Data processing, hosting and related<br>activities                                                                     | CCM 8.1  | 24      | 0.8   | EL    | EL   | N/EL | N/EL | N/EL | 0.8  |
+| Opex of Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) (A.2) |          | 1,934   | 67.5  | 67.5% | 0.0% | 0.0% |      |      | 46.5 |
+| A Opex of Taxonomy eligible activities<br>(A.1 + A.2)                                                                  |          | 2,354   | 82.2  | 82.2% | 0.0% | 0.0% |      |      | 57.9 |
+| B Taxonomy-non-eligible activities                                                                                     |          |         |       |       |      |      |      |      |      |
+| Opex of Taxonomy-non-eligible activities                                                                               |          | 509     | 17.8  |       |      |      |      |      |      |
+| Total (A + B)                                                                                                          |          | 2,86313 | 100.0 |       |      |      |      |      |      |
+
+1 Yes, taxonomy-eligible and taxonomy-aligned activity with the relevant objective.
+
+2 No, taxonomy-eligible but not Taxonomy-aligned activity with the relevant objective.
+
+3 Not eligible, taxonomy-non-eligible activity for the relevant objective.
+
+4 Enabling.
+
+5 Transitional.
+
+6 Of which costs for maintenance, repair and spare parts: €10 million, expenses for short-term and low-value leases: €20 million.
+
+8 Of which costs for maintenance, repair and spare parts: €72 million, expenses for short-term and low-value leases: €4 million.
+
+9 Of which costs for maintenance, repair and spare parts: €8 million, expenses for short-term and low-value leases: €1 million.
+
+10 Of which costs for maintenance, repair and spare parts: €231 million, expenses for short-term and low-value leases: €74 million.
+
+11 Eligible, taxonomy-eligible activity for the relevant objective.
+
+12 Taxonomy-alignment will be assessed for fiscal-year 2024 onwards.
+
+13 Including investment-related Opex in particular costs for maintenance and non-capitalised lease expenses pursuant to **[Note 14 to the consolidated financial statements.](#page-158-0)**
+
+<sup>7</sup> No DNSH criteria established.
+
+## Page 93
+
+Image /page/92/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of three letters, with three horizontal lines to the left of the letters. The word "Group" is in black and is located to the right and below the DHL part of the logo. The background is yellow.
+
+[Combined Management Report](#page-17-0) [Further Information](#page-222-0) 
+
+#### PROPORTION OF REVENUE / TOTAL REVENUE
+
+| %    | Taxonomy-aligned per objective | Taxonomy-eligible per objective |
+|------|--------------------------------|---------------------------------|
+| CCM1 | 14.6                           | 65.                             |
+| CCA2 | 0.0                            | 39.                             |
+| WTR3 |                                | 0.                              |
+| CE4  | 0.0                            | 0.                              |
+| PPC5 |                                | 0.                              |
+| BIO6 |                                | 0.                              |
+
+#### PROPORTION OF CAPEX / TOTAL CAPEX
+
+| %    | Taxonomy-aligned per objective | Taxonomy-eligible per objective |
+|------|--------------------------------|---------------------------------|
+| CCM1 | 29.9                           | 91.2                            |
+| CCA2 | 0.0                            | 34.8                            |
+| WTR3 |                                | 0.0                             |
+| CE4  | 0.0                            | 0.0                             |
+| PPC5 |                                | 0.0                             |
+| BIO6 |                                | 0.0                             |
+
+#### PROPORTION OF OPEX / TOTAL OPEX
+
+| %    | Taxonomy-aligned per objective | Taxonomy-eligible per objective |
+|------|--------------------------------|---------------------------------|
+| CCM1 | 14.7                           | 82.2                            |
+| CCA2 | 0.0                            | 45.9                            |
+| WTR3 |                                | 0.0                             |
+| CE4  | 0.0                            | 0.0                             |
+| PPC5 |                                | 0.0                             |
+| BIO6 |                                | 0.0                             |
+
+1 Climate Change Mitigation.
+
+2 Climate Change Adaptation.
+
+3 Water and Marine Resources.
+
+4 Circular Economy.
+
+5 Pollution Prevention and Control.
+
+6 Biodiversity and Ecosystems.
+
+## Page 94
+
+<span id="page-93-0"></span>Image /page/93/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+## EXPECTED DEVELOPMENTS, OPPORTUNITIES AND RISKS
+
+#### Forecast period
+
+The information contained in the report on expected developments generally refers to the 2024 fiscal year.
+
+#### Future economic prospects
+
+#### Geopolitical instability restrains global economic recovery
+
+The ongoing geopolitical dislocations will likely continue to dampen global demand and trade in 2024. The easing tensions in global energy markets seen in 2023 could persist in 2024, thus supporting the current declining trend for inflation. However, the associated increase in real purchasing power will provide only a partial offset to the prevailing unsettledness among investors and consumers. Overall, global annual average GDP growth should weaken modestly once again from 2.7% in 2023 to 2.3% in 2024.
+
+For the most important countries and regions, S&P Global Market Intelligence predicts the following GDP growth rates in 2024: growth in China and the United States is expected to weaken to 4.7% and 1.7%, respectively, and to remain roughly steady at a very subdued 0.4% in the eurozone. The German economy should see mild GDP growth of 0.3%, reflecting a gradual strengthening of growth momentum throughout the year following the recession experienced during the second half of 2023.
+
+#### Highly cyclical international express market
+
+Growth in the international express market, particularly in the B2B segment, is highly dependent upon the economic situation. For 2024, we still expect only moderate growth, depending on economic development.
+
+#### Freight business influenced by demand and geopolitical developments
+
+Developments in freight logistics are also heavily dependent upon the economic situation and are difficult to predict in light of the uncertain market situation. However, in air and ocean freight, we expect a cautious revival in terms of demand due to the economic conditions and anticipate moderate growth for 2024. In addition, for the ocean freight market especially, the speed with which the capacity bottleneck tensions ease on the Red Sea is of importance.
+
+In light of rather moderate economic development, we also expect only restrained volume growth in the European road transport market in 2024, but we are also still faced with high prices.
+
+#### Contract logistics market continues to grow
+
+Growth in omnichannel e-commerce as well as geopolitical challenges will continue to increase the complexity of supply chains. This, together with the apparent vulnerability of traditional supply chains and the increasing complexity of global trade relations, will increase the demand for flexible and agile solutions, further driving outsourcing. Furthermore, in the current phase of the economic cycle, many companies are reviewing their structures and cost situations, which could result in a slightly increased willingness to outsource logistics. Therefore, the market for contract logistics is likely to continue growing, yet inflation, general economic conditions and labor shortages represent both an opportunity and a threat.
+
+#### Stable growth prospects for eCommerce
+
+It is to be expected that the share of e-commerce in total retail revenue will continue to grow. In line with the implementation of our plans for expansion, we will continue to invest in our network, efficient workflows for the last mile and infrastructure so that we remain reliable and affordable for our customers. We also see additional opportunities for growth thanks to our entry into the Turkish market as well.
+
+## Page 95
+
+<span id="page-94-0"></span>Image /page/94/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters with three horizontal lines extending from the left side. Below the DHL part of the logo is the word "Group" in red.
+
+#### Stable trends in the relevant post and parcel markets
+
+The German market for paper-based mail communication will decline further as digital communication increases. We will continue to adapt the Post & Parcel Germany product portfolio to reflect this development.
+
+The German advertising market should rise slightly in 2024. However, the shift from paper-based advertising to online marketing will continue, so that the volumes in the physical advertising market – and thus for our Dialogue Marketing services – are expected to be in decline.
+
+According to current predictions, the rising number of goods shipments will partially compensate for significantly declining volumes of documents in international business. Intra-European and international e-commerce could once again grow significantly.
+
+We expect development in e-commerce to stabilize and the German parcel market to grow slightly again in 2024 and are therefore expanding our parcel network and our network of Pack- and Poststations. We are also expanding our range of electronic communications services, securing our standing as a quality leader and, where possible, making our transport and delivery costs more flexible.
+
+#### Expected developments
+
+#### Result well over the pre-pandemic level, even in face of persistent economic situation
+
+The first half of the 2024 fiscal year will foreseeably still be shaped by the lack of any broad upward trend in the economy. The comparison with the first half of the previous year, when freight rates were still extraordinarily high in some cases, could be negative. If the economic forecasts currently available prove to be largely accurate, the result in the second half of the year should come in above the level of the comparable prior-year period. With undiminished focus on cost and price management, however, we still expect Group profit to be well above the level of the pre-pandemic years, even with a continuation of weak economic development.
+
+#### Expectations for consolidated EBIT
+
+In the 2024 fiscal year, we anticipate consolidated EBIT between €6.0 billion and €6.6 billion. The DHL divisions are projected to generate total EBIT of more than €5.7 billion. In the Post & Parcel Germany division, EBIT is forecast to come in at more than €0.8 billion. Group Functions is anticipated to contribute around €–0.45 billion to earnings.
+
+#### Dividend proposal: €1.85 per share
+
+The Board of Management and the Supervisory Board will propose to the shareholders at the Annual General Meeting on May 3, 2024, a **[dividend](#page-39-0)** of €1.85 per share for the 2023 fiscal year (previous year: €1.85).
+
+#### Group's credit rating remains the same
+
+As of the reporting date, our credit rating was still at "A2" with a stable outlook according to Moody's Investor Service and was classified as "BBB+" with a positive outlook by Fitch Ratings. As part of our finance strategy, we still strive for a stand-alone target rating between "Baa1" and "A3" and "BBB+" and "A–," respectively.
+
+#### Liquidity remains solid
+
+Due to the dividend payment for the 2023 fiscal year in May 2024, our liquidity is expected to decrease up to mid-year 2024. Due to the usually good business development in the second half of the year, the liquidity situation should improve again toward the end of the year.
+
+#### Investments of €3.0 billion to €3.6 billion
+
+As in the previous year, we want to manage investments in our strategic goals and further growth in a balanced way, in line with the challenging economic environment. We plan for capital expenditure (excluding leases) to range between €3.0 billion and €3.6 billion in 2024, while focusing on the same areas as in previous years.
+
+## Page 96
+
+<span id="page-95-0"></span>Image /page/95/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized, bold font with three horizontal lines to the left of the letters. Below the DHL part of the logo, the word "Group" is written in red.
+
+#### Expected EAC and free cash flow
+
+In view of the expected EBIT development in combination with a predicted increase in the asset charge, we expect the EAC to be down slightly year over year. Free cash flow is projected at around €2.75 billion, including a €250 million overall budget for M&A expenses.
+
+#### Limiting greenhouse gas emissions
+
+The development of GHG emissions in the 2024 fiscal year will also depend on the development of the global economy. If transport volumes undergo weaker development, we expect logistics-related GHG emissions to remain approximately at the prior-year level; if the economy proves to be more dynamic, we aim to limit GHG emissions to a maximum of 34.9 million tons of CO₂e. This includes decarbonization effects of 1.5 million tons of CO₂e. We continue to expect a significant reduction to not come until the second half of the decade.
+
+#### Continued strong employee engagement
+
+Employee Engagement should amount to more than 80% across the Group in the 2024 fiscal year as well; this figure is expected to remain steady at least this high level through 2025.
+
+#### Increase share of female executives
+
+In the 2024 fiscal year, 28.8% of the positions in middle and upper management should be held by women; the share of women should rise to at least 30% by 2025.
+
+#### Keep LTIFR stable
+
+The LTIFR per 200,000 working hours should be kept at a maximum of 3.3 in the 2024 fiscal year; by 2025, this figure should be reduced to less than 3.1. Beginning in the 2024 reporting period, we will adjust the performance indicator to one million working hours, which means the target then corresponds to 16.5 and 15.5 in the year 2025.
+
+#### Conduct compliance-relevant training
+
+In the reporting year, the share of valid training certificates among middle and upper management should remain at the high level and amount to 98%.
+
+#### External cybersecurity rating
+
+The cybersecurity rating from BitSight should be within the upper quartile of the comparison group and amount to at least 690 points. If BitSight once again changes its rating scale, we will adjust this figure in line with the change.
+
+#### Opportunity and risk management
+
+#### Uniform reporting standard
+
+As an internationally operating logistics company, we are facing numerous changes. Our aim is to identify the resulting opportunities and risks at an early stage and take the necessary measures in the specific areas affected in due time, to ensure that we achieve a sustained increase in enterprise value. Our Group-wide opportunity and risk management system (RMS) facilitates this aim. Each quarter, executives estimate the impact of future scenarios, evaluate opportunities and risks in their departments and present planned measures as well as those already taken. Queries are made and approvals given on a hierarchical basis to ensure that different managerial levels are involved in the process. Opportunities and risks can also be reported at any time on an ad hoc basis.
+
+We implemented the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) as well as the provisions of the EU Taxonomy also in 2023. This involves discussing and assessing both transitory and physical risks stemming from climate change using various scenarios. The material risks identified during this process are explained in "Opportunity and risk categories."
+
+## Page 97
+
+Image /page/96/Picture/0 description: The image shows the DHL Group logo. The logo is red and consists of the letters "DHL" in a stylized font, with three horizontal lines to the left of the letters. Below the letters is the word "Group" in a smaller, sans-serif font. The background is yellow.
+
+Our early-identification process intertwines the RMS throughout the Group into a uniform reporting standard using a proprietary IT application that is constantly updated. Furthermore, we use a Monte Carlo simulation for the purpose of aggregating opportunities and risks in standard evaluations.
+
+The simulation is a stochastic model that takes the probability of occurrence of the underlying risks and opportunities into consideration and is based upon the law of large numbers. Randomly selected scenarios – one for each opportunity and risk – are combined on the basis of the distribution functions for each individual opportunity and risk.
+
+The most important steps in our opportunity and risk management process are:
+
+Image /page/96/Figure/6 description: The image shows a diagram of an opportunity and risk management process. The diagram is a cycle with five stages: 1. Identify and Assess (Assess, Define measures, Analyse, Identify), 2. Aggregate and Report (Review, Supplement and change, Aggregate, Report), 3. Overall Strategy/Risk Management/Compliance (Determine, Manage), 4. Operating Measures (Plan, Implement), and 5. Control (Review results, Review measures, Monitor early warning indicators). In the center of the cycle, it says "Corporate Audit Reviews Processes". The cycle is color-coded to indicate the different groups involved in each stage: Divisions (yellow), Opportunity and risk-controlling processes (red), Board of Management (gray), and Corporate Audit (black).
+
+**1. Identify and assess:** Managers in all divisions and regions evaluate the opportunity and risk situation on a quarterly basis and document the actions taken. They use scenarios to assess best, expected and worst cases. The measurement period usually corresponds to the planning period, but it can also be long term or latent. Each identified risk is assigned to at least one risk owner who assesses and monitors the risk, specifies possible procedures for going forward and then files a report. The same applies to opportunities. At least one management process used to measure net risk exposure must be reported for each opportunity or risk. In isolated cases where it is not initially possible to make a quantitative assessment, risks may be assessed on a qualitative basis to ensure that the full scope of all risks is captured. The results are compiled in a database. We also conduct an annual risk workshop for each division with the Divisional Boards, as supplements to the quarterly process. Workshop discussion focuses on opportunities and risks of significance to the whole division. At the same time, newly identified opportunities and risks are subsequently integrated into the quarterly process.
+
+**2. Aggregate and report:** The controlling units collect the results, evaluate them and review them for plausibility. If individual financial effects overlap, this is noted in our database and taken into account in the compilation process. After being approved by the division risk owners, all results are passed on to the next level in the hierarchy. The last step is complete when Corporate Controlling reports to the Group Board of Management and the Supervisory Board on significant opportunities and risks as well as on the potential overall impact each division might experience. For this purpose, opportunities and risks are aggregated for the key organizational levels. We use two methods for this. In the first method, we calculate a possible spectrum of results for the divisions
+
+## Page 98
+
+Image /page/97/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized, bold font with three horizontal lines extending from the left side. Below the DHL part of the logo, the word "Group" is written in a smaller, sans-serif font, also in red. The background of the logo is yellow.
+
+and combine the respective scenarios. The totals for "worst case" and "best case" indicate the total spectrum of results for the respective division. Within these extremes, the total "expected cases" shows current expectations. The second method makes use of a Monte Carlo simulation, the divisional results of which are regularly included in the opportunity and risk reports to the Board of Management and the Supervisory Board.
+
+**3. Overall strategy:** The Group Board of Management decides on the methodology that will be used to analyze and report on opportunities and risks. The reports created by Corporate Controlling provide the Board of Management with an additional, regular source of information for managing the Group as a whole. The Group Board of Management has defined the thresholds for risk tolerance and risk-bearing ability and uses the Monte Carlo simulation to review the necessity for strategic changes on a quarterly basis. The Board of Management is supported in its duties by a Risk Committee, which analyzes individual risks on a quarterly basis and reviews the results from risk reporting. The Risk Committee also regularly discusses adjustments to the opportunity and risk management process.
+
+**4. Operating measures:** The measures to be used to take advantage of opportunities and manage risks are determined within the individual organizational units. They use cost–benefit analyses to assess whether risks can be avoided, mitigated or transferred to third parties.
+
+**5. Control:** With respect to key opportunities and risks, early-warning indicators have been defined that are monitored constantly by the risk owners. Corporate Internal Audit has the task of ensuring that the Board of Management's specifications are adhered to. It also reviews the quality of the entire opportunity and risk management operation. The control units regularly analyze all parts of the process as well as the reports from Corporate Internal Audit and the independent auditor, with the goal of identifying potential for improvement and making adjustments to processes where necessary.
+
+#### Reporting and assessing opportunities and risks
+
+In the following, we have reported mainly on those risks and opportunities that, from a current standpoint, could have a significant impact on the Group during the forecast period beyond the impact already accounted for in the business plan. In addition, we consider both long-term as well as latent opportunities and risks, with the latter unable to be assigned to a particular year or time horizon. Opportunities and risks are assessed according to their probability of occurrence and their impact. As part of this, the effects for quantitative opportunities and risks are measured by EBIT, the financial result and direct effects on equity. The assessment is used to classify opportunities and risks as either low, medium or high. Medium and high risks and opportunities are considered significant and are shown as red or yellow in the following table. The following assessment scale is used (measured on a net basis):
+
+## Page 99
+
+Image /page/98/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal lines to the left of the letters. Below the letters is the word "Group" in red.
+
+#### CLASSIFICATION OF RISKS AND OPPORTUNITIES
+
+Image /page/98/Figure/4 description: The image shows a risk matrix for planned group EBIT. The matrix is divided into two sections: Risks and Opportunities. The y-axis represents the probability of occurrence in percentage, with three categories: > 50, > 15 to ≤ 50, and ≤ 15. The x-axis represents the effects in €m, with six categories: < -500, -500 to -151, -150 to 0, 0 to 150, 151 to 500, and > 500. The Risks section has cells colored red, yellow, and gray. The Opportunities section also has cells colored red, yellow, and gray. The matrix is used to assess the significance for the group.
+
+High Medium Low
+
+The following assessment scale is used for qualitative risks (measured on a net basis):
+
+Image /page/98/Figure/13 description: The image is a risk assessment matrix. The y-axis is labeled "Risks" and has three categories: '> 50', '> 15 to ≤ 50', and '≤ 15'. The x-axis is labeled "Effects" and has three categories: 'High', 'Medium', and 'Low'. The matrix is a 3x3 grid. The cell at the intersection of '> 50' and 'High' is colored red. The cell at the intersection of '> 50' and 'Medium' is colored yellow. The cell at the intersection of '> 15 to ≤ 50' and 'High' is colored yellow. All other cells are colored gray. A legend at the bottom of the image indicates that red represents 'High', yellow represents 'Medium', and gray represents 'Low' significance for the group.
+
+#### ASSESSING QUALITATIVE RISKS
+
+High-impact risks tend to affect the entire Group, whereas medium-impact risks play out at a divisional level and low-impact risks at a local level. Qualitative risks can be assigned in terms of their impact to financial risk, reputational risk, operational risk and environmental risk.
+
+The opportunities and risks described here are not necessarily the only ones the Group faces or is exposed to. Our business activities could also be influenced by additional factors that we are currently unaware of or that we do not yet consider to be material.
+
+Opportunities and risks are identified and assessed decentrally at DHL Group. Reporting on possible deviations from projections, as well as long-term and latent opportunities and risks, occurs primarily at the country or regional level. In view of the degree of detail provided in the internal reports, we have combined the decentrally reported opportunities and risks in categories for the purposes of this report. It should be noted that the figures provided in the underlying individual reports exhibit a significant correlation with
+
+## Page 100
+
+<span id="page-99-0"></span>Image /page/99/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of a stylized, bold font with three horizontal lines extending from the left side of the 'D'. Below the DHL part, also in red, is the word 'Group' in a smaller, less bold font. The background is yellow.
+
+the performance of the world economy and global economic output. Unless otherwise specified, a low relevance is attached to the individual opportunities and risks within the respective categories. The opportunities and risks generally apply to all divisions, unless indicated otherwise.
+
+### Opportunity and risk categories
+
+#### Overview of material opportunities and risks
+
+We identify opportunities and risks along the categories described in the following overview. In the overview, we allocated our material opportunities and risks to these categories with the corresponding significance and measurement and explained them in the following pages:
+
+#### OVERVIEW OF MATERIAL OPPORTUNITIES AND RISKS ALONG OUR CATEGORIES
+
+| Category                                   | Material opportunity/material risk¹                                                                                                                              | Significance                         | Measurement                                                                  |
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
+| Corporate strategy                         | Market pressure on pricing (1)                                                                                                                                   | Medium                               | Quantitative                                                                 |
+| Legal and compliance-related               | None                                                                                                                                                             | -                                    | -                                                                            |
+| Capital expenditure and projects           | None                                                                                                                                                             | -                                    | -                                                                            |
+| Operational                                | Risk of operational restrictions due to climate change (2)                                                                                                       | Medium                               | Qualitative                                                                  |
+| Human resources                            | None                                                                                                                                                             | -                                    | -                                                                            |
+| Information technology                     | IT security incident (3)                                                                                                                                         | Medium                               | Quantitative                                                                 |
+| Financial                                  | Influence of interest rates on pension obligations (opportunity and risk) (4)<br>Currency effects (opportunity and risk) (5)                                     | Medium<br>Medium                     | Quantitative<br>Quantitative                                                 |
+| Tax-related                                | None                                                                                                                                                             | -                                    | -                                                                            |
+| Real estate                                | None                                                                                                                                                             | -                                    | -                                                                            |
+| Market- and customer-specific              | Customer insolvencies (6)<br>Development of the global economy (7)<br>Inflation (8)<br>Availability of renewable energy and sustainable aviation fuels (SAF) (9) | Medium<br>Medium<br>Medium<br>Medium | Quantitative<br>Quantitative<br>Quantitative<br>Quantitative/<br>Qualitative |
+| Regulation                                 | Regulatory framework of the German post and parcel market (10)<br>Carbon taxation (11)<br>Restriction of greenhouse gas emissions (12)                           | Medium<br>Medium<br>Medium           | Quantitative<br>Qualitative<br>Qualitative                                   |
+| Environment, catastrophes and<br>epidemics | None                                                                                                                                                             | -                                    | -                                                                            |
+
+1 Material opportunities and risks are referenced based on the corresponding figures in the following descriptions of individual categories.
+
+Both the material as well as the immaterial opportunities and risks from the overview are specified in the following. Unless otherwise explicitly labeled, these are considered immaterial.
+
+#### Opportunities and risks arising from corporate strategy
+
+Over the past few years, the Group has ensured that its business activities are well positioned in the world's fastest-growing regions and markets. We are also constantly working to create efficient structures in all areas to enable us to flexibly adapt capacities and costs to demand, which is a condition for lasting, profitable business success. With respect to our strategic orientation, we are focusing on our core competencies in the logistics and letter mail businesses. Our earnings projections regularly take account of development opportunities arising from our strategic orientation.
+
+We take action early to counter potential strategic risks. In doing so, it helps that our portfolio of customers and supplier companies is as broad as possible and that we focus on profitable sectors and products, regularly review customer and product performance, practice strict cost management and add surcharges whenever necessary.
+
+## Page 101
+
+Image /page/100/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of stylized letters. There are three horizontal red lines to the left of the letters. The word "Group" is in red and is located below the right side of the DHL letters. The background is yellow.
+
+In the Express division, our future success depends, above all, upon general factors such as trends in the competitive environment, costs and quantities transported. In addition, market capacities could restrict our pricing leeway due to market pressure from customers and competitors, which represents a risk of medium significance for us (1). We plan to keep growing our international business and expect a further increase in shipment volumes over the medium and long term. Based upon this assumption, we are investing in our network, our services, our employees and the DHL brand.
+
+In the Global Forwarding, Freight division, we purchase transport services for customers from airlines, shipping companies and freight carriers rather than providing them ourselves. In the best case, we are able to outsource transport services at such a low rate that we can generate a margin. In the worst-case scenario, we bear the risk of not being able to pass on all price increases to our customers. The extent of our opportunities and risks essentially depends on trends in the supply, demand and pricing of transport services as well as the duration of our contracts. Comprehensive knowledge in the area of brokering transport services helps us to capitalize on opportunities and minimize risk.
+
+In the Supply Chain division, our success is highly dependent on our customers' business performance. Since we offer companies a widely diversified range of products in different sectors all over the world, we are able to diversify our risk portfolio and thus counteract the incumbent risks. Our future success moreover depends on our ability to continuously improve our existing business, seamlessly integrate new business and grow in our most important markets and segments.
+
+The eCommerce division is responsible for domestic and international non-time-definite standard parcel delivery services in various countries around the globe. It predominantly serves customers in the fast-growing e-commerce sector. Our goal is to leverage our international resources and services to build a cross-border solutions platform that can be connected to the most cost-efficient networks for last-mile delivery. We want to grow profitably in all sectors and segments. To counteract the fundamental risk of rising cost pressure, we took measures with which we intend to improve network efficiency and cost flexibility. Whether e-commerce merchants invest in the establishment and operation of delivery organizations in addition to other market participants results in opportunities and risks for the eCommerce division, as well as for the parcel business in Germany. In this regard, it can be observed that this type of investing activity currently appears to be in decline among e-commerce merchants.
+
+In the German mail and parcel business, we are responding to the challenges posed by the structural shift from a physical to a digital business and the continual decline in letter mail occurring parallel to the steady increase in volumes of parcels and merchandise mail items. We are counteracting the risk arising from changing demand by expanding our range of services. Due to the rise in e-commerce, we expect our parcel business to continue growing in the coming years and are therefore expanding our network of Pack- and Poststations. We are also expanding our range of electronic communications services, securing our standing as a quality leader and, where possible, making our transport and delivery costs more flexible. We follow developments in the market very closely and take them into account in our earnings projections.
+
+We currently do not see any further specific corporate strategy opportunities or risks of material significance, either for the Group or individual divisions.
+
+#### Legal and compliance-related opportunities and risks
+
+Legal disputes may arise in the case of noncompliance with national or international laws and regulations as well as agreements. Examples are violations of antitrust and competition law. Investigations of any such violations may result in considerable costs, penalties and damage to our company's reputation, which could have a disadvantageous impact on the business activities of the Group.
+
+Compliance with laws, regulations and agreements is a clearly formulated obligation of all employees of the Group, and ensuring this is one of the fundamental tasks of our managers. To support our employees and managers, we have established a corporate compliance unit differentiated according to relevant topics that, on the basis of our risk management system, monitors compliance with Group-wide standards at both Group and divisional level with respect to typical compliance risks. Thus, in addition to our compliance initiative aimed at preventing fraud and fighting corruption and violations of cartel and competition law, we have introduced initiatives in all divisions intended to ensure compliance with data protection laws – for example, to ensure adherence to the provisions of the European Union's General Data Protection Regulation (GDPR). A similar, Group-wide compliance initiative
+
+## Page 112
+
+<span id="page-111-0"></span>Image /page/111/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters "DHL" is the word "Group" in red.
+
+## GOVERNANCE
+
+### Annual Corporate Governance Statement
+
+pursuant to Sections 289f and 315d HGB with respect to Deutsche Post AG and DHL Group.
+
+#### Declaration of Conformity with the German Corporate Governance Code
+
+Deutsche Post AG complied with the suggestions and recommendations of the German Corporate Governance Code in the year under review. The Board of Management and Supervisory Board intend to comply with all suggestions and recommendations in the future as well. In December 2023, they issued the following Declaration of Conformity:
+
+The Board of Management and the Supervisory Board of Deutsche Post AG declare that, since the issue of the Declaration of Conformity in December 2022, all recommendations of the Government Commission German Corporate Governance Code, as amended on April 28, 2022, and published in the *Bundesanzeiger* (Federal Gazette) on June 27, 2022, have been complied with, and that all recommendations are to be complied with going forward.
+
+You can view the current Declaration of Conformity and the Annual Corporate Governance Statement along with the Declarations of Conformity for the past five years on the **[company's website.](https://group.dhl.com/en/about-us/corporate-governance/declarations-reports.html)**
+
+#### Corporate governance principles and shared values
+
+Our business relationships and activities are based upon responsible business practices that comply with applicable laws, international guidelines and ethical standards, and this also forms part of the Group's strategy. Equally, we require our suppliers to act in this way. We encourage relationships with our employees, customers and other stakeholders, as well as the shareholders, whose decisions to select DHL Group as an employer, supplier or investment are increasingly also based upon the requirement that we apply good corporate governance criteria.
+
+With the **[Code of Conduct,](https://group.dhl.com/content/dam/deutschepostdhl/en/media-center/responsibility/dhl-group-code-of-conduct-en.pdf)** we have laid out the requirements of the conduct of our employees. It is applicable across all divisions and regions. In the Code of Conduct, we commit ourselves in particular to the principles set out in the United Nations (UN) Global Compact, comply with the principles of the Universal Declaration of Human Rights and follow additional recognized legal standards, including the applicable anti-corruption legislation and agreements. In addition, we take the International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work and the OECD Guidelines for Multinational Enterprises into account. In addition, we support various sustainability initiatives, for example to promote the development of sustainable fuels and technologies, and are working with transport partners on reducing fuel consumption and the emission of greenhouse gases. As a long-standing partner of the United Nations, we support the UN's Sustainable Development Goals (SDGs). In 2023, DHL Group became a member of Transparency International Germany.
+
+The Code of Conduct also describes our understanding of diversity and inclusion. This understanding and mutual respect promote cooperation within the Group and thus contribute to economic success. The criteria for the recruitment and professional development of our employees are exclusively their skills and qualifications. The members of the Board of Management and the Supervisory Board support the diversity measures, with a particular focus on the Group's goal of increasing the number of women in management. Doing business includes using our expertise as a service provider in the mail services and logistics sector for the benefit of society and the environment, and we motivate our employees to engage personally in this regard.
+
+Ensuring that our interactions with business partners, shareholders and the public are conducted with integrity and within the bounds of the law is vital to maintaining our reputation. This is also the foundation of DHL Group's lasting business success. Our compliance management system (CMS) is designed to promote legally compliant conduct as well as to prevent corruption and anticompetitive conduct in particular. Insights gained from compliance audits and reported violations are also used to continually improve and upgrade the CMS system. To this end, the enhanced compliance reporting tool (BKMS Dashboard) offers Group-wide,
+
+## Page 113
+
+Image /page/112/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+centralized and systematic collection of all key figures related to compliance notifications and the clarification of issues. In addition, further measures were taken to promote the culture of compliance and compliance reporting was established.
+
+#### Cooperation between the Board of Management and the Supervisory Board, remuneration, retirement ages
+
+As a listed German public limited company, Deutsche Post AG has a two-tier board structure comprising the Board of Management and the Supervisory Board.
+
+Members of the Board of Management are responsible for the management of the company. They manage their Board departments independently, except where decisions of particular significance and consequence for the company or the Group require a resolution by all members of the Board of Management. Each member of the Board of Management is obligated to subordinate the interests of their individual Board departments to the collective interests of the company and to inform the Board of Management about significant developments in their departments. The Board of Management ensures compliance with statutory provisions and internal guidelines within the company (compliance). The internal control system and the risk management system comprise a CMS aligned with the risk situation of the company and also include targets related to sustainability.
+
+The CEO conducts Board of Management business, aligns Board department activities with the company's collective goals and plans, and ensures that corporate policy is carried out. When making decisions, members of the Board of Management may not act in their own personal interest or exploit corporate business opportunities for their own benefit. Any conflicts of interest must be disclosed to the chairs of the Supervisory Board and the Board of Management without delay; the other Board of Management members must also be informed. The Supervisory Board has determined that appointments to the Board of Management should generally end by the time the member turns 65.
+
+The members of the Supervisory Board appoint, advise and oversee the Board of Management. They propose the remuneration system for Board of Management members to the Annual General Meeting, and – together with the Board of Management – are jointly responsible for the long-term succession planning for the Board of Management. Furthermore, the statutory obligations of the Supervisory Board include the review and approval of the annual and consolidated financial statements, the review of the proposal for the appropriation of the net retained profit and the recommendation of the auditor to the Annual General Meeting.
+
+For proposals for the election of Supervisory Board members, the Supervisory Board will ensure that their term of office ends no later than the close of the next Annual General Meeting to be held after the Supervisory Board member turns 72. As a general rule, Supervisory Board members should not serve more than three terms of office.
+
+The company's D & O (directors and officers) insurance for the members of the Board of Management provides for a deductible as set out in the AktG.
+
+The principles governing the Supervisory Board's internal organization, a catalog of Board of Management transactions requiring approval and the work of the Supervisory Board committees are governed by the rules of procedure, which are available on the **[company's website.](https://group.dhl.com/en/about-us/corporate-governance/supervisory-board.html)** The Chair, elected by the members of the Supervisory Board from their ranks, coordinates the work of the Supervisory Board and represents the Supervisory Board publicly. The Chair holds talks with investors on topics relevant to the Supervisory Board. The Supervisory Board represents the company in respect of the Board of Management members. Members of the Supervisory Board receive a fixed annual remuneration of €100,000. The remuneration for each of the chairs (plenary and committees) increases by 100%, for the Deputy Chair of the Supervisory Board and for committee members by 50%. This does not apply to the Mediation or Nomination Committees. The report on remuneration of Board of Management and Supervisory Board members can be accessed along with the auditor's report pursuant to Section 162(3) AktG on the **[company's website.](https://group.dhl.com/en/about-us/corporate-governance/remuneration.html)** There are no contracts between the company and Supervisory Board members, with the exception of the employment contracts with the employee representatives.
+
+The Supervisory Board meets at least twice each half year, regularly also without the Board of Management present. Extraordinary meetings are held as required. In the 2023 fiscal year, Supervisory Board members held four plenary meetings, 21 committee meetings and one closed meeting. The meetings took place in person, with a few exceptions for the committee meetings. Individual
+
+## Page 114
+
+Image /page/113/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in black.
+
+members joined via videoconference. In cases where individual members were unable to participate, they submitted their votes in writing in advance of the meeting and thus ensured that the decisions made were based on the decisions of all responsible members. The overall attendance rate of 95% is broken down by member in the **[report of the Supervisory Board.](#page-11-0)**
+
+Supervisory Board decisions are prepared in advance in separate meetings of the shareholder representatives and the employee representatives, and by the relevant committees. During the plenary meetings, the committee chairs inform the other members about the work and decisions of the committees. Supervisory Board members are personally responsible for ensuring they receive training and professional development measures. They receive appropriate support from the company in the process. In 2023, the Directors' Days took place in May and September. The topics covered included the regulation of the postal market, ESG key performance indicators as a basis for corporate governance and Board of Management remuneration, as well as updates on supply chain legislation, Corporate Sustainability Reporting and the EU Taxonomy.
+
+#### Succession planning for the Board of Management
+
+Together with the Board of Management, the Supervisory Board is jointly responsible for the long-term succession planning for the Board of Management. To this end, in particular the Chair of the Supervisory Board and the Chief Executive Officer regularly discuss candidates with the potential to take on positions on the Board of Management. Within the Supervisory Board, the search for suitable Board of Management members is primarily the responsibility of the Executive Committee. In the event of an upcoming vacancy, the Executive Committee selects suitable candidates for personal interviews, taking into account specific requirements for experience and qualifications to be met by the members and the composition of the Board of Management as a whole and, after discussing this list of candidates, submits it to the Supervisory Board.
+
+Independent of specific upcoming vacancies, potential successors from within the Group are given the opportunity to give a presentation on topics from their own areas of responsibility before the Supervisory Board. In this way, the Supervisory Board maintains an overview of the potential of Group executives who could be considered for a position on the Board of Management. When appointing new members to the Board of Management, the Supervisory Board ensures that the different skills and experiences of the members supplement the Board of Management and that its membership is thus diverse. International experience is of particular importance, in addition to industry experience. The initial term of service for members of the Board of Management generally runs for three years.
+
+#### Independence of shareholder representatives on the Supervisory Board
+
+All Supervisory Board members are independent within the meaning of the German Corporate Governance Code. This exceeds the target for the Supervisory Board of filling at least 60% of mandates on the shareholder side with independent members.
+
+As of December 31, 2023, the largest shareholder in the company, KfW Bankengruppe, holds 20.49% of the shares in Deutsche Post AG and therefore does not exercise control, nor does the German federal government, which is an indirect shareholder via the KfW. Accordingly, Luise Hölscher and Stefan B. Wintels are also independent. On February 7, 2024, KfW Bankengruppe reduced its shareholding in Deutsche Post AG to 16.45%.
+
+Stefan Schulte, who is resigning from the Supervisory Board after the Annual General Meeting scheduled for May 3, 2024, has contributed his comprehensive expertise and experience to the benefit of the company throughout his term of office and, as the Chair of the Financial and Audit Committee, engaged the Board of Management in differentiated and critical discussions. His independence was therefore not in question at any time for the Supervisory Board. The Supervisory Board will recommend two new independent Supervisory Board members to the Annual General Meeting to succeed Stefan Schulte and Simone Menne, who is also stepping down from the Finance and Audit Committee. More detailed information on the candidates can be found in the report of the Supervisory Board.
+
+Lawrence Rosen's responsibility for the Board department Finance ended more than seven years ago and therefore does not impair his independence. At the same time, his profound knowledge of the company and the industry make it possible for him to support the Board of Management as an experienced and expert adviser and to perform the monitoring duties of the Supervisory Board in particular.
+
+## Page 115
+
+Image /page/114/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+No Supervisory Board member exceeds the maximum age limit of 72, holds seats on governing bodies of the Group's main competitors or provides consultancy services to, or maintains other personal relationships with, such competitors.
+
+#### Effectiveness of the Supervisory Board's advisory and monitoring duties
+
+Each year, the members of the Supervisory Board review the work and decision-making processes of the Board. Discussions take place during a Supervisory Board meeting without the presence of the Board of Management. At regular intervals, most recently in the year under review, the opinions are also evaluated on the basis of a questionnaire, the results of which are incorporated into the Board's discussions. Among other topics, discussions focused on the skills profile of the Supervisory Board as well as the progress of the onboarding process for new Supervisory Board members. As a result, the Supervisory Board is of the opinion that it performed its monitoring and advisory duties effectively and efficiently.
+
+#### Targets for the composition of the Supervisory Board (skills profile)
+
+In addition to legal requirements (notably Sections 100 and 107 AktG), the composition of the Supervisory Board is guided by recommendations C.1 and C.6 of the German Corporate Governance Code (DCGK). Overall, the Supervisory Board set the following targets for its composition that also reflect the skills profile it aspires to have:
+
+1. When proposing candidates to the Annual General Meeting for election as Supervisory Board members, the Supervisory Board is to be guided purely by the best interests of the company. Subject to this requirement, the Supervisory Board aims to ensure that the independent group of shareholder representatives as defined in C.6 of the German Corporate Governance Code is to account for at least 60% of the Supervisory Board, and that at least 30% of Supervisory Board members are women.
+
+2. The company's international activities are already adequately reflected in the current composition of the Supervisory Board. For its future proposals to the Annual General Meeting as well, the Supervisory Board strives to find candidates whose origins, education or professional experience equip them with particular international knowledge and experience.
+
+3. The Supervisory Board should collectively serve as a competent adviser to the Board of Management on future issues, in particular digital transformation and sustainability issues.
+
+4. The Supervisory Board should collectively have sufficient expertise in the areas of accounting and financial statement audits. This includes knowledge of international developments in the field of accounting. Additionally, the Supervisory Board believes that the independence of its members helps guarantee the integrity of the accounting process and ensure the independence of the auditors.
+
+5. Conflicts of interest affecting Supervisory Board members are an obstacle to providing independent advice to, and supervision of, the Board of Management. The Supervisory Board will decide how to deal with potential or actual conflicts of interest on a caseby-case basis, in accordance with the law and giving due consideration to the German Corporate Governance Code.
+
+6. In accordance with the age limit adopted by the Supervisory Board and laid down in the rules of procedure for the Supervisory Board, proposals for the election of Supervisory Board members must ensure that their term of office ends no later than the close of the next Annual General Meeting to be held after the Supervisory Board member reaches the age of 72. As a general rule, Supervisory Board members should not serve more than three terms of office.
+
+The current Supervisory Board meets these targets and fulfills this skills profile. The Supervisory Board took targets and the skills profile into account in the election proposals it made to this year's Annual General Meeting.
+
+## Page 116
+
+<span id="page-115-0"></span>Image /page/115/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+#### Qualification matrix pursuant to C.1 of the German Corporate Governance Code
+
+Skills and qualifications of the individual Supervisory Board members can be found in the following overview.
+
+#### QUALIFICATION MATRIX
+
+|                                                          | Dr. Nikolaus<br>von Bomhard | Dr. Mario<br>Daberkow | Ingrid<br>Deltenre                             | Dr. Heinrich<br>Hiesinger | Prof. Dr. Luise<br>Hölscher     | Simone<br>Menne                 | Lawrence<br>Rosen  | Dr. Stefan<br>Schulte           | Dr. Katrin<br>Suder                                                    | Stefan B.<br>Wintel             |   |
+|----------------------------------------------------------|-----------------------------|-----------------------|------------------------------------------------|---------------------------|---------------------------------|---------------------------------|--------------------|---------------------------------|------------------------------------------------------------------------|---------------------------------|---|
+| Member<br>since/appointed<br>until                       | 2016/<br>2025               | 2018/<br>2027         | 2016/<br>2025                                  | 2019/<br>2024             | 2022/<br>2026                   | 2014/<br>2024                   | 2020/<br>2025      | 2009/<br>2024                   | 2023/<br>2027                                                          | 2022/<br>2026                   |   |
+| Independence1                                            | ●                           | ●                     | ●                                              | ●                         | ●                               | ●                               | ●                  | ●                               | ●                                                                      | ●                               |   |
+| No<br>overboarding1                                      | ●                           | ●                     | ●                                              | ●                         | ●                               | ●                               | ●                  | ●                               | ●                                                                      | ●                               |   |
+| Gender                                                   | Male                        | Male                  | Female                                         | Male                      | Female                          | Female                          | Male               | Male                            | Female                                                                 | Male                            |   |
+| Year of birth                                            | 1956                        | 1969                  | 1960                                           | 1960                      | 1971                            | 1960                            | 1957               | 1960                            | 1971                                                                   | 1966                            |   |
+| Nationality                                              | German                      | German                | German Dutch/Swiss                             | German                    | German                          | German                          | German US American | German                          | German                                                                 | German                          |   |
+| International<br>experience                              | ●                           | ●                     | ●                                              | ●                         | ●                               | ●                               | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Educational<br>background                                | Legal expert                | Mathe-<br>matician    | Journalist<br>and<br>educational<br>researcher | Engineer                  | Business<br>adminis-<br>tration | Business<br>adminis-<br>tration | Economist          | Business<br>adminis-<br>tration | Physicist,<br>expert in<br>German<br>studies,<br>theatrical<br>scholar | Business<br>adminis-<br>tration |   |
+| Accounting                                               | ●                           | ●                     |                                                |                           | ●                               | ●                               | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Finance expert<br>pursuant to<br>Section 100 (5)<br>AktG | ●                           | ●                     |                                                |                           | ●                               | ●2                              | ●2                 | ●2                              |                                                                        | ●                               |   |
+| Risk<br>management                                       | ●                           | ●                     | ●                                              | ●                         |                                 | ●                               | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Logistics                                                |                             |                       |                                                |                           |                                 | ●                               | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Strategy                                                 | ●                           | ●                     | ●                                              | ●                         | ●                               | ●                               | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Sustainability                                           | ●                           |                       |                                                | ●                         | ●                               | ●                               |                    | ●                               | ●                                                                      | ●                               | ● |
+| Corporate<br>governance/<br>controlling                  | ●                           | ●                     | ●                                              | ●                         | ●                               | ●                               | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Digitalization, IT                                       |                             | ●                     | ●                                              | ●                         | ●                               |                                 | ●                  | ●                               | ●                                                                      | ●                               | ● |
+| Cybersecurity<br>and IT security                         |                             | ●                     |                                                | ●                         | ●                               | ●                               | ●                  |                                 | ●                                                                      |                                 |   |
+| Human<br>resources                                       | ●                           |                       | ●                                              | ●                         | ●                               |                                 |                    |                                 |                                                                        | ●                               |   |
+
+1 In accordance with the German Corporate Governance Code.
+
+2 Expert in the fields of accounting and financial statement auditing within the meaning of Sections 100(5) and 107(4) AktG.
+
+#### Board of Management and Supervisory Board committees
+
+Business review meetings are held on a quarterly basis for each division, attended by representatives of management, once with the entire Board of Management and the other three times with the CEO and CFO. Additionally, quarterly review meetings are held for the cross-divisional functions with the CEO and CFO as well as representatives of management.
+
+The review meetings involve discussions of strategic initiatives, operational matters and the budgetary situation in the divisions. In addition, all departments have Board committees where decisions are made on the fundamental strategic orientation of the respective department and prominent topics. Finally, the responsible Board departments resolve on investment, real estate and M&A plans within certain threshold limits using defined decision-making and approval processes.
+
+## Page 117
+
+<span id="page-116-0"></span>Image /page/116/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and is made up of thick, stylized letters. To the left of the letters are three horizontal red lines. Below the DHL part of the logo is the word "Group" in a smaller, sans-serif font, also in red. The background of the logo is yellow.
+
+The members of the Supervisory Board's committees prepare the resolutions to be taken in the plenary meetings and perform the duties assigned to them by the law, the company's Articles of Association and the rules of procedure for the Supervisory Board.
+
+#### Committees of the Supervisory Board
+
+#### **Executive Committee**
+
+Dr. Nikolaus von Bomhard (Chair) Andrea Kocsis (Deputy Chair) Ingrid Deltenre Thomas Held Prof. Dr. Luise Hölscher Thorsten Kühn
+
+#### **Personnel Committee**
+
+Andrea Kocsis (Chair) Dr. Nikolaus von Bomhard (Deputy Chair) Ingrid Deltenre Mario Jacubasch
+
+#### **Finance and Audit Committee**
+
+Dr. Stefan Schulte (Chair, independent and expert in the areas of accounting and auditing of financial statements as defined in Sections 100(5) and 107(4) AktG and D.3 of the German Corporate Governance Code) Stephan Teuscher (Deputy Chair) Jörg von Dosky Prof. Dr. Luise Hölscher Simone Menne (independent and expert in the areas of accounting and auditing of financial statements as defined in Sections 100(5) and 107(4) AktG and D.3 of the German Corporate Governance Code) Yusuf Özdemir Lawrence Rosen (independent and expert in the areas of accounting and auditing of financial statements as defined in Sections 100(5) and 107(4) AktG and D.3 of the German Corporate Governance Code) Stefanie Weckesser
+
+#### **Strategy and Sustainability Committee**
+
+Dr. Nikolaus von Bomhard (Chair) Andrea Kocsis (Deputy Chair) Thomas Held Dr. Heinrich Hiesinger Stephan Teuscher Stefan B. Wintels
+
+#### **Nomination Committee**
+
+Dr. Nikolaus von Bomhard (Chair) Ingrid Deltenre Prof. Dr. Luise Hölscher
+
+## Page 118
+
+Image /page/117/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters "DHL" is the word "Group" in red.
+
+#### **Mediation Committee (pursuant to Section 27(3) German Co-determination Act)**
+
+Dr. Nikolaus von Bomhard (Chair) Andrea Kocsis (Deputy Chair) Dr. Heinrich Hiesinger Thorsten Kühn
+
+The Executive Committee prepares the resolutions to be taken in the plenary meetings regarding the appointment of members to the Board of Management, preparation of their service agreements (including remuneration), the system for remunerating Board of Management members, the establishment of variable remuneration targets, the establishment of variable remuneration according to degrees of target achievement, the review of the appropriateness of Board of Management remuneration and the remuneration report to be prepared annually. In addition, it regularly focuses on long-term succession planning for the Board of Management and questions of corporate governance, also providing recommendations to the Supervisory Board with regard to the latter.
+
+The Finance and Audit Committee reviews the company's accounts, including sustainability reporting, and submits proposals for the approval of the annual and consolidated financial statements to the Supervisory Board. It oversees the company's accounting process; the effectiveness of the internal control system, the risk management system and the internal audit system; and the audit of the annual financial statements, in particular with respect to audit quality and the independence of the auditors. Consultation with the auditor also regularly takes place without the Board of Management members being present. The Finance and Audit Committee prepares the proposals of the Supervisory Board to be made to the Annual General Meeting concerning the choice of the audit firm. If the proposal is preceded by a formal selection process, as was the case prior to the 2022 Annual General Meeting, the committee is responsible for its execution. Following the selection process, the 2022 Annual General Meeting elected Deloitte GmbH Wirtschaftsprüfungsgesellschaft, Munich, as the new audit firm for the 2023 fiscal year.
+
+If the auditor is to be engaged to perform nonaudit services, the Finance and Audit Committee must approve any such engagement, and the committee receives regular reports regarding the total amount of fees agreed upon for these services to ensure compliance with the statutory upper limit. It examines corporate compliance and discusses the half-yearly financial reports and the quarterly statements with the Board of Management prior to their publication. As required, the Finance and Audit Committee is also responsible for issuing findings on the required Supervisory Board approvals of significant transactions between the company and related parties.
+
+The Chair of the Finance and Audit Committee regularly engages in dialog with the auditor outside of the meetings as well. This exchange between the Chair of the committee and the auditor concerns the progress of the audit, and the Chair reports to the committee in this regard.
+
+The Chair of the Finance and Audit Committee, Stefan Schulte, is independent and, on account of his many years of experience as the CFO and CEO of Fraport AG, an expert both in accounting as well as in the auditing of financial statements. Simone Menne and Lawrence Rosen also have comprehensive expertise in accounting and the auditing of financial statements thanks to their many years of service as board members for finance of Deutsche Lufthansa AG (Menne) as well as Deutsche Post AG and Fresenius Medical Care AG & Co. KGaA (Rosen).
+
+The candidates proposed to the 2024 Annual General Meeting to succeed Ms. Menne and Mr. Schulte on the Supervisory Board also possess comprehensive expertise in both of the aforementioned specialty areas. More detailed information on the candidates can be found in the report of the Supervisory Board.
+
+An agreement has been reached with the auditor that the Chair of the Supervisory Board and the Chair of the Finance and Audit Committee will be informed without delay of any potential grounds for exclusion or for impairment of the auditors' independence that arise during the audit, to the extent that any such grounds for exclusion or impairment are not immediately remedied. In addition, it has been agreed upon that the auditor will inform the Supervisory Board without delay of all material findings and incidents occurring in the course of the audit. Furthermore, the auditor must inform the Supervisory Board if, while conducting the financial statement audit, any facts are found leading to the Declaration of Conformity issued by the Board of Management and
+
+## Page 119
+
+Image /page/118/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in black.
+
+Supervisory Board being incorrect. The Finance and Audit Committee regularly reviews the quality of the financial statement audit. Both in the meeting of the Finance and Audit Committee held in preparation for the financial statements meeting as well as in the meeting of the plenary where the company and consolidated financial statements are approved, the members of the Supervisory Board closely examine the contents and the processes of the financial statement audit.
+
+The Strategy and Sustainability Committee prepares the Supervisory Board's strategy discussions and regularly discusses implementation of the strategy and the competitive position of the enterprise as a whole and of the divisions. In addition, it does preparatory work on corporate acquisitions and divestitures that require the Supervisory Board's approval and takes an in-depth look at ESG topics relevant to the company. These include primarily the implementation of the sustainability strategy, in particular with regard to the goals of reducing CO₂ emissions, the safety and satisfaction of employees, the promotion of the share of women in executive positions, cybersecurity and the strengthening of compliance. All shareholder representatives on the committee have significant expertise in the field of sustainability.
+
+The Nomination Committee is comprised exclusively of shareholder representatives. It presents the shareholder representatives of the Supervisory Board with recommendations for shareholder candidates for election to the Supervisory Board at the Annual General Meeting.
+
+The Personnel Committee discusses human resources principles and material topics for the Group, such as occupational health and safety, recruiting and retention, as well as equal opportunities.
+
+The task of the Mediation Committee is stipulated by the *Mitbestimmungsgesetz* (MitbestG – German Co-Determination Act): it makes proposals to the Supervisory Board on the appointment of members of the Board of Management in cases in which the required majority of two-thirds of the votes of the Supervisory Board members is not reached. The committee did not meet in the past fiscal year.
+
+Further information about the work of the Supervisory Board and its committees in the 2023 fiscal year is contained in the **[report of](#page-11-0)  [the Supervisory Board.](#page-11-0)** The members of the Board of Management and all additional offices held by them as well as the members of the Supervisory Board and all additional offices held by them can be found in **[boards and committees.](#page-6-0)** The Board members' curriculum vitae, information about their qualifications and the terms of their current appointments are also published on our **[website.](https://group.dhl.com/en/about-us/corporate-governance/board-of-management.html)** The website also has current curriculum vitae of the shareholder representatives on the Supervisory Board along with information on their professional occupation, their membership on the Supervisory Board and their current term of office.
+
+#### Diversity
+
+Diversity is one of the decisive factors in the business success of the Group – and the Board of Management is no exception. As part of the selection of members for the Board of Management, the Supervisory Board pays close attention to diversity and to ensuring that the members complement each other in terms of their personalities, qualifications, skills, origin and experience. Long-term succession planning in all divisions guarantees that there will be sufficient qualified internal candidates in the future as well. The early selection of women for executive positions also plays a key role. The members of the Board of Management come with different areas of professional expertise in the fields of engineering management, physics, business management, law and psychology. Moreover, the composition of the Board of Management reflects the international activities of the company: due to both their ethnic and cultural backgrounds as well as long professional tenures abroad of responsibility for business operations abroad, the members of the Board of Management have a broad range of experience in many countries in Europe, but also in the United States, Asia, Latin America and Australia. As of December 31, 2023, the average age of members of the Board of Management was 53, with the youngest member being 47 and the oldest 60.
+
+With regard to long-term succession planning, the focus remains on the share of women in management positions. With two women on the Board of Management, the company has exceeded the minimum number applicable since August 2022 under Section 76(3a) AktG, which stipulates that the board of management of listed companies to which the German Co-determination Act applies include at least one woman and one man, if it consists of more than three persons. The target set by the Supervisory Board of a 25% share of women on the Board of Management by the end of 2024, which exceeds the statutory participation requirement, has also already been reached.
+
+## Page 231
+
+Image /page/230/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of three horizontal lines on the left, followed by the letters D, H, and L. The word "Group" is in red and is located below the DHL part of the logo. The background is yellow.
+
+### Other matter – use of the auditor's report
+
+Our auditor's report must always be read together with the audited consolidated financial statements and the audited combined management report as well as with the audited ESEF documents. The consolidated financial statements and the combined management report converted into the ESEF format – including the versions to be submitted for inclusion in the Company Register – are merely electronic reproductions of the audited consolidated financial statements and the audited combined management report and do not take their place. In particular, the ESEF report and our audit opinion contained therein are to be used solely together with the audited ESEF documents made available in electronic form.
+
+#### German Public Auditor responsible for the engagement
+
+The German Public Auditor responsible for the engagement is Prof. Dr Frank Beine.
+
+Munich/Germany, 16 February 2024
+
+Deloitte GmbH Wirtschaftsprüfungsgesellschaft
+
+Prof. Dr. Frank Beine Dr. Hendrik Nardmann *Wirtschaftsprüfer Wirtschaftsprüfer*  (German Public Auditor) (German Public Auditor)
+
+## Page 232
+
+<span id="page-231-0"></span>Image /page/231/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+## INDEPENDENT PRACTITIONER'S REPORT
+
+**on a limited and reasonable assurance according to ISAE 3000 (Revised) regarding the nonfinancial reporting** 
+
+To Deutsche Post AG, Bonn/Germany
+
+#### Engagement
+
+We have performed a limited assurance engagement on the consolidated nonfinancial statement of Deutsche Post AG, Bonn/Germany, ("the Company"), which has been combined with the nonfinancial statement of the Company, for the financial year from 1 January to 31 December 2023 ("combined nonfinancial statement") included in the group management report, which has been combined with the management report. In accordance with our engagement, we have performed a reasonable assurance engagement on the indicators presented in the combined nonfinancial statement
+
+- Logistics-related GHG emissions (million metric tons of CO2e): Scope 1-3
+- Realized decarbonization effects (million metric tons of CO2e)
+- Total (group-wide) energy consumption (Scopes 1 and 2) (million kWh)
+- Share of energy consumption from renewable sources (%)
+- Total energy consumption from renewable sources (Scopes 1 and 2) (million kWh)
+- Greenhouse gas intensity (grams of CO2e per euro of revenue)
+- Total GHG emissions (logistics-related) (million metric tons of CO2e)
+- Progress achieved compared to base year 2021 concerning sustainability-linked bond (%)
+- Employee engagement (%)
+- Response rate in the employee opinion survey (%)
+- Employees: full-time equivalents at year-end and yearly average (number including trainees), headcount at year-end and yearly average (number including trainees)
+- Unplanned employee turnover (%)
+- Staff costs (€)
+- Share of part-time employees average for the year (%)
+- Lost time injury frequency rate (LTIFR) per 200,000 working hours (work-related accidents resulting in at least one working day of lost time)
+- Working days lost per LTI (number)
+- Number of fatalities due to workplace accidents (number)
+- Sickness rate (%)
+- Share of women in middle and upper management (%)
+- Share of women in workforce (%)
+- External employees subject to the control and direction of the Group: full-time equivalents average for the year
+- Performance-based remuneration in line with market standards and free of discrimination
+- Approval rate: I am proud of my company's contribution to society (%)
+- Share of valid compliance training certificates in middle and upper management (%)
+- Internal audits carried out by Corporate Internal Audit (number)
+- On-site audits carried out (number of countries)
+- Internal audits carried out by Corporate Internal Audit with regard to respecting human rights (number)
+- Share of valid training certificates in middle and upper management relating to the training "Raise employees' awareness for respecting human rights" (%)
+- BitSight cybersecurity rating (points)
+
+## Page 233
+
+Image /page/232/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+(hereafter "the indicators") and performed a limited assurance engagement on all disclosures other than the indicators contained in the combined nonfinancial statement.
+
+Not subject to our assurance engagement are the external sources of documentation and expert opinions as well as prior-year key ratios mentioned in the combined nonfinancial statement.
+
+#### Responsibilities of the Executive Directors
+
+The executive directors of the Company are responsible for the preparation of the combined nonfinancial statement in accordance with the requirements of Sections 289c to 289e German Commercial Code (HGB), Section 315c in conjunction with Sections 289c to 289e HGB and Article 8 of Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on establishing a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 ("EU Taxonomy Regulation") and the Delegated Acts adopted thereunder, as well as for making their own interpretation of the wording and terms contained in the EU Taxonomy Regulation and the Delegated Acts adopted thereunder, as set out in the section "EU Taxonomy" of the combined nonfinancial statement (hereafter "interpretation").
+
+These responsibilities of the executive directors of the Company include the selection and application of appropriate methods to prepare the combined nonfinancial statement and the use of assumptions and estimates for individual disclosures which are reasonable under the given circumstances. In addition, the executive directors are responsible for such internal control as they have determined necessary to enable the preparation of a combined nonfinancial statement that is free from material misstatement, whether due to fraud or error.
+
+The EU Taxonomy Regulation and the Delegated Acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which clarifications have not yet been published in every case. Therefore, the executive directors have disclosed their interpretation of the EU Taxonomy Regulation and the Delegated Acts adopted thereunder in the section "EU Taxonomy" of the combined nonfinancial statement. They are responsible for the defensibility of this interpretation. Due to the immanent risk that undefined legal terms may be interpreted differently, the legal conformity of the interpretation is subject to uncertainties.
+
+The preciseness and completeness of the environmental data in the combined nonfinancial statement, which include the indicators, is subject to inherent existing limitations associated with the manner in which the data was collected and calculated as well as assumptions made.
+
+#### Responsibilities of the Independent Practitioner
+
+Our responsibility is to express a conclusion with reasonable assurance on the indicators disclosed in the combined nonfinancial statement and a conclusion with limited assurance on all disclosures other than the indicators in the combined nonfinancial statement in each case based on our work performed within our assurance engagement.
+
+Our audit firm applies the IDW Quality Assurance Standard issued by the Institute of Public Auditors in Germany (IDW): Quality Assurance Requirements in Audit Practices (IDW QS 1). We have complied with the German Public Auditor Act (WPO) and the Professional Charter for German Public Auditors and German Sworn Auditors (BS WP/vBP), including the requirements on independence.
+
+We conducted our work in accordance with the International Standard on Assurance Engagements (ISAE) 3000 (Revised): Assurance Engagements Other than Audits or Reviews of Historical Financial Information, issued by the IAASB. This Standard requires that we plan and perform the assurance engagement so that we
+
+• can conclude with reasonable assurance whether the indicators disclosed in the combined nonfinancial statement of the Company for the period from 1 January to 31 December 2023 have been presented, in all material respects, in accordance with Section 315c in conjunction with Sections 289c to 289e HGB by the executive directors, and
+
+## Page 234
+
+Image /page/233/Picture/0 description: The image shows the DHL Group logo. The DHL part of the logo is in red and consists of three horizontal lines on the left, followed by the letters D, H, and L. To the right and below the DHL part of the logo is the word "Group" in red.
+
+• can conclude with limited assurance whether matters have come to our attention that cause us to believe that all disclosures other than the indicators in the combined nonfinancial statement of the Company have in their entirety not been prepared, in all material respects, in accordance with Sections 289c to 289e HGB, Section 315c in conjunction with Sections 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder.
+
+The procedures performed in the limited assurance part of our engagement are less in extent than for a reasonable assurance engagement; consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the assurance that would have been obtained had a reasonable assurance engagement been performed. The choice of assurance work is subject to the practitioner's professional judgement.
+
+Within the scope of our limited assurance engagement, we notably performed the following activities:
+
+- Gaining an understanding of the structure of the Group's sustainability organization and stakeholder engagement,
+- Inquiries of relevant employees involved in the preparation of the consolidated nonfinancial statement about the preparation process, about the internal control system related to this process and about disclosures in the combined nonfinancial statement,
+- Identification of likely risks of material misstatements in the combined nonfinancial statement,
+- Analytical evaluation of selected disclosures in the combined nonfinancial statement,
+- Reconciliation of selected disclosures with the corresponding data in the consolidated and annual financial statements and combined management report,
+- Assessment of the presentation of the combined nonfinancial statement,
+- Assessment of the process to identify taxonomy eligible and taxonomy-aligned economic activities and the corresponding disclosures in the combined non-financial statement.
+
+In the course of our reasonable assurance engagement part on the indicators disclosed in the Company's combined nonfinancial statement, we have performed the following assurance procedures and other activities in addition to those described above:
+
+- Assessment of the concept and implementation of the systems and processes for determining, processing and monitoring the disclosures on the indicators,
+- Assessment of the risks,
+
+• Tests of details on the basis of samples.
+
+In determining the disclosures in accordance with Article 8 of the EU Taxonomy Regulation, the executive directors are required to interpret undefined legal terms. Due to the immanent risk that undefined legal terms may be interpreted differently, the legal conformity of their interpretation and, accordingly, our assurance engagement thereon are subject to uncertainties. In particular, these uncertainties also relate to quantifying performance indicators when they are measured or evaluated.
+
+We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our conclusion.
+
+## Page 235
+
+Image /page/234/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters is the word "Group" in red.
+
+#### Practitioner's Conclusion
+
+In our view, the indicators disclosed in the combined nonfinancial statement of the Company for the period from 1 January to 31 December 2023 have been presented, in all material respects, in accordance with Section 315c in conjunction with Sections 289c to 289e HGB by the executive directors.
+
+Based on the work performed and the evidence obtained, nothing has come to our attention that causes us to believe that all disclosures other than the indicators in the combined nonfinancial statement of the Company for the financial year from 1 January to 31 December 2023 do not comply, in all material respects, with the requirements of Sections 289c to 289e HGB, Section 315c in conjunction with Sections 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder as well as the interpretation by the executive directors as disclosed in the section "EU Taxonomy and its implementation at Deutsche Post AG" of the combined nonfinancial statement.
+
+Not subject to our assurance engagement are the external sources of documentation and expert opinions as well as prior-year key ratios mentioned in the combined nonfinancial statement.
+
+#### Restriction of Use and Reference to Limitation of Liability
+
+We issue this report as stipulated in the engagement letter agreed with the Company (including the "General Engagement Terms for Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften [German Public Auditors and Public Audit Firms]" dated 1 January 2017 of the Institute of Public Auditors in Germany). We draw attention to the fact that the assurance engagement was conducted for the Company's purposes and that the report is intended solely to inform the Company about the result of the assurance engagement. Consequently, it may not be suitable for any other purpose than the aforementioned. Accordingly, the report is not intended to be used by third parties for making (financial) decisions based on it.
+
+Our responsibility is to the Company alone. We assume no responsibility with regard to any third parties. Our conclusion is not modified in this respect.
+
+Munich/Germany, 16 February 2024
+
+Deloitte GmbH Wirtschaftsprüfungsgesellschaft
+
+Prof. Dr Frank Beine Sebastian Dingel *Wirtschaftsprüfer*  (German Public Auditor)
+
+ebastian Dingel
+
+## Page 236
+
+<span id="page-235-0"></span>Image /page/235/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the letters. Below the letters, the word "Group" is written in red.
+
+[The Company](#page-2-0) 
+
+## FINANCIAL CALENDAR
+
+#### **2024**
+
+| March 6    | Results of the 2023 fiscal year          |
+|------------|------------------------------------------|
+| May 3      | 2024 Annual General Meeting              |
+| May 7      | Results of the first quarter of 2024     |
+| May 8      | Dividend payment                         |
+| August 1   | Results of the first half of 2024        |
+| November 5 | Results of the first nine months of 2024 |
+
+#### **2025**
+
+| March 6    | Results of the 2024 fiscal year          |
+|------------|------------------------------------------|
+| May 2      | 2025 Annual General Meeting              |
+| May 7      | Dividend payment                         |
+| May 8      | Results of the first quarter of 2025     |
+| August 5   | Results of the first half of 2025        |
+| November 6 | Results of the first nine months of 2025 |
+
+Revised dates and information regarding live webcasts can be found on our **[Reporting Hub.](https://reporting-hub.group.dhl.com/q3-2023/en/)**
+
+## Page 237
+
+<span id="page-236-0"></span>Image /page/236/Picture/0 description: The image shows the DHL Group logo. The logo consists of the letters "DHL" in red, with three horizontal red lines to the left of the "D". Below the letters is the word "Group" in red.
+
+## CONTACTS
+
+#### **Deutsche Post AG**  Headquarters 53250 Bonn Germany
+
+**Investor Relations** 
+
+**[ir@dhl.com](mailto:ir%40dhl.com?subject=)** 
+
+**Press Office [pressestelle@dhl.com](mailto:pressestelle%40dhl.com?subject=)** 
+
+#### **Publication**
+
+In this report, DHL Group presents both financial and nonfinancial information about the results for the 2023 fiscal year. It was published on March 6, 2024, in German and English; in case of doubt, the German version is authoritative. The report sections that are subject to publication requirements are published in the company register, in due consideration of the European Single Electronic Format (ESEF).

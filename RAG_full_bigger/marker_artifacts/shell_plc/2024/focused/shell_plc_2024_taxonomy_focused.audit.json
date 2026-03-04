@@ -1,0 +1,49 @@
+{
+  "company_slug": "shell_plc",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\shell_plc\\2024\\shell_plc_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\shell_plc\\2024\\focused\\shell_plc_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2024"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        386,
+        387,
+        388
+      ],
+      "start_page": 384,
+      "end_page": 393,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "386": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "387": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ],
+              "388": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

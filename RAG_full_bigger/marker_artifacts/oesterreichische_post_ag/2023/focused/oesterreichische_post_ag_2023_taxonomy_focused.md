@@ -1,0 +1,385 @@
+## Page 27
+
+Image /page/26/Figure/2 description: The figure is a line chart titled "G 08 Total Shareholder Return since the Initial Public Offering (30 May 2006 to 31 December 2023)". The y-axis is labeled with percentages from 0% to 300%. The x-axis shows the years from 2006 to 2023. There are four lines on the chart: Austrian Post Total Shareholder Return (+239.3%), Austrian Post Share Price (+72.1%), EURO STOXX® Total Market Industrial Transportation (+65.9%), and ATX (-8.2%). There are labels on the chart indicating the Austrian Post share price at two points in time: EUR 19.00 and EUR 32.70.
+
+# **Continuous Dividend Performance**
+
+ Austrian Post's dividend policy, which allows share holders to participate in the company's economic success, is a key factor in its relationship with the capital market. Since its IPO, Austrian Post has been pursuing a clear objective: to generate sustainable and attractive dividends on the basis of its solid business model.
+
+With a payout ratio of at least 75% of its net profit, Austrian Post ranks as one of the most attractive stocks on the market, both on the Vienna Stock Exchange and in comparison to other companies in the international postal and logistics sector. Overall, investors who bought Austrian Post shares at the IPO in May 2006 have been paid a
+
+dividend in the amount of EUR 31.76 per share. This means that investors have enjoyed a return of more than 230% looking at share price performance and dividend payments compared to the issue price of EUR 19.00.
+
+Austrian Post is committed to ensuring the continuity of its dividend policy and still strives to offer its shareholders attractive dividends. For 2023, the Management Board will propose a dividend payment of EUR 1.78 per share at the Annual General Meeting on 18 April 2024 – corresponding to a total distribution of EUR 120.2 million (dividend payment date on 2 May 2024). The dividend yield comes to 5.4% based on the share price of EUR 32.70 at the end of 2023. This underlines Austrian Post's endeavour to achieve a continuous dividend that is consistent with the Group result. **G 09**
+
+Image /page/26/Figure/8 description: This bar chart shows the dividends per share from 2006 to 2023. In 2006, the dividend per share was 1.00 EUR. In 2007, it was 1.40 EUR. In 2008, it was 1.50 EUR. In 2009, it was 1.50 EUR. In 2010, it was 1.60 EUR. In 2011, it was 1.70 EUR. In 2012, it was 1.80 EUR. In 2013, it was 1.90 EUR. In 2014, it was 1.95 EUR. In 2015, it was 1.95 EUR. In 2016, it was 2.00 EUR. In 2017, it was 2.05 EUR. In 2018, it was 2.08 EUR. In 2019, it was 2.08 EUR. In 2020, it was 1.60 EUR. In 2021, it was 1.90 EUR. In 2022, it was 1.75 EUR. In 2023, it was 1.78 EUR.
+
+1 excl. EUR 1.00 special dividend
+
+2 Proposal to the Annual General Meeting on 18 April 2024
+
+## Page 28
+
+Image /page/27/Figure/0 description: This image is a line graph comparing the stock performance of six different postal and distribution companies from January 2023 to December 2023. The y-axis represents the percentage change in stock value, ranging from 60% to 140%. The x-axis represents the months of the year. The companies are: Austrian Post (+11%), CTT (+13%), bpost (-3%), DHL (+28%), Post NL (-17%), and IDS (International Distribution Services, formerly Royal Mail) (+28%). The graph shows the stock value fluctuations of each company over the year. The EUR 29.40 and EUR 32.70 are also displayed on the graph.
+
+#### **G 10 Development of the Post Share and Peers (1 January 2023 to 31 December 2023)**
+
+### **Shares in Austrian Post in 2023 – Stability in Turbulent Times**
+
+2023 was a year that presented a number of challenges. High interest rates, persistent inflation and geopolitical tension left their mark on the financial markets. Despite the challenging overall economic conditions in 2023, the European stock market proved to be remarkably stable with continuous value growth. The performance of Austrian Post's shares mirrored this trend in 2023.
+
+In the first quarter of 2023, shares in Austrian Post were on a steady upward trend, starting at the annual low of EUR 29.40 on 1 January. This positive momentum peaked on 14 March when the shares reached their high for the year at EUR 36.10. The following second quarter saw significant volatility, followed by a slight downward trend in the second half of the year. The last few months of the period under review, however, brought a recovery in share price performance. Shares in Austrian Post closed 2023 at a price of EUR 32.70, up by 11.2% compared to the previous year.
+
+The EURO STOXX® Total Market Industrial Transportation sector index, which is relevant to Austrian Post, also gained 22.7% over the past financial year. The ATX was up by 9.9% at the end of the year. Almost all of Austrian Post's peers – the Belgian (bpost), Portuguese (CTT Correios de Portugal), German (DHL Group), Dutch (PostNL) and British (International Distributions Services/ Royal Mail) postal services – also achieved positive performance on the international capital market. **G 10**
+
+### **Stable Shareholder Structure**
+
+The majority of the shares issued by Austrian Post (52.8%) are held by the Republic of Austria, managed via Österreichische Beteiligungs AG (ÖBAG), while the remaining 47.2% are in free float. A shareholder structure analysis conducted in January 2024 shows that the free float is largely focused on investors based in Europe (85.0%; +1.1 percentage points compared to the survey conducted at the beginning of 2023). A total of 68.9% of the shares are held by private and institutional investors in Austria (+7.1 percentage points), 14.5% in continental Europe (–0.2 percentage points) and 1.7% in the UK and Ireland (–5.8 percentage points). North America (USA and Canada) currently holds 14.2% of shares (–1.4 percentage points), with other countries making up 0.7% (+0.3 percentage points). **G 11**
+
+Since the buyback of 2,447,362 shares in 2008 and the subsequent withdrawal of all the company's treasury shares on 24 April 2009, Austrian Post's share capital has remained divided into 67,552,638 non-par value shares. This corresponds to a nominal value of EUR 5.00 per share. There are no syndicate agreements, preference shares or restrictions on the company's ordinary shares. The principle of "one share – one vote" applies without exception.
+
+## Page 29
+
+#### **G 11 Geographical Split of Free Load 0.7 Other Countries 14.2 North America 1.7 UK & Ireland 14.5 Continental Europe** (excl. Austria) **68.9 Austria** %
+
+# **Capital Market Communication: Transparency Builds Trust**
+
+Ongoing dialogue and transparent, timely information are at the heart of Austrian Post's communication strategy. Both aim to give all investors an open and realistic picture of the company. This is particularly important in a difficult market environment. Taking these principles into account, shareholders, financial analysts, stakeholders, the media and the general public are provided with regular information on the current situation and business developments. In order to meet these high demands, Austrian Post focuses not only on face-to-face contact, but also on the digital and hybrid communication channels that have proved effective since the coronavirus pandemic, to ensure fast response times and allow the company to act in a manner that is commensurate with the situation at hand. All in all, the company's top management and the Investor Relations team held in-depth one-on-one and group discussions with more than 120 institutional investors and analysts at more than 30 roadshows and investor conferences. In addition, roadshows focusing on ESG were organised in collaboration with the Chair of the Supervisory Board.
+
+The high standards that Austrian Post applies to high-quality and transparent financial and non-financial reporting were recognised last year in the form of numerous awards. In addition to fulfilling the requirements of the Sustainability and Diversity Improvement Act (NADiVeG) and the EU Taxonomy, the Sustainability Report also meets voluntary international sustainability reporting standards. We follow the requirements of the GRI Standards and also provide information on our approach to the opportunities
+
+and risks associated with climate change in accordance with the requirements of the Task Force on Climate-related Financial Disclosures (TCFD). These efforts were also recognised when the company was awarded second place in the "ATX Prime" category of the Austrian Sustainability Reporting Awards (ASRA). This award is presented annually to Austrian companies and organisations with the best sustainability reports. Austrian Post also came second in the Effective Sustainability Communicator Award 2023. The evaluation process involved analysing the sustainability reports published by ATX-listed companies and their coherent reporting on sustainability across all communications media. In spring 2023, Georg Pölzl and Walter Oblin received the CEO & CFO Award presented by Deloitte with Börse Express and CFO Club Austria in the special ESG category. The decisive factor for the award was the company's excellent sustainability reporting and, in particular, the way in which sustainability risks are addressed and presented.
+
+The company's financial and sustainability reporting was not only successful in terms of content. The graphic design of the annual and sustainability report also received several international accolades. By way of example, Austrian Post received a GOLD award at the Vision Award LACP and was also awarded GOLD, SILVER and BRONZE in the categories "Non-English Annual Report", "Photography", "Interior Design" and "Cover Photo/Design" at the ARC Awards. The award presented by the financial magazine Börsianer, which recognised Austrian Post as the "Best Mid Cap Share in Austria in 2023", was a first.
+
+# **Represented in Numerous Indices and Good Ratings**
+
+Austrian Post's shares have been permanently listed on the ATX (Austrian Traded Index), the leading index of the Vienna Stock Exchange, since 18 September 2006. The ATX measures the value development of the 20 most liquid shares on the Vienna Stock Exchange. The weighting of the Austrian Post share in the ATX at the end of 2023 was 2.12%. Austrian Post is also represented in the ATX Prime and the international EURO STOXX® Total Market Industrial Transportation, among others.
+
+The fact that sustainability is a firmly established component of Austrian Post's core strategy is confirmed not only by the capital market, but also by numerous rating results. Austrian Post consistently strives to achieve good ratings from sustainability rating agencies and maintains proactive dialogue with these agencies. The Car bon Disclosure Project (CDP) is the world's largest data base of corporate environmental and climate information, and is used extensively by capital market participants
+
+## Page 30
+
+to evaluate potential investments. We were awarded a very good rating of A– in 2023. This recognition not only underscores Austrian Post's transparent environmental reporting but also serves as evidence of the quality of the climate protection measures initiated. The MSCI
+
+ESG Rating rates companies in line with the best-in-class approach within the industry. In 2023, Austrian Post was once again awarded the top score, AAA. The company was again awarded prime status in the ESG Corporate Rating awarded by ISS ESG, which emphasised the expansion of the company's fleet of electric vehicles and its approach to addressing environmental and social challenges. Sustainalytics is one of the most well-known ESG rating agencies and assesses companies sustainability risks. Because of its strong sustainability management efforts, Austrian Post was classified as "low risk" in 2023, putting the company ahead of its peers. In 2023, Austrian Post actively participated in S&P Global's Corporate Sustainability Assessment (CSA) again. The CSA is considered one of the world's leading sustainability benchmarks and is characterised by a comprehensive industry-specific questionnaire. Austrian Post was awarded a score of 53 out of 100 for 2023. This puts Austrian Post in the 90th percentile within the transport & transport logistics sector, meaning that 90% of the companies assessed had a maximum ESG score that was the same or lower. **T 01**
+
+#### **<sup>T</sup> 01- ESG Ratings**
+
+| Our ESG Ratings | Evaluation                                          |
+|-----------------|-----------------------------------------------------|
+| MSCI            | AAA (Range from AAA to CCC)                         |
+| ISS ESG         | Prime status,<br>rating of C+ (Range from A+ to D–) |
+| CDP             | A– (Range from A+ to D–)                            |
+| Sustainalytics  | Low risk (15.4)<br>(range from 0 to 50)             |
+| S&P Global      | 53 out of 100 points                                |
+
+# **Research Coverage**
+
+Austrian Post regards the analyses performed by renowned national and international investment banks as a valuable form of feedback from industry experts on corporate development and strategy. At the same time, their monitoring and publication of reports ensured that Austrian Post's shares remained visible in the financial community. As of February 2024, Austrian Post is analysed by six financial institutions on a regular basis: Barclays, Bank of America, Erste Group, Kepler Cheuvreux, Raiffeisen Bank International and UBS.
+
+An overview of the latest assessments by these investment firms is available on the internet. [post.at/investor](http://post.at/investor)
+
+|                                                               |        | 2022        | 2023        | Change |
+|---------------------------------------------------------------|--------|-------------|-------------|--------|
+| Earnings per share1                                           | EUR    | 1.86        | 1.96        | 5.5%   |
+| Dividends per share2                                          | EUR    | 1.75        | 1.78        | 1.7%   |
+| Dividend payout                                               | EUR m  | 118.2       | 120.2       | 1.7%   |
+| Dividend yield3                                               | %      | 6.0         | 5.4         |        |
+| Total shareholder return (annual performance incl. dividend)4 | %      | -17.2       | 17.2        |        |
+| Total shareholder return since IPO4                           | %      | 212.7       | 239.3       |        |
+| Share price performance                                       | %      | -22.2       | 11.2        |        |
+| PE (price/earnings ratio) at the end of December              |        | 15.8        | 16.7        | 5.4%   |
+| Share price at the end of December                            | EUR    | 29.40       | 32.70       | 11.2%  |
+| High/low (closing price)                                      | EUR    | 39.35/26.20 | 36.10/29.40 |        |
+| Market capitalisation at the end of December                  | EUR m  | 1,986.0     | 2,209.0     | 11.2%  |
+| Number of shares in circulation at the end of December        | Number | 67,552,638  | 67,552,638  |        |
+| Free float                                                    | %      | 47.2        | 47.2        |        |
+
+1 Undiluted earnings per share in relation to 67,552,638 shares
+
+**T 02 Share Indicators**
+
+2 Proposal to the Annual General Meeting on 18 April 2024
+
+3 Dividend per share divided by share price at the end of December of the financial year in question
+
+4 Change in share price plus dividend payment (excl. reinvestment of dividend)
+
+## Page 31
+
+# <span id="page-30-0"></span>**Corporate Governance**
+
+# **[Report of the Supervisory Board](#page-32-0)**
+
+- [Changes in the Supervisory Board](#page-32-0)
+- [Activities of the Supervisory Board](#page-32-0)
+- [Activities of the Committees](#page-33-0)
+- [2023 Consolidated and Annual Financial Statements](#page-34-0)
+
+### **[Corporate Governance Report](#page-35-0)**
+
+- [Commitment to the Austrian Corporate Governance Code](#page-35-0)
+- [Composition of the Management Board](#page-36-0)
+- [Composition of the Supervisory Board](#page-38-0)
+- [Mode of Operation of the Management Board and Supervisory Board](#page-40-0)
+- [Diversity Concept and Measures to Promote the Advancement of Women](#page-42-0)
+
+## Page 32
+
+# **Simply reliable.**
+
+**Responsible corporate management is second nature to Austrian Post – it is the key to our future viability.**
+
+## Page 33
+
+# <span id="page-32-0"></span>**Report of the Supervisory Board of Austrian Post on the 2023 Financial Year**
+
+# **Dear Shareholders!**
+
+The 2023 financial year presented Austrian Post with challenging overall conditions. High inflation coupled with flagging economic output is affecting both consumer purchasing power and willingness to invest within the corporate sector. The retail sector in particular is currently experiencing dwindling demand. Given the tense macroeconomic environment, we are very satisfied with Austrian Post's development.
+
+Group revenue in 2023 came to EUR 2,740.8m. The Mail Division recorded a 2.3% drop in revenue due to the decline in the traditional letter mail business, as well as lower volumes in the direct mail business. The Parcel & Logistics Division reported growth of 16.6%, based on increased volumes in all regions. The Retail & Bank Division generated strong revenue growth of 37.6% to EUR 168.6m thanks to the improved interest rate environment for banks.
+
+Austrian Post's reported EBIT came to EUR 190.2m, as against EUR 188.4m in 2022.
+
+# **Changes in the Supervisory Board**
+
+The Supervisory Board mandates awarded to Huberta Gheneff, Edith Hlawati, Peter E. Kruse, Chris E. Muntwyler and Stefan Szyszkowitz expired at the end of the Annual General Meeting held on 20 April 2023. Carola Wahl resigned from her position with effect from 20 April 2023 and left the Supervisory Board.
+
+The candidates nominated by the Supervisory Board, Stefan Fürnsinn, Bernhard Spalt, Elisabeth Stadler and Christiane Wenckheim, were elected as new members of the Supervisory Board by the Annual General Meeting held on 20 April 2023. At the same time, Huberta Gheneff and Peter E. Kruse were re-elected. At the subsequent constituent meeting of the Supervisory Board, Elisabeth Stadler was elected Chair of the Supervisory Board and Stefan Fürnsinn was elected Deputy Chair. Elections were
+
+Image /page/32/Picture/9 description: A portrait of a blonde woman with glasses wearing a dark blue blazer and a pearl necklace. She is looking directly at the camera with a neutral expression. The background is a plain white color.
+
+Elisabeth Stadler Chair of the Supervisory Board
+
+also held to replace members of the Supervisory Board committees.
+
+There was also a change affecting the employee representatives: Ulrike Ernstbrunner was appointed to the Supervisory Board to succeed Maria Klima with effect from 8 November 2023.
+
+# **Activities of the Supervisory Board**
+
+The Supervisory Board took great care to fulfil its obligations during the year under review and performed the tasks incumbent upon it as stipulated by legal regulations, the Articles of Association of Austrian Post and the internal rules of procedure for the Supervisory Board. We regularly advised the Management Board in its efforts to manage the company and monitored its activities. The Management Board provided the Supervisory Board with ongoing information about the general economic situation in the core markets of Austrian Post and important business transactions. Moreover, the chairpersons of the
+
+## Page 34
+
+<span id="page-33-0"></span>committees and I were regularly in contact with the Management Board to discuss current business development.
+
+Seven Supervisory Board meetings and one strategy workshop were held in 2023. The majority of these sessions were held as face-to-face meetings. The attendance rate in the plenary sessions was around 98%; the committee meetings were attended in full with the exception of one meeting.
+
+The revenue and earnings figures of the Austrian Post Group as well as key developments in the mail and parcel business were presented at the four ordinary Supervisory Board meetings. One key topic addressed at the meetings was the challenging overall macroeconomic environment and its impact on the business environment in which Austrian Post operates. Another focal point was the business performance of key investments, in particular the Turkish parcel investment Aras Kargo and bank99.
+
+An extraordinary meeting held on 14 February 2023 approved the acquisition of an 80% stake in Agile Actors, a Greek software development and data engineering service provider. With its broad-based technical expertise, this company will help Austrian Post forge ahead with the Group's digital transformation.
+
+At its meeting held on 14 March 2023, the Supervisory Board reviewed the annual and consolidated financial statements presented by the Management Board, along with the Management Report, the Group Management Report and the profit appropriation proposal for the 2022 financial year and adopted the financial statements. In preparation for the Annual General Meeting, the Supervisory Board also took a detailed look at the 2022 Remuneration Report, which was submitted to the Annual General Meeting held on 20 April 2023 for a vote to be cast to adopt it.
+
+A strategy workshop was held before the August meeting of the Supervisory Board, giving the Supervisory Board the opportunity to discuss the implementation of the corporate and sustainability strategy adopted in 2020. In addition to an extensive discussion of current trends and strategic focus areas in the company's target markets, the 2030 sustainability master plan for three aspects, "Economy & Customers", "Environment & Climate" and "People & Social", was also discussed. One key component of the event was a specialist contribution made by our Supervisory Board member Sigrid Stagl on the topic of "Climate and Energy".
+
+The meeting on 13 November 2023 was held at the new parcel centre in Vienna Inzersdorf. Austrian Post's budget for the 2024 financial year and a report on medium-term planning for 2025–2027 were presented and approved at this meeting. The meeting was followed by a tour of the Vienna logistics centre.
+
+Management Board matters were a particular focus of the Supervisory Board's work over the past financial year. Following intensive preparatory work by the Nomination Committee, the Supervisory Board appointed Walter Oblin as Chair of the Management Board with effect from 1 October 2024 at the extraordinary meeting held on 18 December 2023. In this role, he will succeed Georg Pölzl, whose contract is set to expire on 30 September 2024. Peter Umundum's Management Board contract had already been extended until 31 March 2026 at the Supervisory Board meeting on 9 August 2023.
+
+As part of the training programme for the Supervisory Board, Susanne Kalss from the Vienna University of Economics and Business gave us a detailed update on the rights and duties of the Supervisory Board on 14 November 2023. We discussed current issues relating to the work of the Supervisory Board and key corporate governance aspects.
+
+# **Activities of the Committees**
+
+The committees set up by the Supervisory Board prepare decisions by the plenary sessions and adopt resolutions on matters to which they have been assigned decision-making rights. The chairpersons of the committees report on their committee's work to the entire Supervisory Board.
+
+At its four meetings, the **Audit Committee** of the Supervisory Board duly carried out the responsibilities assigned to it. It monitored accounting processes, the audit and the effectiveness of the internal control system, the risk management system and the internal audit system. The auditors and the Audit Committee were also able to exchange information without the presence of the Management Board. The quarterly results were thoroughly analysed by the Audit Committee. The Supervisory Board was regularly provided with information about the results of the Audit Committee meetings. In accordance with Section 270 (1a) of the Austrian Commercial Code (UGB), BDO Assurance GmbH Wirtschaftsprüfungs- und Steuerberatungsgesellschaft credibly demonstrated its impartiality towards the Audit Committee.
+
+The **Parcel & Logistics Committee** discussed selected topics relating to current business developments at one meeting. As the main projects that the Parcel & Logistics Committee was set up to support have since been completed, the Supervisory Board made the decision to terminate the activities of the Parcel & Logistics Committee in April 2023.
+
+The **Banking Committee** held four meetings in the 2023 financial year and addressed current business developments and the key control parameters of bank99. The
+
+## Page 74
+
+(e.g. SAP SEM positions, SAP Group account charts and customer data). SAP R/3 is predominantly used to compile the monthly accounts. The transition to IFRS is accomplished employing parallel (dual) SAP accounting. The transfer of reporting data to SAP SEM-BCS is undertaken using an automated upload. For monitoring and control purposes, the consolidated financial statements are subject to an EBIT-based reconciliation. In this process, reconciliation from individual financial statements to Group financial statements is carried out, taking into account bookings as well as eliminations in the Group.
+
+Multitiered quality assurance measures are implemented to avoid the incorrect presentation of transactions with the objective of accurately compiling IFRS Reporting Packages for consolidation purposes. In turn, Group Accounting takes the financial accounts compiled by the Group companies and subjects them to several levels of comprehensive plausibility and data quality checks. The carrying out of quality checks at all levels is a prerequisite for the authorisation to publish the Group's consolidated financial statements.
+
+#### **5.1.4 Information and Communication**
+
+Preliminary data from the consolidated financial statements is provided to top management levels to enable them to fulfil their monitoring and control duties. The following reports are issued in the context of preparing the consolidated financial statements: Supervisory Board report, monthly report, report on the performance of subsidiaries, data analysis and evaluation. The quarterly Supervisory Board reports are primarily provided for the Management Board and Supervisory Board of Austrian Post. Other internal reports are also prepared throughout the year containing detailed comments on selected financial statement items, earnings reconciliations and performance indicators in addition to the Supervisory Board report and the legally stipulated notes/annual report, interim financial reports and non-financial reporting. These are made available to the relevant management levels so that they can perform their monitoring and control functions in addition to strategic and operational management, especially with regard to proper accounting and reporting. The monthly report provides an overview of key financial and performance indicators of the company – also at segment level. Group Controlling prepares a monthly report which contains information on the business development of Austrian Post's Group companies. In addition to the reporting on key financial indicators, the Audit Committee also receives a report every six months regarding the current status of the internal control system and the audits carried out. Communications with shareholders of Austrian Post take place in accordance with the stipulations contained
+
+in the Austrian Corporate Governance Code. Communications are conveyed through the Investor Relations website (post.at/investor) as well as through direct discussions with investors. Published information is made available to all investors simultaneously. In addition to these publications, investors are also provided with extensive additional information on the Austrian Post Investor Relations website, including investor presentations, information on the Austrian Post share, published inside information and the financial calendar.
+
+#### **5.1.5 Monitoring**
+
+The key focus of Austrian Post's operational risk management is the identification, evaluation and control of major risks which arise from the company's core business. This process is coordinated by key managers of the divisions. The Austrian Post Group is structured into the divisions operating on the market, the Mail Division, the Parcel & Logistics Division and the Retail & Bank Division, as well as the Corporate Division, which additionally provides Group administration services. The Group companies within the Austrian Post Group are assigned to the various divisions in accordance with the particular focus of their business activities. The major business risks in these operational units are continuously identified and monitored, serving as the basis for determining appropriate risk management measures. Additional key instruments to control and counteract risks include Group-wide risk management and internal control system guidelines for dealing with major risks, planning and control processes as well as ongoing reporting. These guidelines encompass, for example, definition and monitoring of limits and procedures designed to limit financial risks and strict adherence to the principle of having dual control to oversee all business transactions. In addition, regular reviews of the reliability, regularity and legality of the accounting and reporting process are carried out by the Group's Internal Audit department. The planning and control processes serve as an early warning system, and simultaneously as the basis to evaluate the effectiveness of the controlling measures being implemented. In addition to the Report to the Entire Management Board containing the main indicators, there are also monthly performance reviews on operating units, which continue on a hierarchical manner in line with the integrated planning and reporting processes.
+
+## Page 75
+
+### <span id="page-74-0"></span>**5.2 Information Pursuant to Section 243a of the Austrian Commercial Code (UGB)**
+
+The share capital of Austrian Post amounts to EUR 337,763,190 and is divided into 67,552,638 non-par value shares with a nominal value of EUR 5 per share. There are no voting rights restrictions or syndicate agreements that the company is aware of.
+
+Through Österreichische Beteiligungs AG (ÖBAG), the Republic of Austria has a 52.8% shareholding in Austrian Post, based on the number of outstanding shares (a total of 67,552,638). Austrian Post is not aware of any other shareholders holding more than 10% of the company's shares.
+
+To the company's best knowledge, there are no shareholders owning shares with special controlling interests. Employees who are shareholders of Austrian Post exercise their voting rights on an individual basis. There are no rules with regards to the appointment or dismissal of members of the Management Board or the Supervisory Board, or as regards to changes to be made to the company's Articles of Association which can be directly inferred from legal regulations.
+
+**Authorised Capital** In accordance with Section 5a of the Articles of Association of Austrian Post, the Management Board is authorised until 16 June 2025, subject to approval of the Supervisory Board, to increase the share capital, in accordance with Section 169 of the Austrian Stock Corporation Act (AktG), by up to EUR 16,888,160 through the issuance of up to 3,377,632 new, ordinary bearer shares (non-par value shares) in exchange for cash and/or contributions in kind, and in some cases also by excluding shareholder subscription rights. This amendment to the Articles of Association was entered in the commercial register on 6 August 2020.
+
+**Conditional Capital** In accordance with Section 5b of the Articles of Association of Austrian Post, the share capital of the company was increased by up to EUR 16,888,160 by issuing up to 3,377,632 non-par value shares in accordance with Section 159 of the Austrian Stock Corporation Act (AktG). The capital increase may only be carried out for the purpose of granting rights of exchange and subscription rights to creditors of financial instruments pursuant to Section 174 of the Austrian Stock Corporation Act (AktG). The Management Board is authorised, contingent upon approval of the Supervisory Board, to set the further conditions associated with conducting the conditional increase in capital. This amendment to the Articles of Association was entered in the commercial register on 06 August 2020.
+
+**Share Buy-Back Programme** The Annual General Meeting of Austrian Post held on 21 April 2022 authorised the Management Board pursuant to Section 65 Para 1 (4) and (8), Para 1a and 1b of the Austrian Stock Corporation Act (AktG) to acquire non-par value bearer or registered shares of the company, with this to amount to up to 10% of the company's share capital, over a period running from 1 May 2022 to 31 October 2024, on or outside stock exchanges, and only from individual shareholders or a single shareholder, especially ÖBAG, at a lowest equivalent value of EUR 20 per share, and at a highest equivalent value of EUR 60 per share.
+
+Trading in treasury shares is excluded as the objective of the purchase. The authorisation can be exercised in part or in full or several amounts and for the purposes of realising one or more objectives by the company, a subsidiary (Section 228 Para 3 of the Austrian Commercial Code [UGB]) or by a third party acting on a paid commission basis on behalf of the company. The acquisition by the Management Board may especially be performed in cases in which the shares are to be offered to employees, senior managers and members of the Management Board of the company or of one affiliated with it in conjunction with an employee participation programme, a stock option programme and/or a private foundation, whose primary purpose is to hold and manage the shares for one or more of the aforementioned persons (such as an employee share participation foundation in accordance with Section 4d Para 4 of the Austrian Income Tax Act [EStG]).
+
+The Management Board of Austrian Post can resolve to make this purchase on a stock exchange. In such cases, the Supervisory Board has to be subsequently informed of this resolution. A purchase not made via an exchange requires the prior approval of the Supervisory Board. In a case of a purchase not made on the exchange, this purchase can be undertaken in a way excluding the proportionate right of sale (reverse exclusion of subscription rights).
+
+The Management Board is authorised for a term of five years starting with approval of the resolution pursuant to Section 65 Para 1b of the Austrian Stock Corporation Act (AktG), with the approval of the Supervisory Board but without requiring the Annual General Meeting's passing of a resolution, to pass a resolution stipulating that treasury shares are to be sold or used in a way other than their sale via an exchange or through a public offer, appropriately adhering to the rules established for the exclusion of subscription rights held by shareholders, especially with respect to shares to be offered to employees, senior managers and/or members of the Management Board of the company or of one affiliated with it in conjunction with an employee participation programme or with a stock option programme and/or issued to a private foundation,
+
+**GROUP MANAGEMENT REPORT**
+
+## Page 76
+
+<span id="page-75-0"></span>whose primary purpose is to hold and manage the shares for one or more of the aforementioned persons (such as an employee share participation foundation in accordance with Section 4d Para 4 of the Austrian Income Tax Act (EStG)) and to determine the terms and conditions of the sale. The authorisation can be exercised in part or in full or several amounts and for the purposes of realising one or more objectives by the company, a subsidiary (Section 228 Para 3 of the Austrian Commercial Code (UGB)) or by a third party acting on a paid commission basis on behalf of the company.
+
+The Management Board is also authorised to reduce the share capital with the consent of the Supervisory Board and, if necessary, this is to be undertaken through the withdrawal of treasury shares and does not require the Annual General Meeting's passing a resolution, in accordance with Section 65 Para 1 (8) last sentence in conjunction with Section 122 of the Austrian Stock Corporation Act (AktG). The Supervisory Board is authorised to resolve upon amendments to the Articles of Association arising from the withdrawal of shares.
+
+**Financial Instruments as Defined by Section 174 of the Austrian Stock Corporation Act (AktG)** The Management Board was also authorised, with the consent of the Supervisory Board, to issue, up to 16 June 2025, financial instruments, as defined by Section 174 of the Austrian Stock Corporation Act (AktG), with these especially including convertible bonds, income bonds and profit participation rights, featuring a total nominal amount of up to EUR 250,000,000. This authorisation comprises the rights of exchange of and/or subscription rights for up to 3,377,632 shares of the company and/or is configured in a way permitting the shares to be reported as equity. This issuance is to be allowed to be undertaken in one or more tranches and in a variety of combinations, also incorporating the direct rendering of a guarantee for the issuance of financial instruments by an affiliated company, and with this extending to the granting of rights of exchange and/or subscription rights for the shares of the company.
+
+To satisfy rights of exchange and/or subscription, the Management Board is entitled to make use of conditional capital or treasury shares, or a combination of both.
+
+The price and terms of issuance of financial instruments are to be set by the Management Board with the approval of the Supervisory Board. The setting of this price has to adhere to recognised financial and mathematical methods of calculation and the share price of the company, within the context of a recognised pricing procedure.
+
+The Management Board is authorised to exclude shareholders' subscription rights to the financial instruments, as stipulated in Section 174 of the Austrian Stock Corporation Act (AktG), contingent upon approval of the Supervisory Board.
+
+There are no significant contractual agreements to which the company is a party, which would take effect, cause major changes or expire in the event of a change in ownership resulting from a takeover.
+
+No compensation agreements exist between the members of the Management Board and Supervisory Board or with employees in case of a public takeover offer.
+
+### **5.3 Non-Financial Information**
+
+Austrian Post and its fully consolidated Group companies are obliged to publish a non-financial report in accordance with the requirements set out in the Austrian Sustainability and Diversity Improvement Act (NaDiVeG) and Sections 267a and 243b of the Austrian Commercial Code (UGB). Austrian Post and its fully consolidated Group companies meet this obligation by publishing a separate non-financial report (hereinafter referred to as the "Sustainability Report"). The Sustainability Report is prepared in accordance with the requirements of Sections 267a and 243b of the Austrian Commercial Code, the sustainability reporting standards of the Global Reporting Initiative (2021 GRI Standards) and Article 8 of the EU Taxonomy Regulation ((EU) 2020/852) in conjunction with the applicable Delegated Acts of the European Commission. The Sustainability Report is audited by an independent third party as part of a limited assurance engagement.
+
+## Page 77
+
+# <span id="page-76-0"></span>**6. Outlook for 2024**
+
+The macroeconomic environment in Austrian Post's markets remains dominated by high inflation and weak economic momentum. This is having a knock-on effect on the willingness of companies to invest, but also on consumer purchasing behaviour. Changes are evident in the retail sector in particular. There are signs of a further decline in bricks-and-mortar retail alongside growth in national and international e-commerce.
+
+#### **Revenue Growth in 2024**
+
+In order to meet the market challenges, it is important for Austrian Post to achieve positive revenue development through innovative solutions, new products and services, as well as price adjustments. Based on current forecasts, growth in the low to mid-single-digit range is expected for the 2024 financial year.
+
+In the Mail Division, a slight dip in revenue is forecast. The fundamental trend towards declining volumes in the traditional mail segment will continue. In addition, the weak economy is expected to result in difficult conditions for the retail sector and, as a result, in a reduced volume of direct mail and media post. Various elections in Austria at local and national level, as well as price adjustments for various products, should have a positive effect in 2024.
+
+In the Parcel & Logistics Division, growth is expected to be in the mid-single-digit range. Further trends will be heavily reliant on economic developments in our markets and, as a result, on consumer purchasing power. In the Turkish market in particular, the economic environment and inflation, as well as the exchange rate of the Turkish lira, make forecasting more difficult.
+
+The Retail & Bank Division is likely to achieve stable to single-digit growth in revenue depending on the interest rate environment. The most important goal here for 2024 will be finalising the transformation programme for core bank migration.
+
+#### **Group Net Profit in 2024**
+
+Revenue growth on the one hand, but also cost discipline and efficiency on the other, are necessary in order to ensure the stability that Austrian Post is aiming to achieve. In both mail and parcel logistics, Austrian Post is forging ahead with solutions that offer a high level of customer benefit, but also enable efficient processes that are easy to plan. Having achieved stable earnings in 2023, Austrian Post is therefore also aiming to achieve earnings (EBIT) that are on a par with the previous year in the 2024 financial year.
+
+#### **Investment Programme in 2024**
+
+The large-scale investment programme implemented in recent years – which has almost tripled sorting capacity in Austria – has now been completed. Investments in the coming years will focus on expanding international logistics and on e-mobility. For example, the company is aiming for last-mile delivery to be completely CO₂-free by 2030. This means that overall investment require ments should decline slightly in 2024. All in all, the plan for 2024 is to invest around EUR 70–80m in maintenance CAPEX (automation, digitalisation, maintenance) and around EUR 40m in green transformation (electric vehicles, photovoltaic systems), as well as EUR 30m in growth CAPEX, primarily now in Türkiye and Southeast and Eastern Europe.
+
+Austrian Post's aim remains to offer a combi nation of growth and strong dividends. The growth opportunities that are emerging are being secured by making appropriate structural investments. In addition, the cash flow generated from operations should continue to ensure the necessary basic investments, as well as an attractive dividend policy.
+
+## Page 78
+
+The Management Board will propose to the Annual General Meeting scheduled for 18 April 2024 that it approve the distribution of a dividend in the amount of EUR 1.78 per share. In doing so, the company is continuing its attractive dividend policy: Austrian Post continues to pursue the objective of distributing at least 75% of the Group's net profit to its shareholders.
+
+Vienna, 23 February 2024
+
+The Management Board
+
+WM
+
+**GEORG PÖLZL** CEO Chairman of the Management Board
+
+Walter R.
+
+**WALTER OBLIN** Deputy CEO Mail & Finance (CFO)
+
+Peter Klein
+
+**PETER UMUNDUM** Member of the Management Board Parcel & Logistics (COO)
+
+## Page 79
+
+# <span id="page-78-0"></span>**Consolidated Financial Statements**
+
+- **[Consolidated Income Statement](#page-80-0)**
+- **[Consolidated Statement of Comprehensive Income](#page-81-0)**
+- **[Consolidated Balance Sheet](#page-82-0)**
+- **[Consolidated Cash Flow Statement](#page-84-0)**
+- **[Consolidated Statement of Changes in Equity](#page-86-0)**
+- **[Notes to the Consolidated Financial Statements](#page-88-0) [for the 2023 Financial Year](#page-88-0)**
+	- [1. Reporting Entity](#page-88-0)
+	- [2. Summary of Accounting Principles](#page-88-0)
+	- [3. Accounting Policies](#page-89-0)
+- [4. Changes in Accounting and Valuation Methods](#page-111-0)
+- 5[. Future-related Assumptions and Estimation Uncertainties](#page-112-0)
+- [6. Scope of Consolidation and Financial Assets Accounted for Using the Equity Method](#page-115-0)
+- 7[. Segment Reporting](#page-122-0)
+- 8[. Revenue from Contracts with Customers](#page-125-0)
+- 9[. Result from Financial Services](#page-126-0)
+- [10. Raw Materials, Consumables and Services Used](#page-127-0)
+- [11. Staff Costs](#page-127-0)
+- [12. Other Operating Income and Expenses](#page-128-0)
+- [13. Total Financial Result](#page-129-0)
+- [14. Income Tax](#page-130-0)
+- [15. Earnings per Share](#page-133-0)
+- [16. Goodwill](#page-134-0)
+- [17. Intangible Assets](#page-136-0)
+- [18. Property, Plant and Equipment](#page-137-0)
+- [19. Leases](#page-139-0)
+- [20. Investment Property](#page-142-0)
+- [21. Inventories](#page-143-0)
+- [22. Trade and Other Receivables](#page-143-0)
+- [23. Financial Assets](#page-144-0)
+- [24. Cash and Cash Equivalents](#page-145-0)
+- [25. Equity](#page-145-0)
+- [26. Provisions](#page-147-0)
+- [27. Trade Payables and Other Payables](#page-153-0)
+- [28. Financial Liabilities](#page-154-0)
+- 2[9. Financial Instruments](#page-155-0)
+- [30. Other Disclosures](#page-188-0)
+- **[Audit Opinion](#page-193-0)**
+- **[Statement of Legal Representatives](#page-199-0)**
+
+## Page 80
+
+# **Simply reliable.**
+
+**A solid balance sheet and strong cash flow reflect the 2023 earnings.**
+
+## Page 81
+
+# <span id="page-80-0"></span>**Consolidated Income Statement**
+
+#### for the 2023 financial year
+
+| EUR m                                                               | Note                            | 2022     | 2023     |
+|---------------------------------------------------------------------|---------------------------------|----------|----------|
+| Revenue                                                             | (8.)                            | 2,522.0  | 2,740.8  |
+| thereof income from financial services                              | (9.)                            | 82.6     | 127.6    |
+| thereof income from effective interest                              |                                 | 33.9     | 72.6     |
+| Other operating income                                              | (12.1)                          | 107.3    | 100.3    |
+| TOTAL OPERATING INCOME                                              |                                 | 2,629.3  | 2,841.2  |
+| Raw materials, consumables and services used                        | (10.)                           | -750.1   | -832.4   |
+| Expenses from financial services                                    | (9.)                            | -11.3    | -21.6    |
+| Staff costs                                                         | (11.)                           | -1,144.2 | -1,215.4 |
+|                                                                     | (16., 17.,<br>18., 19.,<br>20.) |          |          |
+| Depreciation, amortisation and impairment losses                    |                                 | -184.3   | -201.3   |
+| Other operating expenses                                            | (12.2)                          | -352.3   | -387.4   |
+| thereof impairment losses in accordance with IFRS 9                 |                                 | -7.8     | -10.5    |
+| TOTAL OPERATING EXPENSES                                            |                                 | -2,442.3 | -2,658.2 |
+| Results from financial assets accounted for using the equity method | (6.4.2)                         | -0.3     | 2.1      |
+| Net monetary gain                                                   |                                 | 1.8      | 5.1      |
+| EARNINGS BEFORE FINANCIAL RESULT AND INCOME TAX (EBIT)              |                                 | 188.4    | 190.2    |
+| Financial income                                                    |                                 | 8.1      | 30.8     |
+| Financial expenses                                                  |                                 | -32.8    | -33.8    |
+| FINANCIAL RESULT                                                    | (13.)                           | -24,7    | -3.0     |
+| PROFIT BEFORE TAX                                                   |                                 | 163,7    | 187.2    |
+| Income tax                                                          | (14.)                           | -35,6    | -48.5    |
+| PROFIT FOR THE PERIOD                                               |                                 | 128.1    | 138.7    |
+| ATTRIBUTABLE TO:                                                    |                                 |          |          |
+| Shareholders of the parent company                                  | (25.)                           | 125.7    | 132.6    |
+| Non-controlling interests                                           | (25.)                           | 2.5      | 6.2      |
+| EARNINGS PER SHARE (EUR)                                            |                                 |          |          |
+| EARNINGS PER SHARE (BASIC AND DILUTED)                              | (15.)                           | 1.86     | 1.96     |

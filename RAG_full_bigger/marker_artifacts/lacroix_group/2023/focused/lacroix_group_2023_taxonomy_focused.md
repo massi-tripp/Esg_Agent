@@ -1,0 +1,732 @@
+## Page 15
+
+• Net income of €1.8M, impacted by items relating to the ongoing disposal of the Signalisation segment (net capital gain on the disposal of the building, capital loss arising from its treatment as an asset held for sale at 31 December).
+
+The City business should see the sale of the Signalisation segment completed during the next financial year. On a like-for-like basis (excluding Signalisation), business should continue to grow. Margins will be impacted from time to time by the end of the absorption of structural costs by the Signalisation segment.
+
+The key figures for the City Activity are as follows (contribution):
+
+| In €M                    | N<br>(12 months) | N - 1<br>(12 months) |
+|--------------------------|------------------|----------------------|
+| Revenue                  | 116.4            | 109.1                |
+| Current EBITDA           | 4.3              | 0.9                  |
+| Current operating profit | 0.9              | (2.5)                |
+| Net income               | (1.8)            | (4.3)                |
+| Cash flow                | 1.2              | (1.9)                |
+| Investments*             | xx               | 1.5                  |
+
+(\*) Net investments excluding investments relating to M&A operations and financial assets.
+
+## **Research & Development Activity**
+
+R&D activities concern all activities and are recognised as operating expenses. In 2023, these activities generated €3.6M of Research Tax Credit (CIR) in the 2023 accounts.
+
+For the record, in 2021 LACROIX was selected to take part in 3 collaborative and innovative projects, two of which are winners of the "relocation in critical sectors" tender, under the France Relance (Relaunching France) plan. For the period 2021- 2024, the projects in question address themes such as urban mobility and its impact on air quality, or better management of critical resources such as water. These projects give rise to the recognition of operating subsidies (partial financing of R&D work).
+
+### **Financial situation**
+
+CFFO (cash flows from operations) totalled €34.1M compared to €33.0M in the previous year.
+
+Over the period, the change in working capital requirements made a positive contribution (+€8.9M) despite the dynamic growth in revenue, confirming the start of the expected improvement after two years of deterioration due to pressure on supplies in the components market.
+
+Capital expenditure (excluding financial expenses) was contained at €16.9M (2.2% of revenue). In addition, LACROIX completed asset disposals totalling €3.7M, primarily the disposal of the Signalisation BU's main building.
+
+As a result, Free Cash Flow was positive at +€23.2M compared to -16.9 €M
+
+In addition, the following special features should be noted:
+
+- Treatment as an asset available for sale led to the deconsolidation of a debt of around €5M
+- New borrowings totalling €33.9M, including €10M for an 8-year recovery participating loan (PPR) with a 4-year grace period
+
+At 31 December 2023, the Group's net debt (excluding rent and acquisition debt) totalled €112.9M compared with €138.8M. Positive cash flow amounted to €42.5M on the closing date. The ratio of net debts (excluding debts for rentals and acquisitions) to equity (gearing) amounts to 0.59 compared to 0.72 as at 31 December 2022.
+
+#### **Prospects**
+
+Following a year marked by solid business growth and resilient profitability, LACROIX expects 2024 to be a year of contrasts depending on its markets.
+
+Taking into account the economic uncertainties of 2024, LACROIX expects sales excluding signage to exceed €710 million in 2024, slightly up on its 2023 level excluding signage (i.e. €702 million). The recurring EBITDA margin is expected to exceed its 2023 level, within a range of 5.5% to 6.5%.
+
+By 2025, the Group confirms its sales target of €800 million, conditional on the completion of an external growth operation and more favorable demand trends in the automotive and HBAS markets. An EBITDA margin of around 9% remains the target, but realistically this seems difficult to achieve as early as 2025. Nevertheless, LACROIX remains fully confident in its ability to reach this new milestone in the medium term.
+
+## Page 16
+
+### **LACROIX Group**
+
+### **Company activity**
+
+As the parent company of the Group, it is responsible for the management of assets, mainly comprising the equity of the parent companies of the three activities and some subsidiaries, and supervises and coordinates each of them through General Management and Executive Management, as well as Finance, Legal & Compliance, Human Resources, Strategic Innovation, R&D, IT, and Communication Departments.
+
+LACROIX Group also shares a certain number of resources between activities, such as the teams in the Payroll shared-service centre, the managers of cross-cutting projects (IT, Finance, HR, etc.), and the central R&D teams working on the common platforms of our future offers.
+
+Revenue, excluding dividends, is generated by royalties received from subsidiaries in exchange for the services described above.
+
+At 31 December 2023, revenue totalled €13,291K, compared with €13,173K in the prior period, reflecting the stability of the scope of services provided for Group companies.
+
+Operating income fell to -€1,835K compared to -€934K. This change is due in particular to the base effect, which involved the vacancy of certain posts leading to a one-off reduction in operating expenses.
+
+This loss was largely offset by the positive net financial income of +€14,996K compared with +€11,911K, and the income tax benefit of €4,056K compared with €3,598K relating to the integrated profits system.
+
+As such, net income was €17,206K compared to €14,518K for the previous financial year.
+
+#### **Non tax-deductible expenses**
+
+Non tax-deductible expenses and charges at the end of the year amounted to a total of €40,826.
+
+This amount corresponds to the non-deductible portion of the lease payments on the cars used by the Company for an amount of €32,890 and to corporate vehicle tax (TVS) charges of €7,936, which generated a tax charge of 10,207 euros.
+
+### **Information on payment terms**
+
+In accordance with Articles L. 441-6-1 and D. 441-4 of the French Commercial Code, we hereby inform you that at the end of the financial year, the balance of trade receivables and payables by due date was as follows:
+
+|                                                                                            | Received invoices, not settled by the end<br>of the financial year and due |                                                                 |                  |                  |                    |                             | Issued invoices, not settled by the end<br>of the financial year and due |                                                             |                  |                  |                    |                             |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------|------------------|------------------|--------------------|-----------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|------------------|------------------|--------------------|-----------------------------|
+|                                                                                            | 0 days                                                                     | 1 to 30 days                                                    | 31 to<br>60 days | 61 to<br>90 days | 91 days or<br>more | Total<br>(1 day or<br>more) | 0 days                                                                   | 1 to<br>30 days                                             | 31 to<br>60 days | 61 to<br>90 days | 91 days<br>or more | Total<br>(1 day or<br>more) |
+| (A) Late payment periods                                                                   |                                                                            |                                                                 |                  |                  |                    |                             |                                                                          |                                                             |                  |                  |                    |                             |
+| Number of invoices<br>concerned                                                            | 105                                                                        | 51                                                              | 9                | 3                | 101                | 164                         | 122                                                                      | 8                                                           | 6                | 0                | 4                  | 18                          |
+| Total amount, including<br>tax, of invoices in question                                    | €620,859.89                                                                | €233,261.41                                                     | €20,223.69       | €268.43          | €110,383.84        | €364,137.37                 | €3,908,576.31                                                            | €85,801.67                                                  | €94,545.15       |                  | €121,045.69        | €301,392.51                 |
+| Percentage of total<br>purchases amount for the<br>year, including tax                     | 7.00%                                                                      | 2.63%                                                           | 0.23%            | 0.00%            | 1.24%              | 4.11%                       |                                                                          |                                                             |                  |                  |                    |                             |
+| Percentage of revenue for<br>the year, including tax                                       |                                                                            |                                                                 |                  |                  |                    |                             | 16.66%                                                                   | 0.37%                                                       | 0.40%            | 0.00%            | 0.52%              | 1.28%                       |
+| (B) Invoices excluded from (A) relating to written-off or unrecorded debts and receivables |                                                                            |                                                                 |                  |                  |                    |                             |                                                                          |                                                             |                  |                  |                    |                             |
+| Number of invoices                                                                         | 0                                                                          | 0                                                               | 0                | 0                | 0                  | 0                           | 0                                                                        | 0                                                           | 0                | 0                | 0                  | 0                           |
+| Total amount of excluded<br>invoices, including tax                                        |                                                                            | -                                                               | -                | -                | -                  | -                           |                                                                          | -                                                           | -                | -                | -                  | -                           |
+| (C) Reference payment terms used (contract or legal terms)                                 |                                                                            |                                                                 |                  |                  |                    |                             |                                                                          |                                                             |                  |                  |                    |                             |
+| Payment terms used<br>for calculation of<br>payment delays                                 |                                                                            | The average delayed payment term for suppliers<br>is 26.11 days |                  |                  |                    |                             |                                                                          | 30 days end of month, by the 15th of the<br>following month |                  |                  |                    |                             |
+
+## Page 17
+
+## **2. FACTORS LIKELY TO HAVE AN IMPACT IN THE EVENT OF A TAKEOVER**
+
+In compliance with Articles L. 233-13 and L. 22- 10-11 of the French Commercial Code, we hereby inform you of the following:
+
+## **Company share capital structure**
+
+As at 31 December 2023, Company share capital was €32,055,239.04, made up of 4,829,096 shares.
+
+The structure of share capital is as follows:
+
+|                         | % of capital | % of voting<br>rights* |
+|-------------------------|--------------|------------------------|
+| Bedouin family<br>Group | 62.36%       | 76.51%                 |
+| Treasury shares**       | 3.07%        | -                      |
+| Public                  | 34.66%       | 23.49%                 |
+
+(\*) Exercisable voting rights.
+
+(\*\*) Of which shares held under the liquidity agreement.
+
+## **Disclosure thresholds**
+
+*In accordance with Articles L. 233-7 and R. 233-1 of the French Commercial Code, any natural or legal person, whether acting alone or in conjunction with others, directly or indirectly acquiring a number of shares representing more than one twentieth, one tenth, three twentieths, one fifth, one quarter, three tenths, one third, one half, two thirds, eighteen twentieths or nineteen twentieths of equity or voting rights must notify the Company thereof.*
+
+In the financial year ending 31 December 2023, there were no reports of legal thresholds being exceeded.
+
+In addition to reporting exceeded legal thresholds, any shareholder possessing at least 2% of share capital in the Company is required to notify the latter thereof within 15 days, pursuant to Article 8 of the Company's Articles of Association. This reporting obligation concerns each 2% fraction of share capital held in the Company.
+
+In the financial year ending 31 December 2023, the following cases of shareholders falling below or exceeding the legal threshold were reported:
+
+- Quareo Capital SA's fraction of share capital fell below the 2% share capital threshold,
+- Human's fraction of share capital fell below the 2% share capital threshold,
+- La Financière de l'Echiquier's fraction of share capital exceeded he 2% share capital threshold.
+
+In addition, since the end of the financial year, the Company has been informed of the following cases of a shareholder falling below the lower legal threshold:
+
+• Quareo Capital SA's fraction of share capital exceeded the 2% share capital threshold.
+
+## **Significant shareholding in registered form**
+
+With the exception of shares held by the Bedouin family-run group, there was no significant registered shareholding at year-end closing.
+
+## **Double voting rights**
+
+Article 10 of the Articles of Association assigns a double voting right to each share fully paid up subject to proof that the share is registered in the name of one and the same shareholder for at least 3 years.
+
+## **Control mechanism**
+
+With the exception of the double voting right conferred, no special rights are attached to shares.
+
+Nor are there control mechanisms in the employee shareholding system, nor agreements between shareholders of which the Company is aware and which may entail restrictions on share transfers.
+
+## **Board of Directors' powers regarding share buy-back**
+
+The General Meeting delegates to the Board of Directors the power, pursuant to the provisions of Article L. 22-10-62 of the French Commercial Code, European Regulation 2273/2003 of 22 December 2003, and Articles 241-1 to 241-7 of the General Regulations of the French Financial Markets Authority, to purchase Company shares up to 10% of share capital.
+
+The Board of Directors holds a power granted by the General Meeting of 11 May 2021 regarding capital increase and the free allocation of shares in the Company.
+
+## **Treasury shares**
+
+In 2005, the Company entrusted the implementation of a liquidity contract compliant with AFEI's code of ethics (French Financial Market Association) recognised by the French Financial Markets Authority on 22 March 2005, to the brokerage firm PORTZAMPARC.
+
+As of 31 December 2023, the Company held 143,921 treasury shares and 4173 shares under the liquidity agreement, i.e. a total of 148,094 treasury shares representing 3.07% of capital.
+
+## Page 18
+
+### **Subsidiaries**
+
+|                                          | Share<br>capital<br>(3) | Other<br>equity<br>(3) | Share of<br>capital<br>held | Book value of securities<br>held |        | Loans and<br>advances<br>granted<br>and not<br>repaid | Amount of<br>guarantees<br>and in-<br>vestments<br>given | Revenue<br>before<br>taxes for<br>the last<br>financial<br>year | Income<br>for the last<br>financial<br>year | Dividends<br>received<br>during the<br>financial<br>year |
+|------------------------------------------|-------------------------|------------------------|-----------------------------|----------------------------------|--------|-------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
+|                                          |                         |                        |                             | Gross                            | Net    |                                                       |                                                          |                                                                 |                                             |                                                          |
+| 1. Subsidiaries held at more<br>than 50% |                         |                        |                             |                                  |        |                                                       |                                                          |                                                                 |                                             |                                                          |
+| LACROIX ENVIRONMENT                      | 13,575                  | 10,229                 | 100.00%                     | 13,575                           | 13,575 |                                                       |                                                          | 1,207                                                           | 8,878                                       | 9,302                                                    |
+| LACROIX ELECTRONICS                      | 15,000                  | (12,342)               | 100.00%                     | 46,427                           | 46,427 | 44,276                                                |                                                          | 3,490                                                           | (3,161)                                     |                                                          |
+| LACROIX CITY                             | 9,373                   | (12,117)               | 100.00%                     | 14,999                           | 4,999  | 58,757                                                |                                                          | 18,267                                                          | (8,274)                                     |                                                          |
+| LACROIX VI                               | 5                       | (1)                    | 100.00%                     | 5                                | 5      |                                                       |                                                          |                                                                 |                                             |                                                          |
+| LACROIX NORTH AMERICA<br>INC (1)         |                         | (7,676)                | 100.00%                     |                                  |        | 72,725                                                |                                                          |                                                                 | (3,268)                                     |                                                          |
+| LACROIX II                               | 5                       |                        | 100.00%                     | 5                                | 5      |                                                       |                                                          |                                                                 |                                             |                                                          |
+| LACROIX SINGAPORE (2)                    | 610                     | (277)                  | 100.00%                     | 406                              | 406    |                                                       |                                                          |                                                                 | (75)                                        |                                                          |
+| LACROIX ENVIRONMENT<br>GmbH              | 25                      | 4,577                  | 100.00%                     | 10,387                           | 10,387 | 11,074                                                |                                                          |                                                                 | 1,785                                       |                                                          |
+| 2. Shares between 10 and 50%             |                         |                        |                             |                                  |        |                                                       |                                                          |                                                                 |                                             |                                                          |
+| None                                     |                         |                        |                             |                                  |        |                                                       |                                                          |                                                                 |                                             |                                                          |
+| 3. Shares less than 10%                  |                         |                        |                             |                                  |        |                                                       |                                                          |                                                                 |                                             |                                                          |
+| Other shares                             |                         |                        |                             |                                  |        |                                                       |                                                          |                                                                 |                                             |                                                          |
+| TOTAL                                    |                         |                        |                             | 85,803                           | 75,803 | 182,832                                               |                                                          |                                                                 |                                             | 9,302                                                    |
+
+(1) Results of the subsidiary in USD have been converted at the closing rate in €.
+
+(2) Results of the subsidiary in SGD have been converted at the closing rate in €.
+
+(3) In local currency.
+
+## **Equity investments**
+
+In accordance with Article L. 233-6 of the French Commercial Code, we hereby specify that no investments or acquisitions have been made in relation to companies having their registered office in France.
+
+## **Companies controlled**
+
+During the year ending 31 December 2023, the Company controlled the following companies:
+
+- LACROIX ELECTRONICS (France 100%)
+- LACROIX ELECTRONICS BEAUPREAU (France LACROIX ELECTRONICS subsidiary 75%)
+- LACROIX ELECTRONICS TUNIS (France LACROIX ELECTRONICS BEAUPREAU subsidiary 99.9%)
+- LACROIX ELECTRONICS TUNISIE (Tunisia LACROIX ELECTRONICS subsidiary 100%)
+- LACROIX ELECTRONICS GmbH (Germany LACROIX ELECTRONICS subsidiary 100%)
+- LACROIX ELECTRONICS SP. ZO.O. (Poland LACROIX ELECTRONICS subsidiary 100%)
+- LACROIX ELECTRONICS CESSON (France LACROIX ELECTRONICS subsidiary 100%)
+- LACROIX ENVIRONMENT (France 100%)
+- LACROIX SOFREL (France LACROIX ENVIRONMENT subsidiary 98.4%)
+- LACROIX SOFREL ESPAÑA S.L.U. (Spain LACROIX SOFREL subsidiary 98.4%)
+- LACOIX SOFREL S.R.L. (Italy LACROIX SOFREL subsidiary 98.4%)
+- LACROIX CITY (France 100%)
+- LACROIX CITY SAINT HERBLAIN (France LACROIX CITY subsidiary 99.9%)
+- LACROIX OCÉAN INDIEN (France LACROIX CITY SAINT HERBLAIN subsidiary 99.9%)
+- LACROIX MAYOTTE (France LACROIX OCÉAN INDIEN subsidiary 99.9%)
+- LACROIX PACIFIC (France LACROIX CITY SAINT HERBLAIN subsidiary 99.9%)
+- LACROIX CITY NORTE SA (Spain LACROIX CITY SAINT HERBLAIN subsidiary 99.9%)
+- LACROIX CITY CENTRO, S.A.U. (Spain LACROIX CITY Norte subsidiary 99.9%)
+- LACROIX Trafic Cameroun (Cameroon LACROIX CITY SAINT HERBLAIN subsidiary 99.9%)
+- LACROIX CITY CARROS (France LACROIX CITY subsidiary 100%)
+- LACROIX CITY MADRID SAU (Spain LACROIX CITY CARROS subsidiary 100%)
+- LACROIX CITY Les Chères (France LACROIX CITY subsidiary 100%)
+- LACROIX CITY BELGIUM (Belgium LACROIX CITY LES CHÈRES subsidiary 100%)
+- LACROIX CITY PLOUFRAGAN (France LACROIX CITY subsidiary 100%)
+- LACROIX SINGAPORE PTE. LTD. (Singapore 100%)
+
+## Page 19
+
+- LACROIX NORTH AMERICA (United States 100%)
+- LACROIX ELECTRONICS MI (United States LACROIX NORTH AMERICA subsidiary 62.2%)
+- LACROIX GmbH (Germany 100%)
+- SAE-IT SYSTEMS GmbH & Co KG (Germany LACROIX GmbH subsidiary 100%)
+- SAE-IT VERWALTUNGS GmbH (Germany LACROIX GmbH subsidiary 100%)
+- LACROIX VI (France 100%)
+- LACROIX VII (France LACROIX CITY SAINT HERBLAIN subsidiary 100%)
+- LACROIX III (France LACROIX CITY SAINT HERBLAIN subsidiary 100%)
+- LACROIX II (France 100%)
+
+#### **Loans**
+
+In accordance with the provisions of Article L. 511-6, 3a of the French Monetary and Financial Code, we hereby inform you that during the financial year, the Company granted the following loans:
+
+- a loan of USD 5,277k to LACROIX North America, details of which are given below in the section on regulated agreements.
+- a loan of USD XXk to LACROIX ELECTRONICS MI, details of which are given below in the section on regulated agreements.
+
+### **Employee shareholding**
+
+In accordance with the provisions of Article L. 225-102, paragraph 1, of the French Commercial Code, we hereby inform you that the proportion of capital represented by shares held by staff as part of an employee's mutual fund amounted to 0.87% as at 31 December 2023.
+
+## **3. MAIN RISK FACTORS FACED BY THE COMPANY**
+
+Under the provisions of Article L. 225-100-1, I 3 of the French Commercial Code, we present the relevant information:
+
+### **Strategic and operational risks**
+
+The nature of the strategic risks to which the Company is exposed is unlikely to seriously jeopardise the sustainability of Group activities.
+
+In view of its activities, the Group is nevertheless exposed to the following operational risks:
+
+#### **Risks relating to raw materials and shortage of electronic components**
+
+Raw materials account for a large proportion of the purchases made by the Group, and a significant share of its revenue. They account for over 70% of revenue, and raw materials account for over 85% of its purchases. This is particularly true in the Electronics Activity, where purchases account for close to 70% of revenue. The Group is exposed both to their price fluctuations and their availability on the market. Any sustained increase in purchase prices and/or variability in the availability of inputs could jeopardise the economic balance of the contracts and harm the Group's business by increasing its costs and reducing its profitability
+
+The Group's contracts generally include price indexing mechanisms linked to changes in the cost of inputs. This is the case, notably, for the City Activity, which has price review clauses in its multi-annual contracts with local authorities. This is also mainly the case for the Electronics Activity, where some component prices are even under customer control, enabling both upward and downward price changes to be passed on. These mechanisms do not always cover all costs, as sometimes there is a time lag between the rise in input prices and the rise being passed on to the selling price, but they do help greatly mitigate the impact.
+
+To better mitigate such impacts, the Group may also be led to hedge certain raw materials (aluminium, tin, etc.) with suppliers or on the markets.
+
+## Page 20
+
+#### **IT system risk**
+
+Group Management pays particular attention to its IT system and a series of provisions has been implemented to ensure its security and availability. This involves regularly updating the Group's solutions, its technical architecture, and its security architecture. The regular completion of audits and intrusion tests, carried out by third-party experts, contributes to this continuous improvement. Furthermore, in order to reduce any major risks, crisis management plans have been implemented in each of the 3 business sectors and have been audited over the year.
+
+#### **Risks relating to matching the Group's offer to the expectations of its customers, and to the development of new products**
+
+The Group's growth relies partly on its ability to integrate new technologies into its products in order to offer optimal performance to its customers in line with their practices. More broadly, it is essential for the Company to anticipate the needs and practices of its customers in order to develop the products and technologies appropriate to their requirements. In this context, the Group devotes a significant proportion of its expenditure and staff to its research and development activity in order to develop new products, services and technologies existing products, and where necessary improve existing ones. The quality and success of the Group's research and development are key to its commercial success.
+
+In order to limit this risk in a context of accelerating R&D expenditure, LACROIX has i) strengthened its innovation capacity by creating the LACROIX Lab, teams in charge of experimenting with uses and technologies, in contact with the Group's customers in order to monitor and anticipate changing needs; ii) created the key account management function in order to strengthen proximity with strategic customers; iii) strengthened the marketing teams throughout the 2016-2020 plan, thus enabling better market monitoring and, above all, better definition/ specification of customer needs; iv) strengthened the R&D teams for better control of technologies and the implementation schedule in our new offerings (the right product at the right time), and; v) set up a process between the marketing and R&D teams to ensure consistency between market needs and development choices/priorities.
+
+#### **Industrial and environmental risks**
+
+The significant scale of the Company's industrial investment programmes ensures that it has recent and secure equipment to mitigate the risks of major failures that might bring manufacturing operations to a halt. Therefore, the main industrial risks are those that could affect or stop production at the main sites (fire, technical breakdown, etc.) and compromise the quality of products. Quality procedures are in place for identifying, correcting, and preventing, or at least mitigating, failures.
+
+#### **Legal, tax, and social risks**
+
+The Group monitors legal, tax, and social developments in order to ensure that its operations are compliant, and to anticipate the impacts of new regulations. A review of the main risks is performed per business sector in order to ensure that all risks are exhaustively considered in the financial statements.
+
+Based on known information, the Group considers it unlikely that current mutual agreement procedures or disputes will have a significant impact on the consolidated financial statements.
+
+### **Financial risks**
+
+The different degrees to which the Group is exposed to financial risks are set out below.
+
+#### **Currency risk**
+
+Other than the Electronics Activity, the Group is not exposed to currency risks.
+
+In the Electronics business, the Group is exposed to foreign exchange risk, mainly with regard to component purchases, which are often made in USD or JPY, as well as other payroll costs and/or service purchases invoiced in TND, MXN and PLN.
+
+As regards purchases in USD and JPY, the Company has contracts with its main customers enabling it to adjust the selling price of products according to changes in the EUR/USD exchange rate. Therefore, the currency risk for this item is under control. For the balance, the Company uses partial hedging of its needs to cover a target rate set each fiscal year. Purchases in USD and JPY represent approximately €90 million annually, 80% of which is passed on to customers through contracts. For the remaining part, exchange rate hedging is carried out to secure a "budget" rate.
+
+Expenditure in TND, MXN and PLN (around €70 million) mainly concerns salaries and social charges for employees at the Tunisian, Mexican and Polish sites, and some local purchases. The Group's policy is to carry out forward hedging on the basis of forecast requirements, enabling a "budget" rate to be covered (one-year horizon). Changes in labour costs are also factored into the new commercial offers.
+
+## Page 21
+
+Generally speaking, the use of financial instruments is limited strictly to business requirements, and excludes any speculative activities.
+
+#### **Interest rate risk**
+
+A significant proportion of the Group's debt is at variable rates.
+
+The Group implements various financial instruments of varying maturities to mitigate this risk. At the end of December 2022, the portion of financing at variable rates hedged by swaps was 29% of the nominal value.
+
+#### **Liquidity risk**
+
+Gross debt position for the Group amounts to €163,048K.
+
+Available cash amounts to €22,613K. The Group therefore considers its exposure to this risk to be low.
+
+#### **Counterparty risk**
+
+Counterparty risk is the risk of financial loss to the Group in the event that a customer defaults on its contractual obligations.
+
+Customer profiles by sector of activity are described below:
+
+| Activities             | Types of<br>main clients                                                                   |
+|------------------------|--------------------------------------------------------------------------------------------|
+| LACROIX<br>City        | Authorities and private<br>companies operating road<br>infrastructures                     |
+| LACROIX<br>Environment | Public bodies and major<br>water, heating and energy<br>network management<br>stakeholders |
+| LACROIX<br>Electronics | French and foreign<br>companies operating<br>internationally                               |
+
+Thus, customer typology itself is a limiting factor in this risk.
+
+In addition, each of the Group's activities has implemented a system for monitoring and managing customer risk, sometimes using credit insurance contracts for this purpose to protect from potential customer risk.
+
+## **POST-CLOSING EVENTS**
+
+In its annual sales press release dated 9 February 2023, LACROIX announced its intention to divest its Road Signs segment (8% of LACROIX' turnover) in order to focus its investments on its strategic markets around industrial IoT and electronic equipment. This historic segment holds a leading position in road signs, particularly in France where it has a 25% market share, enjoying a very strong reputation among local authorities and road operators.
+
+However, in view of the evolution of the markets addressed, the technological and commercial synergies between the Road Signs segment and the two other market segments addressed by LACROIX's City activity, Street Lighting and Traffic Management, are too limited.
+
+Particular attention will be paid to the industrial and social plans of the potential buyers of this business segment, so that it can benefit from the resources it needs for its continued development.
+
+The scope of the proposed sale represents revenue of €55 million and involves 315 employees through the Saint-Herblain industrial site (260 people), three distribution subsidiaries (Reunion, Mayotte and New Caledonia), and a facility in Spain.
+
+## **STOCK MARKET INFORMATION**
+
+## **Changes in share price over the 2023 financial year**
+
+The LACROIX Group share is listed on Euronext Paris (compartment B).
+
+Over the course of financial year 2023, 706,784 shares were traded for a capital amount of €22,657,759 at an average price of €32.23.
+
+The share price as at closing on 31 December 2023 was €29.50.
+
+## Page 22
+
+### **Company purchases of treasury shares**
+
+#### **Share buy-back programme**
+
+Our proposition is to renew the powers given by the General Meeting on 11 May 2023 to the Board of Directors to purchase Company shares on the stock market, under the conditions and within the limits specified in Articles L. 22-10-62 et seq. of the French Commercial Code, and pursuant to the provisions of European Regulation no. 2273/2003 of 22 December 2003.
+
+The aims of the buy-back programme are identical to those for the previous financial year:
+
+- to ensure market-making under a liquidity contract compliant with AFEI's code of ethics recognised by the Financial Markets Authority,
+- to purchase shares for retention and subsequent allocation for trade or payment as part of an external growth operation,
+- to ensure coverage of plans to allocate bonus shares or share purchase options, and more generally all shareholding plans for employees and corporate officers of the Group,
+- to enable cancellation of all or part of the shares bought back.
+
+Authorisation is granted for a maximum term of 18 months subject to the following conditions:
+
+- the maximum number of redeemable shares may not exceed 335,016, i.e. 6.94% of share capital.
+- the maximum purchase price per share is set at €60.
+- the total amount earmarked for this programme is set at €20,102,520.
+
+The shares will be bought back through trading on the market or through block share acquisitions as per the applicable laws and regulations. Block share acquisitions could account for the entire programme. Acquisitions and disposals can be made during a public offering within the limits permitted by stock market regulations.
+
+The number of shares held under execution of the scheme may not exceed 10% of share capital, i.e. 482,909 shares.
+
+#### **Assessment of previous share buy-back programmes**
+
+Under the programmes authorised by the General Meetings of 11 May 2021 and 6 May 2022, applying to the financial year ending 31 December 2023, the Company made the following transactions in its own shares: sale of 2,091 shares to cover bonus share allotment plans or stock option plans and, more generally, all shareholding plans for the Group's employees and officers.
+
+In addition, under the liquidity agreement held 100% by LACROIX Group:
+
+- 12,813 shares were acquired at an average price of €32.43;
+- 12,612 shares were sold at an average price of €32.72.
+
+At the end of the financial year, the shares held under the buy-back programme were allocated to the following objectives:
+
+- coverage of stock option plans for employees and corporate officers of LACROIX Group: 61,470 shares,
+- subsequent allocation for trade or payment as part of an external growth operation: 80,334 shares,
+- stabilisation of the price by a service provider: 4,199 shares,
+
+i.e. a total of 146,003 treasury shares representing 3.02% of the capital, having a book value of €2,812,060 and a market value of €4,350,889 based on the price on 31 December 2023.
+
+## **REGULATED AGREEMENTS**
+
+### **New agreements**
+
+In accordance with the provisions of Article L. 225-38 et seq. of the French Commercial Code, any agreement entered into directly or through an intermediary between the Company and its Chief Executive Officer, one of its Deputy Chief Executive Officers, one of its directors, one of its shareholders holding more than 10% of the voting rights or, in the case of a shareholder company, the company controlling it as defined by Article L. 233-3 of the said code, is subject to prior authorisation by the Board of Directors and is the subject of a special report by the auditor with a view to ratification by the General Meeting: In 2022, the following new agreement was concluded:
+
+### **Loan agreement with LACROIX North America**
+
+Persons concerned: Nicolas Bedouin (Chief Operating Officer of LACROIX Group and Chair of LACROIX North America on the date of signing of the agreement).
+
+Nature and purpose: Conclusion of a loan agreement between the Company and LACROIX North America, dated 8 June 2023.
+
+Amount: The amount of the loan is USD 5,277,463, with an interest rate of 8%.
+
+## Page 77
+
+## **REPORT METHODOLOGY AND FRAMEWORK**
+
+The information presented is drawn up using a reporting protocol, available on request from the following email address: info@lacroix-group.com. This methodological guide for internal Group use sets out the definitions and methodologies to be applied in order to ensure the consistency of consolidated information.
+
+This CSR report has been reviewed by the independent third-party body EY.
+
+With regard to the scope covered:
+
+- The workforce indicators cover 100% of the scope. The social and societal indicators do not include companies with fewer than 20 employees, and some do not include our workforce in Mexico (in which case this is specified in the text).
+- The environmental indicators cover industrial and semi-industrial sites with more than 50 employees, representing 95% of the group's consolidated turnover and 95% of the workforce. Industrial and semiindustrial sites with fewer than 50 employees, as well as office sites, are excluded from the reporting scope because their environmental impacts are negligible compared to the Group's industrial sites, and because several data sets are not available for these sites (in particular waste monitoring data).
+
+Given the nature of our activities, we consider that the following themes: actions to promote the link between the Nation and the Army and to support commitment to the reserves, the fight against food waste, the fight against food insecurity, respect for animal welfare and responsible, fair and sustainable food do not constitute the main CSR risks and do not warrant a development in this report. As far as physical and sports activities are concerned, their promotion is left to the discretion of each site.
+
+The Group has not implemented any practices aimed at artificially reducing its corporation tax or moving its taxable income to tax havens.
+
+LACROIX monitors tax contributions made by organisations by country of location.
+
+Transfer pricing documentation is monitored and updated on a regular basis and is subject to audits and inspections.
+
+In this respect, LACROIX is not at risk of attempting tax evasion.
+
+The reporting period corresponds to the fiscal year, i.e. from 1 January 2023 to 31 December 2023. The stated comparative basis therefore refers to the period running from 1 January 2022 to 31 December 2022, i.e. the equivalent period for the previous fiscal year.
+
+After you have read the reports submitted by your Statutory Auditors, the Board asks you to adopt the resolutions on which you are required to vote.
+
+> Drawn up in Saint-Herblain, on 26 March 2023 The Board of Directors
+
+## Page 78
+
+## **FIVE-YEAR FINANCIAL SUMMARY AND OTHER SIGNIFICANT AREAS**
+
+| Nature of items                                                                                           | 2017/2018  | 2018 / 2019 | 2019 / 2020 | 2021       | 2022       |
+|-----------------------------------------------------------------------------------------------------------|------------|-------------|-------------|------------|------------|
+| CAPITAL AT YEAR END                                                                                       |            |             |             |            |            |
+| - Share capital                                                                                           | 25 000 000 | 25 000 000  | 25 000 000  | 32 055 239 | 32 055 239 |
+| - Number of existing ordinary shares                                                                      | 3 766 560  | 3 766 560   | 3 766 560   | 4 829 096  | 4 829 096  |
+| - Number of preference shares (non-voting)                                                                |            |             |             |            |            |
+| - Maximum number of future shares to be created                                                           |            |             |             |            |            |
+| TRANSACTIONS AND REVENUE FROM THE FINANCIAL YEAR                                                          |            |             |             |            |            |
+| - Revenue net of taxes                                                                                    | 4 155 210  | 6 098 794   | 9 944 480   | 10 274 844 | 13 172 772 |
+| - Pre-tax profit, employee profit-sharing, depreciation,<br>allowances and provisions                     | 4 040 601  | 3 652 372   | 173 477     | 4 679 451  | 11 396 919 |
+| - Income taxes                                                                                            | -3 575 140 | -4 619 761  | - 5 919 185 | -3 969 767 | 3 598 451  |
+| - Employee profit-sharing payable for the year                                                            | 0          | 0           | 0           | 0          | 0          |
+| - Profit after tax, employee profit-sharing, depreciation,<br>allowances and provisions                   | 7 193 223  | 8 578 017   | 6 091 533   | 8 640 922  | 14 518 488 |
+| - Distributed profit                                                                                      | 2 711 923  | 3 389 904   | 2 561 261   | 4 104 732  | 3 863 277  |
+| EARNINGS PER SHARE                                                                                        |            |             |             |            |            |
+| - Profit after tax, employee profit-sharing, before<br>depreciation, allowances and provisions            | 2,02       | 2,20        | 1,62        | 1,79       | 1,61       |
+| - Profit after tax, employee profit-sharing, depreciation,<br>allowances and provisions                   | 1,91       | 2,28        | 1,62        | 1,79       | 3,01       |
+| - Dividend per share                                                                                      | 0,72       | 0,90        | 0,68        | 0,85       | 0,80       |
+| PERSONNEL                                                                                                 |            |             |             |            |            |
+| - Average number of employees during the year                                                             | 12         | 27          | 27          | 27         | 64         |
+| - Total payroll for the year                                                                              | 1 633 085  | 2 592 440   | 4 588 082   | 4 889 575  | 4 850 541  |
+| - Total amount paid for employee benefits in the year<br>(social security, company welfare schemes, etc.) | 784 637    | 1 411 738   | 2 407 622   | 2 272 238  | 2 172 581  |
+
+Drawn up in Saint-Herblain,
+
+on 26 March 2022
+
+## Page 79
+
+## **INDEPENDENT THIRD PARTY'S REPORT ON CONSOLIDATED NON-FINANCIAL STATEMENT**
+
+#### **LACROIX Group**
+
+Year ended the 12 31, 2023
+
+*This is a free translation into English of the original report issued in the French language and it is provided solely for the convenience of English speaking users. This report should be read in conjunction with, and construed in accordance with, French law and professional standards applicable in France.*
+
+To the General Assembly,
+
+In our quality as an independent third party, accredited by the COFRAC (Accreditation COFRAC Inspection, n° 3-1681, scope of accreditation available on the website www.cofrac.fr), and as a member of the network of one of the statutory auditors of your Lacroix Group (hereinafter "Lacroix Group"), we conducted our work in order to provide a conclusion expressing a limited assurance on the compliance of the consolidated non-financial statement for the year ended 12 31, 2023 (hereinafter the «Statement») with the provisions of Article R. 225-105 of the French Commercial Code (Code de commerce) and on the fairness of the historical information (whether observed or extrapolated) provided pursuant to 3° of I and II of Article R. 225-105 of the French Commercial Code (hereinafter the «Information») prepared in accordance with the Lacroix Group's procedures (hereinafter the «Guidelines»), included in the management report pursuant to the requirements of articles L. 225 102-1, R. 225-105 and R. 225-105-1 of the French Commercial Code (Code de commerce).
+
+#### **Conclusion**
+
+Based on the procedures we have performed as described under the "Nature and scope of procedures" and the evidence we have obtained, nothing has come to our attention that cause us to believe that the consolidated non-financial statement is not prepared in accordance with the applicable regulatory provisions and that the Information, taken as a whole, is not presented fairly in accordance with the Guidelines, in all material respects.
+
+#### **Preparation of the non-financial performance statement**
+
+The absence of a commonly used generally accepted reporting framework or a significant body of established practice on which to draw to evaluate and measure the Information allows for different, but acceptable, measurement techniques that can affect comparability between entities and over time.
+
+Consequently, the Information needs to be read and understood together with the Guidelines, summarised in the Statement or, on request from the LACROIX Group's management
+
+#### **Limitations inherent in the preparation of the Information**
+
+The information may be subject to uncertainty inherent in the state of scientific or economic knowledge and the quality of external data used. Some information is sensitive to the choice of methodology and the assumptions or estimates used for its preparation and presented in the Statement.
+
+#### **Responsibility of the LACROIX Group**
+
+It is the responsibility of the Management to:
+
+- select or establish appropriate criteria for the preparation of the Information;
+- prepare a Statement pursuant to legal and regulatory provisions, including a presentation of the business model, a description of the main non-financial risks, a presentation of the policies implemented considering those risks as well as the outcomes of said policies, including key performance indicators and, the information set-out in Article 8 of Regulation (EU) 2020/852 (green taxonomy);
+- prepare the Statement by applying the LACROIX Group's "Guidelines" as referred above; and to
+- implement the internal control procedures it deems necessary to ensure that the Information is free from material misstatement, whether due to fraud or error.
+
+The Statement has been endorsed by the Board of Directors.
+
+## Page 80
+
+#### **Responsibility of the independent third party**
+
+Based on our work, our responsibility is to provide a report expressing a limited assurance conclusion on:
+
+- the compliance of the Statement with the requirements of article R. 225-105 of the French Commercial Code;
+- the fairness of the information provided pursuant to part 3 of sections I and II of Article R. 225-105 of the French Commercial Code, i.e. the outcomes of policies, including key performance indicators, and measures relating to the main risks.
+
+As we are engaged to form an independent conclusion on the Information as prepared by management, we are not permitted to be involved in the preparation of the Information as doing so may compromise our independence.
+
+It is not our responsibility to report on:
+
+- the Lacroix Group's compliance with other applicable legal and regulatory requirements, in particular the information set-out in Article 8 of Regulation (EU) 2020/852 (green taxonomy), the French duty of care law and anti-corruption and tax avoidance legislation.
+- the fairness of the information set-out in Article 8 of Regulation (EU) 2020/852 (green taxonomy)
+- the compliance of products and services with the applicable regulations.
+
+#### **Applicable regulatory provisions and professional guidance**
+
+We performed the work described below in accordance with Articles A. 225-1 et seq. of the French Commercial Code, the professional guidance issued by the French Institute of Statutory Auditors (Compagnie Nationale des Commissaires aux Comptes) applicable to such engagement, in particular the professional guidance issued by the Compagnie Nationale des Commissaires aux Comptes, Intervention du commissaire aux comptes – Intervention de l'OTI – Déclaration de performance extra-financière, our own procedures (Programme de verification de la déclaration de performance extra-financière, July 7th 2023) acting as the verification programme and with the international standard ISAE 3000 (revised).
+
+#### **Independence and quality control**
+
+Our independence is defined by the provisions of Article L. 823-10 of the French Commercial Code and French Code of Ethics for Statutory Auditors
+
+(Code de déontologie) of our profession. In addition, we have implemented a system of quality control including documented policies and procedures aimed at ensuring compliance with applicable legal and regulatory requirements, ethical requirements and the professional guidance issued by the French Institute of Statutory Auditors (Compagnie Nationale des Commissaires aux Comptes) relating to this engagement.
+
+#### **Means and resources**
+
+Our verification work mobilized the skills of three people and took place between January 2024 and February 2024 on a total duration of intervention of about four weeks.
+
+We were assisted in our work by our specialists in sustainable development and corporate social responsibility. We conducted three interviews with the people responsible for preparing the Statement, representing in particular risk management, compliance, human resources, and environmental departments.
+
+#### **Nature and scope of the work**
+
+We are required to plan and perform our work to address the areas where we have identified that a material misstatement of the Information is likely to arise.
+
+The procedures we performed were based on our professional judgment. In carrying out our limited assurance engagement on the Information:
+
+- we obtained an understanding of all the consolidated entities' activities and the description of the main risks associated;
+- we assessed the suitability of the criteria of the Guidelines with respect to their relevance, completeness, reliability, neutrality and understandability, with due consideration of industry best practices, where appropriate;
+- we verified that the Statement includes each category of social and environmental information set out in Article L. 225 102 1 III of the French Commercial Code as well as information regarding compliance with human rights and anti-corruption and tax avoidance legislation and includes, where applicable, an explanation of the reasons for the absence of the information required under Article L. 225- 102-1 III, paragraph 2 of the French Commercial Code;
+- we verified that the Statement provides the information required under Article R.225-105 II of the French Commercial Code where relevant with respect to the main risks;
+
+*(1) ISAE 3000 (révisé) Assurance engagements other than audits or reviews of historical financial information*
+
+## Page 81
+
+- we verified that the Statement presents the business model and a description of the main risks associated with all the consolidated entities' activities, including where relevant and proportionate, the risks associated with its their business relationships, its their products or services, as well as their policies, measures and the outcomes thereof, including key performance indicators associated to the main risks;
+- we referred to documentary sources and conducted interviews to
+
+• assess the process used to identify and confirm the main risks as well as the consistency of the outcomes, including the key performance indicators used, with respect to the main risks and the policies presented, and
+
+• corroborate the qualitative information (measures and outcomes) that we considered to be the most important presented in Appendix 1; concerning certain risks (eco design, impact products, ethics and compliance), our work was carried out on the consolidating Lacroix Group, for the others risks, our work was carried out on the consolidating Lacroix Group and on a selection of entities : Lacroix Baupréau, Lacroix Zriba
+
+• we verified that the Statement covers the scope of consolidation, i.e. all the consolidated entities in accordance with article L. 233-16 of the French Commercial Code within the limitations set out in the Statement;
+
+- we obtained an understanding of internal control and risk management procedures the Lacroix Group has implemented and assessed the data collection process aimed at ensuring the completeness and fairness of the Information;
+- for the key performance indicators and other quantitative outcomes that we considered to be the most important presented in Appendix 1, we implemented:
+
+• analytical procedures to verify the proper consolidation of the data collected and the consistency of any changes in those data;
+
+• tests of details, using sampling techniques, in order to verify the proper application of the definitions and procedures and reconcile the data with the supporting documents. This work was carried out on a selection of contributing entities and covers between 20% and 34% of the consolidated data relating to the key performance indicators and outcomes selected for these tests (34% of energy consumption, 20% of headcount);
+
+• we assessed the overall consistency of the Statement in relation to our knowledge of all the consolidated entities.
+
+The procedures performed in a basis for our limited assurance conclusion review are less in extent than for a reasonable assurance opinion in accordance with the professional guidelines of the French National Institute of Statutory Auditors (Compagnie Nationale des Commissaires aux Comptes); a higher level of assurance would have required us to carry out more extensive procedures.
+
+Paris-La Défense, the 26 March 2024 French original signed by:
+
+#### **Independent third party EY & Associés**
+
+Christophe Schmeitzky Partner, Sustainable Development
+
+*La CNCC considère que la traduction n'est pas signée, dans la mesure où il s'agit d'une traduction libre en anglais du rapport original établi en français. En effet, la signature est le graphisme par lequel une personne s'identifie dans un acte et par lequel elle exprime son approbation du contenu du document. En outre, l'apposition d'une signature sur un rapport lui confère la qualité d'être un original. Or, au cas particulier, l'original est représenté par la version française du rapport.*
+
+## Page 82
+
+### **Annexe 1 : The most important information**
+
+| Social Information                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Quantitative Information<br>(including key performance indicators)                                                                                                                                                                                                      | Qualitative Information<br>(actions or results)                                                                                                                                                                                                                                                                                                                                                                                   |
+| Workforce as of December 31, 2023.<br>Turnover rate among employees.<br>Proportion of women among managers.<br>Percentage of sites labeled Great Place to Work.<br>Amounts spent on training.<br>Severity rate of workplace accidents.<br>Work accident frequency rate. | The measures deployed for the health and safety of<br>employees (prevention actions, training).<br>Social dialogue mechanisms.<br>The measures taken for gender equality and equal<br>treatment.<br>The results of development policies internal skills<br>(training plan).                                                                                                                                                       |
+| Environmental Information                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Quantitative Information<br>(including key performance indicators)                                                                                                                                                                                                      | Qualitative Information<br>(actions or results)                                                                                                                                                                                                                                                                                                                                                                                   |
+| Waste generated per K€ of turnover.<br>Waste recycling rate.<br>GHG emissions – Scopes 1 & 2.<br>Share of impact products in turnover.                                                                                                                                  | Waste recycling procedures with qualified suppliers.<br>Specific treatments linked to hazardous waste.<br>Systems for controlling site energy consumption.<br>The description of greenhouse gas emissions and in<br>particular the main scope 3 emissions items.                                                                                                                                                                  |
+| Societal Information                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Quantitative Information<br>(including key performance indicators)                                                                                                                                                                                                      | Qualitative Information<br>(actions or results)                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                         | The impact of the company on the territory and the<br>development of a socio-economic fabric.<br>Procedures related to the choice of suppliers.<br>The results of ethics policies business and behavior<br>(fight against corruption, Global Compact program).<br>Geopolitical risk mitigation mechanisms.<br>Certification procedures linked to the quality of<br>products.<br>Initiatives for economic development territories. |
+
+## Page 83
+
+## **STATUTORY AUDITORS' REPORT ON THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+#### **LACROIXGroup**
+
+Year ended 31 December 2023
+
+To the General Meeting of Shareholders of Lacroix Group,
+
+## **Opinion**
+
+In compliance with the engagement entrusted to us by your general meeting of shareholders, we have audited the accompanying consolidated financial statements of Lacroix Group for the accounting period ended 31 December 2023.
+
+In our opinion, the consolidated financial statements give a true and fair view of the assets and liabilities and of the financial position of the Group as at 31 December 2023 and of the results of its operations for the year then ended in accordance with International Financial Reporting Standards as adopted by the European Union.
+
+The audit opinion expressed above is consistent with our report to the Audit Committee.
+
+### **Basis for Opinion**
+
+#### **Audit Framework**
+
+We conducted our audit in accordance with professional standards applicable in France. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Our responsibilities under those standards are further described in the Statutory Auditors' Responsibilities for the Audit of the Consolidated Financial Statements section of our report.
+
+#### **Independence**
+
+We conducted our audit engagement in compliance with the independence requirements of the French Commercial Code (Code de commerce) and the French Code of Ethics for Statutory Auditors (Code de déontologie de la profession de commissaire aux comptes) for the period from 1 January 2023 to the date of our report, and specifically we did not provide any prohibited non-audit services referred to in Article 5(1) of Regulation (EU) No. 537/2014.
+
+## **Justification of Assessments – Key Audit Matters**
+
+In accordance with the requirements of Articles L. 821 53 and R. 821-180 of the French Commercial Code (Code de commerce) relating to the justification of our assessments, we inform you of the key audit matters relating to risks of material misstatement that, in our professional judgment, were of most significance in our audit of the consolidated financial statements of the current period, as well as how we addressed those risks.
+
+These matters were addressed in the context of our audit of the consolidated financial statements as a whole and in forming our opinion thereon, and we do not provide a separate opinion on specific items of the consolidated financial statements.
+
+#### **Measurement of the recoverable amount of goodwill**
+
+#### **Risk identified**
+
+As at 31 December 2021, the net value of goodwill is €83,506k.
+
+As stated in Note 6.4.4 "Business combinations" to the consolidated financial statements, goodwill is subject to an impairment test at least once a year and more frequently when events or circumstances indicate that goodwill may be impaired.
+
+Impairment tests are carried out at the level of the Cash Generating Units (CGUs). They consist in comparing the carrying amount of a CGU to its recoverable amount.
+
+The recoverable amount of the goodwill of each CGU defined by your group is determined based on future cash flows calculated for five-year periods, a discount rate of 9% for the City and Environment CGUs and 9.4% for the Electronics CGU, and a perpetual growth rate of 2% as stated in Note 8.1 "Goodwill" to the consolidated financial statements. The measurement of the recoverable amount of goodwill is a key audit matter due to the materiality of goodwill in relation to your group's financial statements and the use of assumptions and estimates to make this assessment.
+
+## Page 84
+
+#### **Our response**
+
+We analyzed the key data and assumptions used to determine the recoverable amount of goodwill, by including a valuation specialist in our audit team to perform these various analyses: We:
+
+- We assessed the operational assumptions adopted to establish the cash flow projections, notably by comparing them to past actual figures and market prospects.
+- reviewed the reconciliation of the business plans used for the impairment tests with the budgets approved by the Management;
+- examined the methods used to determine the discount rate and the perpetual growth rate and their consistency with the underlying market assumptions;
+- tested the mathematical accuracy of the models and recalculated the amounts.
+
+Lastly, we assessed the appropriateness of the information disclosed in Notes 6.4.4 "Business combinations" and 8.1 "Goodwill" to the consolidated financial statements.
+
+#### **Measurement and presentation of the impacts of the ongoing planned sale of the Signaling BU**
+
+#### **Risk identified**
+
+As announced on 9 February 2023, your Group intends to sell its Signaling BU and announced on 14 December 2023 that it was in exclusive negotiations with AIAC for this takeover.
+
+As stated in Note 6.5.16 "Assets and groups of assets held for sale and abandoned activities" to the consolidated financial statements, all of the assets and the liabilities related to the abandoned activities or businesses held for sale are presented on a separate line of assets and liabilities, as they would appear upon sale after elimination of the intragroup positions.
+
+Note 7.3.2 "Planned sale of the Signaling BU" sets out your Group's analysis of the nature of the assets and liabilities being transferred with regard to IFRS 5, and presents the main financial impacts on your Group's consolidated balance sheet as at 31 December 2023. In light of the estimated value of the sale, the historic goodwill of the Signaling BU has been fully impaired, as has a share of non-current assets for a total amount of €3,735k.
+
+We considered this to be a key audit matter in view of the amounts involved, the unusual nature of the transaction and the use of assumptions and estimates for this valuation
+
+#### **Our response**
+
+We analyzed the data and key assumptions used for the valuation and presentation of the assets
+
+and liabilities to be sold. Our work consisted in the following in particular:
+
+- familiarizing ourselves with the analysis performed by your Group to characterize the transaction in view of the provisions of IFRS 5 ;
+- analyzing the identification and measurement of the assets and liabilities to be sold in view of the provisions of IFRS 5.
+
+Lastly, we assessed the appropriateness of the information disclosed in Notes 6.5.16 "Assets and groups of assets held for sale and abandoned activities" and 7.3.2 "Planned sale of the Signaling BU" to the consolidated financial statements.
+
+## **Specific Verifications**
+
+We have also performed, in accordance with professional standards applicable in France, the specific verifications required by laws and regulations of the information relating to the Group given in the Board of Directors' management report.
+
+We have no matters to report as to its fair presentation and its consistency with the consolidated financial statements.
+
+We attest that the consolidated non-financial statement required by Article L. 225-102-1 of the French Commercial Code (Code de commerce) is included in the information relating to the Group given in the management report, it being specified that, in accordance with Article L. 823-10 of this Code, we have verified neither the fair presentation nor the consistency with the consolidated financial statements of the information contained in this statement.
+
+## **Other Verifications or Information Required by Laws and Regulations**
+
+#### **Format of presentation of the consolidated financial statements included in the annual financial report**
+
+In accordance with the professional standard applicable in France relating to the procedures performed by statutory auditors regarding the annual and consolidated financial statements prepared in the European single electronic format, we have also verified that the preparation of the consolidated financial statements intended to be included in the annual financial report mentioned in Article L. 451-1-2, I of the French Monetary and Financial Code (Code monétaire et financier), prepared under the CEO's responsibility, complies with the single electronic format defined in Commission Delegated Regulation (EU) No. 2019/815 of 17 December 2018. As it relates to the consolidated financial statements, our work includes verifying that the tagging in the financial statements complies with the format defined in the aforementioned Regulation.
+
+## Page 85
+
+On the basis of our work, we conclude that the presentation of the consolidated financial statements intended to be included in the consolidated annual financial report complies, in all material respects, with the European single electronic format.
+
+Due to the technical limitations inherent in the block-tagging of consolidated financial statements in the European single electronic format, it is possible that the content of certain tagging in our notes to the consolidated financial statements are not reproduced identically to the accompanying consolidated financial statements.
+
+#### **Appointment of the Statutory Auditors**
+
+We were appointed as statutory auditors of Lacroix Group by your General Meeting of Shareholders held on 11 May 2021 for MAZARS and on 18 March 2009 for ERNST & YOUNG et Autres.
+
+As at 31 December 2023, MAZARS was in its third year and ERNST & YOUNG et Autres in its fifteenth year of total uninterrupted engagement.
+
+Previously, the firm Exco Atlantique (acquired by ERNST & YOUNG Audit and renamed ERNST & YOUNG Atlantique in 2008) was statutory auditor.
+
+### **Responsibilities of Management and Those Charged with Governance for the Consolidated Financial Statements**
+
+Management is responsible for the preparation and fair presentation of the consolidated financial statements in accordance with International Financial Reporting Standards as adopted by the European Union and for such internal control as management determines is necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the consolidated financial statements, management is responsible for assessing the company's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless it is expected to liquidate the company or to cease operations.
+
+The Audit Committee is responsible for monitoring the financial reporting process and the effectiveness of internal control and risk management systems and where applicable, its internal audit, regarding the accounting and financial reporting procedures. The consolidated financial statements were approved by the Board of Directors.
+
+### **Statutory Auditors' Responsibilities for the Audit of the Consolidated Financial Statements**
+
+#### **Objectives and Audit Approach**
+
+Our role is to issue a report on the consolidated financial statements. Our objective is to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with professional standards will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+
+As specified in Article L. 821 55 of the French Commercial Code (Code de commerce), our statutory audit does not include assurance on the viability of the Company or the quality of management of the affairs of the Company.
+
+Our role is to issue a report on the consolidated financial statements. Our objective is to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with professional standards will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+
+As specified in Article L.823-10-1 of the French Commercial Code (Code de commerce), our statutory audit does not include assurance on the viability of the company or the quality of management of the affairs of the company.
+
+As part of an audit conducted in accordance with professional standards applicable in France, the statutory auditor exercises professional judgment throughout the audit and furthermore:
+
+• Identifies and assesses the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, designs and performs audit procedures responsive to those risks, and obtains audit evidence considered to be sufficient and appropriate to provide a basis for his opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.

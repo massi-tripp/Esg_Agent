@@ -1,0 +1,471 @@
+{
+  "company_slug": "norma_group_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\norma_group_se\\2023\\norma_group_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\norma_group_se\\2023\\focused\\norma_group_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        4
+      ],
+      "start_page": 2,
+      "end_page": 9,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "4": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        23
+      ],
+      "start_page": 21,
+      "end_page": 28,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "23": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "start_page": 40,
+      "end_page": 111,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "42": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "43": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "44": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "45": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "46": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "47": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "48": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "49": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "50": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "51": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "52": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "53": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "54": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "55": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "56": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "57": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "58": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "59": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "60": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "61": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "62": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "63": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "64": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "65": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "66": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "67": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "68": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "69": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "70": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "71": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "72": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "73": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "74": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "75": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "76": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "77": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "78": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "79": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "80": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "81": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "82": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "83": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "84": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "85": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "86": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "87": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "88": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "89": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "90": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "91": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "92": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities"
+              ],
+              "93": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities"
+              ],
+              "94": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "95": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "96": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities"
+              ],
+              "97": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities"
+              ],
+              "98": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "99": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "100": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "101": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "102": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "103": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "104": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "105": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "106": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        203
+      ],
+      "start_page": 201,
+      "end_page": 208,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "203": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        370
+      ],
+      "start_page": 368,
+      "end_page": 375,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "370": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

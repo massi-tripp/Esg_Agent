@@ -1,0 +1,1009 @@
+## Page 14
+
+## <span id="page-13-0"></span>**Investments**
+
+Capital expenditures for intangible assets, property, plant and equipment, and biological assets (CAPEX) amounted to EUR 283.6 mn in the reporting year (down from EUR 698.9 mn in 2022) including due to the investment projects in China and Indonesia.
+
+Since 2021, Lenzing has invested more than EUR 200 mn in production sites in China and Indonesia to convert existing capacity for generic viscose into capacity for specialty fibers in order to better serve structurally growing demand for environmentally responsible cellulosic fibers.
+
+At Purwakarta (Indonesia), Lenzing successfully implemented reconstruction and modernization measures to convert to specialty viscose and significantly reduce specific emissions. Viscose fibers produced at the site under the LENZING™ ECOVERO™ and VE-OCEL<sup>™</sup> brands are marked with the EU Ecolabel,[1](#page-9-1) an internationally recognized eco label for environmentally responsible products and services.
+
+In Nanjing (China), the conversion of a production line to TEN-CEL™ modal fibers for textiles and apparel was successfully completed in the first quarter of 2023. Lenzing is thereby able to offer locally produced TENCEL™ fibers to its Chinese customers for the first time. As a consequence of the conversion, the production site's fiber portfolio now consists exclusively of specialty fibers. Moreover, Lenzing is working consistently on the gradual conversion of the Chinese site to green energy in order to further reduce carbon emissions.
+
+The investment projects at the existing sites are in line with the Lenzing Group's scientifically recognized and confirmed net zero target (see also the "Climate change" section in the non-financial statement).
+
+In order to further reduce greenhouse gas emissions and at the same time become less dependent on external fossil fuels, Lenzing concluded a contract in 2023 to purchase a biomass power plant to supply the Heiligenkreuz site, as well as a supply contract for the purchase of wind energy for power supplies to the Lenzing site that are diversified and that offer stable prices.
+
+(EEC) No. 880/92), the voluntary label has gradually become a reference for consumers who wish to contribute to a lower environmental impact by purchasing more environmentally responsible products and services.
+
+[1](#page-9-1) The EU Ecolabel is recognized by all member states of the European Union as well as Norway, Liechtenstein and Iceland. Introduced in 1992 by an EU regulation (Regulation
+
+## Page 15
+
+## <span id="page-14-0"></span>**Risk Report**
+
+## **Current risk environment**
+
+Climate change, digitalization, and geopolitical tensions are shaping social and economic reality more than ever. Extreme weather conditions, ransomware attacks, and regional conflicts are putting the resilience of supply chains and business models to the test.
+
+The ongoing war in Ukraine, the Israel-Gaza war, and military conflict in the Red Sea are influencing the risk environment, particularly in Europe.
+
+The uncertain global economic outlook, an increase in insolvency rates, and persistently high interest rates contrast with a potential recovery of the global economy following the Covid shock and subsequent energy crisis in Europe.
+
+Demographic change poses the risk of a shortage of qualified workers in many economic sectors worldwide. The extent of the expected transformative impact of artificial intelligence on individual economic sectors is also unclear at present.
+
+Events along the supply chain, which can lead to effects in other areas as well as greater regulatory requirements from legislators, complete the risk environment.
+
+The International Monetary Fund forecasts growth in global gross domestic product of 3.1 percent for 2023.
+
+A detailed analysis of the trends in the global fiber market during the reporting year and the related risks for the Lenzing Group is presented in the "General Market Environment" section.
+
+## **Lenzing risk outlook for 2024**
+
+The volatility prevailing in many areas manifests the risk of polycrises worldwide and continues to affect the Lenzing Group to varying degrees.
+
+For 2024, the IMF forecasts global economic growth of 3.1 percent. Global inflation is expected to decrease to 5.8 percent in 2024, and to 4.4 percent in 2025, according to the IMF.
+
+The high number of elections in different countries around the world in 2024, especially in the USA, EU, India, and Indonesia, harbors the risk of further turbulence for both politics and the economy, and the associated risk of a greater level of protectionism.
+
+Risks to the operating result arise in particular from a potential continuation of weak demand on the world fiber market and associated low fiber prices, as well as from price fluctuations for important raw materials and energy.
+
+The liquidity risk for 2024 is classified as moderate thanks to the cash position and undrawn credit lines with banks. Lenzing has significantly strengthened its balance sheet and liquidity position with the approximately EUR 400 mn capital increase and the extension of credit terms during the reporting period. A persistently elevated interest rate level or even rising interest rates would have a negative impact on earnings.
+
+With its Better Growth strategy and focus on sustainable growth with premium fibers, the company believes it remains very well positioned.
+
+The Group's own supplies of dissolving wood pulp are secured in the long term thanks to the successful commissioning of the pulp mill in Brazil in 2022, and sufficient market supply.
+
+Markets for energy, raw materials, and logistics must continue to be assessed as highly volatile.
+
+As far as currencies are concerned, the US dollar fluctuated against the euro within a range of around 8 percent, while the Chinese yuan fluctuated against the euro in a range of around 12 percent. A depreciation of the two currencies would have a negative impact on Lenzing's open currency volumes.
+
+No significant loss events arising from operational, environmental or product liability risks occurred in the reporting year.
+
+Non-operational risks such as cyber and compliance risks and the associated potential reputational damage are of increasing relevance for Lenzing. Risks due to "green claims" as well as challenges in sustainable recruitment, not least due to demographic change, are also playing an increasingly important role in this context. Lenzing continuously counteracts these risks with Group-wide standards and training as well as its global organizational structure.
+
+## **Risk management**
+
+The main purpose of risk management in the Lenzing Group is to safeguard and strengthen the company through an adequate, objective and transparent assessment of financial, operational and strategic risks, including those related to ESG issues. The Lenzing Group's Managing Board, together with the heads of the reporting departments, conducts extensive coordinating and controlling operations as part of a comprehensive integrated internal control system that covers all locations. The timely identification, evaluation and response to strategic and operational risks form essential components of these management activities and make a significant contribution to the company's value. This approach is based on a standardized, Group-wide monthly reporting system and the ongoing monitoring of strategic and operational plans.
+
+Lenzing uses an established, company-wide risk management process that ensures the central coordination of risks and their monitoring in a comprehensive risk management system for the entire Group. Together with the operating units, significant risks are identified and assessed and then communicated and transparently presented to the Managing Board and to other managers. Proactive
+
+## Page 16
+
+analysis of potential risks is just as much the aim of risk management as the task of actively controlling risks and evaluating appropriate measures with the business units concerned. In connection with climate change, climate-related risks and opportunities and their short-, medium- and long-term effects on the Lenzing Group are identified and evaluated as part of risk management, and appropriate risk mitigation measures are derived. This takes into account the requirements of the TCFD (Task Force on Climate-Related Financial Disclosures) as well as the EU Taxonomy and associated future obligations to report climate-related opportunities and risks.
+
+## **Risk management strategy**
+
+The Lenzing Group pursues a multi-step approach to risk management:
+
+## **Risk appetite**
+
+The general stance in relation to taking risks and realizing opportunities within the Lenzing Group is defined by risk appetite at various levels.
+
+## **Risk analysis (based on the COSO®1 Framework)**
+
+The Central Risk Management Department conducts semiannual risk discussions with a five-year time horizon with all production locations and functional units. Long-term opportunities and risks are also analyzed in connection with ESG issues. The main risks, as well as an increasing number of opportunities, are recorded and quantitatively assessed in accordance with international COSO® standards. All risks are presented outside the consolidated statement of financial position and the consolidated income statement. The financial impact of a potential loss on Group EBITDA or on cash and cash equivalents is taken into consideration. The risks are simulated against planned EBITDA, and the range of potential deviations from the respective budget is determined. Lenzing uses simulation software for this purpose, which also calculates other KPIs such as Value at Risk and a risk-adjusted ROCE. Risks that cannot be measured in monetary terms are recorded qualitatively.
+
+## **Risk reduction**
+
+Depending on the impact on the company, efforts are made to avoid, minimize or transfer risks through appropriate measures or, in certain cases and if necessary and reasonable, to intentionally assume them.
+
+## **Responsibility**
+
+Risks are allocated in accordance with the existing company organization, with each risk being assigned a so-called "risk owner".
+
+## **Risk monitoring/control**
+
+The effectiveness of the risk management system used by the Lenzing Group was evaluated and confirmed by KPMG Austria GmbH pursuant to Rule 83 of the Austrian Corporate Governance Code (ACGC) as part of a special audit with limited assurance in the reporting year.
+
+## **Reporting**
+
+The main risks are presented in detail in a report and discussed with the Managing Board and the Audit Committee. The risk report is also submitted to the Supervisory Board.
+
+## **Market environment risks**
+
+## **Market risk**
+
+As an international corporation, the Lenzing Group is exposed to a variety of risks. The trend in prices and volumes for textile fibers and, to a lesser extent, also for nonwoven fibers, is cyclical as it is dependent on global and regional economic conditions. Lenzing fibers compete with cotton and synthetic fibers in many submarkets. Consequently, price trends for these products also have an influence on Lenzing fibers' revenue and sales volumes trends.
+
+The Lenzing Group counteracts this risk through the continuous premiumization of its global product portfolio, and a consistent sustainability and innovation strategy. In addition to developing premium products and services, the aim is to further expand the company's role as a leader in terms of sustainability and the circular economy in the fiber sector.
+
+The Lenzing Group relies on a strong international market presence, especially in Asia, combined with a first-class regional support network for customers, as well as a high level of customer-oriented product diversification.
+
+## **Sales risk**
+
+The Lenzing Group generates around 40 percent of its fiber revenues with a mid-double-digit number of customers. Customer concentration in the pulp sector is comparatively higher than in the fiber sector. A decrease in sales to these major customers, or the loss of one or more major customers without an immediate replacement, poses a certain risk. The company counteracts such risk with its global presence and the continuous broadening of its client base and sales segments. Potential default on trade receivables is covered by clear receivables management and global credit insurance.
+
+## **Competitive and innovation risks**
+
+The Lenzing Group is exposed to the risk of losing its position on the fiber market due to greater competition or new technologies developed by competitors. In particular, the Lenzing Group could relinquish its market position if it were no longer able to offer its products at competitive prices, if its products were to fail to comply with customer specifications and quality standards, or if its customer service were to fail to meet customer expectations. Lenzing counteracts this risk with research and development activities that exceed the average for the sector, and by a high level of product innovation and steady cost optimization. The Lenzing Group – similar to other producers – is exposed to the risk that acceptable or superior alternative products may become available and at more favorable prices than reclaimed cellulose fibers.
+
+## **Laws and regulations**
+
+The Lenzing Group is confronted with different legal systems and regulations in its global markets. A change in laws or other regula-
+
+[1](#page-9-1) Committee of Sponsoring Organizations of the Treadway Commission
+
+## Page 17
+
+tions (e.g. import duties, product classifications, environmental requirements etc.), as well as a more stringent interpretation of existing regulations and laws, could lead to significant additional costs or competitive disadvantages. The Lenzing Group maintains certified management systems for quality management according to ISO 9001, for environmental management according to ISO 14001, and for safety management according to ISO 45001. Legal compliance in connection with these management systems is regularly audited both internally and externally.
+
+With its own, in-house legal and compliance experts, the Lenzing Group has a corporate area that performs corresponding consulting services and risk assessments.
+
+Due to the progressive effects of global warming on society and ecosystems, more stringent legislation and regulations on the part of governments and other stakeholders are to be expected in the medium term/future. For example, in addition to reducing carbon credits issued in the EU, new taxes on carbon dioxide emissions could be introduced, among other measures. Other regions and countries are currently also planning to implement similar steps. The implementation of regionally differing measures could have a negative impact on the Lenzing Group's performance and success. The Lenzing Group is implementing a number of measures to reduce climate-related transition risks, and to further enhance resilience in this area.
+
+## **Intellectual property risks**
+
+A risk exists that Lenzing's intellectual property may be infringed or incompletely protected. The Lenzing Group counters such risks by means of a dedicated intellectual property protection department.
+
+## **Climate change and marine pollution**
+
+Increasing awareness of problems caused by climate change, such as rising sea levels, the frequency and severity of natural disasters, and a growing risk from pollution of the world's oceans by plastic waste and microplastics, are creating major risks for the entire fiber industry. By producing biodegradable fibers, Lenzing regards this development as an opportunity for its business model.1
+
+The Lenzing Group has recognized the far-reaching effects of climate change on society and ecosystems and offers a sustainable alternative with its innovative and biodegradable products. Lenzing is constantly working to set clear sustainability targets and is continuously seeking ways to enhance its energy efficiency as well as opportunities to utilize renewable energy sources or those with lower carbon dioxide emissions. As early as 2019, Lenzing became the first fiber manufacturer to commit to carbon neutrality by 2050.
+
+## **Opportunities and risks relating to ESG (Environment, Social and Governance)**
+
+As part of a materiality analysis, Lenzing surveyed material issues in relation to its sustainably oriented business model in 2021 using a multi-stage and holistic approach. Relevant opportunities and risks are assigned to each ESG topic area, which are integrated in the Enterprise Risk Management System and successively taken into account in Lenzing's long-term strategic business planning.
+
+In the environmental responsibility area (Environment), the main focus topics in the risk matrix comprise climate-related issues in connection with global warming (carbon dioxide reduction) as well as sustainable raw material procurement (wood, chemicals) and the growing water shortage in certain regions. Increasing regulation, particularly in relation to the taxation of greenhouse gases and the pricing of carbon, represents a significant risk for Lenzing. Regulations concerning greenhouse gas emissions have already been introduced in countries where Lenzing operates carbon-intensive processes. Lenzing is consistently working on the implementation of energy efficiency measures and the reduction of carbon emissions in order to take account of environmental protection and reduce exposure through eco taxes.
+
+For Lenzing, wood is the most important natural resource for the production of its biodegradable cellulose fibers. Despite sustainable sourcing policies and backward-integrated production, a risk exists that wood prices will rise further due to climate change, increasing global demand for biomass, and alternative land use.
+
+The global textile industry, especially the fashion industry in which Lenzing's products are frequently deployed, is regarded in a critical light due to its sometimes resource-intensive consumption of raw materials and its production processes. Lenzing identifies significant business opportunities through access to new and emerging markets with innovative new products and technologies. Innovation, sustainability and the circular economy lie at the core of Lenzing's corporate strategy.
+
+The production of pulp and fibers is associated with high levels of water consumption and emissions. Lenzing operates a careful global water management system that ensures compliance with both local laws and global standards. Lenzing is counteracting the increasing scarcity of water by continuously improving resource utilization and by optimizing the selection of sites for the expansion of production capacities.
+
+In the area of social responsibility, the main risks in the area of both physical and mental long-term health and safety of employees at our own sites and along the value chain as well as in society should be highlighted, which Lenzing is increasingly countering with targeted surveys and focus programs.
+
+In the area of corporate governance (Governance), risks such as cyberattacks (see "IT risks") as well as poor compliance with corporate governance and resulting risks are material. Lenzing is continuously tightening its internal rules and expanding its compliance organization accordingly.
+
+[1](#page-9-1) LENZING<sup>™</sup> fibers that are TÜV certified biodegradable (soil, fresh water & marine) and compostable (home & industrial) include the following products: LENZING™ Viscose Standard textile/nonwovens, LENZING™ Lyocell Standard textile/nonwovens, LENZING™ Modal Standard textile, LENZING™ Lyocell Filament, LENZING™ Lyocell Dry and LENZING™ Web Technology. An exception in certification exists in relation to
+
+the fibers LENZING™ Lyocell Filament and LENZING™ Lyocell Dry, for which the necessary tests to confirm biodegradability within a marine environment have not yet been conducted or finalized.
+
+## Page 18
+
+## **Operational risks**
+
+## **Procurement risk (including pulp supplies)**
+
+The Lenzing Group purchases large volumes of raw materials (wood, pulp, chemicals) and energy for the manufacture of its cellulosic fibers. Fiber production and related margins are exposed to risks arising from the availability and prices of these raw materials, which can fluctuate to the Lenzing Group's disadvantage and may increase as a consequence of climate change. Such risks are countered through the careful selection of suppliers based on price, reliability and quality criteria, EcoVadis-based sustainability assessments, as well as the establishment of long-standing, stable supplier-customer partnerships, in some cases with multi-year or longterm supply agreements. In addition, all suppliers must comply with Lenzing's Global Code of Conduct for Suppliers. Nevertheless, a risk exists of violations of this code, which may have a negative impact on the Lenzing Group and its stakeholders along the value chain. Supply chain risks may also result from disruptions caused by natural disasters.
+
+Lenzing has also entered into long-term contractual relationships with selected raw material suppliers and service partners. These agreements require Lenzing to purchase specified quantities of raw materials on standardized terms and conditions, which may also include price adjustment clauses. Lenzing may consequently not be able to adjust prices, purchase volumes or other contract conditions over the short term in order to respond to market changes.
+
+## **Operating risks, environmental risks and risks relating to climate change**
+
+The production of regenerated cellulosic fibers involves complex chemical and physical processes that cause certain environmental risks. These risks are very well controlled thanks to proactive and sustainable environmental management, closed production cycles, ongoing emissions monitoring, state-of-the-art production techniques, and the monitoring of production processes by qualified personnel. Lenzing continuously works on increasing safety and environmental standards through voluntary references such as the EU Ecolabel. As the Lenzing Group has operated production facilities at several locations for several decades, risks arising from environmental damage in earlier periods cannot be ruled out entirely.
+
+Although the Lenzing Group has set very high technological and safety standards for the construction, operation and maintenance of its production sites, the risk of breakdowns, disruptions and accidents cannot be completely excluded. These types of disruptions can also be caused by external factors over which Lenzing has no control. It is impossible to provide direct protection against certain natural hazards, such as cyclones, earthquakes, and floods. Moreover, a risk exists that personal injury, material and environmental damage, both within and outside the production facilities, could result in substantial claims for damages and even criminal liability.
+
+The Lenzing Group's production activities are concentrated at a small number of locations. Any disruption at one of these facilities has a negative impact on the Group's business operations and its goals.
+
+## **Plant risk**
+
+Lenzing is a capital-intensive company that is exposed to the risk of obsolescence of plants or plant components. Ongoing investments are required to keep these plants or plant components at the leading edge of technology. Lenzing continuously takes measures to counter such risk by investing in plant renewals and by improving productivity.
+
+## **Product liability risk**
+
+The Lenzing Group markets and sells its products and services to customers worldwide. These business activities can lead to damage to customers, or along the value chain, through the delivery of a defective product by Lenzing or one of its subsidiaries. Moreover, product safety can be jeopardized by pollution, which may cause problems in the value chain, such as potential health implications for employees and customers. Lenzing is also subject to local laws in the countries where its products are delivered. Especially in the USA, the potential implications are considered to be severe. Such risk is countered by a special department that focuses exclusively on customers' potential problems in processing Lenzing products and on handling complaints. Appropriate precautions in the production process and regular quality inspections have been implemented. Third party damages caused by Lenzing are covered by a global liability insurance program.
+
+## **Financial risks**
+
+For a detailed description of financial risks refer to notes 34 to 37 to the consolidated financial statements.
+
+## **Tax risk**
+
+The Lenzing Group's production sites are subject to local tax regulations in their respective countries and are required to pay corporation tax as well as other taxes. Changes in tax legislation or different interpretations of prevailing regulations could lead to subsequent tax liabilities.
+
+## **Compliance**
+
+Increasingly stringent international codes of conduct and legal regulations are placing additional demands on Lenzing in terms of compliance and monitoring. Inadequate controls in business processes or a lack of documentation can lead to the violation of applicable laws or regulations, and significantly jeopardize reputation and commercial success. Lenzing addresses this risk by, among other measures, continuously developing its Group-wide compliance organization, the corporate code of conduct that is valid throughout the Group, as well as directives addressing the areas of bribery and corruption, money laundering and antitrust practices. Further information on compliance is provided in the Corporate Governance Report.
+
+## **IT risks**
+
+Lenzing depends on highly developed information technology (IT) systems for its daily operations. IT systems are vulnerable to a range of problems, including software and hardware malfunctions, malicious hacking and cyberattacks, physical damage to key IT centers, and computer virus infections. Consequently, any major damage, disruption and/or circumvention of its existing IT systems may hamper business operations. These risks are addressed through comprehensive technical and organizational measures as well as additional cyber insurance.
+
+## Page 19
+
+## **Personnel risks**
+
+Personnel risks may arise through the turnover of key staff as well as the recruiting of new staff at all global sites. The Lenzing Group has established a Human Resources Department which operates internationally and coordinates personnel planning with the respective sites, and centrally manages and controls all personnel issues. These include global management and training programs for potential managers, which are organized by the Human Resources Department.
+
+At the production facilities, Lenzing Group employees as well as external contractors' workers and employees are potentially exposed to a risk of injury. Lenzing's "Heartbeat for Health & Safety" program takes such risk into consideration and includes a strategic approach to risk reduction, precautionary measures, and extensive training. For more information, see the non-financial statement of the Lenzing Group's Annual and Sustainability Report.
+
+## **Risks relating to major projects**
+
+The Lenzing Group is continuously expanding its capacities in numerous projects. Major projects entail the inherent risk of cost and time overruns, which Lenzing counters with a standardized planning process, consistent project management, ongoing cost controls as well as insurance solutions and risk transfer. In addition to the ongoing risk management process, Monte Carlo simulations are used for projects of this size to model the sensitivity of the key financial indicators.
+
+## **Risks from an external perspective and for other stakeholders**
+
+As a globally operating company, the Lenzing Group is aware of its social responsibility. The risks described in the risk report refer primarily to the effect on the Lenzing Group's assets and earnings. As one of the sustainability leaders in its sector, the Lenzing Group seeks a balance between the needs of society, the environment and the economy. The company assumes such responsibility, particularly also with respect to potential effects of its operations on neighbors of the production sites as well as in relation to society as a whole. Active stakeholder work to mitigate risks (partnerships for systemic change) and to create additional benefits for people and the environment is a clear goal of the Lenzing Group's innovation and operating activities. The Lenzing Group was once again awarded platinum status in EcoVadis's CSR rating in the reporting year. This evaluation covers the most important practices in the Corporate Social Responsibility (CSR) area. In cooperation with its partners, the Lenzing Group is working on understanding the risks for stakeholders and on finding solutions to mitigate such risks. This work is based on open communication and transparency as well as continuous improvement of technologies and sustainable practices.
+
+## Page 20
+
+## <span id="page-19-0"></span>**Report on the Key Elements of the Internal Control System (Section 243a Para. 2 of the Austrian Commercial Code)**
+
+The Lenzing Group's internal control system is designed to safeguard the reliability of financial reporting, ensure compliance with legal regulations and corporate guidelines, and present the risks not reported on the consolidated statement of financial position or in the consolidated income statement. The Managing Board is responsible for establishing and implementing the Lenzing Group's internal control system.
+
+The Lenzing Group's organizational structure and processes form the main basis for the control environment and the internal control system within the company. In the area of organizational structure, competencies and responsibilities are clearly assigned at the Group's various management and hierarchical levels. In addition to the Austrian sites, this includes all international subsidiaries. The Lenzing Group's global presence and as a consequence its decentralized corporate and site structures are taken into consideration by centralizing key corporate functions within corporate centers. The respective management teams are responsible for coordinating and monitoring business operations at national level.
+
+The company's process organization is characterized by a highly developed and extensive set of rules. This creates an adequate basis for a strong control environment and control system. The main areas in terms of approvals and competencies for the Group as a whole are regulated by the "Lenzing Group Mandates". The respective management teams are responsible for monitoring compliance with regulations and controls.
+
+## **Financial reporting**
+
+The Corporate Accounting & Tax Department has central responsibility for financial reporting, the accounting-related internal control system, and tax issues within the Group.
+
+The goal of the accounting-related internal control system is to uniformly implement the legal standards, the generally accepted accounting principles, and the accounting regulations of the Austrian Commercial Code (UGB) and, for the purposes of Group accounting, the accounting regulations of the International Financial Reporting Standards (IFRS) as well as the internal accounting guidelines, in particular the Group-wide accounting manual and schedules. The accounting-related internal control system is designed to safeguard the timely, uniform and accurate recording of all business processes and transactions. It thereby supports the preparation of reliable data and reports on the Lenzing Group's financial position and financial performance. The subsidiaries included in the consolidated financial statements prepare financial statements at company level in accordance with local law and IFRS in a timely manner and are responsible for ensuring that the central rules are implemented at individual company level. They are supported and monitored in these activities by the Corporate Accounting & Tax function. The Supervisory Board's Audit Committee is integrated in the accounting-related control system. In addition, the annual financial statements are audited by external certified public accountants and the half-year financial statements are reviewed on a voluntary basis.
+
+The Corporate Treasury Department, and above all the payments unit, is classified as a highly sensitive area due to its direct access to the company's assets. The accompanying increased need for security is reflected in comprehensive regulations and instructions for all relevant processes. The entire process, from procurement through to payment, is subject to stringent corporate guidelines. These guidelines are largely supported by a Group-wide IT system and require stringent functional separation, a clear authorization concept to prevent authorization conflicts as well as a stringent dual control principle for transaction settlement, in particular for payments, as well as regular reporting, among other measures.
+
+The Internal Audit Department is responsible for monitoring the application of, and compliance with, controls in business operations.
+
+## **Compliance with legal regulations and internal guidelines**
+
+The Lenzing Group's Legal, Intellectual Property & Compliance Department is responsible for legal management. This centralized function handles certain legal matters within the Lenzing Group and is also responsible for the Compliance Management System (CMS). Together with the Managing Board, it oversees Group-wide compliance with certain legal regulations and internal guidelines as well as the prevention of related violations. The Legal, Intellectual Property & Compliance Department reports directly to the Lenzing Group CEO. The CMS evaluates compliance-relevant risks in the narrower sense, analyzes deviations from standards and, if necessary, takes measures to reduce them ("prevent, detect, respond"). In addition, the Compliance Department draws up guidelines relevant to compliance (such as anti-bribery and anti-corruption directives as well as antitrust directives) and organizes worldwide training for employees on these matters. The department also supports specialist departments responsible for compliance with other legal and internal company regulations. The Managing Board and the Supervisory Board (or the Audit Committee) receive regular reports on compliance measures.
+
+The Lenzing Group complies with the rules defined by the Austrian Corporate Governance Code (ACGC) and prepares a Corporate Governance Report which is published as part of the Annual Report. The Corporate Governance Report requires the participation of the Supervisory Board, which delegates the responsibility for monitoring compliance with the related obligations to the Audit Committee.
+
+## Page 21
+
+## <span id="page-20-0"></span>**Share capital and shareholder structure**
+
+The share capital of Lenzing AG amounted to a total of EUR 40,107,738.37 as at the balance sheet date and is divided into 38,618,180 no-par-value shares. B&C Group is the majority shareholder with an interest in the voting rights of 52.25 percent. Goldman Sachs Group, Inc. holds 6.97 percent of the shares. The free float amounts to approximately 41 percent. This is divided between Austrian and international investors. The Lenzing Group holds no treasury shares.
+
+## **Position of shareholders**
+
+Each no-par-value share grants the shareholder one vote at the Shareholders' General Meeting of Lenzing AG. Unless provided otherwise by mandatory provisions of the Austrian Stock Corporation Act (AktG), the Shareholders' General Meeting passes resolutions by a simple majority of the votes cast and – if a majority of the share capital is required – by a simple majority of the share capital represented at the Shareholders' General Meeting.
+
+Lenzing AG has no shares with special control rights. A resolution passed by the Annual General Meeting on April 26, 2022 authorized the Managing Board, subject to the consent of the Supervisory Board, to purchase treasury shares in the company for a period of 30 months starting on the date of the resolution pursuant to Section 65 Paras. 1 nos. 4 and 8 and Paras. 1a and 1b AktG. The treasury shares acquired by the company may not exceed 10 percent of the company's share capital. The consideration to be paid for the repurchase must lie within a range of plus/minus 25 percent of the weighted average closing price on the last 20 stock exchange days preceding the start of the corresponding repurchasing program of the Lenzing share.
+
+The Managing Board was also authorized, subject to the consent of the Supervisory Board, to withdraw repurchased treasury shares without any further resolution by the Shareholders' General Meeting (including the authorization of the Supervisory Board to adopt changes to the articles of association resulting from withdrawing the shares), or to resell them and to determine the conditions of sale. This authorization can be exercised in full, in several parts and in pursuit of one or several objectives by the company, by a subsidiary (Section 189a no. 7 of the Austrian Commercial Code [UGB]) or by third parties for the company's account.
+
+In addition, the Managing Board was authorized for a period of five years from the date of the resolution to approve the sale of treasury shares, subject to the consent of the Supervisory Board, in any manner permitted by law other than through the stock exchange or public offer, and also to exclude shareholders' repurchasing rights (subscription rights), and to determine the conditions of sale.
+
+A resolution passed by the Annual General Meeting on April 19, 2023 authorized the Managing Board, subject to the consent of the Supervisory Board, to increase the share capital by up to EUR 13,787,034.68 through the issue of up to 13,274,999 no-parvalue bearer shares – including in tranches – in exchange for cash and/or non-cash capital contributions, within five years from the entry of the changes in the articles of association in the commercial register and to determine the issue price and the further issue conditions ("authorized capital"). This authorized capital was recorded in the commercial register on May 26, 2023. The statutory subscription right may be granted to shareholders in such a manner that the convertible bonds be assumed by a bank or a syndicate of banks with the obligation to offer them to the shareholders in accordance with their subscription right (indirect subscription right).
+
+The Managing Board was also authorized, subject to the consent of the Supervisory Board, to exclude shareholders' subscription rights in the event of a capital increase from the authorized capital in whole or in part (i) if the capital increase in exchange for noncash capital contributions is realized for the purpose of acquiring companies, parts of companies, operations, parts of operations, participating interests in companies or other assets connected with an acquisition project, (ii) to satisfy an over-allotment option (greenshoe) or (iii) to compensate for fractional amounts.
+
+With the implementation of the cash capital increase with subscription rights for existing shareholders in the reporting year, 12,068,180 new no-par-value bearer shares were issued.
+
+In addition, the Managing Board was authorized by a resolution of the Annual General Meeting on April 19, 2023 to issue, subject to the consent of the Supervisory Board, convertible bonds in one or several tranches that grant or provide for the subscription or conversion right or a subscription or conversion obligation for up to 13,274,999 shares in the company. These can be serviced through conditional capital to be approved and/or treasury shares. The issue price and issue conditions are to be determined by the Managing Board, subject to the consent of the Supervisory Board; the issue amount and the exchange ratio are to be determined in accordance with recognized methods of financial mathematics and the price of the company's shares in a recognized pricing procedure. This authorization is valid until April 19, 2028.
+
+The statutory subscription right may be granted to shareholders in such a manner that the convertible bonds be assumed by a bank or a syndicate of banks with the obligation to offer them to the shareholders in accordance with their subscription right (indirect subscription right).
+
+## Page 32
+
+#### **Incorporation by reference Table 02**
+
+| ESRS 2 GOV-1 paragraphs 20, 21, 22 The role of the administrative, management<br>and supervisory bodies (GRI 2-9, 2-12) | Annual report: Group Corporate Governance Report                                   |
+|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| ESRS 2 GOV-1 paragraph 22c (GRI 2-18)                                                                                   | Annual report: Group Corporate Governance Report                                   |
+| ESRS 2 GOV-5 Risk management and internal controls over sustainability reporting<br>(GRI 2-12, 2-18)                    | Annual report: Group Corporate Governance Report;<br>Annual report: Risk report    |
+| ESRS 2 SBM 3 paragraph 46, 47, 48, 49 (GRI 2-22)                                                                        | Annual report: Letter from the CEO                                                 |
+| GRI 2-1                                                                                                                 | Annual report: Lenzing Group locations;<br>Share capital and shareholder structure |
+| GRI 2-9, 2-10, 2-11, 2-15                                                                                               | Annual report: Group Corporate Governance Report                                   |
+| GRI 2-19                                                                                                                | Remuneration report (available from 21.03.2024)                                    |
+
+GRI 2-2
+
+GRI 2-20 Remuneration Policy
+
+## Page 33
+
+## <span id="page-32-0"></span>**Governance structure for sustainability**
+
+[ESRS 2 GOV-1; GRI 2-12, 2-13, 2-17]
+
+Corporate Sustainability reports directly to the Managing Board. In addition, an internal management board level ESG committee has been established to accelerate the sustainability agenda in the company, with meetings held on a quarterly basis. Regular alignments on various topics take place with different functions to drive the integration of environmental, social and governance concerns into the company's business strategy and operations. General information on corporate Governance can be found in the Lenzing Group's Annual Report 2023 (Corporate Governance Report).
+
+**Figure 01**
+
+## **Sustainability organization**
+
+Image /page/32/Figure/5 description: The image is a diagram illustrating corporate sustainability and its alignment with various boards and committees. At the top, there are two boxes: "Supervisory Board" with the text "Alignment regularly and at least quarterly" and "Supervisory Board ESG Committee." Arrows indicate a two-way relationship between these two boxes. Below the Supervisory Board, there is a "Managing Board" box with the text "Alignment on a monthly basis," which also has a two-way relationship with a "BOM ESG Committee" box. Both the Supervisory Board and Managing Board have arrows pointing down to a central green box labeled "Corporate Sustainability." From this central box, arrows point down to three boxes representing different alignment frequencies. The first box, labeled "Continuous alignment," lists: "Corporate Communications," "Global QESH," "Purchasing Wood," "Pulp Division," "Global Product Safety," and "Corporate Human Resources." The second box, labeled "At least monthly alignment," includes: "Global Textile Business," "Global Nonwoven Business," "Technical Customer Service," "Product/Application Development," "Research," "Global Marketing & Branding," "Investor Relations," "Corporate Controlling," "Human Resources," "Procurement," "Risk Management," "Strategy & M&A," and "Regulatory Affairs." The third box, labeled "At least semi-annual alignment," lists: "Global Legal, IP & Compliance," "Global Supply Chain Management," "Risk Management," and "Corporate Accounting & Tax."
+
+\* ESG Committee is an internal committee to accelerate sustainability agenda. Members are Managing Board, Global Strategy and M&A, Corporate Sustainability, Global Wood & Pulp, Corporate Audit & Risk, Investor Relations, Global QESH, Corporate HR, Corporate Controlling, Global Procurement, Global Textile Business, Global Nonwoven Business, Corporate Communications, Research & Development, Wood/Pulp commercial, Operations (representative), Works council (representative).
+
+## Page 34
+
+## **ESG committees**
+
+[ESRS 2 GOV-2; GRI 2-12, 2-14, 2-16, 2-18]
+
+Sustainability is a value, business and innovation driver in the Lenzing Group. The company is increasingly leveraging its sustainability work by positioning itself using net-benefit products (e.g. LENZING™ ECOVERO™), key ratings (for investors) and benchmarking tools at the wider industry level. To support these efforts, a management board level ESG committee has been installed to accelerate the sustainability agenda implementation by aligning across functions. This committee meets once a quarter. The key objectives are to formulate and execute the company's sustainability vision, strategy and ESG benchmarks and tools. The ESG committee (figure 02) consists of the Managing Board and heads of different functions, who review the progress of the sustainability targets, evaluate the effectiveness of Lenzing's approach to managing all aspects of sustainability, including risks and opportunities,
+
+## **ESG Committee structure**
+
+and make long-term strategic decisions. The corporate sustainability department is an integral part of the committee and works closely with several functions to ensure the integration of sustainability aspects in various business processes and to respond to stakeholder needs and expectations and prepares the organization to be future-fit. In addition, ESG meetings are seen as a way of advancing the collective knowledge, skills, and experience of its Managing Board on sustainable development.
+
+In 2023, the Supervisory Board established an ESG Committee in order to be able to meet the increasing relevance that ESG topics have in terms of strategy, sustainable business success and transformation. This committee is intended to support the Executive Board, the full Supervisory Board, the Audit Committee and the Strategy, Growth and Innovation Committee on issues relating to non-financial reporting and strategic ESG topics. The first committee meeting took place in November of the reporting year and is intended to take place a minimum of two times a year.
+
+**Figure 02**
+
+Image /page/33/Figure/6 description: The image is an organizational chart for a company's sustainability efforts. At the top is the "Chief Sustainability Officer", who oversees the "VP Corporate Sustainability". The VP is connected to a "Steering Committee" which includes "Managing Board", "VP Corporate Sustainability", "SVP Global Strategy and M&A", "SVP Corporate Human Ressources", "EVP Commercial Textiles", "EVP Commercial Nonwovens", "SVP Global Legal, IP & Compliance", "VP Corporate Communications & Public Affairs", "VP Investor Relations", "SVP Commercial Pulp, Biorefinery & Co-Products, Wood", "Operations (representative)", and "Works council (representative)". Below the VP level are several departments: "Investor Relations" with "ESG Ratings", "Risk" with "TCFD/Sustainability risks", "Operations" with "Climate change", "Environment /Higg FEM", and "Safety", "Procurement" with "Wood & pulp suppliers", "Chemicals suppliers", and "EU Supply Chain Due Diligence", "Business management & Branding" with "Premium product concepts (e.g. Carbon Zero)" and "Customer engagement", "Communication & Public Affairs" with "EU regulations" and "Sustainability reporting", "Finance/Controlling" with "EU Taxonomy", and "Human Resources" with "Social certification/Higg FSLM" and "Inclusion and diversity".
+
+For information on the Lenzing Group's governance structure, please refer to the Lenzing Group's Annual Report (Corporate Governance Report).
+
+## Page 35
+
+## **Board remuneration linked to sustainability performance**
+
+### [ESRS 2 GOV-3]
+
+The Remuneration Policy of Lenzing AG for the performancebased remuneration of the Managing Board is linked to both financial performance and non-financial sustainability criteria (ESG), which further promote the sustainability integration in the business strategy. Therefore, in addition to the existing criteria, the longterm incentive (LTI), which is a variable performance bonus, has been expanded to include sustainability targets for Managing Board members. Further information can be found in the remuneration report (available from 21.03.2024).
+
+Specific targets which are connected with the board's remuneration are the following:
+
+- Sub-target of "Textile recycling" target: "The Lenzing and Södra collaboration will recycle 25,000 t of textile waste per year at Södra's Mörrum site."
+- "ZDHC lyocell" target: "To achieve 'aspirational' MMCF level for ZDHC wastewater and responsible production guidelines at Lenzing lyocell facilities by 2028"
+- "Waste water" target: "To improve Lenzing Group's specific wastewater emissions (COD) by 20 percent by 2024 (baseline 2014)"
+- Sub-target of the "near-term SBT target": "Lenzing reduces 40 percent of specific GHG emissions per ton of pulp and fiber sold by 2030."
+- Sub target of "Equity, Diversity and Inclusion" target: "Lenzing increases its proportion of women to 22.5 percent in all positions graded 5a and above by 2025"
+
+## Page 36
+
+## <span id="page-35-0"></span>**Strategy**
+
+[ESRS 2 SBM-1; GRI 2-6, 2-22, 201-1]
+
+## **Value creation at the Lenzing Group**
+
+The Lenzing Group is committed to the ecologically responsible production of fibers made from the renewable raw material of wood grown in sustainably managed forests and plantations. As an innovation leader, Lenzing partners with global textile and nonwoven manufacturers and drives many new technological developments.
+
+Image /page/35/Figure/4 description: The image shows a value chain diagram, labeled as "Figure 03". The diagram illustrates the process from wood sourcing to the end of life of a product. The process starts with "Wood sourcing" from sustainably managed forests and plantations, which leads to "Biorefinery for pulp production". From there, it goes to "Fiber production" (Lyocell, Viscose & Modal) and "Manufacturing steps" for textiles, including spinning, knitting, weaving, dyeing, finishing, and garment making. The diagram also mentions "Nonwovens" with a value chain involving a roll-good producer and converter. The process continues to "Brands/retailers", then "Consumer use", and finally "End of life", which includes compostability, biodegradability, recycling, and incineration. The diagram also shows "External pulp suppliers" and "Energy & chemicals from suppliers" as inputs to the biorefinery. Additionally, "Biobased materials and co-products" are shown as outputs from the biorefinery.
+
+a) Applies to TÜV certied biodegradable and compostable LENZING™ bers. The compostability and biodegradability of nal consumer textile and nonwoven products depend on the material composition (ber blend) and processing in the value chain steps.
+
+The Lenzing Group is part of the chemical industry and its fibers are mostly used in the textile and apparel industry. Lenzing's product portfolio ranges from dissolving wood pulp as the basic raw material to generic fibers and innovative specialty fibers as well as energy, biobased biorefinery products, and co-products. Lenzing's own pulp production at its sites in Lenzing (Austria), Paskov (Czech Republic) and Indianópolis (Brazil) is based on a biorefinery concept, completely utilizing the raw material wood.
+
+Lenzing combines comprehensive expertise in operating pulp and biorefinery processes with decades of experience in three major fiber process technologies:
+
+- Viscose (rayon)
+- Modal
+- Lyocell
+
+Further developments and technologies have resulted from the above-mentioned processes. For more information, please see the "Net-benefit concept" section or the Lenzing website.
+
+The Lenzing Group's high-quality fibers form the basis for a variety of nonwoven and textile applications ranging from elegant clothing and versatile denims to high-performance sports apparel, luxurious bed linen, and sustainable footwear. Due to their consistently high quality Lenzing fibers are also highly suitable for hygiene and personal care products as well as technical applications.
+
+## **Supply and sourcing**
+
+The principal raw materials for producing Lenzing's fibers are wood and process chemicals. The company uses dissolving wood pulp from its own production operations and from external suppliers.
+
+## **Dissolving wood pulp and cellulosic fiber production**
+
+Production takes place in two stages: first, the production of dissolving wood pulp, and second, the production of fibers based on dissolving wood pulp. Lenzing's own dissolving wood pulp is produced in three biorefineries at sites in Lenzing (Austria), Paskov (Czech Republic) and Indianópolis (Brazil). Lenzing aims to use state-of-the-art sustainable production technology.
+
+This entails high resource efficiency, high chemical recovery rates and, where possible, closed loops for process chemicals and water.
+
+Bioenergy and biorefinery products are generated as well. Lenzing combines its comprehensive expertise in pulp and biorefinery technologies with decades of experience in cellulosic fiber production.
+
+## Page 37
+
+## **Down-stream manufacturing**
+
+As shown in figure 03 under "Manufacturing steps", the customers in Lenzing's downstream value chain use the fibers to manufacture textile, nonwoven, or industrial products.
+
+Lenzing works closely with value chain partners from direct customers to the retail level in the textile and nonwovens sector and for industrial applications - to provide expertise in processing as well as in developing innovative applications.
+
+#### **Distribution and use phase**
+
+Finished products are distributed after manufacturing and enter the consumer use phase.
+
+#### **End of life**
+
+TÜV certified biodegradable and compostable LENZING<sup>TM</sup><sup>4</sup> fibers are as the name suggests compostable and biodegradable. However, the compostability and biodegradability of final consumer textile and nonwoven products depend on the material composition (e.g. fiber blend) of the product and processing in the value chain.
+
+#### **Lenzing Group: Distribution of value creation Table 03**
+
+|                                                                        | 2021           | 2022           | 2023           |
+|------------------------------------------------------------------------|----------------|----------------|----------------|
+| Value creation                                                         | EUR 685.4 mn   | EUR 527.6 mn   | EUR 26.3 mn    |
+| Economic value creationa                                               |                |                |                |
+| Employeesb,c                                                           | EUR 446.4 mn   | EUR 449.5 mn   | EUR 464.4 mn   |
+| Retained earnings                                                      | EUR 12.2 mn    | EUR -37.2 mn   | EUR -593.0 mn  |
+| Public sectord                                                         | EUR 67.6 mn    | EUR 42.6 mn    | EUR 23.0 mn    |
+| Shareholders (dividends)e                                              | EUR 115.5 mn   | EUR 0.0 mn     | EUR 0.0 mn     |
+| Lendersb,f                                                             | EUR 43.6 mn    | EUR 72.7 mn    | EUR 131.9 mn   |
+| ROCE (return on capital employed)b,g                                   | 5.4 %          | 2.0 %          | -14.2 %        |
+| Adjusted equity ratiog                                                 | 39.7 %         | 37.8 %         | 34.7 %         |
+| Revenue                                                                | EUR 2,194.6 mn | EUR 2,565.7 mn | EUR 2,521.2 mn |
+| EBITDA (earnings before interest, tax, depreciation and amortization)b | EUR 362.9 mn   | EUR 241.9 mn   | EUR 303.3 mn   |
+| Sales volume fibers                                                    | 909,000 t      | 814,430 t      | 841,000 t      |
+
+a) Value creation within the Lenzing Group is calculated as the company's business performance minus the cost of materials, other expenses, depreciation and amortization. The distribution of value creation shows the extent to which it is distributed among stakeholders such as employees, the public sector, and lenders.
+
+b) Reclassification of capitalized borrowing costs, net interest from defined benefit plans and commitment fees from EBIT/EBITDA to the financial result (see note 2 of the Lenzing Group consolidated financial statements 2023).
+
+c) Personnel expenses less municipal taxes.
+
+d) Income tax expenses plus asset taxes and similar taxes plus municipal taxes.
+
+e) Based on the proposed distribution of profits.
+
+f) Financing costs less net foreign currency gain/losses from financial liabilities.
+
+g) The above mentioned financial indicators are derived primarily from the IFRS consolidated financial statements of the Lenzing Group. Additional details are provided in the section "Notes on the financial performance indicators of the Lenzing Group", in the glossary to the Annual Report and in the consolidated financial statements of the Lenzing Group.
+
+4 LENZING™ fibers which are TÜV certified biodegradable (soil, fresh water & marine) and compostable (home & industrial) include the following products: LENZING™ Viscose Standard textile/ nonwovens, LENZING™ Lyocell Standard textile/nonwovens, LENZING™ Modal Standard textile, LENZING™ Lyocell
+
+Filament, LENZING™ Lyocell Dry and LENZING™ Web Technology. There is an exception for the TÜV certified biodegradable & compostable fibers LENZING™ Lyocell Filament and LENZING™ Lyocell Dry, they fulfil the above mentioned conditions except biodegradability in marine environments.
+
+## Page 38
+
+## <span id="page-37-0"></span>**"Naturally Positive" sustainability strategy**
+
+#### **OUR SUSTAINABILITY VISION**
+
+Our passion is to provide truly sustainable solutions for a growing world. We create a positive impact for the people we work with, the consumers we serve, and the society and environment in which we operate. In doing so, we are commercially successful.
+
+#### **OUR SUSTAINABILITY MISSION**
+
+We are change agents and collaborate with our suppliers and value chain partners to catalyze change for the better. We actively contribute towards improving environmental performance throughout the value chain and, consequently, in final products. We promote social wellbeing. Creation of more positive impacts and benefits is the guiding light for our innovation and business practices.
+
+Lenzing's defined sustainability mission and vision act as guide to making better choices in everything it does – from the small decisions of everyday business to strategic and long-term decisions.
+
+"Naturally Positive", the Lenzing Group's sustainability strategy, was created from the results of the materiality analysis and is firmly rooted in the Lenzing Group's new "Better Growth" strategy which was developed in 2022. Within the four strategic drivers (sustainability, innovation, premiumization and excellence), the corporate strategy defines the sustainability areas in which Lenzing can do most to create a more sustainable world. At the same time, this approach enables Lenzing to adequately consider and contribute to those United Nations' Sustainable Development Goals (SDGs) on which the company's activities have the greatest impact.
+
+For further information, please see the "Sustainability Strategy" focus paper and the "SDG" focus paper.
+
+Figure 04
+
+Image /page/37/Figure/10 description: The image is a circular diagram illustrating a sustainability framework. The outer ring features the Sustainable Development Goals (SDGs) icons, including: Clean Water and Sanitation (6), Life Below Water (14), Peace, Justice, and Strong Institutions (16), Partnerships for the Goals (17), Good Health and Well-Being (3), Gender Equality (5), Decent Work and Economic Growth (8), Reduced Inequalities (10), No Poverty (1), Sustainable Cities and Communities (11), Industry, Innovation, and Infrastructure (9), Responsible Consumption and Production (12), Climate Action (13), Affordable and Clean Energy (7), and Life on Land (15). The inner part of the diagram is divided into segments, each representing a key area: Water Stewardship, Raw Material Security, Decarbonization, Sustainable Innovations, Empowering People, Enhancing Community Wellbeing, and Partnering for Systemic Change. At the center, there's a smaller circular diagram focusing on "Greening the Value Chain," with elements like "Driving Systemic Change" and "Advancing Circularity," emphasizing a "Naturally Positive" approach.
+
+## Page 39
+
+## **Three strategic principles**
+
+Lenzing's sustainability strategy builds on three strategic principles. Within those principles, seven focus areas were identified in which the Lenzing Group substantially contributes to creating positive impacts and benefits.
+
+## **1. Driving systemic change**
+
+Complex global challenges call for a collaborative approach to designing systemic solutions that involve many stakeholder groups. As a leader in regenerated cellulosic fibers, Lenzing has a particular responsibility and an ambition to help raise the bar for sustainability in the textile and nonwovens industries. Transparency and traceability are a prerequisite for fostering trust and building long-term relationships. With its contributions to developing industry-wide methods, tools, and approaches, Lenzing is helping the industry to progress on its sustainability roadmap by overcoming critical challenges. Industry benchmarking tools such as ZDHC (Zero Discharge of Hazardous Chemicals) and FSLM (Facility Social Labor Module), concrete sustainability targets, supplier engagement, and physical and digital traceability tools contribute to this change.
+
+## **2. Advancing circularity**
+
+According to Lenzing's circular economy vision, "We give waste a new life. Every day", Lenzing drives the industry towards a fullyfledged circular economy by striving to give waste a new life in all aspects of its core business and by co-developing circular solutions with potential partners in and outside the current value chain to close loops wherever possible. This vision is based on Lenzing's determination to create value using as few virgin resources as possible and reduce the use of fossil carbon in the company and the value chain while improving sustainability performance.
+
+The company unites the cellulosic fiber cycle of its wood-based products (biological cycle) with its innovative technologies that focus on closing loops in the production and recovery of raw materials and chemicals (technical cycle).
+
+Dedicated targets for the development of recycled content-based fibers and circular business models with value chain partners contribute to this principle. For more information please see the "Resource use and circular economy" chapter.
+
+## **3. Greening the value chain**
+
+Lenzing's responsible practices and innovative products enable its customers and value chain partners to improve their environmental and social performance and achieve their sustainability targets and commitments. Responsible sourcing practices, water stewardship, decarbonization, and sustainable innovations form the basis of Lenzing's efforts in greening the value chain. The sustainability targets for air emissions, water emissions, pollution, and climate protection are the cornerstones of Lenzing's responsible entrepreneurship and act as innovation drivers.
+
+For further information on Lenzing's sustainability strategy, strategic principles, and focus areas, please see the "Sustainability strategy" focus paper.
+
+## **Sustainability policy**
+
+Lenzing aims to embody best sustainability practices, lifecycle and long-term thinking, transparent and respectful collaboration and partnerships with its stakeholders in all activities and business decisions to meet society's long-term goals. Lenzing's approach is creating more positive impacts and benefits thanks to its business practices and products to make the world a better place. This covers the three dimensions of PEOPLE, PLANET and PROFIT, balancing the needs of society, the environment and shareholders and partners.
+
+## Page 42
+
+<MISSING_PAGE_TEXT>
+
+## Page 43
+
+a) The target has the same production volumes and scope of facilities as the 2014 baseline (i.e. excluding the new legal entities in Prachinburi (Thailand) and Indianópolis (Brazil)).
+
+chapter "Affected communties" and the "Community engagement" focus paper.
+
+b) Relevant for the Managing Board long-term incentive (LTI) bonus targets
+
+c) Lenzing (Austria), Heiligenkreuz (Austria), Mobile (USA), Prachinburi (Thailand)
+
+d) The scope includes all Lenzing facilities, also the new legal entities in Prachinburi (Thailand) and Indianópolis (Brazil).
+
+e) These intermediate targets are part of the Lenzing corporate strategy on the way to reach science-based target by 2030.
+
+f) Scope 3 emissions include those from the harvesting of raw material wood, the production of purchased materials (chemicals & pulp), the production of fuels, the transportation of purchased raw materials & fuels, and the transportation of fibers to customers
+
+purchased raw materials & fuels, and the transportation of noodles to customers
+
+a) The target has been updated and approved by SBTi at the end of 2023. According to SBTi for net zero targ
+
+g) The target has been updated and approved by SBTi at the end of 2023. According to SBTi for net-zero target the remaining 10 percent of emissions can be carbon removals. h) This measure was marked as achieved in the report of 2022, however due to reliability issues of the supplier biomass boiler, this measure could not be achieved consistently throughout the year 2023.
+
+A slight change has been implemented by substituting the numbers for sustainability targets with specific target names.
+
+| Achieved Targets |                                                                                                                                                   |          | SDG       |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------|-----------|
+| Target 10        | To improve transparency by implementing the Higg Facility Environmental Module (FEM 3.0) at all<br>sites by 2019                                  | Achieved | 12, 17    |
+| Target 12        | To achieve digital fiber traceability by having 500 value chain partners with blockchain technology<br>by 2021                                    | Achieved | 9, 12, 17 |
+| Target 13        | To increase physical traceability from TENCELTM x REFIBRATM and LENZINGTM ECOVEROTM to<br>100 percent of Lenzing's textile special fibers by 2021 | Achieved | 12        |
+
+Targets that have been achieved before the reporting year
+
+## Page 44
+
+## <span id="page-43-0"></span>**Partnering for systemic change**
+
+[ESRS 2 SBM-2; GRI 2-16, 2-29]
+
+The world is more interconnected today than ever before. Improving access to technology and knowledge is an important way to share ideas and foster innovation. The complex global sustainability challenges society is facing, call for a collaborative approach to designing systemic solutions.
+
+Engaging in a dialog means respecting stakeholders, contributing Lenzing's expertise and knowledge, and taking the opportunity to learn from partners' perspectives. Transparency is a prerequisite for fostering trust and long-term relationships. Each dialog starts with providing transparent information, supporting stakeholders to form an educated opinion and assess risks, and avoiding misunderstandings by building trust. Furthermore, stakeholder relationships built on mutual respect and openness help solve existing tensions and avoid potential conflicts.
+
+For more information on our main stakeholder, please see the "Stakeholder engagement" focus paper.
+
+Various business functions are involved in reaching out to individual stakeholders. In addition to the Lenzing Sustainability team, the Managing Board and managers of the different business functions are all important players who drive the company's proactive approach towards an ongoing stakeholder dialog.
+
+## **Key stakeholder groups Figure 05**
+
+Image /page/43/Figure/27 description: The image is a circular diagram with "Lenzing Group" in the center. Radiating outward from the center are segments containing the following text labels: "Nonprofits & NGOs", "Rating agencies", "Supervisory Board", "Suppliers & contractors", "Academia", "Brands & retailers", "Certification bodies", "Competitors", "Consumer protection", "Consumers", "Direct customers & value chain partners", "Employees", "Governments", "Industry associations", "Investors", "Local communities", "Media", and "Multi-stakeholder initiatives".
+
+## **Key stakeholders in 2023**
+
+The Lenzing Group's key stakeholders are the people and entities who are potentially affected by its operations, business conduct, and strategic targets or who could enable Lenzing in reaching these targets. Lenzing regards them as strategic partners who have a significant interest in and impact on areas that matter the most to Lenzing. The most important stakeholder group is Lenzing's staff. Their achievements and transparency and collaboration make them a clear testimony to the Lenzing Group's credible sustainability performance. The main topics discussed in 2023:
+
+- Energy security and reducing reliance on fossil fuels
+- Climate change, GHG (greenhouse gas) emission targets, science-based target (SBT)
+- Equity, Diversity and inclusion
+- Responsible sourcing, in particular Supply Chain Due Diligence and (verification of) scope 3 emissions
+- EU policies (e.g. EU Taxonomy, Empowering Consumers Directive, Corporate Sustainability Reporting Directive (CSRD)) ● ESG risks
+	-
+- Governance and business conduct
+- Net-benefit concept
+- Biogenic emissions, land use change
+- Circular economy, recycling technologies and innovative business models
+- Waste, emissions and water management
+- Transparency and traceability of supply chains
+- Environmental assessment and communication of products
+- Biodiversity and conservation of ecosystems
+- Benchmarking tools (Textile Exchange Preferred Fiber and Material Matrix)
+
+For more information on the stakeholder dialog in 2023, please see the "Stakeholder engagement" in each topical standard.
+
+## Page 45
+
+## <span id="page-44-0"></span>**Double materiality analysis**
+
+[ESRS 2 IRO-1; GRI 3-1]
+
+**Materiality analysis Figure 06**
+
+Image /page/44/Figure/3 description: The image shows a three-phase process. Phase 01 is "Research", and the steps are "Create long list", "Develop consolidated list", and "Describe relevant topics". Phase 02 is "Assessment", and the steps are "Sustainability impact", "Financial impact", and "Stakeholder interest". Phase 03 is "Material topics Ranking", and the step is "Materiality matrix".
+
+\* LCA = Life cycle assessment
+
+In 2021, a so-called double materiality analysis was carried out. This means that both the influence of the environment on the company and the influence of the company on the environment were examined and supplemented by the financial consideration of these influences. Lenzing is continuously engaging with stakeholders to
+
+understand the relevance and update the materiality analysis if required. In the reporting year, Lenzing had conversations with several stakeholders (e.g. Canopy) and no new topics were identified. For further information on the updated materiality analysis, please see the "Materiality analysis" focus paper.
+
+[ESRS 2 IRO-2; GRI 3-2]
+
+| Materiality analysis – allocation of topics |                                                               |                                                       |                                                                                   | Table 05      |
+|---------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------|---------------|
+| Material aspects and chapter                | Strategic focus area                                          | NaDiVeG                                               | ESRS                                                                              | SDG           |
+| Circularity & resources                     | Partnering for systemic<br>change, Sustainable<br>innovations | Environmental matters                                 | E5 Resource use and circular<br>economy                                           | 9, 11, 12, 17 |
+| Climate & energy                            | Decarbonization                                               | Environmental matters                                 | E1 Climate change                                                                 | 7, 13, 17     |
+| Responsible wood sourcing                   | Raw material security                                         | Environmental matters                                 | E5 Resource use and circular<br>economy,<br>G1 Business conduct                   | 15            |
+| Biodiversity & ecosystems                   | Raw material security                                         | Environmental matters                                 | E4 Biodiversity and ecosystems                                                    | 15            |
+| Sustainable innovation & products           | Sustainable innovations                                       | Environmental matters                                 | E2 Pollution,<br>E3 Water and marine<br>ressources,<br>S4 Consumers and end-users | 9, 12, 17     |
+| Health & safety                             | Empowering people                                             | Employee-related matters                              | S1 Own workforce                                                                  | 3             |
+| Human rights & fair labor practices         | Empowering people                                             | Employee-related matters, Respect<br>for human rights | S1 Own workforce,<br>S2 Workers in the value chain,<br>S3 Affected communities    | 5, 8, 10      |
+| Business ethics                             | Empowering people                                             | All non-financial matters                             | G1 Business conduct                                                               | 16            |
+| Digitalization & cyber security             | Sustainable innovations                                       | All non-financial matters                             | –                                                                                 | 9, 8, 16      |
+
+## Page 46
+
+#### **Further sustainability aspects**
+
+| Supply chain sustainability                 | Raw material security,<br>Partnering for systemic<br>change | Environmental matters, Respect for<br>human rights    |                                | 8, 12, 17 |
+|---------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|--------------------------------|-----------|
+| Water stewardship                           | Sustainable innovations                                     | Environmental matters                                 | E3 Water and marine ressources | 6         |
+| Community wellbeing                         | Enhancing community<br>wellbeing                            | Social matters                                        | S3 Affected communities        | 1, 3, 11  |
+| Diversity, inclusion & equal<br>opportunity | Empowering people                                           | Employee-related matters, Respect<br>for human rights | S1 Own workforce               | 5, 10     |
+| Employee empowerment &<br>development       | Empowering people                                           | Employee-related matters, Respect<br>for human rights | S1 Own workforce               | 5, 10     |
+
+## Page 47
+
+## <span id="page-46-0"></span>**Information on environmentally sustainable economic activities according to the EU-Taxonomy Regulation**
+
+According to the Regulations (EU) 2020/852 of the European Commission as of June 18, 2020, (EU) 2021/2139 of the European Commission as of June 4, 2021, (EU) 2021/2178 of the European Commission as of July 6, 2021, (EU) 2022/1214 of the European Commission as of March 9, 2022 and the adaption of the Environmental Delegated Act (EU) 2023/2485 and 2023/2486 as of June 27, 2023, the Lenzing Group is required to disclose three key performance indicators, turnover, CapEx and OpEx. For the 2023 financial year, the taxonomy-eligibility and taxonomy-alignment of the Lenzing Group's economic activities must be disclosed for the environmental objectives 1-2. For the environmental objectives 3- 6, only taxonomy compliance. The Lenzing Group designed an EU-Taxonomy accounting guideline for describing the methodology for reporting the three KPIs by following the time sequence and requirements as outlined in the Delegated Act dated January 1, 2023.
+
+To determine the Taxonomy-eligible activities, the Lenzing Group assessed all economic activities listed in the EU-Taxonomy for all consolidated group companies. The taxonomy-eligibility was determined on the basis of the description of the economic activities. Due to the current state of EU legislation, not all economic activities and industries are covered by the six currently applicable environmental objectives. In 2022, the first two environmental targets were reported, which did not include Lenzing Group's core business activities (wood-based fiber production, dissolving wood pulp production and supporting activities). The publication of the four additional environmental objectives and the adaptation of the existing goals has not changed this situation. Thus, the information on Taxonomy-eligible economic activities for 2023 covers only a very small portion of activities within the Lenzing Group.
+
+The following activities are identified as Taxonomy-eligible: Manufacture of soda ash (CCM 3.12.), Transmission and distribution of electricity (CCM 4.9.), Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels (CCM 4.19.), cogeneration of heat/cool and power from bioenergy (CCM 4.20.). Future developments in legislation may change the scope of the Taxonomy-eligible activities.
+
+## **Forest management (CCM 1.3.)**
+
+The forest industry is not at the core of the current EU Taxonomy legislation. Tree plantations in South America are not included in the activity Forest management (CCM 1.3.). The output of the activity, the grown wood, is used mostly internally in Lenzing's own operations. In this report, the term 'forests' has been used in a general sense and the definition changes from country to country based on domestic laws. For example, some countries do not consider 'tree plantations' as forests whereas some do consider them as forests.
+
+## **Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels (CCM 4.19.)**
+
+The operation of the Cogeneration of heat/cool and power is conducted for the most part from renewable non-fossil gaseous and liquid fuels, e.g. (e.g. thick liquor, beech bark). Due to lack of relatability of the respective fuel to the sold Energy, the calculation of eligibility is conducted based on key for mostly used fuels.
+
+Following economic activities supporting the Core Business are physically tightly integrated and therefore cannot be assessed separately with reasonable efforts and are as such considered not eligible: High-efficiency co-generation of heat/cool and power from fossil gaseous fuels (CCM 4.30.), Freight rail transport (CCM 6.2.), Construction, extension and operation of waste water collection and treatment (CCM 5.3.) and Data processing, hosting and related activities (CCM 8.1.)
+
+Capital expenditure from the taxonomy-eligible output in category "C" was measured and reported accordingly (e.g. Acquisition and ownership of buildings CCM 7.7.).
+
+Taxonomy-conformity refers to economic activities that are defined as such in the Taxonomy Regulation. Taxonomy-alignment goes beyond eligibility and implies a positive assessment of the applicable technical screening criteria. This includes a substantial contribution to at least one of the 6 Taxonomy's environmental objectives, no significant harm to any other objectives and compliance with the minimum safeguards.
+
+For the identified eligible economic activities, an assessment for Taxonomy-alignment was performed. The Lenzing Group began the alignment assessment by screening the technical critieria, including the substantial contribution, the Minimum Safeguards and DNSH (Does Not Significantly Harm) criteria. During the screening, the Lenzing Group came to the conclusion that the requirements of Annex A (climate risk and vulnerability assessment) as well as other elements cannot yet be fullfilled. As a consequence of this assessment, further in-depth DNSH assessment was deemed unnecessary for the reporting year. All identified economic activities are reported as Taxonomy-eligible, but not Taxonomy-aligned.
+
+The Lenzing Group avoids any double counting by evaluating the data for each key performance indicator independently. All identified economic activities only count once for the environmental objective of "Climate Change Mitigation". The Lenzing Group calculates the 3 KPIs (turnover, CapEx and OpEx) according to the definition of the Delegated Regulation (EU) 2021/2178.
+
+## Page 48
+
+## **Proportion of turnover from products or services associated with Taxonomy-aligned economic activities – disclosure covering year 2023 Table 06**
+
+Table 06
+
+| Financial year<br>2023                                                                                                          |              | Year                      |                                                   | Substantial contribution criteria |                               |               |               |                      |                   | DNSH criteria (“Does<br>Not Significantly Harm”) |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------|---------------------------------------------------|-----------------------------------|-------------------------------|---------------|---------------|----------------------|-------------------|--------------------------------------------------|--------------------------------|------------|----------------|-----------------------|-------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|--|--|
+| Economic Activities (1)                                                                                                         | Code<br>(2)  | Turnover<br>(3)<br>EUR mn | Proportion<br>of<br>Turnover,<br>year 2023<br>(4) | Climate Change Mitigation (5)     | Climate Change Adaptation (6) | Water (7)     | Pollution (8) | Circular Economy (9) | Biodiversity (10) | Climate Change Mitigation (11)                   | Climate Change Adaptation (12) | Water (13) | Pollution (14) | Circular Economy (15) | Biodiversity (16) | Minimum Safeguards (17) | Proportion<br>of<br>Taxonomy<br>aligned<br>(A.1.) or<br>-eligible<br>(A.2.)<br>turnover,<br>year 2022<br>(18)<br>EUR mn | Category<br>enabling<br>activity<br>(19) | Category<br>transitional<br>activity (20) |  |  |
+| Text                                                                                                                            |              | Currency                  | %                                                 | Y; N;<br>N/EL                     | Y; N;<br>N/EL                 | Y; N;<br>N/EL | Y; N;<br>N/EL | Y; N;<br>N/EL        | Y; N;<br>N/EL     | Y/N                                              | Y/N                            | Y/N        | Y/N            | Y/N                   | Y/N               | Y/N                     | %                                                                                                                       | E                                        | T                                         |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES<br>A.1 Environmentally sustainable activities (Taxonomy-aligned)                                |              |                           |                                                   |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+| Turnover of environmentally<br>sustainable activities<br>(Taxonomy-aligned) (A.1)                                               |              |                           | 0 %                                               |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+| Of which enabling                                                                                                               |              |                           | 0 %                                               |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+| Of which transitional                                                                                                           |              |                           | 0 %                                               |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                         |              |                           |                                                   |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+|                                                                                                                                 |              |                           |                                                   | EL;<br>N/EL                       | EL;<br>N/EL                   | EL;<br>N/EL   | EL;<br>N/EL   | EL;<br>N/EL          | EL;<br>N/EL       |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+| Manufacture of<br>soda ash                                                                                                      | CCM<br>3.12. | 4.8                       | 0.2 %                                             | N                                 | N/EL                          | N/EL          | N/EL          | N/EL                 | N/EL              |                                                  |                                |            |                |                       |                   |                         | N/A                                                                                                                     |                                          |                                           |  |  |
+| Transmission and<br>distribution of<br>electricity                                                                              | CCM<br>4.9.  | 1.3                       | 0.1 %                                             | N                                 | N/EL                          | N/EL          | N/EL          | N/EL                 | N/EL              |                                                  |                                |            |                |                       |                   |                         | 0.1 %                                                                                                                   |                                          |                                           |  |  |
+| Cogeneration of<br>heat/cool and<br>power from<br>renewable non-<br>fossil gaseous and<br>liquid fuels                          | CCM<br>4.19. | 18.6                      | 0.7 %                                             | N                                 | N/EL                          | N/EL          | N/EL          | N/EL                 | N/EL              |                                                  |                                |            |                |                       |                   |                         | 1.2 %                                                                                                                   |                                          |                                           |  |  |
+| Cogeneration of<br>heat/cool and<br>power from<br>bioenergy                                                                     | CCM<br>4.20. | 14.9                      | 0.6 %                                             | N                                 | N/EL                          | N/EL          | N/EL          | N/EL                 | N/EL              |                                                  |                                |            |                |                       |                   |                         | 0.6 %                                                                                                                   |                                          |                                           |  |  |
+| Turnover of Taxonomyeligible<br>but not environmentally<br>sustainable activities (not<br>Taxonomy-aligned activities)<br>(A.2) |              | 39,5                      | 1.6 %                                             |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+| A. Turnover of Taxonomy-<br>eligible activities (A.1+A.2)                                                                       |              | 39,5                      | 1.6 %                                             |                                   |                               |               |               |                      |                   |                                                  |                                |            |                |                       |                   |                         |                                                                                                                         |                                          |                                           |  |  |
+
+#### **B. TAXONOMY-NON-ELIGIBLE ACTIVITIES**
+
+| Turnover of Taxonomy-non-<br>eligible activities | 2481.6        | 98.4 %      |
+|--------------------------------------------------|---------------|-------------|
+| Total                                            | <b>2521.2</b> | <b>100%</b> |
+
+|                                               |                                                   | Proportion of<br>turnover / Total<br>turnover |  |
+|-----------------------------------------------|---------------------------------------------------|-----------------------------------------------|--|
+|                                               | Taxono<br>my-<br>aligned<br>per<br>objecti-<br>ve | Taxonom<br>y-eligible<br>per<br>objective     |  |
+| CCM                                           | 0%                                                | 1.6%                                          |  |
+| CCA                                           | 0%                                                | 0%                                            |  |
+| WTR                                           | 0%                                                | 0%                                            |  |
+| CE                                            | 0%                                                | 0%                                            |  |
+| PPC                                           | 0%                                                | 0%                                            |  |
+| BIO                                           | 0%                                                | 0%                                            |  |
+| Compared to 2022 the revenue for cogeneration | decreased due to changed energy prices.           |                                               |  |
+
+Compared to 2022 the revenue for cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels (CCM 4.19.) decreased due to changed energy prices.
+
+## Page 49
+
+## **Proportion of CapEx from products or services associated with Taxonomy-aligned economic activities – disclosure covering year 2023 Table 07**
+
+Table 07
+
+| Financial year 2023     | Year        | Substantial contribution criteria |                                             |                               |                               | DNSH criteria (“Does<br>Not Significantly Harm”) |               |                      |                   |                                |                                |            |                |                       |                   |                         |                                                                                                                       |                                          |                                              |
+|-------------------------|-------------|-----------------------------------|---------------------------------------------|-------------------------------|-------------------------------|--------------------------------------------------|---------------|----------------------|-------------------|--------------------------------|--------------------------------|------------|----------------|-----------------------|-------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------|
+| Economic Activities (1) | Code<br>(2) | CapEx<br>(3)<br>EUR mn            | Proportion<br>of CapEx,<br>year 2023<br>(4) | Climate Change Mitigation (5) | Climate Change Adaptation (6) | Water (7)                                        | Pollution (8) | Circular Economy (9) | Biodiversity (10) | Climate Change Mitigation (11) | Climate Change Adaptation (12) | Water (13) | Pollution (14) | Circular Economy (15) | Biodiversity (16) | Minimum Safeguards (17) | Proportion<br>of<br>Taxonomy-<br>aligned<br>(A.1.) or<br>-eligible<br>(A.2.)<br>CapEx,<br>year 2022<br>(18)<br>EUR mn | Category<br>enabling<br>activity<br>(19) | Category<br>transitional<br>activity<br>(20) |
+| Text                    |             | Currency                          | %                                           | Y; N;<br>N/EL                 | Y; N;<br>N/EL                 | Y; N;<br>N/EL                                    | Y; N;<br>N/EL | Y; N;<br>N/EL        | Y; N;<br>N/EL     | Y/N                            | Y/N                            | Y/N        | Y/N            | Y/N                   | Y/N               | Y/N                     | %                                                                                                                     | E                                        | T                                            |
+
+#### **A. TAXONOMY-ELIGIBLE ACTIVITIES**
+
+| A.1 Environmentally sustainable activities (Taxonomy-aligned)                                                                                          |             |      |                                                          |                            |      |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------|----------------------------------------------------------|----------------------------|------|
+| CapEx of environmentally<br>sustainable activities (Taxonomy-aligned) (A.1)                                                                            |             | 0    | 0%                                                       |                            |      |
+| Of which enabling                                                                                                                                      |             | 0    | 0%                                                       |                            |      |
+| Of which transitional                                                                                                                                  |             | 0    | 0%                                                       |                            |      |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                                                |             |      |                                                          |                            |      |
+|                                                                                                                                                        |             |      | EL; EL; EL; EL; EL; EL;<br>N/EL N/EL N/EL N/EL N/EL N/EL |                            |      |
+| Manufacture of soda ash                                                                                                                                | CCM<br>3.12 | 0    | 0.0%                                                     | N N/EL N/EL N/EL N/EL N/EL | N/A  |
+| Transmission and<br>distribution of electricity                                                                                                        | CCM<br>4.9. | 0.6  | 0.2%                                                     | N N/EL N/EL N/EL N/EL N/EL | 0.1% |
+| Cogeneration of heat/cool<br>and power from<br>renewable non-fossil<br>gaseous and liquid fuels                                                        | CCM<br>4.19 | 1.5  | 0.4%                                                     | N N/EL N/EL N/EL N/EL N/EL | 0.5% |
+| Cogeneration of heat/cool<br>and power from bioenergy                                                                                                  | CCM<br>4.20 | 18.3 | 5.6%                                                     | N N/EL N/EL N/EL N/EL N/EL | 0.0% |
+| Transport by motorbikes,<br>passenger cars and light<br>commercial vehicles                                                                            | CCM<br>6.5. | 3.0  | 0.9%                                                     | N N/EL N/EL N/EL N/EL N/EL | N/A  |
+| Installation, maintenance<br>and repair of charging<br>stations for electric<br>vehicles in buildings (and<br>parking spaces attached<br>to buildings) | CCM<br>7.4. | 0.0  | 0.0%                                                     | N N/EL N/EL N/EL N/EL N/EL | N/A  |
+| Installation, maintenance<br>and repair of renewable<br>energy technologies                                                                            | CCM<br>7.6. | 0.2  | 0.1%                                                     | N N/EL N/EL N/EL N/EL N/EL | N/A  |
+| Acquisition and ownership<br>of buildings                                                                                                              | CCM<br>7.7. | 26.5 | 8.1%                                                     | N N/EL N/EL N/EL N/EL N/EL | N/A  |
+| CapEx of Taxonomy-eligible but<br>not environmentally sustainable<br>activities (not Taxonomy-aligned<br>activities) (A.2)                             |             | 50.1 | 15.3%                                                    |                            |      |
+| A. CapEx of Taxonomy-eligible<br>activities (A.1+A.2)                                                                                                  |             | 50.1 | 15.3%                                                    |                            |      |
+
+## Page 50
+
+### **B. TAXONOMY-NON-ELIGIBLE ACTIVITIES**
+
+| CapEx of Taxonomy-non-eligible<br>activities | 277.6 | 84.7% |
+|----------------------------------------------|-------|-------|
+| Total                                        | 326.3 | 100%  |
+
+|     | Proportion of<br>CapEx /<br>Total CapEx          |                                               |
+|-----|--------------------------------------------------|-----------------------------------------------|
+|     | Taxo<br>nomy<br>-<br>aligned<br>per<br>objective | Taxono<br>my-<br>eligible<br>per<br>objective |
+| CCM | 0%                                               | 15.3%                                         |
+| CCA | 0%                                               | 0%                                            |
+| WTR | 0%                                               | 0%                                            |
+| CE  | 0%                                               | 0%                                            |
+| PPC | 0%                                               | 0%                                            |
+| BIO | 0%                                               | 0%                                            |
+
+In 2023 a new biomass power plant was acquired at site Heiligenkreuz with CapEx investments under cogeneration of heat/cool and power from bioenergy (CCM 4.20.). Capital expenditure from taxonomy-eligible output in category "C" was measured and reported accordingly (e.g. Acquisition and ownership of buildings CCM 7.7.).
+
+## Page 51
+
+## **Proportion of OpEx from products or services associated with Taxonomy-aligned economic activities – disclosure covering year 2023 Table 08**
+
+**Table 08**
+
+| Financial year 2023     |             | Year                  |                                            |                               |                               | Substantial contribution criteria |               |                      |                   |                                | DNSH criteria ("Does<br>Not Significantly Harm") |            |                |                       |                   |                         |                                                                                                                     |                                          |                                              |
+|-------------------------|-------------|-----------------------|--------------------------------------------|-------------------------------|-------------------------------|-----------------------------------|---------------|----------------------|-------------------|--------------------------------|--------------------------------------------------|------------|----------------|-----------------------|-------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------|
+| Economic Activities (1) | Code<br>(2) | OpEx<br>(3)<br>EUR mn | Proportion<br>of OpEx,<br>year 2023<br>(4) | Climate Change Mitigation (5) | Climate Change Adaptation (6) | Water (7)                         | Pollution (8) | Circular Economy (9) | Biodiversity (10) | Climate Change Mitigation (11) | Climate Change Adaptation (12)                   | Water (13) | Pollution (14) | Circular Economy (15) | Biodiversity (16) | Minimum Safeguards (17) | Proportion<br>of<br>Taxonomy<br>aligned<br>(A.1.) or<br>-eligible<br>(A.2.)<br>OpEx,<br>year 2022<br>(18)<br>EUR mn | Category<br>enabling<br>activity<br>(19) | Category<br>transitional<br>activity<br>(20) |
+| Text                    |             | Currency              | %                                          | Y; N;<br>N/EL                 | Y; N;<br>N/EL                 | Y; N;<br>N/EL                     | Y; N;<br>N/EL | Y; N;<br>N/EL        | Y; N;<br>N/EL     | Y/N                            | Y/N                                              | Y/N        | Y/N            | Y/N                   | Y/N               | Y/N                     | %                                                                                                                   | E                                        | T                                            |
+|                         |             |                       |                                            |                               |                               |                                   |               |                      |                   |                                |                                                  |            |                |                       |                   |                         |                                                                                                                     |                                          |                                              |
+
+## **A. TAXONOMY-ELIGIBLE ACTIVITIES**
+
+| A.1 Environmentally sustainable activities (Taxonomy-aligned)                                                    |           |     |      |  |             |             |             |             |             |             |  |  |      |  |
+|------------------------------------------------------------------------------------------------------------------|-----------|-----|------|--|-------------|-------------|-------------|-------------|-------------|-------------|--|--|------|--|
+| OpEx of environmentally sustainable activities (Taxonomy-aligned) (A.1)                                          |           | 0   | 0%   |  |             |             |             |             |             |             |  |  |      |  |
+| Of which enabling                                                                                                |           | 0   | 0%   |  |             |             |             |             |             |             |  |  |      |  |
+| Of which transitional                                                                                            |           | 0   | 0%   |  |             |             |             |             |             |             |  |  |      |  |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)          |           |     |      |  |             |             |             |             |             |             |  |  |      |  |
+|                                                                                                                  |           |     |      |  | EL;<br>N/EL | EL;<br>N/EL | EL;<br>N/EL | EL;<br>N/EL | EL;<br>N/EL | EL;<br>N/EL |  |  |      |  |
+| Manufacture of soda ash                                                                                          | CCM 3.12. | 0.5 | 0.2% |  | N           | N/EL        | N/EL        | N/EL        | N/EL        | N/EL        |  |  | N/A  |  |
+| Transmission and distribution of electricity                                                                     | CCM 4.9.  | 0.4 | 0.2% |  | N           | N/EL        | N/EL        | N/EL        | N/EL        | N/EL        |  |  | 0.1% |  |
+| Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels                           | CCM 4.19. | 5.4 | 2.7% |  | N           | N/EL        | N/EL        | N/EL        | N/EL        | N/EL        |  |  | 2.8% |  |
+| Cogeneration of heat/cool and power from bioenergy                                                               | CCM 4.20. | 2.8 | 1.4% |  | N           | N/EL        | N/EL        | N/EL        | N/EL        | N/EL        |  |  | 2.7% |  |
+| OpEx of Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities) (A.2) |           | 9.1 | 4.5% |  |             |             |             |             |             |             |  |  |      |  |
+| A. OpEx of Taxonomy-eligible activities (A.1+A.2)                                                                |           | 9.1 | 4.5% |  |             |             |             |             |             |             |  |  |      |  |
+
+#### **B. TAXONOMY-NON-ELIGIBLE ACTIVITIES**
+
+| OpEx of Taxonomy-non-eligible<br>activities | 192.8 | 95.5% |
+|---------------------------------------------|-------|-------|
+| Total                                       | 201.9 | 100%  |
+
+|     | Proportion of<br>OpEx / Total<br>OpEx         |                                                |
+|-----|-----------------------------------------------|------------------------------------------------|
+|     | Taxono-<br>my-<br>aligned<br>per<br>objective | Taxono-<br>my-<br>eligible<br>per<br>objective |
+| CCM | 0%                                            | 4.5%                                           |
+| CCA | 0%                                            | 0%                                             |
+| WTR | 0%                                            | 0%                                             |
+| CE  | 0%                                            | 0%                                             |
+| PPC | 0%                                            | 0%                                             |
+| BIO | 0%                                            | 0%                                             |
+
+No major changes in the OpEx for 2023 in comparison to 2022.
+
+## Page 52
+
+The total turnover covers the revenue recognized pursuant to International Accounting Standard (IAS) 1.82 (a), as adopted by Commission Regulation (EC) 1126/2008 and is reported in the consolidated financial statements 2023 (see consolidated income statement position "revenue"). The turnover derived from products or services, including intangibles, associated with Taxonomy-eligible and -aligned economic activities, is presented in relation to the total turnover.
+
+The total CapEx covers book (not cash-effective) additions to property, plant and equipment, intangible assets, biological assets and right of use assets. The CapEx related to assets or processes associated with Taxonomy-eligible and -aligned economic activities, is presented in relation to the total CapEx. In the 2023 reporting year, the only capital expenditure related to acquisitions through business combinations was made for the biomass power plant at the Heiligenkreuz site amounting to EUR 18.3 million (%).
+
+| EU Taxonomy CapEx                                                                                                                       | Table 09            |       |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------|
+|                                                                                                                                         |                     |       |
+| EUR mn<br>1-12/2022                                                                                                                     | EUR mn<br>1-12/2023 |       |
+| Additions to intangible assets<br>(see note 17 of consolidated financial statements 2023)                                               | 10.9                | 8.7   |
+| Additions to property, plant and equipment excluding down payments                                                                      | 778.6               | 239.1 |
+| Additions to land and buildings<br>(see note 18 of consolidated financial statements 2023)                                              | 131.5               | 27.4  |
+| Additions to technical equipment and machinery, factory and office equipment<br>(see note 18 of consolidated financial statements 2023) | 455.4               | 106.5 |
+| Additions to down payments and assets under constructions<br>(see note 18 of consolidated financial statements 2023)                    | 46.3                | 97.4  |
+| Reclassification of down payments<br>(see note 18 of consolidated financial statements 2023)                                            | 145.5a              | 7.8   |
+| Additions to biological assets<br>(see note 19 of consolidated financial statements 2023)                                               | 4.6                 | 0.0   |
+| Additions to right of use assets<br>(see note 20 of consolidated financial statements 2023)                                             | 14.2                | 78.5  |
+| Total                                                                                                                                   | 808.2               | 326.3 |
+
+a) Additions include prepayments amounting to EUR 6.5 mn (2022: EUR 141 mn), which were capitalized in the financial year. The decrease in advance payments made compared to the previous period amounts to EUR 1.3 mn (2022: EUR 4.3 mn).
+
+The total OpEx covers direct non-capitalized operating expenses that relate to research and development, building renovation measures, short-term leasing, maintenance and repair. Maintenance and repair expenses relate to the day-to-day servicing of property, plant and equipment assets (including maintenance material). Operating expenses associated with taxonomy-eligible economic activities are presented in relation to total operating expenses.
+
+| EU Taxonomy OpEx                                                                                                                           |                     | Table 10            |  |
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|--|
+|                                                                                                                                            | EUR mn<br>1–12/2022 | EUR mn<br>1-12/2023 |  |
+| Maintenance and repairs including maintenance material<br>(see note 6 of consolidated financial statements 2023)                           | 158.7               | 177.1               |  |
+| Rental and leasing expenses<br>(see note 20 of consolidated financial statements 2023)                                                     | 10.9                | 9.2                 |  |
+| Research and development expenses<br>(see consolidated financial income statement 2023)                                                    | 29.2                | 69.1                |  |
+| Less amortization and depreciation included in research and development expenses<br>(see note 6 of consolidated financial statements 2023) | –4.0                | –53.5               |  |
+| Total                                                                                                                                      | 194.8               | 201.9               |  |
+
+## Page 53
+
+| Row                           | Nuclear energy related activities                                                                                                                                                                                                                                                                                                        |    |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+| 1.                            | The undertaking carries out, funds or has exposures to research, development, demonstration and deployment<br>of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste<br>from the fuel cycle.                                                                                      | NO |
+| 2.                            | The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear<br>installations to produce electricity or process heat, including for the purposes of district heating or industrial<br>processes such as hydrogen production, as well as their safety upgrades, using best available techniques. | NO |
+| 3.                            | The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that<br>produce electricity or process heat, including for the purposes of district heating or industrial processes such<br>as hydrogen production from nuclear energy, as well as their safety upgrades.                        | NO |
+| Fossil gas related activities |                                                                                                                                                                                                                                                                                                                                          |    |
+| 4.                            | The undertaking carries out, funds or has exposures to construction or operation of electricity generation<br>facilities that produce electricity using fossil gaseous fuels.                                                                                                                                                            | NO |
+| 5.                            | The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of<br>combined heat/cool and power generation facilities using fossil gaseous fuels.                                                                                                                                                   | NO |
+| 6.                            | The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat<br>generation facilities that produce heat/cool using fossil gaseous fuels.                                                                                                                                                     | NO |
+
+## Page 54
+
+## <span id="page-53-0"></span>**Climate change**
+
+–
+
+## **MANAGEMENT APPROACH**
+
+## **Material topic: Climate change**
+
+#### [GRI 3-3]
+
+Dissolving wood pulp and fiber production are energy-intensive processes that present a challenge for Lenzing. Where possible, the company has eliminated fossil-based energy or replaced it with renewable sources. Investments in state-of-the-art technologies and low-carbon production processes at all Lenzing sites have helped to increase energy efficiency and positively influence the company's carbon emissions. Climate risks present opportunities for innovation and investment that make Lenzing more resilient to the changing regulatory landscape. The company demonstrates industry leadership as recognized in 2023 by the environmental non-profit organization CDP, which awarded Lenzing a triple "A" rating for Climate Change, Water Security and Forests for the third time. Lenzing is one of only 10 companies worldwide to achieve this rating. This sustained environmental effort has kept the company on track to meet its GHG emissions reduction targets of 42 percent in scopes 1 and 2 by 2030 and 25 percent in scope 3 (baseline 2021), which also support the bigger goal of achieving a net-zero future by 2050 in line with the Paris Agreement.
+
+## – **Actual and potential negative and positive impacts, risks and opportunities**  – **Positive**
+
+- Driving the transition to fossil-free production through a circular business model and innovation along the whole value chain
+- Offering end consumers a truly sustainable option: textiles and nonwovens made from regenerated cellulosic fibers
+- Future-proofing Lenzing's growth with the implementation of carbon-neutral technologies and low-carbon products
+- Becoming more resilient to the changing regulatory (e.g. tax) and business environment
+- Strengthening credible sustainability leadership among all stakeholders, securing product differentiation and price premiums
+- Collaborating with stakeholders and supply chain partners
+- Attracting new and long-term impact investors
+
+# – **Negative**
+
+#### **Own activities:**
+
+- Lenzing cannot contribute to its customers' GHG targets if products no longer meet customers' definition of sustainable raw materials
+- Any climate-related disruption in one of the production sites (e.g. severe weather events, supply chain disruptions)
+- Not meeting new regulations, technological problems with regard to transition to renewable energy sources (e.g. green hydrogen)
+- Fossil-based energy and energy-intensive technologies carry potential regulatory, technology, market and corporate reputation risks
+- Inefficient energy conversion technologies have a potential impact on CO2 emissions
+
+#### **Business relationships:**
+
+- Risks of wood unavailability due to forest degradation (diseases, pests, etc.) as a direct consequence of higher average temperatures
+- Potential regulatory, technology, market and corporate reputational risks
+- Any climate-related disruption at one of the production sites would impact the business model and its success
+- Implementation of regional and national emissions trading schemes
+- Energy shortage could compromise Lenzing's operations
+- Financial impacts of potential cost increases in energy prices
+- Group Environmental Standard
+- Bioenergy Policy
+- Policy for Safety, Health and Environment (SHE) Policy
+
+# – **Actions taken**
+
+- Update and validation of science-based targets (SBTs)
+- Update of roadmaps for group-level and site-level targets
+- Governance and steering committee in place
+- Inclusion of products made at Lenzing's Prachinburi (Thailand) site in low-carbon portfolio
+- Two additional production sites in the Lenzing Group use 100 percent renewable electricity from the grid, upping the number of sites relying solely on renewable electricity to six
+- Purchase of a biomass power plant
+- Power purchase agreements (PPA) with providers of renewable energy
+- Continuous improvement of energy consumption
+- CDP Climate Change "A" rating
+- Environmental management system in accordance with ISO 14001:2015 (including risk assessment and internal audits to ensure the effectiveness of the measures implemented) – **Sustainability targets, measures and progress**
+
+- "Near-term science-based target"
+- "Long-term science-based net-zero target"
+
+# – **Stakeholders**
+
+- UN Fashion Charter
+- Roadmap to Zero
+- Renewable Carbon Initiative (RCI)
+- GHG Protocol and CEPI
+- Customers
+- Suppliers
+
+# – **Responsible**
+
+- Board member: CPO/CTO
+- VP Corporate Sustainability
+- Senior Manager Carbon Strategy
+
+# – **Supporting**
+
+• Corporate Communications & Public Affairs
+
+## Page 55
+
+# – **Policies and commitments**
+
+- "Naturally Positive" sustainability strategy with "Decarbonization" and "Partnering for systemic change" as focus areas
+- Implementation of science-based targets (SBTs)
+- Commitment to UN Fashion Industry Charter for Climate Action
+- ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 system certifications for the Lenzing Group
+- Global Controlling
+- Global Supply Chain/Purchasing
+- Corporate Audit & Risk
+- Global QESH
+- Global Strategy and M&A
+- Performance.Improvement.Technology
+- Site managers
+
+#### **HIGHLIGHTS IN 2023**
+
+- 1. Update of the near-term science-based target (SBT) for scope 1, 2 & 3 GHG emissions reductions until 2030 (1.5°C target ambition in scope 1 & 2).
+- 2. Validation of 2050 net-zero scope 1, 2 & 3 GHG emissions target by SBTi and setting of a long-term SBT for 2050 (at least 90 percent emission reduction)
+- 3. Purchase of a 43 megawatt biomass power plant at Heiligenkreuz (Austria) site.
+- 4. Supplier engagement continued with key chemicals suppliers Initiated process to purchase low-carbon caustic soda
+- 5. Lyocell fiber produced at Prachinburi (Thailand) integrated within the low-carbon portfolio
+- 6. In 2023, 100 percent renewable grid electricity purchase for Nanjing (China) and Purwakarta (Indonesia) sites
+- 7. Starting Q4/2023, renewable power supply to Lenzing site from 5.5 megawatt PV-plant in Styria (power purchase agreement between Lenzing, Energie Steiermark and Enery)
+- 8. Sign off of a 12.6 megawatt wind power purchase agreement with WindLandKraft. The wind park is located in Engelhartstetten (Austria) and will supply power to Lenzing from Q1/2025.
+- 9. CDP Climate Change "A" rating
+- 10. Lenzing has updated its Climate Action Plan according to the updated SBTs
+
+## **Governance**
+
+[ESRS E1 ESRS 2 GOV-3]5
+
+The Remuneration Policy of Lenzing AG for the performancebased remuneration of the Managing Board is linked not only to financial performance criteria but also to non-financial sustainability (ESG) criteria. For more details, please see "General information" chapter.
+
+## **Strategy**
+
+[ESRS E1-1; GRI 3-3e]
+
+## **Transition plan for climate change mitigation**
+
+In line with the Paris Agreement (1.5°C target) and the UN SDG 13, the Lenzing Group set ambitious science-based targets (SBTs) for reducing absolute GHG emissions in scope 1 and 2 by 42 percent and in scope 3 by 25 percent until 2030 (baseline 2021) and aims to achieve net-zero GHG emissions by 2050.
+
+A cross-functional project team was set up under the leadership of the CPO/CTO. The project management team includes a steering committee to enable alignment across all decision-makers and functions, expedite decisions and ensure the involvement of different owners of capital projects, sites and functions.
+
+A dedicated global project manager is operationally responsible for facilitating the roadmap preparation and bringing best practice examples to implement climate targets at facility and group level. Additionally, the manager is supporting the functions in integrating climate in business decisions.
+
+To ensure engagement and empowerment, production sites and functions are responsible for developing and implementing roadmaps, so that they can effectively manage their portfolios and specific agendas in the medium- and long-term.
+
+## **Strategy, targets and roadmaps**
+
+Lenzing's corporate strategy, "Better Growth", includes the climate change targets, which ensures that climate change is incorporated into the business strategy and decision-making.
+
+To effectively achieve the SBTs, the global project manager has developed a high-level SBT roadmap for the Lenzing Group with potential site-level targets. These scenarios and site targets were aligned with the CPO, steering committee and other decisionmakers of key functions and regions. This has provided guidance and direction and facilitated the development of roadmaps by each production site and function.
+
+<sup>5</sup> In addition to the GRI disclosure, the corresponding ESRS section is noted. There is no claim to fulfilment of the ESRS in this and the following chapters.
+
+## Page 56
+
+## **Integration in functions and projects**
+
+**Operations:** Each one of the nine sites is engaged to develop their targets and roadmaps. Some emission reduction projects implemented globally during the reporting period include:
+
+- Since Q4/2022, the site in Nanjing (China) has purchased 100 percent renewable grid electricity.
+- Renewable power supply to the Lenzing site from a 5.5 megawatt photovoltaic power station in Styria (Austria) started in Q4/2023 (PPA between Lenzing, Energie Steiermark and Enery)
+- Purchase of a 43 megawatt biomass powerplant in Heiligenkreuz (Austria) in Q2/2023.
+
+**Business management and sales:** Lenzing places great importance in communicating the climate impacts of its products to customers and business partners. Results from product life cycle assessments are useful in conveying the climate benefits of Lenzing's low-carbon fiber portfolio during sales processes (see "Sustainable innovations" chapter).
+
+**Procurement and supplier engagement:** Lenzing engages and partners with key chemicals and pulp suppliers to reduce its scope 3 emissions. The intention is to develop raw materials with lower GHG emissions and other impacts. Lenzing focuses on maintaining long-term relationships, helping suppliers achieve improvements and being part of their transitional journey by using their green products.
+
+**Strategy, mergers and acquisitions:** Every capital project, whether brownfield or greenfield, has to align with the climate change strategy and targets. In this regard, some projects have been assessed for their benefits and contribution to climate change impact as part of the Managing Board's decision-making process. Internal carbon pricing for key projects is used to support this process.
+
+**Finance and controlling:** In the yearly medium-term plan (MTP) budgeting process, projects were assessed for their relevance to the climate transition plan as well as their GHG impacts. The results were implemented as additional decision criteria.
+
+## **Levers to meet science-based targets**
+
+Based on technical feasibility, Lenzing deploys different levers to reduce scope 1 and 2 emissions. They can be broadly grouped in four categories as seen in figure 07.
+
+#### **Levers to meet science-based targets Figure 07**
+
+Image /page/55/Figure/13 description: The image shows a diagram of four levers for achieving net zero emissions. The diagram is divided into four quadrants, each representing a different lever. The levers are: Lever 1: Energy reduction, Lever 2: Energy mix, Lever 3: Integration, and Lever 4: New technology development. Lever 1 includes efficiency, technology optimization, and better stewardship. Lever 2 includes fuel switch (e.g. coal to gas/biomass), renewable electricity purchases, and product mix. Lever 3 includes pulp and fiber integration and virtual integration. Lever 4 includes CO2 neutral technologies (e.g. electrification, heat pumps) and retrofits for existing plants using renewable fuels/technologies (e.g. renewable hydrogen, bio-methane).
+
+## **Impact, risk and opportunity management**
+
+[ESRS E1 ESRS 2 SBM-3; GRI 3-3ab, 201-1, 201-2]
+
+Relevant risks and opportunities for Lenzing were qualitatively evaluated by using scenario analyses for short-term (1–2 years), midterm (2–5 years) and long-term (5–30 years) consequences in order to estimate their potential financial impact and probability of occurrence. Lenzing then derived a KPI scorecard with indicators and targets on the key climate-related risks and opportunities based on the TCFD recommendation for metrics and targets.
+
+The following table describes key climate risks and opportunities and provides details of Lenzing's response and mitigation measures. A TCFD index in the Annex of this report shows the link between the TCFD recommendations, the contents of this report and other external publications such as the CDP Climate Change.
+
+## Page 57
+
+#### **Characterization Risk/opportunity description Lenzing's response**
+
+| Transition risks | Emerging regulations on carbon pricing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                  | Increasing regulation, especially on green taxation and<br>carbon pricing, constitutes a relevant risk for Lenzing. In<br>the countries where Lenzing has carbon intensive<br>processes, regulations on greenhouse gas (GHG)<br>emissions have already been implemented (energy<br>efficiency improvements, regulated emission allowances)<br>and stricter regulations that could increase the costs of<br>GHG emissions are under development.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Lenzing is implementing stringent energy efficiency measures in<br>order to reduce its potential exposure to green taxation. In<br>2023, Lenzing updated its science-based targets to 1.5°C<br>aligned to reduce its total GHG emissions in scope 1 & 2 by<br>42 percent and in scope 3 by 25 percent by 2030 (compared<br>to a 2021 baseline). Lenzing is therefore mitigating the risks<br>from emerging carbon pricing regulations. Lenzing also set a<br>SBTi validated 2050 long-term net-zero target with 90 percent<br>absolute reduction of scope 1, 2 & 3 emissions until 2050<br>(baseline 2021).                                                                                                                                                                                                                                                                                                                                                |
+|                  | Increased biomass costs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                  | Wood is the Group's most important natural resource for<br>manufacturing regenerated cellulosic fibers. Despite its<br>sustainable sourcing policy and backward-integrated<br>production, wood prices are at risk of increasing due to<br>climate change, growing global biomass demand and<br>alternative land use. Growing competition for land use<br>and natural resources is affecting long-term structural<br>biomass prices.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | In order to mitigate the risk of increasing biomass costs and<br>improve supply chain security, Lenzing started-up a modern<br>dissolving wood pulp plant in 2022 with integrated plantation<br>and forest operations in Brazil. The new pulp mill improves<br>Lenzing's cost position, as it secures the Group's own supply<br>of dissolving wood pulp and represents a milestone in Lenzing's<br>strategy to achieve carbon neutrality.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                  | Reputational risk in the textile sector                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                  | The textile industry, where Lenzing's products are<br>commonly used, is being scrutinized for its sometimes<br>unsustainable and resource-intensive raw material<br>consumption and production processes. This could lead<br>to negative media coverage and further stigmatize the<br>sector, which could, in turn, influence the Group's<br>revenue.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Lenzing responds to potential negative media coverage of the<br>fashion and textile industry by proactively disclosing information<br>on its business practices and environmental footprint. Through<br>its communication channels, Lenzing underlines its contributions<br>to a low-carbon economy and the net benefits created by its<br>speciality products compared to generic products in the market.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Physical risks   | Chronic physical climate risks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                  | Climate models indicate that rising global mean<br>temperatures will lead to an increase in chronic physical<br>climate hazards. The Lenzing Group's operations and<br>supply chain could be increasingly affected by extreme<br>weather events, water scarcity and other physical hazards<br>of varying severity. For example, climate change related<br>impacts such as heavy rainfall or forest fires could affect<br>Lenzing's key pulp supplies from South Africa and the<br>new pulp plant in Brazil, resulting in a shortage of high-<br>quality pulp and bottlenecks in fiber production. In<br>addition, climate change-induced disruptions such as heat<br>stress could lead to more frequent pest outbreaks,<br>droughts and rising winter temperatures, which could<br>disrupt wood suppliers' planned harvest schedules and<br>thus pose a risk to Lenzing's wood supply, especially in<br>the European pulp mills. Water scarcity could also mean,<br>for example, that less water can be drawn from the<br>Ager river at the Lenzing site during longer dry periods,<br>especially in the summer months, which in turn would<br>lead to a reduced production. | All identified risks arising from a disruption in the supply chain<br>for the various raw materials, chemicals and energy required<br>for pulp and fiber production are managed by Lenzing through<br>comprehensive supplier diversification and holistic inventory and<br>resource management. In addition, Lenzing has initiated the<br>"Safe Supply" project, comprising around 300 initiatives for<br>alternative suppliers and supply routes for important raw<br>materials and chemicals. The effects of climate change-related<br>heavy rainfalls and the associated potential flooding at affected<br>locations are mitigated by appropriate flood protection and<br>evacuation plans based on flood risk assessments. Possible<br>water shortages due to prolonged dry periods at affected<br>production sites are counteracted by targeted measures in the<br>areas of water efficiency, water reuse, water recycling and<br>water conservation. |
+
+**Transition opportunities Increased demand for low-emission products and product innovation** 
+
+As consumer needs and preferences shift toward lowemission products, the development and expansion of low-emission goods and services is expected to have substantial growth potential. Lenzing applies life-cycle thinking, sustainable sourcing, efficient use of biomass and partnerships with stakeholders along the value chain in order to contribute to more sustainable consumption and production patterns. All these factors mean that Lenzing's products offer net benefits.
+
+Lenzing has embarked on an ambitious growth strategy to benefit from expected higher demand for responsibly resourced and low-emission products. Lenzing invested more than EUR 1 billion in a new lyocell fiber production facility in Prachinburi (Thailand) and a new wood pulp facilitiy in Indianópolis (Brazil) that started operating in 2022. Major achievements in 2023 were the implementation of the technical concept and the production startup of LENZING™ ECOVERO™ branded viscose fibers at Lenzing's site in Purwakarta (Indonesia) and switching one line from viscose to modal fiber production at the Nanjing (China) site. These investments significantly contribute to reducing Lenzing's GHG emissions and strengthen the security of the Group's raw material supply.
+
+#### **Decarbonization strategy de-risks operations**
+
+The Lenzing Group considers rapid decarbonization to be a major business opportunity to de-risk its operations, build resilience, launch products with less climate impact and harvest energy efficiency gains. Lenzing will substantially reduce its GHG emissions in the coming years through a number of corresponding measures (decarbonization strategy) and science-based targets. Furthermore, Lenzing aims to reach net-zero greenhouse gas emissions by 2050.
+
+Lenzing's science-based targets are approved by the Science Based Target initiative, making Lenzing the first regenerated cellulosic fiber producer to have approved science-based targets. Lenzing's decarbonization strategy is based on reducing its emissions, not offsetting them. To reach the targets, Lenzing set up a cross-functional steering committee to make necessary decisions under the leadership of the managing board. Lenzing's GHG abatement activities will involve a series of measures to reduce carbon emissions both within its operational boundaries and along its supply chain.

@@ -1,0 +1,178 @@
+{
+  "company_slug": "amag_austria_metall_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\amag_austria_metall_ag\\2023\\amag_austria_metall_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\amag_austria_metall_ag\\2023\\focused\\amag_austria_metall_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        7,
+        15,
+        17,
+        18,
+        21,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "start_page": 5,
+      "end_page": 38,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "7": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Environmentally sustainable activities"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "15": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "17": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "18": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "21": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "29": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "30": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Environmentally sustainable activities"
+              ],
+              "31": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "32": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "33": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        83
+      ],
+      "start_page": 81,
+      "end_page": 88,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "83": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        118
+      ],
+      "start_page": 116,
+      "end_page": 123,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "118": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        134,
+        135,
+        141
+      ],
+      "start_page": 132,
+      "end_page": 146,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "134": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "135": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "141": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

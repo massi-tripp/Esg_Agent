@@ -1,0 +1,116 @@
+{
+  "company_slug": "delivery_hero_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\delivery_hero_se\\2023\\delivery_hero_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\delivery_hero_se\\2023\\focused\\delivery_hero_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        81
+      ],
+      "start_page": 68,
+      "end_page": 86,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "70": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8",
+                "Annex I",
+                "Annex II"
+              ],
+              "71": [
+                "Annex I",
+                "Annex II"
+              ],
+              "72": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities"
+              ],
+              "73": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "74": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "75": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "76": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "81": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        215,
+        216
+      ],
+      "start_page": 213,
+      "end_page": 221,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "215": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "216": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

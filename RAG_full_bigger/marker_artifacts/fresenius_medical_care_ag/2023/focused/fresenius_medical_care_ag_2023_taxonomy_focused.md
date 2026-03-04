@@ -1,0 +1,1725 @@
+## Page 18
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+in a timely manner. The Presiding Committee is also responsible for various matters concerning the Management Board, such as recommendations to the Supervisory Board on the appointment or dismissal of Management Board members. Furthermore, the Presiding Committee reviews and assesses the Company's corporate governance.
+
+The Presiding Committee convened in the past fiscal year one time in person to deal with constituting the committee and with corporate governance aspects of the Company.
+
+# Compensation Committee
+
+The Compensation Committee was formed by the Supervisory Board of the Company in the legal form of the AG by resolution dated September 21, 2023.
+
+The Compensation Committee prepares the decisions of the Supervisory Board regarding the compensation of the members of the Management Board. This includes the preparation of the determination of the compensation system and the plan terms of the short-term and long-term incentive of the Management Board as well as the definition of the targets for variable compensation components and the definition of target values as well as of the determination of the target achievement. The Compensation Committee also reviews the compensation report.
+
+In the past fiscal year, the Compensation Committee convened one time in person to prepare the review and revision of the compensation system for the members of the Management Board by the Supervisory Board.
+
+# Nomination Committee
+
+The Nomination Committee identifies and recommends suitable candidates to the Supervisory Board for its proposals to the General Meeting for the election of Supervisory Board members. The Nomination Committee also recommends suitable candidates to the Supervisory Board in case a judicial appointment of a shareholder representative on the Supervisory Board is required. The Nomination Committee further makes recommendations to the Supervisory Board on members of the shareholder representatives to be elected to the committees of the Supervisory Board. This does not apply to the election of members of the shareholder representatives to the Mediation Committee.
+
+In the past fiscal year, the Nomination Committee did not convene since no meeting was required.
+
+# Mediation Committee
+
+The Mediation Committee (Vermittlungsausschuss) was formed with effect from March 14, 2024 after the employee representatives had been appointed by the court and therefore after the end of the fiscal year. The Mediation Committee is responsible for proposals for the appointment or dismissal of members of the Management Board to the Supervisory Board, if the respective measure is not passed by the Supervisory Board with the required majority during the first vote.
+
+# Joint Committee
+
+Until the change of the legal form of the Company became effective on November 30, 2023, the Company had a Joint Committee, which was composed of two members of the Supervisory Board of the General Partner as well as two members of the Supervisory Board of the Company. For certain matters, the Management Board required the approval of the Joint Committee. In the past fiscal year, the Joint Committee did not convene since no meeting was required.
+
+# Dialogue with Investors
+
+The Chair of the Supervisory Board and, until the change of the legal form of the Company became effective, the Lead Independent Director were also available for discussions with investors in the year under review to the extent permitted by law and in close consultation with the Management Board. In these discussions, investors were given the opportunity to exchange views with the Chair of the Supervisory Board and the Lead Independent Director on matters concerning the corporate governance of the Company falling within the competence of the Supervisory Board. Key topics in the year under review were the change of the legal form, the corporate governance structures and the composition of the Management Board. The function of Lead Independent Director was not re-established following the change of legal form.
+
+# Corporate Governance
+
+The members of the Supervisory Board in principle selfresponsibly undertake educational and training measures required for their tasks, such as on changes in the legal framework and on new, future-oriented developments and technologies, and are adequately supported in this respect by the Company.
+
+In addition to the information provided to them by various external experts, also experts of the Company's departments regularly report on relevant developments. This includes – for example – relevant new developments in the revision of legal rules or in jurisprudence and also about recent developments in regulations on accounting and audit and sustainability requirements. In this way, the Supervisory Board, with the Company's adequate assistance, ensures an ongoing qualification of its members and also a further development and updating of their expertise, power of judgment and experience which is required for the Supervisory Board including its committees to duly perform their tasks.
+
+## Page 19
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+New members of the Supervisory Board can meet the members of the Management Board and specialist managers for a discussion of fundamental and current topics and thereby gain an overview of the relevant topics of the Company (Onboarding).
+
+For targeted further training, internal information events are offered as required. In the year under review, further training was provided for the members of the Supervisory Board on current developments in corporate governance and upcoming relevant legal regulations. These included the German Future Financing Act (Zukunftsfinanzierungsgesetz) and the German Whistleblower Protection Act (Hinweisgeberschutzgesetz), regulatory developments in the area of sustainability, developments in German, European and U.S. data protection law, and new regulations of the NYSE and the SEC associated with the listing of the Company as a foreign private issuer.
+
+The Supervisory Board reports to the General Meeting on possible conflicts of interests of its members and on the treatment of such conflicts. If specific conflicts of interest exist or cannot be ruled out with certainty, the concerned Supervisory Board member will disclose this to the Supervisory Board. If a subsequent review reveals that a conflict of interest exists, suitable measures will be taken to resolve the conflict of interest. In the year under review, a conflict of interest on the part of Dr. Dieter Schenk, who – in addition to his function as member and Chairman of the Supervisory Board of the Company in the legal form of a KGaA – was and is also a member of the Supervisory Board of the General Partner of Fresenius SE & Co. KGaA, could not be ruled out with respect to resolutions on the implementation of the Company's change of legal form. Dr. Schenk therefore did not take part in the voting on these resolutions. Apart from this, no interests of conflict arose in the year under review.
+
+The change of legal form of the Company effected extensive changes in the composition of the Supervisory Board of the Company and its committees. In particular, upon the change of legal form becoming effective on November 30, 2023, the term of office of the members of the Supervisory Board of the Company who were in office up until then ended. Furthermore, the Supervisory Board of the Company is now also to be composed of employee representatives who could not be appointed by court order or be elected to the Supervisory Board before 2024. Against this background, a self-assessment of the work of the Company's Supervisory Board in the year under review would not have offered any additional benefit. The members of the Supervisory Board of the Company who were in office in the year under review have therefore agreed that the next regular self-assessment should be carried out in 2024, when the Supervisory Board of the Company is fully composed and has been operating in its new composition.
+
+Further details on corporate governance, in particular on the independence of the Supervisory Board members, the qualification matrix for the implementation status of the profile of skills and expertise for the Supervisory Board, the age limit and the regular maximum tenure for membership in the Company's Supervisory Board, as well as the self-assessment of the activities of the Supervisory Board and its committees, can be found in the Declaration on Corporate Governance starting on page 134 of the Annual Report. The Declaration on Corporate Governance was discussed by the Supervisory Board and approved in its meeting of March 14, 2024.
+
+The Declaration on Corporate Governance also includes the Declaration of Compliance in relation to the German Corporate Governance Code according to section 161 AktG as resolved by the Management Board and Supervisory Board and published in December 2023. The Declaration of Compliance is permanently available to the public on the Company's website at www.freseniusmedicalcare.com in the section "Investors" and there in the sub-section "Corporate Governance".
+
+# Compensation Report
+
+The Management Board and the Supervisory Board prepared a compensation report in accordance with section 162 AktG for the year under review. In accordance with section 162 paragraph 3 AktG, the compensation report was reviewed by the auditor to determine whether the legally required disclosures pursuant to section 162 paragraphs 1 and 2 AktG were made. In addition to the statutory requirements, the content of the report was also again reviewed by the auditor. The auditor confirmed that the compensation report, in all material respects, complies with the accounting provisions of section 162 AktG. In accordance with section 120a paragraph 4 AktG, the compensation report will be submitted to the General Meeting of the Company for approval.
+
+# Annual and consolidated financial statements
+
+The annual financial statements and the management report of the Company were prepared in accordance with the regulations of the German Commercial Code (Handelsgesetzbuch – HGB). The consolidated financial statements and group management report follow section 315e of the German Commercial Code (HGB) in accordance with IFRS as applicable in the European Union. Accounting, the annual financial statements, the management report as well as the consolidated financial statements and the group management report for fiscal year 2023 were audited by PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft, Frankfurt am Main (PwC). PwC has been the auditor of the Company since the fiscal year 2020 and was elected as auditor for the year under review by resolution of the Annual General Meeting on May 16, 2023, which was confirmed in the Extraordinary General Meeting on July 14, 2023, and mandated by the Supervisory Board. The auditor provided each of the aforementioned documents with an unqualified certifi-
+
+## Page 20
+
+# FRESENIUS 20 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+FURTHER [INFORMATION](#page-314-0)
+
+≡ ○
+
+cate. Mr. Peter Kartscher (as already in the previous years since 2020) and Mr. Dominik Höhler (for the first time) signed the respective audit certificate as the auditors. The audit reports of the auditor were made available to the Audit Committee and the Supervisory Board. The Audit Committee reviewed the annual and consolidated financial statements as well as the management reports and included the audit reports of, and the discussions with, the auditor in its discussions. The Audit Committee reported to the Supervisory Board on this.
+
+The Supervisory Board also reviewed the annual financial statements, the management report, the consolidated financial statements and the group management report, in each case for the past fiscal year. The documents were provided to it in good time. The Supervisory Board declared its agreement with the result of the audit of the annual financial statements and the consolidated financial statements by the auditor. The representatives of the auditor who signed the audit reports participated in the discussions of the Supervisory Board of the annual and consolidated financial statements. They reported to the Supervisory Board on the significant findings of their audit and were available for additional information. Also according to the final results of its own review, no objections are to be raised by the Supervisory Board as regards the annual financial statements, the management report, the consolidated financial statements and the group management report.
+
+In its meeting on February 19, 2024, the Supervisory Board discussed the draft of the report according to Form 20-F. The report according to Form 20-F was filed with the SEC on February 20, 2024.
+
+The annual financial statements and management report of the Company as well as the consolidated financial statements and the group management report for the past fiscal year, as presented by the Management Board, were approved by the Supervisory Board at its meeting on March 14, 2024; in the legal form of an AG, the annual financial statements of the Company are adopted by this approval of the Supervisory Board.
+
+The Supervisory Board also approved the Management Board's proposal for the allocation of profit which provides for a dividend of € 1.19 for each share.
+
+# Separate Non-Financial Group Report
+
+The separate Non-Financial Group Report of the Company was prepared in accordance with the regulations of the German Commercial Code (HGB) and the EU Taxonomy Regulation (Regulation (EU) 2020/852) and will be published separately from the group management report. This report documents the sustainability performance of Fresenius Medical Care in fiscal year 2023. The reporting by Fresenius Medical Care is based on the international sustainability standards of the Global Reporting Initiative (GRI).
+
+The Supervisory Board made use of the option to have the separate Non-Financial Group Report verified by an external auditor. The separate Non-Financial Group Report was subjected to a limited assurance engagement review by PwC in accordance with the international standard on assurance engagements ISAE 3000 (Revised). PwC issued a corresponding assurance statement.
+
+The Supervisory Board, too, reviewed the separate Non-Financial Group Report. The documents were provided to it in good time. The Supervisory Board declared its agreement with the result of the limited assurance engagement review by the auditor. The representatives of the auditor who signed the statement on the limited assurance engagement review participated in the discussions of the Supervisory Board about the separate Non-Financial Group Report. They reported to the Supervisory Board on the significant findings of their limited assurance engagement review and were available for additional information. Also according to the final results of its own review, no objections are to be raised by the Supervisory Board as regards the separate Non-Financial Group Report.
+
+# Dependency report
+
+The Management Board prepared a report on the Company's relationships to Fresenius SE & Co. KGaA and the latter's affiliates in accordance with section 312 AktG for the period until the end of the dependency relationship with Fresenius SE & Co. KGaA upon the effectiveness of the change of legal form of the Company, i.e. for the period from January 1 to November 30, 2023. The report contains the following concluding statement:
+
+"With regard to the legal transactions and measures listed in this report on the relationships to affiliated companies, FME AG (until November 30, 2023 FMC-AG & Co. KGaA) received appropriate consideration for each legal transaction in accordance with the circumstances of which we were aware at the time that the legal transactions were conducted. No reportable measures were taken or omitted in the reporting year."
+
+Both the Audit Committee and the Supervisory Board received the dependency report in good time and reviewed it. The auditor participated in the relevant meeting. It reported on the main results of its audit and was available for additional information. On February 23, 2024, the auditor added the following certificate to the dependency report:
+
+"On the basis of our proper audit and judgment we confirm that 1. the factual disclosures provided in the report are correct, 2. the consideration paid by the Company for the legal transactions stated in the report was not inappropriately high."
+
+The Audit Committee and the Supervisory Board agree with the assessment of the auditor. Following the final results of its own review, the Supervisory Board does not raise any objec-
+
+## Page 21
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+tions against the declaration of the Management Board at the bottom of the report on the relationships to affiliates.
+
+# Acknowledgements
+
+Dr. Dieter Schenk, Mr. Rolf A. Classon, Dr. Dorothea Wenzel and Prof. Dr. Gregor Zünd resigned from the Company's Supervisory Board upon the change of the Company's legal form becoming effective on November 30, 2023, as they were not available for election at the Company's Extraordinary General Meeting on July 14, 2023. Dr. Schenk has been associated with Fresenius Medical Care since the founding of the Company, first as Deputy Chair and then as Chair of the Supervisory Board. During this time, he has made an extraordinary personal commitment to the Company and contributed his knowledge, skills and experience to the Supervisory Board for the benefit of the Company, always keeping the needs of all capital market participants in mind. Mr. Classon was actively involved for many years in various functions for the Supervisory Board of the Company and its committees and has decisively shaped Fresenius Medical Care. Dr. Wenzel and Prof. Dr. Zünd have rendered outstanding services to Fresenius Medical Care. The Supervisory Board would like to thank them all very much for their valuable commitment and their dedicated work for the benefit of Fresenius Medical Care.
+
+Mr. William Valle stepped down from the Management Board at the end of December 31, 2023. He had been with the Company since 2009 and a member of the Management Board since 2017, initially responsible for the North America region and since 2022 for the Care Delivery business segment. The Supervisory Board would like to thank Mr. Valle for his dedicated and valuable work for Fresenius Medical Care.
+
+Finally, the Supervisory Board would like to thank the members of the Management Board and all employees of the group for their outstanding commitment. We would like to express our great appreciation to all of them for their work in the past fiscal year!
+
+Bad Homburg v.d. Höhe, March 14, 2024
+
+On behalf of the Supervisory Board
+
+#### MICHAEL SEN
+
+*Chair*
+
+## Page 22
+
+# FRESENIUS 22 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP
+
+[MANAGEMENT REPORT](#page-28-0) GROUP REPORT [NON-FINANCIAL](#page-91-0)
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ ◯
+
+# Capital Markets and Shares
+
+Strategic decisions, the successful implementation of our turnaround plans, the streamlining of our corporate structure, and an improved market environment compared to the previous year influenced the business development of Fresenius Medical Care in 2023. This was also reflected in the performance of our shares, which ended the year significantly higher than the previous year. In addition to internal successes and business performance, external factors caused significant volatility in the share price during the year. In particular, the study results on new weight-reducing medications from the pharmaceutical sector temporarily impacted the share price.
+
+# Price development of Fresenius Medical Care shares
+
+The yearly low was reached right at the beginning of 2023 when the share closed trading on January 3, 2023, at €30.25.
+
+In 2023, Fresenius Medical Care focused on necessary internal adjustments to position the Company for the future, making it more resilient, agile, and efficient. These measures included organizational, legal, personnel, and profitabilityrelated adjustments.
+
+Since the beginning of 2023, the Company has been managed operationally in two segments: Care Enablement and Care Delivery. The global and consistent management of these segments enables targeted and efficient decision-making processes as well as the reduction of redundancies. The increased transparency, combined with a clear allocation of responsibilities within the entire value chain of each segment, is expected to further support profitability growth.
+
+The proposed change of legal form from a partnership limited by shares (KGaA) to a stock corporation (AG) on February 21, 2023, aims to provide the Company with more flexibility and autonomy through simplified governance structures, as well
+
+Image /page/21/Figure/15 description: The image shows the text "C 1.2 SHARE PRICE PERFORMANCE, ABSOLUTE, JANUARY 1, 2023 - DECEMBER 31, 2023".
+
+Image /page/21/Figure/16 description: This image shows a line graph of the Fresenius Medical Care share price over the course of a year, from January to December. The y-axis ranges from 20 to 65. The lowest point on the graph is labeled as the "year low" with a value of 30.25. The highest point on the graph is labeled as the "year high" with a value of 49.33.
+
+Source: Bloomberg data
+
+IN €
+
+<span id="page-21-0"></span>22
+
+## Page 23
+
+GROUP [MANAGEMENT REPORT](#page-28-0) GROUP REPORT
+
+[NON-FINANCIAL](#page-91-0)
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+<span id="page-22-0"></span>T 1.3 INDEX AND SHARE PRICE PERFORMANCE
+
+|                                    | Dec. 31, 2022 | Dec. 29, 2023 | Change | Year High | Year Low  |
+|------------------------------------|---------------|---------------|--------|-----------|-----------|
+| Fresenius Medical Care Shares in € | 30.57         | 37.96         | +24%   | 49.33     | 30.25     |
+| Fresenius Medical Care ADRs in \$  | 16.34         | 20.83         | +27%   | 27.56     | 16.11     |
+| Dow Jones Industrial Average       | 33,147        | 37,690        | +14%   | 37,710.10 | 31,819.14 |
+| MDAX                               | 25,118        | 27,137        | +8%    | 29,808.91 | 23,772.02 |
+| STOXX Europe 600 Health Care       | 997           | 1,061         | +6%    | 1,101.01  | 974.63    |
+
+#### C 1.4 INDEX AND SHARE PRICE PERFORMANCE INDEXED, JANUARY 1, 2023 – DECEMBER 31, 2023 (DECEMBER 31, 2022 = 100), IN%
+
+Image /page/22/Figure/10 description: This line graph compares the stock performance of Fresenius Medical Care shares (€), Fresenius Medical Care-ADRs (\$), Dow Jones Industrial Average, MDAX, and STOXX Europe 600 Health Care over the course of a year, divided into quarters Q1, Q2, Q3, and Q4, and months from January to December. The y-axis represents the stock value, ranging from 80 to 180. The Fresenius Medical Care shares (€) line starts around 100 in January, rises to a peak of about 165 in June, then declines sharply to around 105 in October, before recovering to approximately 125 by December. The Fresenius Medical Care-ADRs (\$) line begins near 100, peaks around 160 in June, drops to about 100 in October, and ends near 130 in December. The Dow Jones Industrial Average fluctuates between 100 and 110 throughout the year. The MDAX line starts around 100, rises to about 115 in March, and then generally declines to around 100 by December. The STOXX Europe 600 Health Care line starts near 100, peaks around 120 in March, and ends near 115 in December. The source of the data is Bloomberg data, with own calculations.
+
+as to strengthen the role of minority shareholders. At the Extraordinary General Meeting on July 14, 2023, the Company's shareholders overwhelmingly approved the change of legal form and elected representatives of the shareholders to the new supervisory board. The change of legal form became effective with its registration in the commercial register on November 30, 2023.
+
+During a virtual Capital Markets Day in April 2023, Fresenius Medical Care announced new medium-term financial targets. These include improving the operating income margin from 7.9% in 2022 to 10-14% in 2025, as well as doubling the return on invested capital (ROIC) by 2025. The transformation program FME25, initiated in 2021 and expanded at the beginning of the year, along with an operational turnaround, are expected to significantly contribute to achieving these goals.
+
+During the past fiscal year, significant personnel changes were also initiated in the management board. In July 2023, the Company announced that Helen Giza, who has been serving as CEO since December 2022, would transfer the additional interim responsibility of CFO to the new Chief Financial Officer, Martin Fischer, effective October 1, 2023. Additionally, it was announced at the end of October that Craig Cordola would become a new board member for the global service business Care Delivery starting January 1, 2024.
+
+These changes, measures, and financial targets were overall welcomed by the capital market. Supported by a positive earnings development and visible progress in the implementation of the turnaround plans, Fresenius Medical Care AG's share reached its yearly high of €49.33 in July 2023.
+
+News regarding therapy options for patients with chronic kidney disease led to temporary strong pressure on the share price later in the year. For instance, on October 10, 2023, Novo Nordisk announced that the ongoing Semaglutide study (FLOW) for patients with type 2 diabetes and chronic kidney disease would be terminated early due to demonstrated effec-
+
+## Page 24
+
+Image /page/23/Figure/0 description: This image shows the header of a document. On the left, there is the number 24, followed by the text "FRESENIUS MEDICAL CARE 2023". To the right of that, there are several categories: "TO OUR SHAREHOLDERS", "GROUP MANAGEMENT REPORT", "NON-FINANCIAL GROUP REPORT", "CORPORATE GOVERNANCE", "CONSOLIDATED FINANCIAL STATEMENTS", and "FURTHER INFORMATION". On the far right, there is a menu icon and a search icon.
+
+Image /page/23/Figure/1 description: This figure is a line graph titled "INDEX AND SHARE PRICE PERFORMANCE IN A 27-YEAR COMPARISON WITH DIVIDENDS REINVESTED, INDEXED, JANUARY 1, 1997 – DECEMBER 31, 2023 (DECEMBER 31, 1996 = 100), IN %." The x-axis shows the years from 1998 to 2024. The y-axis shows the values from 0 to 1,400. There are five lines on the graph, representing "Fresenius Medical Care shares (€)," "Fresenius Medical Care-ADRs (\$)," "Dow Jones Industrial Average," "MDAX," and "STOXX Europe 600 Health Care."
+
+#### C 1.6 DEVELOPMENT OF THE DIVIDEND IN €
+
+Image /page/23/Figure/3 description: The image is a line graph showing data from 2003 to 2023. The y-axis ranges from 0.2 to 1.4. The data points are as follows: 2003: 0.34, 2004: 0.37, 2005: 0.41, 2006: 0.47, 2007: 0.54, 2008: 0.58, 2009: 0.61, 2010: 0.65, 2011: 0.69, 2012: 0.75, 2013: 0.77, 2014: 0.78, 2015: 0.80, 2016: 0.96, 2017: 1.06, 2018: 1.17, 2019: 1.20, 2020: 1.34, 2021: 1.35, 2022: 1.12, 2023: 1.19.
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+tiveness. The anticipated effectiveness of the drug group known as GLP-1 analogs led many capital market participants to assume that there could be a long-term decrease in the number of dialysis patients. However, based on the available clinical and medical data, Fresenius Medical Care believes that the impact of this drug group on long-term organic treatment growth will remain neutral.
+
+In November, two increases in the earnings outlook for the year 2023 underscored the Company's continuous efforts and progress:
+
+The positive effects of the turnaround measures, an accelerated improvement in operational performance in the first nine months of 2023, and a solid business outlook for the fourth quarter of 2023 led to the first increase in the earnings outlook on November 1.
+
+On November 21, the second increase in the earnings outlook followed as a result of a favorable legal settlement with the U.S. government, which resulted in a positive net impact on revenue of approximately €191 M and operating income of approximately €181 M.
+
+The share ended the year on the last trading day, December 29, 2023, with an Xetra closing price of €37.96. This represents a share price increase of +24% compared to the last closing price of 2022.
+
+For further information on share price and index development, refer to [Tables 1.3](#page-22-0) and [1.](#page-26-0)10, as well as [Charts 1.](#page-21-0)2, [1.4](#page-22-0), and 1.5.
+
+<sup>1</sup> Proposal to be approved by the Annual General Meeting on May 16, 2024.
+
+## Page 25
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+# Fresenius Medical Care American Depositary Receipts (ADRs)
+
+Fresenius Medical Care shares are listed on the New York Stock Exchange as American Depositary Receipts (ADRs). The performance of the ADRs is essentially tied to that of Fresenius Medical Care shares, taking into account the exchange rate development of the euro to the US dollar. More than half of the combined trading volume in 2023, measured by the total number of shares traded, was attributed to ADRs. Two ADRs represent one share.
+
+# Dividend
+
+According to the dividend policy, the payout is aligned with the Company's earnings development. The management board and supervisory board will propose a dividend of €1.19 per share to shareholders at the annual general meeting on May 16, 2024. This represents an increase of 6% compared to the previous year.
+
+With 293.4 M dividend-eligible shares (as of December 31, 2023), the total payout would amount to €349 M; the payout ratio in relation to the group's net income for the year 2023 would be approximately 70% (2022: approximately 49%). Based on the dividend proposal and the closing price of 2023, the dividend yield of the shares would be 3.1% (2022: 3.7%). Fresenius Medical Care remains committed to its demanding goal of creating value for its shareholders.
+
+# Shareholder structure
+
+In our analysis of the shareholder structure as of December 31, 2023, approximately 93% of the free float could be attributed to their respective owners (see Tables 1.7 and 1.8). Accordingly, the largest shareholder, Fresenius SE & Co. KGaA, continues to hold approximately 94.4 M of the total approximately 293.4 M outstanding Fresenius Medical Care shares. This corresponds to a stake of 32.2%. Additionally, 13 institutional investors were identified as holding at least 1% of the share capital.
+
+587 institutional investors hold shares of Fresenius Medical Care according to the latest analysis. The largest 20 of them account for approximately 66.0% of the identified free float, excluding the stake of Fresenius SE & Co. KGaA (previous year: 60.5%). 66.6% of the institutional free float as of December 31, 2023, was held by investors from the United States. 11.2% were from the United Kingdom. 3.8% of the institutional free float could be identified in Germany, 3.8% in France, and another 5.2% in Canada.
+
+#### T 1.7 NUMBER OF IDENTIFIED SHARES AS PER SHAREHOLDER STRUCTURE ANALYSIS ROUNDED IN M
+
+|                                                         | Number<br>of shares | in % |
+|---------------------------------------------------------|---------------------|------|
+| Number of shares outstanding<br>as at December 31, 2023 | 293.41              | 100  |
+| Identified shares                                       | 279.16              | 95   |
+| Unidentified shares                                     | 14.26               | 5    |
+| Shares in free float                                    | 199.03              | 68   |
+| Identified shares in Free Float                         | 184.78              | 93   |
+| Unidentified shares in free float                       | 14.26               | 7    |
+| FRESENIUS SE                                            | 94.38               | 32   |
+
+#### T 1.8 GEOGRAPHICAL DISTRIBUTION OF INSTITUTIONAL FREE FLOAT ROUNDED IN M
+
+|                                      | Dec. 2023           |      | Dec. 2022           |      |
+|--------------------------------------|---------------------|------|---------------------|------|
+|                                      | Number<br>of shares | in % | Number<br>of shares | in % |
+| United States                        | 120.5               | 67   | 118.0               | 66   |
+| United Kingdom                       | 20.2                | 11   | 15.6                | 9    |
+| Germany                              | 6.9                 | 4    | 9.0                 | 5    |
+| Canada                               | 9.4                 | 5    | 7.4                 | 4    |
+| France                               | 6.9                 | 4    | 7.2                 | 4    |
+| Rest of Europe                       | 10.9                | 6    | 14.3                | 8    |
+| Rest of World                        | 6.2                 | 3    | 7.7                 | 4    |
+| REGIONALLY<br>ATTRIBUTABLE<br>SHARES | 181.0               | 100  | 179.2               | 100  |
+
+# Voting rights notifications
+
+According to received notifications, as of the end of 2023, a total of three shareholders, in addition to Fresenius SE & Co. KGaA, each held more than 3% of the voting rights in Fresenius Medical Care.
+
+All voting rights notifications in accordance with sections 33, 38, and 39 of the Securities Trading Act (WpHG) are published on our website at [https://www.freseniusmedicalcare.com/en/](https://www.freseniusmedicalcare.com/en/home/mainnavigation/investors/notification-of-voting-rights) [home/mainnavigation/investors/notification-of-voting-rights](https://www.freseniusmedicalcare.com/en/home/mainnavigation/investors/notification-of-voting-rights).
+
+## Page 94
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 〇
+
+#### <span id="page-93-0"></span>C 3.2 SUSTAINABILITY IMPACT
+
+#### Environment
+
+- We reduced our Scope 1 and Scope 2 emissions by 16% compared with 2020.
+- Energy management system were installed in more than 1,100 of our U.S. clinics.
+- We expanded our global water stress-related assessment coverage of our sites by 28%.
+
+#### Social
+
+- We provided treatments to more than 332,000 patients and home therapy to around 31,000 patients.
+- 78% of our patients would highly recommend our services.
+- The share of women in the top two management levels below Management Board increased to 34%.
+
+#### Governance
+
+- Nearly 94% of employees completed compliance training.
+- More than 116,000 employees participated in data privacy trainings.
+- More than 50% of internal audits included topics related to human rights.
+
+# Global targets
+
+ We set global targets to measure value creation and progress of our sustainability performance along the value chain. Our global environmental, social and governance targets support three focus areas: Enhancing our quality of care and access to health care, building the best team to serve patients, and reducing our environmental footprint (see [CHART 3.3](#page-94-0) on page 95).
+
+To embed sustainability as an important performance indicator in implementing our strategy, Management Board compensation is also linked to our sustainability -related progress. For 2023, the Supervisory Board defined three sustainability targets as a short-term incentive: patient satisfaction, em ployee satisfaction and developing a measurable sustainability assessment of the Company's product and service portfolio.
+
+Patient satisfaction was determined using the Net Promoter Score (NPS). The NPS measures patient satisfaction with the Company's health care services on the basis of patient surveys. Employee satisfaction was measured using the employee engagement index, which is based on a Group-wide survey to evaluate feedback from our employees. The sustainable portfolio assessment target is in line with our goal of carrying out an assessment of the sustainability performance of our relevant product and service portfolio by 2026.
+
+In 2024, the Supervisory Board will submit a fully reviewed and revised system for the compensation of the Management Board. It is intended to include sustainability as a performance target for the long-term incentive plan.
+
+More information on sustainability in the compensation system and the 2023 targets included in the short-term incentive plan can be found in the Com pensation Report starting on page 155. Detailed information relating to the targets and their progress, can be found in the sections on "Patients" starting on page 101 and 102 as well as "Employees" starting on page 109.
+
+Throughout the year, we monitored regulatory changes to sustainability management and reporting. In the context of the new EU Corporate Sustainability Reporting Directive (CSRD), a project team was set up to prepare for implementing the extended reporting requirements. The goal of the project is to educate topic owners within the Company on the upcoming requirements, facilitate communication and support the establishment of auditable processes for new KPIs that will be reported on in the coming years.
+
+Our business activities touch upon several UN Sustainable Development Goals (SDGs). In line with our corporate vision and business model, we particularly contribute to SDG 3, which aims to achieve healthy lives and promote well-being. In addition, we seek to make meaningful contributions to SDG 4 (Quality Education), SDG 8 (Decent Work and Economic Growth), and SDG 12 (Responsible Consumption and Production).
+
+More information on our strategy can be found in the "Corporate strategy and objectives" section of the Group Management Report starting on page 35.
+
+## Page 95
+
+#### <span id="page-94-0"></span>TO OUR 95 FRESENIUS MEDICAL CARE 2023 TO OUR SHAREHOLDERS GROUP MANAGEMENT REPORT NON-FINANCIAL GROUP REPORT CORPORATE GOVERNANCE CONSOLIDATED FINANCIAL STATEMENTS FURTHER INFORMAT GROUP [NON-FINANCIAL](#page-91-0) CORPORATE CONSOLIDATED FRESENIUS MEDICAL CARE 2023
+
+FURTHER [INFORMATION](#page-314-0)
+
+C 3.3 GLOBAL SUSTAINABILITY TARGETS
+
+| Strategic focus areas                                   |                                              | Global targets                                                                                                                                                              | Progress in 2023                                                                                                                   |                                                                                |
+|---------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Enhance quality of<br>care and access to<br>health care | Patient experience (p. 102)                  | Achieve a patient Net Promoter Score of at least 70 (annual target)                                                                                                         | Net Promoter Score of 72                                                                                                           |                                                                                |
+|                                                         | Product safety and quality (p. 106)          | Keep global key performance indicator for critical and major audits<br>findings below 1.0 (annual target)                                                                   | Audit score of 0.4                                                                                                                 |                                                                                |
+|                                                         | Access to treatments (p. 103)                | Perform 25% of dialysis treatments in the U.S.<br>in a home setting by 2027*                                                                                                | 16% of treatments in the U.S. performed in home setting                                                                            |                                                                                |
+| Build the best team<br>to serve patients                | Employee engagement (p. 110)                 | Achieve an Employee Engagement Score of at least 63% by 2027                                                                                                                | Employee Engagement Score of 55%                                                                                                   |                                                                                |
+|                                                         | Diversity, equity, and inclusion<br>(p. 111) | Achieve proportion of women in leadership positions by 2027:<br>> 35% in the first level below the Management Board<br>> 45% in the second level below the Management Board | At the end of 2023:<br>> 24% in the first level below the Management Board<br>> 36% in the second level below the Management Board |                                                                                |
+|                                                         |                                              | Increase the representation of ethnically diverse managers in the<br>U.S. year over year by 2030                                                                            | At the end of 2023, 32% of U.S. managers were ethnically diverse                                                                   |                                                                                |
+|                                                         | Compliance (p. 120)                          | Train at least 90% of employees on our Code of Ethics<br>and Business Conduct (annual target)                                                                               | Almost 94% of employees trained on our Code of Ethics and<br>Business Conduct                                                      |                                                                                |
+| Reduce our<br>environmental<br>footprint                | Emission reduction (p. 116)                  | By 2030, reduce our Scope 1<br>and Scope 2 emissions by 50%<br>as compared with 2020                                                                                        | Achieve climate neutrality for<br>Scope 1 and Scope 2 emissions<br>by 2040                                                         | Scope 1 and Scope 2 emissions footprint reduction of 16%<br>compared with 2020 |
+|                                                         | Resource efficiency (p. 118)                 | Develop sustainable water plans for sites in extreme water stress<br>areas by 2026                                                                                          | We expanded our global water stress-related assessment coverage<br>of our sites by 28%                                             |                                                                                |
+|                                                         | Sustainable portfolio (p. 105)               | Implement sustainability performance assessment of our relevant<br>product and services portfolio by 2026                                                                   | Assessment methodology developed; nearly 60% of revenue<br>assessed and 99% of our locations and 17 product types reviewed         |                                                                                |
+
+## Page 96
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+The 2023 materiality assessment confirmed the material topics from the previous full materiality assessment, conducted in 2019 as well as the annual materiality reviews. The topic of resource use and circularity was added as new material topic. The outcome of the assessment reflects our stable business model and business scope. Changes in material topics are primarily related to strategic priorities, our progress in
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+Material topics
+
+Managing our sustainability impacts as well as sustainabilityrelated risks and opportunities starts with understanding which sustainability topics matter most to our business and our stakeholders. In 2023, we conducted a full materiality assessment (see CHART 3.4).
+
+#### C 3.4 OVERVIEW OF MATERIAL TOPICS
+
+Image /page/95/Picture/10 description: The image shows a blue icon with a white globe in the center. Two leaves are below the globe, and a hand is holding the globe from the bottom.
+
+#### Climate change
+
+- Energy
+- Climate change mitigation
+- Climate change adaptation
+
+Image /page/95/Picture/15 description: The image contains a blue recycling symbol on a white background. The symbol is composed of three arrows forming a triangle, indicating the process of recycling.
+
+Resource use and circularity Water
+
+- Resources inflows
+- Resources outflows
+- Waste
+
+Image /page/95/Picture/20 description: The image shows a graphic of four blue hands arranged in a circular pattern. Each hand is oriented so that the fingers point towards the center of the circle, creating a sense of unity and collaboration. The hands are stylized and simplified, with a flat, two-dimensional design. The background is a plain, light color, which contrasts with the blue hands and makes them stand out. The overall impression is one of teamwork, cooperation, and support.
+
+#### Business ethics
+
+- Anti-bribery and anti-corruption
+- Anti-competitive behavior
+- Non-retaliation/Protection of whistle blowers
+- Political engagement and responsible lobbying activities
+
+Image /page/95/Picture/26 description: The image shows a group of blue stick figures at the top, followed by the text "Human rights and health equity" in blue.
+
+- Human rights
+- Occupational health and safety
+- Health equity
+
+company-wide sustainability management as well as shifts in societal and regulatory expectations of companies.
+
+Our materiality assessment fulfills the German Commercial Code (Handelsgesetzbuch, HGB) requirements. It was also conducted to prepare for the requirements laid out in the CSRD. To this end, we applied the key principles of double materiality: We considered both our impact on people and the environment (impact materiality) as well as sustainabilityrelated risks and opportunities that may affect our business (financial materiality) over the short, medium and long term as well as along our entire value chain. We identified negative and positive, actual and potential impacts of our business activities on people and the environment.
+
+We compiled an initial list of more than 180 topics and subtopics including our existing list of topics and input provided by internal subject matter experts. We also reviewed and considered topics from external sources. These included the CSRD requirements, ratings and rankings, trend and media analyses, other reporting standards like those of the Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB), the Task Force on Climate-related Financial Disclosures (TCFD), and the EU Taxonomy requirements as well as stakeholder requests.
+
+Materiality thresholds were defined to evaluate the impact and financial materiality of the topics. In line with our risk management framework, we considered financial sustainability opportunities and potential risks, that may affect our business, as well as the aspects in accordance with § 289c of the German Commercial Code. A detailed description of risks and opportunities can be found in our "Risk and Opportunities Report" (page 69).
+
+In a series of assessments and workshops involving senior management from the business segments and global functions, 25 topics clustered into ten groups were identified
+
+Employer attractiveness and equal opportunity Equal treatment and
+
+- opportunity for all
+- Employer attractiveness
+- Employee engagement
+- Working conditions
+
+Image /page/95/Picture/40 description: The image shows a blue heart with a white handprint inside. The heart is a light blue color, and the handprint is white. The background is a light gray color.
+
+Quality of care
+
+- Patient experience
+- Quality of care
+
+Image /page/95/Picture/44 description: The image shows a blue icon with an arrow pointing up and to the right, emerging from a point where two horizontal lines converge. A magnifying glass is superimposed over the arrow, suggesting a focus or search aspect.
+
+Innovation and R&D Innovation and R&D Bioethics
+
+Image /page/95/Picture/46 description: The image shows a blue padlock icon on a white background. The padlock is closed, indicating security or privacy.
+
+Information security and data protection
+
+- Information security
+- Data protection
+
+Image /page/95/Picture/50 description: The image shows a blue icon of a person sitting in a dental chair with dental equipment next to them. The person is reclined in the chair, and the dental equipment has a screen and a hose.
+
+**Product**
+
+Product stewardship
+
+er
+
+## Page 97
+
+Image /page/96/Figure/0 description: The image shows the title of a document. The number 97 is on the left side of the image. The text "FRESENIUS MEDICAL CARE 2023" is next to the number 97. The text "TO OUR SHAREHOLDERS" is next to the text "FRESENIUS MEDICAL CARE 2023". The text "GROUP MANAGEMENT REPORT" is next to the text "TO OUR SHAREHOLDERS". The text "NON-FINANCIAL GROUP REPORT" is next to the text "GROUP MANAGEMENT REPORT". The text "CORPORATE GOVERNANCE" is next to the text "NON-FINANCIAL GROUP REPORT". The text "CONSOLIDATED FINANCIAL STATEMENTS" is next to the text "CORPORATE GOVERNANCE".
+
+OLIDATED
+ICIAL STATEMENTS
+
+FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+#### C 3.5 SUSTAINABILITY GOVERNANCE
+
+Image /page/96/Figure/5 description: The image shows an organizational chart. The first level is "Oversight" which connects to "Supervisory Board". The second level is "Accountability and decision making" which connects to "Management Board" and "Corporate Sustainability Committee". The third level is "Steering and implementation" which connects to "Global Sustainability Department", "Human Rights Office", "Business Segments and Global Functions", "Cross-functional Project Steering Committees", "Expert Networks", and "Project Teams".
+
+aspects and projects that require broader senior leadership guidance. The former Sustainability Decision Board is no longer part of the new governance.
+
+The Supervisory Board deliberates on sustainability matters in its general board meetings as well as meetings of the Audit Committee. It reviews the progress of our sustainability management, which is then published in the separate Nonfinancial Group Report.
+
+The Global Sustainability department drives our strategic sustainability activities and manages initiatives in close cooperation with the relevant teams from the business segments and global functions. The Global Head of Sustainability provides regular updates to the Management Board and the Supervisory Board on the progress and status of target achievement. Formal cross-functional project steering committees, project teams and expert networks support the implementation of sustainability projects. The Corporate Risk Committee analyzes and discusses sustainability risks as part of our enterprise risk management. The results are compiled twice a year and communicated to the Management Board.
+
+# Risk and opportunity management
+
+We monitor and assess sustainability risks as part of our business processes and enterprise risk management. Our risk assessment is based on a catalogue of potential non-financial risks, which is reviewed about twice a year. In accordance with the German Commercial Code, we report on known severe risks in our value chain (upstream, own operations and downstream), business relationships, products, or services that are very likely to occur and would have a severe negative impact on material sustainability topics. We did not identify any material non-financial risks of this kind in the reporting year.
+
+and validated as material topics. The results were discussed and validated by the Management Board.
+
+# Sustainability governance
+
+Following the successful conclusion of our Global Sustainability Program and in the context of our FME25 transformation program, we have adjusted our sustainability governance
+
+(see CHART 3.5). The new governance reflects the changing requirements when it comes to integrating sustainability into our strategy and business globally. Accountability and decision-making lie with the Management Board, supported by the Corporate Sustainability Committee (CSC). The CSC comprises senior representatives nominated by the Management Board for the business segments and global functions. The Management Board takes decisions on strategic initiatives, while the CSC is responsible above all for operational
+
+## Page 98
+
+FRESENIUS 98 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+We are continuously monitoring and increasing the granularity of our risk assessment to better understand how our business operations impact the environment and vice versa. We use external and internal data to evaluate our impact on climate change, water stress and consumption of resources as well as how these factors pose a risk for our business. In 2023, we implemented a process to include our sustainability opportunity assessment as part of our central risk management system. Risks and opportunities were also considered in the course of our materiality analysis.
+
+Our sustainability risk management approach involves assessing the impact of our business activities on potentially affected stakeholder groups as well as on the environment. This factor has been incorporated in our risk management system and risks are reviewed on an annual basis. Following a detailed global human rights risk assessment in 2022, we conducted around 20 country and site-level assessments during the reporting year. These provided us with insights on previously identified focus areas and stakeholders.
+
+To evaluate the impact of physical and transition risks on our business model in connection with climate change, we initiated a physical climate scenario analysis. We plan to continue conducting a transition risk assessment in 2024 to evaluate risks related to our management of the transition to renewable energy and climate neutrality. In addition, we are reviewing potential impacts, risks and opportunities related to biodiversity and pollution. We also continued to integrate the recommendations of the TCFD into our enterprise risk management approach.
+
+More information on our enterprise risk management system can be found in the "Risk and Opportunities Report" section of the Group Management Report starting on page 69. More information on our risk assessment on human and labor rights can be found in the "Human Rights" section starting on page 126, and the "Supplier Management" section starting on page 125.
+
+# Stakeholder inclusion
+
+As a company with global operations, our business activities affect many stakeholder groups. These include our patients, employees, shareholders as well as the communities in which we work. Representatives from academia, politics, media, and international organizations are also important interest groups. Communicating with relevant stakeholders is essential to understand their expectations of our company. It is also an important part of building trust and reliable partnerships and helps us to share and gain knowledge, thereby promoting scientific progress.
+
+ In the reporting year, we continued to participate in several expert groups such as Kidney Care Partners and the Dialysis Patient Citizens in the U.S. We also engaged with political stakeholders and government offices, including the Government Accountability Office and the Congressional Black and Hispanic Caucuses in the U.S. In 2023, we engaged in close to 500 conversations with investors on sustainability topics such as the environment, our sustainability strategy, and governance matters, especially in the context of the change in legal form. Over 150 of these focused solely on labor-related topics.
+
+ We are subject to a wide range of legislative and regulatory processes that affect our business. Therefore, we periodically take part in policy discussions and collaborate with third parties as part of our lobbying efforts. Our principles in relation to these activities are stated in our Code of Ethics and Business Conduct. They provide the basis for our political dialogue in compliance with applicable laws and regulations. These principles also apply to our interactions with associations. We published a position paper on political engagement and advocacy. In the U.S., we have a Political Action Committee in place which gives eligible U.S. employees the opportunity to participate voluntarily in public policy advocacy that impacts our business and patients.
+
+To understand customers' changing requirements globally and adapt our product and service offering, we conducted an analysis with internal experts across key markets. The results will inform the development of our products and services portfolio and influence how we offer our services. We also held our first virtual sustainability summit for internal stakeholders in the reporting year. During the event, the Company's sustainability community had the opportunity to learn about the progress of key projects and strategies.
+
+Our corporate citizenship strategy was modified in 2023 in line with our business strategy and new organizational structure. A global Corporate Citizenship Committee was established to approve activity planning and donations. The new strategy focuses our activities on donations linked to kidney care and kidney disease. Through our support for different initiatives, we aspire to expand access to health care and support health equity, engage in medical education as well as reduce our environmental footprint.
+
+More information on our collaboration with research and innovation partners can be found in the "Research and development" section of the Group Management Report starting on page 43. For information about our dialogue with employee representatives, see the "Employees" section starting on page 109. For information on how we collaborate to improve health care, see our "Patients" section starting on page 101.
+
+98
+
+## Page 99
+
+GROUP
+OLDERS MANAGER
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ 〇
+
+# EU Taxonomy
+
+We report on our economic activities in accordance with the EU Taxonomy Regulation (EU Taxonomy) for sustainable activities. In 2022, we reported on the taxonomy-eligible and taxonomy-aligned shares of economic activities that potentially make a substantial contribution to climate change mitigation and climate change adaptation as defined in the Climate Delegated Act of the regulation. In June 2023, the EU Commission published the new Environmental Delegated Act covering additional environmental objectives, pollution prevention and control, among others.
+
+It is important to emphasize that the delegated acts of the EU Taxonomy, the respective annexes as well as the supplementary publications contain wording, definitions, and requirements which leave room for interpretation. As a result, our conclusions might be subject to change over time due to standardized interpretations and new publications by the EU Commission.
+
+#### Methodology
+
+In 2023, we conducted an impact analysis of our operations for all newly published economic activities to assess whether one or more of our economic activities are eligible for EU Taxonomy reporting. An economic activity is considered taxonomy-eligible if it meets the definition in one of the annexes of the EU Taxonomy. The conclusions of the impact analysis were verified by experts in our business areas.
+
+This analysis outcome results in a change in our EU Taxonomy reporting. Previously, our revenue-generating business activities were not covered by the climate-related environmental objectives. Medical services including our dialysis care delivery and medical devices, which together make up the majority of our business, are currently not considered by the EU Taxonomy. Even though our core business activities are still not covered by the regulation, in this year's reporting we are able to disclose taxonomy-eligible revenue, capital expenditures (Capex) and operating expenditures (Opex) for the production of medicinal products. Under the environmental objective of pollution prevention and control, for example, some of the dialysis solutions we produce are considered medicinal products. The alignment assessment for this activity considered eligible under the new Environmental Delegated Act, will be reported in the 2024 Non-financial Group Report according to the regulatory timeline.
+
+We also re-evaluated our reporting on construction and realestate activities, compared with our EU Taxonomy reporting in 2022. Due to the nature of our business model, our construction and real-estate activities are focused on the provision of health care. Accordingly, we carefully analyze on a case-bycase basis if the buildings meet the specific requirements for our operations, their accessibility and business continuity, which includes a preference for long-term leases. Thereby, we only have limited control over energy efficiency and other building characteristics related to greenhouse gas (GHG) emissions. Consequently, we regard construction and real-estate activities as individual measures, which are not primarily intended for GHG reductions and no longer report them as eligible under Capex C. This change in reporting also reflects the fact that business activities in the health care industry are currently not a focus of the EU Taxonomy. Nevertheless, we will continue to monitor potential opportunities to reduce GHG in connection with our building activities.
+
+In the reporting year, activities relating to energy efficiency equipment, energy performance devices and renewable energy technologies are included in the reporting scope. By definition, they pertain to GHG emission reductions. Please refer to the chapter "Reducing our carbon footprint" on page 116 of the Non-financial Group Report for information on the implementation of energy management systems and the installation of solar panels. The eligible activities described above contribute to climate change mitigation and are  therefore reported under this environmental objective. We do not disclose any taxonomy-eligible activities that specifically contribute to climate change adaptation under this environmental objective. We did not generate revenue from taxonomy-eligible activities relating to climate change adaption, nor did we identify any related Capex or Opex. The individual measures described in the technical screening criteria make a substantial contribution to this climate objective. However, as we are still preparing the required climate risk and vulnerability assessments, there is currently insufficient evidence that the individual measures fulfill the criteria for doing no significant harm to other environmental objectives. Therefore, in 2023, we cannot report our activities relating to energy efficiency equipment, energy performance devices and renewable energy technologies as being taxonomy-aligned.
+
+#### Key Performance Indicators
+
+The EU Taxonomy defines three KPIs that must be disclosed: the proportion of taxonomy-eligible and taxonomy-aligned shares of revenue, Capex, and Opex. Key information pertaining to each KPI is summarized below (see [TABLE 3.6](#page-99-0) on page 100). We calculated the three KPIs based on the figures in our financial reporting system, which ensures reconciliation with the corresponding items in the consolidated financial statements. Regarding the shares of our business activities that are taxonomy-eligible and taxonomy-aligned, we identified all relevant revenues, Capex, and Opex and allocated them accordingly. By doing so, we ensure that our revenue, Capex and Opex are not considered more than once.
+
+#### Revenue
+
+For the first time, part of our product portfolio is covered by the regulatory scope of the EU Taxonomy. The eligible revenue consists of sales to external customers of dialysis solutions
+
+## Page 100
+
+<span id="page-99-0"></span>FRESENIUS 100 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP
+
+[MANAGEMENT REPORT](#page-28-0) GROUP REPORT
+
+[NON-FINANCIAL](#page-91-0) CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) [INFORMATION](#page-314-0)
+
+FURTHER
+
+that are classified as medicinal products, and is compared to total revenue (see [table 5.1](#page-197-0) on page 198).
+
+#### Capex
+
+The EU Taxonomy distinguishes between three types of Capex: Capex A refers to assets and processes related to taxonomy-eligible economic activities. Our investments, for example in machines used for the manufacturing of eligible medicinal products, are therefore reported under Capex A. Expenditures are allocated to the respective eligible product on product line and site level. Capex B includes investments in assets and processes that are covered by a Capex plan, and is currently not considered of relevance for medicinal products in scope of our Taxonomy reporting. Capex C refers to the purchase of output or individual measures that enable greenhouse gas reductions. Individual measures relating to energy efficiency equipment, energy performance devices and renewable energy technologies are reported as taxonomyeligible Capex C. In 2022, Capex C also included construction and real-estate activities, which are not covered in 2023. Due to the updated Capex C reporting, Capex was 0.3% in 2023 (2022: 0.2%).
+
+#### Opex
+
+Corresponding to the Capex A to C definitions, Taxonomyeligible Opex, such as maintenance and repair-related expenditures for the manufacturing of medicinal products, is classified as Opex A. Opex is allocated to the respective eligible product for different product lines and sites. Similar to Capex B, Opex B is not relevant for us. In addition, Opex relating to energy efficiency equipment, energy performance devices and renewable energy technology measures is reported as taxonomy-eligible Opex C. In 2022, Opex C also included construction and real-estate activities, which are not covered in 2023. Due to the updated Opex C reporting, Opex T 3.6 CONTRIBUTION OF TAXONOMY-ALIGNED, TAXONOMY-ELIGIBLE BUT NOT ALIGNED, AND TAXONOMY NON-ELIGIBLE ECONOMIC ACTIVITIES TO TOTAL REVENUE, CAPEX, AND OPEX1 IN %
+
+| Key Performance Indicators    | Taxonomy-aligned | Taxonomy-eligible<br>but not aligned | Taxonomy non-eligible |
+|-------------------------------|------------------|--------------------------------------|-----------------------|
+| Revenue                       |                  | 1.5                                  | 98.5                  |
+| Medicinal products            |                  | 1.5                                  |                       |
+| Capex                         | 0.0              | 0.4                                  | 99.6                  |
+| Medicinal products            |                  | 0.1                                  |                       |
+| Energy efficiency equipment   |                  | 0.0                                  |                       |
+| Energy performance devices    |                  | 0.3                                  |                       |
+| Renewable energy technologies |                  | 0.0                                  |                       |
+| Opex                          | 0.0              | 2.3                                  | 97.7                  |
+| Medicinal products            |                  | 2.2                                  |                       |
+| Energy efficiency equipment   |                  | 0.1                                  |                       |
+| Energy performance devices    |                  | 0.0                                  |                       |
+| Renewable energy technologies |                  | 0.0                                  |                       |
+
+<sup>1</sup> For the full tables on revenue, Capex and Opex and the detailed KPI definitions, see page 128 of the Non-financial Group Report. The tables for nuclear energy and fossil gas are not included as we do not have relevant business activities in these areas.
+
+was 0.1% in 2023 (2022: 0.2%). In 2022, Opex C included expenditures relating to charging stations.
+
+#### Outlook
+
+In 2024, we will focus on assessing the alignment of medicinal products and whether eligible products make a substantial contribution to pollution prevention and control while doing no significant harm to the other environmental objectives. In addition, we will evaluate our compliance with the minimum safeguards. Furthermore, we plan to conduct climate risk and vulnerability assessments for our energy efficiency equipment, energy performance devices and renewable energy technology activities. We will continuously monitor the development of the EU Taxonomy and publications of the EU Commission.
+
+## Page 101
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0)
+
+CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+# <span id="page-100-0"></span>Patients
+
+# Progress
+
+- Patient Net Promoter Score improved to 72
+- Published 176 scientific research documents
+- Signed the global Zero Health Gaps Pledge to demonstrate commitment to advance health equity
+- Launched a Portfolio Sustainability Assessment to evaluate the global sustainability performance of our products and services
+
+Our patients' well-being is our top priority. As part of our commitment to delivering safe, high-quality health care to patients with kidney disease, we continually monitor the performance of our products and services. Our focus in doing so is on the quality, safety and accessibility of treatment, and on patient experience. We continuously invest in innovations and new technologies, and leverage insights from scientific research and cooperation with partners.
+
+The Global Medical Office led by our Global Chief Medical Officer drives our medical strategy and coordinates activities that contribute to the advancement of medical science and patient care. Medical and clinical insights identified by the Global Medical Office are reviewed by multiple stakeholders across the Company. These findings are published on a regular basis and shared with the medical community. Our Care Delivery organization works closely with the Global Medical Office to deliver the best possible treatment and thereby improve our patients' quality of life.
+
+# Quality of care
+
+Our commitment to continuously improve quality of care is included in our Code of Ethics and Business Conduct. Principles, responsibilities, and processes in connection with our medical strategy and quality measures, patient experience surveys, and patient grievance mechanisms are outlined in our Global Patient Care Policy. Responsibility for integrating the policy into our business operations lies with our interdisciplinary patient care teams across the globe.
+
+As one of the global leaders in providing life-saving dialysis treatments to patients, we operate in diverse health care systems. This requires us to navigate regulations, payment models, and operational frameworks for each market in which we treat patients. Navigating these differences is a key challenge to effectively and efficiently provide care and maintain compliance. This requires a deep understanding of local health policies and an ability to adapt care delivery models accordingly while maintaining high quality standards.
+
+We continually measure and assess the quality of care we provide in our dialysis clinics based on internationally recognized standards. These include those of the global non-profit " Kidney Disease: Improving Global Outcomes" (KDIGO) initiative, the U.S. National Kidney Foundation's Disease Outcomes Quality Initiative (KDOQI), and the European Renal Best Practice guidelines. We also consider industry-specific clinical benchmarks and set our own targets for patient care.
+
+#### Monitoring quality of care
+
+We evaluate medical indicators on an ongoing basis to measure the quality of care provided in our dialysis clinics. The global hospitalization rate measures the length of time a patient spends in hospital. This is an important indicator, as hospitalization reflects patients' medical complexity and impacts C 3.7 GLOBAL INDICATORS – QUALITY OF CARE
+
+#### Hospitalization Rate
+
+Days spent in hospital per patient per year
+
+#### Quality Index
+
+- Dialysis effectiveness: Measures how well the body is cleaned of waste substances
+- Vascular access: Measures the share of patients who do not receive dialysis via a dialysis catheter
+- Anemia management: Measures hemoglobin levels and specific medications given during dialysis
+
+health care payment systems and the medical infrastructure. It also impacts patient experience. If the hospitalization rate changes, we initiate an evaluation of the contributing factors and identify opportunities to improve the quality of care. In 2023, the global hospitalization rate was 10.6 days per patient, the same as in 2022.
+
+We use a quality index to manage our high standard of quality across the Care Delivery business segment. This indicator enables us to continuously measure and improve our quality of care on a global level. In 2023, our quality index score was 81%, the same as in 2022. We set country performance targets for vascular access, dialysis efficacy and anemia management based on local quality systems we have established. These targets consider the specific circumstances of local health care systems, the workforce and how we operate in these regions. Our quality improvement initiatives are based on annual assessments that reflect local needs and the dynamic environment of the health care market (see CHART 3.7).
+
+## Page 102
+
+FRESENIUS 102 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CONSOLIDATED CORPORATE [GOVERNANCE](#page-132-0)
+
+[FINANCIAL STATEMENTS](#page-196-0)
+
+FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+To further educate our medical community on quality improvements, we plan to set up a new global training program that will be piloted in the U.S. in 2024.
+
+#### Patient experience
+
+It is important to us that our patients feel comfortable and are satisfied with the care they receive. As part of our global patient experience program, we aim to conduct patient experience surveys at least every other year. We use the information collected to evaluate the services provided by our dialysis clinics and implement improvement plans.
+
+We are continually strengthening our efforts to improve patient education, service quality and individualized patient care. Based on the feedback from the patient surveys, we develop educational programs that help clinic staff inform their patients more comprehensively about health-related topics. Patient treatment education and engagement delivery is provided globally. Our regional and local teams of the Care Delivery segment are responsible for patient education and initiatives, including instructing patients according to their individual needs and medical outcomes. Our patients have access to information through various channels such as awareness campaigns, patient apps, posters, factsheets, and guides, as well as our website. Patient safety education covers topics such as infection prevention, emotional health, preventing falls, medication, and adhering to the prescribed treatment. To involve our patients more actively, we provide education on symptoms and possible complications so that they become aware and know how to prevent and detect complications.
+
+Achieve a Net Promoter Score of at least Annual Target
+
+Image /page/101/Picture/13 description: The image shows the number 70 in a large, bold, blue font against a light blue background.
+
+They also learn how to alert the care team. All patient education material is reviewed for suitability, readability, and appropriateness before being published.
+
+We measure patient experience in our dialysis clinics using the Net Promoter Score. The NPS reflects patients' overall satisfaction with our services and how well cared for and supported they feel. We have set ourselves a global target of achieving an NPS of at least 70 every year which is above the health care industry standard. In 2023, we were able to improve our 2022 NPS by one point to 72 globally. Our NPS threshold target demonstrates our aim to continuously attain excellent scores and improve patients' experience despite challenges such as staffing shortages. We also measure the share of patients that would recommend Fresenius Medical Care. In the reporting year, 78% of our patients answered in our survey that they would highly recommend our services. In addition to the NPS, we track survey coverage and response rates. In 2023, we achieved a response rate of 74% and a global coverage rate of 91% in line with our target of 75% or above.
+
+In addition to patient experience surveys, we provide patients and their representatives with other feedback channels. Patients can report grievances, make suggestions, or raise concerns anonymously if they wish. Our feedback channels include hotlines and email addresses, complaint and suggestion boxes, as well as a feedback form on our website. In 2023, we received 22,408 reports (2022: 23,011). We are committed to resolving issues in a timely manner. Our policies allow patients to file reports without fear of reprisal. We also provide training locally to support staff in following patient grievance guidelines. Refresher trainings that follow local and regional training guidelines are held yearly or every two years. A detailed description of our approach to handling complaints is available on our website.
+
+More information about handling complaints can be found in the "Compliance" section of this Non-financial Group Report starting on page 120.
+
+# Access to health care
+
+We are committed to improving access to health care and are working to provide affordable treatment to a growing number of patients worldwide. Our focus is on improving both access to care and level-of-care outcomes. Topics include barriers to access such as cost and ease of travel to our dialysis clinics, lack of education on kidney disease, and treatment options. We aim to increase the number of patients on home dialysis as well as those who receive kidney transplants. We also have crisis contingency processes in place so that patients have continued access to treatment during disaster and emergency situations.
+
+#### Health equity
+
+We believe that every patient, regardless of their ethnic origin or race, nationality, age, ability, gender identity, sexual orientation, religion, or socio-economic status, should be given equal opportunities and support to maintain and improve their health. Our Global Health Equity Statement outlines our commitment to expand our knowledge and services in ways that advance equity in care. To underline our commitment, we have signed the first global Zero Health Gaps Pledge – the first ever global, multi-sector, CEO-level pledge to help advance health equity launched by the Global Health Equity Network. As a signatory, we commit to carrying out meaningful action and collaboration toward health equity.
+
+As part of our efforts to build knowledge about health equity among health care providers, we developed and introduced education modules of social determinants of health (SDOH) in the U.S. in 2023. We recognize that non-medical factors that influence health outcomes are interlinked and have a direct impact on people's health. Providing education on SDOH is foundational to evolving our approach to person-centered care. The education modules differ by clinical role and are mandatory for employees with specific clinical responsibilities in the U.S.
+
+## Page 103
+
+# FRESENIUS 103 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0)
+
+CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+In 2023, our U.S. dialysis business piloted a program in the state of Illinois with the nation's leading social care network focused on patients' health-related social needs. As part of the pilot program, the social workers in dialysis clinics offered standardized screening for health-related social needs.
+
+One of the Group-wide initiatives undertaken this year involved a qualitative assessment of global perspectives on health equity. The Global Medical Office conducted interviews with participants in 17 countries across Asia-Pacific, Europe, Middle East and Africa and Latin America. The interviews identified gaps and opportunities to advance health equity in these regions.
+
+In 2024, we intend to establish a global governance for health equity and create a framework for the use of global data to identify health disparities. This updated approach accounts for organizational changes as a result of our transformation.
+
+# Supporting patients in underserved communities
+
+Our Corporate Citizenship activities focus on areas in which we as a health care company can contribute to society, such as health equity and access to health care, prevention and medical education. In the course of expanding the Kidney Kid program to the U.S. in 2023, we engaged over 26,000 youths in various programs on health education. Food security and access to healthy meals are important aspects for people with chronic kidney disease. To support high-risk, high-need populations, we partnered with the Food is Medicine Coalition (FIMC) in the U.S., an association of non-profit medically tailored meal providers, and contributed to its Food is Medicine Accelerator program.
+
+Demand for affordable health care products and services is growing in emerging markets. To facilitate access to dialysis treatment, we developed the 4008A dialysis machine series. These machines meet high therapy standards while reducing costs for health care systems. They are designed to be easy to handle and combine high-quality hemodialysis treatment with proven reliability and operational efficiency. Since 2019, the 4008A series has been successfully launched in nine emerging markets in Asia.
+
+#### Treatment options
+
+We treat patients across the full spectrum of chronic kidney disease. Our aim is to empower them to make informed decisions about the treatment options that best fit their unique circumstances. Home dialysis can provide patients with the opportunity for greater independence and control over their time and health outcomes. It also allows us to expand our health care capacity, increasing the number of patients that can receive dialysis treatment.
+
+As part of our ongoing approach to harmonize reporting and data, we adjusted our calculation methodology for global home patient data in 2023. U.S.-specific methodology for data on the number of home treatments performed and patients on home dialysis remains unchanged and is consistent with previous reporting.
+
+As of December 31, 2023, the number of our patients receiving dialysis at home worldwide was 31,258 (2022: 30,888), corresponding to 9% of our total patient base (2022: 9%). In the reporting year, 16% of treatments in the U.S. were performed in a home setting. Throughout the year, we educated new patients on home modalities. In the U.S., we informed over 57,000 people living with chronic kidney disease or end-stage kidney disease about their home dialysis options in 2023, with the support of more than 200 internal kidney care advocates. In the U.S., where we experience higher rates of home therapy adoption, we have launched health equity initiatives that focus on identifying barriers to home therapy and interventions with the aim of increasing patient success with this modality.
+
+Image /page/102/Figure/19 description: The image shows the word "Perform" in a smaller font size above the number "25%" in a larger font size. The text and number are in blue color.
+
+2027 Target
+
+of dialysis treatments in the U.S. in a home setting\* \* Target extended
+
+As the decision by patients to receive dialysis at home is influenced by numerous factors, achieving our aspirational goal of performing 25% of treatments in the U.S. in a home setting is expected to require more time. It may be delayed by 18 to 24 months. This is partly due to the pandemic, which lasted longer than expected, and the impact of a challenging situation on the labor market. We now aim to achieve our goal by 2027.
+
+In 2023, we initiated several projects in the U.S. to streamline ways in which we provide our services. We evaluated our services according to different criteria: adherence to treatment, patient admissions and referrals, accessibility for patients, medication and pharmacy options. These initiatives aim to improve patient edu cation, reduce the number of missed treatments, provide convenient channels for medication management, and retain new patients. We also worked with the Medical Education Institute, a U.S.-based NGO, to roll out its My Kidney Life Plan program to Germany and Sweden. The program helps people living with chronic kidney disease to learn about the different treatment options and choose the treatment that best fits their lifestyle and conditions.
+
+In 2023, Fresenius Medical Care conducted the CONVINCE trial together with the CONVINCE consortium led by the University Medical Center Utrecht. The study demonstrated that the mortality rate among kidney patients can be significantly reduced with high-volume hemodiafiltration (HDF) technology. As one of the leading providers of dialysis
+
+## Page 104
+
+# FRESENIUS 104 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+IDATED
+AL STATEMENTS
+FULL
+IN
+
+FURTHER [INFORMATION](#page-314-0)
+
+☰ 〇
+
+products, we aim to explore ways to encourage the adoption of hemodiafiltration and make this therapeutic option accessible to patients in countries where it is currently not available, such as in the U.S.
+
+# Improving access to kidney transplantation
+
+Kidney transplantation is the treatment of choice for most patients with advanced chronic kidney disease and end-stage renal disease. Our Head of Transplantation Medicine leads our worldwide efforts to improve access to transplantation for our patients. In 2023, we completed the initial rollout of our Referral Ready IT platform in our U.S.-based clinics. This platform provides our clinic staff with a simple tool to compile a complete transplant referral with nearly 170 different data points. The platform also securely transmits the referal to appropriate transplant centers. Designed together with transplant professionals, the Referral Ready platform has delivered referrals to nearly 200 transplant centers in the U.S. Since its rollout in April 2023, we have registered a significant increase in the number of referrals compared to 2022. Cumulatively, from January to December 2023 we observed an increase in new referrals of 42% compared to the same time period in 2022.
+
+#### Crisis and emergency response
+
+We provide access to health care even under challenging circumstances, for example, in the case of health crises or natural disasters. This is a core part of our commitment to patients. We have clinics all over the globe and must be prepared to adapt to different environmental, geographic, social, and economic conditions. These clinics serve a vulnerable population of patients who need dialysis treatment several times a week. To allow us to continue treating our patients in challenging situations, we have reorganized our emergency response to support the Company's new operating model. To this end, we have implemented a Global Incident and Crisis Response (ICR) Committee comprising country teams for an immediate response at a local level.
+
+In order to be ready in times of emergency, we regularly test our emergency response procedures and assess our service safety. The support we provide includes humanitarian goods as well as donating dialysis supplies to organizations that require and request support in regions affected by crisis events.
+
+In 2023, we initiated crisis response measures during several disasters and in volatile situations. In the summer of 2023, our disaster response team was dispatched when a major fire swept through the Hawaiian island of Maui. As an active member of the Hawaii Healthcare Emergency Management, our local team helped coordinate response calls with all providers, organized the shipment of supplies, and made sure that our home patients could receive in-center treatment due to the disruption of the supply chain and the ability to get supplies for home therapy to the island.
+
+In the wake of the war in the Middle East, our Israeli team has taken measures to make sure that operations and services to our patients were continued uninterrupted. In addition to keeping our own clinics operating, they work with local hospitals and other smaller local care providers to organize the safe transfer, treatment and care of patients. In the reorting year, we have also provided essentials and medical support to areas impacted by crises and disasters, such as Morocco, Sudan, Ukraine and Turkey, among others. This included donating and loaning life-saving equipment including dialyzers as well as adult and pediatric HD blood lines.
+
+# Advancing health care
+
+We are committed to advancing health care while upholding ethical standards and managing related risks. As stipulated in our Bioethics Principles position paper, we advocate patient rights and respect animal welfare. It is important to us that our research partners adhere to guidelines that are similar to our own.
+
+#### Scientific research
+
+We strive to make the results of our research activities available to the broader public to help advance health care. In 2023, we published 176 scientific documents worldwide. These covered topics such as impacts on renal transplantation, health literacy and utilization of artificial intelligence in machine learning.
+
+We carry out scientific research to support our goal of continuously improving the care we provide to patients. This includes facilitating clinical trials as a crucial step in developing new treatments. We are also exploring data-based methods that allow us to advance care by means of mathematic modelling, artificial intelligence, and virtual clinical trial simulations. Our research and development activities follow regulatory guidance for clinical research practices and comply with ethical standards. In the reporting year, we completed three clinical trials.
+
+In 2023, we developed a universally structured global dialysis dataset called Apollo Dial DB. This is a fully anonymized, global analytics platform that uses harmonized and uniformly structured patient treatment data. It is expected to improve both the speed and the robustness of our analytical capabilities to provide consistency in global analytics. It is currently part of a global research project to assess the feasibility of expanding the Anemia Control Model, an artificial intelligence model used in many countries to optimize the benefits of medications that stimulate the production of red blood cells and iron therapies in dialysis patients (see page 106 for more details).
+
+## Page 105
+
+# FRESENIUS 105 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+Our Frenova Renal Research Institute provides research services to third parties. Work on a project aimed at developing the largest renal-focused genomic registry in the world is ongoing. We have adjusted our goal to enroll 50,000 patients (initial goal: 100,000) by 2025. Based on new research insights, achieving the adjusted goal will enable us to meet our research needs. The registry will contain genetic data from patients with chronic kidney disease worldwide, with the aim of fostering collaboration amongst researchers and improving their understanding of kidney disease and treatments.
+
+We are also part of the European "Initiatives on advancing patients' outcomes in renal disease" (INSPIRE). This is an academic and industry project set up to identify critical investigations, models and insights to advance medical practice in nephrology. Presently, the INSPIRE group is actively advancing the nephrology communitiy's understanding of bleeding events in dialysis patients.
+
+More information about our scientific research and the Frenova Renal Research division can be found in the Group Management Report in the sections "Opportunities management" starting on page 85 and "Research and development" starting on page 43.
+
+#### Portfolio Sustainability Assessment
+
+In 2023, we launched a Portfolio Sustainability Assessment in order to evaluate the sustainability performance of our products and services. The assessment aims to provide greater transparency on our portfolio's sustainability taking into account social and environmental contributions as well as economic aspects. It creates a basis for strategic portfolio decisions that systematically consider our sustainability impact (portfolio steering).
+
+By defining performance criteria and applying performance thresholds, we plan to assess significant social contributions
+
+#### 2026 Target
+
+Implement a sustainability performance assessment of our relevant product and services portfolio
+
+and the environmental impact of our products and services in relation to their profitability. Our significant social contributions pertain to how we improve our quality of care and advance health care in underserved markets. The environmental impact analysis includes aspects such as our carbon footprint and consumption of resources or recyclability in production and care delivery. We obtain the data from environmental assessments of locations and product types.
+
+We intend to gradually implement the Portfolio Sustainability Assessment as a standard operating procedure to evaluate all products and services by 2026. In 2023, a pilot assessment was conducted to establish the feasibility of the methodology. One service group and one product group that jointly account for almost 60% of revenue were included in the assessment scope, and more than 4,000 of our locations and 17 product types were reviewed during the year. In 2024, we aim to increase revenue coverage to 75%.
+
+#### Innovation and digitalization
+
+Innovation and digitalization are important strategic elements that contribute to our success. In line with our Code of Ethics and Business Conduct, we aim to develop innovative, safe, and user-friendly digital products and systems that meet our quality standards. Our goal is to further improve the quality and efficiency of care. To this end, we are continuously developing digital products and services designed to improve access to and advance health care. Our Care Enablement segment oversees the development of our products. The Global Medical Office is responsible for our clinical digitalization strategies and the use of digital clinical data for research and operations.
+
+ To access the latest innovative technologies, we invest in research and development and collaborate with external partners, including academic institutions. In 2023, we launched a global event aimed at fostering innovation in our product business. As part of this, the most important innovation challenges, such as sustainability and efficiency improvements, were defined by the respective business functions, and employees were encouraged to develop new ideas and solutions.
+
+ In 2023, we continued to develop digital options with the aim of empowering patients to actively manage their own health and improve clinical outcomes. Our digital platforms enable virtual contact, keeping patients and care teams connected. The platforms provide easy access to the latest treatment data, which is vital to monitor and improve medical outcomes, patient experience and the effectiveness of care.
+
+We provide two patient engagement platforms that are accessible via apps. Our PatientHub app is used predominantly in the U.S., while our MyCompanion app is available in 24 countries in Europe, Africa, Asia-Pacific and Latin America. In the U.S., we recorded nearly 162,000 remote telehealth visits between patients, care teams, and physicians via the Patient-Hub app by the end of 2023. The MyCompanion app was launched in Australia and the Philippines in the reporting year. Combined, the PatientHub and MyCompanion apps had more than 27,000 active users in 2023 (2022: 25,000). They were widely adopted due to restrictions in interpersonal contact during the COVID-19 pandemic.
+
+We also use virtual reality and gamification technologies to support health care professionals in training their patients in home dialysis procedures. Our virtual reality tool is currently available in eleven centers in Germany and has been piloted in an additional four.
+
+## Page 125
+
+# <span id="page-124-0"></span>FRESENIUS 125 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+# Supplier Management
+
+# Progress
+
+- Implemented human rights and environmental criteria in selection process for new suppliers
+- Defined key focus areas for sustainable procurement activities including GHG reduction, ethical sourcing, and circular economy
+
+As a global health care company with more than 70,000 suppliers worldwide, we understand the responsibilities that come with managing a complex supply chain. We have introduced policies and procedures to comply with applicable supply chain standards and continuously improve our sustainability performance. The Head of Global Procurement regularly reports on our progress in implementing strategies and their effectiveness to the Management Board.
+
+Our responsible procurement principles reflect our commitment to promoting sustainable business practices in our daily operations. We expect our suppliers to share our commitment and demonstrate sustainable environmental and social business practices across their supply chains. Our expectations are guided by the standards of the International Labour Organization (ILO), and those of the UN Global Compact.
+
+Our Global Supplier Code of Conduct is part of our contractual requirements. It describes our key principles for sustainability topics such as integrity and ethics, human rights and labor conditions, including the prohibition of forced and child labor, quality, occupational health and safety and environmental protection.
+
+In 2023, we implemented human rights and environmental criteria in the selection process for new suppliers, in line with the German Supply Chain Due Diligence Act. The global procurement team was offered training to apply these selection criteria in their tendering processes. Nearly 65% of the targeted procurement employees were reached in the reporting year.
+
+We recognize the importance of inclusive and diverse sourcing. Since 2022, we have continued to work on our supplier diversity program in the U.S. Diverse suppliers refers to businesses owned for example by minorities and veterans. Within our supplier base in the U.S., we work with around 9,000 diverse suppliers with an annual spend of approximately \$1.8 BN (€2.0 BN).
+
+# Transforming our global procurement
+
+As part of the FME25 transformation program, the FME ONE Procurement function was established, bringing together multiple global and regional teams. This enables us to respond more effectively to the volatile market while streamlining operations efficiently to the needs of our business functions. A particular focus is on managing strategic key supplier relationships and advancing our supplier diversity and sustainability agenda.
+
+As part of our digitalization strategy, we are evaluating an integrated software solution to automate and simplify our transactions globally. This will allow for compliant supplier onboarding and monitoring to help us gain more transparency across our supply chain. We are also in the process of assessing multiple tools to support our procurement sustainability roadmap, especially in areas such as risk assessment and supplier diversity.
+
+In 2023, we defined key focus areas for sustainable procurement activities across pillars such as GHG reduction, ethical sourcing, and a circular economy that will guide our activities going forward. These activities support our sustainability priorities and targets.
+
+# Our expectations of suppliers
+
+We are working with suppliers to increase transparency on our environmental and social impact across our supply chain. We have an onboarding process in place for suppliers to inform them of our sustainability requirements as outlined in the Global Supplier Code of Conduct and respective standard operating procedures. This includes managing situations in which suppliers do not wish to or are unable to adhere to these requirements. In these circumstances, we may conduct a mutual recognition assessment, for example, to identify whether the supplier's sustainability standards and requirements match our own. In cases where a mutual recognition clause cannot be embedded into the contract, we assess whether the risk associated with the supplier can be mitigated by respective clauses.
+
+# Identifying, mitigating, and preventing risks
+
+As mentioned, in 2023 we implemented new procedures to include sustainability criteria in the evaluation and selection of suppliers. Our risk assessment approach involves assessing the suppliers' sustainability risk based on country and industryrelated factors with due consideration of relevant legal requirements, such as the German Supply Chain Due Diligence
+
+## Page 126
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ ◯
+
+<span id="page-125-0"></span>Act, the UK and Australian Modern Slavery Act, and Bill S-211 in Canada.
+
+To evaluate our suppliers' sustainability performance, we may ask them to self-assess their compliance with our sustainability requirements. We have already contacted 96% of our critical suppliers to participate in self-assessments. Critical suppliers are those with whom we have a high purchasing volume, who are crucial to our business operations, and are associated with an increased environmental, social, and governance risk.
+
+To obtain an objective evaluation of the suppliers' processes, we may also request a third-party assessment as well as documented evidence to confirm compliance with our sustainability requirements. Furthermore, Fresenius Medical Care is entitled to conduct on-site inspections to verify the information provided. Potential violations of laws, rules or standards can also be reported to our Compliance Action Line.
+
+# Human Rights
+
+# Progress
+
+- Provided training and awarenessraising sessions to leaders and functions that are relevant to the implementation of human rights due diligence
+- 54% of internal audits included topics related to human rights
+
+We respect human rights and uphold labor and employment standards. We are committed to integrating awareness of and respect for human rights in our day-to-day work, and to continuously improving our human rights due diligence processes.
+
+Our activities are guided by the principles specified in the UN Universal Declaration of Human Rights and the International Labour Organization's Declaration on Fundamental Principles and Rights at Work. We are also guided by the UN Guiding Principles for Business and Human Rights. Our human rights commitments are embedded in our Code of Ethics and Business Conduct.
+
+We issued a new Human Rights Policy Statement in 2023 to replace the previous version. It presents our strategic framework on human rights taking into account the outcomes of our human rights risk assessment and summarizing our approach to respecting human rights in our own operations as well as in our business relationships. Our human rights efforts are supported by policies and activities. For example, our Global Supplier Code of Conduct as well as our Compliance Brochure for Business Partners stipulate our expectations with regards to human rights. We are committed to offering fair and transparent working conditions, maintaining a discrimination and harassment-free workplace, respecting freedom of association and the right to collective bargaining and the prohibition of retaliation. Our Global Social and Labor Standards Policy, outlines our position on working conditions for employees.
+
+Our Global Human Rights Office within the Global Legal function oversees our human rights activities. The Office provides regular updates to the Management Board and supports different functions in implementing relevant human rights policies, procedures, and measures. Representatives from relevant business segments and functions determine appropriate risk management approaches in relation to human rights for their respective areas of responsibility and implement corresponding measures. A cross-functional steering committee guides the further development of our human rights program.
+
+# Human rights activities
+
+In 2023, we continued to perform risk analyses of our own operations and suppliers. For example, to gain an understanding of local conditions, we performed country and site-level assessments as part of our annual corporate risk management process. Engagement with local teams helps raise awareness of human rights commitments and related expectations within the business. The results of the analysis were used to develop action plans with preventive and mitigation measures. These included adjustments to our policies and processes, as well as training and awarenessraising sessions.
+
+To verify the implementation status and assess the effectiveness of our human rights program, we incorporated related aspects in our internal audits. The share of internal audits in connection with human rights topics increased from 30% to 54% compared with 2022.
+
+## Page 127
+
+# <span id="page-126-0"></span>FRESENIUS 127 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP
+
+[MANAGEMENT REPORT](#page-28-0) GROUP REPORT [NON-FINANCIAL](#page-91-0) CORPORATE [GOVERNANCE](#page-132-0)
+
+CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ ◯
+
+In 2023, we continued to raise awareness about our responsibility for human rights by reaching out to leadership team members and relevant functions. For example, the HR teams were trained on human rights, managing complaints and legislative disclosure requirements.
+
+# Managing complaints
+
+Various channels are available to employees, patients, and other stakeholders to report potential violations on topics such as human or workplace rights, environmental concerns, laws, or company policies. For example, employees and third parties are encouraged to use our reporting hotline (Compliance Action Line) to report any potential violations. A detailed description of our complaints handling approach is available on our website.
+
+# Stakeholder dialogue
+
+We engage with sector-specific associations and peer group networks to share experiences and practices regarding human rights, including working groups at MedTech Europe. We are also involved with the Global Industrial Relations Network (GIRN), a global network of corporate human rights specialists set up by the International Organisation of Employers (IOE).
+
+Further information on our risk management can be found in the "Risk management" section starting on page 69, as well as in the "Risk and Opportunities Report" in the Group Management Report. For further information on our grievance channels, please see the "Compliance" section starting on page 120. More details on our dialogue with stakeholders can be found in the "Patients" section starting on page 101 and the "Employees" section starting on page 109.
+
+# About this Report
+
+This report documents the sustainability performance of Fresenius Medical Care in 2023. It contains relevant information relating to patient, employee, and environmental matters, combatting bribery and corruption, ensuring supply chain oversight and respect for human rights. We demonstrate how sustainability is integrated in our business, how our activities contribute to our success and create value for our stakeholders. Our reporting is guided by the material sustainability topics that either have the biggest impact on our business or are affected most by our business.
+
+On November 30, 2023, Fresenius Medical Care completed the transformation of the legal form of the Company (the Conversion) from a partnership limited by shares (Kommanditgesellschaft auf Aktien, KGaA) into a German stock corporation (Aktiengesellschaft, AG) and the associated deconsolidation from Fresenius SE. We aim to leverage the advantages of the new legal structure to enable more focused, faster, and agile decision-making. Our primary focus since changing our legal form remains on improving operational performance and driving our transformation efforts to ensure shareholder value creation. In addition, Fresenius Medical Care divested several non-core business assets. The aforementioned changes have a limited effect on the management of sustainability at the Company, the provision of data and its non-financial reporting.
+
+The report fulfills the requirements of Section 315c in conjunction with Sections 289c to 289e of the German Commercial Code. It also fulfills the requirements of Article 8 of the "Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment" (EU Taxonomy). It covers the reporting period from January 1 to December 31, 2023. Unless stated otherwise, the information provided refers to Fresenius Medical Care AG and its fully consolidated subsidiaries.
+
+Our reporting approach for the material topics is based on individual requirements of the Global Reporting Initiative (GRI). The GRI Standard 3-3 (Management of Material Topics) serves as a basis for describing our concepts in terms of the requirements of the German Commercial Code. We also consider the ten principles of the UN Global Compact in our reporting.
+
+References other than those to the Group Management Report and Fresenius Medical Care's consolidated financial statements are for information only. They are not part of the Non- financial Group Report and are therefore not subject to the assurance engagement.
+
+We disclose further sustainability information that we structure based on the GRI standards, the disclosure recommendations of the Sustainability Accounting Standards Board (SASB), and the Task Force on Climate-related Financial Disclosures (TCFD) standards. These disclosures are part of our commitment to provide transparent and relevant information on our economic, environmental and social performance to our stakeholders.
+
+Due to rounding, individual numbers and percentages presented in this report may not precisely reflect the absolute figures.
+
+# External audit
+
+This Non-financial Group Report is audited by PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft (PwC), a third-party auditing firm, which has assessed the report against the relevant legal requirements of the German Commercial Code and the EU Taxonomy Regulation. PwC has performed a limited assurance engagement according to ISAE 3000 (Revised), an international assurance standard broadly used for assurance of sustainability reporting. For the Independent Practitioner's Report, please see page 131.
+
+## Page 128
+
+[SHAREHOLDERS](#page-5-0) [MANAGEMENT REPORT](#page-28-0) GROUP REPORT [GOVERNANCE](#page-132-0) [NON-FINANCIAL](#page-91-0) CORPORATE
+
+FURTHER [INFORMATION](#page-314-0)
+
+# <span id="page-127-0"></span>Other Key Figures
+
+T 3.25 PROPORTION OF TURNOVER1 FROM PRODUCTS OR SERVICES ASSOCIATED WITH TAXONOMY-ALIGNED ECONOMIC ACTIVITIES – DISCLOSURE COVERING YEAR 2023
+
+| Financial year 2023                                                                                                         |         |          | 2023                              |                                 |                                 |              | Substantial contribution criteria |                       |                    |                                 |                                 |             |                 |                       | DNSH criteria<br>("Does Not Significantly Harm") |                    |                                                                              |                              |                                  |  |  |
+|-----------------------------------------------------------------------------------------------------------------------------|---------|----------|-----------------------------------|---------------------------------|---------------------------------|--------------|-----------------------------------|-----------------------|--------------------|---------------------------------|---------------------------------|-------------|-----------------|-----------------------|--------------------------------------------------|--------------------|------------------------------------------------------------------------------|------------------------------|----------------------------------|--|--|
+|                                                                                                                             |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Economic activities                                                                                                         | Code    | Turnover | Proportion of turnover, year 2023 | Climate change mitigation (CCM) | Climate change adaptation (CCA) | Water (WTR)  | Pollution (PPC)                   | Circular economy (CE) | Biodiversity (BIO) | Climate change mitigation (CCM) | Climate change adaptation (CCA) | Water (WTR) | Pollution (PPC) | Circular economy (CE) | Biodiversity (BIO)                               | Minimum safeguards | Proportion of Taxonomy-aligned (A.1.) or eligible (A.2.) turnover, year 2022 | Category (enabling activity) | Category (transitional activity) |  |  |
+|                                                                                                                             |         | MIO €    | %                                 | % Y; N; N/EL2                   | % Y; N; N/EL                    | % Y; N; N/EL | % Y; N; N/EL                      | % Y; N; N/EL          | % Y; N; N/EL       | Y/N                             | Y/N                             | Y/N         | Y/N             | Y/N                   | Y/N                                              | Y/N                | %                                                                            | E                            | T                                |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                             |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| A.1. Environmentally sustainable activities (Taxonomy-aligned)                                                              |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Turnover of environmentally sustainable activities (Taxonomy-aligned) (A.1.)                                                |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Of which Enabling                                                                                                           |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Of which Transitional                                                                                                       |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                     |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+|                                                                                                                             |         |          |                                   | EL; N/EL3                       | EL; N/EL                        | EL; N/EL     | EL; N/EL                          | EL; N/EL              | EL; N/EL           |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Manufacture of medicinal products                                                                                           | PPC 1.2 | 284.3    | 1.5                               | N/EL                            | N/EL                            | N/EL         | EL                                | N/EL                  | N/EL               |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Turnover of Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) (A.2.) |         | 284.3    | 1.5                               |                                 |                                 |              | 1.5                               |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| A. TURNOVER OF TAXONOMY-ELIGIBLE<br>ACTIVITIES (A.1+A.2)                                                                    |         | 284.3    | 1.5                               |                                 |                                 |              | 1.5                               |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                         |         |          |                                   |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| Turnover of Taxonomy-non-eligible activities                                                                                |         | 19,169.3 | 98.5                              |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+| TOTAL                                                                                                                       |         | 19,453.6 | 100.0                             |                                 |                                 |              |                                   |                       |                    |                                 |                                 |             |                 |                       |                                                  |                    |                                                                              |                              |                                  |  |  |
+
+<sup>1</sup> The revenue KPI for eligibility is defined as taxonomy-eligible revenue divided by total revenue for the reporting year. Total revenue includes all product and service revenues. For more information, please refer to the consolidated income statements under "revenue" in [table 5.1](#page-197-0) on page 198.
+
+2 Y – Yes, Taxonomy-eligible and taxonomy-aligned activity with the relevant environmental objective
+
+N – No, Taxonomy-eligible but not taxonomy-aligned activity with the relevant environmental objective
+
+N/EL – Not eligible, taxonomy non-eligible activity for the relevant environmental objective
+
+3 EL – Taxonomy eligible activity for the relevant objective
+
+N/EL – Taxonomy non-eligible activity for the relevant objective
+
+## Page 129
+
+#### T 3.26 PROPORTION OF CAPEX1 FROM PRODUCTS OR SERVICES ASSOCIATED WITH TAXONOMY-ALIGNED ECONOMIC ACTIVITIES - DISCLOSURE COVERING YEAR 2023
+
+| Financial year 2023                                                                                                                             | 2023    |                |                                   |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 | Substantial contribution criteria |                    |                    |                                                                                  |                                 |                                     |  |  | DNSH criteria<br>("Does Not Significantly Harm") |  |  |  |  |  |  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------|-----------------------------------|------------------------------------|-------------------------------------|-----------------|-----------------|-----------------------|--------------------|------------------------------------|------------------------------------|-------------|-----------------|-----------------------------------|--------------------|--------------------|----------------------------------------------------------------------------------|---------------------------------|-------------------------------------|--|--|--------------------------------------------------|--|--|--|--|--|--|
+| Economic activities                                                                                                                             | Code    | Absolute Capex | Proportion of Capex,<br>year 2023 | Climate change<br>mitigation (CCM) | Climate change a<br>daptation (CCA) | Water (WTR)     | Pollution (PPC) | Circular economy (CE) | Biodiversity (BIO) | Climate change<br>mitigation (CCM) | Climate change<br>adaptation (CCA) | Water (WTR) | Pollution (PPC) | Circular economy (CE)             | Biodiversity (BIO) | Minimum safeguards | Proportion of Taxonomy-<br>aligned (A.1.) or eligible<br>(A.2.) Capex, year 2022 | Category<br>(enabling activity) | Category<br>(transitional activity) |  |  |                                                  |  |  |  |  |  |  |
+|                                                                                                                                                 |         | MIO €          | %                                 | % Y; N;<br>N/EL2                   | % Y; N;<br>N/EL                     | % Y; N;<br>N/EL | % Y; N;<br>N/EL | % Y; N;<br>N/EL       | % Y; N;<br>N/EL    | Y/N                                | Y/N                                | Y/N         | Y/N             | Y/N                               | Y/N                | Y/N                | %                                                                                | E                               | T                                   |  |  |                                                  |  |  |  |  |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                 |         |                |                                   |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| A.1. Environmentally sustainable activities (Taxonomy-aligned)                                                                                  |         |                |                                   |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Capex of environmentally sustainable<br>activities (Taxonomy-aligned) (A.1.)                                                                    |         | 0.0            | 0.0                               |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    | 0.0                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Of which Enabling                                                                                                                               |         | 0.0            | 0.0                               |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    | 0.0                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Of which Transitional                                                                                                                           |         | 0.0            | 0.0                               |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    | 0.0                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                                         |         |                |                                   |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Manufacture of medicinal products                                                                                                               | PPC 1.2 | 1.8            | 0.1                               | EL:<br>N/EL3                       | EL:<br>N/EL                         | EL:<br>N/EL     | EL:<br>N/EL     | EL:<br>N/EL           | EL:<br>N/EL        |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Installation, maintenance and repair of energy<br>efficiency equipment                                                                          | CCM 7.3 | 0.3            | 0.0                               | EL                                 | N/EL                                | N/EL            | N/EL            | N/EL                  | N/EL               |                                    |                                    |             |                 |                                   |                    |                    | 0.1                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Installation, maintenance and repair of instruments<br>and devices for measuring, regulation and<br>controlling energy performance of buildings | CCM 7.5 | 4.2            | 0.3                               | EL                                 | N/EL                                | N/EL            | N/EL            | N/EL                  | N/EL               |                                    |                                    |             |                 |                                   |                    |                    | 0.1                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Installation, maintenance and repair of renewable<br>energy technologies                                                                        | CCM 7.6 | 0.2            | 0.0                               | EL                                 | N/EL                                | N/EL            | N/EL            | N/EL                  | N/EL               |                                    |                                    |             |                 |                                   |                    |                    | 0.0                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Capex of Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) (A.2.)                        |         | 6.4            | 0.4                               |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    | 0.2                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| A. CAPEX OF TAXONOMY-ELIGIBLE<br>ACTIVITIES (A.1+A.2)                                                                                           |         | 6.4            | 0.4                               |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    | 0.2                                                                              |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                                             |         |                |                                   |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| Capex of Taxonomy-non-eligible activities                                                                                                       |         | 1,310.6        | 99.6                              |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+| TOTAL                                                                                                                                           |         | 1,317.0        | 100.0                             |                                    |                                     |                 |                 |                       |                    |                                    |                                    |             |                 |                                   |                    |                    |                                                                                  |                                 |                                     |  |  |                                                  |  |  |  |  |  |  |
+
+1 The Capex KPIs are defined as taxonomy-eligible and taxonomy-aligned Capex A or C divided by total Capex for the reporting year. Total Capex covers additions to tangible (IAS 16) and intangible assets (IAS 38) as well as right-of-use assets (IFRS 16) during the fiscal year before depreciation, amortization, and any remeasurements. This includes additions resulting from revaluations and impairments for the relevant fiscal year and excluding fair value changes. It also encompasses additions resulting from business combinations. It does not include goodwill. For total Capex please refer to the sections "Property, plant and equipment" on page 245, "Intangible assets and goodwill" on page 248 and "Leases" on page 278 in the notes to the consolidated financial statements, under the columns "Additions" and "Changes in consolidation group". Additions resulting from business combinations included in column "Changes in consolidation group" amount to €0.3 M.
+
+<sup>2</sup> Y – Yes, Taxonomy-eligible and taxonomy-aligned activity with the relevant environmental objective
+
+N – No, Taxonomy-eligible but not taxonomy-aligned activity with the relevant environmental objective
+
+N/EL – Not eligible, Taxonomy non-eligible activity for the relevant environmental objective
+
+<sup>3</sup> EL – Taxonomy eligible activity for the relevant objective
+
+N/EL – Taxonomy non-eligible activity for the relevant objective
+
+## Page 130
+
+#### T 3.27 PROPORTION OF OPEX1 FROM PRODUCTS OR SERVICES ASSOCIATED WITH TAXONOMY-ALIGNED ECONOMIC ACTIVITIES - DISCLOSURE COVERING YEAR 2023
+
+| Financial year 2023                                                                                                                             |         |               | 2023                             |                                    |                                    |              | Substantial contribution criteria |                       |                    |                                    |                                    |             | DNSH criteria<br>("Does Not Significantly Harm") |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------------|----------------------------------|------------------------------------|------------------------------------|--------------|-----------------------------------|-----------------------|--------------------|------------------------------------|------------------------------------|-------------|--------------------------------------------------|-----------------------|--------------------|--------------------|---------------------------------------------------------------------------------|----------------------------|----------|--|--|--|
+|                                                                                                                                                 |         |               |                                  |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| Economic activities                                                                                                                             | Code    | Absolute Opex | Proportion of Opex,<br>year 2023 | Climate change<br>mitigation (CCM) | Climate change<br>adaptation (CCA) | Water (WTR)  | Pollution (PPC)                   | Circular economy (CE) | Biodiversity (BIO) | Climate change<br>mitigation (CCM) | Climate change<br>adaptation (CCA) | Water (WTR) | Pollution (PPC)                                  | Circular economy (CE) | Biodiversity (BIO) | Minimum safeguards | Proportion of Taxonomy-<br>aligned (A.1.) or eligible<br>(A.2.) Opex, year 2022 | Category<br>(enabling acti | Category |  |  |  |
+|                                                                                                                                                 |         | MIO €         | %                                | % Y; N; N/EL2                      | % Y; N; N/EL                       | % Y; N; N/EL | % Y; N; N/EL                      | % Y; N; N/EL          | % Y; N; N/EL       | Y/N                                | Y/N                                | Y/N         | Y/N                                              | Y/N                   | Y/N                | Y/N                | %                                                                               |                            | E        |  |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                 |         |               |                                  |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| A.1. Environmentally sustainable activities (Taxonomy-aligned)                                                                                  |         |               |                                  |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| Opex of environmentally sustainable<br>activities (Taxonomy-aligned) (A.1.)                                                                     |         | 0.0           | 0.0                              |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    | 0.0                                                                             |                            |          |  |  |  |
+| Of which Enabling                                                                                                                               |         | 0.0           | 0.0                              |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    | 0.0                                                                             |                            |          |  |  |  |
+| Of which Transitional                                                                                                                           |         | 0.0           | 0.0                              |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    | 0.0                                                                             |                            |          |  |  |  |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                                         |         |               |                                  |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+|                                                                                                                                                 |         |               |                                  | EL; N/EL3                          | EL; N/EL                           | EL; N/EL     | EL; N/EL                          | EL; N/EL              | EL; N/EL           |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| Manufacture of medicinal products                                                                                                               | PPC 1.2 | 13.5          | 2.2                              | N/EL                               | N/EL                               | N/EL         | EL                                | N/EL                  | N/EL               |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| Installation, maintenance and repair of<br>energy efficiency equipment                                                                          | CCM 7.3 | 0.3           | 0.1                              | EL                                 | N/EL                               | N/EL         | N/EL                              | N/EL                  | N/EL               |                                    |                                    |             |                                                  |                       |                    |                    | 0.1                                                                             |                            |          |  |  |  |
+| Installation, maintenance & repair of<br>charging stations for electric vehicles                                                                | CCM 7.4 | 0.0           | 0.0                              | EL                                 | N/EL                               | N/EL         | N/EL                              | N/EL                  | N/EL               |                                    |                                    |             |                                                  |                       |                    |                    | 0.1                                                                             |                            |          |  |  |  |
+| Installation, maintenance and repair of instruments<br>and devices for measuring, regulation and<br>controlling energy performance of buildings | CCM 7.5 | 0.1           | 0.0                              | EL                                 | N/EL                               | N/EL         | N/EL                              | N/EL                  | N/EL               |                                    |                                    |             |                                                  |                       |                    |                    | 0.0                                                                             |                            |          |  |  |  |
+| Installation, maintenance and repair of<br>renewable energy technologies                                                                        | CCM 7.6 | 0.0           | 0.0                              | EL                                 | N/EL                               | N/EL         | N/EL                              | N/EL                  | N/EL               |                                    |                                    |             |                                                  |                       |                    |                    | 0.0                                                                             |                            |          |  |  |  |
+| Opex of Taxonomy-eligible but not<br>environmentally sustainable activities<br>(not Taxonomy-aligned activities) (A.2.)                         |         | 14.0          | 2.3                              | 0.1                                |                                    |              | 2.2                               |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    | 0.2                                                                             |                            |          |  |  |  |
+| A. OPEX OF TAXONOMY-ELIGIBLE<br>ACTIVITIES (A.1+A.2)                                                                                            |         | 14.0          | 2.3                              | 0.1                                |                                    |              | 2.2                               |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    | 0.2                                                                             |                            |          |  |  |  |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                                             |         |               |                                  |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| Opex of Taxonomy-non-eligible activities                                                                                                        |         | 610.3         | 97.7                             |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+| TOTAL                                                                                                                                           |         | 624.3         | 100.0                            |                                    |                                    |              |                                   |                       |                    |                                    |                                    |             |                                                  |                       |                    |                    |                                                                                 |                            |          |  |  |  |
+
+<sup>1</sup> The Opex KPI is defined as taxonomy-eligible and taxonomy-aligned Opex divided by total Opex for the reporting year. Total Opex consists of direct non-capitalized costs relating to research and development, building renovation measures, short-term leases as well as maintenance and repair. For more information regarding research and development expenses, please refer to the section "Notes to the consolidated statements of income" in the notes to the consolidated financial statements on page 230. Short-term leases were determined in accordance with IFRS 16 (see "Leases" in the notes to the consolidated financial statements on page 278). Maintenance and repair expenses include staff costs, service costs, and material costs for daily servicing, as well as for regular and unplanned maintenance and repairs that can be found in the following areas of the income statement: cost of revenue, selling, general and administrative expenses as well as research and development expenses.]
+
+<sup>2</sup> Y – Yes, Taxonomy-eligible and taxonomy-aligned activity with the relevant environmental objective. N – No, Taxonomy-eligible but not taxonomy-aligned activity with the relevant environmental objective. N/EL – not eligible, Taxonomy non-eligible activity for the relevant environmental objective.
+
+<sup>3</sup> EL – Taxonomy eligible activity for the relevant objective. N/EL – Taxonomy non-eligible activity for the relevant objective
+
+## Page 131
+
+GROUP
+
+[MANAGEMENT REPORT](#page-28-0) [GROUP REPORT](#page-132-0) [NON-FINANCIAL](#page-91-0)
+
+CORPORATE [GOVERNANCE](#page-132-0)
+
+CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+# <span id="page-130-0"></span>Independent Practitioner's Report on a Limited Assurance Engagement on Non-financial Reporting1
+
+To Fresenius Medical Care AG, Hof (Saale)
+
+We have performed a limited assurance engagement on the separate non-financial group report of Fresenius Medical Care AG, Hof (Saale), (hereinafter the "Company") for the period from 1 January to 31 December 2023 (hereinafter the "Separate Non-financial Group Report").
+
+Not subject to our assurance engagement are the external sources of documentation or expert opinions mentioned in the Separate Non-financial Group Report.
+
+# Responsibility of the Executive Directors
+
+The executive directors of the Company are responsible for the preparation of the Separate Non-financial Group Report in accordance with §§ (Articles) 315c in conjunction with 289c to 289e HGB ("Handelsgesetzbuch": "German Commercial Code") and Article 8 of REGULATION (EU) 2020/852 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2020 on establishing a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 (hereinafter the "EU Taxonomy Regulation") and the Delegated Acts adopted thereunder, as well as for making their own interpretation of the wording and terms contained in the EU Taxonomy Regulation and the Delegated Acts adopted thereunder, as set out in the section "EU Taxonomy" of the Separate Non-financial Group Report.
+
+This responsibility includes the selection and application of appropriate non-financial reporting methods and making assumptions and estimates about individual non-financial disclosures of the Company that are reasonable in the circumstances. Furthermore, the executive directors are responsible for such internal controls as the executive directors consider necessary to enable the preparation of a Separate Nonfinancial Group Report that is free from material misstatement whether due to fraud or error.
+
+The EU Taxonomy Regulation and the Delegated Acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which clarifications have not yet been published in every case. Therefore, the executive directors have disclosed their interpretation of the EU Taxonomy Regulation and the Delegated Acts adopted thereunder in the section "EU Taxonomy" of the Separate Non-financial Group Report. They are responsible for the defensibility of this interpretation. Due to the immanent risk that indeterminate legal terms may be interpreted differently, the legal conformity of the interpretation is subject to uncertainties.
+
+# Independence and Quality Control of the Audit Firm
+
+We have complied with the German professional provisions regarding independence as well as other ethical requirements.
+
+Our audit firm applies the national legal requirements and professional standards – in particular the Professional Code for German Public Auditors and German Chartered Auditors ("Berufssatzung für Wirtschaftsprüfer und vereidigte Buchprüfer": "BS WP/vBP") as well as the Standard on Quality Management 1 published by the Institut der Wirtschaftsprüfer (Institute of Public Auditors in Germany; IDW): Requirements to quality management for audit firms (IDW Qualitätsmanagementstandard 1: Anforderungen an das Qualitätsmanagement in der Wirtschaftsprüferpraxis - IDW QMS 1 (09.2022)), which requires the audit firm to design, implement and operate a system of quality management that complies with the applicable legal requirements and professional standards.
+
+<sup>1</sup> PricewaterhouseCoopers GmbH has performed a limited assurance engagement on the German version of the separate non-financial group report and issued an independent practitioner`s report in German language, which is authoritative. The following text is a translation of the independent practitioner`s report.
+
+## Page 132
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [GROUP REPORT](#page-132-0)
+
+[NON-FINANCIAL](#page-91-0) CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 〇
+
+# Responsibility of the Assurance Practitioner
+
+Our responsibility is to express a conclusion with limited assurance on the Separate Non-financial Group Report based on our assurance engagement.
+
+We conducted our assurance engagement in accordance with International Standard on Assurance Engagements (ISAE) 3000 (Revised): Assurance Engagements other than Audits or Reviews of Historical Financial Information, issued by the IAASB. This Standard requires that we plan and perform the assurance engagement to obtain limited assurance about whether any matters have come to our attention that cause us to believe that the Company's Separate Non-financial Group Report, other than the external sources of documentation or expert opinions mentioned in the Separate Non-financial Group Report, is not prepared, in all material respects, in accordance with §§ 315c in conjunction with 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder as well as the interpretation by the executive directors disclosed in the section "EU Taxonomy" of the Separate Non-financial Group Report.
+
+In a limited assurance engagement, the procedures performed are less extensive than in a reasonable assurance engagement, and accordingly a substantially lower level of assurance is obtained. The selection of the assurance procedures is subject to the professional judgement of the assurance practitioner.
+
+In the course of our assurance engagement, we have, amongst other things, performed the following assurance procedures and other activities:
+
+- > Gain an understanding of the structure of the Company's sustainability organisation and stakeholder engagement
+- > Inquiries of the executive directors and relevant employees involved in the preparation of the Separate Non-financial
+
+Group Report about the preparation process, about the internal control system relating to this process and about disclosures in the Separate Non-financial Group Report
+
+- > Identification of likely risks of material misstatement in the Separate Non-financial Group Report
+- > Evaluation of the implementation of central management requirements, processes, and specifications regarding data collection through targeted sample testing at selected sites
+- > Analytical procedures on selected disclosures in the Separate Non-financial Group Report
+- > Reconciliation of selected disclosures with the corresponding data in the consolidated financial statements and group management report
+- > Evaluation of the presentation of the Separate Non-financial Group Report
+- > Evaluation of the process to identify taxonomy-eligible and taxonomy-aligned economic activities and the corresponding disclosures in the Separate Non-financial Group Report
+- > Inquiries on the relevance of climate-risks
+
+In determining the disclosures in accordance with Article 8 of the EU Taxonomy Regulation, the executive directors are required to interpret undefined legal terms. Due to the immanent risk that undefined legal terms may be interpreted differently, the legal conformity of their interpretation and, accordingly, our assurance engagement thereon are subject to uncertainties.
+
+# Assurance Opinion
+
+Based on the assurance procedures performed and evidence obtained, nothing has come to our attention that causes us to believe that the Separate Non-financial Group Report of the Company for the period from 1 January to 31 December 2023 is not prepared, in all material respects, in accordance with §§ 315c in conjunction with 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder as well as the interpretation by the executive
+
+directors disclosed in the section "EU Taxonomy" of the Separate Non-financial Group Report. We do not express an assurance opinion on the external sources of documentation or expert opinions mentioned in the Separate Non-financial Group Report.
+
+# Restriction of Use
+
+We draw attention to the fact that the assurance engagement was conducted for the Company's purposes and that the report is intended solely to inform the Company about the result of the assurance engagement. Consequently, it may not be suitable for any other purpose than the aforementioned. Accordingly, the report is not intended to be used by third parties for making (financial) decisions based on it. Our responsibility is to the Company. We do not accept any responsibility to third parties. Our assurance opinion is not modified in this respect.
+
+Frankfurt am Main, 20 February 2024
+
+PRICEWATERHOUSECOOPERS GMBH *Wirtschaftsprüfungsgesellschaft*
+
+NICOLETTE BEHNCKE PPA. NICO IRRGANG *Wirtschaftsprüfer [German public auditor]*
+
+## Page 133
+
+TO OUR
+
+GROUP
+
+[SHAREHOLDERS](#page-5-0) [MANAGEMENT REPORT](#page-28-0) [GROUP REPORT](#page-132-0) [GOVERNANCE](#page-196-0) [NON-FINANCIAL](#page-91-0)
+
+CORPORATE
+
+CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ Q
+
+# <span id="page-132-0"></span>Corporate
+
+# Governance
+
+134 [Declaration on Corporate Governance](#page-133-0) 155 [Compensation Report](#page-154-0)
+
+## Page 134
+
+GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+DATED
+L STATEMENTS
+
+FUR
+INFO
+
+FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+# <span id="page-133-0"></span>Declaration on Corporate Governance
+
+The Management Board and the Supervisory Board of Fresenius Medical Care are committed to responsible management that is focused on achieving a sustainable increase in the value of the Company. The implementation of long-term strategies, solid financial management, strict adherence to legal and ethical business standards, successful sustainability management to create lasting economic, ecological and social value, and a transparent communication of the Company are its key elements.
+
+The Management Board and the Supervisory Board of Fresenius Medical Care AG (Company) report below on the fiscal year 2023 (the year under review) pursuant to Sections 289f, 315d of the German Commercial Code (Handelsgesetzbuch – HGB) and in accordance with principle 23 of the German Corporate Governance Code in the version dated April 28, 2022 (GCGC), as published in the German Federal Gazette (Bundesanzeiger) on June 27, 2022, on the Company's corporate governance (Unternehmensführung) and also comment on recommendations and suggestions of the GCGC.
+
+The Declaration on Corporate Governance is publicly available on the Company's website at [www.freseniusmedicalcare.com](http://www.freseniusmedicalcare.com) in the "Investors" section in the sub-section "Corporate Governance".
+
+# Change of legal form of the Company
+
+Until November 30, 2023 the Company had the legal form of a partnership limited by shares (Kommanditgesellschaft auf Aktien – KGaA) with the company name "Fresenius Medical Care AG & Co. KGaA". The business of the Company in the legal form of the KGaA was conducted by its general partner, Fresenius Medical Care Management AG, represented by its management board. The sole shareholder of Fresenius Medical Care Management AG was Fresenius SE & Co. KGaA, which also holds approximately 32.2% of the shares in the Company. In the legal form of the KGaA, the Company did not have its own management board.
+
+The Extraordinary General Meeting (EGM) of the Company on July 14, 2023 resolved to convert the Company into a stock corporation (Aktiengesellschaft – AG) by way of a change of legal form in accordance with the provisions of the German Transformation Act (Umwandlungsgesetz – UmwG). The change of legal form took effect on November 30, 2023 upon registration with the commercial register of the competent local court of Hof (Saale), Germany. Since then, the Company has had the legal form of an AG with the company name "Fresenius Medical Care AG". The reasons for the change of legal form and its effects are described in the conversion report that was made available to the shareholders in connection with the resolution on the change of legal form and is publicly available on the Company's website at www.freseniusmedicalcare.com in the "Investors" section in the sub-section "Annual General Meeting".
+
+The change of legal form of the Company into the legal form of an AG does not change the legal identity of the Company. In particular, Fresenius Medical Care AG is not the legal successor to Fresenius Medical Care AG & Co. KGaA. However, the change of legal form has changed the Company's corporate governance.
+
+The general partner Fresenius Medical Care Management AG exited the Company upon the change of legal form of the Company on November 30, 2023. The management of the Company and the conduct of its business are now the responsibility of the management board of the Company (Management Board). The measures taken by Fresenius Medical Care Management AG for the Company as its general partner until the change of legal form will in principle continue to apply. The same applies to the resolutions adopted by the management board of Fresenius Medical Care Management AG in its capacity as general partner of the Company.
+
+The members of the management board of the general partner exited the general partner in the course of the change of legal form and have been appointed as members of the Management Board of the Company by the Supervisory Board of the Company, which is now responsible for these matters. Details of the composition of the Management Board can be found in the section "Management Board".
+
+The Supervisory Board of the Company in the legal form of the AG corresponds in principle to the Supervisory Board of the Company in the legal form of the KGaA. However, with the change of the Company's legal form, the responsibility for the appointment, dismissal and compensation of the individuals responsible for the management of the Company has been transferred from the supervisory board of Fresenius Medical Care Management AG to the Supervisory Board of the Company. In the new corporate governance structure of Fresenius
+
+## Page 135
+
+# <span id="page-134-0"></span>FRESENIUS 135 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+FURTHER [INFORMATION](#page-314-0)
+
+☰ ◯
+
+Medical Care, the Supervisory Board of the Company now cumulatively has the responsibilities which the supervisory board of the general partner had on the one hand and the Supervisory Board of the Company in the legal form of the KGaA had on the other hand.
+
+Resolutions adopted by the Supervisory Board of the Company in the legal form of the KGaA continue to apply unchanged to the Supervisory Board of the Company in the legal form of the AG. The Supervisory Board of the Company in the legal form of the AG has also adopted those resolutions of the supervisory board of the general partner which are relevant for the Supervisory Board of the Company in the legal form of the AG due to its extended responsibilities as a result of the change of legal form. This also relates in particular to resolutions of the Supervisory Board concerning the compensation of the members of the Management Board.
+
+The change of legal form requires, however, that the Supervisory Board of the Company be composed in accordance with other statutory provisions than before. The Supervisory Board is now composed of twelve members, six of whom represent the shareholders of the Company (shareholder representatives) and six of whom represent the employees of the Company (employee representatives). The term of office of the previous members of the Supervisory Board of the Company ended when the change of legal form took effect. The shareholder representatives on the Supervisory Board of the Company in the legal form of the AG were elected by the EGM of the Company on July 14, 2023 or, to the extent the Articles of Association of the Company provide for an appointment right (Entsendungsrecht) in favor of Fresenius SE & Co. KGaA, have been appointed by the latter. The employee representatives on the Supervisory Board of the Company will be elected by the employees in the course of 2024 in accordance with the applicable statutory provisions. In order to ensure that the Supervisory Board is already fully staffed before the conclusion of these elections, employee representatives have been appointed to the Supervisory Board of the Company, upon motion of the Management Board of the Company, by court order of the local court of Hof (Saale), Germany, effective as of January 26, 2024. The term of office of the court-appointed employee representatives on the Supervisory Board of the Company will end when the members to be elected by the employees in accordance with the provisions of the German Co-Determination Act (Mitbestimmungsgesetz – MitbestG) have been elected to the Supervisory Board. Details of the composition of the Supervisory Board can be found in the section "Supervisory Board".
+
+In accordance with the statutory requirements, the information to be included in this Declaration on Corporate Governance generally relates to the balance sheet date of the year under review, i.e. December 31, 2023. Changes that occurred up until this Declaration on Corporate Governance was issued were also taken into account. To the extent that, in the interest of better comprehensibility, information is provided in this Declaration on Corporate Governance also on the general partner (i.e. Fresenius Medical Care Management AG) that exited the Company in the year under review, this information is generally limited to the period until the general partner exited the Company, i.e. until the change of legal form took effect on November 30, 2023.
+
+#### C 4.1 STRUCTURE OF FRESENIUS MEDICAL CARE AG & CO. KGAA
+
+Image /page/134/Figure/15 description: The image shows a diagram of the corporate structure of Fresenius Medical Care. Fresenius SE & Co. KGaA owns 100% of Annual General Meeting Fresenius Medical Care Management AG. Limited voting rights own ~32% of Annual General Meeting Fresenius Medical Care AG & Co. KGaA. Free float owns ~68% of Annual General Meeting Fresenius Medical Care AG & Co. KGaA. Annual General Meeting Fresenius Medical Care Management AG elects Supervisory Board Fresenius Medical Care Management AG, which supervises/appoints Management Board. Annual General Meeting Fresenius Medical Care AG & Co. KGaA elects Supervisory Board Fresenius Medical Care AG & Co. KGaA, which supervises management. Fresenius Medical Care Management AG (General Partner) manages Fresenius Medical Care AG & Co. KGaA.
+
+<sup>1</sup> For certain items, Fresenius SE & Co. KGaA had no voting rights, e.g., for the election of the Supervisory Board of Fresenius Medical Care AG & Co. KGaA, for the formal approval of the actions of the General Partner and the Supervisory Board of Fresenius Medical Care AG & Co. KGaA as well as for the election of the auditor of the annual financial statements.
+
+## Page 136
+
+#### FRESENIUS 136 MEDICAL CARE 2023 TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) CORPORATE [GOVERNANCE](#page-132-0) FURTHER [INFORMATION](#page-314-0)
+
+Image /page/135/Figure/1 description: The image shows the text 'C 4.2 STRUCTURE OF FRESENIUS MEDICAL CARE AG'.
+
+Image /page/135/Figure/2 description: The image shows a diagram of the organizational structure of Fresenius Medical Care AG. Fresenius SE & Co. KGaA appoints two members to the Supervisory Board of Fresenius Medical Care AG and owns ~32% of the Annual General Meeting of Fresenius Medical Care AG. The Annual General Meeting of Fresenius Medical Care AG elects four members to the Supervisory Board of Fresenius Medical Care AG. The Supervisory Board of Fresenius Medical Care AG appoints and supervises the Management Board of Fresenius Medical Care AG. The Management Board of Fresenius Medical Care AG conducts business for Fresenius Medical Care AG. Free Float owns ~68% of the Annual General Meeting of Fresenius Medical Care AG and elects six members to the Supervisory Board of Fresenius Medical Care AG. FME employees in Germany also elect six members to the Supervisory Board of Fresenius Medical Care AG.
+
+The Articles of Association of the Company are available on the Company's website at [www.freseniusmedicalcare.co](http://www.freseniusmedicalcare.com)m in the "Investors" section in the sub-section "Corporate Governance".
+
+# Management Board
+
+The Management Board manages the Company and conducts its business. Until the change of the Company's legal form became effective, this task was incumbent on Fresenius Medical Care Management AG as general partner, represented by its management board.
+
+For information on the management board of Fresenius Medical Care Management AG, insofar as this Declaration on Corporate Governance for the year under review does not contain any deviating or supplementary information, reference is made to the Declaration on Corporate Governance for the year 2022, which is available on the Company's website at [www.freseniusmedicalcare.com](http://www.freseniusmedicalcare.com) in the "Investors" section in the sub-section "Corporate Governance".
+
+# Composition
+
+Fresenius Medical Care completed the realignment of its operating model under the FME25 program in the year under review. Under the new operating model, the Company operates in a significantly simplified structure with two global business segments: Care Delivery and Care Enablement. In Care Enablement, Fresenius Medical Care has consolidated its previously decentralized health care products business, including research and development, manufacturing, supply chain and commercial operations as well as supporting functions, such as regulatory and quality management, under a global MedTech umbrella. Fresenius Medical Care's global health care services business has been combined in the Care Delivery segment.
+
+# Corporate Governance structure
+
+The corporate governance structure until effectiveness of the change of the Company's legal form is shown in the [chart 4.1](#page-134-0) on the previous page.
+
+The corporate governance structure in place since the change of the Company's legal form took effect on November 30, 2023 is shown in the chart 4.2 above.
+
+Since November 30, 2023, the Company has had the legal form of a stock corporation. The corporate bodies of a stock corporation are its general meeting of shareholders (General Meeting), its supervisory board and its management board. The German Stock Corporation Act (Aktiengesetz – AktG) prescribes a two-tier management system for stock corporations, consisting of a management body and a supervisory board. The management board manages the Company and conducts its business. The Supervisory Board appoints the members of the Management Board, supervises and advises the Management Board and is involved in decisions that are fundamental to the Company. The General Meeting is, amongst other, responsible for electing the shareholder representatives of the Supervisory Board which have not been appointed by Fresenius SE & Co. KGaA as well as the auditor and for resolutions on the allocation of distributable profits and significant structural measures. The duties and responsibilities of the three bodies are in each case statutorily defined and are strictly separated from one another.
+
+## Page 137
+
+# FRESENIUS 137 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 〇
+
+The members of the management board of the general partner in office until the change of the Company's legal form left the management board of the general partner in the course of the change of legal form and have each been appointed as members of the Management Board of the Company in order to maintain personnel continuity in the management of the Company.
+
+This also applies to Mr. Martin Fischer, who was appointed as the new Chief Financial Officer (CFO) of Fresenius Medical Care by the then responsible supervisory board of the general partner with effect from October 1, 2023. Mr. Fischer has taken over this role from Ms. Helen Giza, who was appointed Chairwoman of the Management Board in December 2022 and continued to perform the CFO function on an interim basis until the end of September 30, 2023.
+
+The Management Board member responsible for the Care Delivery segment, Mr. William Valle, left the Management Board at the end of the year under review. Mr. Craig Cordola was appointed as the member of the Management Board responsible for the Care Delivery segment with effect from January 1, 2024.
+
+There were no other changes in the composition and responsibilities of the Management Board in the year under review.
+
+The Supervisory Board of the Company has appointed the member of the Management Board Dr. Katarzyna Mazur-Hofsäß, who had already exercised the tasks incumbent on a Labor Relations Director before, as Labor Relations Director (Arbeitsdirektor) within the meaning of Section 33 of the German Co-Determination Act with effect from March 14, 2024.
+
+The composition of the Management Board and the departmental responsibilities for the year under review are shown in the table 4.3. They apply equally to the Management Board of the Company (since the change of the Company's legal form) and to the management board of the general partner (until the change of the Company's legal form). Information on the diversity of the Management Board can be found in the section "Diversity concept and targets".
+
+# Curricula vitae and duration of appointment
+
+The members of the Management Board and their areas of responsibility including their curricula vitae are introduced on the Company's website at www.freseniusmedicalcare.com in the "About us" section in the sub-section "Management Board". Information on the term of appointment as member of the Management Board and on positions held at group-internal and group-external listed and non-listed companies is also available there.
+
+Initial appointments of Management Board members are made for a maximum of three years in accordance with recommendation B.3 of the GCGC. The members of the Management Board have been appointed for the period for which they had been appointed as members of the management board of the general partner.
+
+#### Rules of Procedure
+
+The Management Board manages the Company's business in accordance with applicable laws and the Articles of Association as well as the rules of procedure within the meaning of Section 77 paragraph 2 German Stock Corporation Act. The rules of procedure stipulate the principles of the cooperation. They also provide for the schedule of responsibilities which determines the departmental responsibilities of the individual Management Board members. The rules of procedure determine that meetings of the Management Board are held whenever the need arises, but at least twelve times a year. The meetings and the adoption of resolutions by the Management Board are chaired by the Chairperson of the Management Board. If the Chairperson is unavailable, this task resides with the Deputy Chairperson, or alternatively, if required, with the participating Management Board member most senior in terms of service. The Chairperson of the meeting determines the order of the agenda items and the voting procedure. As a
+
+#### T 4.3 COMPOSITION AND RESPONSIBILITIES OF THE MANAGEMENT BOARD
+
+| Management Board member    | Responsibilities                                                                          |
+|----------------------------|-------------------------------------------------------------------------------------------|
+| Helen Giza                 | Chair of the Management Board<br>(until September 30, 2023, also Chief Financial Officer) |
+| Martin Fischer             | Chief Financial Officer (since October 1, 2023)                                           |
+| Franklin W. Maddux, MD     | Global Chief Medical Officer                                                              |
+| Dr. Katarzyna Mazur-Hofsäß | Care Enablement                                                                           |
+| William Valle1             | Care Delivery                                                                             |
+
+Mr. William Valle left the Management Board at the end of the year under review, and Mr. Craig Cordola was appointed as the member of the Management Board responsible for Care Delivery with effect from January 1, 2024.
+
+## Page 138
+
+# FRESENIUS 138 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+FURTHER [INFORMATION](#page-314-0)
+
+ON
+
+☰
+
+\$\equiv\$
+
+rule, the Management Board adopts its resolutions at meetings by simple majority of votes cast, and outside of meetings by simple majority of its members. In case of a tie, the Chairperson of the Management Board, but not the Deputy Chairperson, in principle has the casting vote.
+
+Without prejudice to the overall responsibility of the entire Management Board, each Management Board member is responsible for his or her own area of departmental responsibility. Based on the rules of procedure, the Management Board members are required to keep each other informed on an ongoing basis about all relevant business matters in their respective areas of departmental responsibility. In the case of interdepartmental matters, the Management Board members concerned are requested to coordinate with each other. The Chairperson of the Management Board coordinates the affairs of the individual departments.
+
+Matters of outstanding importance and significance are resolved upon by the entire Management Board pursuant to the rules of procedure. This in particular includes fundamental matters regarding the business, corporate policy or strategy of the Company or the group. If a decision by the entire Management Board is required under the rules of procedure but cannot be reached in a timely manner and if, after due assessment of the circumstances and in order to eliminate an imminent threat of severe adverse effects on the Company or the group, a delay cannot be justified, then the available members of the Management Board shall make such decision. The other members of the Management Board must be informed about such decision without undue delay.
+
+The Management Board has refrained from establishing a Management Board Committee, as had been established in the management board of the general partner for certain cross departmental matters to increase the efficiency of the management board's work. The number of management board members had been reduced from eight to five persons under the FME25 program with effect from the beginning of 2022. A Management Board Committee is no longer required given that the coordination is simplified within a smaller Management Board.
+
+In cases of fundamental business matters, the rules of procedure require the Management Board to obtain the prior approval of the Supervisory Board. These include transactions whose value exceeds a certain volume, the annual investment and financial planning, and the conclusion of intercompany agreements within the meaning of Sections 291 et seqq. of the German Stock Corporation Act by the Company. The adoption of new, or the abandonment of existing, business lines or markets is also subject to approval if the expected impact of the respective measure on the net assets, results of operations or financial position of the Company or the group exceeds a certain value.
+
+The rules of procedure for the Management Board also regulate the Management Board's information duties in respect of the Supervisory Board. In particular, the Chairperson of the Management Board shall keep in regular contact with the Chairperson of the Supervisory Board and discuss with him or her questions relating to the strategy, planning, business development, risk situation, risk management and compliance of the Company and the group, and shall without undue delay inform the Chairperson of the Supervisory Board about major events that are of material importance for the assessment of the status and performance as well as for the management of the Company and the group.
+
+#### Age limit
+
+The Supervisory Board resolved upon an age limit for the Management Board members in accordance with recommendation B.5 of the GCGC. Management Board members who have reached the age of 65 years shall, as a rule, retire from the Management Board at the end of the relevant calendar year. The Supervisory Board will take this standard age limit into account for each appointment of Management Board members.
+
+The Management Board member serving as the Global Chief Medical Officer, Mr. Franklin W. Maddux, MD, who was originally appointed for the period until the end of 2022, reached the aforementioned standard age limit. In view of Mr. Maddux's extensive knowledge and the importance of the Global Medical Office in the company's operating model, the then competent supervisory board of the general partner resolved to appoint Mr. Maddux as a member of the Management Board for an additional five years. The associated exception to the standard age limit also served, against the background of the transformation through the FME25 program, to ensure continuity of management in an area that is essential to the success of the company. In the year under review, the Supervisory Board of the Company resolved to appoint the members of the management board of the general partner (including Mr. Maddux) as members of the Management Board of the Company for the same remaining term of office for which they had been appointed as members of the management board of the general partner.
+
+# Supervisory Board
+
+The Supervisory Board of the Company supervises the management of the Company by the Management Board, advises the Management Board and performs the other duties assigned to it by law and the Articles of Association. In accordance with principle 6 of the GCGC, supervision and advice include sustainability matters. The Supervisory Board is further involved in strategy and planning as well as all matters of fundamental importance for the company.
+
+Simultaneous membership in both the Supervisory Board and the Management Board is not permissible. The members of the Company's Supervisory Board are independent in their decisions and are not bound by requirements or instructions of third parties.
+
+## Page 139
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+#### Composition
+
+As a result of the change of legal form of the Company into the legal form of an AG, the co-determination regime applicable to the composition of the Supervisory Board has changed. The Supervisory Board of the Company in the legal form of a KGaA was not subject to corporate co-determination because the employees of Fresenius Medical Care were attributed to Fresenius SE & Co. KGaA for the purposes of corporate codetermination and the Company therefore did not exceed the relevant thresholds for the applicability of co-determination. Since the change of legal form of the Company into the legal form of an AG and the withdrawal of Fresenius Medical Care Management AG as general partner became effective, this attribution no longer takes place because the Company no longer is a dependent company of Fresenius SE & Co. KGaA within the meaning of co-determination law.
+
+The status proceedings initiated by the Management Board of the Company after the change of legal form took effect in accordance with Section 97 of the German Stock Corporation Act to determine with binding effect which statutory provisions govern the composition of the Supervisory Board have not given rise to any objections. The Supervisory Board is therefore composed as follows in accordance with the statutory provisions published in the Federal Gazette (Bundesanzeiger) on December 7, 2023 pursuant to Sections 95, 96 paragraph 1, paragraph 2, 101 paragraph 1 sentence 1 of the German Stock Corporation Act and Sections 1 paragraph 1, 7 paragraph 1 sentence 1 no. 1, paragraph 2 no. 1, 15 paragraph 1 sentence 2 of the German Co-Determination Act (Mitbestimmungsgesetz – MitbestG) and in accordance with the more detailed provisions of the Articles of Association of the Company.
+
+Pursuant to Article 8 paragraph 1 of the Articles of Association of the Company, the Supervisory Board of the Company consists of twelve members, of whom, subject to the existence of the appointment right pursuant to Article 8 paragraph 2 of the Articles of Association, six are to be elected by the General Meeting (shareholder representatives) and six are to be elected by the employees (employee representatives) in accordance with the provisions of the German Co-Determination Act. Pursuant to Article 8 paragraph 2 of the Articles of Association, Fresenius SE & Co. KGaA, if it holds shares in the Company with a proportionate amount of the share capital of the Company of at least 15%, is entitled to appoint one of the Supervisory Board members representing the shareholders; if Fresenius SE & Co. KGaA holds shares in the Company with a proportionate amount of the share capital of the Company of at least 30%, it is entitled to appoint two of the Supervisory Board members representing the shareholders. Given that Fresenius SE & Co. KGaA currently holds approximately 32.2% of the share capital of the Company, it is entitled to the appointment (Entsendung) of two members of the shareholder representatives in the Supervisory Board of the Company.
+
+Unless the General Meeting specifies a shorter term of office, the Supervisory Board members are elected in accordance with Article 8 paragraph 3 of the Articles of Association of the Company until the end of the ordinary General Meeting which resolves on the discharge of the Supervisory Board members for the fourth fiscal year after commencement of the term of office. The fiscal year in which the term of office commences is not considered for this calculation. The same applies for the Supervisory Board members to be elected by the employees. The eligibility for election of those members of the Supervisory Board to be elected by the employees who must be employees of the company is subject to additional requirements. Among other requirements, they must have reached the age of 18 and have been with the company for one year. If a Supervisory Board member who must be an employee of the company loses eligibility for election, such member's office ends.
+
+The elections of the shareholder representatives are conducted in accordance with recommendation C.15 of the GCGC as individual elections. In case of election proposals to the General Meeting, a curriculum vitae is provided for each candidate in accordance with recommendation C.14 of the GCGC, and any personal or business relationship of a candidate with the enterprise, the corporate bodies of the Company or a significant shareholder of the Company are disclosed in accordance with recommendation C.13 of the GCGC.
+
+The term of office of the members of the Supervisory Board of the Company in the legal form of the KGaA ended by operation of law upon the change of legal form of the Company ta king effect on November 30, 2023. The EGM of the Company on July 14, 2023, which resolved on the change of legal form of the Company into the legal form of an AG, therefore also held elections to the Supervisory Board. Mr. Shervin J. Korangy, Dr. Marcus Kuhnert, Mr. Gregory Sorensen, MD, and Ms. Pascale Witz were elected as members of the Supervisory Board of the Company in the legal form of an AG. Fresenius SE & Co. KGaA, which holds shares in the Company with a proportionate amount of the share capital of the Company of approximately 32.2%, appointed Mr. Michael Sen and Ms. Sara Hennicken to the Supervisory Board on the same day. The election by the General Meeting and the appointment by Fresenius SE & Co. KGaA each took place for the period until the end of the General Meeting of the Company which resolves on the ratification of actions of the members of the Supervisory Board of the Company for fiscal year 2026.
+
+The other members of the Supervisory Board of the Company who held office during the year under review, Dr. Dieter Schenk, Mr. Rolf A. Classon, Dr. Dorothea Wenzel and Prof. Dr. Gregor Zünd, were not available for election at the EGM of the Company on July 14, 2023 and retired from the Supervisory Board of the Company when the change of the Company's legal form took effect on November 30, 2023.
+
+Upon a motion of the Management Board of the Company, the competent local court in Hof (Saale), Germany, appointed Ms. Stefanie Balling, Ms. Beate Haßdenteufel, Mr. Frank Michael Prescher, Dr. Manuela Stauss-Grabo, Mr. Ralf Erkens and Ms. Regina Karsch as employee representatives to the Supervisory Board of the Company effective as of January 26, 2024.
+
+## Page 140
+
+# FRESENIUS 140 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ 🔍
+
+Ms. Stefanie Balling, Ms. Beate Haßdenteufel and Mr. Frank Michael Prescher are employees of the company in accordance with Section 7 paragraph 2 no. 1, paragraph 4 of the German Co-Determination Act. Dr. Manuela Stauss-Grabo was appointed as a representative of the executive employees of the company in accordance with Sections 7 paragraph 2 no. 1, 15 paragraph 1 sentence 2 of the German Co-Determination Act. Mr. Ralf Erkens and Ms. Regina Karsch are representatives of the trade union IGBCE within the meaning of Section 7 paragraph 2 no. 1 of the German Co-Determination Act. IGBCE is the trade union represented in the company within the meaning of Section 7 paragraph 5 of the German Co- Determination Act.
+
+The Supervisory Board of the Company thus includes the number of members representing each constituency (shareholders and employees) as required by law and the Company's Articles of Association. The judicial appointment of the employee representatives exists for the period until the election of the employee representatives by the employees of Fresenius Medical Care entitled to vote has been completed in accordance with the relevant statutory provisions. The election of the employee representatives is expected to be completed in the second half of 2024.
+
+At its constituent meeting following the EGM of the Company on July 14, 2023, the Supervisory Board of the Company in the legal form of an AG elected Mr. Michael Sen as Chairman and Ms. Sara Hennicken as Deputy Chairwoman of the Supervisory Board. The election was made in each case for the period until the election of a Chairperson and a Deputy Chairperson by the Supervisory Board composed of shareholder representatives and employee representatives. In its meeting on March 14, 2024, the now fully staffed Supervisory Board elected Mr. Michael Sen as Chairman and Ms. Stefanie Balling instead of Ms. Sara Hennicken as Deputy Chairwoman.
+
+The Supervisory Board of the Company does not include any members who were previously members of the Management Board of the Company or, for the time the Company in the year under review existed in the legal form of a KGaA, of its general partner.
+
+#### Curricula vitae
+
+Information regarding the members of the Supervisory Board of the Company including curricula vitae is available on the Company's website at [www.freseniusmedicalcare.com](http://www.freseniusmedicalcare.com) in the "About us" section in the sub-section "Supervisory Board". In accordance with recommendation C.3 of the GCGC, information on their term of office on the Company's Supervisory Board and information on positions held at group-internal and group-external listed and non-listed companies is also made available there. Further information on the members of the Supervisory Board can be found in the qualification matrix in the section "Profile of skills and expertise as well as qualification matrix" of this Declaration on Corporate Governance.
+
+#### Rules of Procedure
+
+Details on the election, constitution and term of office of the Supervisory Board, its meetings and the adoption of resolutions, as well as its rights and obligations, are set out in the Company's Articles of Association available on the Company's website at www.freseniusmedicalcare.com in the "Investors" section in the sub-section "Corporate Governance". In accordance with recommendation D.1 of the GCGC, the Supervisory Board has furthermore adopted rules of procedure which set out, among other things, the modalities for convening meetings and the manner in which resolutions are adopted. The rules of procedure of the Supervisory Board of the Company are publicly available on the Company's website at www.freseniusmedicalcare.com in the "About us" section in the sub-section "Supervisory Board".
+
+Accordingly, the Supervisory Board meets at least twice per calendar half year. The meetings of the Supervisory Board can be held by way of personal attendance or by way of a telephone or video conference. Individual Supervisory Board members may participate in meetings held by way of personal attendance by means of video and audio transmission or telephone. Resolutions shall in principle be adopted in meetings. Outside of meetings, resolutions may be passed in writing, by electronic means of communication (e.g., by email) or telephone or in combination of these forms upon order of the Chairperson or, in the event of him or her being unable to act, by the Deputy Chairperson.
+
+The convocation period for meetings of the Supervisory Board is generally two weeks. The deliberations of the Supervisory Board are chaired by the Chairperson of the Supervisory Board or, if the Chairperson is unavailable, by the Deputy Chairperson of the Supervisory Board. The Chairperson of the meeting also determines the order of the agenda items and the voting procedure.
+
+As a rule, the Supervisory Board decides by simple majority of votes cast unless other majorities are prescribed by law or the Articles of Association of the Company. In the event of a tied vote, the Chairperson of the Supervisory Board has two votes in the second vote on the same matter if the repeated vote also results in a tie.
+
+Unless the Chairperson decides otherwise in the individual case, each member of the Management Board is entitled to participate in the meetings of the Supervisory Board and its committees. If the auditor is consulted as an expert in a meeting of the Supervisory Board or its committees, the Management Board shall not participate in this meeting unless the Supervisory Board or the committee deems its participation necessary. The Supervisory Board shall – in accordance with recommendation D.6 of the GCGC – also meet on a regular basis without the Management Board.
+
+The Supervisory Board members are obligated to exclusively serve the interest of the Company. When making decisions, they may neither pursue any personal interest nor use any business opportunities to which the Company or any of its subsidiaries are entitled for their own benefit or the benefit of
+
+## Page 141
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+third parties. Each Supervisory Board member is obligated to disclose any conflicts of interest without undue delay to the Supervisory Board. This in particular applies to any conflicts of interest that may arise due to the provision of advice to clients, suppliers, lenders or other business partners or in connection with the role within a corporate body of clients, suppliers, lenders or other business partners.
+
+The Chairperson of the Supervisory Board coordinates the work and direction of the Supervisory Board and in principle also represents the Supervisory Board with respect to third parties.
+
+The provisions of the rules of procedure for the Supervisory Board of the Company also apply to its committees, unless their rules of procedure contain deviating provisions.
+
+#### Age limit
+
+The Supervisory Board has resolved upon an age limit for the Supervisory Board members in accordance with recommendation C.2 of the GCGC. Accordingly, the Supervisory Board shall, as a rule, only include persons who have not reached the age of 75 years at the time of their election or appointment. The Supervisory Board will observe this standard age limit in its election proposals for membership in the Supervisory Board. The composition of the Supervisory Board is in line with the specified age limit both at the end of the year under review and also taking account the shareholder representatives appointed to the Supervisory Board by the court in January 2024.
+
+#### Independence
+
+According to recommendation C.7 of the GCGC, more than half of the shareholder representatives on the Supervisory Board shall be independent from the Company and the Management Board. Members of the Supervisory Board are considered independent from the Company and its Management Board if they have no personal or business relationship with the Company or its Management Board that may cause a substantial – and not merely temporary – conflict of interest. When assessing the independence of members of the Supervisory Board from the Company and its Management Board, the Supervisory Board shall particularly take into consideration whether the respective Supervisory Board member or a close family member (a) was a member of the Company's Management Board in the two years prior to appointment, (b) is currently maintaining or has maintained a material business relationship with the Company or one of the entities dependent upon the Company in the year up to his or her appointment, directly or as a shareholder, or in a leading position of a non-group entity, or (c) is a close family member of a Management Board member, or (d) has been a member of the Supervisory Board for more than twelve years.
+
+The Supervisory Board resolved that at least four of the six (and, accordingly, more than half of) the shareholder representatives on the Supervisory Board shall be independent within the meaning of the GCGC. Independent within the meaning of recommendation C.7 of the GCGC are, in the view of the Supervisory Board, in any case Mr. Shervin J. Korangy, Dr. Marcus Kuhnert, Mr. Gregory Sorensen, MD, and Ms. Pascale Witz. The Supervisory Board members appointed by Fresenius SE & Co. KGaA on the basis of Article 8 paragraph 2 of the Articles of Association, Mr. Michael Sen and Ms. Sara Hennicken, are each a member of the management board of Fresenius Management SE, the general partner of Fresenius SE & Co. KGaA. Fresenius SE & Co. KGaA holds approximately 32.2% of the share capital and the voting rights of the Company. The Company will continue to maintain a material business relationship with Fresenius SE & Co. KGaA or its dependent companies after the change of legal form has become effective. Mr. Sen and Ms. Hennicken are therefore, as a precaution, not considered independent within the meaning of recommendation C.7 of the GCGC.
+
+Recommendation C.9 of the GCGC, according to which, in the event that the Company has a controlling shareholder within the meaning of the GCGC, a certain number of shareholder representatives shall be independent of the controlling shareholder, does not apply to the Company, because Fresenius SE & Co. KGaA is not a controlling shareholder in this meaning, given the lack of a sustainable majority at the General Meeting. Assuming the applicability of this recommendation, the shareholder representatives Mr. Shervin J. Korangy, Dr. Marcus Kuhnert, Mr. Gregory Sorensen, MD, and Ms. Pascale Witz would be considered independent in this meaning.
+
+The so-called Pooling Agreement, which had been concluded, inter alia, between Fresenius Medical Care Management AG and Fresenius SE & Co. KGaA and which imposed additional requirements on the independence of members of the supervisory board of Fresenius Medical Care Management AG, ended upon the change of the Company's legal form taking effect and the exit of the general partner Fresenius Medical Care Management AG from the Company.
+
+#### Lead Independent Director
+
+In 2021 the Supervisory Board introduced the function of a Lead Independent Director (LID). The LID's function was to ensure that the interests of all shareholders are adequately taken into account in the actions, negotiations, discussions and decisions of the Supervisory Board. The tasks of the LID included developing and maintaining a balanced understanding of the issues and concerns of the shareholders and other stakeholders. In addition to the Chairperson of the Supervisory Board, and within the framework of the statutory provisions, the LID was also available for discussions with shareholders and other stakeholders. The LID was further responsible for dealing with affairs related to environmental, social and governance (ESG) aspects of the company and was entitled to develop and propose corresponding measures. The LID function was exercised by Dr. Dorothea Wenzel, who was
+
+## Page 142
+
+GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0)
+
+TED FURTHER
+STATEMENTS INFORMATION
+
+FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+a member of the Supervisory Board of the Company until the change of the Company's legal form took effect.
+
+The LID function ceased to exist when the change of the Company's legal form took effect. This function had been introduced primarily because of the more than twelve-year term of office of the Chairman of the Supervisory Board incumbent at the time. This rationale for the introduction of the LID function ceased to exist when the change of the Company's legal form took effect and the term of the former Chairman of the Supervisory Board ended.
+
+#### ESG and Sustainability
+
+The Supervisory Board supervises and advises the Management Board in accordance with principle 6 of the GCGC also on sustainability issues. Without prejudice to its overall responsibility, the Supervisory Board has resolved that the Chairperson of the Audit Committee of the Supervisory Board shall have special knowledge in the area of ESG and in the sustainability areas relevant to the Company. Within the framework of the statutory provisions, the Chairman of the Audit Committee, Dr. Marcus Kuhnert, is also available to shareholders and other stakeholders as the Supervisory Board's contact person for discussions on ESG topics.
+
+More information on Fresenius Medical Care's sustainability efforts can be found in the Non-Financial Group Report starting on page 93 of the Annual Report.
+
+#### Self-assessments
+
+In accordance with recommendation D.12 of the GCGC, the members of the Supervisory Board regularly carry out selfassessments with regard to their work. These take place in the form of open discussions in plenary meetings, and on the basis of a corresponding questionnaire. On these annual occurrences, the complexity and the structure of the presentations as well as the procedure and format of the meetings of the Supervisory Board and its committees (such as their number and frequency) are also discussed. The quality and appropriateness of the information provided to the Supervisory Board and its committees, as well as the professional composition of the Supervisory Board and its committees, are also assessed.
+
+The change of legal form of the Company effected extensive changes in the composition of the Supervisory Board of the Company and its committees. In particular, the term of office of the members of the Supervisory Board of the Company who were in office ended when the change of legal form took effect on November 30, 2023. Furthermore, the Supervisory Board of the Company now also is to be composed of employee representatives who could not be appointed by court order or cannot be elected to the Supervisory Board before 2024. Against this background, a self-assessment of the work of the Company's Supervisory Board in the year under review would not have offered any additional benefit. The members of the Supervisory Board of the Company who were in office in the year under review have therefore agreed that the next regular self-assessment should be carried out in 2024, when the Supervisory Board of the Company is fully composed and operating in its new composition.
+
+#### Professional competence
+
+All members of the Supervisory Board have the capabilities, as well as the knowledge required, for the proper exercise of their duties. The Supervisory Board members are in their entirety familiar with the sector in which the Company operates. The members of the Supervisory Board regularly update themselves via in-house and external sources about the current status of supervisory requirements. Details of the support provided by the Company to the members of the Supervisory Board for their induction into office and for their training and development can be found in the Report by the Supervisory Board of the Company starting on page 12 of the Annual Report.
+
+# Profile of skills and expertise as well as qualification matrix
+
+The Supervisory Board, in accordance with principle 11 of the GCGC, ensures that its members in their entirety have the knowledge, capabilities and professional expertise required for the due observation of the duties of a supervisory board of a listed company operating internationally in the health care sector. Against this background and in accordance with the recommendations of the GCGC, the Supervisory Board resolved upon specific objectives regarding its composition and a profile of skills and expertise for the entire Supervisory Board for the first time in 2018.
+
+The Supervisory Board most recently updated its profile of skills and expertise in March 2022. In accordance with recommendation C.1 of the GCGC, the profile also comprises expertise regarding sustainability matters relevant to the company. The Supervisory Board further introduced a regular maximum tenure for serving on the Supervisory Board. Accordingly, the Supervisory Board shall, as a rule, not include more than two persons who at the time of their election or appointment have been members of the Supervisory Board for more than twelve years.
+
+The profile of skills and expertise contains requirements for the individual Supervisory Board members as well as requirements for the entire Supervisory Board, and is available on the Company's website at [www.freseniusmedicalcare.com](http://www.freseniusmedicalcare.com) in the "About us" section in the sub-section "Supervisory Board".
+
+When discussing its recommendations to the General Meeting for the election of shareholder representatives to the Supervisory Board, the Supervisory Board considers, in accordance with recommendation C.1 of the GCGC and within the frame
+
+## Page 143
+
+FRESENIUS 143 MEDICAL CARE 2023 TO OUR  [SHAREHOLDERS](#page-5-0)
+
+R
+HOLDERS
+GI
+MA
+
+GROUP [MANAGEMENT REPORT](#page-28-0) GROUP REPORT
+
+[NON-FINANCIAL](#page-91-0)
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) [INFORMATION](#page-314-0)
+
+FURTHER
+
+work of the profile of skills and expertise as determined by it, in particular the international activities of the company, what it considers to be an adequate number of independent Supervisory Board members, as well as diversity criteria. Pursuant to the profile of skills and expertise, the Supervisory Board is to be composed of at least 30% women and of at least 30% men, whereby in any case not less than two members shall be female and not less than two members shall be male. Comprising four male and two female of in total six Supervisory Board members in office at the end of the year under review, the proportion of male and female Supervisory Board members exceeds the Supervisory Board's respective self-defined target of 30% at the end of the year under review. Since the Company's change of legal form to an AG took effect and the German Co-Determination Act became applicable to the Company, at least 30% of the members of the Supervisory Board must be women and at least 30% must be men in accordance with Section 7 paragraph 3 sentence 1 of the German Co-Determination Act, Section 96 paragraph 2 of the German Stock Corporation Act. Taking into account the employee representatives appointed by court in January 2024, of the twelve members of the Supervisory Board, six members are female and six members are male. Thus, the targets stipulated by law are exceeded as well. Further details can be found in the section "Gender diversity and targets".
+
+The composition of the Supervisory Board at the end of the year under review is in line with the profile of skills and expertise for the Supervisory Board, and fulfills the objectives for the composition of the board designated therein. In accordance with recommendation C.1 of the GCGC, the implementation status of the profile of skills and expertise is disclosed in the form of the following qualification matrix (table 4.4). The assessment in the qualification matrix is based on a self-assessment by the individual Supervisory Board members, taking into account the requirements set out in the profile of skills and expertise for knowledge, capabilities and professional experience. The qualification matrix also displays the diversity
+
+#### T 4.4 QUALIFICATION MATRIX FOR THE MEMBERS OF THE SUPERVISORY BOARD IN OFFICE AT THE END OF THE YEAR UNDER REVIEW
+
+|                                                                | Michael<br>Sen             | Sara<br>Hennicken                  | Shervin J.<br>Korangy | Dr. Marcus<br>Kuhnert                                       | Gregory<br>Sorensen, M.D. | Pascal<br>Witz                                 |
+|----------------------------------------------------------------|----------------------------|------------------------------------|-----------------------|-------------------------------------------------------------|---------------------------|------------------------------------------------|
+| Member since:                                                  | 2023                       | 2023                               | 2023                  | 2023                                                        | 2021                      | 2016                                           |
+| Independence1                                                  | <br>•                      | <br>•                              | <br>•                 | <br>•                                                       | <br>•                     | <br>•                                          |
+| Time availability and limitation<br>of the number of mandates2 | <br>•                      | <br>•                              | <br>•                 | <br>•                                                       | <br>•                     | <br>•                                          |
+| Diversity                                                      |                            |                                    |                       |                                                             |                           |                                                |
+| Gender                                                         | M                          | W                                  | M                     | M                                                           | M                         | W                                              |
+| Year of birth<br>(Standard age limit: 75 years)                | 1968                       | 1980                               | 1974                  | 1968                                                        | 1962                      | 1967                                           |
+| Nationality                                                    | Germany                    | Germany                            | USA                   | Germany and USA                                             | USA                       | France                                         |
+| Educational Background                                         | Business<br>Administration | Economics and<br>political economy | Economics             | Business<br>Administration<br>and Mechanical<br>Engineering | Medicine                  | Biochemistry<br>and Business<br>Administration |
+
+#### Profile of Skills and Expertise: Individual knowledge/experience
+
+| Corporate management                                       | ● | ● | ● | ● |
+|------------------------------------------------------------|---|---|---|---|
+| Sector knowledge and<br>understanding of global activities | ● | ● | ● | ● |
+| Command of the<br>English language                         | ● | ● | ● | ● |
+
+#### Profile of Skills and Expertise: Requirements for the entire Supervisory Board
+
+| Sector experience               |  |  |  |  |  |
+|---------------------------------|--|--|--|--|--|
+| Financial knowledge: Accounting |  |  |  |  |  |
+| Financial knowledge: Auditing   |  |  |  |  |  |
+| Legal, Regulatory, Compliance   |  |  |  |  |  |
+| Sustainability                  |  |  |  |  |  |
+| Digitalization                  |  |  |  |  |  |
+| Internationality                |  |  |  |  |  |
+| Management experience           |  |  |  |  |  |
+
+According to the German Corporate Governance Code in the version of April 28, 2022 (GCGC). Michael Sen and Sara Hennicken are each a member of the Management Board of Fresenius Management SE, the general partner of Fresenius SE & Co. KGaA and have been appointed by the latter to the Supervisory Board in accordance with Article 8 paragraph 2 of the Company's Articles of Association. Fresenius SE & Co. KGaA holds approximately 32.2% of the share capital and the voting rights of the Company. The Company will continue to have a material business relationship with Fresenius SE & Co. KGaA or its affiliated companies also after the effectiveness of the Company's change of its legal form into a stock corporation. Michael Sen und Sara Hennicken are therefore, as a matter of precaution, not considered independent within the meaning of recommendation C.7 of the GCGC.
+
+<sup>2</sup> According to the German Stock Corporation Act and the GCGC.
+
+## Page 144
+
+# FRESENIUS 144 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+level of the Supervisory Board at the end of the year under review across selected aspects.
+
+It is intended to review and, if necessary, revise the profile of skills and expertise and the specific objectives for the composition of the Supervisory Board after the conclusion of the elections of the employee representatives. This is intended to help ensure that the Supervisory Board is composed in the best possible way also taking into account the statutory provisions which apply to the composition of the Supervisory Board following the change of legal form of the Company. A corresponding qualification matrix for the employee representatives to be elected in 2024 will be disclosed in the Declaration on Corporate Governance for 2024 in line with recommendation C.1 of the GCGC.
+
+# Committees of the Supervisory Board
+
+In accordance with the applicable statutory and regulatory requirements, the Articles of Association of the Company, the rules of procedure of the Supervisory Board as well as with principle 14 and recommendations D.2 to D.4 of the GCGC, the Supervisory Board has formed qualified committees from among its members to prepare matters for deliberation and resolutions of the Supervisory Board. The Supervisory Board regularly and timely receives briefings on the committees' work by the Chairpersons of the committees. Details of the committees' activities can be found in the Report by the Supervisory Board of the Company starting on page 12 of the Annual Report.
+
+In the year under review, the Supervisory Board formed an Audit Committee (Prüfungsausschuss), a Presiding Committee (Präsidialausschuss), a Compensation Committee (Vergütungsausschuss) and a Nomination Committee (Nominierungsausschuss). In addition, following the appointment of the employee representatives to the Supervisory Board by court order, the Supervisory Board also formed a Mediation Committee (Vermittlungsausschuss) in accordance with Section 27 paragraph 3 of the German Co-Determination Act with effect as of March 14, 2024.
+
+An Audit Committee (until November 30, 2023: Audit and Corporate Governance Committee) and a Nomination Committee had previously been formed by the Supervisory Board of the Company in the legal form of the KGaA. The Presiding Committee and the Compensation Committee were formed by the Supervisory Board of the Company in the legal form of the AG for the first time in the year under review. Until the change of the Company's legal form, the tasks of the Compensation Committee had been performed by the Human Resources Committee to the extent the supervisory board of the general partner, which had been responsible in this respect at the time, had delegated these tasks to the Human Resources Committee.
+
+Each of the committees of the Company's Supervisory Board is generally composed of four members, in general two shareholder representatives and two employee representatives. In accordance with recommendation D.4 of the GCGC, the Nomination Committee is composed exclusively of shareholder representatives.
+
+Meetings of each of the Audit Committee, the Presiding Committee and the Compensation Committee take place at least twice per calendar half-year, meetings of each of the Nomination Committee and the Mediation Committee as frequently as circumstances require.
+
+The composition and responsibilities of the committees of the Supervisory Board of the Company are described below in more detail.
+
+#### Audit Committee
+
+At the end of the year under review, the Audit Committee (until November 30, 2023: Audit and Corporate Governance Committee) of the Supervisory Board of the Company comprised the shareholder representatives Dr. Marcus Kuhnert (since November 30, 2023, since then also Chairman), Ms. Pascale Witz (until November 30, 2023 also Chairwoman, since November 30, 2023 Deputy Chairwoman) and Mr. Gregory Sorensen, MD (since November 30, 2023).
+
+The members of the Audit and Corporate Governance Committee of the Supervisory Board of the Company previously in office in the year under review, Mr. Rolf A. Classon (until November 30, 2023) and Dr. Dorothea Wenzel (until November 30, 2023, until then also Deputy Chairwoman), each retired from the Supervisory Board of the Company and its Audit and Corporate Governance Committee when the change of legal form of the Company took effect on November 30, 2023.
+
+Following the judicial appointment of the employee representatives on the Supervisory Board of the Company, the Supervisory Board on March 14, 2024 also elected the employee representatives Ms. Stefanie Balling (since then also Deputy Chairwoman) and Mr. Frank Michael Prescher as members of the Audit Committee. Ms. Pascale Witz left the Audit Committee at the same time.
+
+#### Tasks
+
+In accordance with its rules of procedure, the Audit Committee in particular performs all the duties incumbent upon an audit committee pursuant to Section 107 paragraph 3 sentence 2 German Stock Corporation Act and the applicable rules of the U.S. Securities and Exchange Commission (SEC) and the New York Stock Exchange (NYSE). In particular, this includes monitoring the accounting process, the effectiveness of the internal control system, the risk management system
+
+## Page 145
+
+# FRESENIUS 145 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0) [NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ ◯
+
+and the internal audit system as well as the audit of the financial statements, including the selection and independence of the auditor. In addition to other tasks, the Audit Committee also oversees the company's management of environmental, social and governance (ESG) as well as other sustainabilityrelated matters that are relevant to the company and the auditing or assurance of the company's sustainability reporting required by law. Further, the Supervisory Board has delegated to the Audit Committee the responsibility for adopting resolutions on the approval of transactions with related parties in accordance with Sections 111a et seqq. of the German Stock Corporation Act. The Audit Committee also regularly assesses the quality of the audit of the financial statements and, in accordance with recommendation D.10 of the GCGC, discusses with the auditor the audit risk assessment, the audit strategy and audit planning, and the audit results.
+
+#### Independence and financial expertise
+
+The Audit Committee shall, according to its rules of procedure, consist of four members. Members who are shareholder representatives on the Supervisory Board must, in particular, meet the independence criteria within the meaning of the applicable rules of the SEC and the NYSE. Committee members who are employee representatives on the Supervisory Board and are not to be qualified as an "executive officer" of the Company as defined in the relevant SEC Rule shall be exempt from the independence requirements of the applicable SEC Rule and shall otherwise be deemed to be independent notwithstanding their employee relationship with the Company or any of its affiliates. In addition, pursuant to Section 107 paragraph 4 of the German Stock Corporation Act in connection with Section 100 paragraph 5 of the German Stock Corporation Act, at least one member must have expertise in the field of accounting and at least one other member must have expertise in the field of auditing. Pursuant to the more detailed provisions of recommendation D.3 of the GCGC, the respective expertise shall consist of special knowledge and experience in the application of accounting principles and internal control and risk management systems or special knowledge and experience in the auditing of financial statements. The corresponding information on the relevant members of the Audit Committee in office at the end of the year under review is provided below:
+
+Dr. Marcus Kuhnert is a member of the Executive Board (general partner) of E. Merck KG, which holds the majority of shares in the listed MERCK Kommanditgesellschaft auf Aktien (Merck KGaA). Dr. Kuhnert was also a member of the Executive Board (general partner) and CFO of Merck KGaA from 2014 until June 30, 2023. Prior to this, he held various positions at the listed company Henkel AG & Co. KGaA, lastly as CFO of the Laundry & Home Care business unit.
+
+Ms. Pascale Witz worked for more than 20 years in leadership roles at Sanofi and GE Healthcare, where she held financial controls responsibility in several of these roles. In particular, as Executive Vice President for the Diabetes & Cardiovascular Division of Sanofi and as President & CEO of GE Healthcare Pharmaceutical Diagnostics, Ms. Witz's functions included reviews and discussions with the auditors, supervising the CFO for this corporate division, and multiple accounting and financial reviews for reporting, auditing, risk management or mergers & acquisitions as well as divestments & joint ventures. In addition, Ms. Witz has been a member of audit committees of listed companies since 2017. She is serving on the audit committee of Revvity, Inc., USA, since 2018, and is the former Chairwoman of the audit committees at Regulus Therapeutics, Inc., USA (from 2017 until 2019) and Horizon Therapeutics plc., Ireland (from 2018 until 2023) as well as the former Chairwoman of the Audit and Corporate Governance Committee of the Company in the legal form of the KGaA (2023). As such, Ms. Witz has been reviewing and approving transactions and financing operations and has been actively reviewing internal controls and risk management systems, as well as the application of accounting systems.
+
+Mr. Gregory Sorensen, MD, serves as Chief Executive Officer of DeepHealth, Inc. , USA, and Executive Chairman of the Board of Directors of IMRIS (Deerfield Imaging, Inc.), USA, since 2015. Since 2023, he also serves as a Management Board member of the listed RadNet, Inc., USA. Previously, he was President and Chief Executive Officer (CEO) of Siemens Medical Solutions USA, Inc. In these functions, his activities included or still include, respectively, extensive interfaces to both accounting and auditing matters. In addition, Mr. Sorensen, MD, served as Chairman of the audit committee of DFB Healthcare Acquisitions Corp. (now: AdaptHealth Corp.), USA, from 2017 to 2019 and as Chairman of the audit committee of DFP Healthcare Acquisitions Corp. (now: The Oncology Institute, Inc.), USA, from 2019 to 2021, both of which are NASDAQ listed companies.
+
+In the opinion of the Supervisory Board, the composition of the Audit Committee meets all aforementioned requirements as to the independence and financial expertise of its members. Each of Dr. Marcus Kuhnert and Ms. Pascale Witz as well as Mr. Gregory Sorensen, MD, are financial experts in the meaning of Section 100 paragraph 5 German Stock Corporation Act as well as "audit committee financial experts" within the meaning of the applicable rules of the SEC. Due to their extensive years of experience, they each have expertise in the fields of both accounting and auditing. In particular, due to their many years of activity as CFO or member of audit committees, respectively, Dr. Marcus Kuhnert and Ms. Pascale Witz as well as Mr. Gregory Sorensen, MD, each also have special knowledge and experience in the meaning of recommendation D.3 GCGC both in the application of accounting principles and internal control and risk management systems as well as in the auditing of financial statements.
+
+In accordance with recommendations D.3 and C.7 of the GCGC, each of Dr. Kuhnert and Ms. Witz as well as Mr. Gregory Sorensen, MD, is or was, respectively, neither the Chairperson of the Supervisory Board of the Company nor a former member of the Management Board whose appointment has ended less than two years ago. All members of the Audit Committee in
+
+## Page 146
+
+# FRESENIUS 146 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+≡ 🔍
+
+office at the end of the year under review are independent within the meaning of applicable provisions. Dr. Kuhnert and Ms. Witz in their function as Chairman or Chairwoman of the committee, respectively, are or were independent within the meaning of recommendation C.10 of the GCGC.
+
+Corresponding information on the financial expertise of the relevant employee representatives on the Audit Committee to be elected in 2024 will be disclosed in the Declaration on Corporate Governance for 2024.
+
+#### Presiding Committee
+
+The Presiding Committee, which was formed for the first time in the year under review, consisted of the shareholder representatives Mr. Michael Sen (Chairman) and Dr. Marcus Kuhnert. Following the judicial appointment of the employee representatives to the Supervisory Board of the Company, the Supervisory Board on March 14, 2024 also elected the employee representative Mr. Ralf Erkens as a member of the Presiding Committee. The employee representative Ms. Stefanie Balling, who has been Deputy Chairwoman of the Supervisory Board since March 14, 2014, has also been a member and the Deputy Chairwoman of the Presiding Committee since then.
+
+The Presiding Committee is responsible in particular for preparing Supervisory Board meetings, coordinating the work of the Supervisory Board and its committees, as well as for administrative matters relating to the Supervisory Board. The Presiding Committee is also responsible for various Management Board matters including recommendations to the Supervisory Board on the appointment or dismissal of Management Board members and on the allocation of responsibilities among the Management Board members. The Presiding Committee further reviews and assesses the Company's corporate governance. The Presiding Committee resolves, inter alia, on any amendment to the Articles of Association of the Company that only affect the wording (Fassungsänderungen). Where the matter cannot be delayed and the Supervisory Board cannot pass a resolution in time, the Presiding Committee may resolve upon such matters instead of the Supervisory Board in accordance with the more detailed provisions of its rules of procedure.
+
+#### Compensation Committee
+
+In the year under review, the Compensation Committee was formed by the Supervisory Board of the Company in the legal form of the AG for the first time and was composed of the shareholder representatives Ms. Pascale Witz (Chairwoman) and Mr. Shervin J. Korangy. Following the judicial appointment of the employee representatives to the Supervisory Board of the Company, the Supervisory Board on March 14, 2024 also elected the employee representatives Dr. Manuela Stauss-Grabo (since then also Deputy Chairwoman) and Ms. Regina Karsch as members of the Compensation Committee. The Chairwoman of the Compensation Committee, Ms. Witz, is independent of the Company and the Management Board in accordance with recommendation C.10 of the GCGC.
+
+The Compensation Committee is responsible for preparing decisions of the Supervisory Board regarding the compensation of the members of the Management Board. This includes the preparation of the determination of the compensation system and of the short-term and long-term incentive plans for the Management Board as well as the definition of the targets for variable compensation components and the definition of target values as well as of the determination of the target achievement. The Compensation Committee also prepares the regular review by the Supervisory Board of the appropriateness of the compensation system and of the total compensation of the individual Management Board members. The Compensation Committee also reviews the compensation report.
+
+#### Nomination Committee
+
+In accordance with recommendation D.4 of the GCGC, only shareholder representatives are members of the Nomination Committee of the Supervisory Board of the Company. As of the end of the year under review, the Nomination Commit tee consisted of Mr. Michael Sen (Chairman), Mr. Shervin J. Korangy (Deputy Chairman), Ms. Sara Hennicken and Ms. Pascale Witz.
+
+The members of the Nomination Committee of the Supervisory Board of the Company previously in office in the year under review, Dr. Dieter Schenk (Chairman), Mr. Rolf A. Classon (Deputy Chairman) and Dr. Dorothea Wenzel, retired from the Supervisory Board of the Company and its Nomination Committee when the change of legal form of the Company took effect on November 30, 2023.
+
+The Nomination Committee identifies and recommends suitable candidates to the Supervisory Board for its proposals to the General Meeting for the election of Supervisory Board members. The Nomination Committee also recommends suitable candidates to the Supervisory Board in case a judicial appointment of a shareholder representative on the Supervisory Board is required. The Nomination Committee further makes recommendations to the Supervisory Board on members of the shareholder representatives to be elected to the committees of the Supervisory Board. This does not apply to the election of members of the shareholder representatives to the Mediation Committee.
+
+#### Mediation Committee
+
+The Mediation Committee formed on March 14, 2024 following the appointment of the employee representatives to the Supervisory Board by the court has since comprised the shareholder representatives Mr. Michael Sen (Chairman) and Mr. Gregory Sorensen, MD, as well as the employee repre-
+
+## Page 147
+
+# FRESENIUS 147 MEDICAL CARE 2023
+
+TO OUR  [SHAREHOLDERS](#page-5-0) GROUP [MANAGEMENT REPORT](#page-28-0)
+
+[NON-FINANCIAL](#page-91-0) GROUP REPORT
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+☰ ◯
+
+sentatives Ms. Stefanie Balling (Deputy Chairwoman) and Ms. Beate Haßdenteufel.
+
+The Mediation Committee performs the tasks incumbent upon a Mediation Committee pursuant to Section 27 paragraph 3 in conjunction with Section 31 paragraph 3 sentence 1 of the German Co-Determination Act. It is responsible for putting forward proposals for the appointment or dismissal of members of the Management Board to the Supervisory Board if the respective measure has not been passed by the Supervisory Board with the required majority during the first vote.
+
+#### Joint Committee
+
+Until the change of legal form to an AG took effect, the Company had maintained a Joint Committee whose composition and responsibilities were governed by Articles 13a et seqq. of the Articles of Association of the Company in the legal form of the KGaA. For details of the composition and responsibilities of the Joint Committee, see the Declaration on Corporate Governance for 2022, which is available on the Company's website at www.freseniusmedicalcare.com in the "Investors" section in the sub-section "Corporate Governance". The Joint Committee did not meet in the year under review because no matters arose that were required to be submitted to the Joint Committee. The Joint Committee ceased to exist when the change of the Company's legal form took effect. In the legal form of an AG, a Joint Committee (as it existed at the Company until the change of legal form took effect) is no longer required nor permissible.
+
+# Diversity concept and targets
+
+#### Diversity concept for governance bodies
+
+Fresenius Medical Care considers diversity, equity and inclusion a strength of the company. A high degree of diversity in the composition of the Management Board, the Supervisory Board and the global workforce is an important objective of Fresenius Medical Care and is in the interest of the Company because this creates an integrative working environment and lays the foundation for personal and corporate success. Diversity at Fresenius Medical Care is defined in a broad way, including – but not limited to – age, gender, nationality, cultural and ethnical origin, sexual orientation, disability, educational background, and work experience. The goal is the integration of differing perspectives and various aspects in cooperation and decision-making, in order to increase the understanding for the manifold requirements of a globally active company with heterogeneous groups of customers. Diversity, equity and inclusion are an integral part of the sustainability efforts and of the corporate culture of Fresenius Medical Care.
+
+The existing diversity concept for the composition of the Management Board and the Supervisory Board reflects this understanding and is part of the staffing processes. The individual's qualification – this includes expertise as well as skills and experience – continues to be the core selection criterion in particular for the proposals to the General Meeting for the election of new members to the Supervisory Board; diversity aspects are considered to ensure a comprehensive and balanced decision process. For preparation of any nomination proposal, the respective competent governance body or the competent committee, as the case may be, thoroughly evaluates the current composition of the body to be staffed and carefully analyzes each potential candidate's profile with regard to the diversity criteria. Thereby, the above-mentioned standard age limits for the Management Board and for the Supervisory Board and the profile of skills and expertise for the Supervisory Board are taken into account.
+
+Diversity is further actively managed in senior management levels below the Management Board in accordance with recommendation A.2 of the GCGC. To this end, diversity aspects such as gender are particularly considered in the evaluation of the "talent pipelines". Additional reports, for example on the number and share of female junior talents in talent evaluation and the succession planning process, support the focus on diversity in development planning and the preparation for filling vacancies. This serves to strengthen the pursued diversity concept and to identify suitable talents at an early stage.
+
+#### T 4.5 MANAGEMENT BOARD - DIVERSITY ASPECTS
+
+| Management Board member    | Gender | Nationality       | Education                | Age |
+|----------------------------|--------|-------------------|--------------------------|-----|
+| Helen Giza                 | Female | British and U.S.  | Business                 | 55  |
+| Martin Fischer             | Male   | German            | Business Informatics     | 47  |
+| Franklin W. Maddux, MD     | Male   | U.S.              | Medicine and Mathematics | 66  |
+| Dr. Katarzyna Mazur-Hofsäß | Female | Polish and German | Medicine                 | 60  |
+| William Valle1             | Male   | U.S.              | Business                 | 63  |
+
+Mr. William Valle left the Management Board at the end of the year under review, and Mr. Craig Cordola (52) was appointed as the member of the Management Board responsible for Care Delivery with effect from January 1, 2024.
+
+The diversity level of the Management Board across selected aspects at the end of the year under review is displayed in the table 4.5. Corresponding information on the diversity level of the Supervisory Board can be found in the section "Profile of skills and expertise as well as qualification matrix".
+
+## Page 148
+
+GROUP [MANAGEMENT REPORT](#page-28-0) GROUP REPORT
+
+[NON-FINANCIAL](#page-91-0)
+
+CORPORATE [GOVERNANCE](#page-132-0) CONSOLIDATED [FINANCIAL STATEMENTS](#page-196-0) FURTHER [INFORMATION](#page-314-0)
+
+#### Gender diversity and targets
+
+Until the change of legal form of the Company took effect, the Supervisory Board of the Company was required by law pursuant to Section 111 paragraph 5 of the German Stock Corporation Act to define targets for the representation of female members in the Supervisory Board as well as an implementation period, and to report on the defined targets and their achievement during the relevant reference period or, in the event of a failure to meet these targets, on the reasons for this, as part of the Declaration on Corporate Governance. Against this background, the Supervisory Board of the Company had resolved in 2022 that at least 30% (and in any case no fewer than two members of the Supervisory Board of the Company) should be female, and set an implementation deadline of May 9, 2027. Since the Company's change of legal form to an AG became effective and the German Co-Determination Act became applicable to the Company, at least 30% of the members of the Supervisory Board must be women and at least 30% must be men in accordance with Section 7 paragraph 3 sentence 1 of the German Co-Deter mination Act, Section 96 paragraph 2 of the German Stock Corporation Act. For a twelve-member Supervisory Board, this corresponds to at least four women and at least four men. Both aforementioned gender quota requirements were met, both in the year under review (six members, two of whom are female and four of whom are male) and also taking into account the employee representatives appointed by the court in January 2024 (twelve members, six of whom are female and six of whom are male).
+
+Since the change of the Company's legal form to an AG took effect and the German Co-Determination Act became applicable to the Company, gender requirements for the composition of the Management Board, too, are applicable for the first time. According to Section 76 paragraph 3a of the German Stock Corporation Act, if the Management Board of the Company consists of more than three persons, then it must include at least one woman and at least one man. This requirement was also met and continues to be met. At the end of the year under review, two of the five members of the Management Board (40%) were female and three of the five members (60%) were male.
+
+In accordance with Section 76 paragraph 4 of the German Stock Corporation Act, the Management Board is statutorily obliged to determine targets for female representation in the two top management levels below the Management Board and a respective implementation period. This obligation already existed before the change of legal form took effect and remains unaffected by it.
+
+The Management Board most recently in 2022 determined targets for female representation in the two top management levels below the Management Board and corresponding implementation periods.
+
+The first management level includes all managers worldwide who directly report to a member of the Management Board and participate in the group-wide long-term incentive program. The target figure for female representation is 35%. The implementation period ends on December 31, 2027. At the end of the year under review, 24% of managers in this first management level were female (2022: 26%).
+
+The second management level includes all managers worldwide who directly report to a management executive of the first management level and participate in the group-wide  long-term incentive program. The target figure for female representation is 45%. The implementation period ends on December 31, 2027. At the end of the year under review, 36% of managers in this second management level were female (2022: 31%).
+
+The respective proportion of women at the end of each year is therefore as shown in the table 4.6.
+
+The recruiting and staffing practice of Fresenius Medical Care as well as the selection decisions regarding the hiring and promotion to top management levels will also in the future be taken with a focus on the specific qualifications of the individual. For this reason, the Management Board will select candidates for the top management of Fresenius Medical Care according to the candidate's excellence and suitability for the specific role and function in such management positions, regardless of their race, gender, or other non-performance related attributes. The number and proportion of female Supervisory Board members and Management Board members, the continuous achievements of, and increase to, our diversity targets, as well as their anchoring within the company's sustainability efforts, demonstrate the considerable importance of diversity for Fresenius Medical Care.
+
+#### T 4.6 GENDER DIVERSITY AND TARGETS
+
+|                         | Target figure (in %) | Status 2022 (in %) | Status 2023 (in %) |
+|-------------------------|----------------------|--------------------|--------------------|
+| Supervisory Board       | 30                   | 33                 | 33                 |
+| Management Board        | –                    | 40                 | 40                 |
+| First Management Level  | 352                  | 26                 | 24                 |
+| Second Management Level | 452                  | 31                 | 36                 |
+
+There are no quota requirements for the Management Board. If the Management Board consists of more than three persons, at least one woman and at least one man must be a member of the Management Board.
+
+<sup>2</sup> Implementation period until December 31, 2027.

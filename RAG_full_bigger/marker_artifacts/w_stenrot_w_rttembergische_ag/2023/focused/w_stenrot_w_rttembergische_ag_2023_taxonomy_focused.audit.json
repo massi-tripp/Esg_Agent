@@ -1,0 +1,170 @@
+{
+  "company_slug": "w_stenrot_w_rttembergische_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\w_stenrot_w_rttembergische_ag\\2023\\w_stenrot_w_rttembergische_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\w_stenrot_w_rttembergische_ag\\2023\\focused\\w_stenrot_w_rttembergische_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        75
+      ],
+      "start_page": 73,
+      "end_page": 80,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "75": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        385,
+        388,
+        389,
+        395,
+        398,
+        401
+      ],
+      "start_page": 383,
+      "end_page": 406,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "385": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "388": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "389": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "395": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "398": [
+                "Article 8"
+              ],
+              "401": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        414,
+        415,
+        416,
+        417,
+        420,
+        422,
+        423
+      ],
+      "start_page": 412,
+      "end_page": 428,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "414": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "415": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "416": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "417": [
+                "Taxonomy-aligned activities",
+                "Annex I"
+              ],
+              "420": [
+                "Taxonomy-aligned activities"
+              ],
+              "422": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "423": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        434,
+        435
+      ],
+      "start_page": 432,
+      "end_page": 440,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "434": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "435": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

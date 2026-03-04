@@ -1,0 +1,193 @@
+{
+  "company_slug": "rwe_ag_st",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\rwe_ag_st\\2023\\rwe_ag_st_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\rwe_ag_st\\2023\\focused\\rwe_ag_st_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        3,
+        5
+      ],
+      "start_page": 1,
+      "end_page": 10,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "3": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "5": [
+                "Taxonomy-aligned activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        14
+      ],
+      "start_page": 12,
+      "end_page": 19,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "14": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        54
+      ],
+      "start_page": 52,
+      "end_page": 59,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "54": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        75,
+        78,
+        79
+      ],
+      "start_page": 73,
+      "end_page": 84,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "75": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "78": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "79": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        92,
+        93,
+        95,
+        98,
+        99,
+        101
+      ],
+      "start_page": 90,
+      "end_page": 106,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "92": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities"
+              ],
+              "93": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "95": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "98": [
+                "Taxonomy-eligible activities"
+              ],
+              "99": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "101": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        311,
+        312,
+        313
+      ],
+      "start_page": 309,
+      "end_page": 317,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "311": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "312": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "313": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

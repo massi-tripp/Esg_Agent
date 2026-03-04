@@ -1,0 +1,132 @@
+{
+  "company_slug": "mediclin_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\mediclin_ag\\2023\\mediclin_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\mediclin_ag\\2023\\focused\\mediclin_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        40,
+        42,
+        43
+      ],
+      "start_page": 28,
+      "end_page": 48,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "30": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "31": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "32": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "33": [
+                "Taxonomy-eligible activities"
+              ],
+              "34": [
+                "Taxonomy-eligible activities",
+                "Annex I"
+              ],
+              "35": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities"
+              ],
+              "36": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "37": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "38": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "40": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "42": [
+                "Article 8"
+              ],
+              "43": [
+                "Annex I"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        197,
+        198,
+        199
+      ],
+      "start_page": 195,
+      "end_page": 204,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "197": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "198": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "199": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "company_slug": "prosegur_cash_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\prosegur_cash_s_a\\2023\\prosegur_cash_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\prosegur_cash_s_a\\2023\\focused\\prosegur_cash_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        245,
+        247,
+        248,
+        251,
+        252
+      ],
+      "start_page": 243,
+      "end_page": 257,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "245": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "247": [
+                "Annex I"
+              ],
+              "248": [
+                "Annex I"
+              ],
+              "251": [
+                "Annex I"
+              ],
+              "252": [
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        330,
+        332,
+        334
+      ],
+      "start_page": 328,
+      "end_page": 339,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "330": [
+                "Environmentally sustainable activities"
+              ],
+              "332": [
+                "Environmentally sustainable activities"
+              ],
+              "334": [
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        400
+      ],
+      "start_page": 398,
+      "end_page": 405,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "400": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

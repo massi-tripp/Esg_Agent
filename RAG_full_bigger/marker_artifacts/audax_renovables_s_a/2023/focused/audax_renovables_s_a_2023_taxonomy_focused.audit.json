@@ -1,0 +1,126 @@
+{
+  "company_slug": "audax_renovables_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\audax_renovables_s_a\\2023\\audax_renovables_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\audax_renovables_s_a\\2023\\focused\\audax_renovables_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        9
+      ],
+      "start_page": 7,
+      "end_page": 14,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "9": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        94
+      ],
+      "start_page": 92,
+      "end_page": 99,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "94": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        166
+      ],
+      "start_page": 164,
+      "end_page": 171,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "166": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        214,
+        219,
+        220,
+        221,
+        222,
+        224
+      ],
+      "start_page": 212,
+      "end_page": 226,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "214": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "219": [
+                "Article 8"
+              ],
+              "220": [
+                "Article 8"
+              ],
+              "221": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "222": [
+                "Environmentally sustainable activities"
+              ],
+              "224": [
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

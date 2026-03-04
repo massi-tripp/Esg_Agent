@@ -1,0 +1,889 @@
+## Page 80
+
+**Combined Management R**
+
+<span id="page-79-0"></span>[To the shareholders](#page-32-0) **[Combined Management Report](#page-44-0)** [Consolidated](#page-188-0) [Financial](#page-188-0) [Statements](#page-188-0) [Additional Information](#page-260-0)
+
+## **New Work**
+
+tesa has further invested in IT and communications technology for hybrid working and integrated creative and social spaces into working practices. These are inviting settings for meetings and creative collaboration. tesa also implemented its first desk-sharing concepts in selected departments to enable even greater individual freedom in the choice of working location and to better reflect working in matrix structures.
+
+#### **Additional benefits**
+
+In addition, employees at the headquarters in Norderstedt can, among other offerings, take advantage of a cleaning service, visit regular market stalls to purchase regional fruit and vegetables, and utilize various mobility concepts. For example, they have the ability to charge electric vehicles and e-bikes at a company charging point and park rental bikes from Hamburg's "Stadtrad" initiative at a station on-site. Employees also have the option of leasing bicycles through a subsidized program.
+
+## Sustainability<sup>1</sup>
+
+Sustainability is firmly anchored in our business strategy and is a central element of our decision-making and business processes. For us, acting sustainably means conserving resources, constantly reducing our carbon footprint, respecting and strengthening human rights throughout the entire value chain, and making a positive contribution to an inclusive society. In 2023, we continued to make solid progress and drive forward the transformation of our company, which we detail in our Non-financial Statement (NFE).
+
+Additional information on sustainability is also available at [www.beiersdorf.com/sustainability](https://www.beiersdorf.com/sustainability) and [www.tesa.com/en/about-tesa/sustainability.](https://www.tesa.com/en/about-tesa/sustainability)
+
+<sup>1</sup> This section of the Combined Management Report is not subject to audit requirements.
+
+## Page 81
+
+## <span id="page-80-0"></span>**Non-financial Statement**
+
+## Combined Non-financial Statement of the Beiersdorf Group and Beiersdorf AG
+
+In accordance with Germany's CSR Directive Implementation Act (CSR-RUG), Beiersdorf reports on material non-financial aspects of its business activities in its Annual Report. These include aspects regarding the environment, employees, society, human rights, and anti-corruption. The following sections of the Annual Report constitute the Combined Non-financial Statement (NFS) for the Beiersdorf Group (Consumer and tesa Business Segments) and Beiersdorf AG, as defined under sections 315b and 289b of the Handelsgesetzbuch (German Commercial Code, HGB).
+
+Alongside the NFS, the tesa Business Segment publishes a separate sustainability report with more detailed information on sustainability activities and projects during the reporting year.
+
+## Application of international reporting frameworks
+
+Due to the different materiality requirements set out in the Global Reporting Initiative (GRI) Standards, United Nations Global Compact (UNGC), and Germany's CSR Directive Implementation Act (CSR-RUG), neither the Beiersdorf Group nor Beiersdorf AG applied any international frameworks in accordance with section 315c(3) of the HGB in conjunction with section 289d of the HGB to prepare the Nonfinancial Statement. The Consumer Business Segment, however, follows the GRI Standards and publishes a separate GRI index.
+
+Both business segments are UNGC members and provide annual progress reports ("Communication on Progress" – COP) outlining the successes achieved and measures taken in the reporting period to implement the ten principles of the UNGC in the areas of human rights, working conditions, environmental protection, and anti-corruption. In 2023, the UNGC introduced a new digital platform on which to submit the COP, though technical problems led to the platform being taken offline temporarily. As a result, submission of the COP was voluntary in the reporting year, and Beiersdorf will resume its reporting in 2024.
+
+## Material non-financial topics for the business segments
+
+Both business segments conduct materiality analyses to strategically identify and review sustainability topics. In the Consumer Business Segment, such an analysis was last carried out in 2021. The following material topics were identified during this process: Climate protection, circular economy, sustainable land use and biodiversity, sustainable use of water, diversity and inclusion, education and training, employer attractiveness, occupational health and safety, safeguarding human rights, community engagement, compliance and business ethics, and product safety.
+
+The tesa Business Segment last updated its materiality matrix with members of relevant specialist departments in 2020. The material non-financial topics identified are climate and energy, product sustainability, resource efficiency, water, employee development, diversity and equal opportunities, occupational health and safety, human rights, prevention of anticompetitive behavior, and product safety. For an overview of all material non-financial topics relating to the Consumer and tesa Business Segments, together with section and page references, please refer to our index to the Non-financial Statement.
+
+No changes were made to the materiality analyses of the Consumer and tesa business segments in the reporting year, meaning that the aforementioned topics remain material. The materiality analyses are to
+
+## Page 82
+
+be merged at Group-level and restructured in 2024 in order to meet future reporting requirements in accordance with the EU's Corporate Sustainability Reporting Directive (CSRD).
+
+## Statement scope
+
+Disclosures on the material NFS topics are mainly provided separately for the tesa and Consumer Business Segments. In principle, all information is reported jointly for the Beiersdorf Group and Beiersdorf AG. Key figures that are collected separately for Beiersdorf AG are listed in the table "Relevant Key Figures for the Non-financial Statement of the Beiersdorf AG."
+
+The Chantecaille business is managed as a separate business unit and is not included in the reported key figures due to its comparatively low sales volume. Likewise, the majority shareholding S-Biomedic, which was acquired in 2022, is not included in the key figures for reasons of materiality.<sup>1</sup> Due to the limited data availability with regard to non-financial topics, our NIVEA-KAO business in Japan is also not included in this statement. There is one exception, however: The calculation of CO2e emission figures does include NIVEA-KAO.<sup>2</sup>
+
+Since fiscal year 2021, we have also been reporting on revenues, capital expenditures, and operating expenses associated with environmentally sustainable activities in the NFS in accordance with Article 8 of the EU Taxonomy Regulation. The Consumer and tesa Business Segments report jointly on the EU taxonomy.
+
+The Non-financial Statement has been subjected to a limited assurance engagement by the auditing company EY GmbH & Co. KG Wirtschaftsprüfungsgesellschaft based on the International Standard on Assurance Engagements 3000 (Revised).
+
+In order to avoid redundancies, reference is made to passages in the Combined Management Report that contain non-financial disclosures. This relates to the areas "Business and Strategy" and "People at Beiersdorf." Some of the information in these sections also forms part of the Non-financial Statement. The relevant sections are marked with ↱↲ in the Combined Management Report.
+
+<sup>1</sup> With the exception of compliance and employee KPIs.
+
+<sup>2</sup> The CO2e emission figures recorded for NIVEA-KAO comprise Scopes 1 and 2 as well as the following Scope 3 items: packaging and raw materials as well as finished goods production, each from the category "Purchased goods and services" and "Upstream transportation."
+
+## Page 83
+
+NFS-Index
+
+| Strategy                      |                              |        |                                           |        |
+|-------------------------------|------------------------------|--------|-------------------------------------------|--------|
+| Description of Business Model |                              |        |                                           |        |
+| Material risks                |                              |        |                                           |        |
+| NFS-Aspect                    | Material topics Consumer     |        | Material topics tesa                      |        |
+|                               | Climate protection           | p. 86  | Climate and energy                        | p. 86  |
+|                               | Circular economy             | p. 94  | Product sustainability                    | p. 97  |
+| Environment                   | Sustainable land use         | p. 99  | Resource efficiency                       | p. 103 |
+|                               | Water                        | p. 104 | Water                                     | p. 104 |
+|                               | Training and education       | p. 106 | Employee development                      | p. 107 |
+|                               | Diversity and inclusion      | p. 107 | Diversity and equal opportunity           | p. 108 |
+| Employees                     | Employer attractiveness      | p. 107 |                                           |        |
+|                               | Occupational health & safety | p. 109 | Occupational health & safety              | p. 109 |
+| Society                       | Community engagement         | p. 111 |                                           |        |
+| Human Rights                  | Safeguarding human rights    | p. 116 | Safeguarding human rights                 | p. 117 |
+| Compliance                    | Compliance & business ethics | p. 118 | Prevention of anticompetitive<br>behavior | p. 119 |
+| Further matters               | Product safety               | p. 121 | Product safety                            | p. 121 |
+| EU Taxonomy Reporting         |                              |        |                                           |        |
+
+## Strategy
+
+Sustainability is a core component of Beiersdorf corporate culture and of fundamental importance in our decision-making and business processes. We strive to reconcile environmental protection, social responsibility, and our economic success and are constantly refining and enhancing our commitment and engagement in these areas.
+
+Our Group-wide Corporate Sustainability function is responsible for setting the strategic direction of our sustainability activities and regularly reports to the Executive Board on progress and the need for action. This function reports directly to the Chairman of the Executive Board of Beiersdorf AG, who is responsible for sustainability.
+
+We have two cross-functional steering committees in place to oversee the management of key sustainability issues such as climate action: the Sustainability Council for the Consumer Business Segment and the Global Executive Committee for tesa. The directors of all relevant business units headed by the members of the Executive Board are represented on the Sustainability Council. This committee meets at least once every quarter. The Global Executive Committee at tesa is composed of the members of the Executive Board and other executives. The committee meets every two weeks and also discusses sustainability-related topics in the course of its meetings. In addition, the Chief Sustainability Officer reports directly to the Chairman of the Executive Board of tesa.
+
+We also maintain a regular dialogue with our external stakeholders. This exchange ensures that we continuously review our sustainability activities and include current social and environmental developments in our planning.
+
+## Page 84
+
+CARE BEYOND SKIN Sustainability Agenda Sustainability Agenda (Consumer Business Segment) (tesa Business Segment)
+
+(tesa Business Segment)
+
+Image /page/83/Figure/6 description: The image shows two circular diagrams illustrating sustainability agendas. The diagram on the left is labeled with "CARE BEYOND SKIN SUSTAINABILITY AGENDA Beiersdorf" in the center, and it is divided into sections labeled "CONSUMER," "ENVIRONMENT," and "SOCIETY." Each section contains specific goals: "For consumer health and wellbeing," "For a climate caring future," "For fully circular resources," "For sustainable land use," "For regenerative water environments," "For employees along our entire value chain," and "For an inclusive society." The diagram on the right is labeled with "tesa SUSTAINABILITY AGENDA" in the center, and it is divided into sections labeled "CUSTOMERS," "ENVIRONMENT," and "SOCIETY." Each section contains specific goals: "Towards product sustainability," "For a climate positive future," "For fully circular resources," "Responsibility for biodiversity, land and water use," "For an inclusive society," and "Health, safety and decent work."
+
+## **Consumer**
+
+Sustainability is central to our Corporate Purpose, which is why we implemented it in the C.A.R.E.+ business strategy we defined in 2019 as an important cornerstone of our business activities.
+
+Our CARE BEYOND SKIN Sustainability Agenda has been an integral part of C.A.R.E.+ since 2020. It comprises seven focus fields that concentrate on the impact of our activities throughout the entire value chain – from the climate impact of our products and processes, the circularity of the resources we use and their influence on land and water use, through to the health and safety of our employees and consumers, and our commitment to an inclusive society. We have set ourselves ambitious targets in all areas, which we aim to achieve by 2025 and 2030, respectively.
+
+Our efforts are based on the Ten Principles of the United Nations Global Compact (UNGC) and the Sustainable Development Goals (SDGs). Through the implementation of our sustainability agenda, we are contributing to 13 of the 17 SDGs.
+
+We raised our ambitions during the reporting year, particularly with regard to climate protection. Our aim is to cut all our direct and indirect greenhouse gas emissions (Scopes 1, 2, and 3) by 90% by 2045 (versus the base year 2018) and thus achieve net zero emissions by the target year in accordance with the Net Zero Standard of the Science-Based Target initiative (SBTi). In early 2024, the SBTi confirmed that it considers this goal to be in line with the targets of the Paris Climate Agreement.
+
+We also held our first global volunteer day at Beiersdorf in 2023. All employees worldwide were given the chance to spend an entire working day volunteering for various projects run by local non-profit organizations. More than 10,000 employees in 68 countries participated in this "CARE BEYOND SKIN Day," supporting social and environmental causes aligned with our Sustainability Agenda and thereby heightening their awareness of sustainability issues.
+
+## Page 85
+
+**tesa**
+
+At tesa, sustainability is firmly enshrined in the business strategy. Our ambition is to use all our technological know-how and passion to develop more sustainable adhesive solutions and products.
+
+Five strategic action areas, for which tesa has set long-term targets for 2030, form the framework for this. These fields extend across the business segment's entire value chain and are: Reduction of Emissions, Responsible Sourcing, Use of Recycled and Bio-based Materials, Circularity and Reduction of Waste, and Supporting our Customers in their Sustainability goals.
+
+The sustainability agenda, which is based on the Ten Principles of the UNGC and the SDGs of the United Nations, continues to be a cornerstone of the strategy. It now reflects our aspiration to view sustainability holistically and thus also includes topics that go beyond the strategic action areas – like occupational safety, for example.
+
+## Description of the business model
+
+Beiersdorf is one of the world's leading companies in the consumer goods industry. Since its founding in 1882, the company has become well-established thanks to its strong brands and it now has over 20,000 employees. The Beiersdorf business is divided into two segments: The Consumer Business Segment, which focuses on skin care, and the tesa Business Segment, which concentrates on developing high quality self-adhesive systems and product solutions. A detailed description of the business model is provided in the "Business and Strategy" section in the Group Management Report.
+
+## Material risks
+
+As a company that operates on a global scale, we are aware of our position as a role model and our obligation to conduct our activities in a responsible manner when interacting with the environment, individuals, and society as a whole. If we fail to fulfill our due diligence, it can lead to non-financial risks. This may include risks arising from our own business activities (inside-out risks), such as negative impacts on people or the environment, as well as events and developments that have a negative impact on our business performance (outside-in risks).
+
+As part of our Group-wide integrated management system, we therefore regularly evaluate which nonfinancial risks are relevant to Beiersdorf and where we need to actively manage these. Risks are considered material if they have a high probability of occurrence based on predefined thresholds and if they are expected to have a severe negative impact on material non-financial topics. During the year under review, Beiersdorf introduced a new Group-wide risk management tool that enables nonfinancial risks to be assessed more thoroughly than before. In this way, we intend to emphasize internally how important the issues identified as material are to our company and at the same time meet the increasingly demanding requirements for managing and reporting sustainability risks. In 2023, the risk of incorrectly disposed plastic packaging was again assessed as material within the meaning of Germany's CSR Directive Implementation Act (CSR-RUG). Use of plastic packaging can lead to environmental pollution if it is not disposed of properly or if the disposal infrastructure in the country of sale is inadequate. We counter this risk through our circular economy strategy, which involves reducing the use of fossil-based plastics (see "Circular economy" section).
+
+## Page 86
+
+## <span id="page-85-0"></span>Environment
+
+As a consumer goods manufacturer, we are highly aware of the impact of our business activities on the environment. We therefore work continuously to minimize the environmental consequences of our processes and products. In this context, we focus our efforts primarily on the areas of climate protection, circular economy, sustainable land use, and water.
+
+## **Climate protection**
+
+We view climate change as one of the greatest challenges of our time. Risks and opportunities arising from climate change therefore influence our business strategy and our company's activities.
+
+We document and manage the risks associated with climate change – for example, effects on raw material prices and material availability or the introduction of new fiscal instruments – as well as the corresponding risk mitigation measures via our integrated risk management system. In 2023, the topic "impact of climate change on the supply chain" was included as a strategic risk in the Group-wide risk management system for the first time. This risk was confirmed by the Risk Board and appropriate countermeasures were defined.
+
+Furthermore, the Consumer Business Segment updated its analysis of climate-related physical and transitory risks and opportunities during the reporting year. The update was based on the recommendations of the Task Force on Climate-Related Financial Disclosures (TCFD) in line with the "Net Zero Emissions by 2050" (NZE) scenario of the International Energy Agency (IEA). We have thus expanded the scope of the analysis, for example by looking at the potential risks of additional locations. A summary of TCFD-related information is available in a separate document on our website. A detailed description of our risk management structure can be found in the "Risk Report" section of the Combined Management Report.
+
+Climate action is a key area of activity in the sustainability strategies of the Consumer and tesa Business Segments. The carbon emissions reduction targets are firmly enshrined in the Executive Board's own objectives. The activities required to achieve our climate goals are also factored into our financial and investment planning. Both the Sustainability Council in the Consumer Business Segment and the General Executive Committee at tesa are responsible for monitoring climate-related decisions. The main focus of their work is on further developing the strategies, reviewing the progress made toward achieving our climate targets, and driving forward the implementation of climate protection measures. The Executive Committee at Beiersdorf also regularly discusses the plans and progress of the climate strategy.
+
+For the Consumer Business Segment, the Sustainability Council adopted targets in 2022 that focus on individual product categories, and in the reporting year it introduced further measures to ensure that the business segment achieves these targets.
+
+## Our climate targets
+
+Beiersdorf had already committed to ambitious climate targets back in 2020, which apply to both the Consumer and tesa Business Segments: By 2025 we plan to achieve an absolute reduction of 30% in energy-related Scope 1 and Scope 2 emissions<sup>1</sup> compared to the 2018 baseline figure. We also aim to reduce indirect greenhouse gas (GHG) emissions along our value chain (Scope 3 emissions) by 10% by 2025. The Science Based Targets initiative (SBTi) has confirmed that our climate targets are in line with
+
+<sup>1</sup> Scope 1 includes all emissions that we generate ourselves through the combustion of energy sources at our production sites, for example during power generation. Scope 2 emissions are caused by the generation of energy that we purchase externally, for example electricity.
+
+## Page 87
+
+the 1.5-degree scenario of the Paris Climate Agreement. The Consumer Business Segment has set additional targets to reduce Scope 3 emissions by 30% in absolute terms by 2025 versus a 2018 baseline and achieve climate neutrality in all its production centers by 2030.
+
+tesa too plans to achieve climate-neutral production by 2030. In addition, it aims to reduce its Scope 3 emissions by 20% in absolute terms by 2030 versus the 2018 baseline.
+
+We once again made progress with regard to our climate targets: We reduced absolute Scope 1 and Scope 2 emissions in the Consumer Business Segment by 40% and at tesa by 38% compared with the 2018 baseline. This led to an overall reduction of absolute Scope 1 and Scope 2 emissions of 39%. This means we achieved our 2025 Scope 1 and 2 emissions target at Group level early.The Consumer Business Segment reduced its absolute Scope 3 emissions<sup>2</sup> by 18% over the same period.
+
+In 2023, we have set the target of achieving net zero emissions by 2045. As we have already met our Scope 1 & 2 target for 2025, we have also updated our short-term climate target in this context. The Beiersdorf Group is thus committed to the following targets, which were validated by the SBTi at the beginning of 2024:
+
+- By 2032, we aim to reduce absolute Scope 1 and Scope 2 emissions by 70% and absolute Scope 3 GHG<sup>3</sup> emissions by 40%, from a 2018 baseline.
+- By 2045, we want to reduce absolute Scope 1, 2 and 3 emissions by 90% from a 2018 baseline.
+
+In 2020, we achieved our goal of sourcing 100% of our electricity from renewable energy sources. This continues to be the case for all tesa and Consumer office and production facilities worldwide for which data is collected.<sup>4</sup>
+
+## Climate metrics: Energy, Scope 1, Scope 2, and Scope 3 emissions
+
+We capture, consolidate, and analyze our energy consumption data to determine our global GHG emissions. Progressively gathering this data continuously helps us to verify the effectiveness of the measures we carry out and identify further potential for energy and emission savings.
+
+We calculate our GHG emissions according to the requirements of the Greenhouse Gas Protocol (GHG Protocol). The GHG Protocol specifies different consolidation approaches for calculating Scope 1 and Scope 2 data. When calculating our emissions, we have adopted the operational control consolidation approach.
+
+These calculations are mainly based on emission factors from the Intergovernmental Panel on Climate Change (IPCC), along with emission factors from our energy suppliers and the IEA. Further emissions, such as steam from district heating, are calculated using the emission factors provided by the GaBi database and the British Department for Environment, Food & Rural Affairs (Defra).
+
+If biogas is used at our own sites, the biogenic emissions outside of Scope 1 are reported separately and not recorded under Scope 1. The biogas certificates acquired in this context are internationally recognized and are intended to prevent double counting of greenhouse gas reductions along the entire value chain. They are based on a mass balance approach in which the biogas is not physically purchased but certificates are purchased to ensure that the gas is fed into the European gas grid. As things stand at present, the GHG Protocol has not yet published any clear guidelines on the inclusion of
+
+<sup>2</sup> Scope 3 emissions include the categories of purchased goods and services, upstream transportation (taking into account certificates for biofuels), logistics, and business travel.
+
+<sup>3</sup> In the categories purchased goods and services, upstream transportation and distribution, business travel and end of life treatment of sold products.
+
+<sup>4</sup> Beiersdorf purchases green electricity directly from energy suppliers or acquires “International Renewable Energy
+
+Certificates" (IRECs), European Guarantees of Origin, or country-specific certificates when purchasing electricity.
+
+## Page 88
+
+such certificates. We closely monitor relevant biogas accounting standards and are committed to adapting our reporting in this area as existing standards evolve and new standards are published.
+
+The Consumer Business Segment collects energy consumption data at all of its production sites, at the warehouses we operate, and at our offices with 50 or more full-time equivalent employees. tesa collects energy consumption data for all ISO 14001-certified sites. This includes six production sites and the main headquarters.
+
+Since 2022, we have also included the emissions data of our NIVEA-KAO business in Japan in the calculation for Scopes 1 to 3. For Scope 1 and 2 emissions, we use primary data provided by NIVEA-KAO; this data has been included in the key figures since 2022.
+
+|                                           | Business Area    | 2018<br>(Base year) | 2021    | 2022    | 2023   |
+|-------------------------------------------|------------------|---------------------|---------|---------|--------|
+|                                           | Beiersdorf Group | 99,048              | 99,693  | 90,358  | 77,480 |
+| Scope 1 emissions (t CO2e)                | Consumer         | 43,409              | 41,320  | 39,5062 | 34,049 |
+|                                           | tesa             | 55,639              | 58,373  | 50,852  | 43,431 |
+|                                           | Beiersdorf Group | 30,071              | 1,582   | 1,322   | 1,552  |
+| Scope 2 emissions (t CO2e)1,2             | Consumer         | 15,820              | 1,582   | 1,314   | 1,536  |
+|                                           | tesa             | 14,251              | 0       | 8       | 16     |
+|                                           | Beiersdorf Group | 129,119             | 101,275 | 91,680  | 79,032 |
+| Scope 1 and Scope 2 emissions<br>(t CO2e) | Consumer         | 59,229              | 42,902  | 40,820  | 35,585 |
+|                                           | tesa             | 69,890              | 58,373  | 50,860  | 43,447 |
+|                                           | Beiersdorf Group | 0                   | 2,270   | 9,124   | 10,983 |
+| Biogenic Scope 1 emissions                | Consumer         | 0                   | 0       | 1,078   | 3,239  |
+|                                           | tesa             | 0                   | 2,270   | 8,046   | 7,744  |
+| Total energy consumption<br>(GWh)2        | Beiersdorf Group | 668                 | 684     | 672     | 612    |
+|                                           | Consumer         | 341                 | 340     | 334     | 320    |
+|                                           | tesa             | 327                 | 344     | 338     | 292    |
+
+## Key Figures
+
+<sup>1</sup> The Scope 2 emissions reported in this section are based on the market-based method.
+
+<sup>2</sup> Retroactive adjustment of data due to the inclusion of the newly acquired La Prairie production facility in Berneck.
+
+## Identifying Scope 3 emissions
+
+Emissions are also generated along our value chain, for example through the procurement of goods and services or transportation activities. These are referred to as Scope 3 emissions. Based on an inputoutput model, the Consumer Business Segment began by identifying the most relevant categories of Scope 3 emissions.<sup>1</sup> The input-output model evaluates resource consumption and environmental impact throughout the supply chain on the basis of international statistics and databases. The analysis identified the following material areas for the Consumer Business Segment: packaging materials, raw materials for product formulations, finished goods manufacturers, externally purchased transportation services, warehousing, and business travel. This selection covers more than two-thirds of our total Scope 3 emissions, which meets the requirements of SBTi. The corresponding key figures relating to Scope 3 emissions can be found in the "Consumer" subsection.
+
+In addition to the Non-financial Statement, we disclose our management approaches and data on climate topics as part of an annual survey conducted by the CDP organization. The organization then
+
+<sup>1</sup> The following statements regarding our Scope 3 emissions apply to the mass market and the Consumer Business Segment’s dermocosmetics business, unless otherwise specified.
+
+## Page 122
+
+our external service providers and suppliers, such as perfume and raw material manufacturers, accountable. We require them to certify their compliance with statutory requirements as well as those that go beyond the legally required scope.
+
+## Beiersdorf's global mandatory safety requirements
+
+We have established our detailed safety requirements in the Beiersdorf Product Safety Policy. This policy is globally binding, as we do not differentiate between regions or locations when assessing the safety of raw materials, formulas, and products, but set the same standards everywhere. The requirements of the EU Cosmetics Regulation 1223/2009 play a particularly important role for us. On the one hand, the EU Cosmetics Regulation governs the qualification of safety assessors and the safety requirements of cosmetic products; on the other hand, it also defines the specifications for correct product labeling and for providing information that ensures safe transportation and product handling. For our medical devices and medicinal products, the applicable regulatory requirements provide the necessary criteria to ensure product safety.
+
+The legal requirements governing the safety of products – viewed on a global level – are constantly changing. We want to preemptively mitigate the risk of violating current regulations, which is why our central Regulatory Affairs team collaborates with an international network of local regulatory affairs officers. They follow all the regulatory requirements and the latest changes to them in the countries in which our products are sold. This way, we ensure that our products meet all the currently applicable requirements for their respective markets as early as the product development stage.
+
+## Animal testing
+
+We are resolutely committed to rendering animal testing obsolete worldwide. We are convinced that animal testing is not necessary to prove the skin tolerability and effectiveness of our cosmetic products. For this reason, we do not conduct animal tests for any of our cosmetic products or their ingredients, and do not have animal testing done on our behalf – unless we are required to do so by the authorities. For medical devices and pharmaceuticals, any animal testing is limited to the absolute minimum necessary and is only carried out by qualified third parties in accordance with the strict requirements for regulatory market approval.
+
+In the EU, animal testing has been completely banned for cosmetic products since 2004, and for all the ingredients used in these products since 2013. Beiersdorf abides by these legal requirements and, even before the European ban, refrained from animal testing worldwide whenever local laws permitted. It is our stated goal to advance research to the point when animal testing can be completely abandoned worldwide.
+
+Consumer safety is our top priority. As one of the leading research-based companies, we have been involved in the development and acceptance of alternative testing methods for almost 40 years. In this context, we have been and continue to be instrumental in the development and validation of key methodologies that are internationally recognized by the Organisation for Economic Co-operation and Development (OECD) and major regulatory bodies.
+
+Even though great progress has already been made, at the present time there still aren't alternative testing methods available that have been recognized and established by lawmakers for all safetyrelated issues. In collaboration with numerous partners and interest groups, we therefore work to ensure that innovative alternative methods are developed and that existing ones are accepted. We are involved in various working groups in the European umbrella organization of the cosmetics industry (Cosmetics Europe), cooperate with the European Centre for the Validation of Alternative Methods (EURL ECVAM), and support the OECD by providing scientific findings. We are an active member of the European Society of Toxicology In Vitro (ESTIV) and a founding member of the European Partnership
+
+## Page 123
+
+Combined Management Re
+
+Additional Information
+
+for Alternative Approaches to Animal Testing (EPAA), an organization established in 2006 by the European Commission that covers seven industry sectors. In addition, Beiersdorf has established partnerships in the field of cutting-edge research, for example in the study of "organ chips," which simulate the interaction of several organs. In 2023, Beiersdorf co-founded the new International Collaboration on Cosmetics Safety (ICCS) and played a key role in shaping it. The aim of this collaboration is to promote the introduction of methods that do not involve animal testing and to investigate the effects of cosmetics and their ingredients on human health and the environment.
+
+## **tesa**
+
+The quality and safety of our products are crucial to the satisfaction of our customers and thus to our economic success. tesa aims to ensure that our products are high-quality and safe through systematic quality management. If products display safety defects, this can have a negative impact – both on us as a company and on the people who use them. Our aim is to manufacture and distribute products that meet the highest standards of quality and safety.
+
+## A systematic approach to quality and safety
+
+tesa wants to design its products and processes to ensure that they fulfill the diverse expectations of our customers and other stakeholders and that no one is harmed during their production or use. As such, all tesa production sites apply certified management systems in accordance with globally recognized quality norms, standards, and regulations. The compliance of our products, systems, and processes is periodically reviewed and confirmed through both internal and external audits at the relevant locations.
+
+We comply with applicable laws and guidelines. Our internal Product Safety Guidelines complement these strict statutory provisions and lay out mandatory measures that enable us to further increase the safety of our products. In addition, they specify the role and responsibilities of the Product Safety & Conformity Representatives (PSCR). The guidelines apply worldwide and our employees have access to the document via our intranet.
+
+## Product safety officers
+
+Every production facility worldwide has a local PSCR who reports to the Corporate PSCR, the central product safety officer. All our PSCRs must complete an external training course that is recognized officially. They usually also act as the sites' quality officers.
+
+Product safety management is an integral part of quality management at tesa and is co-steered by the Executive Board. The Corporate Regulatory Affairs Department is responsible for evaluating materials and substances. The employees working there draw on various chemical databases, evaluate scientific findings, and review data on safety-relevant substance properties and the safe handling of substances and mixtures. Each product always has an information sheet (e.g., safety data sheet) containing safetyrelevant information, for example on ingredients, correct storage or handling, and recommendations for disposal.
+
+## Risk analyses ensure quality
+
+Preventing product defects plays an important role for us, which is why Product Development and Production perform risk assessments or failure mode and effects analyses (FMEA) for every new project. This helps them to identify potential defects in design, production, or even usage directions, such as inaccurate instruction manuals, during the development process. Once products are on the market, our business units continue to monitor them. If the units determine that a new risk analysis and evaluations are necessary, or that further or new measures are required, they take the necessary steps to safeguard the health and safety of our customers and employees.
+
+## Page 124
+
+## Internal audits
+
+tesa owes its safe product solutions not only to its strict quality requirements, but also to the systematic development of expertise within the company.
+
+The Quality Management department and PSCRs are responsible for our internal audits. Audits of Product Development and Production are carried out both on an ad hoc and annual basis – and, if necessary, in other departments, such as Marketing. The tesa Group's production sites were again successfully audited in accordance with globally recognized quality norms and standards during the reporting year. The IATF 16949 certification process pays special attention to the conformity of all products, processes, parts, and services, as well as product safety.
+
+## EU Taxonomy Reporting
+
+Since the EU Taxonomy Regulation came into force, Beiersdorf has been required to provide information on sales, capital expenditures (CapEx), and operating expenses (OpEx) associated with environmentally sustainable economic activities. The EU Taxonomy Regulation contains criteria for determining whether an economic activity qualifies as sustainable with respect to various environmental objectives. The overarching goal is to create a more sustainable financial sector and channel investments into green and sustainable projects, thereby contributing to the European Green Deal.
+
+With the adoption of Commission Delegated Regulation (EU) 2023/2486 of June 27, 2023, the disclosure obligation for the 2023 reporting year for the first time included four additional environmental objectives: "Water and marine resources," "Circular economy," "Pollution," and "Biodiversity". Further economic activities in connection with the "Climate change mitigation" and "Climate change adaptation" environmental objectives were also added in this context (Delegated Regulation (EU) 2023/2485).
+
+The reporting forms depicted in Annex 3 of Commission Delegated Regulation (EU) 2022/1214 of March 9, 2022 are not taken into account for the reporting year 2023. This is due to the economic activities related to gas and nuclear listed in the annexes do not fall within the business activities of Beiersdorf.
+
+## Taxonomy Impact Analysis procedure<sup>1</sup>
+
+Beiersdorf uses a top-down approach to determine the Taxonomy eligibility of certain business activities with the help of the relevant specialist units. To this end, we have assembled an interdisciplinary team consisting of employees from the tesa and Consumer Sustainability departments, Group Accounting and Consolidation (Consumer), and Sustainability Controlling (tesa), who continuously analyze – in close cooperation with the specialist units – whether any Taxonomy-eligible economic activities are being performed.
+
+Taxonomy-eligible activities relevant to Beiersdorf are identified based on the activity descriptions, the referenced NACE codes, and the supplementary publications of the EU Commission and the EU Platform on Sustainable Finance. For the 2023 reporting year, the process for determining and identifying Taxonomy-eligible activities relevant to Beiersdorf was extended to include the four additional environmental objectives listed above.
+
+<sup>1</sup> Given the ongoing, dynamic development of the formulations contained within the EU Taxonomy Regulation, also in consideration of the supplementary publications of the EU Commission and the EU Platform on Sustainable Finance, uncertainties persist regarding the interpretation of its wording and terms. As a result, we may make changes to our Taxonomy Impact Analysis in the future.
+
+## Page 125
+
+Identified Taxonomy-eligible economic activities
+
+Beiersdorf's business model was comprehensively analyzed in connection with the implementation of the EU Taxonomy requirements. The core business activities of Beiersdorf are not covered by the activities listed in the latest version of the Delegated Acts. Only one activity in the tesa Business Segment, which relates to the manufacture of subcomponents for batteries (Activity 3.4), was identified as Taxonomy-eligible. However, this activity is of minor importance compared to Beiersdorf's core business activities and only makes up a small proportion of the Group's sales.
+
+In terms of classifying investments and operating expenses, the EU Taxonomy Regulation distinguishes between the following three categories:
+
+- Category A: investments or operating expenses related to assets or processes that are associated with Taxonomy-aligned economic activities.
+- Category B: investments or operating expenses that are part of a (CapEx) plan to expand Taxonomy-aligned economic activities or to allow Taxonomy-eligible economic activities to become Taxonomy-aligned.
+- Category C: investments or operating expenses related to the purchase of output from Taxonomyaligned economic activities and individual measures enabling the target activities to become lowcarbon or to lead to greenhouse gas reductions.
+
+Due to Beiersdorf's business model, no investments or operating expenses other than those related to economic activity 3.4 are allocated to category A. Similarly, as we are not drawing up any investment plans to convert our activities into Taxonomy-aligned economic activities, none of our investments or operating expenses are allocated to category B. Beiersdorf therefore only has to take into account investments or operating expenses relating to the purchase of output from Taxonomy-aligned economic activities and individual measures (category C).
+
+The economic activities reported relate exclusively to the environmental objective of "Climate change mitigation." Furthermore, in the course of the data collection and reporting process, we make sure that each economic activity is clearly allocated to an EU taxonomy activity. We can thus rule out the possibility of economic activities being allocated twice.
+
+The following economic activities were identified as Taxonomy-eligible:
+
+## **Information and Communication**
+
+- Activity 8.1 "Data processing, hosting and related activities" was identified as relevant for Beiersdorf, since the Consumer Business Segment operates a data center and provides these services to tesa. The acquisition of third-party computing power (cloud computing services) is also taken into account in this context.
+- Similarly, Activity 8.2 "Data-driven solutions for GHG emissions reductions" is relevant because Beiersdorf uses the GaBi and SoFi emissions management software as well as other energy management systems.
+
+**Construction and Real Estate**
+
+• Activities 7.3 "Installation, maintenance and repair of energy efficiency equipment", 7.5 "Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings", and 7.6 "Installation, maintenance and repair of renewable energy technologies" are part of our building management; they also include the installation, maintenance, and repair of heating, ventilation, and cooling systems, photovoltaic systems as well as measuring systems and energy-efficiency control units in our administrative buildings and production facilities.
+
+## Page 126
+
+Additional Information
+
+- Activity 7.4 "Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)" was identified as relevant, as there are vehicle-charging stations on our premises that are operated by a third party.
+- Based on the recommendation of the EU Commission (FAQ 2022), reporting related to Activity 7.7, "Acquisition and Ownership of Buildings," will be conducted for the first time for the fiscal year 2023. This activity covers investment activities in connection with the construction or expansion of our production and administrative buildings. The construction of these buildings are carried out by external construction companies. Capitalization of right-of-use assets from leases (IFRS 16) for rented office buildings is also reported under Activity 7.7. In the previous year, these activities were reported as not Taxonomy-eligible.
+
+## **Energy**
+
+• In this area, Activity 4.25 "Production of heat/cool using waste heat" and Activity 4.30 "Highefficiency co-generation of heat/cool and power from fossil gaseous fuels" were identified as Taxonomy-eligible. This is because Beiersdorf uses waste heat for internal heating processes. Other activities from this area, e.g., with respect to the production of renewable energy, have been recorded under "Construction and Real Estate" in accordance with the EU Taxonomy Regulation.
+
+## **Transport**
+
+• Our transportation activities are generally outsourced to service providers, meaning we do not conduct any Taxonomy-eligible activities in this area. Our own fleet of company cars falls under Activity 6.5 "Transport by motorbikes, passenger cars and light commercial vehicles."
+
+## **Manufacturing Industry/Goods Manufacturing**
+
+• The manufacture and sale of products from the Consumer Business Segment do not fall within the scope of the EU Taxonomy. With the manufacture of subcomponents for batteries (Activity 3.4, "Manufacture of batteries"), only a small proportion of the tesa Business Segment's economic activity qualifies as Taxonomy-eligible. Its other activities do not generate Taxonomy-eligible sales. For example, tesa does not manufacture plastics in primary form, but sources them from suppliers.
+
+The data basis for determining the key figures (sales, capital expenditure, and operating expenses) for Taxonomy-eligible and Taxonomy-aligned economic activities (numerator) and their corresponding reference figures (denominator) is generally derived from Beiersdorf's financial controlling systems.
+
+## Taxonomy-eligible sales
+
+The denominator for the purposes of the EU Taxonomy is determined in line with the definition of sales in the consolidated financial statements (see Notes to the Consolidated Financial Statements, Income Statement, Note 01).
+
+For the 2023 reporting year, sales relating to the manufacture of subcomponents for batteries are reported under Activity 3.4 "Manufacture of batteries". The sales generated in this area are attributable entirely to the tesa Business Segment. These transactions amount to €16 million (prior year: €16 million) and therefore represent 0.2% (prior year: 0.2%) of our Group sales of €9,447 million.
+
+## Taxonomy-eligible capital expenditure (CapEx)
+
+The reference figure (denominator) of our Taxonomy-eligible activities is determined in accordance with the requirements of the EU Taxonomy Regulation. For the 2023 reporting year, the reference figure is €634 million. In addition to the investments in intangible assets (Note 11 to the consolidated financial statements) and property, plant, and equipment (Note 12 to the consolidated financial statements) reported in the annual report, this figure also includes investments related to right-of-use assets from leases (Note 12 to the consolidated financial statements).
+
+## Page 127
+
+Capital expenditure for projects and long-term leases is allocated to the activities identified as Taxonomy-eligible with the help of Beiersdorf's financial controlling systems and interviews with the responsible specialist units. For the 2023 reporting year, capital expenditure amounting to €182 million – a share of 28.6% – is attributable to Activity 7.7 "Acquisition and ownership of buildings."
+
+In total, our Taxonomy-eligible capital expenditure amounts to €209 million (prior year: €17 million). This corresponds to a share of 33% (prior year: 2.7%) of the total capital expenditure (denominator) of €634 million for the 2023 reporting year. The change compared to the previous year is primarily attributed to capital expenditures, which are reported for the first time in connection with activity 7.7 for the fiscal year 2023.
+
+## Taxonomy-eligible operating expenses (OpEx)
+
+The data basis for calculating the reference figure (denominator) for Taxonomy-eligible operating expenses for the 2023 reporting year is derived from Beiersdorf's financial controlling systems. Interviews, analyses, and detailed queries addressed to the respective Controlling functions round off the data collection process and ensure the quality of the data. The reference figure is the sum of the following cost components:
+
+- Research and development costs
+- Costs in connection with short-term and low-value leases
+- Maintenance and repair costs, including all direct expenses in connection with the day-to-day maintenance of property, plant, and equipment by the company or third parties
+
+Where possible, operating expenses were allocated directly to the identified Taxonomy-eligible activities using data from our financial systems. In cases where it was not possible to directly allocate percentage shares, these shares were broken down and, if necessary, allocated using appropriate keys (e.g., capital expenditure for Taxonomy-eligible activities).
+
+Taxonomy-eligible operating expenses amounted to €26 million (prior year: €18 million). Compared with the investment expenditure reference figure of €481 million, this is equivalent to a share of 5.4% (prior year: 4.2%). The change compared to the previous year is primarily attributed to operating expenditures, which are reported for the first time in connection with activity 7.7 for the fiscal year 2023.
+
+## Approach and results of the alignment analysis
+
+To assess whether the Taxonomy-eligible activities relevant to Beiersdorf are Taxonomy-aligned, we conducted a comprehensive analysis of the relevant technical screening criteria as set out in the annexes to the Delegated Acts on the EU Taxonomy. For a Taxonomy-eligible activity to be classified as Taxonomy-aligned, the following requirements must be satisfied cumulatively:
+
+- Compliance with the technical screening criteria for a substantial contribution to the respective environmental objective
+- Compliance with the technical screening criteria to avoid material adverse effects on other environmental objectives (do no significant harm, DNSH)
+- Compliance with minimum safeguards
+
+In principle, compliance with the technical screening criteria is checked and documented individually for each activity. DNSH compliance regarding Appendix A ("Climate change adaptation") is verified centrally for the relevant Taxonomy-eligible activities with the help of climate risk and vulnerability analyses for each site.
+
+## Page 128
+
+Beiersdorf relies on processes, documents, and guidelines that are established within the Group to review and comply with the minimum protection requirements (see section Respect for human rights and Compliance). Beiersdorf actively promotes compliance with laws, codes of conduct, and human rights. Our annual risk management process includes an assessment of human rights violations by our employees and in our supply chain. Beiersdorf stands up for fair competition and actively prevents corruption through a number of compliance programs. Through appropriate monitoring measures, Beiersdorf ensures that the minimum protection requirements of the EU Taxonomy are met.
+
+Based on our analyses we have identified a Taxonomy-aligned share for the following activities:
+
+- Activity 6.5 "Transport by motorbikes, passenger cars and light commercial vehicles"
+- Activity 7.5 "Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings"
+- Activity 7.6 "Installation, maintenance and repair of renewable energy technologies"
+- Activity 7.7 "Acquisition and ownership of buildings"
+
+To check our compliance with the technical screening criteria in connection with Activity 7.7 "Acquisition and ownership of buildings", we primarily relied on the available energy performance certificates (EPCs) and the primary energy demand listed therein. In the event that no energy performance certificate was available, we used alternative external confirmations that provide appropriate evidence of compliance with the limits specified in the technical screening criteria (e.g., energy class A).
+
+The majority of Beiersdorf's Taxonomy-eligible activities involve products and services obtained from suppliers and service providers. In some cases, there were no third-party evidence and confirmations available for these economic activities to conclusively assess their potential Taxonomy-alignment. For other economic activities, the technical screening criteria could not be fully met, resulting in no Taxonomy-aligned disclosure for this portion. This particularly applies to portions of investment and operating expenses for activities 6.5 and 7.7.
+
+The 2023 reporting year again posed considerable challenges for both Beiersdorf and its suppliers in terms of proving the Taxonomy-alignment of the identified Taxonomy-eligible activities. In some cases, the technical screening criteria for the Taxonomy-alignment of individual activities had not yet been published or sufficiently clarified at the time the investment projects were planned. This complicated the analysis and verification process, particularly in the case of long-term investment projects (e.g., investments in administrative buildings or plant expansions) for which the project and planning phase had been completed well before the technical screening criteria were published. With a view to 2024 and subsequent years, Beiersdorf will continue to work on improving individual reporting processes for verifying the Taxonomy-alignment of the identified Taxonomy-eligible activities, and will also draw on the findings from the analyses for the 2023 reporting year for this purpose.
+
+## Page 129
+
+## **Key figures EU Taxonomy Reporting**
+
+## Key figures Turnover
+
+| 1                                                                                                                          | 2          | 2023              | 3                      | 4                         | Substantial contribution criteria |                            |               |                  |                             |                           | 11                        | (Do No Significant Harm) DNSH criteria |           |                  |                             |                    |                                                                              | 18                         | 19                             | 20 |
+|----------------------------------------------------------------------------------------------------------------------------|------------|-------------------|------------------------|---------------------------|-----------------------------------|----------------------------|---------------|------------------|-----------------------------|---------------------------|---------------------------|----------------------------------------|-----------|------------------|-----------------------------|--------------------|------------------------------------------------------------------------------|----------------------------|--------------------------------|----|
+|                                                                                                                            |            | 3                 |                        |                           | 5                                 | 6                          | 7             | 8                | 9                           | 10                        |                           | 12                                     | 13        | 14               | 15                          | 16                 | 17                                                                           |                            |                                |    |
+| Economic activities                                                                                                        | Code       | Absolute Turnover | Proportion of Turnover | Climate change mitigation | Climate change adaptation         | Water and marine resources | Pollution     | Circular economy | Biodiversity and ecosystems | Climate change mitigation | Climate change adaptation | Water and marine resources             | Pollution | Circular economy | Biodiversity and ecosystems | Minimum safeguards | Proportion of Taxonomy aligned (A.1.) or eligible (A.2.) turnover, year 2022 | Category enabling activity | Category transitional activity |    |
+| A.TAXONOMY-ELIGIBLE ACTIVITIES                                                                                             |            | kEUR              | %                      | Y; N;<br>N/EL             | Y; N;<br>N/EL                     | Y; N;<br>N/EL              | Y; N;<br>N/EL | Y; N;<br>N/EL    | Y; N;<br>N/EL               | Y/N                       | Y/N                       | Y/N                                    | Y/N       | Y/N              | Y/N                         | Y/N                | %                                                                            | E                          | T                              |    |
+| A.1. Environmentally sustainable activities (Taxonomy-aligned)                                                             |            |                   |                        |                           |                                   |                            |               |                  |                             |                           |                           |                                        |           |                  |                             |                    |                                                                              |                            |                                |    |
+| Turnover of environmentally sustainable<br>activities (Taxonomy-aligned) (A.1)                                             |            | 0                 | 0%                     | 0%                        | 0%                                | 0%                         | 0%            | 0%               | 0%                          | Y                         | Y                         | Y                                      | Y         | Y                | Y                           | Y                  | 0%                                                                           |                            |                                |    |
+| Of which Enabling                                                                                                          |            | 0                 | 0%                     | 0%                        | 0%                                | 0%                         | 0%            | 0%               | 0%                          | Y                         | Y                         | Y                                      | Y         | Y                | Y                           | Y                  | 0%                                                                           | E                          |                                |    |
+| Of which Transitional                                                                                                      |            | 0                 | 0%                     | 0%                        |                                   |                            |               |                  |                             | Y                         | Y                         | Y                                      | Y         | Y                | Y                           | Y                  | 0%                                                                           |                            | T                              |    |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                    |            |                   |                        |                           |                                   |                            |               |                  |                             |                           |                           |                                        |           |                  |                             |                    |                                                                              |                            |                                |    |
+| Manufacture of batteries                                                                                                   | CCM<br>3.4 | 16,248            | 0.2%                   | EL                        | N/EL                              | N/EL                       | N/EL          | N/EL             | N/EL                        |                           |                           |                                        |           |                  |                             |                    | 0.2%                                                                         |                            |                                |    |
+| Turnover of Taxonomy-eligible but not<br>environmentally sustainable activities (not<br>Taxonomy-aligned activities) (A.2) |            | 16,248            | 0.2%                   | 0.2%                      | N/EL                              | N/EL                       | N/EL          | N/EL             | N/EL                        |                           |                           |                                        |           |                  |                             |                    | 0.2%                                                                         |                            |                                |    |
+| Total A.1 + A.2                                                                                                            |            | 16,248            | 0.2%                   | 0.2%                      | N/EL                              | N/EL                       | N/EL          | N/EL             | N/EL                        |                           |                           |                                        |           |                  |                             |                    | 0.2%                                                                         |                            |                                |    |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                        |            |                   |                        |                           |                                   |                            |               |                  |                             |                           |                           |                                        |           |                  |                             |                    |                                                                              |                            |                                |    |
+| Turnover of Taxonomy non-eligible activities (B)                                                                           |            | 9,431,091         | 99.8%                  |                           |                                   |                            |               |                  |                             |                           |                           |                                        |           |                  |                             |                    |                                                                              |                            |                                |    |
+| Total A + B                                                                                                                |            | 9,447,339         | 100%                   |                           |                                   |                            |               |                  |                             |                           |                           |                                        |           |                  |                             |                    |                                                                              |                            |                                |    |
+
+## Page 130
+
+## Key figures CapEx
+
+|                                                                                                                                                    |             | 2023           | Substantial contribution criteria |                              |                              |                               |               |                  | DNSH criteria<br>(Do No Significant Harm) |                              |                              |                               |           |                  |                                |                       |                                                                                                   |                                  |                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------------|-----------------------------------|------------------------------|------------------------------|-------------------------------|---------------|------------------|-------------------------------------------|------------------------------|------------------------------|-------------------------------|-----------|------------------|--------------------------------|-----------------------|---------------------------------------------------------------------------------------------------|----------------------------------|--------------------------------------|
+| 1                                                                                                                                                  | 2           | 3              | 4                                 | 5                            | 6                            | 7                             | 8             | 9                | 10                                        | 11                           | 12                           | 13                            | 14        | 15               | 16                             | 17                    | 18                                                                                                | 19                               | 20                                   |
+| Economic activities                                                                                                                                | Code        | Absolute CapEx | Proportion of CapEx               | Climate change<br>mitigation | Climate change<br>adaptation | Water and marine<br>resources | Pollution     | Circular economy | Biodiversity and<br>ecosystems            | Climate change<br>mitigation | Climate change<br>adaptation | Water and marine<br>resources | Pollution | Circular economy | Biodiversity and<br>ecosystems | Minimum<br>safeguards | Proportion<br>of<br>Taxonomy<br>aligned<br>(A.1.)<br>or eligible<br>(A.2.)<br>CapEx, year<br>2022 | Category<br>enabling<br>activity | Category<br>transitional<br>activity |
+| A.TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                     |             | kEUR           | %                                 | Y; N;<br>N/EL                | Y; N;<br>N/EL                | Y; N;<br>N/EL                 | Y; N;<br>N/EL | Y; N;<br>N/EL    | Y; N;<br>N/EL                             | Y/N                          | Y/N                          | Y/N                           | Y/N       | Y/N              | Y/N                            | Y/N                   | %                                                                                                 | E                                | T                                    |
+| A.1. Environmentally sustainable activities (Taxonomy-aligned)                                                                                     |             |                |                                   |                              |                              |                               |               |                  |                                           |                              |                              |                               |           |                  |                                |                       |                                                                                                   |                                  |                                      |
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                                                           | CCM<br>6.5  | 96             | 0%                                | 0%                           | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                |                                  | T                                    |
+| Installation, maintenance and repair of<br>instruments and devices for measuring,<br>regulation and controlling energy<br>performance of buildings | CCM<br>7.5  | 134            | 0%                                | 0%                           | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                |                                  |                                      |
+| Installation, maintenance and repair of<br>renewable energy technologies                                                                           | CCM<br>7.6  | 967            | 0.2%                              | 0.2%                         | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                |                                  |                                      |
+| Acquisition and ownership of buildings                                                                                                             | CCM<br>7.7  | 99,593         | 15.7%                             | 15.7%                        | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                |                                  |                                      |
+| CapEx of environmentally sustainable activities<br>(Taxonomy-aligned) (A.1)                                                                        |             | 100,790        | 15.9%                             | 15.9%                        | 0%                           | 0%                            | 0%            | 0%               | 0%                                        | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                |                                  |                                      |
+| Of which Enabling                                                                                                                                  |             | 0              | 0%                                | 0%                           | 0%                           | 0%                            | 0%            | 0%               | 0%                                        | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                | E                                |                                      |
+| Of which Transitional                                                                                                                              |             | 96             | 0%                                | 0%                           |                              |                               |               |                  |                                           | Y                            | Y                            | Y                             | Y         | Y                | Y                              | Y                     | 0%                                                                                                |                                  | T                                    |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                                            |             |                |                                   |                              |                              |                               |               |                  |                                           |                              |                              |                               |           |                  |                                |                       |                                                                                                   |                                  |                                      |
+| Production of heat/cool using waste heat                                                                                                           | CCM<br>4.25 | 118            | 0%                                | EL                           | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      |                              |                              |                               |           |                  |                                |                       | 0.7%                                                                                              |                                  |                                      |
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                                                           | CCM<br>6.5  | 17,710         | 2.8%                              | EL                           | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      |                              |                              |                               |           |                  |                                |                       | 0%                                                                                                |                                  |                                      |
+| Installation, maintenance and repair of<br>energy efficiency equipment                                                                             | CCM<br>7.3  | 4,193          | 0.7%                              | EL                           | N/EL                         | N/EL                          | N/EL          | N/EL             | N/EL                                      |                              |                              |                               |           |                  |                                |                       | 0.4%                                                                                              |                                  |                                      |
+
+## Page 131
+
+#### To the [shareholders](#page-32-0) **Combined [Management](#page-44-0) [R](#page-188-0)eport** [Consolidated](#page-188-0) Financial Statements Additional [Information](#page-260-0)
+
+| Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings | CCM 7.5 | 31      | 0%    | EL    | N/EL | N/EL | N/EL | N/EL | N/EL | 0.2% |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|-------|-------|------|------|------|------|------|------|
+| Installation, maintenance and repair of renewable energy technologies                                                                     | CCM 7.6 | 3,690   | 0.6%  | EL    | N/EL | N/EL | N/EL | N/EL | 0.5% |      |
+| Acquisition and ownership of buildings                                                                                                    | CCM 7.7 | 82,049  | 12.9% | EL    | N/EL | N/EL | N/EL | N/EL | N/EL | 0%   |
+| Data processing, hosting and related activities                                                                                           | CCM 8.1 | 793     | 0.1%  | EL    | N/EL | N/EL | N/EL | N/EL | N/EL | 0.9% |
+| CapEx of Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities) (A.2)                         |         | 108,584 | 17.1% | 17.1% | 0%   | 0%   | 0%   | 0%   | 0%   | 2.7% |
+| Total A.1 + A.2                                                                                                                           |         | 209,374 | 33%   | 33%   | 0%   | 0%   | 0%   | 0%   | 0%   | 2.7% |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                                       |         |         |       |       |      |      |      |      |      |      |
+| CapEx of Taxonomy-non-eligible activities (B)                                                                                             |         | 424,890 | 67%   |       |      |      |      |      |      |      |
+
+| Total A + B | 634,264 | 100% |
+|-------------|---------|------|
+
+## Page 132
+
+## Key figures OpEx
+
+|                                                                                                                                                    |             | 2023          |                    |                              |                              | Substantial contribution criteria |               |                  |                                |                              |                              | DNSH criteria<br>(Do No Significant Harm) |           |                  |                                |                       |                                                                                               |                                  |                                      |  |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------|--------------------|------------------------------|------------------------------|-----------------------------------|---------------|------------------|--------------------------------|------------------------------|------------------------------|-------------------------------------------|-----------|------------------|--------------------------------|-----------------------|-----------------------------------------------------------------------------------------------|----------------------------------|--------------------------------------|--|--|
+| 1                                                                                                                                                  | 2           | 3             | 4                  | 5                            | 6                            | 7                                 | 8             | 9                | 10                             | 11                           | 12                           | 13                                        | 14        | 15               | 16                             | 17                    | 18                                                                                            | 19                               | 20                                   |  |  |
+| Economic activities                                                                                                                                | Code        | Absolute OpEx | Proportion of OpEx | Climate change<br>mitigation | Climate change<br>adaptation | Water and marine<br>resources     | Pollution     | Circular economy | Biodiversity and<br>ecosystems | Climate change<br>mitigation | Climate change<br>adaptation | Water and marine<br>resources             | Pollution | Circular economy | Biodiversity and<br>ecosystems | Minimum<br>safeguards | Proportion<br>of<br>Taxonomy<br>aligned<br>(A.1.)<br>or eligible<br>(A.2.) OpEx,<br>year 2022 | Category<br>enabling<br>activity | Category<br>transitional<br>activity |  |  |
+| A. TAXONOMY-ELIGIBLE ACTIVITIES                                                                                                                    |             | kEUR          | %                  | Y; N;<br>N/EL                | Y; N;<br>N/EL                | Y; N;<br>N/EL                     | Y; N;<br>N/EL | Y; N;<br>N/EL    | Y; N;<br>N/EL                  | Y/N                          | Y/N                          | Y/N                                       | Y/N       | Y/N              | Y/N                            | Y/N                   | %                                                                                             | E                                | T                                    |  |  |
+| A.1. Environmentally sustainable activities (Taxonomy-aligned)                                                                                     |             |               |                    |                              |                              |                                   |               |                  |                                |                              |                              |                                           |           |                  |                                |                       |                                                                                               |                                  |                                      |  |  |
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                                                           | CCM<br>6.5  | 40            | 0%                 | 0%                           | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            |                                  | T                                    |  |  |
+| Installation, maintenance and repair of<br>instruments and devices for measuring,<br>regulation and controlling energy<br>performance of buildings | CCM<br>7.5  | 6             | 0%                 | 0%                           | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            |                                  |                                      |  |  |
+| Installation, maintenance and repair of<br>renewable energy technologies                                                                           | CCM<br>7.6  | 42            | 0%                 | 0%                           | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            |                                  |                                      |  |  |
+| Acquisition and ownership of buildings                                                                                                             | CCM<br>7.7  | 4,329         | 0.9%               | 0.9%                         | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            |                                  |                                      |  |  |
+| OpEx of environmentally sustainable activities<br>(Taxonomy-aligned) (A.1)                                                                         |             | 4,417         | 0.9%               | 0.9%                         | 0%                           | 0%                                | 0%            | 0%               | 0%                             | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            |                                  |                                      |  |  |
+| Of which Enabling                                                                                                                                  |             | 0             | 0%                 | 0%                           | 0%                           | 0%                                | 0%            | 0%               | 0%                             | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            | E                                |                                      |  |  |
+| Of which Transitional                                                                                                                              |             | 40            | 0%                 | 0%                           |                              |                                   |               |                  |                                | Y                            | Y                            | Y                                         | Y         | Y                | Y                              | Y                     | 0%                                                                                            |                                  | T                                    |  |  |
+| A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)                                            |             |               |                    |                              |                              |                                   |               |                  |                                |                              |                              |                                           |           |                  |                                |                       |                                                                                               |                                  |                                      |  |  |
+| Manufacture of batteries                                                                                                                           | CCM<br>3.4  | 2,537         | 0.5%               | EL                           | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           |                              |                              |                                           |           |                  |                                |                       | 0.6%                                                                                          |                                  |                                      |  |  |
+| Production of heat/cool using waste heat                                                                                                           | CCM<br>4.25 | 14            | 0%                 | EL                           | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           |                              |                              |                                           |           |                  |                                |                       | 0.2%                                                                                          |                                  |                                      |  |  |
+| High-efficiency co-generation of heat/cool<br>and power from fossil gaseous fuels                                                                  | CCM<br>4.30 | 0             | 0%                 | EL                           | N/EL                         | N/EL                              | N/EL          | N/EL             | N/EL                           |                              |                              |                                           |           |                  |                                |                       | 0.1%                                                                                          |                                  |                                      |  |  |
+
+## Page 133
+
+Additional Information
+
+| Transport by motorbikes, passenger cars<br>and light commercial vehicles                                                                           | CCM<br>6.5 | 5,670   | 1.2%  | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 1%   |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------|-------|------|------|------|------|------|------|--|------|--|
+| Installation, maintenance and repair of<br>energy efficiency equipment                                                                             | CCM<br>7.3 | 755     | 0.2%  | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 0.2% |  |
+| Installation, maintenance and repair of<br>charging stations for electric vehicles in<br>buildings (and parking spaces attached to<br>buildings)   | CCM<br>7.4 | 4       | 0%    | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 0%   |  |
+| Installation, maintenance and repair of<br>instruments and devices for measuring,<br>regulation and controlling energy<br>performance of buildings | CCM<br>7.5 | 156     | 0%    | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 0.1% |  |
+| Installation, maintenance and repair of<br>renewable energy technologies                                                                           | CCM<br>7.6 | 110     | 0%    | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 0%   |  |
+| Acquisition and ownership of buildings                                                                                                             | CCM<br>7.7 | 3,553   | 0.7%  | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 0%   |  |
+| Data processing, hosting and related<br>activities                                                                                                 | CCM<br>8.1 | 8,563   | 1.8%  | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 2%   |  |
+| Data-driven solutions for GHG emissions<br>reductions                                                                                              | CCM<br>8.2 | 174     | 0%    | EL   | N/EL | N/EL | N/EL | N/EL | N/EL |  | 0%   |  |
+| OpEx of Taxonomy-eligible but not<br>environmentally sustainable activities (not<br>Taxonomy-aligned activities) (A.2)                             |            | 21,536  | 4.5%  | 4.5% | 0%   | 0%   | 0%   | 0%   | 0%   |  | 4.2% |  |
+| Total A.1 + A.2                                                                                                                                    |            | 25,953  | 5.4%  | 5.4% | 0%   | 0%   | 0%   | 0%   | 0%   |  | 4.2% |  |
+| B. TAXONOMY-NON-ELIGIBLE ACTIVITIES                                                                                                                |            |         |       |      |      |      |      |      |      |  |      |  |
+| OpEx of Taxonomy-non-eligible activities (B)                                                                                                       |            | 454,702 | 94.6% |      |      |      |      |      |      |  |      |  |
+
+**Total A + B 480,655 100%**
+
+## Page 134
+
+Consolidated Financial Stat
+
+#### Relevant Key Figures for the Non-financial Statement of the Beiersdorf Group
+
+| Consumer Business Segment                                                                                       | Unit                                     | 2022      | 2023    |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------|---------|
+| Environment                                                                                                     |                                          |           |         |
+| GHG emissions (Scope 1 and Scope 2)                                                                             | t CO2e                                   | 40,820    | 35,585  |
+| GHG emissions (Scope 3) considering biofuel certificates                                                        | t CO2e                                   | 994,613   | 974,015 |
+| GHG emissions (Scope 3) not considering biofuel certificates                                                    | t CO2e                                   | 1,005,213 | 985,177 |
+| Reduction absolute GHG emissions (Scope 1 and Scope 2) vs. 2018                                                 | %                                        | 31        | 40      |
+| Reduction absolute GHG emissions (Scope 3) vs. 20181                                                            | %                                        | 16.3      | 18.0    |
+| Reduction of fossil-based virgin plastic vs. 20192                                                              | %                                        | 15        | 16      |
+| Recycled material in plastic packaging2                                                                         | %                                        | 10        | 12      |
+| Reduction of nonbiodegradable polymers in European product<br>formulas (based on raw material volume) vs. 20162 | %                                        | 63        | 67      |
+| Reduction of microplastic3<br>in NIVEA products (based on raw material<br>volume) vs. 2016                      | %                                        | 100       | 100     |
+| Reduction of microplastic3<br>in Eucerin products (based on raw material<br>volume) vs. 2016                    | %                                        | 76        | 100     |
+| Share of mass balance palm (kernel) oil and derivates2                                                          | %                                        | 100       | 100     |
+| FSC-certified paper in folding boxes2                                                                           | %                                        | 100       | 100     |
+| Employees                                                                                                       |                                          |           |         |
+| Share of women management group 1 - 3                                                                           | %                                        | 40        | 43      |
+| Share of internal recruitments management group 1                                                               | %                                        | 100       | 100     |
+| Share of internal recruitments management group 2                                                               | %                                        | 89        | 73      |
+| Accident frequency rate (AFR)                                                                                   | Accidents per 1 million<br>working hours | 0.5       | 0.4     |
+| Human Rights                                                                                                    |                                          |           |         |
+| Coverage supplier risk screening                                                                                | %                                        | 100       | 100     |
+| Coverage code of conduct                                                                                        | %                                        | 91        | 92      |
+| Compliance                                                                                                      |                                          |           |         |
+| Participation rate compliance training                                                                          | %                                        | 97        | 98      |
+| tesa Business Segment                                                                                           | Unit                                     | 2022      | 2023    |
+| Environment                                                                                                     |                                          |           |         |
+| GHG emissions (Scope 1 and Scope 2)                                                                             | t CO2e                                   | 50,860    | 43,447  |
+| Specific GHG emissions per metric ton of end product                                                            | t CO2e                                   | 0.71      | 0.73    |
+| Electricity from renewable energy sources                                                                       | %                                        | 66        | 65      |
+| Employees                                                                                                       |                                          |           |         |
+| Accident frequency rate (AFR)                                                                                   | Accidents per 1 million<br>working hours | 3.6       | 2.7     |
+| Compliance                                                                                                      |                                          |           |         |
+| Participation rate compliance training                                                                          | %                                        | 99        | 98      |
+| Human rights                                                                                                    |                                          |           |         |
+| Coverage direct spend from suppliers assessed by EcoVadis                                                       | %                                        | 54        | 70      |
+| Product safety                                                                                                  |                                          |           |         |
+| tesa plants with quality management certificates                                                                | %                                        | 100       | 100     |
+|                                                                                                                 | Units                                    | 2022      | 2023    |
+| Environment                                                                                                     |                                          |           |         |
+| GHG emissions (Scope 1 and Scope 2)                                                                             | t CO₂e                                   | 5,956     | 5,204   |
+| Absolute reduction GHG-emissions (Scope 1 and Scope 2) vs. 2018                                                 | %                                        | 10        | 22      |
+| Employees                                                                                                       |                                          |           |         |
+| Share of women in first management level                                                                        | %                                        | 31        | 39      |
+| Share of women in second management level                                                                       | %                                        | 48        | 42      |
+| Share of internal recruitments management group 1                                                               | %                                        | N/A       | 100     |
+| Share of internal recruitments management group 2                                                               | %                                        | 100       | 89      |
+| Accident frequency rate (AFR)                                                                                   | Accidents per 1 million<br>working hours | 2,1       | 3.8     |
+| Compliance                                                                                                      |                                          |           |         |
+| Participation rate compliance training                                                                          | %                                        | 97        | 97      |
+
+¹Taking into account the reduction through biofuel certificates.
+
+² Not including Coppertone.
+
+<sup>1</sup> Taking into account the reduction through biofuel certificates. <sup>2</sup> Not including Coppertone. <sup>3</sup> According to definition of United Nations Environment Programme.
+
+## Page 135
+
+## Relevant Key Figures for the Non-financial Statement of the Beiersdorf AG
+
+## Page 136
+
+## <span id="page-135-0"></span>**Economic Report**
+
+## Economic Environment
+
+## **General economic situation**
+
+Image /page/135/Figure/8 description: The image contains two bar charts. The first bar chart is titled "Gross Domestic Product" and shows the change versus the previous year (in %). The values for the previous year are 1.8 for Germany, 3.4 for Eurozone, 1.9 for United States, and 0.9 for Japan. The values for the current year are -0.3 for Germany, 0.4 for Eurozone, 2.4 for United States, and 2.0 for Japan. The second bar chart is titled "Inflation Rate" and shows the change versus the previous year (in %). The values for the previous year are 6.9 for Germany, 8.4 for Eurozone, and 8.0 for United States. The values for the current year are 5.9 for Germany, 5.4 for Eurozone.
+
+Image /page/135/Figure/14 description: The image is a bar chart titled "Inflation Rate" with the subtitle "Change versus previous year (in %)". The chart compares the inflation rates of the previous year and the current year for Germany, Eurozone, United States, and Japan. The inflation rates are as follows: Germany: 6.9% (previous year), 5.9% (current year); Eurozone: 8.4% (previous year), 5.4% (current year); United States: 8.0% (previous year), 4.1% (current year); Japan: 2.5% (previous year), 3.3% (current year).
+
+<sup>1</sup> Commerzbank Research.
+
+The **global** economy lost momentum. Despite a robust start to 2023, growth slowed noticeably over the summer. This was mainly due to weak industrial production and a significant rise in interest rates in most regions of the world, which inhibited investment in residential construction in particular. Another dampening factor was China's subdued economic development, which was largely based on debt in the country's real estate sector. Inflation fell only slowly from a very high level. Real income growth resulting from wage adjustments only made a gradual contribution to stimulating consumption. Supply chain difficulties have largely been replaced by new challenges. Although supply chains disrupted by the pandemic have largely been restored, the global manufacturing sector has shown weaknesses in the face of weak productivity growth, the expiry of COVID-19 support measures and difficult financial conditions. In addition, the shift in demand toward the service sector and increased uncertainty about the future geo-economic situation have led to a reluctance to invest.
+
+The sentiment indicators for the corporate sector and private households in **Europe** often showed opposing trends over the course of 2023. The significant rise in interest rates and the associated decrease in the inflation rate caused consumers to breathe a sigh of relief. The consumer climate has gradually stabilized since the low point in autumn 2022, when the inflation rate in the eurozone reached double digits at times. By contrast, the situation in industry is considered to be particularly critical. This sector suffered from weak global demand and a deterioration in price competitiveness, triggered by the appreciation of the euro. In the second half of the year, there were signs of a decline in new orders in industry. However, this decline has not yet been fully reflected in production, as companies were still processing many orders that had been left unfilled due to the supply bottlenecks that had occurred in the meantime. The situation in the construction industry was also poor. The significant deterioration in financing conditions and the drastic rise in construction costs had a noticeable dampening effect on demand for construction services.
+
+## Page 137
+
+The **German** economy remained in a difficult situation in 2023. Private consumption in particular proved to be susceptible to economic weaknesses, and exports also recorded a decline. The tensions between China and the West led to below-average growth in foreign trade. Although the burden of energy prices on companies and private households eased, this was not enough to compensate for other negative factors, as the massive interest rate hikes by most central banks put the brakes on the economy. They significantly reduced demand for industrial goods and residential construction. The fluctuations in incoming orders in industry were very pronounced. This was due to the fact that the volume of large orders varied from month to month. Despite these challenges, companies were able to keep production largely stable and thus reduce the order backlogs built up in recent years.
+
+The **US** economy recorded fairly strong growth, mainly due to an unusually expansive fiscal policy. The inflation rate, which fell significantly in the first half of the year, was unable to continue the trend in the second half of the year, particularly due to a significant rise in gas prices in the meantime. Nevertheless, both private consumption and fixed asset investments recorded noticeable growth. The latter can probably be attributed to the subsidies introduced for the semiconductor industry and transformation technologies. The downturn in residential construction investment has, continued but slowed somewhat. At the end of the year, the slowing factors became increasingly noticeable. The savings rate recently reached unusually low levels.
+
+In **Japan**, macroeconomic production increased sharply in the first half of 2023, mainly due to rising exports as a result of a significant devaluation of the yen. This also led to a very significant rise in inflation by Japanese standards.
+
+Developments in the **emerging markets** painted a mixed picture. **China** surprised on the downside in the final months of the year. The end of the zero COVID policy in December 2022 only gave the economy a brief boost. The problems on the real estate market had a significant impact on the economy. In combination with uncertainties on the labor market, these developments weighed on consumer spending. In addition, industrial production, corporate investment and exports recorded a decline, which is attributable to both weakening foreign demand and geopolitical uncertainties. In **Russia**, overall economic production in the second quarter of 2023 returned to its level before the invasion of Ukraine. Investments increased in connection with the rise in military spending, but private consumption also increased thanks to higher real wages and social benefits. Nevertheless, there are bottlenecks in the labor market, as many workers have been drafted into the army or left the country to avoid military service since the beginning of the war. Nevertheless, overall economic development proved to be robust. The increase in growth reflected a significant fiscal stimulus, strong investment and stable consumption against the backdrop of a tight labor market. Growth was largely driven by the production of military goods, which do not benefit the population. The **Brazilian** economy benefited from a record harvest. High revenues from the export of crude oil and iron ore and the recovery of the service sector also boosted gross domestic product growth. The reduction in oil production led to weak development in the **Middle East**. However, the decline in activity in the oil sector was offset by other sectors of the economy, supported by sustained private consumption, strategic fixed investment and a supportive fiscal policy stance. The **Indian** economy remains a reliable growth driver for the global economy. In 2023, the high pace of the previous year was maintained. For the third year in a row, the Indian economy was characterized by a strong increase in private investment. At the same time, the previous year's record-high level of exports was maintained. The **Southeast Asian emerging markets** are on the upswing. Their fundamentals are stabilizing, growth is returning and corporate balance sheets look solid.
+
+## Page 138
+
+Consumer Spending<sup>1</sup>
+
+## **Sales market trends**
+
+The global market environment was in a volatile position again in 2023. Materials shortages, which resulted from continuing supply chain pressures combined with very buoyant markets, represented a major challenge. Meanwhile, geopolitical tensions and continued high inflation stoked fears of recession. While global commodity prices eased slightly, energy costs remained at a very high level. The volume and value of the global cosmetics market grew despite the challenging circumstances. The only exception was China, where the cosmetics market bounced back less than expected after the lifting of COVID-19 restrictions. Globally, there was yearon-year growth particularly in the deodorant, sun, and lip care categories.
+
+Image /page/137/Figure/5 description: This image is a bar chart showing the change versus the previous year in percent for Germany, Eurozone, United States, and Japan. For Germany, the previous year was 3.9% and the current year was -1.3%. For the Eurozone, the previous year was 4.2% and the current year was 0.5%. For the United States, the previous year was 2.5% and the current year was 2.2%. For Japan, the previous year was 2.0% and the current year was 0.7%.
+
+<sup>1</sup> Commerzbank Research.
+
+<sup>2</sup> OECD.
+
+Uncertainty continued to leave its mark on the tesa Business Segment's activities in 2023. The global recovery from the COVID-19 pandemic is slow and uneven. The Russian invasion of Ukraine continues to affect the economic situation, and economic activity remains below pre-pandemic levels. The conflict in the Middle East has also further unsettled markets. Inflation remained at a high level in 2023, albeit below the previous year's peaks. In this environment, performance in industrial sales markets was mixed. The automotive industry was resilient and recorded an upturn globally. However, other industrial sales markets along with the distribution business saw high levels of consumer uncertainty, inventory reduction measures, and an overall downward trend. This was particularly the case in Europe and to a certain extent in North America, while growth momentum from Asia was positive.
+
+## **Procurement market trends**
+
+Offshoots of the 2021 and 2022 supply chain crisis continued to shape developments in 2023. Further supply shortages occurred particularly in the first half of the year, combined with significant inflation in many raw materials, packaging, and logistics markets. This was partly due to high levels of macroeconomic uncertainty, driven by factors such as the Russia-Ukraine war, the China-Taiwan conflict, and the sluggish recovery of Chinese manufacturing output. Energy costs also remained at a high level. Combined with inflation for other input factors, this prompted production costs to rise further. A first correction in important markets for materials and services was observed in the second half of the year, chiefly due to capacity expansion. This, together with our cross-departmental management of supply shortages and preferential position with key suppliers, enabled us to further limit the negative impact of supply difficulties on our production sites and distribution partners.
+
+## **Overall assessment of the economic environment**
+
+The global cosmetics market performed positively in 2023. In the mass market, where NIVEA competes, growth was still largely driven by price rises, although volume growth was also positive. The components of growth were more balanced in the dermocosmetic skin care market. Overall, both Skin Care and Personal Care (deo, soaps, shower gels) produced strong growth. The focus in the Consumer Business Segment remained on Skin Care, which accounts for the largest share of our marketing budget. All Skin Care subcategories posted growth again in the reporting year.
+
+Significant impacts of the continued high inflation and significant price rises for raw materials, logistics, and energy made themselves felt in the tesa Business Segment again in 2023. Despite difficult
+
+## Page 255
+
+**Responsibilities of the executive directors and the Supervisory Board for the ESEF documents** The Company's executive directors are responsible for preparing the ESEF documents with the electronic reproductions of the consolidated financial statements and of the group management report in accordance with Sec. 328 (1) sentence 4 no. 1 HGB and for marking up the consolidated financial statements in accordance with Sec. 328 (1) sentence 4 no. 2 HGB.
+
+In addition, the Company's executive directors are responsible for such internal control as they have determined necessary to enable the preparation of the ESEF documents that are free from material violations, whether due to fraud or error, of the requirements for the electronic reporting format stipulated in Sec. 328 (1) HGB.
+
+The Supervisory Board is responsible for overseeing the process of the preparation of the ESEF documents as part of the financial reporting process.
+
+**Responsibility of the auditor of the consolidated financial statements for the audit of the ESEF documents**
+
+Our objectives are to obtain reasonable assurance about whether the ESEF documents are free from material violations, whether due to fraud or error, of the requirements stipulated in Sec. 328 (1) HGB. We exercise professional judgment and maintain professional skepticism throughout the audit. We also
+
+- Identify and assess the risks of material violations of the requirements stipulated in Sec. 328 (1) HGB, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.
+- Obtain an understanding of internal control relevant to the audit of the ESEF documents in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of such control.
+- Assess the technical validity of the ESEF documents, i.e. whether the file containing the ESEF documents meets the requirements relating to the technical specification for this file stipulated in the Delegated Regulation (EU) 2019/815 in the version applicable on the balance sheet date.
+- Assess whether the ESEF documents enable reproduction of the audited consolidated financial statements and audited group management report with the identical content in XHTML format.
+- Assess whether marking up of the ESEF documents with Inline XBRL technology (iXBRL) in accordance with Articles 4 and 6 of the Delegated Regulation (EU) 2019/815 in the version applicable on the balance sheet date enables an appropriate and full machine-readable XBRL copy of the XHTML reproduction.
+
+## Further Information pursuant to Article 10 of the EU Audit Regulation
+
+We were elected as group auditor by the annual general meeting on April 13, 2023. We were engaged by the supervisory board on June 30, 2023. We have been the group auditor of Beiersdorf Aktiengesellschaft without interruption since fiscal year 2006.
+
+We declare that the opinions expressed in this auditor's report are consistent with the additional report to the audit committee pursuant to Art. 11 of the EU Audit Regulation (long-form audit report).
+
+## Other Matters – Use of the Auditor's Report
+
+Our auditor's report must always be read in connection with the audited consolidated financial statements, the audited group management report and the audited ESEF documents. The consolidated financial statements and group management report converted into the ESEF format – also the versions to be disclosed in the company register – are only electronic reproductions of the audited consolidated
+
+## Page 256
+
+financial statements and the audited group management report and do not replace them. In particular, the ESEF report and our opinion in it must be used only in conjunction with the audited ESEF documents provided in electronic form.
+
+## German Public Auditor responsible for the engagement
+
+The German Public Auditor responsible for the engagement is Britta Siemer.
+
+## Annex to the auditor's report:
+
+## 1. Components of the group management report not included in the audit
+
+The following components of the group management report, which are part of "Other information," were not included in the audit:
+
+- Non-financial Statement
+- "Corporate Governance Statement" chapter and "Declaration by the Executive Board and the Supervisory Board of Beiersdorf Aktiengesellschaft on the Recommendations of the 'Government Commission on the German Corporate Governance Code' in accordance with § 161 of the Aktiengesetz (German Stock Corporation Act, AktG)"
+
+Furthermore, we have not audited the content specified below that is not a required part of the Group Management Report. Non-required disclosures in the Group Management Report are disclosures that are not required under Sections 315, 315a, or 315b to 315d of the German Commercial Code (HGB):
+
+- "Building on strong foundations: Culture Core Values Capabilities Care Beyond Skin" section of the "Business and Strategy" chapter
+- The sections on "Product highlights"; "tesa product and technology development" in the "Research and Development" chapter
+- "People at Beiersdorf" chapter
+- "Sustainability" chapter
+- "Appropriateness and effectiveness of the internal control and risk management systems" section of the "Risk Report" chapter.
+
+## 2. Additional other information
+
+"Other information" also includes other components intended for the annual report made available to us until we issued the auditor's report, in particular the following sections:
+
+- Executive Board's Responsibility Statement in accordance with Sec. 297 (2) sentence 4 HGB
+- Report by the Supervisory Board in accordance with Sec. 171 (2) AktG
+- the sections "Magazine," "Letter from the Chairman," and "Beiersdorf's Shares and Investor Relations"
+
+but excludes the consolidated financial statements, the disclosures in the group management report included in the audit, and our related auditor's report.
+
+Hamburg, February 21, 2024 EY GmbH & Co. KG Wirtschaftsprüfungsgesellschaft
+
+## **Dr. Janze Siemer**
+
+German Public Auditor German Public Auditor
+
+## Page 257
+
+## <span id="page-256-0"></span>Independent Auditor's Report on a Limited Assurance Engagement
+
+The assurance engagement performed by EY relates exclusively to the German version of the combined non-financial statement 2023 of Beiersdorf AG. The following text is a translation of the original German independent assurance report.
+
+### To Beiersdorf AG, Hamburg
+
+We have performed a limited assurance engagement on the non-financial statement of Beiersdorf AG, Hamburg, (hereinafter the "Company"), which is combined with the non-financial statement of the Group, consisting of the section "Non-financial Statement 2023" as well as the disclosures marked with the symbol >= in the sections "Business and Strategy" and "People at Beiersdorf" of the Combined Management Report, for the period from 1 January 2023 to 31 December 2023 (hereinafter the "nonfinancial Reporting").
+
+Not subject to our assurance engagement are other references to disclosures made outside the nonfinancial Reporting.
+
+## Responsibilities of the executive directors
+
+The executive directors of the Company are responsible for the preparation of the non-financial Reporting in accordance with Sec. 315c in conjunction with Secs. 289c to 289e HGB ["Handelsgesetzbuch": German Commercial Code] and Art. 8 of Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 (hereinafter the "EU Taxonomy Regulation") and the Delegated Acts adopted thereunder as well as in accordance with their own interpretation of the wording and terms contained in the EU Taxonomy Regulation and the Delegated Acts adopted thereunder as set out in section "EU Taxonomy Reporting" of the non-financial Reporting.
+
+These responsibilities of the Company's executive directors include the selection and application of appropriate methods for the preparation of the non-financial Reporting and making assumptions and estimates about individual non-financial disclosures that are reasonable in the circumstances. Furthermore, the executive directors are responsible for such internal control as the executive directors consider necessary to enable the preparation of a non-financial Reporting that is free from material misstatement, whether due to fraud (manipulation of the non-financial Reporting) or error.
+
+The EU Taxonomy Regulation and the Delegated Acts adopted thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which clarifications have not yet been published in every case. Therefore, the executive directors have disclosed their interpretation of the EU Taxonomy Regulation and the Delegated Acts adopted thereunder in section "EU Taxonomy Reporting" of the non-financial Reporting. They are responsible for the defensibility of this interpretation. Due to the immanent risk that undefined legal terms may be interpreted differently, the legal conformity of the interpretation is subject to uncertainties.
+
+## Independence and quality assurance of the auditor's firm
+
+We have complied with the German professional requirements on independence as well as other professional conduct requirements.
+
+## Page 258
+
+Our audit firm applies the national legal requirements and professional pronouncements - in particular the BS WP/vBP ("Berufssatzung für Wirtschaftsprüfer/vereidigte Buchprüfer": Professional Charter for German Public Accountants/German Sworn Auditors) in the exercise of their Profession and the IDW Standard on Quality Management issued by the Institute of Public Auditors in Germany (IDW): Requirements for Quality Management in the Audit Firm (IDW QS 1) and accordingly maintains a comprehensive quality management system that includes documented policies and procedures with regard to compliance with professional ethical requirements, professional standards as well as relevant statutory and other legal requirements.
+
+## Responsibilities of the auditor
+
+Our responsibility is to express a conclusion with limited assurance on the non-financial Reporting based on our assurance engagement.
+
+We conducted our assurance engagement in accordance with International Standard on Assurance Engagements (ISAE) 3000 (Revised): "Assurance Engagements other than Audits or Reviews of Historical Financial Information" issued by the IAASB. This standard requires that we plan and perform the assurance engagement to obtain limited assurance about whether any matters have come to our attention that cause us to believe that the Company's non-financial Reporting is not prepared, in all material respects, in accordance with Sec. 315c in conjunction with Secs. 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts adopted thereunder as well as the interpretation by the executive directors disclosed in section "EU Taxonomy Reporting" of the non-financial Reporting. Not subject to our assurance engagement are other references to disclosures made outside the nonfinancial Reporting.
+
+In a limited assurance engagement, the procedures performed are less extensive than in a reasonable assurance engagement, and accordingly, a substantially lower level of assurance is obtained. The selection of the assurance procedures is subject to the professional judgment of the auditor.
+
+In the course of our assurance engagement we have, among other things, performed the following assurance procedures and other activities:
+
+- Gain an understanding of the structure of the sustainability organization and stakeholder engagement,
+- Inquiries of the executive directors and relevant employees regarding the selection of topics for the non-financial Reporting, the impact and risk assessment and the policies of the Company and the Group for the topics identified as material,
+- Inquiries of the executive directors and relevant employees involved in the preparation of the nonfinancial Reporting about the preparation process, about the internal controls related to this process as well as disclosures in the non-financial Reporting,
+- Inspection of the relevant documentation of the systems and processes for collecting, aggregating and validating relevant data in the reporting period,
+- Identification and assessment of risks of material misstatement in the non-financial Reporting,
+- Analytical procedures on selected disclosures in the non-financial Reporting,
+- Inquiries, inspection of sample documents and obtaining evidence relating to the collection and reporting of selected disclosures in the non-financial Reporting,
+- Reconciliation of selected disclosures with the corresponding data in the annual financial statements and management report,
+
+## Page 259
+
+- Evaluation of the process to identify the economic activities taxonomy-eligible and taxonomyaligned as well as the corresponding disclosures in the non-financial Reporting,
+- Evaluation of the presentation of disclosures in the non-financial Reporting.
+
+In determining the disclosures in accordance with Art. 8 of the EU Taxonomy Regulation, the executive directors are required to interpret undefined legal terms. Due to the immanent risk that undefined legal terms may be interpreted differently, the legal conformity of their interpretation and, accordingly, our assurance engagement thereon are subject to uncertainties.
+
+## Assurance conclusion
+
+Based on the assurance procedures performed and the evidence obtained, nothing has come to our attention that causes us to believe that the non-financial Reporting of the Company for the period from 1 January 2023 to 31 December 2023 is not prepared, in all material respects, in accordance with Sec. 315c in conjunction with Secs. 289c to 289e HGB and the EU Taxonomy Regulation and the Delegated Acts adopted thereunder as well as the interpretation by the executive directors as disclosed in section "EU Taxonomy Reporting" of the non-financial Reporting.
+
+We do not express an assurance conclusion on the other references to disclosures made outside the non-financial Reporting.
+
+## Restriction of use
+
+We draw attention to the fact that the assurance engagement was conducted for the Company's purposes and that the report is intended solely to inform the Company about the result of the assurance engagement. As a result, it may not be suitable for another purpose than the aforementioned. Accordingly, the report is not intended to be used by third parties for making (financial) decisions based on it. Our responsibility is to the Company alone. We do not accept any responsibility to third parties. Our assurance conclusion is not modified in this respect.
+
+## General Engagement Terms and Liability
+
+The enclosed "General Engagement Terms for Wirtschaftsprüfer and Wirtschaftsprüfungsgesellschaften [German Public Auditors and Public Audit Firms]" as issued by the Institut der Wirtschaftsprüfer [Institute of Public Auditors in Germany] on 1 January 2017 are applicable to this engagement and also govern our relations with third parties in the context of this engagement (www.de.ey.com/generalengagement-terms). In addition, please refer to the liability provisions contained there in no. 9 and to the exclusion of liability towards third parties. We accept no responsibility, liability or other obligations towards third parties unless we have concluded a written agreement to the contrary with the respective third party or liability cannot effectively be precluded.
+
+We make express reference to the fact that we will not update the report to reflect events or circumstances arising after it was issued, unless required to do so by law. It is the sole responsibility of anyone taking note of the summarized result of our work contained in this report to decide whether and in what way this information is useful or suitable for their purposes and to supplement, verify or update it by means of their own review procedures.
+
+Hanover, February 21, 2024 EY GmbH & Co. KG Wirtschaftsprüfungsgesellschaft
+
+## **Dr. Christian Janze Annette Johne**
+
+German Public Auditor German Public Auditor
+
+## Page 260
+
+## <span id="page-259-0"></span>Responsibility Statement by the Executive Board
+
+To the best of our knowledge, and in accordance with the applicable reporting principles, the consolidated financial statements give a true and fair view of the assets, liabilities, financial position, and profit or loss of the Group, and the Group Management Report, which has been combined with the Management Report for Beiersdorf Aktiengesellschaft, includes a fair review of the development and performance of the business and the position of the Group, together with a description of the material opportunities and risks associated with the expected development of the Group.
+
+Hamburg, February 7, 2024
+
+The Executive Board
+
+A.F. Egit
+
+**Vincent Warnery Oswald Barckhahn Astrid Hermann** Chairman of the Executive Board Member of the Executive Board Member of the Executive Board
+
+AJe
+
+signature
+
+**Nicola D. Lafrentz Grita Loebsack Ramon A. Mirt** Member of the Executive Board Member of the Executive Board Member of the Executive Board
+
+Xun mel
+
+**Patrick Rasquinet** Member of the Executive Board
+
+## Page 261
+
+- <span id="page-260-0"></span>**p. 262 [Remuneration Report](#page-261-0)**
+- **p. [290](#page-289-0) [Ten-Year Overview](#page-289-0)**
+
+**p. [298](#page-297-0) [Financial Calendar](#page-297-0)**
+
+**p. [297](#page-296-0) [Imprint](#page-296-0)**
+
+- 
+- 
+- 
+
+**p. [291](#page-290-0) [Beiersdorf AG's Shareholdings](#page-290-0)**
+
+# **ADDITIONAL INFORMATION**
+
+## Page 262
+
+## <span id="page-261-0"></span>**Remuneration Report**
+
+The remuneration report explains the structure and amount of the remuneration paid to current and former members of the Executive Board and the Supervisory Board of Beiersdorf AG in fiscal year 2023. It was prepared in accordance with the statutory provisions of § 162 *Aktiengesetz* (German Stock Corporation Act, *AktG*) as amended by the *Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie* (German Act on the Implementation of the Second Shareholders' Rights Directive, *ARUG II*) and also contains additional information on Executive Board and Supervisory Board remuneration for added clarity and transparency. The auditor has examined whether the remuneration report contains the information required in accordance with § 162 (1) and (2) *AktG*. The auditor's report is included in this remuneration report.
+
+On April 13, 2023, the Annual General Meeting approved the remuneration report for fiscal year 2022, which was prepared and audited in accordance with § 162 *AktG*, with a majority of approximately 76% of the votes cast. Following the 2023 Annual General Meeting, the Executive Board and Supervisory Board have again given very careful consideration to the comments made to the company by investors with regard to the remuneration system and the 2022 Remuneration Report. Wherever the Supervisory Board and Executive Board deemed it reasonable and appropriate, they have been taken into account in the preparation of this remuneration report. In addition, the remuneration system is to be aligned with the further development of the business strategy. Therefore, it was decided to make changes to the Executive Board remuneration system starting from the 2025 fiscal year and to submit the new system to the 2025 Annual General Meeting for approval. The revision of the remuneration system has already begun.
+
+## 1. Remuneration of the Executive Board
+
+The Supervisory Board is responsible for setting the remuneration of the members of the Executive Board. It addressed the structure and appropriateness of Executive Board remuneration, as well as individual remuneration questions, at its meetings on February 3, 2023, February 21, 2023, April 13, 2023, May 26, 2023, and December 1, 2023. On February 5, 2024, the Supervisory Board determined the remuneration of the Executive Board for fiscal year 2023. All decisions by the Supervisory Board in relation to Executive Board remuneration were prepared by the Presiding Committee of the Supervisory Board.
+
+## **Remuneration system and process**
+
+The remuneration system for the Executive Board was revised in line with the *AktG*, as amended by *ARUG II*, as of January 1, 2021, and approved by the Annual General Meeting on April 1, 2021, with a majority of 87% of the votes cast. The remuneration system is published on the website at [www.beiersdorf.com/investor-relations/corporate-governance/remuneration-of-executive-board](http://www.beiersdorf.com/investor-relations/corporate-governance/remuneration-of-executive-board-and-supervisory-board)[and-supervisory-board.](http://www.beiersdorf.com/investor-relations/corporate-governance/remuneration-of-executive-board-and-supervisory-board) The main elements of the remuneration system are also summarized in this remuneration report.
+
+The remuneration system applies to all members of the Executive Board appointed from 2021 on. In accordance with the underlying legal framework, the service agreements currently in force with the members of the Executive Board appointed prior to 2021, in particular the long-term variable compensation components, are in principle unaffected. Nevertheless, the Supervisory Board has agreed in principle with serving Executive Board members that the remuneration system shall apply to them effective January 1, 2021.
+
+An enhanced remuneration system will be presented again for approval at the 2025 Annual General Meeting.
+
+## Page 263
+
+## Link to strategy and guiding principles of the remuneration system
+
+The remuneration system for the Executive Board makes a material contribution to furthering and implementing the C.A.R.E.+ business strategy both in its entirety and with its individual components by creating incentives for sustained and value-oriented corporate development and taking into account the interests of the shareholders, customers, employees, business partners, environment, and society (stakeholders).
+
+The business strategy is rooted in the clear ambition to grow competitively and sustainably through strategic priorities and the will to create added value for people and society in the long term. In this way, Beiersdorf wants to expand its position in the skin care market and ensure sustained profitability.
+
+The C.A.R.E.+ strategy entails the following five strategic priorities:
+
+- **•** Digital transformation: strengthen consumer proximity through new digital channels and technologies
+- **•** Skin care: gain consumers' favor with superior skin care innovations and a strong portfolio of global brands
+- **•** Growth potential: tap new growth markets and business areas and leverage global growth potential
+- **•** Increasing productivity: accelerate growth through increased productivity
+- **•** Sustainability and Core Values: With the four Core Value attributes (Care, Simplicity, Courage and Trust), culture, sustainability, compliance as well as our employees' capabilities and skills, we are building on a strong foundation.
+
+The structure of the remuneration system and the actual remuneration awarded on the basis of this system give the members of the Executive Board an incentive to pursue and achieve the goals defined in the strategy and thus work toward achieving sustainable and long-term growth of the company's enterprise value. In 2023, both the short- and long-term variable remuneration therefore included specific performance criteria geared toward the five priorities of the C.A.R.E.+ strategy.
+
+| Company's situation                              | The remuneration system is based on the company's operating, financial, and economic<br>situation as well as its successes and outlook for the future.                                                                                                                                                                                                                                                                                                      |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Duties and performance<br>of the Executive Board | The remuneration system takes into account the duties and performance of the Executive<br>Board as a whole as well as of the individual members.                                                                                                                                                                                                                                                                                                            |
+| Pay for perfomance                               | The remuneration system defines appropriate performance indicators for determining<br>the performance-tied variable remuneration, which accounts for most of the total<br>remuneration, to ensure that the Executive Board's performance is appropriately<br>rewarded, while taking due account of any failure to achieve the defined targets.                                                                                                              |
+| Appropriateness                                  | The structure and amount of the Executive Board remuneration reflects customary<br>market practice and is competitive. This is ensured by means of regular benchmarking<br>against the relevant peer groups. In addition, the remuneration for the Executive Board<br>is appropriately balanced in relation to the remuneration for the company's senior<br>management and employees.                                                                       |
+| Consistency                                      | The remuneration system for the Executive Board and senior management create<br>comparable incentives and have predominantly uniform objectives (consistency<br>of the remuneration system). In addition, the corporate targets for employees'<br>variable remuneration are defined on the basis of the corporate goals defined for the<br>remuneration of the Executive Board. This ensures consistent incentives and, hence, a<br>uniform control effect. |
+| Regulatory conformity                            | The remuneration system for the Executive Board is consistent with the German Stock<br>Corporation Act and takes account of the recommendations and suggestions of the<br>German Corporate Governance Code.                                                                                                                                                                                                                                                 |
+
+Beyond this strategic link, the Supervisory Board is guided by the following additional factors in structuring the remuneration system and determining the amount of remuneration:
+
+## Page 264
+
+## Procedure for determining, implementing, and reviewing the remuneration system
+
+The Supervisory Board has drawn up and approved the remuneration system in accordance with the statutory requirements and in the light of the recommendations and suggestions of the German Corporate Governance Code (except where the company has declared a deviation from that Code). In doing so, it was advised and supported by external remuneration advisors and by its Presiding Committee, particularly on questions concerning the appropriateness and market conformity of the amount of the remuneration, and by the Personnel Committee, particularly on questions concerning the remuneration structure.
+
+The Supervisory Board regularly reviews the remuneration system, particularly with regard to its appropriateness, including in relation to comparable companies (horizontal comparison) and within the company in relation to senior management and the workforce as a whole (vertical comparison). The review of the remuneration system is prepared by the Presiding Committee, which recommends any necessary adjustments to the remuneration system to the Supervisory Board. The Supervisory Board submits the remuneration system for approval by the Annual General Meeting in accordance with § 120a *AktG* in the event of any material change to the remuneration system and at least every four years.
+
+## Definition of specific target total remuneration and determination of the amount of remuneration
+
+On the basis of the remuneration system, the Supervisory Board defines the specific target total remuneration for the individual members of the Executive Board comprising all fixed and variable remuneration components for the year including ancillary benefits.
+
+The Supervisory Board defines the performance criteria for all variable compensation components for the fiscal year ahead at the recommendation of its Presiding Committee within the framework of the remuneration system. When defining the performance criteria, the Supervisory Board also determines the weighting of the individual performance criteria within the specific remuneration component. In addition, it ensures that the target remuneration under the variable remuneration components is generally tied more closely to strategic objectives than to operational ones and that the amount of the target remuneration under long-term remuneration components is higher than that under the short-term remuneration component. For the short-term variable remuneration applicable in 2023, the Supervisory Board set the performance criteria in December 2022 following submission of the multi-year planning prepared by the Executive Board.
+
+After the end of the fiscal year (or, in the case of long-term variable remuneration, after the end of the last fiscal year of the assessment period), the Supervisory Board determines the specific target achievement at the recommendation of its Presiding Committee. For this purpose, achievement of the financial targets is determined in connection with the preparation and approval of the annual and consolidated financial statements. Achievement of the non-financial targets is determined after detailed consultation derived from a comparison of the target/actual achievement of individual performance criteria. The Supervisory Board sets the variable remuneration and the total remuneration for the previous fiscal year on the basis of the target achievement. For the 2023 variable bonus, the Supervisory Board determined the specific target achievement at its meeting on February 5, 2024 (see also e) in the "Remuneration structure and elements" section below).
+
+## Appropriateness and market conformity of the remuneration / comparison with market environment and employee remuneration
+
+In determining remuneration, the Supervisory Board pays particular attention to ensuring that the target remuneration appropriately reflects the duties (including division responsibilities) and performance of the member of the Executive Board. In addition to distinctions based on specific functions, e.g., the position of Chairman of the Executive Board and regional responsibilities, the Supervisory Board may

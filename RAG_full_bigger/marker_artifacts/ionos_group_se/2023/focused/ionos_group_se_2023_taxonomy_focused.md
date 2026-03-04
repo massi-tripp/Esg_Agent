@@ -1,0 +1,224 @@
+## Page 31
+
+The company's other operating income amounted to € 34,917k in the 2023 fiscal year (previous year: € 218k). It mainly includes income from the reversal of provisions in the amount of € 15,997k (previous year: € 44k), prior-period income in the amount of € 11,949k (previous year: € 123k), income from the recharging of IPO costs to the company's shareholders in the amount of € 6,002k (previous year: € 0k) and income from internal recharges in the amount of € 960k (previous year: € 34k). Income relating to other periods mainly includes income from the passing on of IPO costs from previous years to the company's shareholders.
+
+The personnel expenses of IONOS Group SE amounted to € 10,085k in the 2023 fiscal year (previous year: € 525k). The personnel expenses relate to the remuneration of the current members of the Management Board of IONOS Group SE.
+
+The company's other operating expenses amounted to € 18,858k in the fiscal year (previous year: € 9,556k) and mainly include expenses for external work in the amount of € 7,967k (previous year: € 313k), expenses for consulting costs of € 4,602k (previous year: € 7,613k), expenses relating to other periods in the amount of € 1,003k (previous year: € 56k) and for financial statement and audit costs of € 843k (previous year: € 1,413k).
+
+The operating result of IONOS Group SE amounted to € 9,216k as at the reporting date (previous year: € -8,978k) and was significantly influenced by the change in other operating income.
+
+The income from loans of the company in the amount of € 37k (previous year: € 37k) relates exclusively to interest on the loan to IONOS Holding SE.
+
+The interest expenses of IONOS Group SE amounting to € 3,833k (previous year: € 40k) mainly include expenses of € 3,605k (previous year: € 0k) in connection with taking out a syndicated loan by IONOS Holding SE. The fees from the syndicated loan were paid in full by the reporting company.
+
+The company's net profit for the fiscal year amounted to € 5,405k (previous year: net loss of € 8,980k).
+
+### Assets and financial position of IONOS Group SE
+
+IONOS Group SE's total assets increased from € 525,089k in the previous year to € 531,055k in the 2023 fiscal year. The main effects of this are explained below.
+
+The company's financial assets did not change in comparison to the previous year (€ 520,160k) and therefore corresponded to 97.95 % (previous year: 99.06 %) of the balance sheet total.
+
+The current assets of IONOS Group SE increased from € 4,929k to € 10,878k as of the balance sheet date. The increase mainly relates to receivables from affiliated companies (€ +3,724k) and other receivables (€ +2,225k).
+
+The company's receivables and other assets increased from € 4,929k to € 10,877k. This is due to the € 3,724k increase in receivables from affiliated companies and the € 2,225k increase in other receivables. Receivables from affiliated companies mainly include receivables from the VAT group. Other receivables consist of the on-charging of IPO costs to the minority shareholder WP XII Venture Holdings II SCSP in the amount of € 2,238k (previous year: € 0k).
+
+The equity of IONOS Group SE increased from € 510,498k to € 515,903k in the 2023 fiscal year due to the net income generated. The equity ratio was therefore 97.15% as at December 31, 2023 (previous year: 97.22%).
+
+The provisions of IONOS Group SE relate exclusively to other provisions and have increased from € 4,871k to € 9,609k.
+
+## Page 32
+
+In the previous year, the tax provisions of € 0k (previous year: € 1,330k) related exclusively to the sales tax risk that input tax on consulting expenses relating to the IPO is not deductible when reporting input tax. The provision was largely utilized in 2023.
+
+Other provisions mainly include personnel provisions in the amount of € 8,701k (previous year: € 413k) and costs for the financial statements and audit in the amount of € 697k (previous year: € 323k). The increase in other provisions mainly relates to provisions for share-based payments for members of the company's Management Board in the amount of € 7,709k. These provisions were transferred from IONOS Holding SE and remeasured with no effect on income (€ +4,408k) and also recognized in the 2023 fiscal year due to new commitments (€ +3,301k).
+
+The company's liabilities decreased from € 9,719k in the previous year to € 5,543k.
+
+Trade accounts payables decreased from € 204k in the previous year to € 58k. The decrease mainly relates to liabilities to legal advisors in connection with the IPO.
+
+Liabilities to related parties decreased from € 5,875k to € 437,. They mainly comprised liabilities from the VAT group of € 403k (previous year: € 533k).
+
+Other liabilities mainly include VAT liabilities in the amount of € 4,982k (previous year: € 3,593k).
+
+IONOS Group SE has been connected to the Group's own cash pool of United Internet AG via IONOS Holding SE since June 2022. IONOS Holding is integrated into the cash pool of United Internet AG and the financing of United Internet AG is in turn secured by long-term credit lines.
+
+In addition, the company has concluded a long-term loan agreement (loan) with IONOS Holding SE. The loan amounted to € 364,100k as at the balance sheet date (previous year: € 364,100k). There are no plans to adjust the repayment terms.
+
+By being included in IONOS Holding SE's cash pooling system, IONOS Group SE is able to meet its payment obligations at all times.
+
+## Management Board's overall assessment of the current business situation of the parent company
+
+Due to its role as a holding company, the economic position of IONOS Group SE at the level of the separate financial statements is mainly influenced by the investment and financial result. In this respect, the overall statement of the Management Board on the economic situation of the Group also applies qualitatively to IONOS Group SE itself.
+
+## Page 33
+
+## 2.5 Non-financial key figures
+
+The Management Board and Supervisory Board of IONOS see it as their duty to ensure the continued existence of the Group and sustainable value creation through responsible, long-term Group management. According to the Group's self-image, entrepreneurial action goes beyond the pursuit of economic goals and also includes an obligation to the Group, the environment, employees and other stakeholders.
+
+IONOS fulfills its reporting obligation in accordance with the "Act to Strengthen Non-Financial Reporting by Companies in their Management and Group Management Reports" (CSR Directive Implementation Act, CSR-RUG; Sections 315b and 315c in conjunction with 289c HGB) and publishes a separate non-financial Group report as part of a separate sustainability report. In the sustainability report, the company also fulfills its reporting obligation in accordance with the EU Taxonomy Regulation 2020/852 of the European Parliament and discloses the proportion of environmentally sustainable business activities accordingly.
+
+The Group faces up to this responsibility in a variety of ways. The most important aspects are summarized in the following sections and are published in the form of a sustainability report on the IONOS Group SE website (https://www.ionos-group.com/de/investor-relations/veroeffentlichungen/berichte.html).
+
+### Sustainable business policy / corporate responsibility
+
+IONOS is committed to a sustainable business policy. This sustainability is reflected in particular in the high level of investment in customer relationships.
+
+The number of paying customers was increased by a further 187k customers in the 2023 fiscal year. This growth resulted from 65k customers in Germany and 122k abroad. This brought the total number of customers to 6.19 million.
+
+Group: Development of the customer base in the 2023 fiscal year (in millions)
+
+|                  | 12/31/2023 | 12/31/2022 | Change |
+|------------------|------------|------------|--------|
+| Customers total  | 6.19       | 6.00       | +0.19  |
+| thereof domestic | 3.19       | 3.12       | +0.07  |
+| thereof abroad   | 3.00       | 2.88       | +0.12  |
+
+In addition to acquiring new customers, the retention and loyalty of existing customers is the most important factor in expanding the customer base. The most important tool for IONOS is customer satisfaction. For this reason, structures and processes have been established to determine customer satisfaction and their wishes. The insights gained from this are used to identify potential for improvement and then implemented in specific measures to increase customer satisfaction (for example in the area of service or product quality).
+
+In the interests of customer satisfaction, since October 2018, for example, all IONOS brand customers have been able to use a personal consultant free of charge as a central point of contact for all questions relating to the products, their contract and business success on the internet. IONOS thus accompanies companies through all phases of company development - from the homepage, store systems and own servers to the use of the enterprise cloud infrastructure developed in-house. Companies also have the option of using numerous cloud applications to support their business.
+
+### Employees
+
+The Internet industry is characterized by high dynamics, short innovation cycles and global networking. IONOS, together with the entire United Internet Group, is meeting these challenges with great success.
+
+## Page 34
+
+IONOS had a total of 4,364 active employees as at December 31, 2023 (December 31, 2022: 4,247 active employees).
+
+### Green IT
+
+In the wake of the global climate debate and constantly rising energy consumption, the computer industry is often talking about "green IT". In principle, the term "green IT" covers all measures that help to reduce both CO2 emissions and a company's energy consumption.
+
+Today, the ICT sector makes a significant contribution to global value creation and is therefore a strong economic factor. At the same time, it is also a not insignificant CO2 emitter and requires a lot of electricity. For Internet service providers such as IONOS, this applies in particular to the data centers where many millions of cloud applications for private individuals and businesses are managed, and which are facing growing demand due to the advancing digitalization of the economy and society.
+
+Since 2022, the IONOS Group has only used electricity from directly sourced renewable energy sources for its own data centers worldwide. The Group also attaches great importance to ensuring that the renewable energy is produced in close geographical proximity - i.e. usually in the same country or in a nearby area. IONOS has also been a certified Zero Carbon Committed Partner of VMware since the end of 2021. The initiative recognizes cloud providers who have committed to developing their services emission-free and to supplying 100% of their data centers with renewable energy by 2030.
+
+In July 2023, IONOS published its Climate Strategy 2023, which is based on the standards of the Science Based Targets Initiative (SBTi) of the Paris Agreement on 1.5°C for data centers. Among other things, IONOS has set itself the goal of reducing carbon dioxide emissions from data centers by 55% by 2030 compared to 2019, sourcing 100% of its electricity requirements from renewable energy sources in the long term and generating renewable energy itself in 50% of its own data centers. The targets defined in the climate strategy are reviewed internally every year and are closely linked to the other general business objectives.
+
+In 2018, the decision was made to introduce an energy management system (EnMS) in accordance with ISO 50001. The EnMS covers the IONOS Group's data centers, which it operates itself and in which it can control energy consumption accordingly. The application of the EnMS enables the continuous tracking of targets to increase energy efficiency and transparent traceability. The EnMS can therefore be used to identify and eliminate any energy wastage, which can save costs, and to identify and meet external requirements such as the performance of regular energy audits. The EnMS thus makes an important contribution to sustainability management and can have a positive impact on reputation and market position. The EnMS was successfully audited and recertified for the last time in 2022. The next regular recertification is planned for 2025.
+
+Important building blocks with regard to saving energy within the global data centers include:
+
+- Steady increase in utilization per server and thus reduction in the number of servers required.
+- Early replacement of old servers with more modern, energy-efficient hardware.
+- Some of the server hardware is specially assembled for IONOS, whereby superfluous components are avoided and, among other things, energy-saving processors and power supply units with low heat loss are used.
+- The web hosting system used by IONOS is a highly optimized in-house development based on Linux, which makes it possible to manage data from thousands of customers on a single computer and thus make sensible use of resources.
+- Virtualization allows "bare metal servers" to be increasingly replaced by virtual servers.
+- The use of containers makes it possible to dispense with redundant operation of the operating system kernel, which is instead shared by all instances - this enables even greater "elastic" load-dependent scaling of the IT resources provided.
+
+## Page 35
+
+## 3. Risk, Opportunity and forecast report
+
+IONOS' risk and opportunity policy is geared towards the goal of preserving and sustainably increasing the company's value by seizing opportunities and recognizing and managing risks at an early stage.
+
+Risk and opportunity management in practice ensures that the company can conduct its business activities in a controlled corporate environment. Risk and opportunity management regulates the responsible handling of uncertainties that are always associated with entrepreneurial activity.
+
+## 3.1 Risk report
+
+### Risk management
+
+The concept, organization and task of risk management at IONOS are coordinated centrally by the parent company United Internet AG and documented in a Group-wide risk management strategy and risk management manual. These guidelines are constantly adapted to the changing legal framework and continuously developed. Group Risk Management coordinates the implementation and further development of the risk management system and is responsible for the centrally managed risk management process. Operational risk management, which is the responsibility of the Chief Financial Officer of IONOS Group SE, pursues the goal of managing the risks of the entire Group and also deals with specific risk issues of IONOS Group SE.
+
+Regular risk manager meetings are held between the risk managers and with the company-wide, crossdivisional departments to exchange and compare risk information.
+
+The Corporate Audit department (Internal Audit) of United Internet AG regularly reviews the functionality and effectiveness of the risk early warning system. The system complies with the legal requirements for an early risk detection system, is in line with the German Corporate Governance Code and is based on the features defined in ISO standard 31000:2018. In accordance with the provisions of the German Stock Corporation Act, the Supervisory Board reviews the effectiveness of the risk management system.
+
+### Methods and objectives of risk management
+
+The risk management system comprises the measures that allow the company to identify potential risks that could jeopardize the achievement of corporate goals at an early stage through assessments and early warning systems, and to evaluate, manage and monitor them in monetary and scenario-oriented terms. The aim of risk management is to provide management with the greatest possible transparency regarding the actual risk situation, its change and the available options for action, in order to enable the conscious acceptance or avoidance of risks. Risks that could jeopardize the company must be avoided as a matter of principle.
+
+The status of material risks is communicated to the Management Board and Supervisory Board four times a year in the form of a report. An internal ad hoc reporting obligation is triggered in the event of identified, sudden material risks or a significant change in risk. The risk is then reported immediately to the CFOs of IONOS Group SE and United Internet AG and, if necessary, to the Supervisory Board. In this way, material risks can be addressed as quickly as possible.
+
+Risks are assessed on a net basis, i.e. the effects of mitigating measures are only taken into account in the risk assessment once they have been implemented.
+
+## Page 36
+
+### Risks for the IONOS
+
+The assessment of the overall risk situation is the result of a consolidated consideration of all known material risks. From the totality of these risks identified in IONOS, the following sections explain the main risk areas from the Group's perspective.
+
+The starting point for assessing the materiality of risks is the "probability of occurrence" and "potential loss". Potential damage includes all negative effects on earnings. Based on the combination of probability of occurrence and potential damage, the risks are categorized into three risk classifications: "Significant", "Moderate" and "Low risks".
+
+| Potential damage               |  | Very low<br>(0 % – 5 %) | Low<br>(> 5 % – 20 %) | High<br>(> 20 % – 50 %) | Very high<br>(> 50 % – 100 %) |
+|--------------------------------|--|-------------------------|-----------------------|-------------------------|-------------------------------|
+| Extremely high<br>(> € 30m)    |  |                         |                       |                         |                               |
+| Very high<br>(> € 10m – € 30m) |  |                         |                       |                         |                               |
+| High<br>(> € 3m – € 10m)       |  |                         |                       |                         |                               |
+| Low<br>(> € 0.5m – € 3m)       |  |                         |                       |                         |                               |
+| Very low<br>(€ 0 – € 0.5m)     |  |                         |                       |                         |                               |
+
+Probability of occurrence
+
+significant risk moderate risk low risk
+
+erate risk
+
+low risk
+
+Specific assessments by the Group's Executive Board of the risk situation and the probability of occurrence, potential damage and the resulting risk classification of the risks described below can be found at the end of this risk report.
+
+## Page 37
+
+### Risks in the "Strategy" area
+
+#### Participations & Investments
+
+Acquiring and holding equity investments and making strategic investments are key success factors for IONOS. In addition to better access to existing and new growth markets and to new technologies/knowhow, shareholdings and investments also serve to tap synergy and growth potential. These opportunities are also accompanied by risks. For example, there is a risk that the hoped-for potential cannot be exploited as expected or that acquired investments do not develop as expected (impairment, loss on disposal, loss of dividends or reduction in hidden reserves).
+
+All investments are therefore subject to a continuous monitoring process by investment management and are supported promptly if necessary. The value of the investments made is continuously monitored by management and controlling.
+
+IONOS is not currently aware of any significant risks in this area.
+
+#### Business development & innovations
+
+Another key success factor for IONOS is to develop new and constantly improved products and services in order to further increase sales and earnings, acquire new customers and expand existing customer relationships. There is a risk that new developments may be launched too late or not be accepted by the target group as expected.
+
+IONOS counters these risks through intensive and permanent market, product and competition monitoring as well as product development that constantly responds to customer feedback.
+
+Due to the reassessment of the risk situation, risks were closed, resulting in a reduction in the risk rating compared to the previous year.
+
+#### Cooperation & Outsourcing
+
+In some areas of the company, IONOS works with specialized cooperation and outsourcing partners. The focus here is on objectives such as concentrating on the actual core business, reducing costs or participating in the partner's expertise. These opportunities are accompanied by risks in the form of dependencies on external service providers as well as contractual and default risks.
+
+To reduce these risks, a detailed market analysis and a due diligence review are carried out before concluding major contracts with external service providers and a close and cooperative exchange is maintained with the cooperation and outsourcing partners even after the contract has been concluded.
+
+#### Organizational structure & decision-making
+
+Choosing the right organizational structure is essential for the efficiency and success of the company. In addition to the organizational structure, business success is also largely dependent on making the right decisions. The basis for decisions can be negatively influenced by various factors, such as limited flexibility due to existing business processes and structures or misunderstandings caused by a lack of clarity in the definition of key figures. If efficiency is jeopardized by one or more factors, this represents a strategic risk for IONOS, which should be avoided if economically viable.
+
+IONOS considers itself to be generally well positioned in this area due to the high level of agility in the organization and is taking a variety of measures to standardize and optimize processes, structures and key figures.
+
+IONOS is not currently aware of any significant risks in this area.
+
+## Page 38
+
+#### Personnel development & retention
+
+Highly qualified and well-trained employees form the basis for the economic success of IONOS. In addition to the successful recruitment of qualified personnel (see also "Recruitment market" risk), personnel development and the long-term retention of top performers in the company are of strategic importance. If it is not possible to develop and retain managers and employees with specialist or technological knowledge, there is a risk that IONOS will not be able to pursue its business activities effectively and achieve its growth targets. Due to a concentrated accumulation of strategic knowledge and skills (a socalled head monopoly), the loss of a relevant employee could have a significant impact on the Group's performance.
+
+To counteract this, employee and management skills are constantly being developed. For example, targeted professional development measures, mentoring and coaching programs as well as special offers for high-potential employees are offered, which are geared towards the further development of talent and leadership skills.
+
+#### Risks in the "Market" area
+
+#### Sales market & competition
+
+The IONOS markets are characterized by strong and sustained competition. Depending on the strategy of the parties involved in the market, different effects may occur, which may result in an adjustment of the company's own business models or pricing policy, among other things. The market entry of new competitors could also jeopardize market shares, growth targets or margins. In addition, the IONOS Group itself occasionally enters new, additional markets with major competitors. Such entrepreneurial decisions are always associated with new risks.
+
+The Group attempts to minimize these risks with detailed planning based on internal experience and external market studies as well as by constantly monitoring the market and competition.
+
+#### Procurement market
+
+A gap in the procurement or supply of resources required for company operations can also lead to bottlenecks or failures. This applies to the purchase of hardware and software as well as the procurement of advance services. Price increases for purchased products and services pose a risk to the product margins that can be achieved. Planned positive effects from contractually fixed price adjustment rounds can turn into risks for the company's periodic target achievement due to delays.
+
+IONOS counters these risks by working with several long-term service providers and suppliers, contractual obligations and - where economically viable - by expanding its own value chain. Although significant and unforeseeable developments on the procurement market, for example due to geopolitical tensions, cannot be fully cushioned, they can be counteracted by preventive measures such as the rapid replenishment of stocks.
+
+The risk rating has risen from Moderate to Significant, as some service providers and license partners have announced price increases.
+
+#### Financial market
+
+IONOS is fundamentally exposed to risks on the financial market with its activities. This applies in particular to risks arising from changes in interest and exchange rates.

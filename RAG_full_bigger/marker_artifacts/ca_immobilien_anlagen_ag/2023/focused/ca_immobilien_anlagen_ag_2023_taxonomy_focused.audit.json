@@ -1,0 +1,183 @@
+{
+  "company_slug": "ca_immobilien_anlagen_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\ca_immobilien_anlagen_ag\\2023\\ca_immobilien_anlagen_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\ca_immobilien_anlagen_ag\\2023\\focused\\ca_immobilien_anlagen_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        59,
+        61,
+        64,
+        65,
+        67,
+        70,
+        71,
+        72,
+        77
+      ],
+      "start_page": 57,
+      "end_page": 82,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "59": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "61": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "64": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "65": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "67": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "70": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "71": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "72": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "77": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        87,
+        88,
+        90,
+        95,
+        96,
+        97,
+        98
+      ],
+      "start_page": 85,
+      "end_page": 103,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "87": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "88": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "90": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "95": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "96": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "97": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "98": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        133
+      ],
+      "start_page": 131,
+      "end_page": 138,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "133": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        267
+      ],
+      "start_page": 265,
+      "end_page": 272,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "267": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

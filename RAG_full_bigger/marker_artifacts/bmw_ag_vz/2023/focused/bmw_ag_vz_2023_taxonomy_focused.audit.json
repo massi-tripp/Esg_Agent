@@ -1,0 +1,237 @@
+{
+  "company_slug": "bmw_ag_vz",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\bmw_ag_vz\\2023\\bmw_ag_vz_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\bmw_ag_vz\\2023\\focused\\bmw_ag_vz_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        4,
+        5
+      ],
+      "start_page": 2,
+      "end_page": 10,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "4": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "5": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        15,
+        18
+      ],
+      "start_page": 13,
+      "end_page": 23,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "15": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "18": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        32
+      ],
+      "start_page": 30,
+      "end_page": 37,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "32": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        78,
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        87,
+        88,
+        89
+      ],
+      "start_page": 76,
+      "end_page": 94,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "78": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "79": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "80": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "82": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "83": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "84": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "85": [
+                "Taxonomy-aligned activities"
+              ],
+              "87": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities",
+                "Annex I",
+                "Annex II"
+              ],
+              "88": [
+                "Annex I",
+                "Annex II"
+              ],
+              "89": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        252,
+        253,
+        254
+      ],
+      "start_page": 250,
+      "end_page": 259,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "252": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "253": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "254": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        324,
+        325
+      ],
+      "start_page": 322,
+      "end_page": 330,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "324": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "325": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        334
+      ],
+      "start_page": 332,
+      "end_page": 339,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "334": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

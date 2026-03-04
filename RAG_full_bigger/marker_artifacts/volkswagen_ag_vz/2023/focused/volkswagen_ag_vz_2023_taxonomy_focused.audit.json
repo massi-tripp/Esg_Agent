@@ -1,0 +1,224 @@
+{
+  "company_slug": "volkswagen_ag_vz",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\volkswagen_ag_vz\\2023\\volkswagen_ag_vz_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\volkswagen_ag_vz\\2023\\focused\\volkswagen_ag_vz_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        8
+      ],
+      "start_page": 6,
+      "end_page": 13,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "8": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        46
+      ],
+      "start_page": 44,
+      "end_page": 51,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "46": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        94
+      ],
+      "start_page": 92,
+      "end_page": 99,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "94": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        132
+      ],
+      "start_page": 130,
+      "end_page": 137,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "132": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ],
+      "start_page": 196,
+      "end_page": 219,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "198": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "199": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "200": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "201": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "202": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "203": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "204": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "205": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "206": [
+                "Taxonomy-eligible activities"
+              ],
+              "207": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "208": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities"
+              ],
+              "209": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "210": [
+                "Taxonomy-eligible activities"
+              ],
+              "211": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Environmentally sustainable activities"
+              ],
+              "212": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "213": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "214": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        453
+      ],
+      "start_page": 451,
+      "end_page": 458,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "453": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

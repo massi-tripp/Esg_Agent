@@ -1,0 +1,1051 @@
+## Page 14
+
+# <span id="page-13-0"></span>**QUALITY IN COMMUNICATIONS** DIALOGUE IN THE SAME DIRECTION
+
+**Today the key question is: Where do tenants stand, and what are their requirements?**
+
+## Page 15
+
+**Overview** Quality in communications | **Periodical Company Management report Separate financial statements Further information**
+
+**Every tenant has issues that we can help to solve. Which is why we compare notes with them regularly. This develops our relationship and at the same time our ability to stay in touch with the market.**
+
+**What is the leasing situation like for HAMBORNER at the moment and how do you expect it to develop?**
+
+ **DE WENDT:**  The leasing situation for us is positive, as in the past; I would say it is better than the market as a whole. We traditionally have a very low vacancy rate. That is because we benefit from our stable portfolio and quality locations. But we are also seeing that the market is getting more demanding. The era of "new work" has fundamentally changed the way organisations are set up. For us as landlords it means we have to adapt to completely new expectations on the part of our tenants. And then there are the issues of digitalisation, new working requirements and the expectations of employees after COVID-19, which all drive this trend.
+
+#### **What does that actually mean?**
+
+ **W:**  Let's take start-up companies as an example. Working life here often takes place between working from home and co-working spaces. That affects both the size and the layout of the rental
+
+# Personal communication is becoming more important.
+
+**TORSTEN DE WENDT**
+
+properties. A kind of "living room working" approach has become established at many firms. The tenants use their space as a social meeting point. Other organisations still tend to prefer floor plans that are dominated by individual offices for one or more people. Our properties provide the flexibility for that.
+
+#### **Who bears the costs of the "living room"?**
+
+ **W:**  Fittings and furnishings are normally down to the tenant. We get involved when a rental property has to be adapted to the changing environment. We definitely review the need for any
+
+signatory at HAMBORNER and has lead the Property Management unit for ten years. He was previously managing director at various firms of estate agents and has worked as an independent solicitor.
+
+֝ **TORSTEN DE WENDT** is a lawyer and authorised
+
+Image /page/14/Picture/14 description: The image contains a quote with a large quotation mark at the top left. The quote reads: "Personal communication is becoming more important."
+
+## Page 16
+
+#### **H A M B O R N E R R E IT AG**
+
+Annual Report 2023
+
+1 6
+
+**Overview** Quality in communications | **Periodical Company Management report Separate financial statements Further information**
+
+Image /page/15/Picture/3 description: A man and a woman are sitting at a table, engaged in a conversation. The man is wearing a dark suit jacket over a white shirt, and he has his hands clasped together on the table. He is looking at the woman with a slight smile. The woman is wearing a black and white houndstooth jacket and glasses, and her blonde hair is pulled back in a ponytail. She is facing the man, presumably listening to him. A closed laptop is on the table between them. Behind them, there is a tall green plant in a gray pot, adding a touch of nature to the indoor setting.
+
+**AT THE SAME TABLE** – personal discussions with tenants give us great insights into the things that matter to them.
+
+Working with our tenants, we find individual solutions.
+
+daptation when a tenant moves out. But also during a tenancy and when a lease comes up for renewal, we also look at the property in terms of its quality to see if it still meets market requirements. If the tenant wants to make changes, we support them by giving our consent – and if the added value for us is substantial, we might also make a financial contribution.
+
+**The requirements in terms of ESG have also gone up substantially...**
+
+ **W:**  That's true. Sustainability standards for properties, the EU Taxonomy, green leases and green energy – these are the demands
+
+## GREEN LEASE
+
+A **"green lease"** is a tenancy agreement designed to be sustainable, the terms of which are intended to encourage the tenant to use the property as sustainably as possible and the landlord to manage the property as sustainably as possible. It has many advantages. In addition to making a positive contribution to the environment and climate action, "green" clauses in the lease form the basis for increasing transparency and cost efficiency, and for improving the working environment in the property.
+
+that our tenants and potential tenants are making of us today, much more than in the past, also because these are the requirements that the market and regulators are making of them. All this means that the amount of data we exchange is growing rapidly.
+
+**How much do you use analytics tools for location analysis, or to develop your assets? Where are experience and personal exchanges particularly important?**
+
+ **W:**  We use technical tools, of course, like databases, programs and letting platforms. But they do not remotely replace personal contacts or site visits. Tools provide facts. In the course of a dialogue we get opinions, which also apply to the future. Among the most important contacts for us are the local authorities, especially the business development departments. But comparing notes on technical and other functional aspects with specialists is also important. We maintain contacts with a wide variety of experts and market participants.
+
+**TORSTEN DE WENDT**
+
+## Page 17
+
+**Overview** Quality in communications | **Periodical Company Management report Separate financial statements Further information**
+
+Whereby the tenant is and will remain the most important source of information for us by far. Our regular conversations with tenants do not revolve so much around the contractual relationship as such, but rather the general developments at the location and the concrete challenges that they are faced with in their day-to-day business. This gives us an appreciation of the impending changes in the market. And related to that, in what areas can we contribute to finding a timely solution?
+
+**Long-term contracts represent security in your business. How does HAMBORNER make its locations as attractive as possible for its tenants?**
+
+ **W:**  We do that via the quality of our properties and the quality of our service: at the moment we are working hard to optimise our locations in terms of their carbon footprint. Our service for our tenants can include adapting the lease in good time, planning for future space requirements or focusing on meeting higher energy efficiency standards. In the past we just let space on a temporary basis. The only time you met in person was at the beginning and end of a lease. Today, the best case is that the landlord and the tenant have an in-depth relationship where both partners consult each other regularly. Our tenants appreciate that we have answers to their questions and can provide helpful data and information. And we can do that because we get proactively involved in the things our tenants need.
+
+**You carried out a big tenant survey recently. What were the findings?**
+
+ **W:**  We carried out a wide-ranging stakeholder survey for the first time in 2023, and as part of that we asked around 80 tenants for their opinion about the performance of our asset and property
+
+**RESPONDING** to the questions and needs of our tenants is important to us.
+
+management teams. In the survey, the existing tenants had the option of giving their opinion anonymously about the quality and condition of the rental property, and about their working relationship with their contacts at HAMBORNER. A survey like that is an important instrument for us to find out if we are on the right track. And it is a good way of communicating with smaller tenants about topics like sustainability too. As far as the findings go, they were largely in line with our expectations. But in some cases we also picked up some very valuable tips. And what always came across was that our tenants appreciate the attentive and highly personal service. This is reflected not least in the high tenant satisfaction ratio of 76% that we measured for the first time.
+
+# QUALITY CHECK
+
+- Our most important source of information is the tenant – proactive communication identifies their needs early
+- Regular data exchanges help to meet market and regulatory demands
+
+## Page 18
+
+# <span id="page-17-0"></span>**QUALITY PROPERTIES** SUSTAIN ABLY BETTER
+
+We **see the decarbonisation of our**portfolio not only as a task, but **above all as an opportunity.**
+
+Overview
+Company
+Management report
+Separate financial statements
+Further information
+Quality properties | **Periodical**
+
+## Page 19
+
+**Overview** Quality properties | **Periodical Company Management report Separate financial statements Further information**
+
+## 1 9
+
+**Our objective is for the metrics of our properties to make a good impression in our own sustainability record and that of our tenants. That can't be done from one day to the next. But last year we again made excellent progress – also thanks to close cooperation with our tenants.**
+
+But then the property markets took a different turn to what was expected before I started. In contrast to our original plans, we acquired fewer manage-to-core properties. We responded accordingly and took that as an opportunity to redefine our priorities. The initial focus was therefore on sustainability and on optimising our internal organisational structures, in order to ensure we can continue to meet the requirements of modern property management. These are both very complex and challenging areas, which we are working on in our division with our experienced team and a dual leadership structure.
+
+## CRREM
+
+The **Carbon Risk Real Estate Monitor** is a system for measuring the current status of a building in terms of its energy and emissions intensity. It enables us to estimate the extent to which a building's carbon emissions should be reduced in order to be consistent with the UN climate goals.
+
+#### **Ms Höfer, you only joined HAMBORNER recently. What's your impression of the company?**
+
+ **HÖFER:**  This is a highly dynamic company, which means there's never a dull moment here. I joined the company a year-and-a-half ago and have been part of the Technical Management team since then. In the past I acquired a lot of experience of managing and developing large retail and office property projects. That was good training for supporting the development and expansion of a development team for manage-to-core projects, by which we mean properties with optimisation potential.
+
+֝ **DESIREE HÖFER** is Co-Head of Technical Management. The construction engineer has been part of the HAMBORNER team since 2022. She previously worked in project management functions, including project development, at various companies.
+
+Image /page/18/Picture/10 description: A woman with short gray hair and glasses is standing in front of a window. She is wearing a white shirt, black pants, and a black cardigan. She is smiling and looking at the camera. There is a black bird silhouette on the window.
+
+#### **You recently published a decarbonisation strategy...**
+
+ **H:**  Preparing that was one of our main tasks last year. We were keen to show not only the targets we are aiming for, but also to find out what concrete steps are required to achieve them at portfolio and individual property level. My Technical Management department dealt primarily with the different possibilities for optimising the sustainability status of a building, so basically with ways of reducing carbon emissions. To start with we analysed about a third of our properties in terms of their current and historic greenhouse gas emissions, and identified possible ways to make them more energy efficient. The second step was to apply our findings to similar buildings in the portfolio.
+
+#### **How did that work exactly?**
+
+ **H:**  In the course of the assessment we categorised the remaining two thirds of our portfolio that were not analysed in detail according to their type of use, age, physical structure and tenant structure, among other things. The information that we gained from the detailed analysis was then transferred to similar properties. Finally,
+
+## Page 20
+
+# Decarbonisation can only be achieved together with the tenants.
+
+**DIPL.-ING. DESIREE HÖFER**
+
+we drew up a catalogue of activities that is now being used at the individual property level as a road map for reaching our decarbonisation targets.
+
+**Heating, photovoltaics, heat pumps – a lot of knowledge is required.**
+
+ **H:**  Our team already has most of the technical know-how needed in these areas. For complex work we also consult external experts as necessary, and they advise us on the planning and implementation. The question we always ask ourselves is, by how much can we reduce our carbon emissions with the measures available to us? We use spreadsheet models for that, some of which we learnt about in ESG training courses. They not only include the potential savings, of course, but also the costs of the different technical options.
+
+#### **That sounds complex...**
+
+ **H:**  Yes, it is, because individual approaches have to be devised for each property. A heat pump can be a good solution for an office building. But a retail property often calls for different solutions. It's
+
+Image /page/19/Picture/8 description: A low-angle shot captures a modern building with a striking facade. The building's exterior is characterized by horizontal panels of varying shades of gray, creating a striped effect. Windows are visible, reflecting the sky. The sky above is a clear, light blue.
+
+**Overview** Quality properties | **Periodical Company Management report Separate financial statements Further information**
+
+The **CARBON FOOTPRINT** of HAMBORNER's own head office is also continuously optimised.
+
+not just about heating here, but mostly about cooling too. That in turn is a good reason for hybrid solutions, because a cooling unit can be combined with heat recovery and in some cases with a heat pump too.
+
+#### **What role does the tenant play in the target pathway?**
+
+ **H:**  An important one. Much of the potential for reducing carbon emissions can be only be achieved in close cooperation with the tenants. Because they are the ones who determine the energy consumption on a day-to-day basis. For a retail property their influence is generally greater than for an office property. Retailers prefer an ambient temperature of 21 degrees Celsius. That is a comfortable temperature at which customers are happy to shop. So although reducing the temperature to 19 degrees Celsius certainly reduces the carbon footprint significantly, it also alters the feeling of comfort. What helps here is when we are not the only ones thinking more about sustainability. When the tenants do too, we can work together to find joint solutions for reducing the carbon footprint.
+
+#### **Do all the tenants share that view?**
+
+ **H:**  More and more of them do. A few years ago about two thirds of customers were not very interested in ESG, but today we are gradually seeing a change of heart. That means there is a much greater willingness to talk about things like "green leases" and contracts for green power. It helps that we are not the only ones who have compliance obligations – our tenants do to. So essentially we are both on the same side. Sustainability is definitely a focus for our institutional tenants, especially the big food retailers who are our anchor tenants. For some of the smaller tenants we sometimes have to be a bit more persuasive.
+
+But regardless of the size of the tenants, we do notice that they are more cost-conscious in the current inflationary environment.
+
+## Page 21
+
+**Overview** Quality properties | **Periodical Company Management report Separate financial statements Further information**
+
+## 2 1
+
+Sustainability is a topic that has to be affordable for them. But the service charges are now a cost factor that the tenants did not use to pay so much attention to. At the same time we see that sustainability standards are increasingly important for new leases.
+
+#### **How important is third-party dialogue?**
+
+ **H:**  Comparing notes and sharing information with others is very important for us. We talk to engineers a lot on a day-to-day basis. And at conventions and conferences we compare notes with competitors. The facility managers we work with are also important sparring partners for us. ESG is currently a massive topic in the
+
+Image /page/20/Picture/6 description: A close-up shot shows two KEBA electric vehicle charging stations mounted on a metal pole, with a blurred red car in the foreground. The charging stations are white with gray accents and the KEBA logo is visible on the top. One station has a charging cable plugged into it, indicating it is in use. The background features a building with a window and gray siding.
+
+property business, so everyone has questions; about data management, for instance. All the market players are dealing with the same issues, like how to access, collect and analyse data, and data protection, of course.
+
+#### **Is there a data tool you already work with?**
+
+ **H:**  Yes, last year we decided on a system for the automated recording of consumption data. The data gathered will form the basis for our carbon footprint at individual property, sub-portfolio and entire portfolio level. As soon as the system is up and running, the data will be automatically entered via interfaces and can be used. Direct interfaces are also being set up with the regional energy utilities, who send us a large part of the consumption data we need directly. In the past we entered and analysed these data manually. At the same time we are currently doing the groundwork for collecting all consumption data via smart meters that can be accessed remotely. There are still some obstacles to be overcome here in terms of data protection, however. But once we have done that, our data management processes will be even more transparent, faster and more secure.
+
+#### **What are the other topics on the agenda in your division for 2024?**
+
+ **H:**  Our focus on ESG results in more varied jobs, which we carry out continuously in our buildings. We are currently tendering for facility management services for our portfolio. So we have developed detailed tender documents covering qualifications, criteria and the work required. Our aim is to get better, forward-looking facility management by working with qualified service providers,
+
+**ELECTRIC VEHICLE CHARGING STATIONS**  at the company offices in Duisburg-Hamborn
+
+Image /page/20/Picture/13 description: The image shows the number 67 in a large, bold, dark-blue font. Below the number, in a smaller, dark-blue font, are the words "PROPERTIES IMPLEMENTED IN ESG TOOL".
+
+because that benefits the users of the properties, and the intelligent data flows help to meet increasing reporting requirements.
+
+We use a data hub to connect the external facility managers with our internal Property Management team. This software works like a sniffer dog and retrieves the relevant data from the service providers' systems. It enables service providers to work within their own systems, while we get the data we need for management, monitoring and reporting.
+
+This year we are also focussing on choosing and implementing a new software solution for the management and controlling of maintenance and construction projects.
+
+## QUALITY CHECK
+
+- Digital data management systems form the basis for efficient and dependable carbon emission reporting
+- Individual concepts are drawn up to reduce the energy and emissions intensity of all the portfolio properties
+
+## Page 22
+
+**Overview** Quality governance | **Periodical**
+
+**Company Management report Separate financial statements Further information**
+
+# **QUALITY GOVERNANCE** RELIABILITY BUILDS TRUST
+
+**Contracts are the basis of all successful collaborations.**
+
+<span id="page-21-0"></span>2 2
+
+## Page 23
+
+**The expertise and involvement of its legal team is vital when closing deals and letting properties, but also in many other areas of HAMBORNER's day-to-day business. The following interview with Marc Rother gives an inside view.**
+
+> **Mr Rother: when you look at the demands made of your team in Legal & Corporate Governance, what has changed recently?**
+
+ **ROTHER:**  Basically we can say that almost everything has some legal aspect to it today. The question, "Can you have a look at this situation from a legal perspective?" is one of the things I hear most in my everyday work. In addition to working on legal topics from the operating business units, we regularly advise on the implementation of regulatory requirements, which get more wide-ranging and more complex every year for listed companies like us. As far as reporting is concerned, for instance, we are currently very busy with preparations for the extended reporting under the CSRD and
+
+֝ **MARC ROTHER** is an authorised signatory and heads the Legal & Corporate Governance division. A qualified lawyer, he has worked for HAMBORNER REIT AG for 20 years and concentrates on transactions, legal due diligence, Supervisory Board work, Annual General Meetings and capital market legislation.
+
+Image /page/22/Picture/6 description: A man in a suit is sitting at a desk in an office. He is wearing glasses and has short brown hair. He is smiling and looking at the camera. There is a computer monitor, keyboard, and a book on the desk in front of him. The background is a window with trees outside.
+
+EU Taxonomy that is mandatory from 2025. These subjects do not directly impact my area of responsibility. But of course there are numerous aspects that we have to deal with from the legal perspective. The subject of money laundering also requires more attention. Anti-money laundering legislation has been tightened and a new Transparency Register and Financial Information Act has been introduced. The list of legal requirements for companies is growing and I could mention many more.
+
+Apart from the regulations, there are also market-specific requirements. They are made by stakeholders, including investors, financial market analysts and ESG rating agencies, for example. Here we work closely with our colleagues from ESG and Investor Relations. And that brings us on to the subject of governance: there are very clear rules nowadays for how a company has to be managed. The
+
+# Regulations and market standards are the basis of our internal governance structures.
+
+**MARC ROTHER**
+
+**Overview** Quality governance | **Periodical Company Management report Separate financial statements Further information**
+
+**LAWYER MARC ROTHER –** involved in numerous processes and in regular contact with the other departments
+
+## Page 24
+
+**Overview** Quality governance | **Periodical Company Management report Separate financial statements Further information**
+
+market wants to see that they are respected – which means we at HAMBORNER do too. So there are very many different points of contact with the legal department in the company.
+
+**How much time do you spend on classic contracts?**
+
+ **R:**  The pace of change is not so great in terms of operational business. The contents of leases and sales agreements largely follow fixed conventions. What has increased a lot here are the documentation obligations. Like many things in life, this has two sides to it: one is that there is more work to do. Writing things down takes time. But on the other hand, this gives us the benefits of reliability, security and ultimately also trust. Reliability also means that theoretically everyone with the corresponding rights has direct access to the single document that is valid for all. This is also a good fit with our new collaboration strategy, which will ensure we are networked with one another much more digitally in future. I personally am looking forward to it, because it enables us to work together much more efficiently.
+
+**Are there differences between the contracts for retail and office properties?**
+
+ **R:**  Legally speaking there are not that many differences. Both are asset classes covered by commercial tenancy law. With retail properties we are much more dependent on building law, however. Town planning law keeps getting stricter and that sets limits for us. The background is that the municipalities want to protect the shops in the town centres and so are setting the boundaries for greenfield retail sites more deliberately than in the past.
+
+Image /page/23/Picture/7 description: A man in a suit is holding a book titled "Marsch-Barner Schöder Handbuch börsennotierte AG Aktienrecht und Kapitalmarktrecht 5. Auflage ottoschmidt".
+
+#### **That is eminently political...**
+
+ **R:**  It certainly is. The municipalities decide what happens within their jurisdiction. For DIY stores, for example, there is a special zoning category with clear limits on the available space and what they are allowed to sell. So when a new lease is being negotiated, or when we have a manage-to-core strategy for a building, we will probably have even more to do with the town planning department in future. But that is also positive, because every solution has to work for everyone involved; for our tenant, for their customers and for the local community.
+
+# Reliable contracts create the basis for sustainable partnerships.
+
+**MARC ROTHER**
+
+**Let's stay with the subject of regulation. Where do you think it is necessary, and where does it go too far?**
+
+ **R:**  For residential property I think it is right that the government legislation particularly protects tenants. For commercial leases, government could rely more on the market in my opinion. We have more room for manoeuvre here, theoretically, but in practice it is restricted again by the law on general terms and conditions, or by the courts. One example is the clauses on cosmetic repairs and maintenance, which the Federal Court of Justice has ruled to be illegal, not only for residential contracts but also for commercial premises. There is no need for protection in these areas in the commercial market, if you ask me. Both parties are professionals. The legal trend is going the other way, however.
+
+## Page 25
+
+**Overview** Quality governance | **Periodical Company Management report Separate financial statements Further information**
+
+**How can the sale and purchase of properties be made easier in your area?**
+
+ **R:**  We are already in a good position as far as the legal due diligence and contract structuring is concerned. Here we have a well-designed checklist that we can adapt as needed to the specific situation. There is room for improvement when it comes to inspecting the land register. It would be good if we could access the files
+
+faster via a public notary at some point. When we have to check on easements it can sometimes take quite a while to chase up a document. If it's not available, we have to go to the local authority. They are often at the limit of their capacity. Fortunately there is work being done here on an electronic land file. But not to give the wrong impression: in our transactions we deal with professional partners, with whom we can increasingly wrap up the processes efficiently via an electronic data room.
+
+**Talking about data rooms. What role do they play in internal collaboration? And how are you and the Legal & Corporate Governance division involved in these processes?**
+
+ **R:**  Working in a data room is now part of everyday work for all of us at HAMBORNER. This is where we file the relevant data, where we ask questions and share information. As far as the process is concerned, we were involved from the beginning. We always start with a kick-off meeting attended by all people involved. In addition to us that is the transaction team, the technical people, asset management and property management. For larger transactions we also get specialised law firms on board. We discuss the details of the transaction and assign responsibilities. Then there are regular status meetings where we share interim results, until at some point it's time to draft the purchase or sales contract. On our side the documents are reviewed and organised by the Transaction and Legal divisions, and by Accounting for the tax issues. This always enables us to deliver a good result.
+
+QUALITY CHECK
+
+us and our business partners
+
+for all internal company processes
+
+A combination of internal and external legal expertise forms the basis for optimal results for
+
+Broad knowledge in a wide range of different legal areas ensures we provide the best advice
+
+Image /page/24/Picture/8 description: A man is sitting down and reading a book. The book is open and he is holding it with both hands. The man is wearing a suit and a watch. There is a phone and a table in the background.
+
+**LEGALLY BINDING –** most topics the company deals with have legal ramifications.
+
+## Page 26
+
+# <span id="page-25-0"></span>COMPANY
+
+| Report from the Supervisory Board                | 27 |
+|--------------------------------------------------|----|
+| Management Board and<br>Supervisory Board        | 31 |
+| Sustainability                                   | 32 |
+| HAMBORNER shares                                 | 35 |
+| Transparent reporting in accordance<br>with EPRA | 39 |
+
+## Page 27
+
+**Overview Periodical** Report from the Supervisory Board | **Company Management report Separate financial statements Further information**
+
+# <span id="page-26-0"></span>**REPORT FROM THE SUPERVISORY BOARD**
+
+#### **Dear readers,**
+
+Although macroeconomic and sector-specific conditions remained difficult, HAMBORNER REIT AG has built on its success in 2022 and achieved a stable and positive business performance in the past year.
+
+Our intention is that our shareholders should participate in the improved revenue and earnings figures in the form of a dividend of €0.48 per share, which is very attractive compared with the market and our competitors. The Management Board and Supervisory Board will table a corresponding dividend proposal at this year's Annual General Meeting on 25 April 2024.
+
+#### **CHANGES TO THE MANAGEMENT BOARD AND SUPERVISORY BOARD**
+
+The merger of the Steering Committee and the Nomination Committee voted by the Supervisory Board in the previous year took effect on 1 January 2023. We notified you of the corresponding resolution last year.
+
+The Supervisory Board appointed Mr Niclas Karoff as Chair of the Management Board for another five years until 28 February 2029 by way of a circular resolution in March 2023. With his reappointment, the Supervisory Board ensures continuity and long-term visibility in the management of the company.
+
+#### **MONITORING MANAGEMENT AND COOPERATION WITH THE MANAGEMENT BOARD**
+
+In the 2023 reporting year, the Supervisory Board also regularly advised the Management Board with regard to company management, and monitored its work closely and continuously. Members of the Supervisory Board received detailed information on all key business transactions and forthcoming decisions. At all times, the Management Board fulfilled its duty to provide information, and reported comprehensively and in a timely manner, both in writing and verbally, on the strategic alignment of the company and all relevant aspects of business planning including financial, investment and personnel planning, risk management, and compliance.
+
+Furthermore, at each meeting the Supervisory Board discussed the economic situation, business development, and the company's earnings and risk situation. The members of the Supervisory Board always had ample opportunity to scrutinise the reports and proposals for resolutions submitted by the Management Board in committees and sessions, to ask questions and to make their own suggestions. The Supervisory Board met regularly without the Management Board, both in full sessions and meetings of the Executive and Nomination Committee.
+
+The Supervisory Board met four times in the 2023 financial year. In addition, the Supervisory Board adopted the resolution on renewing Mr Niclas Karoff's appointment as CEO and one resolution amending the Rules of Procedure for the Management Board outside of meetings.
+
+Image /page/26/Picture/14 description: A man in a suit and tie is standing behind a desk. He has gray hair and a mustache. He is wearing a watch on his left wrist. The background is a blurred office setting with windows.
+
+**DR ANDREAS MATTNER** Chairman of the Supervisory Board of HAMBORNER REIT AG
+
+## Page 28
+
+Over the course of the year the Chair of the Supervisory Board remained in regular contact with the Chair of the Management Board in order to stay informed of key transactions, forthcoming decisions and current developments regarding the business situation.
+
+The Supervisory Board attended a training course on sustainability reporting (Corporate Sustainability Reporting Directive – CSRD) and EU Taxonomy last year.
+
+#### **MAIN ACTIVITIES OF THE SUPERVISORY BOARD**
+
+The development of the company in terms of revenue, earnings and personnel, the financial position, letting activities, and the status of purchases and disposals were explained in detail by the Management Board during the meetings and then discussed together with the members of the Supervisory Board. In addition, the Supervisory Board voted to reappoint Mr Niclas Karoff as Chair of the Management Board for a further five years. The Supervisory Board also dealt with many other individual matters at its meetings and was informed among other things about the company's internal transformation and digitalisation processes, as well as its sustainability and ESG activities.
+
+At the accounts meeting of 9 March 2023, the Supervisory Board approved the separate IFRS financial statements and the annual financial statements of HAMBORNER REIT AG under German commercial law as at 31 December 2022, following its own review and discussion of significant aspects with the auditor Deloitte GmbH Wirtschaftsprüfungsgesellschaft, Düsseldorf. The Supervisory Board approved the remuneration report and the corporate governance declaration and concurred with the Management Board's proposal for the appropriation of profits. In addition, the Supervisory Board adopted the agenda of the ordinary Annual General Meeting held on 27 April 2023. Without the Management Board and on the basis of the proposal by the Executive and Nomination Committee, the Supervisory Board determined the targets for the Management Board's variable remuneration for 2023 and awarded the Management Board performance-related remuneration in the form of a bonus for the 2022 financial year. Also without the Management Board, the Supervisory Board discussed the measurement criteria for the modifier in connection with the short-term variable remuneration (STI). An adjustment to the current service agreement and a new service agreement with the CEO Mr Niclas Karoff were also adopted.
+
+In March 2023, the Supervisory Board appointed Mr Niclas Karoff as Chair of the Management Board for another five years until 28 February 2029 by way of a circular resolution.
+
+At the meeting on 27 April 2023 the Supervisory Board approved the purchase of two investment properties. The shareholder representatives on the Supervisory Board also amended their own share ownership guidelines.
+
+The Supervisory Board voted to modify the division of responsibilities for the Management Board at its meeting on 24 August 2023. Furthermore, the Supervisory Board dealt in depth with the additional reporting that will be required in future under the Corporate Sustainability Reporting Directive (CSRD) and the EU Taxonomy Regulation.
+
+The meeting on 15 November 2023 focused on the company's budget and medium-term planning for 2024 to 2028. The planned development of revenue and earnings was discussed in detail with the Management Board. At the suggestion of the Executive and Nomination Committee, the Supervisory Board also set the targets for variable remuneration for the 2024 financial year, and discussed the remuneration system in this context without the presence of the Management Board. The declaration of compliance with the German Corporate Governance Code in accordance with section 161 AktG was also adopted. The Supervisory Board also discussed a draft
+
+amendment to the Rules of Procedure for the Management Board, which was adopted by circular resolution with effect from January 2024 after some adjustments had been made.
+
+#### **REPORT BY THE COMMITTEES**
+
+Some of the work of the Supervisory Board is performed by committees. There were three committees in the 2023 financial year.
+
+The Executive and Nomination Committee met five times. At the meeting on 1 February 2023, which was held partly without the Management Board, the Committee looked at the Management Board's variable remuneration for the year 2022 and the targets for the Management Board's variable remuneration for 2023. In addition, the Executive and Nomination Committee dealt with the renewal of the service agreement for the CEO Mr Niclas Karoff.
+
+At its meeting on 24 August 2023 the Executive and Nomination Committee discussed proposals to amend the Rules of Procedure for the Management Board. It also discussed topics relating to the variable remuneration for the Management Board without the Management Board.
+
+At its meeting on 18 October 2023 the Executive and Nomination Committee voted to propose to the Supervisory Board amendments to the Rules of Procedure for the Management Board. The Committee again dealt with questions relating to variable Management Board remuneration. This partly took place without the presence of the Management Board.
+
+At its meeting on 7 November 2023 the Executive and Nomination Committee adopted proposals to the Supervisory Board for targets for the variable Management Board remuneration for 2024. The Committee also resumed its discussion on the variable remuneration
+
+## Page 29
+
+for the Management Board and brought it to a conclusion in the **ATTENDANCE AT MEETINGS** absence of the Management Board.
+
+At its meeting on 18 December 2023 the Executive and Nomination Committee discussed the status of the company transformation process with the participation of the employee representatives on the Supervisory Board.
+
+The Audit Committee met four times in 2023. Three of these meetings also involved the auditors of the financial statements. The meeting on 7 March 2023, in which the Committee chiefly dealt with the financial statements for 2022, was also attended by all the other Supervisory Board members. At the other Committee meetings over the remainder of the year, which the Supervisory Board Chair, Dr Andreas Mattner, attended as a guest, the half-year financial report and the quarterly interim statements for 2023 were presented by the Management Board and discussed in detail.
+
+The ESG Committee met twice in the reporting period. At its meeting on 1 February 2023 the ESG Committee was informed by the Management Board about ongoing ESG activities at the company. The Committee also discussed the current draft legislation from the federal government and its implications for the company. The meeting on 24 August 2023 centred on discussions about the company's preparations for the requirements of the CSRD and EU Taxonomy.
+
+The Supervisory Board was informed comprehensively about the activities of the committees by the respective chair at the start of each meeting.
+
+Out of a total of 15 meetings of the Supervisory Board and its committees in the reporting year, eight were held exclusively online.
+
+The average attendance ratio for all Supervisory Board members at the meetings of the full Supervisory Board and its committees was 95% in the reporting period. In an average of 51% of these cases they attended online.
+
+The individual Supervisory Board members attended the meetings in person or online as follows
+
+**ATTENDENCE OF SUPERVISORY BOARD MEMBERS IN SUPERVISORY BOARD AND COMMITTEE MEETINGS IN THE 2023 FINANCIAL YEAR**
+
+| Name                      | Member since | Total meetings<br>(thereof virtual<br>attendance) | Attendance at<br>plenary meetings<br>(thereof virtual<br>attendance) | Attendance at<br>committee<br>meetings (thereof<br>virtual attendance) | Attendance rate<br>in % (thereof virtual<br>attendance in %) |
+|---------------------------|--------------|---------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------|
+| Dr Andreas Mattner        | 2017         | 11/11 (4)                                         | 4/4 (1)                                                              | 7/7 (3)                                                                | 100 (36)                                                     |
+| Claus-Matthias Böge       | 2015         | 13/13 (10)                                        | 4/4 (2)                                                              | 9/9 (8)                                                                | 100 (77)                                                     |
+| Maria Teresa Dreo-Tempsch | 2020         | 10/11 (4)                                         | 3/4 (–)                                                              | 7/7 (4)                                                                | 91 (40)                                                      |
+| Rolf Glessing             | 2018         | 8/8 (6)                                           | 4/4 (2)                                                              | 4/4 (4)                                                                | 100 (75)                                                     |
+| Ulrich Graebner           | 2019         | 11/11 (5)                                         | 4/4 (2)                                                              | 7/7 (3)                                                                | 100 (45)                                                     |
+| Christel Kaufmann-Hocker  | 2010         | 8/8 (6)                                           | 4/4 (2)                                                              | 4/4 (4)                                                                | 100 (75)                                                     |
+| Mechthilde Dordel         | 2010         | 3/4 (1)                                           | 3/4 (1)                                                              | –                                                                      | 75 (33)                                                      |
+| Klaus Hogeweg             | 2020         | 4/4 (1)                                           | 4/4 (1)                                                              | –                                                                      | 100 (25)                                                     |
+| Johannes Weller           | 2020         | 7/8 (4)                                           | 4/4 (1)                                                              | 3/4 (3)                                                                | 88 (57)                                                      |
+
+## Page 30
+
+#### **Overview Periodical** Report from the Supervisory Board | **Company Management report Separate financial statements Further information**
+
+#### **CORPORATE GOVERNANCE AND THE DECLARATION OF COMPLIANCE**
+
+The Supervisory Board and the Management Board again intensively discussed the further development of internal corporate governance in the year under review. The Committee, together with the Management Board, reports on this in accordance with Principle 23 of the German Corporate Governance Code (hereinafter "Code"), in the corporate governance report for 2023. There were no conflicts of interest within the meaning of item E1 of the Code among its members. The Supervisory Board and Management Board published an updated joint declaration of compliance with the Code in accordance with section 161 AktG in November 2023. The declaration of compliance is publicly available on the company's website **www.hamborner.de/en** in the Corporate Governance section.
+
+#### **ADOPTION OF THE 2023 ANNUAL FINANCIAL STATEMENTS (HGB) AND APPROVAL OF THE IFRS SEPARATE FINANCIAL STATEMENTS**
+
+On 7 March 2024, in the presence of the auditor, the Audit Committee and the Supervisory Board examined and discussed in detail the annual financial statements under German commercial law and the separate IFRS financial statements of the company in accordance with Section 325(2a) of the German Commercial Code (HGB), together with the management report and the proposal for the appropriation of profits. In preparation, all members of the Supervisory Board received copies of the audit reports early. The certifying auditors reported at length on the audit results and were available to Duisburg, 7 March 2024 the Supervisory Board to answer supplementary questions and provide information in the discussion.
+
+There were no objections to the HGB and IFRS financial statements presented, with the result that the Supervisory Board approved them Dr Andreas Mattner at its meeting on 7 March 2024.
+
+#### **UNQUALIFIED AUDIT OPINION**
+
+The annual financial statements of the company as at 31 December 2023 prepared by the Management Board in accordance with the rules of the German Commercial Code, the German Stock Corporation Act and the German REIT Act, plus the financial statements prepared in accordance with the International Financial Reporting Standards (IFRS), the management report, and the proposal for the appropriation of profits were audited by PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft, Düsseldorf. The audit mandate was issued in accordance with the resolution of the Annual General Meeting of 27 April 2023. The auditor issued unqualified audit opinions for both sets of financial statements.
+
+The 2023 annual financial statements under German commercial law prepared by the Management Board were therefore approved. The Supervisory Board has endorsed the proposal of the Management Board for distribution of the unappropriated surplus.
+
+#### **OUR THANKS**
+
+Under conditions that continued to be highly challenging, and with great personal commitment, the Management Board and the workforce again achieved impressive successes and laid the foundations for the company's continued successful development. For this, the Supervisory Board expresses its thanks and appreciation to the Management Board and all employees.
+
+Duisburg, 7 March 2024
+
+Supervisory Board
+
+Chair
+
+## Page 31
+
+# <span id="page-30-0"></span>**MANAGEMENT BOARD AND SUPERVISORY BOARD**
+
+#### **Management Board**
+
+#### **NICLAS KAROFF, BERLIN**
+
+**Chair**
+
+Born in 1971,
+
+Management Board member since 1 March 2020, appointed until 28 February 2029,
+
+- ֝ Responsible from 1 January 2023 to 23 August 2023 for Strategy, ESG, Accounting / Finance / Taxes, Portfolio Management /  Controlling / Risk Management, Legal / Corporate Governance, Corporate Communications / Investor Relations, HR / Organisation, Internal Audit
+- ֝ From 24 August 2023 responsible for Strategy, Finance & Accounting, Portfolio & Risk Management, Internal Audit, Legal & Corporate Governance, Investor Relations & Corporate Communication, Human Resources, Sustainability & ESG, Executive Office
+
+#### **SARAH VERHEYEN, MUNICH**
+
+Born in 1985,
+
+Management Board member since 1 October 2022, appointed until 30 September 2025,
+
+- ֝ Responsible from 1 January 2023 to 23 August 2023 for Transaction Management, ESG, Asset Management, Technology, Project Development, IT / Digitalisation, Data Protection
+- ֝ From 24 August 2023 responsible for IT & Digital Transformation, Transaction Management, Asset Management, Technical Management, Property Management, Sustainability & ESG, Executive Office
+
+**DR ECKART JOHN VON FREYEND, BAD HONNEF Honorary Chair of the Supervisory Board**
+
+**Supervisory Board**
+
+#### **DR ANDREAS MATTNER, HAMBURG**
+
+**Chair** Independent management consultant
+
+#### **CLAUS-MATTHIAS BÖGE, HAMBURG Deputy Chair**
+
+Managing Director of CMB Böge Vermögensverwaltung GmbH
+
+**MARIA TERESA DREO-TEMPSCH, VIENNA** Member of the Management Board of Berlin Hyp AG
+
+#### **ROLF GLESSING, ILLERKIRCHBERG**
+
+Managing Shareholder of Glessing Management Beratung GmbH Spokesperson of the Management Board of Kässbohrer Geländefahrzeug AG
+
+#### **ULRICH GRAEBNER, BAD HOMBURG V. D. H.**
+
+Senior Advisor of Houlihan Lokey GmbH Partner at Cara Investment GmbH
+
+#### **CHRISTEL KAUFMANN-HOCKER, DÜSSELDORF**
+
+Independent management consultant
+
+#### **MECHTHILDE DORDEL, OBERHAUSEN 1**
+
+Employee of HAMBORNER REIT AG (Finance & Accounting)
+
+#### **KLAUS HOGEWEG, MÜLHEIM AN DER RUHR 1**
+
+Employee of HAMBORNER REIT AG (IT & Digital Transformation)
+
+**JOHANNES WELLER, WILLICH 1** Employee of HAMBORNER REIT AG (Portfolio & Risk Management)
+
+<sup>1</sup> Employee representatives
+
+**Management report Separate financial statements Further information**
+
+Management Board and Supervisory Board | **Company**
+
+## Page 32
+
+**Overview Periodical** Sustainability | **Company Management report Separate financial statements Further information**
+
+# <span id="page-31-0"></span>**SUSTAINABILITY**
+
+**The success of a company is not measured by its revenue and income alone. Profitable growth is possible in the long term only by accepting responsibility for the environment and society.**
+
+The transformation to a property industry based on sustainability is a long-term objective shared by HAMBORNER REIT AG, its stakeholders and competitors. The company's goal is to actively embrace this process and the growing trend towards the integration of sustainability aspects on a company, property and investment level. At the same time it assumes social and environmental responsibility in the course of implementing its corporate strategy.
+
+#### **Sustainability strategy**
+
+The overall strategy of HAMBORNER REIT AG is aimed at valueadding growth through continuous further development and yield-driven expansion of the property portfolio. The central element of this involves generating sustainable rental income that can be planned long term and that can be distributed to shareholders in the form of attractive dividends. The corporate strategy therefore takes into account all aspects and measures that contribute to generating adequate and attractive distributions.
+
+The company stakeholders' growing demands for sustainable business practices play an ever-greater role in this context. For this reason, relevant criteria have been incorporated into the corporate strategy, and a commitment made to the continuous expansion of the sustainability management system.
+
+#### **Sustainability management**
+
+The planning and management of the company's sustainability activities is the responsibility of the internal sustainability committee, consisting of the Management Board and the managers in charge of selected business areas.
+
+The committee deals regularly with relevant environmental, social and governance matters, is directly involved in the strategy development and materiality process, and formulates concrete themes and areas for action. It also oversees the implementation of company-wide sustainability activities.
+
+Sustainability has a high priority at Supervisory Board level too. For this reason an ESG Committee was established at Supervisory Board level in 2022. It advises the Management Board and the company on key sustainability matters and deals in particular with the integration of sustainability into the corporate strategy and the definition of sustainability targets.
+
+#### **HAMBORNER REIT AG INTERNAL SUSTAINABILITY COMMITTEE**
+
+Image /page/31/Figure/14 description: The image is a circular diagram illustrating the structure of a sustainability committee. The central element is labeled "SUSTAINABILITY COMMITTEE" in red. Surrounding this central element are eight segments, each representing a different area of focus. These segments are labeled as follows: "MANAGEMENT BOARD", "SUSTAINABILITY & ESG", "PORTFOLIO & RISK MANAGEMENT", "ASSET & PROPERTY MANAGEMENT", "TECHNICAL MANAGEMENT", "TRANSACTION MANAGEMENT", "FINANCE & ACCOUNTING", and "INVESTOR RELATIONS & CORPORATE COMMUNICATIONS".
+
+## Page 33
+
+<MISSING_PAGE_TEXT>
+
+## Page 34
+
+#### **STAKEHOLDERS OF HAMBORNER REIT AG**
+
+Image /page/33/Figure/3 description: The image is a circular diagram with "HAMBORNER REIT AG" in the center. Radiating outward from the center are seven segments, each containing a label and an icon. The segments are labeled as follows: "SERVICE PROVIDERS" with an icon of a person pushing a cart, "SOCIETY" with an icon of three people, "STATES AND LOCAL AUTHORITIES" with an icon of buildings, "TENANTS" with an icon of a key, "BACKERS" with an icon of a hand giving money, "EMPLOYEES" with an icon of three people, and "SHAREHOLDERS" with an icon of three people.
+
+key action area. An initial cost simulation was also carried out in this context, which is intended to enable the company to give an indication of the additional expected investment requirement in the short to medium term.
+
+Within the area of employee development, the focus in the 2023 financial year was on planning and implementing training activities. A special training programme for managers and head office staff was established in this context. In addition, a programme to support high-potentials/talents was developed, which is intended to enhance the competences of selected employees. As well as intensifying training activities, measures were implemented in the field of occupational health and safety, and steps taken to further boost employee satisfaction and the company's attractiveness as an employer.
+
+In the corporate governance and dialogue area, the focus was on the further development of the risk management system with respect to ESG criteria, constantly increasing our transparency and reporting standards and strengthening the dialogue with stakeholders, among other things.
+
+The company carried out a systematic stakeholder survey on specific sustainability topics in the 2023 financial year, which brought important findings for the ongoing development of its ESG strategy. The results of the survey also formed an important basis for another materiality assessment. This was carried out in coordination with the Supervisory Board's ESG Committee and served to verify key topics and areas of action in the context of sustainability management.
+
+**Overview Periodical**
+
+**Management report Separate financial statements Further information**
+
+Sustainability | **Company**
+
+The current sustainability report contains details of the strategic sustainability programme as well as further information about activities and progress in the defined action areas.
+
+Image /page/33/Picture/10 description: The image is a book cover with a leaf on the left side and the words "STAYING THE COURSE." on the right side. The leaf is white with a green stripe across the middle. There is a house-shaped cutout in the green stripe. The words "STAYING THE COURSE." are in black. The words "SUSTAINABILITY REPORT 2022" are in gray at the bottom of the image. The logo for Hamborner REIT is in the upper right corner.
+
+For the current **SUSTAINABILITY REPORT** please click **[here](https://www.hamborner.de/en/sustainability-reports/)**
+
+## Page 44
+
+# <span id="page-43-0"></span>**BASIC INFORMATION ON THE COMPANY**
+
+#### **Positioning and strategy**
+
+#### **OPERATING ACTIVITIES**
+
+HAMBORNER REIT AG is a stock corporation listed on the SDAX. It operates exclusively in the property sector and has positioned itself as an asset manager of commercial properties. The company holds a property portfolio diversified by asset classes and regions, which essentially consists of modern office properties in established locations, as well as retail properties focusing on local shops in city centre locations, neighbourhood centres, and high-footfall suburban locations in large and medium-sized cities in Germany.
+
+HAMBORNER REIT AG is an industry leader thanks to its many years of experience in the property and capital market, a sustainable and attractive dividend policy compared to its competitors, and a lean and transparent corporate structure. The company is a real estate investment trust (REIT) and benefits from this at a corporate level through an exemption from corporation and trade tax.
+
+#### **STRATEGIC ALIGNMENT**
+
+#### **Expansion of the existing portfolio**
+
+Along with the efficient management and development of the properties currently held, the corporate strategy at HAMBORNER REIT AG targets yield-driven expansion of the existing commercial property portfolio.
+
+The company pursues an active portfolio strategy based on a twopillar model and looks to invest in office and retail properties with an eye to regional diversification. Its objective is to safeguard the profitability of the property portfolio in the long term by acquiring properties with a solid and attractive risk / return profile compared with the market.
+
+With respect to the structure of the retail portfolio, the company is concentrating on large-area properties with predominant usage in the area of foodstuffs retail or in the extended local retail sector, such as DIY stores.
+
+In both the office and retail sectors the investment focus is on acquisition of "core" properties, which are characterised by high-quality locations and buildings, tenants with good credit standing, and a long-term letting situation. The company has determined a target rate of around 80 to 90% of the total portfolio volume for property classified as "core".
+
+#### **"TWO PILLAR" PORTFOLIO STRUCTURE OF HAMBORNER REIT AG**
+
+Image /page/43/Figure/15 description: The image shows two diagrams comparing target structures for retail and office portfolios. Both diagrams are structured similarly, with a gray rectangle divided into two sections. The top section, representing 10-20%, is labeled as "Property with value-add potential ('manage to core')". An arrow points from this section to the label. The bottom section, representing 80-90%, is labeled as "Retention / expansion of the solid 'core' portfolio". For the retail portfolio, the text "focusing on local supply properties" is added. An arrow points from this section to the label. Below each rectangle, the fair value is specified: "Fair value: Retail portfolio" for the left diagram and "Fair value: Office portfolio" for the right diagram. Above each diagram, the target structure is indicated: "Target structure: Retail portfolio" for the left diagram and "Target structure: Office portfolio" for the right diagram.
+
+**Overview Periodical Company** Basic information on the company | **Management report Separate financial statements Further information**
+
+## Page 45
+
+As well as expanding the existing "core" portfolio, the portfolio strategy also anticipates supplementary investment in "manage to core" properties which offer additional appreciation potential, in particular properties which have more significant leasing, modernisation or repositioning requirements. The company seeks to identify and develop existing appreciation potential, taking into account the expertise at its disposal. The target rate for the proportion of "manage to core" property is 10 to 20% of the total portfolio volume.
+
+The target volume for investments in retail properties is generally between €10 million and €100 million. In the office sector, the company prefers to acquire properties with a purchase volume of between €20 million and €100 million. In the event of a sufficiently attractive investment opportunity the company will consider portfolio acquisitions in the above-mentioned property segments.
+
+#### **Geographical focus**
+
+As part of its investment activity, the company is primarily focusing on locations in large and mid-sized cities in German metropolitan regions, which have attractive growth prospects in terms of economic and demographic framework conditions. This covers not only major cities and urban centres, but also parts of the highly prosperous hinterland which is home to some exciting investment opportunities in the food retail sector. In terms of its investment in office properties, however, the company focuses primarily on established office locations within the major cities of the metropolitan regions.
+
+This broad regional focus on metropolitan areas gives the company the flexibility it needs when selecting properties and continuing its steady growth.
+
+#### **Active portfolio management**
+
+In addition to yield-driven expansion of the portfolio as part of new acquisitions, the HAMBORNER REIT AG strategy sets out to continuously further develop the existing portfolio.
+
+This includes in particular regular analysis of properties in terms of the long-term risk / return prospects, as well as the identification and realisation of existing potentials, including the targeted disposal of properties.
+
+#### **Financing strategy**
+
+The HAMBORNER REIT AG financing strategy pursues the goal of ensuring sustainable growth and company stability.
+
+The company seeks to create a sustainable and solid financing structure with a defensive loan-to-value profile (LTV) and high equity ratio, and also to provide sufficient liquidity that is as optimised as possible, coupled with a balanced structure and debt maturity.
+
+It also plans to finance the future expansion of its property portfolio with a balanced mix of equity and debt capital, while striving to maintain a REIT equity ratio above the legally required minimum of 45%.
+
+#### **Company financial controlling**
+
+#### **FINANCIAL CONTROLLING**
+
+The company's financial controlling system is geared towards contributing to the achievement of its goals. It extends from standardised investment analyses for individual properties to integrated budget and medium-term planning at company level (earnings, assets and cash flow planning). Internal controlling processes that compare actual performance against targets ensure that any deviations from plan are identified early and create the necessary internal transparency for developments in key performance indicators over the course of the year.
+
+Governance at company level is based on the performance indicator calculated using IFRS figures for funds from operations (FFO). Key variables for changes in FFO are rental income, vacancy rate, maintenance, interest, personnel and other operating expenses. The great importance of FFO for corporate governance is also reflected in the short-term variable remuneration of the Management Board, which is partly based on changes in FFO per share. Calculation of the FFO performance indicator is shown in the economic report.
+
+In recent years the net asset value (NAV) has been used as a key performance indicator for company management, in addition to FFO. NAV indicates the value of a company's tangible and intangible assets, less its liabilities and debts. The figure is highly dependent on external factors, in particular on changes in the fair value of the property portfolio. For this reason, NAV has become less useful as a key performance indicator recently because of the volatile and dynamic market environment. The current market situation significantly restricts the company's options for influencing NAV, so it is no longer used as a key performance indicator in 2024.
+
+## Page 46
+
+#### **Overview Periodical Company** Basic information on the company | **Management report Separate financial statements Further information**
+
+#### <span id="page-45-0"></span>**PERFORMANCE INDICATORS**
+
+#### **Funds from operations**
+
+Funds from operations (FFO) is a financial ratio calculated on the basis of the IFRS financial statements, and functions as an indicator of the company's long-term operating performance. It is used in value-oriented corporate management to show the generated funds that are available for investment, repayment and dividend distributions to shareholders. Adjusting FFO for maintenance and modernisation expenses capitalised and not recognised as an expense in the reporting year results in adjusted funds from operations (AFFO).
+
+#### **Net asset value per share**
+
+Net asset value (NAV) per share is a benchmark for a company's assets and was used in 2023 as a performance indicator for valuebased management. The company's goal was to increase the NAV per share by means of value-adding measures. Since the figure is highly dependent on external factors (particularly changes in the fair value of the property portfolio) which were latterly not within the company's control, NAV will no longer be used as key performance indicator in future.
+
+#### **Portfolio**
+
+The property portfolio comprised 67 properties as at the end of the reporting year. The properties are predominantly in large and medium-sized cities at 46 locations in Germany, and have a total usable floor area of 622,932 m<sup>2</sup>, almost all of which is in commercial use. More detailed information on the year of purchase, location, size and type of use as well as the fair value of all properties can be found in the list of properties in the annex to the management report. In the annual report the annex is on **page 111 et seq.**
+
+The portfolio and key indicators are presented according to property use as follows:
+
+| KEY PORTFOLIO<br>INDICATORS                      | RETAIL | OFFICE | TOTAL   |
+|--------------------------------------------------|--------|--------|---------|
+| Property value (€ million)                       | 836.5  | 634.5  | 1,471.0 |
+| Number of properties                             | 39     | 28     | 67      |
+| Leasable space (thousand m2)                     | 393.2  | 229.7  | 622.9   |
+| Annualised rent (€ million)                      | 51.5   | 38.7   | 90.2    |
+| Annualised rent yield (%)                        | 6.2    | 6.1    | 6.2     |
+| EPRA vacancy rate (%)                            | 1.6    | 4.2    | 2.7     |
+| Weighted remaining lease<br>term (WALT) in years | 7.6    | 4.8    | 6.4     |
+
+#### **Successful new investment**
+
+In the 2023 financial year two new investments were made in line with the company strategy. Excluding incidental costs of acquisition, the investment volume came to €23.6 million (previous year: €48.6 million). The fair value of these properties came to €25.8 million as at 31 December 2023, and was therefore €2.2 million above the purchase prices. Specifically, ownership of the following properties was transferred to us in the reporting year:
+
+| CITY      | ADDRESS              | PROPERTY USE | AREA<br>IN M² | RENTAL INCOME P.A.<br>IN € THOUSAND | PURCHASE PRICE<br>IN € MILLION |
+|-----------|----------------------|--------------|---------------|-------------------------------------|--------------------------------|
+| Offenburg | Isaak-Blum-Straße 18 | Retail       | 13,897        | 1,170                               | 18.8                           |
+| Hanau     | Oderstraße 12        | Retail       | 4,030         | 404                                 | 5.0                            |
+| TOTAL     |                      |              | 17,927        | 1,574                               | 23.8                           |
+
+## Page 47
+
+**Overview Periodical Company** Basic information on the company | **Management report Separate financial statements Further information**
+
+#### <span id="page-46-0"></span>**Portfolio disposals**
+
+The transfer of ownership from the sale of the property in Mosbach took place in May 2023.
+
+| CITY    | ADDRESS        | BUILDING USE | CARRYING AMOUNTS<br>IN € THOUSAND | PURCHASE PRICE<br>IN € THOUSAND | RENTAL INCOME P.A.<br>IN € THOUSAND |
+|---------|----------------|--------------|-----------------------------------|---------------------------------|-------------------------------------|
+| Mosbach | Hauptstraße 96 | Retail       | 964                               | 1,500                           | 0                                   |
+| TOTAL   |                |              | 964                               | 1,500                           | 0                                   |
+
+#### **Tenant structure**
+
+The foundation for our successful performance in 2023 was laid with a combination of a high-quality and diversified portfolio and a solid tenant structure, characterised by long-term retention of tenants with a good reputation and excellent credit standing. The following table provides an overview of the company's ten biggest tenants:
+
+| TOP 10 TENANTS                              | RENTAL<br>INCOME IN % |
+|---------------------------------------------|-----------------------|
+| EDEKA Group                                 | 13.3                  |
+| Kaufland Group                              | 7.1                   |
+| REWE Group                                  | 6.9                   |
+| OBI DIY stores                              | 6.6                   |
+| GLOBUS retail stores                        | 4.3                   |
+| German Federal Employment Agency/Job centre | 3.1                   |
+| BARMER Insurance                            | 2.6                   |
+| NETCOLOGNE telecommunications company       | 2.0                   |
+| ALDI Group                                  | 1.9                   |
+| City of Mainz                               | 1.8                   |
+| TOTAL                                       | 49.7                  |
+
+A glance at the tenant structure shows that a significant proportion of rental income is generated with companies which are comparatively insensitive to economic trends. Particularly noteworthy in this category are food retailers, which contributed around one third of the company's rental income in the 2023 financial year.
+
+Remaining terms on leases according to property use are shown below and are weighted by rental income:
+
+#### **WEIGHTED REMAINING TERM OF LEASES**
+
+(As at 31 December 2023; in years)
+
+Image /page/46/Figure/13 description: This image is a bar chart with three bars. The first bar is labeled "Retail" and has a value of 7.6. The second bar is labeled "Office" and has a value of 4.8. The third bar is labeled "Total" and has a value of 6.4.
+
+The leasing performance in the 2023 financial year is shown in the following graphic:
+
+#### **LEASING PERFORMANCE**
+
+(2023 financial year; in m²)
+
+Image /page/46/Figure/17 description: This image is a bar chart comparing retail and office leases. For new leases, retail is at 2,323 and office is at 11,319. For agreement renewals, retail is at 50,807 and office is at 45,446. For the total, retail is at 53,129 and office is at 56,766.
+
+New leases were signed for 28 assets in 2023, covering a total usable floor area of around 14,000 m².
+
+The biggest new lease by area was for some 7,750 m² in the building in Mainz, which was let to Mainz city council.
+
+An area of some 1,750 m² was also let to Karlsruhe city council under a new lease for the building in Karlsruhe.
+
+<sup>1</sup> Share of annualised rental income (including rent guarantees)
+
+## Page 48
+
+Leases for a total area of around 96,000 m² were renewed through a combination of contract extensions and options being exercised.
+
+Particularly important were the renewals with the tenant OBI in Hilden, Leipzig and Aachen for a total of more than 33,000 m², and the lease with Münster University of Applied Sciences for a total area of 6,150 m² in the office property at Johann-Krane-Weg 21–27, Münster.
+
+The company does still not expect to be faced with any serious cluster risk in relation to re-letting in the coming years.
+
+**LEASE EXPIRY SCHEDULE 1**
+
+Image /page/47/Figure/6 description: The image is a bar chart showing the percentage of annual rental income from 2024 to 2033 onwards. The title of the chart is '(As at 31 December 2023; in % of annual rental income)'. The x-axis shows the years from 2024 to 2033 onwards. The y-axis shows the percentage of annual rental income. In 2024, the percentage of annual rental income is 2.3 and 1.3. In 2025, the percentage of annual rental income is 6.8 and 5.0. In 2026, the percentage of annual rental income is 3.8 and 3.2. In 2027, the percentage of annual rental income is 7.5 and 3.9. In 2028, the percentage of annual rental income is 5.0 and 5.2. In 2029, the percentage of annual rental income is 6.0 and 5.8. In 2030, the percentage of annual rental income is 4.0 and 5.4. In 2031, the percentage of annual rental income is 3.0 and 2.2. In 2032, the percentage of annual rental income is 0.6 and 3.1. In 2033 onwards, the percentage of annual rental income is 3.6 and 21.8.
+
+Retail Office
+
+<sup>1</sup> Unlimited: Retail 0.1%, Office 0.2%
+
+## Page 49
+
+# <span id="page-48-0"></span>**ECONOMIC REPORT**
+
+#### **Economic environment**
+
+#### **MACROECONOMIC TREND**
+
+The German economy was beset by stagnation and high inflation rates in the 2023 financial year. This stemmed particularly from the after-effects of geopolitical risks and wars and the ensuing loss of purchasing power. In addition, the slower pace of growth in the world economy, the war in Ukraine and the Middle East crisis all had an adverse impact on the overall economy. The average overall inflation rate came to 5.9%. Gross domestic product for the full year 2023 fell by 0.3% year on year due to the various crises.
+
+Unemployment increased significantly from the previous year by 183,000 in 2023. This caused the unemployment rate to go up to 5.7% at end of 2023 (December 2022: 5.3%).
+
+#### **SITUATION ON THE REAL ESTATE MARKET IN GERMANY**
+
+#### **Retail space market**
+
+Based on preliminary findings by the Federal Statistical Office, retailers in Germany had lower sales in 2023 than in 2022, with a real (price-adjusted) decline of –3.3% and a nominal increase (not price-adjusted) of +2.3%. Real annual sales fell by 3.9% compared with 2021, the best year for sales since 1994. The decline in sales and the difference between real and nominal growth rates is mainly due to the rapid price increases in 2022 and 2023, whereby price rises slowed significantly in the second half of 2023. High prices had an adverse impact on sales, especially in the food retail sector. Real sales volumes in the food retailing business were at their lowest level for several years.
+
+Sales in non-food retailing also fell year-on-year by 3.1% in real terms in 2023. Online and mail order sales were down significantly, with a year-on-year drop of 3.9% in real terms. Sales in the textile, clothing and footwear sector saw real sales growth of 2.6% compared with the previous year, however.
+
+Jones Lang LaSalle (JLL) reported a slight contraction in retail sales in 2023, whereby hospitality businesses experienced a particular slump. The loss of purchasing power in 2023 caused consumers to reduce their spending, which depressed retail sales. A slight increase in letting activities (+7%) was still observed in inner cities, however. The textile industry dominated new lets, accounting for 41%, followed at some distance by catering / food with 22%.
+
+Lets by textile retailers were particularly concentrated among clothes chains, which accounted for 46%, and young fashion with 30%. Available space in prime city-centre locations continues to decline. A lack of space suitable for retailers has caused rental markets to soften in almost all cities. Overall, the market in 2023 was defined by great less attractive office space is much more difficult to let. uncertainty and a large number of insolvencies.
+
+#### **Office space market**
+
+General uncertainty persisted as a result of the after-effects of the pandemic, war, inflation and the energy crisis, which meant that companies continued to hold back, resulting in significant pent-up demand for rental space. The office market stumbled as a result and was well down on previous years. JLL, an advisory company, calculated that take-up (volume of new lets p.a.) was 28% below the previous year, despite a slight improvement in the fourth quarter of 2023. Take-up in the top seven cities (Berlin, Düsseldorf, Frankfurt am Main, Hamburg, Cologne, Munich and Stuttgart) came to slightly more than 2.5 million m², which was the lowest since the 2009 crisis. Lower sales were reported in all the top seven cities, although Frankfurt and Düsseldorf were able to keep the year-on-year percentage decline in single figures. Stuttgart saw the steepest fall of 49%.
+
+Economic difficulties and greater opportunities for mobile working arrangements drove down companies' space requirements even more. In the top seven cities the total area available at short notice came to 5.64 million m² at year-end 2023, which represents a vacancy rate of 5.8%. According to JLL, vacancy rates varied between 3.3% in Cologne and 9.7% in Düsseldorf. JLL also confirms the trend that new lets are concentrated on well-equipped spaces, whereas
+
+## Page 50
+
+**Overview Periodical Company** Economic report | **Management report Separate financial statements Further information**
+
+5 0
+
+Positive signs were reported in all the top cities in terms of the development of prime rents. Prime rents in Munich came to €50/m<sup>2</sup> for the first time (+14% year on year). The prime rent in the seven top cities rose by 6.8% overall in 2023. Frankfurt had the slowest growth in its prime rent at just above 1%.
+
+Savills reported take-up in the six top cities (Berlin, Düsseldorf, Frankfurt am Main, Hamburg, Cologne and Munich) of 2.2 million m² in 2023. This is a decline of 26% on the previous year. The vacancy rate went up to 5.6%. Prime rents rose by 6%, however. Savills sees the reason for the lower take-up in the fact that in the current uncertain market environment, a disproportionate number of businesses are not renting new space, but rather renewing their existing lease.
+
+BNP Paribas Real Estate (BNPPRE) also said the rental market was below average in 2023 due to weak economic development. Take-up in its eight top cities (Berlin, Düsseldorf, Frankfurt am Main, Essen, Hamburg, Cologne, Leipzig and Munich) was around one quarter below its ten-year average. The reason for the poor result was the lack of leases for large premises, according to BNPPRE. The small and medium segment was still very dynamic, accounting for 77% of the new leases. Despite positive signs, the vacancy rate rose to 6 million m², but at a slower rate (+13.4% year on year). BNPPRE reported higher take-up in the fourth quarter of 2023 and assumes that greater certainty will return.
+
+Berlin was again the most important German office market, with **German property investment market** take-up of 541,000 m², followed by Munich with 467,000 m². Colliers notes that large lets of more than 5,000 m² collapsed in 2023 by 56% compared with the long-term average since 2006, and will remain dominated by low demand. By contrast, demand for small to medium spaces saw a moderate increase.
+
+Project developers were faced with numerous challenges in 2023. High construction costs, a shortage of qualified staff, a scarcity of materials and high interest rates meant that many projects were delayed or even cancelled altogether. JLL calculated that nearly 1.3 million m² of new office space came onto the market in 2023. This represented a year-on-year decline in new-build volume of nearly 27%. Only in Frankfurt was the volume of new space up on the previous year. All the other seven top locations reported a drop in completions.
+
+The German property investment market, including residential property, closed 2023 with a transaction volume of around €32 billion, according to JLL. This is a drop of around 52% compared with the previous year and around 58% down on the ten-year average. The investment year 2023 was therefore the worst since 2011.
+
+Portfolio and individual transactions were equally hit by the slump in transaction volume. Individual transactions accounted for a volume of nearly €20 billion (–49%) according to JLL, and portfolio deals for €12 billion (–56%). According to BNP Paribas Real Estate, foreign buyers accounted for around 37%, which was again significantly below the long-term average.
+
+Analysis by JLL indicated that the most capital, around €9 billion, was invested in residential property, accounting for 29% of the transaction volume. It was followed by the logistics properties segment, with some €7.3 billion (23% share), with retail and office properties each accounting for around 17%. The volume of transactions for office properties was down by around 73% on 2022, according to BNPPRE, more than in any other asset class, which is also reflected in the lowest investment volume since the financial crisis. Price erosion was greater for office properties than for any other market segment, partly because take-up of office space generally reacts very quickly and sharply to economic downturns and so the signals sent by user markets were also rather negative.
+
+According to BNPPRE, specialist retailers and supermarkets accounted for by far the largest share of investment in the retail segment, contributing around €3.3 billion to turnover. This represents a yearon-year decline of 21%. In terms of the retail transaction volume they
+
+## Page 51
+
+accounted for almost 58%, thereby continuing the trend for investors to put great trust in properties focussing on food retail, even when the macroeconomic conditions are difficult.
+
+The seven top property locations accounted for €12.8 billion or 40% of the transaction volume in Germany, according to JLL. The year-onyear fall of 60% was somewhat steeper than outside these metropolitan areas (–45%). The main reason was the poor performance of the office asset class, where the seven A-cities normally play a large role. According to BNPPRE, most of the investment (€3.2 billion; –62%) was in Berlin, followed by Munich, Hamburg and Frankfurt with around €1.2–1.3 billion each (declines of –69% in Munich to –76% in Frankfurt).
+
+As expected, prime net yields rose again slightly in 2023 according to BNPPRE. Munich remained the most expensive office location with a prime yield of 4.20%. It was followed closely by Berlin and Hamburg at 4.25% respectively. In Cologne and Stuttgart the yields went up to 4.40%, with Frankfurt and Düsseldorf reaching 4.50% at the yearend. The prime yield for logistics properties went up to 4.25%.
+
+Inner-city retail properties currently earn an average prime net yield of 3.76%, which is more or less unchanged. This is because there are more private investors active in this market segment, who operate with more equity and are less dependent on interest rates than institutional investors. Retail parks increased by five basis points (4.75%). Yields were up by ten basis points for discounters / supermarkets (4.90%) and shopping centres (5.60%).
+
+#### **NET INITIAL YIELD AT END OF 2023 1**
+
+Image /page/50/Figure/8 description: This image is a bar graph showing percentages for different categories. The categories and their corresponding percentages are as follows: Shopping centers (5.6%), Discounters/supermarkets (4.9%), Retail parks (4.75%), Logistics (4.25%), and Office (4.3%). The y-axis is labeled '(in %)'.
+
+#### <sup>1</sup> Average for all top cities
+
+(Berlin, Düsseldorf, Frankfurt, Hamburg, Cologne, Munich and Stuttgart)
+
+Source: Jones Lang LaSalle
+
+#### **TRANSACTION VOLUME ACCORDING TO MAIN USAGE TYPE**
+
+(Total) transaction volume in Germany; in € / in % of annual volume
+
+Image /page/50/Figure/14 description: This image is a bar chart comparing data from 2022 and 2023 across different categories. The categories are Office, Residential, Retail, Logistics/Industry, Other, and Total. For Office, the values are 21.78 (33%) in 2022 and 5.4 (17%) in 2023. For Residential, the values are 14.52 (22%) in 2022 and 9.3 (29%) in 2023. For Retail, the values are 9.24 (14%) in 2022 and 5.4 (17%) in 2023. For Logistics/Industry, the values are 9.24 (14%) in 2022 and 7.4 (23%) in 2023. For Other, the values are 4.62 (7%) in 2022 and 4.5 (14%) in 2023. For Total, the values are 66.0 (100%) in 2022 and 32.0 (100%) in 2023.
+
+Source: Jones Lang LaSalle
+
+## Page 62
+
+#### **Corporate governance declaration**
+
+HAMBORNER REIT AG has presented the key elements of its corporate governance structures in its corporate governance declaration. These are an annual declaration of compliance from the Management Board and the Supervisory Board, key corporate management practices exceeding legal requirements, a representation of the operating procedures of the Management Board and the Supervisory Board, and information on the composition and operating procedures of their committees.
+
+The corporate governance declaration can be found on the company website at **[www.hamborner.de](https://www.hamborner.de/en/) / en** under HAMBORNER REIT AG /  Corporate Governance.
+
+In accordance with the specifications of section 162 AktG, the Management Board and the Supervisory Board of HAMBORNER REIT AG annually prepare a detailed report on the remuneration granted and owed in the last financial year to each individual current or former member of the Management Board and Supervisory Board. This report also contains detailed information about the currently applicable remuneration systems for the members of the Management Board and the Supervisory Board.
+
+The remuneration report can be found on the company website at **[www.hamborner.de](https://www.hamborner.de/en/) / en** under HAMBORNER REIT AG / Corporate Governance and in the section Investor Relations / Financial reports
+
+## Page 63
+
+# **REPORT ON RISKS AND OPPORTUNITIES**
+
+#### **Risk report**
+
+#### **PRINCIPLES OF OUR RISK POLICY**
+
+As a property company operating across Germany, HAMBORNER is exposed to a variety of risks that can negatively influence the company's net assets, financial position and results of operations. The overarching objective of the HAMBORNER risk strategy is to eliminate or minimise potential risks. In association with this, HAMBORNER has always tailored its business policy to avoid business areas which have particularly high risk potential.
+
+Suitable measures are identified and implemented in order to eliminate or reduce the impact or probability of unavoidable risks associated with HAMBORNER's commercial activities. In this respect, as in the past, HAMBORNER did not participate in highly speculative financial transactions in 2023. We take appropriate, manageable and controllable risks if the rewards offsetting them can be expected to produce adequate value appreciation. The German Corporate Governance Code (GCGC) calls for disclosures on the internal control and risk management system that exceed those required by law for the management report and that are therefore not covered by the auditors of the financial statements (disclosures not part of the management report).
+
+#### **RISK MANAGEMENT AND INTERNAL CONTROL SYSTEM**
+
+In order to limit risk, HAMBORNER has implemented a risk management system in accordance with section 91(2) and (3) AktG for the timely identification and handling of risks that could affect the economic position of the company. Modifications and enhancements are put in place to reflect changing circumstances. The early risk detection system is examined by the auditor as part of the audit of annual financial statement in accordance with section 317(4) HGB. In organisational terms the risk management function is independent and is guided directly by the company strategy. The company's internal risk management system is integrated into operational procedures – particularly planning and controlling processes – and spans several levels. This is described in full in a company policy.
+
+Employees also receive regular training on the handling and internal communication of risks. One key element here is the communication of risks by the risk owner at the management meetings held twice a week. All employees are required to notify their manager of any existing risks immediately. In addition, relevant risks are reported to the risk management division as part of a quarterly risk inventory. Based on business operations and the activities they involve, the risk inventory tracks the potential risks to which the company is exposed.
+
+These potential risks are assigned to the following sub-categories: strategic risks, operational risks, compliance risks and financial risks. During the quarterly risk reporting to the Management Board and
+
+**Overview Periodical Company** Report on risks and opportunities | **Management report Separate financial statements Further information**
+
+Supervisory Board, the identified risks are assessed, and measures to manage them are defined as required. If necessary, any material risks identified between the regular reporting dates are reported separately. The possible risks in individual risk categories are quantified in terms of the possible extent of damage and an assessment of their probability. The assessment is performed by the respective responsible departments. Risk reporting is based on the planning agreed in each instance. In accordance with the requirements of the revised version of IDW PS 340 (01 / 2022), the overall risk position is measured on a voluntary basis using a Monte Carlo simulation.
+
+Streamlined organisational structures and transparent decisionmaking ensure that the Management Board is directly involved in all material transactions with an impact on risk. Accounting processes are performed exclusively by our own qualified employees. HAMBORNER prepares and communicates annual and half-year financial reports as well as quarterly statements. When preparing the annual financial statements, we consult experts with regard to the valuation of investment property and the calculation of the company's pension obligations.
+
+The dual control principle, taking into account appropriate signature regulations, is applied to all material transactions. Within the company, there is corresponding functional segregation between the different departments involved. Moreover, internal reports on business performance are prepared and submitted to decisionmakers. These serve as a basis for identifying deviations from opera-
+
+## Page 64
+
+**Overview Periodical Company** Report on risks and opportunities | **Management report Separate financial statements Further information**
+
+finance and accounting system uses standardised and certified software. There are dedicated rules for allocating write and read rights for the internal IT systems to individual employees in accordance with their tasks and functions. The internal control system is reviewed by the internal audit function, which has been outsourced to an external auditing firm. The processes and areas to be audited in the respective financial year are chosen by the company in agreement with the Audit Committee.
+
+#### **Statement on the effectiveness of the internal control and risk management system**
+
+In the company's opinion, the internal control and risk management system is suitable and effective for the complexity and size of the company. 1
+
+#### **PRESENTATION OF RISK AREAS**
+
+In principle, the areas of risk to which HAMBORNER is exposed can be divided into general market risks, operational risks, financial risks and other risks specific to HAMBORNER. Risks that could have a substantial impact on the net assets, financial position and results of operations of the company are described below.
+
+#### **RISK CATEGORIES AND RISK ASSESSMENT THEREOF**
+
+Risks are classified as low, medium and high using the following matrix, depending on the anticipated loss and the probability of occurrence. HAMBORNER currently assesses risks in light of the recent economic contraction, the wars in Ukraine and the Middle East and the prevailing high prices, as well as their impact on the national and international economic situation. The risks and how
+
+tional targets and initiating any control measures if necessary. The they are dealt with by the company are addressed in detail in the following bullet points.
+
+#### **STRATEGIC RISKS**
+
+#### **National and international market environment**
+
+In 2023, the national market environment was dominated by persistently high inflation, rising interest rates and the global economic slowdown. The resulting decline in consumer spending was an additional burden for the German economy. The average annual inflation rate in Germany was 5.9% in 2023 compared with the previous year. More modest inflation of below 3.0% is expected for 2024. GDP increased by -0.3% from 2022 to 2023. As a result of the difficult ongoing economic environment and the current budget crisis in connection with further developments in the Ukraine and Middle East wars, forecasts for 2024 vary between –0.5% (German Economic Institute (IW Köln – Institut der deutschen Wirtschaft) and +0.9% (Institute for the World Economy (IfW Kiel – Institut für Weltwirtschaft). Global economic performance increased by 3.0% in 2023 compared with the previous year. For 2024, the International Monetary Fund expects the global economy to grow again year on year by 3.0%. The potential consequences of the national and international market environment are discussed below in the respective risk categories.
+
+| AMOUNT OF LOSS                    | EXPECTED LOSS AMOUNT<br>(AMOUNT OF LOSS X PROBABILITY OF OCCURRENCE) |                 |                     |                   |                         |
+|-----------------------------------|----------------------------------------------------------------------|-----------------|---------------------|-------------------|-------------------------|
+| Very high (> €20 million)         | Medium                                                               | Medium          | High                | High              | High                    |
+| High (€5 million to €20 million)  | Low                                                                  | Medium          | High                | High              | High                    |
+| Medium (€1 million to €5 million) | Low                                                                  | Medium          | Medium              | Medium            | High                    |
+| Low (€250 thousand to €1 million) | Low                                                                  | Low             | Low                 | Medium            | Medium                  |
+| Very low (< €250 thousand)        | Low                                                                  | Low             | Low                 | Low               | Low                     |
+| Probability of occurrence         | Very low (0% to 5%)                                                  | Low (6% to 25%) | Medium (26% to 50%) | High (51% to 75%) | Very high (76% to 100%) |
+
+#### **Risks from changes to the regulatory environment**
+
+This risk category covers risks arising from potential legal changes relating to key regulatory requirements and the company's legal structure. In addition, the risk of non-compliance with amended accounting specifications in accordance with HGB and IFRS, and risks in the form of administrative penalties due to the breach of reporting obligations (WpHG, AktG) fall into this category. There are also potential risks from ESG-related regulation, particularly relating to the EU Taxonomy Regulation and to CSRD reporting (Corporate
+
+## Page 65
+
+**Overview Periodical Company** Report on risks and opportunities | **Management report Separate financial statements Further information**
+
+Sustainability Reporting Directive), which, from 2026, is mandatory **OPERATIONAL RISKS** for 2025.
+
+#### **Leasing risk**
+
+HAMBORNER has employed a sustainability manager since 2022 and other service providers are also used to cover this area. In addition, the staff entrusted with these areas undergo regular advanced training with the result that the risk of non-compliance with changes to the regulatory requirements is minimised. External advisers are also consulted in the event of more complex amendments to the rules. The internal audit function, which has been outsourced to a firm of auditors, also tests the company annually. In view of the measures described above, the risk is considered to be low.
+
+#### **Organisational structure risks**
+
+This risk relates to inefficient organisational structures which could lead in the long run to increased expenditure and lower income for HAMBORNER. As part of regular management meetings with the Management Board, responsibilities and organisational assignment are reviewed and amended where necessary. In addition, an internal audit of selected business processes is performed annually by an external third party. Potential inefficiencies and problems are quickly identified through detailed conversations and meetings with the responsible people. HAMBORNER therefore considers the risk to be low.
+
+The leasing risk consists of the risk that new tenancy agreements cannot be signed or existing agreements extended as they expire, as well as the risk of existing vacancies. Longer marketing periods have to be assumed for large retail spaces. In view of the economic situation, it can generally be assumed that the marketing times for letting space will increase. These generally amount to around 12 to 24 months. In the area of office properties, requirements for the type of spaces are changing due to the effects of mobile working. Generally speaking, increasing requirements from prospective tenants with respect to ESG criteria may result in longer marketing periods and less favourable rental conditions for less energy-efficient buildings.
+
+Furthermore, it is unclear to what extent it will be possible to, for example, allocate carbon-related costs to tenants in the future as a result of regulatory changes. Asset Management regularly performs an analysis relating to leases potentially expiring in the next 24 months, as well as vacant units. Overall, the risk is considered medium for the overall portfolio due to regular dialogue with tenants, long-term leases and the high proportion of "good-as-new" properties. In the reporting year, the economic vacancy rate including rent guarantees was 2.8% on average (2022: 2.1%), and was therefore again at a comparatively low level.
+
+#### **Risks of rental losses**
+
+In view of the current economic situation and the possibility of further rent increases due to index-linked contracts, it cannot be ruled out that some tenants may not be able to meet their financial obligations due to insolvency. The loss allowances recognised in 2023 only came to €0.6 million, however. The broadly diversified tenant portfolio and regular dialogue with tenants mean that the risk is considered to be low, although it has risen slightly overall due to the current market environment.
+
+#### **Maintenance risk**
+
+Properties which are held as long-term investments carry a growing risk of significant maintenance expenses due to their age. In addition, further measures — in particular to reduce energy consumption and modernise properties sustainably — may be necessary as a result of the increasing importance of ESG criteria. Changing demands in terms of how the space in office buildings is arranged as a result of additional mobile working can result in substantial building costs, which because of the shortage of qualified staff, may increase due to higher expenses for external service providers. In addition, price increases for materials costs as well as high-capacity utilisation of trades are being observed. Bottlenecks in supply chains have largely been resolved, compared with the previous year, so the supply of building materials has improved significantly.
+
+In order to counteract this risk, corporate planning includes detailed planning in the form of individual measures to reflect the risks stated above. Based on this detailed plan, as well as regular reporting and against the background of the high proportion of as-new properties, the risk is considered moderate.
+
+#### **Decarbonisation risk**
+
+Formulating medium and long-term decarbonisation targets for the years 2030 and 2045 creates a risk that these targets or other annual targets derived from them are not achieved. Missing these targets would cause reputational damage and depending on the regulatory framework, may also result in fines.
+
+## Page 66
+
+Whether the decarbonisation goals are achieved depends partly on exogenous factors. They include amendments and ongoing developments in regulatory requirements and the decarbonisation ambitions of other sectors, particularly in energy production and supply. Furthermore, the company is dependent on technical progress to achieve its own targets, particularly in terms of renewable energies, energy efficiency technologies and construction materials. The successful completion of projects is also dependent on technical feasibility and the support of business partners, particularly tenants and service providers. Since the company's internal methods of accounting for emissions are based on proven scientific methods, a change in these standards may affect the reported emissions in the baseline and target year and so have an indirect impact on target achievement.
+
+To address this risk HAMBORNER holds in-depth discussions with its tenants, carries out regular surveys and takes sustainability-related services into account in its service and tenancy agreements. National and European legislation is also monitored closely in order to respond quickly to regulatory changes. For this reason, the risk is considered to be medium.
+
+#### **Risks from property transactions**
+
+Risks from property transactions arise firstly in investments, and secondly in divestments. For example, when investing, the wrong decision may be made when acquiring a property. Risks and obligations relating to properties may therefore be overlooked in the course of the acquisition audit, which may lead to unplanned expenses or lower income for HAMBORNER. In order to reduce these risks, calculations on the basis of various scenarios are created with the help of an investment model. In addition, the acquisition process takes place on a cross-departmental basis, and external service providers can be engaged if necessary (solicitors, experts, etc.). An ESG assessment is also part of the due diligence for an acquisition and the results are taken into account for the purchase decision.
+
+The transaction volume for office and retail properties was again comparatively low in 2023. Despite the low probability of occurrence and the current exposure, high potential losses mean that the risk in relation to investment is considered to be medium.
+
+Disinvestment also entails risks. Properties could be sold below market value or interested parties may fail to materialise, for example due to ESG-relevant criteria not being met, with the result that properties cannot be sold as planned. In addition, there may be a breach of warranty obligations in the framework of submitted guarantees in purchase contracts. To avoid these risks, a detailed sales plan is drawn up in close collaboration with the individual specialist departments. As with the acquisitions process, the sales process is organised on an interdepartmental basis. Taking this intensive collaboration between departments as a basis, substantial risks arising from divestment transactions are rated as low.
+
+#### **IT risks**
+
+The business processes at HAMBORNER are largely dependent on the use of IT systems. Disruptions or failures affecting these IT systems can have an adverse effect on business operations. The potential IT risks essentially comprise damage or disruption to hardware, the manipulation of or unauthorised access to IT systems (cyber-security) and the resulting malfunctions, as well as unauthorised access to sensitive information.
+
+HAMBORNER has a number of measures in place to reduce these risks, including an up-to-date security suite and a firewall, as well as a separate server area with backups. Hardware failures can be substantially reduced through regular monitoring. Staff also undergo regular training and follow a system of access rights. The systems used are also updated regularly and tested for resilience. In view of the numerous security measures, the limitation of operating capability due to IT risks is considered low.
+
+#### **HR risks**
+
+Well-trained and motivated employees are central to the company's success. Due to increasing requirements, individual employees or entire departments can experience work overload and demotivation. This may in turn result in staff shortages or increased staff turnover. These scenarios mean increased recruitment costs and a loss of valuable knowledge resources. In addition, there is a risk that properly qualified specialists may not be recruited in time. With existing personnel, there is also the risk of qualification shortcomings due to insufficient basic and advanced training measures. The issues mentioned may result in additional costs for external providers / advisers.
+
+This risk is prevented by measures such as holding regular management and department meetings. Personnel needs are also analysed on a short to medium-term basis. Employees and managers also hold recurring performance reviews and feedback meetings, anonymous staff surveys are carried out regularly and the existing personnel receive training as needed. In addition, various benefits are offered to increase employer attractiveness. There are also close working relationships with qualified recruitment agencies. As a result of these steps, the risk is considered low.
+
+## Page 67
+
+**Overview Periodical Company** Report on risks and opportunities | **Management report Separate financial statements Further information**
+
+#### **FINANCIAL RISKS**
+
+#### **Valuation risks**
+
+The valuation of properties is performed by independent experts and reflects the market value. HAMBORNER does not have any influence on exogenous factors that impact the market value, such as falling prices and rent levels. In addition, the property's location and condition as well as forecast rents are important factors in property valuation. Adverse developments in these factors or property characteristics that no longer meet market standards may result in a reduction of a property's market value. Furthermore, aspects including economic changes, inflation and rising financing costs can have a negative influence on the property valuation.
+
+In view of the current economic situation, the prevailing high energy and consumer prices, and the resulting restrictive monetary policy of the European Central Bank, the possibility of the market value of properties declining again in 2024 cannot be ruled out, whereby the location, nature of usage and quality of properties have a significant influence on their valuation. As a result, the company had its portfolio revalued as at 30 June 2023 and 31 December 2023. Due to HAMBORNER's diversified portfolio and the long-term leases concluded for office properties, often with public or semi-public providers, as well as the regular analysis by independent valuers, the risk for HAMBORNER of a repeated correction is considered to be threat to liquidity is considered to be low. medium.
+
+#### **Tax risks**
+
+Tax risks mainly arise when the exemption from corporation tax and trade tax ends, possibly leading to loss of REIT status. In addition, there may be risks in amendments to the REIT Act. Other risks currently exist in terms of changes to tax law affecting VAT, land transfer tax and land tax. The basis for calculated land tax will change from 2025, though the change should not impact the amount of tax paid by companies. HAMBORNER cannot rule out however that expenses may increase if the lease does not allow costs to be charged to tenants.
+
+Thanks to continuous monitoring and continued employee training, as well as membership of industry associations, the risk is therefore considered low.
+
+#### **Liquidity risk**
+
+The liquidity risk is expressed primarily through liquidity bottlenecks, for example as a result of an uncoordinated procedure across individual departments. HAMBORNER addresses this risk by regularly preparing a twelve-month liquidity plan, which is communicated to all managers and the Management Board. Liquidity is also monitored on an ongoing basis and a liquidity reserve is held. Liquidity risks are included in the analysis of risk-bearing capacity in risk reporting. The
+
+#### **Loan agreement default risk (covenants)**
+
+Covenants exist in particular for the promissory note loans issued in 2018 and still amounting to €12.5 million as at 31 December 2023. Net financial liabilities based on the fair value of the property portfolio therefore must not exceed a share of 60% (LTV). The ratio of EBITDA to net interest income must also be at least 1.8. Noncompliance with these conditions would entitle the creditors to cancel the loan agreement.
+
+The LTV of 43.5% as at 31 December 2023 is significantly below the limit of 60%. The EBITDA to net interest income ratio is also well above the required 1.8 at 5.4. In view of the regular monitoring of the compliance of the financial covenants, the loan agreement default risk can be considered low.
+
+#### **Financing risks**
+
+Financing risks relate primarily to the risk of rising interest rates (interest rate change risk). This may lead to higher interest payments on variable and fixed interest loans when they are borrowed or the term is extended.
+
+Early repayment penalties may be due if debt-financed properties are sold; these may be substantial depending on the amount of the encumbrance, and could swallow up part of the sales proceeds. For this reason, we are arranging with banks to reschedule debt to other portfolio properties where possible, in order to limit or avoid early repayment penalties.
+
+## Page 68
+
+The average remaining term of the loans is 4.1 years, based on the **COMPLIANCE RISKS** end of the reporting period as at 31 December 2023. Slight interest rate risks affecting earnings result from expiring property loans in 2024 as the relevant refinancing arrangements have already been signed, but the interest rate hedge is still outstanding.
+
+For a floating-rate loan of €45.0 million in connection with a property financing arrangement, a further increase in the 3-month EURIBOR rate would result in higher interest expenses.
+
+Part of the promissory note loan of €62.5 million taken out in 2018 was repaid in the financial year. The timing and scope of any possible refinancing of the expiring property loans or promissory note loans are also managed on the basis of liquidity requirements over the year and depend largely on the acquisition opportunities that arise.
+
+The financing risk is therefore considered to be low.
+
+#### **Subsidence risks**
+
+Potential risks are posed by HAMBORNER's former mining activities, e.g. subsidence damage or shaft stabilisation, on account of the possible future discontinuation of large-scale dewatering activities in the Ruhr area. The economic risk associated with dewatering activities was assessed by an expert in 2005. The provisions relating to mining currently amount to €2.8 million (in accordance with IFRS). Based on the current assessment, there are no further financial risks. For this reason, the risk arising from mining damage is classified as low.
+
+In addition to the strategic, operating and financial risks, there is a risk that HAMBORNER loses its REIT status by infringing the REIT Act or by infringing compliance requirements. This also applies to breaches of employment law by services providers, e.g. minimum wage requirements. While these risks cannot be ruled out by HAMBORNER, they are unlikely or economically insignificant now and in the near future. The risks are therefore considered to be low.
+
+#### **Litigation risks**
+
+Litigation risks relate to the costs of legal action, as well as other potential payments that could result in an adverse deviation from plans. These risks also relate to errors of legal judgement that subsequently result in a loss or higher costs due to the need to seek external legal advice. HAMBORNER uses selective support by external law firms and regular training in order to minimise the risk of legal errors.
+
+The specialist departments are supported by the Legal function in order to minimise the risk of legal disputes. Total potential losses from various individual legal proceedings amounted to €118 thousand at year-end. The probability of occurrence varies widely and the total loss is low. For this reason, the risk arising from litigation is classified as low.
+
+#### **Environmental and climate risks**
+
+Environmental and climate risks include risks arising from the physical effects of climate change on the properties held as investments as well as risks arising from the negative effects of business activities on climate change. The latter take the form of regulatory and market-related transitory risks, which have already been explained in detail with the keyword ESG, in the corresponding risk categories. Damage to or destruction of property may be caused by extreme weather events as a result of climate change, fires or terrorist attacks.
+
+The resulting damage will largely be covered by the fire and natural hazard insurance policies in place. The financial risk in relation to physical damage is low thanks to the insurance policies in place.
+
+The property portfolio has also been tested recurrently for climate risks since 2022. No material effects are expected on business activities or the business model. Taking into account the transitory risks relating to the environment and climate already considered in the other risk categories, the risks should be considered moderate.
+
+#### **Overview Periodical Company** Report on risks and opportunities | **Management report Separate financial statements Further information**
+
+## Page 69
+
+**Overview Periodical Company** Report on risks and opportunities | **Management report Separate financial statements Further information**
+
+#### **Opportunities**
+
+#### **Overall assessment of the risk situation**
+
+The current macroeconomic situation not only entails risks for HAMBORNER, but also potential opportunities.
+
+The continued high levels of inflation bring not only the aforementioned risks, but also opportunities for higher rental and lease income as a result of index increases with current tenants. In view of the generally unstable situation, existing tenants may also tend to maintain their current position and renew their existing contract rather than lease new space. Generally speaking, there is the possibility of new lets being achieved after shorter marketing periods than expected.
+
+Rising interest rates result in higher financing costs in particular but also make higher interest income more likely. In contrast to current estimates, the transaction market may also develop to the company's advantage sooner than expected and enable better, earlier transactions. Any possible positive developments in the transaction market and falling or stable interest rates may have a positive effect on valuations.
+
+The increasing use of digital technologies may create opportunities by further improving internal workflows and processes, for example by automating routine tasks, managing documents electronically and providing specific communications tools.
+
+In conjunction with the planned decarbonisation of the portfolio, there may be opportunities to reduce energy costs and carbon emissions sustainably and to identify and realise further optimisation potential in property operations.
+
+The risk and opportunities situation for HAMBORNER is largely determined by the national market environment and the current economic conditions. The main factors are inflation, which is still high, interest rates and the sluggish global economy. These factors and how they evolve will have an effect on financial year 2024. However, the German economy and the property sector are also set to recover, due to lower inflation, wage increases and very high employment rates.
+
+HAMBORNER's business model has proven to be very stable thanks to its long-term leases with dependable, creditworthy tenants. Income from rents and leases rose by 4.6% last year compared with 2022 and the vacancy ratio was again kept very low at 2.8% (previous year: 2.1%). FFO increased by 7.2% as expected due to the improved operating result.
+
+According to our assessment of overall risk, there are currently no risks to HAMBORNER as a going concern or that could significantly impair its net asset situation, financial position or results of operations. The company is confident that it can continue to take advantage of the opportunities and challenges that arise in future, without having to take unreasonable risks.

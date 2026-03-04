@@ -1,0 +1,51 @@
+{
+  "company_slug": "international_consolidated_airlines_group_s_a",
+  "year": "2024",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\international_consolidated_airlines_group_s_a\\2024\\international_consolidated_airlines_group_s_a_2024_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\international_consolidated_airlines_group_s_a\\2024\\focused\\international_consolidated_airlines_group_s_a_2024_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2024"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        332,
+        333,
+        334
+      ],
+      "start_page": 330,
+      "end_page": 338,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "332": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "333": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES",
+                "A.1. Environmentally sustainable activities (Taxonomy-aligned)"
+              ],
+              "334": [
+                "A. TAXONOMY-ELIGIBLE ACTIVITIES"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

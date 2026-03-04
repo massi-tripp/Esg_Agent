@@ -1,0 +1,1058 @@
+## Page 41
+
+This was followed by Resolution no. 306/2019/R/eel on 16 July, which confirmed the guidelines presented in the previous consultation document. Specifically:
+
+- 1. The Authority set 2022 as the deadline for the start of the plans for the commissioning of 2G systems and established that the mass replacement phase for the meters must be completed by 2026 (with a target of 95% of the meters included in the plan). Furthermore, in order to avoid the "two-speed country" risk, a new method of calculating the "conventional plan" was introduced for companies that have not yet submitted their rollout plan.
+- 2. Starting from the 4th year of each PMS2, penalties are introduced for failure to meet expected performance levels, with annual and multi-annual ceilings on penalties for greater protection of service users.
+- 3. The regulatory useful life of the asset categories relating to the low-voltage electricity metering service to be applied to investments in 2G smart metering systems is 15 years.
+- 4. The remuneration and depreciation of the invested capital are determined according to a fixed rate depreciation schedule. Depreciation schedule instalments are calculated as deferred annual instalments, considering a return time horizon consistent with the regulatory useful life.
+
+On 20 September 2019, areti sent the Authority the request for admission to the recognition of investments under the specific regime together with the plan for the commissioning of the 2G smart metering system and the other documents required by Resolution no. 306/2019/R/eel. The documentation was made available on 23 September 2019 on the Areti website, and on 21 October a public session was held to present the Plan, during which the Company responded to the comments made by participants. On 20 December the Authority requested detailed information on the actual operating capital costs of Measure 1G and 2G set out in PMS2.
+
+Resolution 213/2020/R/eel, which follows 177/2020/R/eel accompanied by CD 178/2020, provides for transitional amendments for the year 2020 to some of the directives for second generation (2G) smart metering systems for measuring low voltage electricity.
+
+In particular, in consideration of the COVID-19 health emergency and its impacts on the replacement of meters, the Authority expressed the orientation to:
+
+- **•** waive at least for 2020 the upgrade criterion at the level of the Municipality or other significant territory:
+- **•** establish that the next PDFMs, which must have a maximum quarterly frequency, can only have indicative value as long as the emergency persists. Moreover, each PDFM must be published 15 days in advance of the beginning of the month in which mass replacements of meters are planned;
+- **•** suspend at least for 2020 the provisions on penalties for failure to achieve at least 95% of the progress (cumulative) envisaged by PMS2 from the second year of the plan (90% for the first year);
+- **•** suspend for the year 2020 only the application of the IQI (Information Quality Incentive) matrix, which defines the value of the incentives to be paid to companies for the different combinations of actual expenditures incurred and planned, since the comparison between actual costs and expected costs may be subject to factors that affect the comparison.
+
+On 28 July 2020, with Resolution 293/2020/R/eel, the Authority approved the plan of commissioning of the 2G smart metering systems presented by Areti and determined the related conventional commissioning plan and the expenses envisaged for the plan for the purposes of recognition of the costs of capital.
+
+ARERA also considers it appropriate to offer distribution companies the option of proposing the updating of their upgrade plan during 2021 to adjust for the effects of the epidemiological emergency. It is noted that on 31 March 2021, in consideration of the ongoing health emergency and need to further investigate the relevant impact, Areti announced its intention to collect additional information to assess whether it should update its PMS2 by 15 June 2021.
+
+On 14 June 2021, Areti notified Arera that it had promptly intervened, by adapting its processes and procedures so as to absorb the operational impact that had arisen during the health emergency period, and it that it had consequently not identified any effects that would require the plan to be revised. It is noted nonetheless that certain risks are present, including but not limited to the possible increase in asset costs due to raw materials becoming more expensive or the potential shortages in supplies due to the widespread slowdown in production worldwide. In this regard, note that the DSOs, through Utilitalia, are submitting to the Authority a number of requests intended to zero the bonus and penalty mechanisms for the years impacted by the scarcity of 2G meter supplies.
+
+With Resolution 349/2021/R/eel of 3 August 2021, the Authority provided that, for the year 2021, in the case companies that had started PMS2 in previous years, the 2G meter limit below which penalties apply is 90% instead of 95% of the cumulative number of 2G meters provided for by PMS2 as at 31 December 2021. The Authority also resolved that for 2021, the criterion of implementation at municipal or other significantly relevant territorial level shall not apply.
+
+On 23 March 2022, Arera sent to Areti, via certified email, communication of the preliminary findings related to the effective capital cost of the investments in 2G smart metering systems incurred in 2020.
+
+On 28 June 2022, the Authority published DCO 284/2022/R/eel which outlined the guidelines relating to the introduction of transitional changes to the provisions of the 2G Directives for 2022. These transitional changes were deemed necessary following the indirect effects of the COVID-19 pandemic which led to a severe lack of semiconductors at global level and which in turn, at the start of 2022, created significant limitations on the availability of 2G meters that had already been ordered by distribution companies. Interested parties are invited to send their comments to the Authority by 29 July 2022.
+
+With Resolution 280/2022/R/eel of 28 June 2022, Arera initiated proceedings to update the guidelines for the recognition of second generation (2G) smart metering system costs applicable from 2023, currently defined by Resolution 306/2019/R/eel, providing for the conclusion of such proceedings by 31 December 2022.
+
+On 28 June 2022, the Authority published DCO 284/2022/R/ eel outlining its guidelines relating to the introduction of transitional changes to the provisions of the 2G Directives for 2022. These transitional changes were deemed necessary following indirect effects of the COVID-19 pandemic which led to a severe lack of semiconductors at global level, which in turn, at the start of 2022, created significant limitations on the availability of 2G meters that had already been ordered by distribution companies. In this DCO, ARERA also discussed the possible transitional derogation of the "operational" criteria for significantly relevant areas, examined possible transitional changes involving the preparation of detailed plans for the mass stage, discussed application methods for the Information Quality Incentive (IQI) matrices, illustrated possible transitional changes to the penalty rules for lack of progress in the operational
+
+## Page 42
+
+plan and examined completion schedules for the mass stage of 2G smart metering operations. The interested DSOs were asked to send their comments by 29 July 2022.
+
+Note that on 27 July 2022, the Authority published consultation document 360/2022/R/eel, illustrating guidelines relative to the extension of provisions on the implementation of second generation low voltage electricity smart metering systems. The deadline for submission of comments was 26 September 2022.
+
+On 22 November 2022, following the consultation period begun with DCO 284/2022/R/eel, ARERA published resolution 601/2022/R/eel in which it introduced transitional changes to certain provisions for the second generation (2G) smart metering systems for low voltage electricity. In particular, it establishes: for 2022 and the first half of 2023, non-application of the "operational" criteria in any significantly relevant area; for 2022, provisions pursuant to article 18, paragraphs 1 and 3 of Annex A to resolution 306/2019/R/EEL are suspended, relative to penalties for delays with respect to the forecasts for implementing the service and limited non-compliance with expected performance levels; the effects deriving from the planned and actual numbers of 2G metres for 2022 were sterilised. On 28 March 2023, Arera sent the preliminary findings related to the effective capital cost of the investments in 2G smart metering systems incurred in 2021.
+
+Finally, with resolution 724/2022/R/eel, the Authority updated the 2G Directives for 2023-2025 establishing i) that annual accounting methods for physical progress be made systematic, with time frames similar to the accounting already established for economic and performance progress, ii) that the monitoring period for 2G smart metering system performance be extended to 4 years, activating penalties only as of 1 January of the fifth year of PMS2, in light of the problems which arose relative to the COVID-19 health emergency and the significant limitations on availability of 2G components, iii) an obligation to promptly replace 1G metres with 2G metres for activation requests for collective self-consumption, and iv) a premium mechanism for accelerating PMS2 as an effect of public contributions.
+
+The "Integrated Text on provisions of the Authority on the economic conditions for providing connection services (TIC)", Annex C to Resolution 568/2019//R/eel, governs the economic terms for the provision of connection services and specific services (transfers of network equipment requested by end users, contract transfers, disconnections, etc.) to passive users, essentially in line with the previous regulatory period.
+
+The regulatory changes that have taken place since 1 January 2016 allow the distributor to affirm that the right to remuneration for invested capital arises, from an accounting point of view, at the same time as investments are made and the depreciation process is initiated in compliance with the accruals concept and the principle of correlation of costs and revenues. For this purpose, the remuneration of the investments (including of the related depreciation and amortisation) was calculated and recognised in the energy margin at the same time as they were made (so-called Regulatory Accounting).
+
+Resolution 119/2022/R/eel of 22 March 2022 established the mechanism to reimburse electricity distributors for receivables not collected and not otherwise recoverable in relation to general system charges and network charges, outlining their conditions for access, quantification criteria of the eligible receivables, criteria for their recognition, operating methods as well as time frames for submitting applications and settlement of the amounts by CSEA. Furthermore, this measure repealed resolution 50/2018/R/eel of 1 February 2018.
+
+Furthermore, note that with Resolution 35/2022/R/eel of 31 January 2022, ARERA arranged for the cancellation of the rates for general electricity system charges for Q1 2022 for all types of users, implementing the Supports *ter* Law Decree.
+
+On 22 November 2022, the Authority published resolution 599/2022/E/com which began an audit campaign with reference to documents on the topic of accounting separation and declared investments for a sample of regulated companies in the electricity distribution and natural gas distribution and transport sectors for the years 2018-2021.
+
+Note also the publication of DCO 615/2021/R/com of 23 December 2021, in which the Authority illustrates its thinking behind the main lines of action of the ROSS-BASE solution, namely the focus on total expenditure, overcoming the current cost recognition system, which considers operating costs and investments separately, in favour of an integrated approach that gives operators responsibility. In particular, the new integrated approach focuses on the following aspects: realistic forecasts and development plans, based on the future and actual needs of service customers; incentives to improve performance levels, in terms of efficiency, cost-effectiveness and quality of service; removal of any regulatory barriers to the development of innovative solutions. ARERA does not yet go into detail on the regulatory mechanisms that must be developed and which will come into force in 2024 for the electricity distribution and metering service, but it does intend to obtain an initial assessment from operators, end customers and other participants. Comments were sent by 31 January 2022.
+
+On 12 July 2022, the Authority published DCO 317/2022/R/com, offering further clarifications and observations on the scope of application for the ROSS approach and the criteria used to determine the historic cost recognised under the ROSS BASE approach. Comments were sent by 14 September 2022.
+
+On 25 October 2022, ARERA published resolution 527/2022/R/ com, beginning a procedure to define the adjustment criteria based on the ROSS-complete model. By 31 December 2023 a framework resolution will be published, containing the general criteria for ROSS Complete adjustments and in 2024 specific sector provisions will be published for the various regulated services, which will contain methods and objectives for experiments.
+
+In DCO 655/2022/R/com, the Authority published its final guidelines on the criteria for determining the cost recognised under the ROSS-base approach and a first draft of the TIROSS (Consolidated regulatory law on spending and service objectives for regulated infrastructure services in the electricity and gas sectors) for 2024- 2031: the duration of the regulations contained in TIROSS is 8 years, while the duration of the regulatory period for each regulated service is 4 years. The DCO provides additional indications relative to determining the spending to be included in tariff recognition, on determining total efficiency recoveries and the treatment of capital spending existing as of the cut-off date. Distribution companies can submit their comments until 23 January 2023.
+
+On 18 April 2013, with Resolution 163/2023/R/com, the Authority published the Consolidated law on general criteria and standards for regulating spending and service objectives for 2024-2031 (TI-ROSS 2024-2031), and approved Part I, containing shared provisions, as well as part II, dedicated to ROSS-base. This Resolution also confirmed the guidance anticipated in DCO 655/2022/R/ com, postponing the definition of specific parameters for future specific provisions relative to each regulated infrastructure service. Subsequently, on 18 May 2023, ARERA sent to the main DSOs, Snam and Terna, a request for information, specifically simplified economic, equity and financial projections for the purposes of reg
+
+## Page 43
+
+ulating spending and service objectives (ROSS), to determine future capitalisation rates, the X-Factor and the Z-Factor for the First ROSS Regulatory Period. This information was to be provided for 2023-2027.
+
+With resolution 165/2023 of 18 April 2023, the Authority resolved to begin a procedure to establish provisions for infrastructure regulation with reference to electricity distribution and metering services for regulation period 2024-2027. This procedure will end by 31 December 2023, relative to general aspects, with application for the entire period from 2024-2027, and by 31 December 2027 with regards to specific application aspects, for example preparation of application criteria for the full ROSS regulation and the introduction or updating of output-based regulatory mechanisms.
+
+On 3 August 2023, the Authority published consultation document 381/2023/R/com in which it presented guidelines on the methods for applying the ROSS-base criteria, for natural gas transport and transmission services and for electricity distribution and metering, applicable as of 2024. The document outlined the Authority's proposals relative to certain aspects not yet defined in resolution 163/2023 approving the TIROSS, in any case postponing to subsequent consultation documents and working groups the aspects linked to cost reporting and monitoring and to analysis of economic/financial returns and the "financeability" of companies. Interested parties are invited to send their comments and proposals to the Authority by 21 September 2023.
+
+Following the consultation, on 2 November 2023 ARERA published Resolution 497/2023/R/com in which it defined the application criteria governing spending and service objectives for natural gas transport and electricity transmission, distribution and metering services. Among many changes, the Authority ordered that the baseline for operating costs in 2024 is equal to the 2022 effective operating costs (COE), appropriately revalued for 2023 and 2024, based on the inflation rates published in resolution 616/2023, respectively equal to 6% and 1.9%. Efficiency recoveries achieved in the 5th regulation period were left to the distribution companies in the four subsequent years, with gradually declining rates (50% the first year, 37.5% the second, 25% the third and 12.5% the fourth).
+
+Efficiencies in the new regulatory period are instead left to the DSO based on the incentive scheme selected (SBP low potential or SAP high potential). Capital costs incurred through 2023 (cut-off) are managed with the previous criteria (amortisation/depreciation in year n-2, capital in year n-1); capital costs after the cut-off year are managed using ROSS logic (amortisation/depreciation and capital at year n-1). Total costs incurred by the company are divided between the Slow money portion (opex) and the Fast money portion (capex) based on a capitalisation rate defined by ARERA.
+
+On 29 November 2023, ARERA requested the information needed to determine the capitalisation rate, the baseline for 2024 operating costs, presentation of the application for the Z-factor and the incentive selected (SBP v.s SAP). On 22 December 2023, in a certified email, areti sent the Authority the requested information, deciding not to present the application to activate the Z-factor, as incremental costs associated with the energy transition were not planned for 2024, and opting for the low-potential scheme (x-factor of zero and efficiencies retained at 100% in the first year and 50% in the three subsequent years).
+
+#### **The Italian Waste Management market**
+
+The current situation of production and treatment capacity for waste in the traditional operational areas of the Acea Group and in the neighbouring areas shows a high "potential demand" for waste management (disposal in landfills, waste-to-energy, composting and biogas production, sludge and liquid waste treatment, recycling of mixed materials and production of Secondary Raw Materials). This is facilitated by a national regulatory framework that provides incentives and by the regulatory support of European directives on the recovery of materials and energy, as well as by the implementation of the European Union's policy guidelines on the circular economy (closing the loop), which are being implemented in Italy by virtue of a delegated law that has given the government the obligation to update environmental legislation adapting it to the new EU standards.
+
+Opportunities for developing the sector are therefore highlighted, also facilitated by the availability of new technologies (for example in composting) and by possible forms of industrial integration with other operators.
+
+Finally, the expansion of the potential for disposal/recovery of sewerage sludge – in the context of value added environmental services (sludge treatment, compost) – could lead to the completion of the integration with the Water business, in view of a complete management in-house of the entire supply chain.
+
+#### **WATER REGULATION**
+
+Among the main regulatory changes relative to the first half of 2023, specifically with reference to the water sector, the most important is the **2023 Budget Law** (Italian law 197 of 29 December 2022, published in the Official Journal 303 of 29 December 2022, SO no. 43), which took effect on 1 January 2023. In particular, paragraphs 519-520 involve **financing of the Peschiera water system**. Paragraph 519, to improve water supply for the metropolitan city of Rome, authorises total spending of 700 million (50 million 2023 and 2024 and 100 million in the years from 2025 to 2030), to create the "new upper section of the Peschiera aqueduct, from the sources to the Salisano Plant", as part of the project to secure and modernise the Peschiera water system (annex IV, no. 8 to Decree Law 77/2021). Paragraph 520 delegates to an MIT decree, to be adopted in concert with the MEF, by April 2023, but not yet issued, the identification of projects to finance with the resources established in paragraph 519, as well as the methods for disbursement and cases for revoking the resources, through presentation of the relevant documentation by the extraordinary commissioner.
+
+Another important change is the publication, in the Official Journal 55 of 6 March 2023, of **Legislative Decree 18/2023**, "Implementing Directive (EU) 2020/2184 of the European Parliament and Council of 16 December 2020, concerning the **quality of water intended for human consumption**." The date of entry into force for this provision is 21 March 2023, however with different time frames for the various actions. The new regulation is not limited merely to the quality of potable water and monitoring of the same, but also includes other aspects such as water loss, water access, user information and additionally contains provisions on materials in contact with water, reagents and filtering materials.
+
+With reference to water loss, ARERA must prepare the data acquired from managers, in line with the provisions of the technical quality regulation, and communicate the national average to the European Commission by 12 January 2026; if the average identified as a threshold by the Commission is exceeded, an action plan must be established with the relative measures to reduce the national water loss rate, to be adopted through a prime ministerial decree.
+
+## Page 44
+
+The issue of water access is also worthy of note, which involves adoption by the Regions and Autonomous Provinces of measures needed to maintain and improve access to water intended for human consumption, in particular for vulnerable and marginalised groups, promoting the use of tap water. No less important are new provisions regarding public information, already introduced in the regulation associated with resolution ARERA 609/2021/R/idr.
+
+Also note that in Official Journal General Series, no. 59 of 10 March 2023, the MEF Decree of 31 December 2022 was published, containing general criteria for the Regions to determine **concession fees for public water utilities**.
+
+The provision serves the goal of ensuring standard regulations throughout the country, to that end establishing general criteria for the Regions to determine concession fees for public water utilities, taking into account environmental costs and costs for the resource and pollution, contributing to achieving the milestone in the NRRP, M2C4-2 – Reform 4.2: Measures to guarantee full management capacity for integrated water services.
+
+Another provision of interest during the reference period is Decree Law 39 of 14 April 2023, converted with Law 68/2023 (Official Journal 136 of 13 June 2023), containing urgent provisions to combat water scarcity and strengthen and adapt water infrastructure (the **Drought Decree Law**). The various measures include the establishment of a Steering Committee for the water crisis, chaired by the Prime Minister, with the task of guiding, coordinating and monitoring, and also responsible for identifying works and projects to be urgently implemented to deal with the water crisis in the shortterm. As indicated in a Prime Ministerial Press Release, in May the first meeting of the Steering Committee was held, during which priorities were established and requests coming from various areas began to be examined, with the initial projects for 5 regions already identified, including Lazio, with a total investment of € 102 million made available by MIT. The Drought Decree Law also calls for the appointment of an extraordinary commissioner, in office until 31 December 2023, extendable until 31 December 2024, responsible for the urgent implementation of the projects identified by the Steering Committee; to that end, Nicola Dell'Acqua was appointed by the Council of Ministers on 4 May 2023.
+
+Finally, with reference to the EU, we note the reasoned opinion sent by Italy to the European Commission on 15 February, as part of the INFR 2018-2249 infraction procedure in relation to non-compliance with the Nitrates Directive (91/676/EEC), with an invitation to better protect the population and ecosystems of the country from pollution caused by nitrates used in agriculture. The opinion was preceded by two default notices: the first in November 2018, inviting the authorities to guarantee stability for the network used to monitor nitrates, to carry out a review, and to designate areas vulnerable to nitrates, adopting supplementary measures in various regions; in December 2020 a complementary letter was sent, which while recognising a certain level of progress, indicated worries with regards to certain violations in various regions in which the situation for subterranean waters polluted with nitrates is not improving or in which a worsening of the problem of eutrophication of surface waters has been seen. Italian authorities have two months in which to respond and adopt the necessary measures.
+
+Also note, in June, Italy's referral to the European Court of Justice for improper implementation of Directive 91/271/ECC on treatment of urban waste water (case C-85/13, infraction procedure 2009/2034); in fact, according to the European Commission, of the 41 initial agglomerates in the case, 5 had still not been made compliant and the 2027 deadline established by Italy for resolution was not considered acceptable.
+
+The main measures issued by ARERA during the reference period are analysed below.
+
+#### **ARERA and water services**
+
+With **resolution 51/2023/R/IDR**, in compliance with article 7, paragraph 2 of Legislative Decree 201/2022 (Restructuring of regulations for local public services of economic relevance), the Authority began the procedure to determine the new regulations for the basic content of calls for tenders intended to establish the basic structure for tenders to assign management of the integrated water service. The procedure is intended, among other things, to govern the criteria used to determine the starting amount for the tender, to formulate and evaluate bids (economic and technical) so that these are consistent with regulatory provisions on tariffs and quality. No progress has been seen in the procedure, which was originally set to be completed by 30 September 2023.
+
+With reference to the social bonus, note the following provisions:
+
+- **•** resolution **13/2023/R/com**, with which the Authority updated the ISEE threshold values for access to the measure, consistent with that provided in Law 197 of 29 December 2022 (2023 Budget Law): in particular, as from 1 January 2023, the access threshold was updated to € 9,530 with 15,000 the maximum limit for families with fewer than four children (the maximum limit of € 20,000 remained unchanged for large families);
+- **•** Resolution **622/2023/R/com**, revising the recognition, update and verification methods used by the manager of the social bonus.
+
+With **resolution 639/2023/R/idr** of 28 December 2023, the Authority defined the water tariff method for the fourth regulatory period 2024 – 2029 ( MTI-4). The adoption of MTI-4 is part of the procedure begun with resolution 64/2023/R/idr (which also indicated the value of the average cost for the electricity supply sector for 2022, equal to € 0.2855/kWh) and was followed by two consultations (DCO 442/2023/R/idr and DCO 543/2023/R/ idr). Again for MTI-4, the Authority confirmed the methodological approach adopted in the previous regulatory periods, with the aim of guaranteeing stability and continuity in the regulatory framework. Below are the aspects of greatest impact in the new method:
+
+- **•** extension of the regulatory period duration from four to six years, with two biennial updates of established tariffs (by 30 April 2026 and 30 April 2028) with a possible infra-period adjustment based on a justified request from the Area Governing Body (EGA) due to extraordinary circumstances;
+- **•** update of the parameters underlying the regulatory scheme matrix with a consequent increase in the maximum allowable values (primarily due to inflation) falling between 5.95% (Framework II, previously equal to 3.7%) and 9.95% (Framework VI, previously equal to 8.5%);
+- **•** financial and tax charges for the Integrated Water Service Operator: the Authority confirmed substantial alignment with the values for other regulated sectors, defining an overall value of 6.13% (4.8% in MTI-3);
+- **•** electricity costs: recognition within the tariff of the cost to acquire electricity incurred during the year (a-2), also valorising self-production and the operator's efforts to limit consumption without changing systems and scope; this value is to be seen as the maximum ceiling as a lower value can, in any case, be quantified, in order to at least partially anticipate the effects of the possible downward trend in the cost of electricity. At the time of adjustment, the Method envisages (with the exception of 2024 and 2025, for which the mechanism based on "average sector
+
+## Page 45
+
+cost" is confirmed) a reference benchmark relative to a theoretical acquisition mix (for 2026: 70% variable price and 30% fixed; for subsequent years, an update to the weights is envisaged if needed). MTI-4 includes a deductible of 15% in addition to the benchmark (after exceeding that value any additional costs are borne by the operator), while cost efficiencies are divided between the operator and system (50% sharing). In the adjustments (RCaltro component relative to recovery of differences between the constraint of revenue and outlays incurred), amounts relative to the full recovery of electricity costs incurred in 2022 are covered, conditionally;
+
+- **•** adjustments: confirming, in line with previous regulatory periods, the possibility that the EGA and other relevant entities may present applications to exceed the tariff limit, the Authority emphasises that this choice may also be motivated by the need to recover adjustments relative to previous years and already approved by the same relevant entity or the Authority, in order to support the completion of necessary infrastructure. When approving the application, ARERA carries out a specific investigation intended to ascertain, beyond the validity of the data supplied and the efficiency of the metering service, congruence between the size of previous adjustments allowed for recovery and the resources required to achieve the necessary infrastructure. To limit the amount of allowable costs postponed to future period, the possibility to recover adjustments in years after 2029 is, as a rule, limited to solely cases in which this deferral is motivated by the need to respect the established limit on annual growth in the tariff multiplier. Nonetheless, it is envisaged that the EGA may present, in agreement with the operator, an application for deferral accompanied by a plan which clearly specifies the years in which it intends to carry out the recovery. Also in the light of the results of validation activity, it was decided to postpone to a subsequent provision the definition of operating methods to recover differences between:
+	- the data communicated with reference to odd years and the values identified after the fact with reference to volumes invoiced and electricity consumption;
+	- operating costs and adjustments quantified for the establishment of tariffs relative to 2023 assuming a null inflation rate and that derived from the update of the rate, equal to 4.5%;
+- **•** adjustment of allowable operating costs: the Authority envisages the inclusion of additional costs relative to the start of the new regulations, the expansion of the scope of activities carried out (management of rainwater where the EGA exercises the ability to include this activity within the Integrated Water Service), as well as additional costs incurred to adjust to the new technical quality objectives;
+- **•** incentives to promote energy and environmental sustainability: these measures assign a bonus in the case objectives are achieved, identified with reference to two new indicators:
+	- RIU Portion of purified volumes which could be reused but are not destined for this purpose;
+	- ENE quantity of electricity acquired (for which a lower target -5% - has been adopted with reference to that initially proposed).
+
+These mechanisms will be applied starting in 2025, considering, among other things, the situation of each operator in 2023.
+
+In the context of a procedure carried out at the same time as the tariff method, with **resolution 637/2023/R/idr** the Authority adopted the update to the Integrated Water Service Technical Quality regulations (RQTI). The provision provides that, starting in 2024, quality objectives (both technical and contractual) will be consistently evaluated in a cumulative manner on a biennial basis. Consequently, for the purposes of applying the bonus (penalty)
+
+factors, the level reached cumulatively for each of the macro-indicators applied at the end of odd years will be an element of assessment. Both for technical and contractual quality there is a ceiling for the bonus, equal to 15% of the value of the Guaranteed Revenue Constraint (GRC).
+
+By 30 April of each year, and using the operating methods to be established in subsequent provisions, the EGA must send the Authority an archive containing the file for RQTI data collection and monitoring, with annexed support documentation. As of 2026 (and then biennially), this archive must be verified by a pool of EGAs, subsequently defined by the Authority, which includes the entity locally responsible for that considered. If the archive is not certified, even partially, this must be justified and can constitute cause for exclusion from the incentive mechanism for any macro-indicators interested. Additionally, the operator can be excluded from the tariff update in the case of delays or problems in achieving the prerequisites established in the RQTI.
+
+Among the main changes in the update to technical quality, beyond determining a number of assessment classes which are the same for all macro-indicators (with adjustment of the various levels and associated objectives) and certain specifications for each macro-indicator, a new macro-indicator has been added - "M0 - Water Resilience", with which the Regulator has set the objective of evaluating the ability of the water system to handle the frequent stresses the water resource suffers, both in terms of the local area operated and at a higher levels. In fact, M0 consists of two simple indicators:
+
+- **•** M0a (Water resilience at the level of integrated water service management), defined as the ratio between integrated water service consumption, including network losses, and water availability for the same operator,
+- **•** M0b (Water resilience at a higher level) which identifies the ratio between consumption for all uses, including network losses, and overall water availability in the area considered.
+
+Again in relation to regulation of technical and contractual quality, note resolutions **476/2023/R/Id**r and **477/2023/R/Idr** on the application of the incentive mechanism (final results) published downstream from the methodological note pursuant to resolution 303/2023/R/idr with which ARERA identified the initial results as well as the investigation process undertaken. The two provisions specify the bonuses and penalties applied to operators for 2020- 2021. Overall, the Acea Group obtained bonuses for over € 40 million and penalties for just under € 7 million.
+
+In relation to the exceptional weather events which occurred in May 2023 ARERA, with resolutions 216/2023/R/com, 267/2023/R/ com, 304/2023/R/com, 390/2023/R/com and 565/R/com suspended payment of utility bills and payment notices for water, waste, electricity and gas until 31 October, implementing Decree Law 61/2023 (the "flood decree"). Additionally, provisions were included with respect to instalment payments of fees and the suspension of arrears cases, as well as an update to the UI1 tariff component, effective as of 1 July 2023, which is now equal to € 0.6/ cubic metre.
+
+With respect to consumer protection, we note in particular the publication of **Resolution 233/2023/E/com** of 30 May 2023. With this provision, the Authority established that, as of 30 June 2023, an obligatory settlement attempt is required also for the water sector as a condition for proceeding to legal action. Therefore, if an end
+
+## Page 46
+
+user decides to take legal action, they must first attempt to resolve the dispute with the ARERA Conciliation Service or other bodies established for out of court dispute resolution. In this way the regulations of the Comprehensive Conciliation Law (TICO) were extended to the water sector, the law having already been in effect for the electricity and gas sectors since 1 January 2018. The resolution also establishes specific information requirements for managers affected by these new provisions.
+
+Also in the first half of 2023, the Authority published the revision of its Annual Report on Conciliation Service Activities for 2022. The document indicates that conciliation requests received in 2022 totalled 24,339, of which 3,184 for the water sector and, of these, 71.3% relative to billing, 5.2% to metering, 5.1% contracts, 4.0% connections, labour, arrears and suspension, 1.3% contractual quality and 0.5% technical quality. The Regions with the highest number of requests are: Abruzzo, Lazio, Campania, Marche, Basilicata and Liguria. At the end of the conciliation procedure (for all regulated sectors) a satisfaction questionnaire was provided, completed by 8,781 customers; 96% of them said they were satisfied with the service received.
+
+Finally, note:
+
+- **•** the elimination, effective 1 July 2023, of the UI4 balancing component to supply the Guarantee Fund for water works, established with resolution **239/2023/R/idr**. The component was introduced on 1 January 2020, in the amount of € 0.4/cubic metre, increasing the aqueduct, sewer and purification fees, and calling for a half-yearly update in relation to the requirements of the relative account held with the Cassa per i Servizi Energetici e Ambientali (CSEA);
+- **•** the resolution **598/2023/E/com,** which amends the Regulation for fine proceeding rules and procedural methods for assessing the commitments, expanding the terms of the procedure, calling for a meeting in the case of connected proceedings and specifically highlighting, in line with article 11 of Law 689/81, the particular negative economic conditions of the agent.
+
+Another element which is surely of interest are the **Memos** which the Authority presented in relation to regulatory developments in the relevant sectors, as well as its Reports on monitoring carried out with reference to the restructuring of local integrated water service assets. Below are the relative provisions published in 2023. In particular, note the following.
+
+- **• Memo 106/2023/I/idr** provides the Authority's considerations on COM (2022) 540 (Framework for Community action in the field of water policy) and COM (2022) 541 (Urban wastewater treatment), guided by the EU's Senate Policy Commission. The document is intended to provide assistance with reference to the EUR directive proposals above, in particular COM (2022) 541, relative to which considerations and proposals are offered based on technical/economic assessments. More specifically, with reference to a series of actions, less stringent schedules are requested due to the significant impact foreseen in the current structure of the proposed directive. Additionally, adjustments are requested with regards to energy neutrality objectives for treatment plants.
+- **•** In **Memo 178/2023/I/idr** ARERA provides its contribution to the already cited Decree Law 39 of 14 April 2023, containing "Urgent provisions to combat water scarcity and strengthen and adapt water infrastructure", for the purposes of its conversion into law. The aspects highlighted by the Authority include the need for projects dealing with the water crisis to be included in the National Plan for Infrastructure Interventions and Safety
+
+in the Water Sector" (paragraph 516, Law 205/2017), for the purposes of more effective coordination of the same. ARERA also proposed the adoption of incentive mechanisms to promote efficiency and improved quality, also for uses other than civil, while with regards to reuse of purified waste water, measures are proposed with the aim of simplifying authorisation procedures.
+
+- **•** In **Memo 232/2023/I/com** the Authority makes reference to the VIII Environment, Territory and Public Work and X Productive Activity, Commerce and Tourism Commissions of the Chamber of Deputies for energy poverty, the disbursement of social bonuses and the waste tariff system. Specifically with regards to the water social bonus, it is noted that at present the preliminary actions allowing for automatic disbursement have been completed for around 80% of the domestic population.
+- **•** In its **sixteenth interim report (Resolution 34/2023/I/idr)** prepared pursuant to article 172, paragraph 3-bis of Legislative Decree 152/2006, the Authority updated the informational framework regarding restructuring of local assets in the water sector. The framework emerging highlights the definitive completion of processes for local entities to adhere to the relative government entities in all the areas of the country and the consolidation of the process to rationalise the number of ATOs (Optimal Territorial Areas), currently totalling 62, the need to complete the process begun to achieve full implementation in certain local areas and the start, by certain Regions, of the use of substitute powers, based on the legislative changes recently introduced in Decree Law 115/22. The push made by the Region of Lazio in exercising its substitute powers to definitively transfer the water service to the relative single operators in the various Municipalities can be seen in this light. Also worthy of note is the need to complete the assignment of the integrated water service throughout Italy, and to rapidly conclude the process of rationalising and consolidating the array of managers, in line with current regulatory provisions.
+- **•** The **seventeenth interim report (resolution 323/2023/I/idr)**  of July 2023 does not indicate any significant changes with respect to that noted in previous analysis, with the exception of additional progress with respect to the assignment of the IWS in Campania (in April, the assignment of operations in the Irpino District to Alto Calore Servizi) and in the Sicilian ATOs of Catania and Ragusa. However, in the Campania Regional ATO, the Sanniti and Napoli Nord Districts have not yet been assigned (for the former the establishment of a mixed company Sannio Acque is planned, while for the latter in house operation is expected, through the to be established APPN, although this has recently been contested by the Antitrust Authority). In Sicily, the assignments in the Messina, Trapani and Syracuse ATIs still need to be finalised. With a persistent Water Service Divide, the expectation of the new company Acque del Sud Spa, which from 1 January 2024 will take over for the eliminated entity for the development of irrigation and transformation in Puglia and Lucania (EIPLI), may contribute to the effective restructuring of the water supply chain and the configuration of the needed economic and environmental sustainability structural aspects for upstream activity in Southern Italy. Additionally, also given that the Authority was given the task of defining the water tariff to be applied to users of Acque del Sud SpA, it should be emphasised that "usage sectors other than civil may benefit from the application of rules - specifically modelled around those developed by the Authority for the aqueduct service - intended to incentivise performance improvement, identifying specific targets to limit waste in relation to the use of the water resource, and
+
+## Page 47
+
+consequent identification of required actions". Finally, the Authority identified the need, in consideration of the expiration of the Acquedotto Pugliese concession (31 December 2025), "to define in the near future a lasting operational structure, respecting, among other things, the regulatory provisions with regards to transfer procedures".
+
+#### **ELECTRICAL REGULATION**
+
+#### **Biennial limitation**
+
+Article 1, paragraphs 4-10 of the 2018 Budget Law, introduced a two-year limitation on electricity supply contracts, initially establishing that end users were not eligible for this in the case of the failed or erroneous recording of consumption data, attributable to users. Paragraph 295 of Article 1 of the 2020 Budget Law eliminated this specification, establishing that the biennial limitation was also applicable in the case of confirmed responsibility on the part of the customer, and introducing objective liability in respect of the electricity chain operator, and in particular, the distributor, in its capacity as metering service operator, even without any liability or inefficiency in terms of its service provision. With Resolution 184/2020/R/com, ARERA transposed the provisions of the 2020 Budget Law with reference to the case of exclusion from the biennial limitation in cases of failed or erroneous recording of the electricity metering data, arising from the confirmed responsibility of the end customer. On 27 July 2020, Areti and Acea Energia submitted an appeal to the Regional Administrative Court to have Resolution 184/2020/R/com cancelled. The appeal was accepted with the consequent cancellation of the resolution on the basis that the interpretation of the 2020 Budget Law had only referred to the duration of the limitation (two years instead of five years), without excluding the applicability of the general civil code regulations regarding limitation.
+
+With Resolution 603/2021, the Authority amended Resolution 569/2018/R/com on the billing of consumption dating back more than two years as a result of DCO 457/21, in order to comply with 14 June 2021 Rulings 1441, 1444 and 1449 of the Lombardy Regional Administrative Court. With this resolution, the Authority confirmed the distributor's obligation to notify the seller, via certified email (PEC) – contemporaneously with the metering or adjustment data referring to consumption dating back to a period more than two years back – the indication of the presumed existence or non-existence of causes hindering the accrual of the limitation period pursuant to the primary and general reference legislation. It also confirmed that the seller's information obligations vis-à-vis the end customer should be separated depending on whether or not there are any amounts on the invoice for which the limitation is contested. The Authority has also provided for a transitional phase, pending the implementation of the flows between the various entities in the chain and the IWT, which provides for the same information to be transmitted between the parties in a non-automated manner but with a defined time frame.
+
+Following on from DCO 386/2021, the Authority published Resolution **604/2021/R/com**, which provides for:
+
+- **•** an annual compensation mechanism for the greater protection operator or the dispatching user associated with a withdrawal point, making it possible also to recover in the successive annual session any amounts not recovered in the reference annual session;
+- **•** a mechanism to make distribution companies liable, whereby
+
+from 2023 all electricity distribution companies will be required to pay a penalty to CSEA each year for recalculations invoiced in the previous year due to non-collection of actual readings or adjustments of actual metering amounts previously utilised, for the portion prior to 24 months of the date on which the data was made available.
+
+Subsequently, with a precautionary ordinance, the Regional Administrative court suspended ARERA resolution 603/2021, limited to article 6.4 of the Annex to the same, that is the transitional regulations which require the distributor to respond within 7 days. With ordinance 4568/2022 of 13 October 2022, the Court of Bologna clarified that SME and large companies are excluded from the category of entities to which the biennial limitations apply for electricity and gas bills.
+
+Note that the Authority published resolution 86/2023/C/com with which it decided to appeal to the Council of State against the judgements issued by the Lombardy Regional Administrative Court with reference to the cancellation of communication requirements imposed on distributors in relation to the biennial statute of limitations on utility bills pursuant to articles 5 ("Distributor communication obligations") and 6.4 ("Transitional norms") of Annex A to resolution 603/2021 and article 9 of resolution 604/2021. The Authority believes there is good reason to appeal the referenced Lombardy Regional Administrative Court judgements given that these are based on an erroneous interpretation of the relevant events and laws.
+
+#### **Measures to limit bill price increases**
+
+Following the projects implemented throughout 2022 to limit the effects of price increases in gas/electricity commodities, in the 2023 Budget Law the government ordered, for the first quarter of 2023:
+
+- **•** the elimination of general system charges for the electricity sector for all domestic customers and for non-domestic customers with available power up to 16.5 kW and for gas, for all users (ARERA resolution 735/2022/R/com);
+- **•** extension of the reduced 5% VAT for administration of thermal energy produced with methane, in execution of an energy service contract;
+- **•** expansion of the electricity and gas social bonuses, enlarging the range of beneficiaries by raising the ISEE threshold for access to € 15,000 (from the previous 12,000, with the threshold for large families remaining at € 20,000) and adjusting the value of the contribution in consideration of the ISEE value, with the aim of guaranteeing greater savings for the households suffering the greatest difficulties, by maximising the resources available (ARERA resolutions 13/2023/R/com and 23/2023/R/com);
+
+The government also confirmed and strengthened the tax credit granted to non-energy intensive and non-gas intensive companies for spending on energy and gas during the first quarter of 2023, maintaining the requirement for the seller company to calculate the same if requested by the customer (ARERA resolution 76/2023/R/com).
+
+The same Budget Law also established for 2023 a temporary 50% "solidarity contribution" with respect to 2022 income that exceeds by at least 10% the average of total income achieved between 2018-2021. It also establishes that the amount of this contribution cannot exceed 25% of shareholders' equity as of the reporting date in the year prior to that in effect at 1 January 2022. This tax on extra profit applies to companies that generate at least 75% of their revenue from business in the sectors of production and resales of
+
+## Page 48
+
+energy, gas and petroleum products.
+
+Implementing that ordered in Decree Law 34/2023 (the Fifth Aid Decree), ARERA, in its subsequent resolution 134/2023/R/com, reactivated general system charges for all electricity customers, including domestic users, establishing the rates for the Asos and Arim tariff components at a level consistent with 2023 requirement forecasts for the relative management accounts. On the other hand, for the gas sector the elimination of system charges for all gas customers remained, but the value of the negative Ug2c element rate was reduced. Hence, in May 2023 this was at zero. ARERA also confirmed the reduction of VAT to 5% for management of heat, district heating and gas.
+
+Relative to the social bonus, for the period falling between 1 April and 30 June 2023, application of supplementary social bonuses was confirmed ( the "CCI" introduced in the last quarter of 2021), the amounts of which vary based on the different categories of social bonus recipients. Additionally, based on that established in the Decree Law of 30 March, from 1 April 2023 until 31 December 2023, the threshold for large families with 4 or more dependent children was raised to € 30,000 (implemented with resolution 194/2023/R/com).
+
+Also, with resolution 153/2023/R/com, ARERA implemented the provisions of the Prime Ministerial Decree of 15 March 2023, which called for a one time contribution per withdrawal point for those receiving a bonus for physical hardship as of 31 December 2022, for electricity supplies with power levels of 3.5 kW or greater and consumption in the average (between 600 and 1200 kWh) and maximum range (over 1200 kWh).
+
+The government also confirmed but reduced the tax credit granted to non-energy intensive and non-gas intensive companies for spending on energy and gas during the second quarter of 2023, maintaining the requirement for the seller company to calculate the same if requested by the customer (ARERA resolution 259/2023/R/com).
+
+For the third quarter of 2023, implementing that envisaged in Decree Law 79 of 28 June 2023 (Sixth Aid Decree), ARERA confirmed the projects for the previous quarter. In particular, with resolution 297/2023/R/com the strengthening of the social bonus for large families was confirmed, an action accompanied by those relative to gas, reducing general charges to zero and reducing VAT to 5%.
+
+The tax credit established for non-energy and non-gas intensive production activities was not confirmed.
+
+All the measures established in the third quarter 2023 were confirmed by ARERA for the final period of the year. In particular, with resolution 429/2023/R/com, as established in the Utility Bill/ Energy Decree Law, ARERA introduced a new extraordinary contribution to heating costs for October, November and December 2023. This extraordinary contribution, which rises with the number of family members, regards heating costs for the last quarter of 2023.
+
+#### **Provisions in favour of groups impacted by the exceptional weather events starting on 1 May 2023**
+
+Following the exceptional weather events in May 2023 in Emilia-Romagna, ARERA urgently arranged, with resolution 216/2023/R/com, suspension of payment for invoices issued or to be issued with due dates from 1 May 2023 on and consequently regulations for suspension due to arrears, also in the case of arrears occurring prior to the same date of 1 May 2023.
+
+With the subsequent resolution 267/2023/R/com, ARERA better specified that the period of suspension for users located in the impacted areas (annex 1 to Decree Law 61/23) is equal to 4 months, from 1 May 2023 to 31 August 2023, and called for automatic establishment of 12 instalment payments for these amounts.
+
+In support of sellers, ARERA established an advance mechanism for the amounts with suspended payment; this mechanism can only be accessed in the case of demonstrated financial problems, or if the suspension involves users that account for over 3% of total sales with reference to the first 4 months of 2023.
+
+With subsequent resolution 390/2023/R/com, ARERA called for the extension until 31 October 2023 of the suspension of the terms of payment in favour of those in Emilia-Romagna. In contrast to the previous suspension, automatically applied, to obtain the extension the end customer needed to make an explicit request.
+
+With resolution 565/2023/R/com (integrated with resolution 10/2024/R/com) ARERA governed tariff subsidies to apply to consumption subject to suspension; customers must ask their vendor to apply the subsidies by 30 June 2024.
+
+#### **Provisions in favour of groups impacted by the exceptional weather events starting on 2 November 2023**
+
+Following the exceptional weather events in Tuscany starting on 2 November 2023, with resolution 519/2023/com, ARERA ordered the suspension of the terms of payment for invoices issued or to be issued with a due date of 2 November 2023 or later, without application of the suspension due to arrears rules.
+
+#### **Instalment schedules for invoices**
+
+Implementing that established in the Fourth Aid Decree Law, the Ministry of Environment and Energy Security and the Ministry of Business and Made in Italy issued a Ministerial Decree on instalment schedules for utility bills. This allows companies to request instalment schedules for amounts due for the energy component of electricity and natural gas utilised for reasons other than thermoelectric, in excess of the average amount paid, with equal consumption, during the reference period from 1 January to 31 December 2021, for consumption between 1 October 2022 and 31 March 2023, and invoiced by 30 September 2023.
+
+#### **Suspension of unilateral changes**
+
+In the Thousand Extensions Decree Law, the government extended from 30 April 2023 to 30 June 2023 the deadline for applying the provisions of article 3 of Decree Law 115/2022, which suspends the efficacy of contractual clauses allowing companies that supply electricity and natural gas to unilaterally modify general contract conditions with reference to defining prices. The provision also specifies that this suspension does not apply to contractual clauses that allow the company supplying electricity or natural gas to update the economic conditions in the contract upon expiration of the same, in compliance with the terms for prior notification established in the contract, and without prejudice to the counterparty's right to withdrawal.
+
+## **Gradual protection service for micro-busi- nesses**
+
+The Authority, with Resolution **208/2022/R/eel** defined the regulation of the Gradual Protection Service (GPS) for micro-busi
+
+## Page 52
+
+#### **•** 1.72% in the Centre zone for 2023.
+
+A price control mechanism is introduced; this is to be used to determine the loss delta in each of the two years and, for only 2022, it provides for a guarantee clause to protect distributor companies which recognises an equalisation equal to the maximum between zero and the result that would be obtained using the conventional percentage loss factors applied for the three years 2019-2021, if the total economic result equal to the difference between the equalisation balance and the revenues obtained from the tariff regulation of the reactive energy pursuant to paragraph 24.2 of the TIT is positive (net debt position).
+
+The Authority also extends the mechanism for recognising "non-recoverable" fraudulent withdrawals also to the years 2022 and 2023. The conventional percentage standard loss factor to be applied to the electricity withdrawn at the withdrawal points on the low voltage grids is finally set, starting from 1 January 2023, at 10%.
+
+With resolution **336/2023/R/eel**, the Authority began the procedure to reform the electricity and network loss settlement regulations, followed by the consultation document **377/2023/R/eel** with reference to the reform of the settlement and network loss regulations, containing the Authority's guidelines on moving beyond the load profiling regulations and "residual" electricity supply methods, with the deadline for submitting comments set for 25 September 2023. The consultation document outlines the following scenario:
+
+- **•** by 31 July 2024, the regulatory framework for the new settlement and network loss rules will be established, pursuing the following objectives:
+	- going beyond the current load profiling methods and redefining the methods to determine and obtain "residual" energy;
+	- unifying metering data functional to the settlement and regulating of network losses and simplifying disclosure obligations;
+	- revising the current loss equalisation mechanism with a view to defining regulations which better adhere to the actual performance of individual companies;
+	- prompt determination and assessment of physical and economic items for dispatching, with a consequent reduction in financial charges borne by various system actors and guarantees.
+- **•** by 31 December 2025, the schedule and methods for integrating that envisaged in the new regulations with the IWS are expected to be determined.
+
+#### **Continuity of the service**
+
+With the Integrated Text on output-based regulation in force from 1 January 2020, the Authority introduced the possibility for the DSOs to present regulatory experiments to improve the service quality in particularly critical contexts. A specific feature of these experiments is the suspension of the penalties for the experimental period and their non-retroactive application if the target levels for the indicators of number and duration of interruptions without notice, set by the current regulations, are achieved.
+
+In this context, *a*reti presented its proposal, outlining a process for improving the technical quality indicators different from that defined by the ordinary regulation. This proposal was approved by the Authority with Determination 20/2020 of 20 November 2020.
+
+The measure postpones to 2024 the calculation of the bonuses and penalties for the entire four-year period 2020-2023 and provides for the activation of an additional bonus mechanism if the target proposed at 2023 is achieved and the effective annual levels achieved are better than those proposed in the experimentation. The total bonus obtained cannot be more than that achievable in the ordinary regulation and in the case that the improvement commitment indicated is not achieved, *a*reti will have to pay any penalties it would have received during the four year period in the absence of the derogation.
+
+## **Energy efficiency certificates and tariff con- tribution awarded to distributors**
+
+On 14 July 2020, Resolution 270/2020/R/efr was published; this contained the new rules for defining the tariff contribution to cover the costs incurred by DSOs with regard to obligations arising from the mechanism of energy efficiency certificates. The measure confirms the value of the cap on the tariff contribution of € 250/ EEC and introduces, starting from the current obligation year, a consideration additional to this contribution, to be awarded to each distributor for each EEC used to comply with its obligations. On the one hand, ARERA repeats that it considers the cap an instrument necessary to limit the changes in market prices, on the other, it considers opportune to provide for an additional consideration in support of distributors in the light of the economic losses that they are forced to incur owing to the scarcity of EECs available. On 13 October 2020 the Company presented an appeal for cancellation of the resolution.
+
+The resolution, in addition, introduced the possibility of requesting from CSEA the extraordinary consideration in advance of 18% of the specific target for the 2019 obligation year, in order to finance distributors which having already acquired EECs at the beginning of the period, then suffered the negative effects of the extensions of the end date of the obligation year laid down in the Italian Relaunch Law Decree (30 November 2020). Areti submitted an application on 31 August 2020.
+
+In December 2020, Resolution 550/2020/R/efr confirmed the value of 250 €/EEC for the tariff contribution awarded for the 2019 obligation year and fixed at 4.49 €/EEC the value of the additional consideration.
+
+On 31 May 2021, the Decree of the Ministry for the Ecological Transition was published in the Official Gazette, containing the "Determination of national energy saving targets that could be pursued by electricity and gas distribution companies for 2021-2024 (so-called white certificates)". The Decree extended the expiry of the obligation year 2020 to 16 July 2021, and the Authority subsequently published Determination 6/2021-DMRT, whereby it determined the primary energy saving obligations for electricity and natural gas distributors for the obligation year 2020, setting Areti an obligation of 54,848 white certificates.
+
+On 3 August 2021, the Authority issued Resolution **358/2021/R/ efr**, with which it confirmed the cap at 250 €/EEC and the additional unit fee at 10 €/EEC. In view of the extension of the deadline for the 2020 obligation year to 16 July 2021 and the regulatory uncertainty still existing in the run up to this deadline, the Authority published Resolution **547/2021/R/efr** in which it confirmed its intentions stated in DCO **359/2021/R/efr**. In particular, the Authority established that electricity and natural gas distributors will be granted an exceptional additional component of 7.26 €/EEC for each certificate delivered at the end of the 2020 obligation year, applicable to their own specific target for that obligation year and to any remaining portions of the targets for the 2018 and 2019 obligation years, but not beyond the threshold of their own updated specific target. The exceptional component was envisaged to cover the extra costs incurred by operators for the difficulties in procuring the EEC needed for the upcoming target deadlines. The Authority
+
+## Page 53
+
+published determination **16/2021 – DMRT** with which it defined the 2021 EEC obligation for the Company, totalling 16,580 EECs, as well as determination **7/2022 – DMRT** which defines the 2022 EEC obligation, totalling 27,881 EECs.
+
+With resolution 454/2023/R/efr, following DCO 382/2023**,** the Authority increased the single tariff contribution paid as an advance to distributors meeting their energy saving requirements in the context of the TEE mechanism and revised the maximum percentages of the obligations which can be complied with in the said session.
+
+In particular, for each obligation year (t) the single tariff contribution is paid in advance for each energy efficiency certificate received in the period between the start of the obligation year and the subsequent 30 November for quantities not to exceed:
+
+**•** 50% of the relevant specific target for the same obligation year (t);
+
+**•** 100% of each of any residual portions of the target for the obligation year (t-2) and the relevant target for obligation year (t-1) The single tariff contribution paid in advance is equal, for each obligation year (t), to:
+
+- **•** the sum of the single tariff contribution and the additional single payment for obligation year (t-1), relative to a quantity of certificates not to exceed 50% of the obligation assigned to each company for the same obligation year (t);
+- **•** € 240.00/TEE relative to the amount of excess certificates.
+
+CSEA pays the contribution in advance to the DSO within 60 days of the completion of GSE verifications, with interest for each day of delay equal to the reference rate set by the European Central Bank, with a minimum of 0.5%.
+
+#### **Development and Resilience Plan**
+
+In the Development Plan, distributors are held to include a specific section containing the resilience plan, which includes network projects intended to increase the resilience of the electrical system with respect to severe and persistent weather events.
+
+The Resilience Plan 2020-2022 was approved with **resolution 500/2020/R/eel**, including the final figures for projects completed in 2019: for these projects, with resolution **563/2020/R/eel** the Company was recognised a bonus of around € 3.1 million.
+
+With resolution **536/2021** the Authority approved the 2021-2023 plan and with resolution **537/2021/R/EEL** determined the bonuses and penalties relating to the electricity distribution network resilience increase interventions concluded in 2020 (for *a*reti, the 2020 resilience bonus adds up to € 5.3 million, which CSEA paid to the Company at he end of 2021).
+
+The Authority has published **121/2022/R/eel** which calls for a new process to prepare development plans. In particular, for 2022 it suspends the 30 June deadline set for the preparation of distribution network development plans, while awaiting subsequent definition of more suitable scheduling, to take into account the new provisions introduced in article 23, paragraph 5 of Legislative Decree 210/21 and to allow for plan preparation to duly take into account the scenario information that will be made available by Snam and Terna by 31 July 2022. The deadline of 30 June was confirmed for sending the updated Resilience Plan pursuant to article 78.3 of the TIQF.
+
+The Authority published **resolution 722/2022/R/eel** in which it established bonuses relative to projects to improve the resilience of the electricity distribution network completed in 2021, which for areti amounted to € 8,588,073.13, which CSEA must pay by January 2023.
+
+Distributors with at least 100,000 withdrawal points present the Development Plan for their network annually by 30 June.
+
+After the suspension of this requirement for 2022, the Authority
+
+developed the idea of an evolution in the content of the Development Plans, also implementing the EU guidelines on promoting renewable energy. Therefore, it published consultation document **173/2023/R/eel** which outlines guidelines to identify performance priorities and indicators for more selective development of investments in electricity distribution networks and for the progressive introduction of provisions for the consultation and preparation of distribution network development plans.
+
+With DCO 173/2023, postponing the due date for the presentation of the Development Plans, the Authority proposed new content and methodology for the preparation of the 2023 Plans to the distributors.
+
+Subsequently, the Authority published **resolution 296/2023** in which it defined the schedule for the preparation and public consultation of distribution network development plans, as well as introducing certain initial requirements for preparation of the same, while awaiting additional provisions. In particular, distributors with more than 100,000 end customers must present the Authority with a 2023 development plan by 30 September, simultaneously beginning a public consultation period of at least 30 days, as areti did on 2/9/2023, publishing the document on its website. Following the consultation, each distribution company will present its development plan to the Authority by 30 November 2023, possibly updated based on that resulting from the consultation, together with the comments received and their responses, indicating any changes made. Starting in 2025, each distribution company with at least 100,000 end customers will present the scheme of their development plan to the Authority by 31 March of each odd year, at the same time each distribution company with at least 100,000 end customers will begin a public consultation on the same scheme, lasting at least 42 days. Following the consultation, each distribution company with at least 100,000 end customers will present its development plan to the Authority by 30 June of each odd year, possibly updated based on that resulting from the consultation, together with the comments received and their responses, indicating any changes made.
+
+The Authority published resolution **422/2023**, which establishes the bonuses for projects to improve the resilience of the electricity distribution network completed in 2022. The net amount of the resilience bonus for 2022 that CSEA will pay to Acea Group by October 2023 is € 5,635,481.55.
+
+The Authority published consultation document 173/2023, which illustrates the Authority's guidelines on identifying priorities and performance indicators for more selective development of investments in electricity distribution networks and the progressive introduction of provisions for the consultation and preparation of distribution network development plans.
+
+#### **Transmission, distribution and dispatching of electricity withdrawn for subsequent feeding into the grid**
+
+The Authority published Resolution 109/2021/R/eel - which follows up on Consultation Document 345/2019 - in which it defines the procedures for providing the transmission, distribution and dispatching service in the case of electricity withdrawn for consumption relating to ancillary generation services, and in the case of electricity withdrawn and subsequently fed back into the grid from the storage system. The priority objective of the resolution is to standardise regulations for the transmission, distribution dispatching services for electricity withdrawn for subsequent feeding back into the grid and extend the aforementioned regulation to more complex
+
+## Page 54
+
+cases, where the withdrawal of electricity via the same connection point is not only intended for storage systems and/or ancillary generation services, but also additional loads separate to these. The resolution stipulated that as from 1 January 2022 on request of the producer, electricity withdrawn for the subsequent feeding into the grid will be handled as negative electricity fed in for the purposes of accessing transport, distribution and dispatching services.
+
+ARERA published Resolution 560/2021/R/EEL with which it postponed to 1 January 2023, rather than 1 January 2022, application of the rules on transmission, distribution and dispatching services for electrochemical storage pursuant to Resolution 109/2021/R/ EEL, after presentation of the relative application by the producer or entity requesting connection to the network operator, based on the model established in resolution DMEA 5/2022.
+
+The Authority published resolution 472/22, supplementing the regulation introduced by resolution 109/21 on auxiliary services and storage systems, defining its guidelines on:
+
+- **•** determining penalties in cases in which 110% of the power declared in the certified appraisal for auxiliary services and/or storage systems is exceeded;
+- **•** redetermining the duration of the time interval to quantify electricity withdrawn, functional to allowing subsequent issuing to the network using a division ratio;
+- **•** defining the procedure to replace metering equipment for hourly registration of electricity metering data.
+
+The Authority published resolution 142/2023/R/eel which updates the TIS and TIME so that vendors, on one hand, and distributing companies and Terna, on the other, can properly value electricity withdrawn from system configurations that access the new regulations introduced with resolution 109/2021/R/eel. To that end, with this resolution the Authority governed methods used to send data about electricity withdrawn to power auxiliary generation services and electricity withdrawn and subsequently re-issued to the network by storage systems and net energy withdrawn.
+
+#### **Collective self-consumption and Renewable Energy Communities**
+
+In November 2016, the European Commission presented the "Clean Energy for all Europeans Package" (CEP), to contribute to achieving the commitments undertaken by the EU in the Paris Accords. The proposal led to the adoption of eight legislative acts, between 2018 and the first half of 2019, with which the European Union reformed its energy policy framework. Of particular significance were Directives 2018/2001 (which introduced the "Renewable Energy Communities") and 944/2019 (which defined the "Citizen Energy Communities"); domestic implementation began with article 42-bis of Decree Law 162 of 2019, the "Thousand Extensions", converted by Law 8/2020 (published in OJ 51 of 29 February 2020) which implemented in advance Directive 2018/2001, allowing electricity consumers to band together to create "Renewable Energy Communities" (REC).
+
+The Authority published resolution 318/2020/R/eel implementing that established in article 42-bis of Decree Law 162 of 30 December 2019, on the regulation of economic items relative to electricity subject to collective self-consumption or sharing in the context of renewable energy communities. Subsequently, the Ministry of Economic Development published the Ministerial Decree of 16 September 2020 which established the incentive tariff remunerating plants powered by renewable sources inserted in the experimental configurations of collective self-consumption and renewable energy communities.
+
+Article 8 of Legislative Decree 199 of 2021 expanded the power
+
+of Renewable Energy Communities to 1 MW and established the updating of the incentive mechanisms for plants powered by renewable sources inserted in collective self-consumption or renewable energy community configurations with a power not exceeding 1 MW, based on the following guidelines:
+
+- a) the incentive can be accessed by plants powered by renewable sources which individually have power not exceeding 1 MW and which begin operating after the date on which the Decree took effect;
+- b) for self-consumers of renewable energy acting collectively and renewable energy communities, the incentive is paid only with reference to the portion of energy shared by plants and consumption users connected under the same primary substation;
+- c) the incentive is disbursed in the form of an incentive tariff allocated only to the portion of energy produced by the plan and shared within the configuration;
+- d) in cases pursuant to letter b) for which sharing is carried out utilising the public distribution network, a single adjustment is envisaged, consisting of the restitution of the components pursuant to article 32, paragraph 3, letter a), including the portion of shared energy, and the incentive pursuant to the present article.
+
+Article 14 of paragraph 6 of Legislative Decree 210 of 2021 defines the citizen energy communities, which must be established in compliance with the following conditions:
+
+- a) participation is voluntary and open to all interested parties, which may also withdraw from the community configuration with the same guarantees and rights established in article 7 of the decree;
+- b) community members or shareholders maintain all the rights and obligations associated with their position of civil customers or active customers;
+- c) communities can participate in sectors consisting of electricity generation, distribution, supply, consumption, aggregation, or storage, or the supply of energy efficiency services, electric vehicle charging services or other energy services;
+- d) the citizen energy community is a legal entity governed by private law which can take any legal form, without prejudice to the fact that its articles of association must identify as its main goal the pursuit, in favour of its members, shareholders or the area in which it operates, environmental, economic or social benefits at the community level, with financial profit not allowed as the main purpose of the community;
+- e) the community is responsible for dividing the electricity shared among its members.
+
+Following the publication of the **consultation document 390/2022/R/eel**, the Authority published **resolution 727/2022**, containing the Consolidated Widespread Self-Consumption Act (TIAD), which governs the methods for valuing widespread self-consumption for the configurations established in Legislative Decrees 199/21 and 210/21, the application of which takes effect on the latter of 1 March 2023 or the date on which the MASE decree pursuant to article 8 of Legislative Decree 199/21 (incentive regulation) takes effect.
+
+At the same time, as from the same date, resolution 318/2020/R/ eel and relative Annex A will be abrogated.
+
+With reference to the identification by the DSOs of the area associated with the same primary substation, article 10 of the TIAD establishes that solutions adopted to determine the perimeter must take into account:
+
+- a) the structure of the electricity networks;
+- b) the operating structures of the electricity networks;
+
+## Page 55
+
+- c) the prospective development of the electricity networks, to the extent known at the time of identification;
+- d) without prejudice to the constraint associated with the territory assigned to electricity distribution concession and other geographic aspects functional to making the conventional area identified usable.
+
+Therefore, ARERA confirms that the perimeter identified must temper the technical nature of the network underlying the primary substation and the conventional relative geographic perimeter to better respond, to the extent possible, the needs of the market.
+
+The first version of these maps must be published on the websites of the DSOs associated with the primary substations by 28 February 2023, with validity until 30 September 2023, and must also be submitted for consultation until 31 May 2023. The maps will be published on the GSE website by 30 September 2023, with methods defined by the GSE itself.
+
+The maps also:
+
+- **•** use as reference the supply address associated with each POD;
+- **•** are updated on a two-year basis, as from 1 October 2023;
+- **•** in the case of underlying DSOs, the area in concession is added in its entirety to the area underlying the primary substation to which the underlying distribution company's network is physically connected.
+
+Publication of the MASE decree is awaited, pursuant to article 8 of Legislative Decree 199/21 (incentive regulation).
+
+The GSE published a consultation document, with an expiration date of 19 June, to acquire elements useful for defining Operating Rules relative to the widespread self-consumption service defined by the Authority with resolution 727/2022/R/eel and the relative Consolidated Widespread Self-Consumption Act (TIAD). In particular, the aspects discussed in the consultation involve admission to the widespread self-consumption service, activation of the widespread self-consumption service and the disbursement of contributions for the widespread self-consumption service. Acea has not identified any particular issues with respect to the operating rules proposed by the GSE.
+
+## **Revision of the regulation for penalty procee- ding rules and assessment of commitments**
+
+With resolution 326/2023/E/com the Authority began a procedures to revise the regulation which governs penalty proceedings and procedural methods to assess commitments, followed by consultation document 327/2023/E/com which illustrates the guidelines on the subject.
+
+#### **Electric mobility**
+
+With resolution **541/2020/R/eel**, supplemented by Resolution 160/2021R/eel, the Authority launched national experimentation destined for LV customers, aimed at facilitating the installation of e-car rechargers in private areas.
+
+Acceptance is voluntary and free and access is subordinated to observance of a number of conditions:
+
+- a) the customer must be at LV with contractually committed power of not more than 4.5 kW and not less than 2 kW;
+- b) the POD must be fitted with a 1G o 2G remotely-managed meter. In this second case, any multi-hour bands set by the vendor must enable identification of the withdrawals made in night, weekend and holiday bands;
+- c) a recharging device must be electrically connected to the meter; this device must at least be capable of:
+- measuring and recording the active recharging power and transmitting this figure to an external subject (e.g. an aggregator);
+- reducing/increasing or reinstating the maximum recharging power.
+- d) customers must give their consent to checks and controls also in their homes and are required to communicate promptly any change to the system or contract that occurs during the experimentation.
+
+Application of the experiments, initially envisaged as from 1 July 2020 through 31 December 2023, was extended to 31 December 2024 with resolution 634/2023/R/eel, which represents the first result of consultation 540/2023/R/eel.
+
+## **ENVIRONMENTAL REGULATION**
+
+Following consultation document 351/2019, on 31 October 2019 ARERA approved Resolution 443/19 containing the first integrated waste management service tariff method 2018-2021.
+
+With reference to the WTM – Waste Tariff Method, the new rules define TARI fees to be applied to users in 2020-2021, the criteria for the costs recognised in the current two-year period 2018-2019 and the reporting obligations.
+
+As in other sectors subject to regulation, the new waste tariff method refers to ex-post data referring to certain accounting sources (financial statements) for the year Y-2 and applied to year Y (including indications of adjustments that permeate the entire algebraic structure of the method) and no longer to forecast data.
+
+The new ARERA method applies a hybrid approach, borrowed from other service regulations like electricity and gas, with a different treatment of capital costs and operating costs. Namely:
+
+- **•** Capital costs recognised according to a regulation scheme of the rate-of-return type;
+- **•** Operating costs with the application of incentive regulation schemes and the definition of efficiency targets on a multi-annual basis.
+
+Furthermore, as already anticipated in the consultations, the method calls for tariff limits to revenue growth in addition to the introduction of four different schemes that can be adopted by local authorities and operators with respect to the objectives of improving service. More specifically, the method regulates the phases of the integrated waste service as identified: street sweeping and washing, collection and transport, treatment and recovery, treatment and disposal of municipal waste, tariff management and user relations. In this first definition of the tariff method, ARERA maintained the algebraic structure of the method established by Italian Presidential Decree 158/1999, including tariff factors corresponding to additional components for the determination of the fees, some of which are as follows:
+
+- **•** limit to the overall growth of tariff revenues, with the introduction of a limit factor for annual variation that also takes into account efficiency gains and productivity recovery;
+- **•** an asymmetric approach that takes into account in the measurement and in the calculations of the single cost components: 1. Service improvement objectives established at the local level and 2. the possible extension of the operational perimeter; these parameters determine the positioning of the individual operation within a tariff matrix defined according to the regulatory method;
+- **•** sharing factor in relation to revenues from the sale of material
+
+## Page 56
+
+and energy from waste (between 0.3 and 0.6), and in relation to CONAI revenues (between 0.1 and 0.4);
+
+- **•** introduction of an adjustment component for both variable and fixed costs, defined as the difference between the revenues relating to the variable and/or fixed cost components for the year Y-2 – as redefined by the Authority – compared to the tariff revenues calculated for the year Y-2. In the recognition of 2018-2019 efficient costs, this component is modulated through a coefficient of gradation and provides for the payment for the recovery of any deviations through a number of instalments, up to 4;
+- **•** introduction of two different rates of return on net invested capital (WACC) for the service of the integrated waste cycle and a differentiated rate of return for the enhancement of current assets. Regarding the WACC of the integrated waste cycle for the period 2020-2021, it is defined as 6.3%. To this value is added a 1% increase to cover the costs arising from the time lag between the year of recognition of investments (Y-2) and the year of tariff recognition (Y), known as the time lag.
+
+In order to take account of the different initial territorial conditions, as previously with the water sector, the Regulator has introduced a methodology that defines the criteria for the quantification of tariffs within an asymmetrical regulation, where there are four different types of tariff schemes under which each competent entity can identify the most effective solution depending on its objectives of quality improvement and management development currently applicable to operators in the first part of the integrated waste service chain, in particular to the phases of sweeping and washing roads and collection and transport.
+
+The EFP (Economic and Financial Plan) remains the tool of reference for the development of the integrated cycle and for the calculation of TARI tariffs and is prepared by the "integrated waste system operator", where it is also the Municipality, while "the operators who manage parts of the supply chain make their data available to those who prepare the EFP for the correct elaboration of the entire Plan".
+
+With regard to the Integrated Text TITR - 444/2019/R/rif - Provisions on transparency in the management of urban and similar waste, it is specified that this text defines the provisions on transparency of the management of urban and similar waste for the regulatory period 1 April 2020-31 December 2023. The scope of the intervention includes the minimum information to be made available by the integrated cycle manager through websites, the minimum information to be included in collection documents (payment notice or bill) and individual communications to users concerning significant changes in operations.
+
+With Resolution **138/21**, ARERA started the procedure for updating the WTM (the "WTM-2"), which will be effective from 2022 and in which also establishes the methodology for defining the socalled "gate tariffs", which will have a direct impact on the operation of some of the Company's plants.
+
+With Determination **01/DRIF/2021**, the Authority began collecting data on treatment plants in the unseparated waste chain (D10 and R1 incinerators, mechanical/mechanical-biological treatment, and landfills). The Company duly responded within the required deadline.
+
+Consultation Document 196/21 was then published regarding gate tariffs, clarifying the regulatory scope envisaged by the Authority: ARERA is currently inclined towards including all the plants that manage urban waste, with the exception of those that are "connected with recycling chains, focused on materials recovery, managed by chain consortia (funded by contributions from member companies) or by other entities, and with whom municipalities may sign specific agreements to cover the charges incurred for separate waste collection.
+
+With resolution **363/2021/R/rif**, the Authority approved the new Waste Tariff Method (MTR-2) containing the method for determining tariff revenues for delivery of the integrated urban waste management service, or the individual services that constitute it (such as the recovery/disposal service, carried out directly by the Company), applicable to the years 2022-2025. In this context, criteria are established for access tariffs for treatment plants owned by by operators not integrated into the upstream activities of the supply chain, which apply solely to those identified as "minimum plants" by the relevant entities in the context of area planning. Vice versa, plants not classified as "minimum" (known as "additional") are subject solely to the regulations on transparency in operating information. According to the adopted method, the managers of the minimum plants must prepare the Economic Financial Plan for 2022-2025 in line with the indications found in the aforementioned MTR-2 and, pursuant to article 7 of resolution 363/2021/R/ rif, send them to the relevant bodies for validation; these latter then send them to ARERA for verification of regulatory consistency with the documents and subsequent approval of the tariffs.
+
+Resolution **459/2021/R/rif** subsequently completed the tariff regulatory framework, containing the values of parameters to determine capital use costs (i.e. planned inflation rate and the vector expressing the deflator for gross fixed investments for the MTR-2 period of application), as well as resolution **68/2022/R/rif** which established, for managers providing processing activities in a non-integrated form, a WACC value of 6%.
+
+With determination **01/DRIF/2022** of 22 April 2022, ARERA approved the basic schemes for the documents making up the tariff proposal that managers of "minimum" plants submit to the relevant bodies, consisting of the GBOTAs or the Region. In particular, reference is made to the EFP and the Report accompanying the same. In 2022, following the sector scheduling documents published by the relevant bodies, in application of the ARERA regulations pursuant to resolution 363/2021/R/rif, Acea Ambiente implemented preparatory activities to comply with regulatory activities for plants classified as "minimum" and, subsequently, sent the documents required under Determination 01/DRIF/2022.
+
+Also note other activities carried out by ARERA:
+
+- **•** with consultation document **611/2022/R/rif** the introduction of equalisation systems was proposed in the waste sector, in particular associated with respect for the waste hierarchy (and recovery of accidentally fished waste); with this mechanism, which is pass-through for plant managers, an economic incentive would be applied for deliveries with respect to recovery of materials or energies, supported by penalties applied to deliveries to landfills;
+- **•** with Resolution **413/2022/R/rif** a proceeding was launched, also envisaged in the 2022 Competition Law, to define adequate technical and quality standards to carry out disposal and recovery activities. Subsequently, with Resolution 732/2022/R/ rif, the proceeding was combined with the one launched with Resolution 364/2021/R/rif (to determine efficient costs for separate waste collection, transport, sorting and other preliminary operations) and extended to 30 June 2023;
+- **•** with consultation document 643/2022/R/rif, published as part of the procedure began with resolution 362/2020/R/rif, the initial guidelines were issued for the preparation of a basic service contract scheme to govern relations between awarding entities and managers of urban waste management services.
+
+On 24 and 27 February, decisions **486/2023** and **501/2023** were
+
+## Page 57
+
+respectively published, and on 6 March 2023, decision **557/2023**, with which the Regional Administrative Court of Lombardy, Milan, First Section, in part annulled resolution 363/2021/R/rif. Specifically, the Regional Administrative Court found that ARERA's identification of "minimum" plants fell outside of the government's area of responsibility, consequently granting Regions powers not due to them and inverting the proper direction of the scheduling process. On 7 March 2023, ARERA published resolution **91/2023/C/rif** providing information on its appeal made to the Council of State, requesting precautionary suspension of the decisions of the Regional Administrative Court of Lombardy, in that in the Authority's opinion, "*the referenced decisions [...] are based on an erroneous interpretation of the relevant factual and legal elements*". The Council of State rejected this precautionary suspension request.
+
+While awaiting the Council of State's decision on the merits, with consultation document **275/2023/R/rif**, in the context of the procedure begun with resolution 62/2023/R/rif, the Authority provided guidance for the 2024-2025 two-year update for the waste tariff method (MTR-2). In particular, the Authority confirmed its desire to not submit to the referenced Lombardy Regional Administrative Court decisions and proposed updates to the main economic parameters, above all the inflation rate.
+
+Upon completion of the aforementioned procedures, in July 2023 ARERA published the following provisions:
+
+- **•** Resolution **385/2023/R/rif** "Basic service contract scheme to govern relations between awarding entities and urban waste management service operators" which follows (most recently) the guidelines presented with the cited DCO 262/2023/R/rif;
+- **•** Resolution **386/2023/R/rif** "Establishment of equalisation systems in the urban waste sector" which takes up the proposals formulated in DCO 611/2022/R/rif without confirming the introduction of the equalisation instrument linked to the waste hierarchy for that going to plans (postponed to the next regulatory period);
+- **•** Resolution **387/2023/R/rif** "Monitoring and transparency obligations for efficiency in separated waste and urban waste treatment plants", which introduced initial regulations for quality for plants, with reference to both technical aspects (in particular management of processing waste) and contractual/commercial aspects (management of complaints and written requests from users, monitoring of service interruptions) with respect to which the Company adopted specific compliance measures in terms of collecting and recording information and making adjustments to contracts and its website; while establishing initial monitoring and reporting obligations, the provision did not introduce service standards correlated to bonus and penalty mechanisms, which had been announced in DCO 214/2023/R/rif;
+- **•** Resolution **389/2023/R/rif** "Two year update (2024-2025) of the waste tariff method (MTR-2)" with which, in line with the proposals in DCO 275/2023/R/rif, confirms and updates (with particular reference to economic parameters and internal inflation rates) the general structure for defining plant access tariffs pursuant to resolution 363/2021/R/rif, specifically the update of the tariff for 2024-2025 (based on updated data relative to 2022-2023) by 30 April 2024. With resolution 465/2023/R/ rif ARERA subsequently confirmed the provisions inserted in line with Council of State ruling 7196/23, on the deduction of the tariff recognised for integrated management of costs/revenue attributable to precleaning, preselection or preprocessing of plastic packaging coming from separated waste.
+
+During December 2023, the **Council of State Second Section Rulings 10548, 10550, 10734, and 10775,** rejected the ARERA appeal and confirming the reasoning already expressed by the Regional Administrative Court of Lombardy, which found the classification of plants envisaged in the MTR-2 to be illegitimate, in that the ma-
+
+terial fell under the areas of planning falling to the government. With resolution **7/2024/R/rif** ARERA took action to comply with these rulings, cancelling the tariff adjustment for "minimum" plants for 2022-2023 but at the same time confirming it for 2024-2025 (as updated by resolutions 389/2023/R/rif and 7/2024/R/rif with reference to time references and the new investment remuneration rate - WACC - which rose from 6% to 6.6%). Confirmation of the structure for "minimum" plants now is based on the criteria identified in the meantime in the PNGR (Ministerial Decree 257 of 24 June 2022). Additionally, with resolution **27/2024/R/rif** ARERA began the procedure to define directives for accounting and administrative separation in the urban waste sector, with the objective of applying the regulations starting in the next regulatory period, in 2026.
+
+As far as the publication of the four European directives is concerned, they provide for amendments to six European directives on waste, namely:
+
+- **•** Directive 2018/851/EU, amending the so-called mother directive on waste 2008/98/EC;
+- **•** Directive 2018/850/EU, amending the landfill directive 1999/31/EC;
+- **•** Directive 2018/852/EU, amending the packaging directive 94/62/EC;
+- **•** Directive 2018/849/EU, amending the directive on end-of-life vehicles 2000/53/EC, the directive on batteries and storage 2006/66/EC and the directive on waste electrical and electronic equipment, the so-called WEEE 2012/19/EU.
+
+In short, the primary new development that these measures bring to environmental legislation concerns the percentages of separate collection to be achieved in the coming years, in particular up to 2035 (though establishing intermediate steps from 2020 to 2030 and from 2030 to 2035), namely:
+
+- **•** urban solid waste: the target is to recycle at least 65% by 2035, with intermediate stages of 55% by 2025 and 60% by 2030;
+- **•** packaging: the goal is to recycle at least 65% by 2025 and 70% by 2030;
+- **•** landfills: the objective is to limit the entry of waste into landfills to a maximum of 10% by 2035. To this end, Member States must endeavour to ensure that by 2030 all waste suitable for recovery or recycling – in particular municipal waste – is not landfilled, with the exception of waste for which landfilling is the best environmental option. On the subject of landfills, the introduction of article 15-ter to the 1999 directive established that the Commission shall adopt implementing acts to determine the method to be used to determine the permeability coefficient of landfills locally and throughout the area. And the introduction of article 15-quater confers on the Commission the task of adopting implementing acts to develop a criterion for waste sampling (until the concrete enactment of this new method, Member States use the national systems currently in place);
+- **•** separate collection of household waste: important changes are foreseen for the separate collection of household waste, such as textile waste, organic waste and hazardous household waste, not always collected separately at this time;
+- **•** waste prevention measures: the directives state explicitly that Member States must take a series of measures to prevent the production of waste upstream, such as domestic composting and the use of materials obtained from organic waste, to encourage the production and marketing of goods and components
+
+## Page 58
+
+suitable for multiple use, and to provide financial incentives to encourage such virtuous behaviour;
+
+- **•** these targets may be revised in 2024 (especially in view of the fact that they are considered excessively ambitious for some States that, for example, currently frequently use landfills). In this sense, the legislature therefore stated that, recognising the significant differences in treatment between different States, it will be possible to grant an extension up to a maximum of 5 years for States that in 2013 prepared for reuse and recycled less than 20% of urban waste or landfilled more than 60% of urban waste);
+- **•** in compliance with the above European Delegation Act, the following acts have been approved: Legislative Decree 116/2020 on waste and packaging, Legislative Decree 118/2020 on waste batteries and accumulators (RPA) and waste electrical and electronic equipment (WEEE), Legislative Decree 119/2020 on end-of-life vehicles and Legislative Decree 121/2020 on landfills.
+
+Finally, the rewording of article 6 of Directive 98/2008/EC on the cessation of the qualification of waste (End of Waste) deserves a brief comment. In particular, with the new amending resolution, the European law requires Member States to take appropriate measures to ensure that where a substance or article meets the requirements for End of Waste it cannot be classified as waste.
+
+More specifically, having regard to the competence of the European Commission to define the general criteria for the uniform application of End of Waste conditions, it is established that if the latter does not do so for certain types of waste, Member States may establish detailed EoW criteria for certain types of waste that must take into account all the substance's or object's possible adverse effects on the environment and human health and meet the EoW requirements of the directive. Such decisions must be notified to the Commission by the Member State.
+
+Moreover, the same resolution also states that Member States may decide on a case-by-case basis or take appropriate measures to verify that certain wastes have ceased to be such under the conditions set out in the directive, where necessary reflecting the EU EoW criteria and taking into account limit values for pollutants and all possible adverse effects on the environment and human health. Such decisions taken on a case-by-case basis need not be notified to the Commission.
+
+Finally, on the subject of EoW, note the amendment approved on 6 June 2019 and included in the Reopen Building Sites Decree (Decree Law 32/2019, converted with Law 1248). In particular, the rule establishes that pending the adoption of one or more decrees containing the EoW criteria for specific types of waste, ordinary permits for waste recovery plants must be granted on the basis of the criteria indicated in the measures governing simplified waste recovery (Ministerial Decree 5 February 1998, Ministerial Decree 161/2002 and Ministerial Decree 269/2005) "for the parameters indicated therein, for the parameters relating to the type, origin and characteristics of waste, recovery activity and characteristics of what is obtained from these activities". Ordinary permits must, on the other hand, identify the necessary conditions and requirements "regarding the quantities of waste admissible to the facility and to be subjected to recovery operations".
+
+The Ministry of the Environment (now the Ministry for the Ecological Transition) is authorised to issue specific guidelines "by decree not of a regulatory nature" for the uniform application of the regulations throughout the country.
+
+With Ministerial Decree 257 of 24 June 2022, the National Waste Management Programme (PNGR) was approved, a guidance tool for the Regions and Autonomous Provinces when planning urban waste, which establishes macro-objectives, macro-actions, targets and guidelines to follow when preparing Regional Waste Management Programmes (PRGR). This tool was envisaged in article 198-bis of Legislative Decree 152 of 3 April 2005, introduced by Legislative Decree 116 of 3 September 2020 and inserted in the National Recovery and Resilience Plan (NRRP), as one of the main reforms within the circular economy mission (M2C1).
+
+The PNGR has a six year timeframe (2022-2028) and the objective of eliminating the plant gap, increasing the rate of separated waste collected and recycling to develop new supply chains for secondary raw materials in the waste cycle, replacing traditional ones, while contributing to the energy transition, starting from a national survey of existing plants. Additionally, the Programme classifies plants for the purposes of tariff regulation using ARERA methodology, indicating the need to adopt Life Cycle Assessment (LCA) based plans at the regional level.
+
+#### **SCENARIO OF REFERENCE FOR ESG (ENVIRONMENTAL, SOCIAL, GOVERNANCE) ASPECTS**
+
+#### **Sustainable development**
+
+The war in progress in Ukraine has once again demonstrated the interconnectedness of the global situation, with effects felt throughout the world. In the energy arena, as is well known, extreme consequences were seen due to the block in supplies, which provided a push to reopen plants utilising polluting energy sources. The European Union reacted with the REPower EU plan, with the aim of reducing dependence on fossil fuels coming from overseas and accelerating the green transition.
+
+In terms of climate, data from the EU Copernicus observatory saw extreme climate events, record temperatures and rising greenhouse gases globally. In Europe, continuing high temperatures aggravated water issues, with repercussions for agriculture, river transport and energy management. Extreme drought conditions also led to an increased risk of fires, which led to an unusually high number of episodes in southwest Europe.
+
+The global and national institutional initiatives implemented should be viewed and evaluated in this context. COP27 on the climate, held in Egypt, and COP15 on biodiversity, in Montreal, had objectives which included expanded protected areas and regenerating damaged ecosystems (30% by 2030). Domestically, note the constitutional reform of articles 9 and 41 and the National Climate Change Adaptation Plan.
+
+Last year, Europe adopted certain specifications and significant provisions with regards to corporate sustainability. The Corporate Sustainability Reporting Directive, was in fact published in the EU Official Journal, an update of the Non-Financial Reporting Directive of 2014, which expands the range of companies subject to reporting requirements and introducing significant changes, for example double materiality, preparation of new standards and the inclusion of a disclosure in the Report on Operations. Institutional work on the Directive continued relative to corporate due diligence requirements on environmental protection and human rights within the value chain, which in December 2022 led the EU Council to adopt guidelines on the subject. In the context of Regulation 2020/852 ( European Taxonomy), in 2022 the Commission, in the Complementary Delegated Act, amended the Delegated Act on the Climate, introducing activities and associated technical crite
+
+## Page 59
+
+ria for energy generation, starting with nuclear and natural gas, and increasing the number of potentially environmentally sustainable activities in relation to which companies are asked to determine their eligibility and alignment, as well as identifying correlated economic KPI.
+
+realisation of the same. The Code will apply to new proceedings starting on 1 April 2023. From 1 July 2023, abrogation of the previous Code is envisaged (Legislative Decree 50 of 18 April 2016) and application of the new norms, also for proceedings in progress.
+
+#### **Standards in the reference markets at a local, national and supra-national level**
+
+The regulatory context of the Acea Group is wide-ranging and articulated according to the specificity of the businesses handled and the variety of the frameworks within which the legal and regulatory disciplines intervene, which affect the business operations, from administrative authorisation profiles to those protecting the market and competition. Added to such aspects are the specific features of being a listed Company, with the related legal impacts, for example, in terms of regulating communications to the market.
+
+The various provisions (Decree Law 21/2022 - "Price Cuts Decree Law"; Decree Law 50/2022 "Aid Decree Law"; 2023 Budget Law) thereby governed the solidarity contributions mechanism borne by entities in the energy sector to limit the effects of high prices for businesses and consumers are also framed in this way.
+
+Also associated with the extraordinary energy situation and significant for its impacts on energy companies, are the provisions on excess profits and suspension of unilateral changes to electricity and gas supply contracts. Relative to the former, Decree Law 4/2022, "Supports-ter Decree Law" established compensation mechanisms for producers using renewable sources which, under certain conditions, can lead to excess profits to be paid to the GSE; relative to the latter, Decree Law 115/2022, "Aid-bis Decree Law" called for companies to halt unilateral changes to energy supply contracts with regards to definition of prices, and the subsequent Decree Law 198/2022, "Thousand Extensions Decree Law" extended the period of validity (30 June), excluding application for expiring contracts. In 2022, consultation for implementation of Directive (EU) 2020/2184 was requested, on the quality of water destined for human consumption, following which the Council of Ministers in December approved the preliminary examination the Legislative Decree for implementation. Important changes include the revision of regulations intended to protect human health from negative effects deriving from contamination of water intended for human consumption, guaranteeing "health and cleanliness", also through revision of the relevant parameters and values, definition of hygiene requirements for materials coming into contact with potable water, the introduction of a risk measurement and management approach that is more effective in terms of preventive health, environmental protection and control over water intended for human consumption, also with regard to costs and allocation of resources, strengthening the role of the Water Safety Plans (WSP), and improvement
+
+of equitable access for all to safe potable water and public information on water intended for human consumption.
+
+In 2022, the delegated law on restructuring regulations for local public services was implemented with Legislative Decree 201/2022, which restructured the regulations, included among the objectives of the National Recovery and Resilience Plan (NRRP), to promote competitive dynamics that help improve the quality of public services and the results of management in the interest of citizens and users.
+
+Also worthy of note is the preliminary approval on 16 December 2022 by the Council of Ministers of the Legislative Decree scheme to renew the Public Contract Code, intended to simplify regulations relative to public tenders and concessions to ensure efficient
+
+#### **Environmental and energy impacts**
+
+The natural environment is the scenario where the activities of the Group are performed and is to be preserved with a responsible and efficient use of resources, protecting sources, safeguarding the natural areas where the plants and service networks encroach, mitigating the physical and the external impacts generated in the ecological context of the operating processes.
+
+During 2023, the COP28, held in Dubai, hosted the first global stocktaking, an opportunity to assess the joint effect of Nationally Determined Contributions (NDC). In this context, the parties defined an agreement to accelerate the global transition, promoting the "transition away" formula, and including for the first time in history an explicit reference to moving beyond fossil fuels to reach climate neutrality by 2050 and agreeing to triple the amount of renewable energy and double efforts for energy efficiency.
+
+2023 was a decisive year for future European environmental policies. The European Parliament also approved the Nature Restoration Law, the first European legislation that explicitly aims to restore nature with legally binding targets for member states. In October 2023, during the European Business & Nature Summit in Milan, companies, financial institutions, governments and representations from academia and civil society met to discuss how companies can respect the commitments in the Kunming Montreal Global Biodiversity Framework (GBF) adopted in 2022. The event also saw the launch of the European Business and Nature Charter.
+
+In 2023, the Taskforce on Nature-related Financial Disclosure (TNFD) issued its final document, containing recommendations on nature aimed at organisations, sectors and value chains.
+
+In its Code of Ethics the Acea Group assigns fundamental importance to principles linked to sustainability and the adoption of a climate strategy. In 2023, Acea received validation of its Science Based Targets Initiative (SBTi) for its emission reduction target (by 2032), in line with climate science indications. Also in 2023, the Group participated in the Carbon Disclosure Project (CDP) on climate altering gas emissions and published its second climate-related disclosure following the Recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), enriching its projects aimed at identifying risks and analysis of medium/long-term climate scenarios.
+
+In September 2023, Acea received validation of its reduction targets for 2032 for direct and indirect greenhouse gas from the Science Based Targets initiative (SBTi), with respect to base year 2020. The international organisation assessed Acea's goals in line with the "Well below 2°C" trajectory, the goal established in the 2015 Paris Accords to limit the increase in global temperature with respect to pre-industrial levels.
+
+This decision represents an important acknowledgement of the decarbonisation process begun by the Group to support the energy transition. The targets set are: 56% reduction in emissions per MWh of energy produced (scope 1), 32% reduction in indirect emissions, consequent to electricity use (scope 2), 56% reduction in that deriving from energy production and energy supplies and resales, and a 30% reduction in emissions due to gas distributed and sold to customers.
+
+## Page 60
+
+#### **Climate change**
+
+Sensitivity to the evolution of climate change and its effects on the businesses managed is a well-established theme at international level, which is also reflected in a greater demand for information in the annual financial report. Although there is no international accounting standard governing how the impacts of climate change are to be considered in the preparation of financial statements, the IASB has issued certain documents to support IFRS-adopters in meeting this stakeholder disclosure requirement. Similarly, ESMA, in its European Common Enforcement Priorities, highlighted that issuers should consider climate risks in the preparation of IFRS financial statements to the extent that they are significant regardless of whether or not these risks are explicitly provided for in the relevant accounting standards.
+
+The Acea Group describes its considerations on actions associated with mitigation of climate change effects, as well as adaptation to climate change in its non-financial statement (prepared in compliance with the GRI Standard which also includes the information called for under Regulation 2020/852 in relation to the two climate objectives mitigation and adaptation). In this context, considering the sectors of activity in which the Group operates through its investees, the Acea Group, in continuing to define updated future plans that are currently being developed and prepared, has identified certain risks arising from the current process of mitigation and adaptation.
+
+The following is a summary of the considerations made by management with reference to the aspects considered significant for the purposes of preparing the financial statements in the sectors of activity in which it operates.
+
+With reference to the short term, the management does not detect any significant specific impacts deriving from climate-related risks, to be considered in the application of the accounting standards. In all the relevant sectors of activity, the Group pursues excellence in service provision; this entails an ongoing commitment to the development of adequate infrastructures and the evolution of their management, with the application of technological innovation and digitalisation, as well as the preservation and protection of water resources, the development of electricity generation capacity from renewable sources, the energy efficiency of production processes, the pursuit of a circular economy approach and the implementation of controls on commodities supplied to customers.
+
+With reference to the medium/long term, the management, while continuing to define updated development plans which are currently being prepared, does not foresee any further specific considerations to be taken into account in the application of the accounting standards for the preparation of the financial statements.
+
+It should be noted that the assessment and, more specifically, the quantification of climate-related risks requires the application of climate scenario analyses — an activity that the Group has launched, publishing in June 2023 its *Acea Group Climate Disclosure 2022, based on the TCFD recommendations.* However, it is also exposed to assumptions about highly uncertain future developments, such as future technological developments, government actions, regulatory initiatives or even developments in international political balances.
+
+For the principal sectors in which the Group operates, actions to contain risks linked to climate change have been made concrete through investments in infrastructure to prevent and/or mitigate the impacts arising primarily from physical risks.
+
+Also note that in 2020-2021 the main companies in the Group began a process of identifying priority physical risks, to be analysed using climate scenarios developed for the areas in which the assets operated are located, with medium/long and long-term projections, including projections of possible variations of the potential associated economic impacts, in relation to the increased probability of extreme event occurrence (increase in frequency and duration). The priority physical risks identified are drought and water stress (mainly for water systems); extreme rainfall and flooding (mainly for power distribution networks); lightning strikes (mainly for power generation assets). To analyse physical risks, two scenarios developed by the Intergovernmental Panel on Climate Change (IPCC) were used. By way of example, the fully consolidated areti SpA assesses and quantifies the effects of climate change (heat waves/drought and flooding) on its assets and the mitigation projects to implement in the Resilience Plan approved by the Regulatory Authority For Energy, Networks and Environment (ARERA).
+
+Management has assessed that these investments do not reduce or modify the expectation of the economic benefits associated with the use of the assets recorded under tangible fixed assets, as they have regulatory relevance and are therefore subject to specific reimbursement mechanisms. Therefore, a critical review of the useful life of fixed assets on the balance sheet was not necessary.
+
+With specific reference to the sale of commodities, the Group monitors the useful life of the customer base and the related accounting assessments as a potential effect of reputational risk.
+
+With reference to the existence of risks of asset impairment, management has considered that, although actions to mitigate/adapt to climate risk entail the need to plan maintenance/evolution of plants in order to guarantee the quality of service, the safety of managed assets and the maintenance of their performance - these activities are in any case considered within the scope of the cash flow forecast used as the basis for determining value in use.
+
+More specifically, impacts were identified in terms of sensitivity analysis carried out on CGUs, companies and systems by developing the risk analysis, considering the main external variables indirectly impacted by climate change issues (such as the production price index, energy price index and gas price index), potentially able to impact the relevant economic variables (EBITDA).
+
+Finally, it is highlighted that legislation introduced in response to climate change could result in new obligations that did not previously exist.
+
+Trends in raw material purchase costs along with hedging derivatives require a careful policy of monitoring requirements and price hedging. Trends in the cost of commodities as a result of the effects of climate change could make certain sales contracts costly. In addition, the unavailability of commodities could make cash flow hedges from highly probable future transactions ineffective.
+
+Finally, with particular reference to regulated sectors, the presence of chronic physical risks could lead to a reduction in service quality resulting in liabilities for penalties. Specifically, extreme events such as floods can cause asset damage and service disruptions (equipment failures, blackouts, etc.) or, for the water network, overflowing of drains connected to wastewater systems and can cause turbidity of water springs. Such impacts may affect the provision of services in compliance with applicable laws and regulations, resulting in the risk of financial penalties. As indicated previously, also thanks to risk mitigation projects implemented, the potential economic/financial impacts associated with physical risks have been hypothesised as unchanged.
+
+#### **Geopolitical Situation**
+
+Economic trends were influenced by many factors, both geopolitical and economic: unresolved conflicts, still far
+
+## Page 61
+
+from a solution, with Russia/Ukraine at the head of the pack, as well as "new" conflicts, such as that between Israel and Hamas. At present, after the shocks of recent years, the global economy is nonetheless normalising, with most of the major imbalances evening out. 2023 saw a substantial loosening of tension on energy markets, given the gradual strengthening of downward trending fundamental: falling demand, mild winter and autumn temperatures and stocks consistently at historically high levels, as well as hydroelectric production and French nuclear availability recovering from the *annus horribilis* of 2022. Consequently, electricity and gas prices gradually fell until mid-year, converging at the levels seen in mid-2021 - the start of the energy crisis. The scars of this latest and changed global gas supply situation have made European markets very nervous and sensitive to the contingent international and geopolitical tensions that developed in the second half of the year, above all the outbreak of the Israel/Hamas conflict, which impeded further decreases. In its October 2023 World Economic Outlook, the International Monetary Fund predicted slowing global growth, with increasing regional differences and little room for economic policy errors.
+
+Despite the economic resilience seen at the beginning of the year, thanks to progress in reducing inflation with respect to the peaks of the last year, economic activity is still below pre-pandemic objectives, above all in emerging markets and developing economies. As causes of the slowdown, the report indicates the war in Ukraine, growing fragmentation of the economy and other more cyclical aspects such as anti-inflationary monetary policies, elimination of public aid and extreme climate events. Additionally, if the Israel/ Hamas conflict expands beyond the Gaza Strip, the consequences could be very serious also in economic terms, beyond the already existing humanitarian and political emergency. Moving on to commodities, during 2023 the Brent registered an average level of \$82.22/bbl, down -17% with respect to the previous year. The decrease in prices seen during the first six months of the year reversed course in the third quarter, with daily peaks in September and October 2023 that had not been seen for about a year. The main elements underlying the increase in the autumn can be found in Saudi Arabia and Russia's confirmation of production cuts through the first quarter of 2024 (-1.3 Mbbl/day) and in the outbreak of the Israel/Hamas conflict, in a strategic area for global crude trading, above all in the case Iran were to join the conflict. Further increasing tensions towards the end of the year were the continuous attacks on ships and containers in the Red Sea by the Houthi, a Yemen rebel group supported by Iran, to which the United States responded with military action. Around 12% of global commerce and 30% of all cargo ships globally pass through this area. Nonetheless, it should be noted that the global macroeconomic situation of economic slowdowns and weak demand continues to weigh down oil prices, for the moment preventing excessive upward movement. The fourth quarter saw an average price level of \$83.26/bbl, down -6% with respect to the fourth quarter of 2022, but up +5% with respect to the first nine months of 2023.
+
+It should be remembered that the ESMA Public Statement of 28 October 2022 deals precisely with the effects of the Russian invasion of Ukraine on 2022 financial statements prepared following the standard IAS34. The Statement therefore has the objective of providing to the administrative and control bodies of regulated companies a series of recommendations on the process of producing the accounting disclosure, with particular emphasis on the controls necessary to check for any impairment (*impairment tests*) of non-financial assets.
+
+The Statement stresses that the change of strategic, commercial
+
+and financial approach of companies following the conflict increased considerably the risk of significant impacts on the carrying amount of balance sheet assets and liabilities. The Statement therefore suggests reviewing and possibly updating the considerations made for the year-end financial statements, in particular the assumptions and the hypotheses on which the calculation of the prospective flows is based and the other elements that contribute to the estimate of the recoverable value.
+
+The ESMA then recalls that in order to assess the existence of possible indications of impairment of non-financial assets included in the scope of IAS 36 (Impairment Testing), it is necessary to consider all the information sources, of both an external and an internal nature, to assess whether the effects of the geopolitical situation represent possible indications of impairment of the said assets. The Statement also stresses that the considerable increase in the general level of uncertainty caused by the conflict requires a careful assessment (in the context of estimating the recoverable value using the Value in Use method) of the forecast financial data used. To this end, the ESMA believes that, according to the type of asset to be tested and the related level of risk, it may be necessary to develop multiple scenarios around the forecast data considered, supported by reasonable and realistic parameters and estimation inputs. Again in this sense, there must in any case be consistency between the forecast data used and the assumptions associated with the same for the value checks, and between the choices and strategic plans formulated by companies in response to geopolitical tensions.
+
+With reference to the discount rate used for the estimate of the recoverable value, the Statement stresses and recalls that the same must reflect the current market conditions and the specific risk characteristics associated with the specific assets subject to impairment tests (excluding the risk of assets already reflected in the forecast flows). The Statement stresses finally that the risks associated with the phenomena of rising market interest rates and the inflation rate could have an impact also on the discount rate to be used for the purpose of estimating the recoverable value of the assets to reflect the said phenomena, unless the said risks are already reflected in the calculation of the forecast flows used.
+
+#### **Development and technological innovation**
+
+For Acea, collaborations, partnerships and business systems represent a crucial driver for the positioning and improvement of the Acea Group in the innovation ecosystem, as well as helping to open new channels offering access to ideas, business and technological opportunities, academic research and new talent.
+
+Acea participates in numerous partnerships and cooperative agreements linked to innovation; in fact, for several years the Group has actively participated in the Italian and international innovation ecosystem, sharing best practices and experiences.
+
+Note to that end, the partnership with **InnovUp** (formerly Italia Startup), a non-profit that represents the ecosystem of Italian start-ups, including all entities, private and public, that support the development, visibility and growth of the same, to encourage the creation of a new Italian entrepreneurial system, as well as with **SEP** (Startup Europe Partnership), an Open Innovation programme that puts European scale-ups with corporations, and finally with **Open Italy**, a co-innovation programme promoted by ELIS and established to help associated corporations meet their needs through start-ups, innovative SMEs, university spin-offs and research centres.
+
+## Page 62
+
+#### **Development of personnel**
+
+For every organisation people represent a fundamental asset to remain competitive in a changing economic and social context. Acea listens to the needs of its people and develops a People Strategy, structured into projects and initiatives.
+
+Every year Acea prepares an Equality & Care Plan that identifies goals and associated projects for diversity and inclusion and corporate welfare. In 2022, Acea was included by the Financial Times and Statista in the special list of "Europe's Diversity Leaders 2023" and for the second consecutive year received Top Employers Italy Certification, official recognition of the excellence of the company's HR policies and strategies, and implementation of the same.
+
+Acea has developed an integrated corporate welfare system, based on listening to employees and their needs and structure around six fundamental pillars: health, psycho/physical well-being, family, reconciliation measures, economic assistance and complementary social security. Numerous initiatives have been implemented to support these pillars, including preventive medicine campaigns, support services for psycho/physical well-being and support for parents. These areas are shared with a Bilateral Committee, consisting of representatives from Group companies and the Unions.
+
+As part of its training processes, the Group has established the Acea Business School Academy that provides courses on managerial, position, governance and digital issues, serving the entire group and designed with qualified partners (universities, business schools, research centres, etc.).
+
+#### **Sustainable management of the supply chain**
+
+Aware of the positive contribution that sustainable supply chain management can offer to protecting the environment, Acea is committed to defining purchasing methods that include intrinsic characteristics of the products and aspects of the process that limit environmental impact and foster initiatives aimed at minimising waste, reusing resources and protecting the social aspects involved in the procurement of goods, services and works. In tackling this green procurement issue, Acea has been using the minimum environmental criteria in force for several years, including non-compulsory bonus aspects in its tender procedures.
+
+Acea has always been at the service of the community and the
+
+public and therefore puts a high priority on open exchanges with the supply chain to be increasingly efficient in responding to local demands.
+
+The creation of a sustainable chain depends on each company monitoring itself, as well as on agreements between all members in a given chain. Cooperation allows for more transparent and clear relationships, helping to create shared value:
+
+- **•** EcoVadis assessment
+- **•** Green purchases
+- **•** Reputational due diligence
+- **•** Management Systems Supply Chain Verifications
+- **•** Vendor ratings
+- **•** Sustainability and safety.
+
+#### **Health and safety in the workplace**
+
+Acea carries out constant awareness campaigns on the subject, with the aim of profoundly affecting the widespread dissemination of a culture of safety involving all its people. It has implemented an advanced risk assessment model, not to mention control and mitigation measures. Acea has also launched a number of initiatives to raise awareness of and involvement in the issues discussed above with its contractors and sub-contractors, key business partners throughout the entire value chain.
+
+Safety seen as strategy, and not only as compliance, is based on the possibility of measuring and monitoring the results in a managerial approach. In the context of the process of continuous improvement that it has undertaken, oriented to the prevention and reduction of injuries, Acea provides all its people with a valid and effective instrument for the purposes of active participation in analysing the trend of indicators; this aspect is often considered a measure of the level of maturity of the culture of safety and the culture of improvement in an organisation. Improvement actions based on the realisation that there are margins to pursue (for example actions to reduce the proportion of some types of injury) and consolidation actions (for example maintaining positive results, growing organisational resilience), represent the natural process of continual improvement in the field of workplace health and safety.
+
+## Page 63
+
+## **OPERATING SEGMENTS**
+
+The macrosectors in which Acea works are broken down into the industrial segments listed below.
+
+#### **ENVIRONMENT**
+
+#### **COMMERCIAL**
+
+**Sludge** management Treatment, recycling, waste-to-energy and **waste** disposal Management of **recyclable plastics**
+
+#### **WATER**
+
+**Integrated Water Service** in Italy **Gas** distribution **Development of initiatives** outside of Italy
+
+#### **ENGINEERING & INFRASTRUCTURE PROJECTS**
+
+**Laboratory** analysis **Engineering** & **Consultancy** **Energy management Sale** of electric energy and gas **Energy efficiency** for home clients
+
+#### **PRODUCTION**
+
+Electricity **generation Cogeneration Photovoltaic**
+
+#### **NETWORKS & SMART CITIES**
+
+**Distribution** and **Measure Public Lighting**
+
+## Page 64
+
+## **TREND OF OPERATING SEGMENTS**
+
+#### **ECONOMIC RESULTS BY SEGMENT**
+
+The results by segment are shown on the basis of the approach used by the management to monitor Group performance in the financial years compared in observance of IFRS 8 accounting standards. Note that revenue includes the condensed result of equity investments (of a non-financial nature) consolidated using the equity method. The Water Segment also includes the financial statements of companies in the gas distribution segment and ASM Terni.
+
+|                                                            | 31/12/2023      |            |       |                         |            |                                   |                                                 |               |                                      |                        |
+|------------------------------------------------------------|-----------------|------------|-------|-------------------------|------------|-----------------------------------|-------------------------------------------------|---------------|--------------------------------------|------------------------|
+| € milion                                                   | Environ<br>ment | Commercial | Water | Water<br>(Over<br>seas) | Production | Networ<br>ks &<br>Smart<br>Cities | Engineering<br>& Infra<br>structure<br>Projects | Corpo<br>rate | Conso<br>lidation<br>adjust<br>ments | Consolida<br>ted Total |
+| Revenues                                                   | 334             | 2,483      | 1,494 | 97                      | 131        | 628                               | 116                                             | 145           | (764)                                | 4,664                  |
+| Costs                                                      | 250             | 2,354      | 750   | 61                      | 77         | 253                               | 106                                             | 187           | (764)                                | 3,273                  |
+| EBITDA                                                     | 84              | 129        | 744   | 36                      | 54         | 375                               | 10                                              | (42)          | 0                                    | 1,391                  |
+| Depreciation/<br>amortisation<br>and impair<br>ment losses | 59              | 70         | 419   | 15                      | 20         | 154                               | 8                                               | 34            | (0)                                  | 779                    |
+| Operating<br>profit/(loss)                                 | 25              | 59         | 325   | 21                      | 34         | 221                               | 2                                               | (75)          | 0                                    | 612                    |
+| Capex                                                      | 39              | 50         | 682   | 6                       | 41         | 300                               | 5                                               | 20            | 0                                    | 1,143                  |
+
+| 31/12/2022                                                |                 |            |       |                         |            |                               |                                                 |               |                                      |                           |
+|-----------------------------------------------------------|-----------------|------------|-------|-------------------------|------------|-------------------------------|-------------------------------------------------|---------------|--------------------------------------|---------------------------|
+| € milion                                                  | Environ<br>ment | Commercial | Water | Water<br>(Over<br>seas) | Production | Networks<br>& Smart<br>Cities | Engineering<br>& Infra<br>structure<br>Projects | Corpo<br>rate | Conso<br>lidation<br>adjust<br>ments | Conso<br>lidated<br>Total |
+| Revenues                                                  | 342             | 3,160      | 1,374 | 95                      | 175        | 606                           | 118                                             | 152           | (857)                                | 5,166                     |
+| Costs                                                     | 241             | 3,070      | 705   | 62                      | 85         | 254                           | 104                                             | 196           | (857)                                | 3,861                     |
+| EBITDA                                                    | 102             | 90         | 669   | 33                      | 90         | 352                           | 13                                              | (44)          | 0                                    | 1,305                     |
+| Depreciation/<br>amortisation<br>and impairment<br>losses | 43              | 68         | 400   | 14                      | 15         | 150                           | 9                                               | 40            | 0                                    | 739                       |
+| Operating<br>profit/(loss)                                | 59              | 22         | 269   | 19                      | 75         | 202                           | 4                                               | (84)          | 0                                    | 566                       |
+| Capex                                                     | 46              | 50         | 611   | 6                       | 30         | 269                           | 6                                               | 33            | 0                                    | 1,050                     |
+
+## Page 145
+
+Moreover, also in accordance with the provisions of art. 19 of Italian Legislative Decree 39/2010, it was verified that the members of the Board, as the Internal Control and Audit Committee, as a whole are competent in the sector the Company operates in.
+
+#### **Activities and Organisation of the Board of Statutory Auditors**
+
+During 2023, the Board carried out the activities it was responsible for, holding 24 meetings, each lasting an average of 1 hour and 45 minutes.
+
+The Board of Statutory Auditors also attended all 24 meetings of the Board of Directors and the 12 meetings of the Control and Risks Committee, the 13 meetings of the Appointments and Remuneration Committee, the 8 meetings of the Committee for the Region, the 28 meetings of the Committee for Related Party Transactions (of which 14 in its role as Equivalent Internal Control pursuant to the current procedure for Related Party Transactions), and the 13 meetings of the Ethics, Sustainability and Inclusion Committee.
+
+The Board also attended the Shareholders' Meeting held on 18 April 2023 in ordinary session, at which the Shareholders could attend exclusively through their designated representative, as per applicable regulations.
+
+During the Board of Directors meeting, the Board obtained information pursuant to Article 150, paragraph 1 of the TUF on activities carried out and Acea's most significant economic, financial and equity transactions carried out during the year by the Company and its subsidiaries.
+
+Based on the information acquired through its supervisory activities, the Board has not become aware of any transactions that were not based on the principles of correct administration, resolved and carried out in breach of the law and the by-laws, not in the interest of Acea, in contrast with resolutions passed by the Shareholders' Meeting, manifestly imprudent or reckless, lacking the necessary information in case of Directors' interests or compromising the integrity of the company's assets.
+
+The Board oversaw the Board of Directors' decision-making procedures and verified that the management decisions were compliant with the applicable regulations (substantive legitimacy), adopted in the interest of the Company, compatible with the Company's resources and assets and adequately supported by information, analysis and verification processes.
+
+The most significant transactions carried out by the Acea Group during 2023 are specified in the documentation submitted to the Shareholders' Meeting, to which reference should be made.
+
+The documents submitted for your approval, the information received during the meetings of the Board of Directors and the meetings of the internal Board Committees, that received from the Chairperson and the Chief Executive Officer, the management, the Boards of Statutory Auditors of directly controlled companies and the independent auditing firm PwC S.p.A. (hereinafter also referred to as "PwC" or "Audit firm") did not reveal the existence of atypical and/or unusual transactions, including intra-group transactions or transactions with related parties.
+
+Significant intercompany or related-party transactions are set out in the documents submitted for your approval, to which we refer.
+
+#### **Supervisory activities pursuant to the Consolidated Law on Statutory Audits**
+
+The Board, identified by the Consolidated Law on Auditing as the "Committee for Internal Control and Statutory Audit", oversaw amongst others:
+
+- **•** the financial reporting process;
+- **•** the effectiveness of internal control, internal auditing and financial reporting risk management systems;
+- **•** the statutory audit of annual accounts and consolidated accounts;
+- **•** the independence of the external auditor (hereinafter also "auditor", "external auditor" or "audit firm"), in particular as regards the provision of non-audit services.
+
+The Board examined the reports prepared by the independent auditing firm, whose activity supplements the general framework of the control functions established by the regulations with regard to the financial and non-financial reporting process.
+
+The Acea Shareholders' Meeting appointed PwC to audit the accounts for the period 2017-2025, including the Independent audit of the consolidated and separate financial statements, the limited audit of the condensed separate financial statements at 30 June and the audit of the separate annual accounts of Group companies that fall within the scope of unbundling regulations.
+
+Furthermore, the Audit Firm was awarded the endorsement assignment pursuant to Article 3 of Legislative Decree no. 254/2016, with reference to the Non-Financial Statement.
+
+In the light of the current rules, the Audit Firm issued today, under the terms of Article 14 of Italian Legislative Decree no. 39/2010, the Auditing Report on the Separate and Consolidated Financial Statements for the year to 31 December 2023. The form and contents of the Auditing Report are compliant with the amendments made to Italian Legislative Decree no. 39/2010 by Italian Legislative Decree no. 135/2016.
+
+The Audit Firm issued these Reports with no objections and with the following emphases of matter:
+
+"*We bring attention to the note 'Investments in subsidiaries and associates' of the financial statements and to the sections 'Water Regulation' and 'Environmental Regulation' of the report on operations, in which the directors explain:*
+
+- **•** *with specific reference to the subsidiary Acea Ato 5 SpA, the continuation of (i) the financial imbalance determined by the most recent tariff arrangements approved by the Area Body with consequent confirmation of the existence of multiple significant uncertainties that could raise significant doubts about the ability of the subsidiary to function as a going concern, and (ii) further uncertainties associated with the ongoing tax disputes and the complex judicial and extra-judicial dispute in progress with the Area Authority related to the charging to the company of contractual penalties for alleged non-fulfilment, to the recognition of receivables related to the higher operating costs incurred in the period 2003-2005 (as per settlement deed of 27 February 2007) and to determination of the concession fees;*
+- **•** *the complex regulatory measures, with particular reference to what underlies the water and waste tariff approval process.*
+
+*We also bring attention to the notes 'Related Party Transactions – Acea and Roma Capitale' and 'Receivables due from the parent company - Roma Capitale' in the financial statements, in addition to the section 'Relations with Roma Capitale' in the report on operations, in which the directors describe the relations with Roma Capitale and, in particular, the updates related to dialogue for the recognition of the Administration's payable to Acea/Areti with reference to the public lighting service*".
+
+The Audit firm, in addition,
+
+i) issued a judgement which states that the Reports on Op-
+
+## Page 146
+
+erations that accompany the separate and consolidated Financial Statements – as well as some specific information contained in the "Report on Corporate Governance and Shareholding Structure" indicated in article 123-bis, paragraph 4, of the Consolidated Finance Act (for which the Directors are responsible) – are consistent with the Financial Statements and are prepared in compliance with the applicable legal provisions;
+
+- ii) checked that the Directors had prepared the "Report on the Remuneration Policy and on Remuneration Paid", as provided for in article 123-ter, paragraph 8-bis of the Consolidated Finance Act;
+- iii) declared, as regards significant errors in the Reports on Operations, on the basis of the knowledge and understanding of the business and of the related context acquired during the auditing activity, that it had nothing to report.
+
+The Audit Firm has also certified that it has carried out the audit procedures set forth in Auditing Standard SA (Italy) 700B for the purpose of expressing an opinion on whether the annual financial statements and consolidated financial statements comply with the provisions of European Commission Delegated Regulation (EU) 2019/815 on regulatory technical standards relating to the specification of the European Single Electronic Format (ESEF) to the annual financial statements and consolidated financial statements, to be included in the annual financial report (the "Delegated Regulation"). These procedures did not reveal any non-compliance with the Delegated Regulation.
+
+For details on the key aspects of the auditing please see the content of the Reports issued by PwC, published together with the separate and consolidated Financial Statements.
+
+The Auditing firm also issued to the Board of Statutory Auditors, under the terms of article 11 of Regulation (EU) no. 537/2014, the Report to the Internal Control and Audit Committee (the so-called "Additional Report"), with which it illustrated:
+
+- i) the main aspects of the auditing;
+- ii) the levels of significance for the consolidated financial statements and for the separate financial statements;
+- iii) the audit plan;
+- iv) the scope and method of consolidation;
+- v) the audit methodology and measurement methods applied in the consolidated and separate financial statements;
+- vi) the areas of focus related to the consolidated and separate financial statements;
+- vii) the auditing activities carried out.
+
+The Additional Report does not indicate significant deficiencies identified in the Internal Control System with respect to the financial reporting process. The Board was informed of certain shortcomings and/or areas for potential improvement in the Internal Control System in relation to the financial reporting process, assessed by the Auditor as "not significant".
+
+In accordance with the recommendations of the joint Bank of Italy - CONSOB - ISVAP document no. 4 of 3 March 2010, the impairment test procedure governed by IAS 36 received the favourable opinion of the Control and Risks Committee and was approved by the Board of Directors.
+
+The Board checked the adequacy, from the methodological point of view, of the impairment testing process to which the accounting assets involved are subjected.
+
+For this test, Acea appointed an external consultant to assist in the analyses carried out to verify the recoverability of the carrying amount of goodwill and the shareholdings recorded in the Company's consolidated and separate financial statements.
+
+This independent advisor showed how, in carrying out the impairment test as of 31 December 2023, Acea used the forecasts formulated in the 2024 - 2028 Business Plan, as approved at the Board of Directors' meeting. For companies subject to concessions, the company's whole life plans for the duration of the concession were used inertially.
+
+The results of the impairment test carried out show some overall impairments at the level of the consolidated and separate financial statements, including a number of situations that are identified as requiring monitoring, which are presented in the documents submitted for your approval, to which we refer.
+
+While the market capitalisation of Acea is higher than the value of the Group's shareholders' equity, a second-level impairment test was in any case also carried out.
+
+The Board of Statutory Auditors also acquired information from the Auditing Firm with reference to the activities carried out during the audit procedures pertaining to ATO 5 SpA, a company for which, in the auditor's opinion, significant uncertainties remain related to the company's ability to function as a going concern, such that it is unable to express an opinion on the subsidiary's separate financial statements.
+
+The Board of Statutory Auditors also acquired information with reference to the process of determining the Provisions for Impairment of Receivables through models compliant with the methodologies provided for in IFRS9 (simplified method), which use customised calculation tools, for each company, according to the specific characteristics of the type of business, focusing on the Companies with recurring invoicing and the Provisions for Impairment of Receivables of which are characterised by a high number of customers.
+
+We can inform you that, with reference to the previous financial year 2022, the Board forwarded during 2023 to the Board of Directors the PwC's Additional Report accompanied by its own observations.
+
+The Board examined the declaration on the independence of the external auditor pursuant to article 17 of Italian Legislative Decree no. 39/2010, which does not indicate situations that have compromised its independence or causes of incompatibility pursuant to articles 10 and 17 of that decree and its implementing provisions.
+
+The Board also acknowledged the Transparency Report prepared by the Auditing Firm and published on its website, pursuant to article 13 of Regulation EU 537/2014.
+
+To this end, during the year and in compliance with the referenced provisions on audits, the Board approved in advance - after the related checks regarding potential risks for independence and the safeguarding measures adopted - the appointments for activities other than the independent audit conferred on PwC and the companies within its network. On this point, monitoring is in place with the aim of verifying observance of the quantitative limits on the fees for non-auditing appointments provided for in article 4 of the aforementioned European Regulation. The Board attests that the limit was amply observed.
+
+We can note in addition that a specific internal regulation is in effect at the Group level, governing operations linked to these checks related to the conferment of appointments for non-audit services. In accordance with Art. 149-duodecies of Consob Issuers' Regulations, the financial statements reports the fees accrued by the independent auditors PWC in 2023.
+
+On the basis of the information acquired, the Board notes that, during 2023, with reference to the Acea Group, the PwC network, in addition to the audit assignments provided for by the sharehold
+
+## Page 147
+
+ers' resolution, were paid fees for other non-audit or audit-related services amounting to € 791 thousand.
+
+The external auditor periodically met with the Board of Statutory Auditors in accordance with the provisions of art. 150, paragraph 3 of the TUF for the purpose of exchanging reciprocal information, and did not bring to the attention of the Board any acts or facts considered reprehensible or irregularities that required the formulation of specific reports pursuant to art. 155, paragraph 2 of the TUF.
+
+#### **Supervision of the financial disclosure process**
+
+The Board of Statutory Auditors held periodic meetings with the Financial Reporting Manager (hereinafter "Reporting Manager"), appointed under the terms of Italian Law no. 262/2005, during which it did not report significant shortcomings in the operating and control processes that could have affected the adequacy and effective application of the administrative-accounting procedures for the purpose of correct economic and financial presentation in compliance with the accounting standards.
+
+This presentation is confirmed by what is stated in the "Report on the Financial Reporting Manager's activities for the purposes of issuing the declaration provided for in art. 154-bis of the Consolidated Finance Act on the annual financial report at 31 December 2023". The report confirms the completion of the 2023 plan, in line with the planning presented to the corporate bodies, in addition to the adequacy of the internal and external resources available to the Executive Responsible for managing the 262 Model, considering the size of the Acea Group.
+
+At the end of the assessment process, on the basis of the activities performed, with regard also and taking into account the results of the test activities conducted in accordance with the monitoring plan of the control system on the process of formation of the financial reporting, Acea's Executive Responsible for Financial Reporting decided that she could sign - with no objections - the attestation of Acea's separate and consolidated financial statements at 31 December 2023.
+
+In the light of the information received and the documents examined, having noted the activities under way, also considering the support provided to the Executive Responsible for Financial Reporting by the Internal Audit Function, which has specialist IT skills available to verify the design and functioning of the IT General Controls, the Board of Statutory Auditors has no observations to make to the Shareholders' Meeting on the functioning and adequacy of the administrative accounting system.
+
+#### **Supervision of the non-financial reporting process**
+
+In the context of the performance of the functions attributed to it, the Board supervised – among other things meeting periodically with the structure responsible and discussing with the Auditing Firm – the observance of the rules contained in Italian Legislative Decree no. 254 of 30 December 2016, in particular with reference both to the preparation process and to the contents of the Non-Financial Statement.
+
+The 2023 Sustainability Report/NFS has been prepared in accordance with the updated version of the Global Reporting Initiative Standard.
+
+As regards the Taxonomy, Acea decided to anticipate the obligations set out by the regulation, reporting from as early as the financial year in question on the eligibility and alignment of its activities with all six environmental goals (climate change mitigation, climate change adaptation, sustainable use and protection of water, circular economy, pollution prevention and reduction, and protection of biodiversity and ecosystems).
+
+The second Acea climate-related disclosure (using 2022 figures) was published according to the Recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), expanding the number of "water" companies involved and the range of risks investigated (physical and/or transition).
+
+Acea received validation of its reduction targets for 2032 for direct and indirect greenhouse gas from the Science Based Targets initiative (SBTi).
+
+To that end, having examined the declaration made by the Auditing Firm pursuant to article 3, paragraph 10 of Italian Legislative Decree 254/2016, and the declaration made by the same relative to Report on the Consolidated Financial Statements pursuant to article 4 of the CONSOB Regulation implementing the above Decree, the Board did not identify any issues of non-compliance and/or breach of the reference regulations.
+
+The attestation includes a limitation of scope with reference to the recent EU taxonomy of sustainable activities.
+
+The Board of Statutory Auditors formulated a recommendation to promote all necessary initiatives in order to strengthen the system of internal controls for non-financial reporting, to be developed in line with the projects required to ensure fulfilment of the disclosure obligations arising from the CSRD.
+
+Supervision of the adequacy of the internal control system, risk management and organisational structure
+
+#### **Internal Control System**
+
+The Board, in noting the findings of the Corporate Governance Report on the adequacy and effective functioning of the Internal Control and Risk Management System ("ICRMS"), reviewed the Reports as at 31 December 2023 of the Internal Audit Function, the Control and Risks Committee, the 231 Supervisory Body, and the second-level control entities.
+
+In particular, the Board of Statutory Auditors points out that during the year:
+
+**•** the necessary functional and informative liaison was maintained with the Control and Risks Committee, the Oversight Committee and the Heads of the Internal Audit and Risk, Compliance and Sustainability Functions on the methods of carrying out the assessment and control tasks entrusted to them, relating to the adequacy, full operation and effective functioning of the internal control and risk management system, as well as the results of the audits performed by the Internal Audit Function in accordance with the audit plan approved by the Board of Directors, the results of the risk assessment carried out by the Risk Management Function and the results of the activities pertaining to the second-level control entities
+
+The analysis of the reports on second-level control measures found that:
+
+- **•** the activities conducted by the Anti-Corruption Function were aimed at an initial implementation of the anti-corruption framework in Acea, which was considered suitable by the external certifying body for the purposes of ISO 37001 "Anti-bribery management systems" certification, achieved by Acea in September 2023;
+- **•** most of the companies of the ACEA Group have adopted and
+
+## Page 148
+
+maintain an Integrated Quality, Environment, Safety and Energy Management System (hereinafter the "System"), which complies with UNI ISO 9001:2015 (Quality), UNI ISO 14001:2015 (Environment), UNI ISO 45001:2018 (Safety) and UNI ISO 50001:2018 (Energy), certified and issued by an accredited external body, as a tool for the prevention of accidents, diseases and pollution, as well as a measure to promote and support the efficiency and effectiveness of the company's processes, including energy processes, and to achieve continuous improvement in the performance of the System itself and work management.
+
+- **•** the activities carried out by the Head of the Prevention and Protection Service (RSPP) on topics related to health and safety at work within the Acea Group confirmed the existence of an effective management system for safety in the workplace, with no significant issues raised to be reported in this report.
+- **•** the Company updated the Organisation, Management and Control Model, pursuant to Legislative Decree 231/01. The aim of the update was a full review of the document and project outputs, with reference to: i) an update of the risk assessment methodology, for the purpose of an alignment with the additional methodologies used within the company; ii) a new assessment concerning all cases of predicate offences considered by the legislative decree (until the new changes introduced in August 2023), and iii) a review of the structure of the Model itself, involving a redesign of the Special Part according to a "process-driven" approach, with the aim of increasing the usability of the document and promoting the application of the principles contained therein;
+- **•** the Company updated the "Acea Group's Whistleblowing Policy", approved by the BoD of ACEA on 10 November 2023, in line with the provisions of Italian Legislative Decree no. 24/2023 and the Guidelines published by ANAC;
+- **•** the overall assessment of privacy compliance by the Data Protection Officer was positive. In the DPO's opinion, the control measures envisaged by the privacy governance framework appear to be implemented correctly, in line with legislation. In light of the significant corporate reorganisation in 2023, areas for improvement remain in terms of greater integration within various inter-function and compliance areas, intended to create more awareness and better efficiency of processes, including in relation to time frames. To this end, specific actions were launched.
+
+The Manager of the Internal Audit Function periodically updated the Board on the activities carried out and the main results of the audits performed, communicating the corrective actions identified and discussed with the Company's management, indicating implementation deadlines and specific implementation responsibilities, subject to periodic monitoring by the Internal Audit Function.
+
+The Manager of the Internal Audit Function informed the Board that the functional hierarchical positioning, the constant dialogue and the exchange of information with the company's top management, the board committees and the control bodies ensured that the Function had full access to all the useful information for performance of its duties, full independence and autonomy of judgement. The 2023 annual report of the Internal Audit Function notes how the audits are structured in order to incorporate useful evidence for formulating the opinion from different sources, in particular:
+
+**•** in the context of monitoring certain relevant processes of the Internal Control and Risk Management System ("ICRMS"), the various events highlighted by each Key Risk Indicator were analysed and verified and, downstream of this activity, no irregularities have emerged;
+
+- **•** the testing activities aimed at ensuring that the key automatic controls, in the context of the administrative and accounting procedures, work correctly and are effective with respect to the objective set, had positive results, despite there being areas for improvement related to IT governance (still under way);
+- **•** the discussions held during the year with the managers of the second-level audits and their reports show adequate resilience of the system, highlighting aspects for improvement already included in the planning activities in progress.
+
+The Head of the Internal Audit Function communicated that the audits performed by the Internal Audit Function found:
+
+- **•** significant shortcomings in aspects of IT security, which require considerable measures on the control system and on internal governance to monitor such risks. Management took prompt charge of these measures;
+- **•** the need to review the operating control model for recently acquired companies in the environment area, in order to guarantee that the operating processes are aligned and fully compliant with security and environment, and that there is effective monitoring of periodic results;
+- **•** the absence of critical aspects that could adversely affect the reliability of the ICRMS (Internal Control and Risk Management System) as a whole, including in residual situations in which the internal regulatory system has not yet been updated with respect to the best practices operated;
+- **•** that the remaining corrective actions identified in the context of the audit activities conducted in previous years which as of today have not yet been completed, will be defined through the completion of the update of the corporate regulatory system and in the various projects still in progress.
+
+An extensive review of the aforementioned findings reveals that, with the exception of the information reported above on IT security risks and the operating control model for recently acquired companies in the environment area, the Head of the Internal Audit Function believed that the design gaps found in the activities do not generate, in operations, situations such as to undermine the resilience of the overall Internal Control and Risk Management System adopted by Acea and its subsidiaries and, therefore, believed that the Internal Control and Risk Management System adopted by Acea and its subsidiaries is functioning, adequate and consistent with the current Guidelines on the ICRMS, despite the fact that there are a number of project activities attributable to components of the same that have not been finalised in 2023.
+
+The Board of Statutory Auditors highlights the need to complete: (i) the initiatives that management took charge of in order to overcome the shortcomings in aspects of IT security (which require considerable measures on the control system and on internal governance to monitor such risks), and (ii) certain planning activities for the overall improvement of the internal control and risk management system (including in order to implement the management and coordination regulation in the most effective manner through a defined Group governance model, also comprising dedicated governance flows in line with said governance model and, as a result, to make it possible to update the guidelines on the internal control and risk management system), launched recently and not finalised in 2023.
+
+In light of the activities performed by the Internal Audit Function, the second-level control audits and the internal board committees in the current reporting period, the Board of Statutory Auditors has no further observations to make to the Shareholders' Meeting on the functioning and adequacy of the internal control and risk man
+
+## Page 149
+
+agement system.
+
+The Board hopes also that further coordination is promoted between control oversight, of both second and third level, with reference to both planning activities and, above all, in the process of ever-increasing integration and efficacy of reporting to the Corporate Bodies on findings resulting from audits performed.
+
+#### **Risk Management System**
+
+The exchange of information and the reports rendered by the risk management structure represented the results of the Group's risk assessment process for the purpose of identifying and analysing the main risk scenarios relevant for the Group, highlighting any response strategies prepared by the management to reduce the risks to a severity level considered acceptable and in keeping with the business plan objectives.
+
+The Risk Management Function stated that it performed quarterly monitoring of the full implementation of the mitigation actions identified to limit the risk scenarios as proposed by the management in the risk assessment phase.
+
+The Company also defined a Framework of Key Risk Indicators, aimed at enabling quantitative monitoring over time of exposure to the risks identified at the Group level.
+
+Activities are still in progress with the aim of developing the risk scenarios identified in an overall taxonomy of business risks to be combined with the related risk owners and the business processes assigned as their responsibility, both at the corporate level and at the level of the various corporate businesses.
+
+Lastly the Board of Statutory Auditors reaffirms its conviction that, given that the Acea Group has a significant presence in the management of regulated infrastructures of strategic significance for the supply of essential public services to the communities of reference in which it operates, and is developing significant planning initiatives pertaining to said strategic infrastructures, it is necessary that planning and execution activities be developed with considerable attention the monitoring of legality and to the implications related to maintaining the Group's net financial position over time, compatible with the reference economic and equity situation.
+
+#### **Organisational Structure**
+
+The Board of Statutory Auditors examined the documentation produced from time to time during Board of Directors meetings, focusing its attention on the existence of:
+
+- **•** an organisational chart and related company documentation detailing the roles and responsibilities of the organisational structures;
+- **•** an effective and efficient system of delegations and powers of attorney;
+- **•** corporate regulations for the exercise of governance by Acea as part of its functions of guidance, coordination and control of the Group's legal entities;
+- **•** company regulations for the performance of the activities of each managerial function.
+
+The Board of Statutory Auditors was informed of the ongoing activities to update the Group's regulatory system and to implement the Regulation governing the management and coordination powers and duties of the Parent Company.
+
+The Board of Statutory Auditors notes the significance of the opportunity for the administrative body to receive, at least annually, an organic document on the organisational structure of the company and its subsidiaries of strategic importance, useful for optimising internal operations, improving productivity, reducing risk and ensuring compliance with laws and the applicable regulations.
+
+#### **Remuneration policies**
+
+The Board acknowledged that the Board of Directors approved, insofar as it was responsible under the terms of current legislation, the Report on the remuneration policy and on the remuneration paid to the Group's personnel including the section "2023 Remuneration Policy" and the section "Remuneration paid" as well as the related Illustrative Report to the Shareholders' Meeting to which the documents will be submitted.
+
+The Policy prepared for 2023 takes into consideration the contents of the 2024–2028 Strategic Plan approved by the Board of Directors.
+
+In relation to performance objectives, the Board of Statutory Auditors considered commendable, among other things, that the Acea Group is pursuing an even greater integration of sustainability into its business, through the gradual alignment of the performance management system with the ESG (environmental, social and governance) goals outlined in the Strategic Plan, while paying the necessary attention to the objective measurability of these goals when identifying them.
+
+The remuneration policy defines the criteria and guidelines for remunerating members of the Board of Directors, including Executive Directors and Directors with special, for Executives with Strategic Responsibilities and for members of the Company's Board of Statutory Auditors, over a period of time coinciding with the financial year in course.
+
+The document was prepared in compliance with the new regulatory framework (art. 123-ter, TUF), updated by Italian Legislative Decree no. 49/2019, which contains the provisions necessary for implementation of Directive EU 2017/828 of the European Parliament and Council of 17 May 2017 (SHRD II), which amended Directive 2007/36/EC (SHRD) relative to encouraging long-term commitment from shareholders.
+
+Additionally, it was prepared in compliance with the contents of CONSOB resolution 21623 of 11 December 2020, which implemented what is provided for in the SHRD II.
+
+#### **Corporate Information System**
+
+The Board of Statutory Auditors also paid particular attention to the various initiatives launched by the Acea Group with regard to development of the corporate information system and the protection of business continuity, with a particular focus on cybersecurity issues. At the beginning of 2023, in fact, Acea was the victim of a Ransomware hacker attack. The event did not require any adjustments to the data and information utilised in the preparation of the 2022 financial statements of Acea and the Group companies, as also confirmed by the statements released at the reporting date by the external company to which the technical verification and recovery activities were assigned. The relevant functions of Acea reported that analyses of the event by the Italian Data Protection Authority are still in progress and did not communicate any further relevant information between the period following the event and the date of this document.
+
+An overall action plan is ongoing, intended to overcome the critical issues also raised by the Internal Audit Function, monitored by the Head of Security & Cyber Defence.
+
+The Board of Statutory Auditors reiterates the importance, as
+
+## Page 150
+
+mentioned in its previous reports, of paying particular attention to the strengthening of cybersecurity, providing for measures to: (i) increase the security of the most-exposed areas (for example the Cloud, Online Services, Third Parties), (ii) develop solutions aimed at managing security incidents, at Business Continuity and at Crisis Management, (iii) consolidating the data protection solutions (classification, encryption, masking, tracing) in accordance with the General Data Protection Regulation and Privacy rules.
+
+The Board recommended also the adoption of suitable initiatives with a view to continual improvement and strengthening of the governance model and oversight of IT risks, in order to increase further the level of oversight of the systems and the quality of the services provided and to guarantee the maximum levels of security of the information system.
+
+#### **Further activities of the Board of Statutory Auditors and disclosure required by Consob**
+
+As required by art. 149 of the TUF, in the performance of its duties the Board:
+
+- **•** over saw the processes of effective implementation of the corporate governance regulations provided under the codes of conduct drawn up by regulated market management or by category associations with which Acea declares its compliance. Pursuant to art. 123-bis of the Consolidated Finance Act and art. 144-decies of the Issuers Regulation, Acea prepared the annual "Report on Corporate Governance and Ownership Structures". The Board has verified that the Report on Corporate Governance and Ownership Structure contains all the information required by Article 123-bis of the TUF as well as other disclosures made in compliance with the regulations governing issuers listed on regulated markets;
+- **•** it monitored the adequacy of the instructions given to subsidiaries pursuant to art. 114, paragraph 2 of the TUF;
+- **•** it exchanged information with the Boards of Statutory Auditors of subsidiary companies as required by art. 151, paragraph 2, of the TUF. In order to allow for this exchange of information, a questionnaire was sent to all the control bodies concerning the supervisory activities carried out by them during 2023. From the analysis of these questionnaires, as well as the meetings held with some of the subsidiaries' boards of statutory auditors, no issues were raised or facts emerged worthy of note in this report. For directly controlled foreign companies, the supervisory activities of the Board were carried out with the direct cooperation of the Internal Audit Function.
+
+During the course of the financial year, the Board issued opinions and expressed the observations that current legislation assigns to its remit.
+
+In addition, the Board of Statutory Auditors reports:
+
+- **•** that it acknowledged that the Board of Directors has positively assessed the adequacy of its size, composition and operation, also in light of the results of the self-assessment that was performed with the support of an external consultant with the required requisites of independence;
+- **•** that the Board of Directors has approved a Policy for managing discussions with institutional investors, and all shareholders and bondholders of Acea;
+- **•** to have verified that its members meet the same independence requirements as those required of Directors in accordance with the recommendations of the Borsa Italiana Corporate Governance Code;
+
+**•** that it found the correct application of the criteria and practices for ascertaining the requisites used by the Board of Directors to assess the independence of its members on an annual basis.
+
+No separate meeting of the independent directors was held during the year, as they considered it unnecessary in view of the quality of the information received from the delegated bodies and their active participation in the Board of Directors and in the Board Committees.
+
+At present, the requirements of the Corporate Governance Code for Listed Companies for the establishment of the position of lead independent director are not met, given that the Chairperson of the Board of Directors does not hold the position of Chief Executive Officer and does not have a controlling interest in the company.
+
+The Board verified full compliance with obligations regarding regulated information, inside information or information required by the Regulatory Authorities.
+
+The Board also received adequate reporting, with reference to the provisions of Articles 15 et seq. of the Market Regulations, regarding subsidiaries incorporated and regulated by the laws of non-EU countries from the Internal Audit Function, which conducted an analysis of entity-level controls, from which it concluded that the control environment was substantially adequate to the requirements of the aforementioned Article 15.
+
+The Board noted that the Company has not been notified of any complaints to the Court under Article 2409, Paragraph 1 of the Italian Civil Code, nor has the Board had to make any complaints under Article 2409, Paragraph 7 of the Italian Civil Code. The Board did not have to intervene due to omissions of the Administrative Body pursuant to Article 2406 of the Italian Civil Code and did not make any reports to the Administrative Body pursuant to and in accordance with Article 25-octies of Legislative Decree 14/2019.
+
+The Board of Statutory Auditors did not receive any reports pursuant to Article 2408 of the Italian Civil Code.
+
+As a result of the supervisory activities carried out by the Board, no reprehensible facts, omissions or irregularities have emerged that should be included in this Report.
+
+The Board does not deem it necessary to exercise the right to make proposals to the Shareholders' Meeting pursuant to art. 153, paragraph 2, of the TUF.
+
+#### **Conclusions**
+
+In view of all the above, considering the content of the reports prepared by the external auditor, acknowledging the declarations issued jointly by the Chief Executive Officer and the Financial Reporting Manager, pursuant to Article 153, paragraph 2 of the TUF, to the extent of its remit the Board of Statutory Auditors has not found any reasons preventing the proposed approval of the separate financial statements at 31 December 2023, or the proposed allocation of the results for the year, as formulated by the Board of Directors.
+
+Rome, 21 March 2024
+
+The Board of Statutory Auditors
+
+Maurizio Lauri Claudia Capuano Leonardo Quagliata
+
+## Page 151
+
+Image /page/150/Picture/1 description: The image is a document with the title "Independent auditor's report" in red font. It also states "in accordance with article 14 of Legislative Decree No. 39 of 27 January 2010 and article 10 of Regulation (EU) No. 537/2014" in a smaller red font. The document also contains the text "Acea SpA" and "Financial Statements as of 31 December 2023" in red font. The document also contains the PwC logo.
+
+## Page 152
+
+*Independent auditor's report in accordance with article 14 of Legislative Decree No. 39 of 27 January 2010 and article 10 of Regulation (EU) No. 537/2014* To the Shareholders of Acea SpA *Report on the Audit of the Financial Statements*
+
+#### *Opinion*
+
+We have audited the financial statements of Acea SpA (the Company), which comprise the statement of financial position as of 31 December 2023, the income statement, statement of comprehensive income, statement of changes in shareholders' equity, cash flow statement for the year then ended, and notes to the financial statements, including material accounting policy information.
+
+In our opinion, the financial statements give a true and fair view of the financial position of the Company as of 31 December 2023, and of the result of its operations and cash flows for the year then ended in accordance with International Financial Reporting Standards as adopted by the European Union, as well as with the regulations issued to implement article 9 of Legislative Decree No. 38/05.
+
+#### *Basis for Opinion*
+
+We conducted our audit in accordance with International Standards on Auditing (ISA Italia). Our responsibilities under those standards are further described in the *Auditor's Responsibilities for the Audit of the Financial Statements* section of this report. We are independent of the Company pursuant to the regulations and standards on ethics and independence applicable to audits of financial statements under Italian law. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+#### *Emphasis of matters*
+
+We draw attention to note "Investments in subsidiaries and associates" to the financial statements and to paragraphs "Water Regulation" and "Environmental Regulation" of the report on operations where the directors described:
+
+Sede legale: Milano 20145 Piazza Tre Torri 2 Tel. 02 77851 Fax 02 7785240 Capitale Sociale Euro 6.890.000,00 LV. C.F. e P.IVA e Reg. Imprese
+Milano Monza Brianza Lodi 12979880155 Iscritta al nº 119644 del Registro dei Revisori Legali - Altri Uffici: Ancona 60131 Via Sandro Totti 1
+Tel. 071 2132311-Bari 70122 Vis Abate Gimma 72 Tel. 080 5640211-Bergamo 24121 Largo Belotti 5 Tel. 035 229691-Bologna 40124 Via
+Luigi Cario Farini 19 Tel. 051 6180211 - Brescia 25121 Viale Duca d'Aosta 28 Tel. 090 3697501-Catania 95129 Corso Italis 302 Tel. 095
+7532311 Firenze 50121 Viale Gramaci 15 Tel. 055 2482811 Genova 16121 Piazza Piccapietra 9 Tel. 010 29041- Napoli 80121 Via dei Mille 16
+Tel. 081 36181-Padova 35138 Via Vicenza 4 Tel. 049 873481-Palermo 90141 Via Marchese Ugo 60 Tel. 091 349737-Parma 43121 Viale
+Tanara 20/A Tel. 0521 275911-Pescara 65127 Piazza Ettore Trcilo 8 Tel. 085 4545711- Roma 00154 Largo Fochetti 29 Tel. 06 570251-
+Torino 10122 Corso Palestro 10 Tel. 011 556771-Trento 38122 Viale della Costituzione 33 Tel. 0461257004-Treviso 31100 Viale Felissent 90
+Tel. 0422 696911 - Trieste 34125 Via Cesare Battisti 18 Tel. 040 3480781-Udine 33100 Via Poscolle 45 Tel. 0432 25780-Varese 21100 Via
+Allmuzzi 13 Tel. 0332 285039-Verona 37155 Via Francia 21/C Tel. 045 8263001-Vicenza 36500 Piazza Pontelandolfog Tel. 0444 39338
+
+.pwc.com/ll

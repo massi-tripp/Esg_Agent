@@ -1,0 +1,230 @@
+{
+  "company_slug": "industria_de_dise_o_textil_s_a",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\industria_de_dise_o_textil_s_a\\2023\\industria_de_dise_o_textil_s_a_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\industria_de_dise_o_textil_s_a\\2023\\focused\\industria_de_dise_o_textil_s_a_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        33,
+        34
+      ],
+      "start_page": 31,
+      "end_page": 39,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "33": [
+                "Annex I"
+              ],
+              "34": [
+                "Annex I"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        68,
+        71
+      ],
+      "start_page": 66,
+      "end_page": 76,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "68": [
+                "Annex I"
+              ],
+              "71": [
+                "Annex I"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        89,
+        90,
+        97,
+        98
+      ],
+      "start_page": 87,
+      "end_page": 103,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "89": [
+                "Annex I",
+                "Annex II"
+              ],
+              "90": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "97": [
+                "Annex I",
+                "Annex II"
+              ],
+              "98": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        124,
+        126
+      ],
+      "start_page": 122,
+      "end_page": 131,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "124": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Environmentally sustainable activities",
+                "Article 8"
+              ],
+              "126": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        166
+      ],
+      "start_page": 164,
+      "end_page": 171,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "166": [
+                "Annex I"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        358,
+        361,
+        363,
+        365,
+        367,
+        368,
+        369,
+        371
+      ],
+      "start_page": 356,
+      "end_page": 376,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "358": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities"
+              ],
+              "361": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "363": [
+                "Environmentally sustainable activities"
+              ],
+              "365": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "367": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "368": [
+                "Environmentally sustainable activities"
+              ],
+              "369": [
+                "Taxonomy eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "371": [
+                "Annex I",
+                "Annex II"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        393
+      ],
+      "start_page": 391,
+      "end_page": 398,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "393": [
+                "Annex I"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

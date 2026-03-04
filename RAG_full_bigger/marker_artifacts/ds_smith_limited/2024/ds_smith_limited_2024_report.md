@@ -1,0 +1,24625 @@
+## Page 1
+
+Redefining Packaging
+for a Changing World
+Annual Report 2024
+
+## Page 2
+
+2023/24 Highlights
+Strategic Report
+1
+The DS Smith difference
+2
+Our business – at a glance
+3
+Our Purpose framework
+4
+Chair’s statement
+5
+Section 172 statement
+6
+Group Chief Executive’s review
+8
+Our strategy
+10
+Our KPIs
+12
+Our market
+14
+Our business model
+16
+Partnership and collaboration
+18
+Efficiency and delivery
+20
+Sustainability and circularity
+22
+Stakeholder engagement
+24
+To delight our customers
+26
+To realise the potential of our people
+30
+To lead the way in sustainability
+38
+To double our size and profitability
+39
+Operating review
+43
+Financial review
+49
+Risk management
+52
+Our principal risks
+57
+Viability statement and Going concern
+60
+Task Force on Climate-related Financial
+Disclosures (TCFD)
+78
+EU Taxonomy
+80
+Non-financial and sustainability
+information statement
+Governance
+84
+Board of Directors
+88
+Chair’s introduction to governance
+90
+Division of responsibilities
+92
+Corporate governance in context
+93
+Board leadership and Company Purpose
+95
+Nomination Committee Report
+98
+Audit, risk and internal control
+100
+Audit Committee Report
+106
+Remuneration Committee Report
+129
+Additional information
+131
+Statement of Directors’ responsibilities
+Financial Statements
+132
+Independent Auditor’s report
+142
+Consolidated income statement
+143
+Consolidated statement of
+comprehensive income
+144
+Consolidated statement of
+financial position
+145
+Consolidated statement of
+changes in equity
+146
+Consolidated statement of cash flows
+147
+Notes to the consolidated
+financial statements
+206
+Parent Company statement of
+financial position
+207
+Parent Company statement of
+changes in equity
+208
+Notes to the parent Company
+financial statements
+216
+Five-year financial summary
+217
+Glossary
+218
+Shareholder information
+Financial
+Non-financial
+19%
+reduction in total GHG emissions since
+2019 (5% reduction vs 2023)
+10.3%
+Return on sales1
+(2023: 10.5%)
+18.0p
+Dividend per share
+(2023: 18.0p)
+9%
+reduction in accident
+frequency rate vs 2023
+£503m
+Profit before tax
+(2023: £661m)
+(£175)m
+Free cash flow1
+(2024 cash conversion: 39%)
+100%
+reusable or recyclable packaging
+manufactured (target achieved)
+£701m
+Adjusted operating profit1
+(2023: £861m)
+2.1x
+Net debt/EBITDA
+(2023: 1.3x)
+>1.2bn
+units of plastic replaced since 2020
+(target of one billion units of plastic
+replaced by 2025)
+£6,822m
+Revenue
+(2023: £8,221m)
+10.7%
+ROACE2
+(2023: 14.3%)
+Contents
+1. Based upon continuing operations, before adjusting items and amortisation. These are all non-GAAP performance measures – see note 32 to the
+consolidated financial statements.
+2. Operating profit before amortisation and adjusting items as a percentage of the average monthly capital employed over the previous 12-month period.
+In April 2024, the Board recommended an offer from International Paper to combine the business through an all-share transaction.
+Our 2024 reporting suite
+Sustainability Report 2024
+ESG Databook 2024
+Net Zero Transition Plan 2024
+Contents
+
+## Page 3
+
+The DS Smith difference
+• Strong relationships with our
+predominant customer base of fast
+moving consumer goods (FMCG) and
+consumer brands.
+• We partner with our customers to
+provide innovative packaging solutions
+helping drive their sustainability agenda.
+• We continue to gain market share
+through exceptional service, quality and
+security of supply and investment in
+innovation, sustainability and
+packaging capacity.
+See more on page 25
+• We keep strong financial discipline
+recognising the cyclicality of the industry
+and maintain an investment grade rating.
+• We continue to invest organically in our
+business focusing on innovation,
+environmental and operational efficiency
+and growth and capacity.
+See more on pages 38-48
+Strong market drivers
+The packaging industry faces changing
+consumer behaviours, economic
+challenges and an ongoing drive
+towards sustainability.
+• Changing retail channels and consumer
+behaviour – consumers are looking for
+more value and retailers are demanding
+more cost efficient and sustainable
+packaging solutions.
+• Sustainability – we are helping our
+customers respond by designing out
+waste, keeping valuable materials in
+use and making it easier for consumers
+to reuse and recycle packaging.
+• E-commerce – while growth in
+e-commerce has steadied, the
+opportunity remains significant.
+See more on page 12
+Strong customer focus
+Investing for a more
+sustainable business
+Circular business leading
+in sustainability
+• The only solely fibre-based major
+packaging company in Europe and Europe’s
+largest cardboard and paper recycler.
+• We are driving the transition to the circular
+economy with ambitious targets in plastic
+replacement and carbon reduction,
+resulting in excellent ESG ratings.
+• We have already replaced over 1.2 billion
+items of single-use plastic from customers’
+supply chains.
+See more on pages 20-21
+A flexible business model
+• We have a flexible business model and
+continue to invest in our business to
+improve operational and environmental
+efficiency, add capacity and generate
+higher returns.
+See more on pages 14-15
+DS Smith highlights
+An industry leader at scale
+A leading supplier of innovative, sustainable packaging solutions in more than 30 countries in Europe
+and North America. Our scale, innovation, sustainability credentials and strong purpose set us apart and
+allow us to invest to become a more sustainable business.
+Annual Report 2024 dssmith.com
+1
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 4
+
+Packaging
+Paper
+Recycling
+We are a leading international sustainable
+packaging company, with innovative
+packaging solutions made from recycled
+and/or recyclable material. We deliver
+innovative, fully fibre-based corrugated
+products across Europe and North America
+for consumer products, e-commerce,
+promotion, transit and industrial packaging.
+We complement our product range with
+consultancy on supply chain optimisation
+and creative design.
+We are a leading international manufacturer
+of corrugated case material (CCM), which is
+the paper used for conversion into
+corrugated board. We also manufacture
+specialist paper grades such as plasterboard
+liner. We operate 14 CCM paper mills, 12 in
+Europe and two in the US. Of those, two are
+kraftliner mills (virgin paper – one in the US,
+one in Europe) and the remainder are
+principally dedicated to the production of
+recycled CCM (testliner).
+We provide a full recycling and waste
+management service. We are Europe’s
+largest cardboard and paper recycler and are
+also one of the leading full service recycling
+and waste management companies in
+Europe. We collect quality paper and
+cardboard for recycling from a range of
+sectors which provides cost efficient raw
+material for the Group’s recycled paper-making
+processes. We also sell used fibre to third
+parties globally.
+c. 25,120 employees
+c. 8.5 billion m2 corrugated
+board sold in 2023/24
+c. 3,200 employees
+c. 4.1 million tonnes CCM
+produced in 2023/24
+c. 660 employees
+c. 5.4 million tonnes fibre
+managed in 2023/24
+At a glance
+DS Smith is a leading provider of sustainable fibre-based packaging
+across Europe and North America which is supported by recycling
+and paper-making operations. It plays a central role in the value
+chain across sectors including FMCG, industrials and e-commerce.
+Where we operate
+Our business operates in four geographic segments.
+Northern Europe
+Belgium, Denmark, Finland,
+Germany, Netherlands, Norway,
+Sweden, Switzerland and
+United Kingdom
+Southern Europe
+France, Italy, Portugal and Spain
+Eastern Europe
+Austria, Bosnia and
+Herzegovina, Bulgaria, Croatia,
+Czechia, Estonia, Greece,
+Hungary, Latvia, Lithuania,
+North Macedonia, Poland,
+Romania, Serbia, Slovakia,
+Slovenia and Türkiye
+North America
+United States
+£586m
+£1,106m
+£2,598m
+£2,532m
+c. 10,640
+c. 9,080
+c. 7,570
+c. 1,690
+2023/24 revenue
+2023/24 employees
+2
+Our business
+Contents
+
+## Page 5
+
+Our Purpose and values
+Redefining Packaging for a Changing World
+Our Purpose to Redefine Packaging for a Changing World focuses our DS Smith team on the rapidly evolving world around us, as
+consumers’ lives and shopping habits change, and digitalisation accelerates. It encourages us to look outside the confines of the
+packaging industry and forward, to see how these changes will influence shopping patterns, impact on the environment, and the role
+packaging can play in a more sustainable experience for all.
+Our Purpose sharpens our instincts and encourages us to tackle some of the world’s biggest challenges, such as replacing plastics. It feeds
+all parts of our organisation, including people, policies, R&D, design and customer interactions.
+We deliver our Purpose through our strategic goals…
+To delight our customers: by
+delivering outstanding results
+to them as we increase their
+sales, reduce their costs,
+manage their risk and become
+circular ready
+To realise the potential of our
+people: by creating a safe
+environment where every
+colleague can develop their
+skills and ideas
+To lead the way in
+sustainability: by bringing our
+customers into the circular
+economy using recyclable
+materials responsibly in our
+circular business
+To double our size and
+profitability: by driving
+operational and commercial
+excellence, growing our market
+share and expanding into
+new markets
+See pages 8-9 for more information
+And our Now & Next Sustainability Strategy…
+Our focus is on:
+Circularity
+Designing out waste and
+pollution, and keeping
+materials in use
+Carbon
+Decarbonising our operations
+and value chain
+People & Communities
+Creating a safe, diverse and
+inclusive workplace and being
+active in our communities
+Nature
+Protecting and regenerating
+nature
+See pages 32-33 for more information
+Which helps us deliver our vision to be the leading supplier of sustainable
+packaging solutions
+Underpinned by our values:
+Be caring
+We take pride in what
+we do and we care
+about our customers,
+our people and the
+world around us
+Be trusted
+We can always be
+trusted to deliver
+on our promises
+Be challenging
+We are not afraid to
+constructively
+challenge each other
+and ourselves to find a
+better way forward
+Be tenacious
+We get things done
+Be responsive
+We seek new ideas and
+understanding and are
+quick to react to
+opportunities
+Annual Report 2024 dssmith.com
+3
+Strategic Report
+Governance
+Financial Statements
+Our Purpose framework
+Contents
+
+## Page 6
+
+Chair’s statement
+2023/24 strategic progress
+In a challenging market we have delivered a resilient performance
+with continued focus on customer service, cost mitigation and
+efficiency gains. The macroeconomic environment, cost of living and
+inflationary pressures all led to lower consumer demand, de-stocking
+and our volumes remained constrained during the first half of the
+year. This trend has improved in the second half in our markets and we
+expect volumes to continue to improve into the next financial year.
+The collaboration and partnership with our customers and continued
+innovation as we work together to create sustainable packaging
+solutions have resulted in new FMCG contract wins and a further
+strengthening of relationships with existing customers. Our robust
+performance this year would not have been possible without the
+commitment and hard work of our colleagues and on behalf of the
+Board, I would like to thank them all, as well as welcoming those who
+joined DS Smith during the year.
+The long-term structural growth drivers for corrugated packaging
+remain strong and we continue to invest in our business, supporting
+our customers, driving both operational and environmental efficiency
+and growing our capacity and capabilities. In the year we opened a
+new innovation hub, and this UK-based facility allows us, our
+customers and partners to accelerate the research and development
+of new packaging solutions.
+As well as investing in upgrading our paper mills in Lucca, Italy and
+Viana in Portugal, to increase production and efficiency, we started
+construction of a new biomass-from-waste boiler in France which will
+reduce greenhouse gas (GHG) emissions by 99,000 tonnes CO2e.
+Combination with International Paper
+DS Smith is a high-quality business with an excellent customer focus
+and exceptional people and this has been recognised by the strong
+interest we have seen in the Company.
+In April, the Boards of International Paper Company and DS Smith
+reached an agreement and recommended an all-share combination
+of International Paper with DS Smith. The combination will bring
+together complementary businesses to create a truly global
+sustainable packaging solutions leader, with industry-leading
+positions in two of the most attractive geographies of Europe and
+North America. The combined business will enhance our global
+proposition to customers, create opportunities for colleagues and
+drive value for shareholders who can remain fully invested in such an
+exciting business. Further details on the proposed transaction can be
+found at www.dssmith.com.
+Sustainability
+Sustainability is central to our circular business model. We continue to
+work actively with our customers to help them address their
+sustainability challenges and have launched multiple new innovative
+solutions and hit our target to replace one billion units of plastic for
+our customers one year early.
+Following the refresh of our Now & Next Sustainability Strategy
+announced last summer, we continue to embed the strategy into
+our business with key projects and initiatives underway to lead
+the transition to a low-carbon circular economy. These include
+developing our roadmap of decarbonisation projects for our
+science-based target, supplier engagement programme and
+human rights due diligence programme.
+“Our resilient performance
+reflects the strong collaboration
+and partnerships with our
+customers and continued
+innovation as we work together
+to create sustainable
+packaging solutions.”
+Geoff Drabble
+Chair
+4
+Contents
+
+## Page 7
+
+The Board
+There have been several changes to the Board over the past year,
+including Miles Roberts announcing his intention to step down as
+Chief Executive by 30 November 2025. During Miles’ 13-year tenure,
+he has transformed the Group into what it is today. There will be
+plenty of time to thank Miles properly when he leaves, and he will
+be much missed by both the Board and his colleagues within the
+wider business.
+Richard Pike joined the Group in the prior financial year, replacing
+Adrian Marsh on the Board in June 2023, and we also welcomed two
+other new Board members: Eric Olsen who joined the Board in May
+2023 and Tessa Bamford who joined the Board in January 2024.
+Health and safety
+Our values and priorities continue to drive the culture and operating
+practices within our business. Our primary areas of focus are always
+for the safety, health and wellbeing of our employees and serving
+our customers in these challenging times. Once again, I am very proud
+of our people, working to serve our customers in a safe operating
+environment. Despite the many challenges we have faced, this is the
+16th consecutive year we have seen an improvement in our health and
+safety KPIs, an area that is a key priority for the Board.
+Capital allocation and dividend
+Our capital allocation priorities remain focused on disciplined
+investment to support operational and environmental efficiency,
+together with growth with our customers, to drive shareholder
+returns while maintaining a robust balance sheet. The Board
+considers the dividend to be a very important component of
+shareholder returns.
+Despite the reduction in profits, and reflecting our robust financial
+position and confidence in the future performance and opportunities
+for the business, the Board is maintaining the dividend at the same
+level as last year. This means in respect of 2023/24, we paid an
+interim dividend of 6.0 pence and propose a final dividend of
+12.0 pence, together 18.0 pence.
+Our strategic direction and outlook
+The positive trends in packaging volumes from the second half of last
+year have continued into the current financial year and we remain
+focused on pricing, operational efficiency and tight cost control. The
+increasing demand is resulting in higher paper and other input costs,
+including OCC. We anticipate this will be reflected in packaging price
+rises, with the benefits expected to be weighted to the second half of
+our current financial year and provide further momentum into FY26.
+Engaging with stakeholders: Section 172 statement
+The Board aims to promote the success of the Company for the benefit of its shareholders as a whole, taking into account the long-term
+consequences of its decisions and looking at those decisions through a variety of lenses. This involves the Board and management considering
+in detail, and discussing, the interests of the Company’s stakeholders including our customers; our people; our investors; our suppliers; local
+communities and non-governmental organisations; the importance of maintaining our reputation for high standards of business conduct and
+acting fairly as between shareholders; and the environment. More information about our stakeholders is set out on pages 22 and 23. More
+information about the Board balancing stakeholder interests is set out on page 89. Examples of what that has looked like in practice over the
+past year are summarised below. Engagement with all our stakeholders is led by our executive teams, who in turn regularly update Board
+members, via presentations and briefings. In the governance section of this Annual Report we use s172  to highlight the examples referred to
+below. The table below illustrates aspects of the Board’s approach to its duties under section 172 of the Companies Act 2006:
+Stakeholder
+Strategic Report
+Governance
+Our customers
+Pages 16 and 17 (collaboration), 22
+(engagement)
+Page 93 and 94 (engagement with our customers via updates from sales,
+marketing and innovation functions)
+Our people
+Pages 22 and 27 (engagement and feedback),
+27 (decisions made in consultation with
+employees), 27 (engagement on health and
+safety)
+Pages 93 (engagement with our workforce), 93 (EWC meetings), 93 (EWC
+representative attending Remuneration Committee meetings and
+Remuneration Committee Chair attending EWC Executive meetings), 93
+(update on diversity, equity and inclusion and active networks), 94
+(Board visits)
+Our investors
+Page 22 (engagement)
+Pages 93 (engagement with our shareholders), 93 (briefing on views of
+institutional investors)
+Our suppliers
+Page 22 (engagement and supplier standards)
+Page 93 (engagement with our suppliers via regular Board reports)
+The environment
+and communities
+Pages 23 (engagement with stakeholders on
+environmental matters and charitable giving),
+31 (engagement with ESG rating agencies)
+Pages 89 (briefing on development of the Net Zero Transition Plan),
+94 (engagement with other stakeholders including briefing on
+community engagement)
+Governments
+and non-
+governmental
+organisations
+Page 23 (engagement)
+Page 94 (briefing on engagement with other interested stakeholders
+including on topics such as the new Packaging and Packaging Waste
+regulations)
+This statement is made in conformity with the requirement to explain how directors fulfil section 172 of the Companies Act 2006.
+Annual Report 2024 dssmith.com
+5
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 8
+
+Group Chief Executive’s review
+Redefining Packaging for a Changing World
+Over the past ten years, DS Smith has grown significantly through
+dedication to customers and a focus on innovation, quality of
+packaging and high levels of service. Earlier this year, these qualities
+attracted the interest of International Paper to combine two focused
+and complementary businesses.
+The proposed combination with International Paper is an attractive
+opportunity to create a truly international sustainable packaging
+solutions leader that is well positioned in attractive and growing
+markets across Europe and North America. The combination will
+enhance our global proposition to customers, create opportunities for
+colleagues and drive value for shareholders who can remain fully
+invested in such an exciting business.
+Turning to 2023/24, we have delivered a resilient performance this
+year despite tough economic conditions, and I am pleased with the
+progress we have made. Whilst the challenging market conditions
+have led to a lower demand environment and an impact on volumes,
+we have seen an improving trend in the second half including some
+important customer wins.
+Our leadership in sustainability and the circular economy ideally
+positions us to maximise growth opportunities with new and existing
+customers as we partner on new innovation projects and value-added
+sustainable products and services.
+Central to this strategy is our global Research & Development (R&D)
+and Innovation Centre, ‘R8’, based just outside Birmingham, UK. The
+new facility is the innovation hub for the Company, allowing us to
+accelerate radical innovation in packaging and services and run pilot
+programmes with our customers.
+Alongside our focus on increasing innovation and growth, we are
+focusing on cost efficiencies through energy savings programmes,
+and by improving operational performance and productivity across our
+sites. We have invested in our operations to drive further efficiencies,
+including a new fibre preparation line at Kemsley mill in the UK;
+targeting improved production at our Margarethen am Moos and
+Kalsdorf bei Graz sites in Austria; and minimisation of raw material
+waste at our Ierapetra, Corinth and Thessaloniki Packaging sites
+in Greece.
+Efficiency is core to our Sustainability Strategy. We are committed to
+developing our plans in line with climate science and this year we have
+produced our first Net Zero Transition Plan, which describes the
+actions we are taking to deliver our science-based target, which is to
+reduce our Scope 1, 2 and 3 greenhouse gas (GHG) emissions by 46
+per cent by 2030, compared to 2019. Since our 2019/20 base year, we
+have achieved a 19 per cent reduction in total GHG emissions and in
+2023 we were recognised for corporate transparency and
+performance on climate change by global environment non-profit
+CDP, securing a place on its annual ‘A List’.
+In addition to the progress made towards our science-based target,
+this year we have met an important sustainability metric for our
+circular, fibre-based business. As part of our Now & Next
+Sustainability Strategy, we set a target to help our customers remove
+one billion pieces of plastic by 2025. I am very proud to say that we
+have now exceeded this target, and done so more than a year ahead
+of schedule. This is a collective achievement across the Group and I
+would like to thank our customers and colleagues for their ambition
+and tenacity.
+“We have continued to
+position the business to
+maximise on opportunities
+for growth by investing in
+efficiency, innovation and
+value-added sustainable
+products and services.”
+Miles Roberts
+Group Chief Executive
+6
+Contents
+
+## Page 9
+
+Our colleagues are what drive our business forward, and in 2023/24
+we have accelerated progress on our wellbeing, diversity, equity and
+inclusion agendas. I am pleased to note that we achieved an increase
+in perception of DS Smith as a safe employer and an inclusive place to
+work by 5 per cent and 7 per cent respectively.
+Critically, we made another notable advancement towards our Vision
+Zero by achieving our highest level of health and safety engagement
+on record, resulting in our safest year to date.
+There is much of which we can be proud this year. I am sure that the
+business will continue to flourish as part of a combined group with
+International Paper due to the capability and continued commitment
+of our colleagues. We know we can have the greatest positive impact
+by meeting demand for more sustainable lifestyles and helping to
+create a low-carbon, circular economy. It is a journey we have been on
+with customers and colleagues for more than a decade and we will
+continue on this path as we deliver our Purpose of Redefining
+Packaging for a Changing World.
+Q&A
+How have lower paper prices and volumes affected
+the business and what do you expect going forward?
+I am pleased with our robust performance, set against a backdrop
+of high inflation and a weak paper and consumer demand
+environment. Our performance has been driven by our focus on
+customers, quality, service and innovation together with the
+benefit from our self-help productivity initiatives. We are seeing
+momentum in packaging volumes, with the second half of the year
+showing positive volume growth, and we remain focused on
+pricing, operational efficiency and tight cost control. Paper prices
+increased in the final quarter of the year and we expect to recover
+these through higher packaging prices, with the usual lag. Our
+strong customer relationships and excellent service levels have led
+to a number of recent FMCG customer contract wins, underpinning
+our confidence in the future.
+Why have you invested in the R8 innovation and
+R&D centre?
+Our customers include some of the most iconic brands in the world,
+and they rightly make challenging demands of us – sustainability is
+high on their agenda as consumers want increasingly sustainable
+lifestyles. Our investment is intended to spearhead research in
+new materials and manufacturing, maximising the growing
+demand for sustainable packaging, and the innovation needed
+to deliver it.
+Our new global Research & Development (R&D) and Innovation
+Centre, ‘R8’, allows us, our customers and partners to accelerate
+the research and development of radically new and sustainable
+packaging fulfilment solutions and to help customers visualise the
+value we can bring.
+The facility includes a 4,000m2 pilot hall, four laboratories,
+conditioning chambers, an ideation and design studio, prototyping
+areas and collaboration spaces. Projects will be informed by key
+industry drivers rooted in sustainability, supply chains and data.
+Among the leading-edge technologies at ‘R8’ is a modular Pilot
+Line, inspired by the automotive industry and developed in Italy,
+which uses robots to make boxes from multiple components and
+fill them at high speed.
+We will be partnering with customers to help them transition to the
+circular economy by focusing on novel packaging solutions that
+deploy new materials and technologies, and we have designed the
+facility to encourage scrutiny of existing ways of working and
+explore all the possibilities, especially for service-based offerings
+in the packaging supply chain. ‘R8’ provides a unique opportunity to
+demonstrate how we bring value to the biggest brands in
+the world.
+What do recent sustainability-related changes in
+regulation mean for industry?
+In November 2022, the European Commission published its
+proposal for Packaging and Packaging Waste Regulation (PPWR),
+which is intended to support the Commission’s target of ensuring
+that all plastic packaging is reusable or recyclable by 2030, with a
+focus on reducing the amount of packaging placed on the EU
+market and preventing the generation of packaging waste. This
+introduces, for the first time, waste reduction targets for Member
+States, a series of new measures on recycled content, packaging
+minimisation and reuse and refill, as well as bans on certain types
+of single-use packaging.
+We have worked with our trade associations in Brussels to
+establish a constructive dialogue with the EU institutions
+throughout the process. Fibre-based packaging is exempt from
+reuse targets in the new legislation, which ensures that recycling
+and reuse are seen as complementary and enables industry to
+innovate towards reuse solutions for the future.
+We welcome the opportunity this brings for our industry to
+innovate towards ever more sustainable, circular solutions and to
+support the EU’s Circular Economy Action Plan. We look forward to
+working with our partners and customers to innovate and lead the
+way in fibre-based packaging in Europe.
+Annual Report 2024 dssmith.com
+7
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 10
+
+To delight our customers
+We do this by:
+• Delivering on our commitment for quality and service.
+• Driving innovation and value-added packaging solutions.
+• Improving service levels.
+• Driving circularity and continuing to deliver market-leading
+sustainable solutions.
+Highlights
+We collaborated with Versuni, home to some of the world’s most
+renowned domestic appliance brands, to produce and deliver 100 per
+cent recycled and recyclable packaging solutions.
+The new boxes are made with 100 per cent recycled paper with
+durability for transportation and were designed using our Circular
+Design Metrics. This sustainable packaging will be extended across
+Versuni’s Philips home appliance global product portfolio. We are
+working with Versuni to replace single-use protection buffers (EDF)
+plastics inside the packaging with sustainable fibre-based packaging
+alternatives. This is a step forward in fulfilling Versuni’s commitment to
+deliver 100 per cent plastic-free packaging within the next four years.
+Priorities for 2024/25
+• Continue to accelerate our innovation agenda, producing new
+sustainable packaging solutions at scale for customers across our
+footprint in Europe and North America.
+• Increase focus on delivering a world class experience for our customers
+through quality products, excellent service and ever closer partnerships.
+• Produce high performance papers to facilitate the creation of
+innovative, sustainable, packaging solutions both in our business
+and in a competitive global market, while delivering on our carbon
+reduction programme.
+See pages 24-25 for more information
+Our strategy
+To realise the potential of
+our people
+We do this by:
+• Ensuring the health, safety and wellbeing of all our employees.
+• Creating a working environment where they feel proud, engaged
+and developed.
+• Focusing on embedding diversity and inclusion by expanding
+resource groups and local networks.
+Highlights
+As a business we are evolving and growing through innovation in
+sustainability and aim to be a leader in circularity. Ensuring we have
+the right skills to deliver our ambition is critical to our success. We are
+actively investing in development to realise the potential of our
+people. Over the last two years we have created Learning Academies
+to develop critical skills in Sales, Marketing and Innovation (SMI),
+Operations, Finance, Digital and Data. In 2022/23 we had 1,176
+colleagues receive learning through our SMI Academy across
+all regions.
+Priorities for 2024/25
+• Progressing toward Vision Zero.
+• Maintaining a safe and inclusive workplace.
+• Building critical capabilities required to deliver our business plan.
+• Leading an engaged workforce to deliver customer needs.
+See pages 26-29 for more information
+Our strategy is based on balancing the
+requirements of our core stakeholders.
+8
+Contents
+
+## Page 11
+
+To lead the way in sustainability
+We do this by:
+• Designing out waste and pollution, and keeping materials in use.
+• Decarbonising our operations and value chain.
+• Creating a safe, diverse and inclusive workplace and being active in
+our communities.
+• Protecting and regenerating nature.
+Highlights
+In 2023/24, we continued to embed our refreshed Now & Next
+Sustainability Strategy. We introduced a new sustainability
+governance framework comprising expert horizontal thematic
+Steering Committees, Working Groups and Project teams to drive the
+delivery of our targets forward. In addition to achieving our target to
+replace one billion pieces of plastic, we furthered our projects to
+protect and regenerate nature and strengthened our human rights
+due diligence.
+Priorities for 2024/25
+• Iterate our Net Zero Transition Plan further, implementing key
+projects such as the transition to biomass at Rouen paper mill.
+• Respond to the legislative environment, particularly to key issues
+such as the EU Deforestation Regulation (EUDR) and the Packaging
+and Packaging Waste Regulation (PPWR).
+• Continue to roll out our Human Rights due diligence programme.
+See pages 30-37 for more information
+To double our size and profitability
+We do this by:
+• Being well positioned in developed markets.
+• Working with major FMCG brands.
+• Driving market share gains.
+• Investing behind fundamental growth drivers.
+Highlights
+Our strong customer relationships, quality and service have led to a
+number of recent FMCG customer contract wins, underpinning our
+confidence in the outlook for volume growth going forward. While
+markets remain challenging, we continue to focus on providing
+value-added solutions to our customers and on driving operational
+efficiency and cost control across the Group and view the future
+with confidence.
+Priorities for 2024/25
+• Continue to develop strong customer delivery and grow
+market share.
+• Focus on cost mitigation and efficiency.
+• Continue to invest in our business.
+• Drive returns for shareholders.
+See pages 38-42 for more information
+Annual Report 2024 dssmith.com
+9
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 12
+
+2023/24
+2022/23
+2021/22
+96%
+94%
+2024 Target: 97%
+96%
+2023/24
+2022/23
+2021/22
+84%
+84%
+83%
+2023/24
+2022/23
+2021/22
+2030 Target: 4,651,382 tonnes CO2e
+7,391,418  tonnes CO2e
+8,250,702 tonnes CO2e
+6,985,269  tonnes CO2e
+2023/24
+over 1.2 billion units*
+Our non-financial KPIs
+Our KPIs
+
+* Since May 2020.
+Accident frequency rate
+(AFR)
+The number of lost time accidents (LTAs)
+per million hours worked.
+Why this is a KPI
+The AFR is the number of LTAs per million
+hours worked. We believe all employees
+contribute to a safe working environment
+and culture and our focus is on individual
+ownership.
+Health and safety KPIs
+2023/24
+2022/23
+Total LTAs1
+80
+91
+AFR2
+1.65
+1.82
+1. LTA: number of accidents resulting in lost time of
+one shift or more.
+2. AFR: number of LTAs per million hours worked.
+FTSE Women Leaders
+Report 2023
+This is an independent framework which sets
+recommendations to improve the
+representation of women on boards and in
+leadership positions.
+Why this is a KPI
+We are using this as a KPI to track progress in
+delivering gender balance aligned to the FTSE
+350 and 50 of the largest private companies.
+Overall FTSE ranking
+63
+Women on DS Smith Plc Board
+40%1
+Senior leadership*
+31.1%2
+1. Compared to FTSE 100 average of 40.5%.
+2. Compared to FTSE 100 average of 34.3%.
+
+* Senior leadership defined as our four Executive
+Committees and their direct reports: Group
+Operating Committee; Group Strategy
+Committee; Group Health, Safety, Environment
+and Sustainability Committee; and Group
+M&A Committee.
+Carbon reduction
+Reduce Scope 1, 2 and 3 GHG emissions
+46 per cent by 2030 compared to 2019
+and reach Net Zero by 2050.
+Why this is a KPI
+It is important that we play our part in
+reducing global greenhouse gas emissions,
+helping prevent the worst impacts of climate
+change and future-proofing business growth
+in line with the goals of the Paris Agreement.
+Plastic replacement
+Help our customers replace one billion pieces
+of plastic by 2025.
+Why this is a KPI
+Our customers approve of corrugated
+packaging as a renewable alternative to
+plastic that, when recycled, prevents
+waste from entering landfills and oceans,
+reducing the impact on marine life and the
+natural world.
+Our corrugated packaging
+customers by volume
+DS Smith has a higher proportion of FMCG and
+other consumer goods customers than the
+market average.
+Why this is a KPI
+We work with large customers in resilient
+sectors such as FMCG and aim to grow share
+with these customers.
+On-time, in-full deliveries
+(OTIF)
+The proportion of our orders that are
+delivered on-time, in-full across
+our businesses.
+Why this is a KPI
+Packaging is an essential part of an efficient
+supply chain. Delivering as promised is a
+critical component to ensuring we remain a
+trusted partner to our customers.
+See pages 24-25 for more information
+See pages 26-29 for more information
+See pages 30-37 for more information
+10
+Contents
+
+## Page 13
+
+Our medium-term targets
+See pages 38-42 for more information
+Return on sales
+Earnings before interest, tax, amortisation
+and adjusting items as a percentage
+of revenue.
+Why this is a KPI
+The margin we achieve reflects the value we
+deliver to our customers and our ability to
+charge for that value. It is also driven by our
+scale. A higher return on sales makes the
+profit more resilient to adverse effects.
+2023/24
+2022/23
+2021/22
+-2.2%
+2024 Target: 1.8%
+-5.8%
+5.4%
+2023/24
+2022/23
+2021/22
+10.5%
+8.5%
+2024 Target: 10% – 12%
+10.3%
+2023/24
+2022/23
+2021/22
+14.3%
+10.8%
+2024 Target: 12% – 15%
+10.7%
+2023/24
+2022/23
+2021/22
+1.3x
+1.6x
+2024 Target: <2.0x
+2.1x
+2023/24
+2022/23
+2021/22
+101%
+142%
+2024 Target: >100%
+39%
+Net debt/EBITDA
+Net debt (calculated at average FX rates and
+after deducting IFRS 16 lease liabilities) over
+earnings before interest, tax, depreciation,
+amortisation and adjusting items for the
+preceding 12-month period (adjusted for
+acquisitions and disposals made during the
+financial year, and to remove the income
+effect of IFRS 16, Leases). This definition is in
+accordance with the Group’s covenants.
+Why this is a KPI
+Net debt/EBITDA is a key measure of balance
+sheet strength and financial stability.
+Cash conversion
+Free cash flow before tax, net interest,
+growth capex, pension payments and
+adjusting items as a percentage of earnings
+before interest, tax, amortisation and
+adjusting items. Free cash flow is the net
+movement on debt before cash outflow for
+adjusting items, dividends paid, acquisition
+and disposal of subsidiary businesses
+(including borrowings acquired) and proceeds
+from issue of share capital.
+Why this is a KPI
+We focus on cash conversion as part of our
+wider focus on capital management and
+maintaining a prudent balance sheet.
+Working capital is a key focus within the
+business in order that all capital is employed
+where it can best deliver returns for
+the business.
+Adjusted return on
+average capital employed
+Earnings before interest, tax, amortisation
+and adjusting items as a percentage of
+average capital employed, including goodwill,
+over the prior 12-month period.
+Why this is a KPI
+Our target ROACE to be delivered throughout
+the economic cycle is above our cost of
+capital. ROACE is a key measure of financial
+success and sustainability of returns and
+reflects the returns available for investment
+in the business and for the servicing of debt
+and equity. All investments and acquisitions
+are assessed with reference to this target.
+Like for like corrugated
+box volume growth
+Like for like volume of corrugated box
+products sold measured by area.
+Why this is a KPI
+We target volume growth of at least GDP +1
+per cent because we expect to win market
+share by delivering value to our customers.
+Annual Report 2024 dssmith.com
+11
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 14
+
+How are we responding:
+Collaborating with customers to find
+innovative packaging solutions – drive supply
+chain efficiencies, offer cost benefits and
+environmental advantages.
+DS Smith helps consumers replace plastic and
+reduce their carbon footprint in the transition
+to Net Zero through the use of renewable
+and recyclable materials. We continue to
+work on identifying new plastic replacement
+opportunities as part of delivering our Now &
+Next strategy.
+How are we responding:
+Growth has steadied but the opportunity in
+e-commerce remains significant. High-quality
+packaging is an essential element of this
+supply chain, putting us in a unique position
+to develop innovative, sustainable solutions.
+Collaborating with our customers to design
+packaging that is sustainable, durable,
+protective and offers reuse solutions
+for returns.
+How are we responding:
+Being more sustainable through greater
+resource efficiency, using fewer resources
+(materials, energy and/or water) in
+manufacturing through design and operating
+efficiency and throughout the value chain.
+As energy systems evolve, there is an
+opportunity to adopt lower-emission energy
+sources and energy efficiency measures.
+These could be equipment-based (e.g.
+e-boilers and carbon capture and storage),
+fuel-based (e.g. hydrogen) or process-based
+(e.g. heat recovery and optimisation through
+digital and data innovation).
+Read more
+For more information, see our ‘LiftUp’ case
+study in the Customer section on page 25 and
+‘R8’ in the Innovation section of Partnership
+and collaboration on page 16.
+Read more
+For more information, see the Customer
+section on page 25.
+Read more
+For more information, see the PPWR spotlight
+on page 13 and the ‘Rouen’ case study in the
+Manufacture section of Sustainability and
+circulatory on page 21.
+Trends driving our market forward
+There is a need for a new approach to packaging and a need for strong
+leadership in our industry. We see the opportunity for packaging to play a
+powerful role in a changing world.
+Our market
+E-commerce
+Opportunities and challenges:
+The way consumers shop has transformed
+dramatically. An increasing preference for
+online shopping, driven by convenience and
+lifestyle changes, has become evident. In the
+UK, internet sales now represent over 25 per
+cent of retail sales, with over 80 per cent of
+the population engaging in e-commerce
+purchases. This shift places immense
+pressure on businesses to ensure their
+e-commerce packaging solutions are
+innovative.
+Our 2023 UK consumer study highlighted
+three key focus areas for retailers in
+e-commerce packaging:
+• Sustainability: Consumers are increasingly
+eco-conscious. Our research indicates that
+one in four online shoppers would cease
+ordering from a company due to excessive,
+non-recyclable packaging.
+• Durability and Protection: Packaging must
+protect goods effectively. With 32 per cent
+of consumers experiencing damaged
+packaging, and 58 per cent likely to stop
+ordering from a company due to repeated
+damaged products, this is a critical area.
+• Ease of Returns: A smooth return process
+is essential as 29 per cent of consumers
+find the current process frustrating.
+Retail – channels
+Opportunities and challenges:
+The increased cost of living has driven
+footfall to discount supermarkets; 65 per
+cent of UK consumers say they now prefer
+cheaper private label products over named
+brands1. This shift has created growing
+demand for shelf-ready packaging that
+optimises costs, generating opportunity for
+us to innovate in this space for our customers.
+Moreover, most UK retailers have targets for
+sustainable packaging with plastic reduction
+and recycling as main targets. This is further
+being accelerated by changes in regulation
+which will mean single-use plastic is no
+longer an option for many producers.
+Sustainability
+Opportunities and challenges:
+Packaging has grown in the consciousness of
+consumers, and more of it now arrives in the
+home environment. Given our innovation,
+sustainability credentials and the recyclability
+of our products, concerns about plastic and
+over-packaging create opportunities for us.
+Greater focus is also placed on sustainable
+supply chains and our customers are looking
+for strong ESG credentials in their suppliers to
+reduce their Scope 3 emissions. Growth in
+demand for sustainable packaging also
+necessitates greater demand for recycling
+and improvement of recycling facilities to
+create cleaner waste streams.
+1. Capgemini Research Institute, consumer demand survey.
+12
+Contents
+
+## Page 15
+
+In November 2022 the European Commission
+published its draft proposal for a new
+Packaging and Packaging Waste Regulation
+(PPWR). The Regulation sets out the practical
+means by which the EU could meet the
+Commission’s target of ensuring that all
+plastic packaging is reusable or recyclable
+by 2030, with a focus on reducing the
+amount of packaging placed on the EU
+market and preventing the generation of
+packaging waste.
+The proposal introduces, for the first time,
+waste reduction targets for Member States,
+and a series of new measures on recycled
+content, packaging minimisation and reuse
+and refill, as well as bans on certain types of
+single-use packaging.
+DS Smith welcomes the PPWR as a
+fundamental measure to increase packaging
+circularity in Europe, and an important part of
+the EU’s Circular Economy Action Plan. We
+have worked closely with our trade
+associations in Brussels to establish a
+constructive dialogue with the EU institutions
+throughout the process and ensure that the
+new legislation ensures that recycling and
+reuse are seen as complementary parts of the
+future regulatory landscape.
+As we reach the end of the process, we look
+forward to working with our partners and
+customers in ensuring a successful
+implementation of the legislation and
+continue to lead the way in packaging
+sustainability in Europe.
+PPWR spotlight
+DS Smith welcomes the Packaging and Packaging Waste Regulation (PPWR)
+as a fundamental measure to increase packaging circularity in Europe.
+Responding to the drivers of our market
+>1.2bn
+Over 1.2 billion pieces of
+plastic replaced
+Replacing one billion pieces of plastic with our customers
+As part of our Now & Next Sustainability Strategy, we set a target to help our customers
+replace one billion pieces of plastic by the end of April 2025. We are proud to share the
+news that we have replaced over 1.2 billion pieces of plastic, 16 months ahead of our
+2025 target. This milestone was met through cross-functional working among DS Smith
+teams, including Sales, Marketing & Innovation, Group Innovation, and Group Research &
+Development, who have collectively been deploying the principles of circular design to
+deliver fibre-based solutions as a practical and cost-effective alternative to customers’
+existing plastic packaging. Volumes of the number of plastics alternatives sold have
+remained consistent each year, demonstrating continued demand for our fibre-based
+solutions, and reinforcing that we continue to deliver our Purpose of Redefining
+Packaging for a Changing World.
+See page 34 for more information
+Annual Report 2024 dssmith.com
+13
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 16
+
+To be the leader in sustainable
+packaging solutions
+O
+u
+r
+ci
+r
+c
+u
+l
+a
+r
+b
+u
+s
+i
+n
+e
+s
+s
+m
+o
+d
+el
+Our relationships
+and resources
+Our people and values
+We employ c. 29,000 people globally
+and invest in and develop them so they
+can realise their potential. Our values
+and management standards guide how
+we operate.
+Manufacturing and other
+physical assets
+We have an extensive network of
+packaging manufacturing sites, paper
+mills, recycling depots and innovation
+centres, supported by the
+infrastructure of the countries in which
+we operate.
+Our relationships
+We interact in a way consistent with
+our corporate values to build and
+maintain trusted relationships with our
+customers, suppliers and communities.
+Intellectual capital
+We have substantial customer
+understanding, innovation and
+patented designs.
+Digital and data
+Integration of digital and data will help
+increase manufacturing capacity and
+service levels to deliver best in class
+customer experience.
+Financial capital
+We are funded by a combination of
+shareholder equity, debt and
+reinvested cash flow.
+Natural capital
+We operate a circular model through
+the recycling of natural material, in
+particular wood fibre.
+Recycling
+DS Smith
+operations
+Corrugated
+packaging
+Paper
+manufacturing
+3
+2
+4
+1
+Customers
+Retailers
+Consumers
+1
+2
+3
+4
+CCM
+Paper is converted
+into corrugated
+board and then
+into packaging
+Boxes
+Packaging is used
+by our customers,
+retailers and
+consumers
+Used
+packaging
+Used packaging is
+collected and
+brought to our
+recycling facilities
+OCC and
+recovered
+fibre
+OCC and recovered
+fibre are converted
+into paper again
+CCM: corrugated case material, the paper used to form corrugated board.
+OCC: old corrugated cases, i.e. used corrugated board, a feedstock for recycled paper.
+14
+Our business model
+Contents
+
+## Page 17
+
+How we create value
+1. Insight
+Our strong relationships with our
+customers in fast moving consumer goods
+(FMCG), retail and industrial sectors help
+us gain insights in changing consumer,
+retail and regulatory trends and how they
+impact the use of packaging. We use this
+knowledge to inform our innovation.
+2. Innovation
+Innovation is at the heart of our business.
+We have a significant investment
+programme in research and development
+(R&D) to accelerate our work in the
+circular economy and plastic replacement.
+We collaborate with our customers to
+create sustainable packaging solutions in
+our Impact Centres and are able to test
+and pilot designs and then share best
+practice across all regions.
+We are also innovators in the use of
+light-weight corrugated board. Our
+proprietary technology to test the
+strength of corrugated board as it is
+manufactured means we can use the
+optimum paper weight required.
+3. Design
+Our designers use our Circular Design
+Principles to improve the sustainability of
+packaging. Through our network of
+designers and PackRight Centres, we
+create packaging that fulfils our
+customers’ requirements for all stages of
+the primary product’s journey, whether
+replacing plastic, improving protection in
+transit, ease of identification in the supply
+cycle, or presenting the primary product to
+maximise sales.
+4. Manufacturing
+Our paper mills manufacture CCM and our
+corrugated plants convert CCM into
+corrugated board, then print, cut and
+pre-glue the boxes, which are then
+shipped flat on pallets, ready for assembly
+and filling at our customers’ factories. We
+maximise the efficiency of our
+manufacturing, for example, using
+light-weight papers where possible to
+reduce the cost and carbon impact of the
+packaging produced.
+The value we
+create
+Satisfied customers
+We develop packaging that helps our
+customers appeal more to consumers,
+sell more, reduce costs, manage risks
+and become circular-ready.
+Packaging that is
+sustainable
+Our packaging is usually fully recyclable
+and made from largely recycled
+material. We recycle more packaging
+than we produce.
+Replacing plastic
+We have replaced over 1.2 billion units
+of plastic with alternative fibre-based
+solutions since 2020.
+Returns to our capital
+providers
+Investors benefit from strong
+operational and financial performance.
+Safety and opportunity for
+our people
+We aim to create equality of
+opportunity for people to grow and
+develop throughout their career in a
+safe working environment.
+Leadership in sustainability
+We are leading the transition on
+packaging sustainability through our
+engagement with major organisations
+such as the Ellen MacArthur Foundation.
+Community involvement
+We have an active programme of
+community involvement in addition
+to satisfying a societal need for
+recyclable packaging.
+Our differentiators
+Scale
+Innovation
+Sustainability and
+circular economy
+Market drivers
+Responding to retail
+channel changes/
+consumer behaviour
+Sustainability
+E-commerce
+Annual Report 2024 dssmith.com
+15
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 18
+
+I
+N
+SI
+G
+H
+T
+I
+N
+N
+O
+V
+A
+T
+I
+ON
+Partnership and collaboration
+We work with world-leading
+partners to advance new solutions
+and accelerate the transition to
+the circular economy.
+Exploring alternative
+fibres
+We have been working with
+biotechnology businesses to
+explore alternative fibres such as
+straw, hemp, seaweed and even
+cocoa shells as alternative fibres
+for paper and plastic.
+In an innovative pilot programme
+with The Research Institute of
+Sweden (RISE), we explored how
+the properties of straw and
+seaweed could potentially work as
+a packaging product in comparison
+to more traditional materials
+including recycled hardwood
+and softwood.
+“Our valued partnership with DS Smith is truly collaborative.
+The DS Smith Impact Centre is impressive and enables the
+exploration of new ideas on how packaging can help to
+achieve Britvic’s strategic and sustainable objectives.”
+Victoria Priscott
+Senior Category Manager — Packaging, Britvic
+Delivering value every step of the way
+>50
+Impact Centres & Customer
+Innovation Hubs and
+PackRight Centres
+New state of the art
+innovation facility
+Innovation is at the heart of our
+business and this year we have
+opened a new facility dedicated to
+R&D. This includes a 4,000m2 pilot
+hall, four laboratories, conditioning
+chambers, an ideation and design
+studio, prototyping areas and
+collaboration spaces. Projects will
+be informed by key industry drivers
+rooted in sustainability, supply
+chains and data.
+Our Impact Centres
+Our strong relationships with our
+customers in FMCG, retail and
+industrial sectors help us gain
+insights in changing consumer,
+retail and regulatory trends
+and how they impact the
+use of packaging. We use
+this knowledge to inform
+our innovation.
+We collaborate with our
+customers to create sustainable
+packaging solutions in our Impact
+Centres and are able to test and
+pilot designs and share best
+practice across all regions.
+16
+Contents
+
+## Page 19
+
+M
+A
+N
+U
+F
+A
+C
+T
+U
+R
+E
+D
+E
+S
+I
+G
+N
+Collaboration with Coca Cola HBC Austria
+We collaborated with Coca Cola HBC Austria to replace plastic
+shrink wrap for 1.5 litre PET soft drink multi-packs with cardboard
+based outer packaging. The innovative packaging solution,
+DS Smith LiftUp, is a 100 per cent recyclable corrugated handle
+which improves carry functionality for consumers and reduces
+around 200 tonnes of plastic each year for Coca-Cola HBC Austria.
+See page 25 for more information.
+Partnership with E.ON
+We have partnered with E.ON at our mill in Aschaffenburg to build a
+new waste-to-energy and combined heat and power plant which will
+be operated by E.ON, resulting in significant energy costs and
+capex savings.
+CO2 emission reduction of
+c. 50,000
+tonnes
+Awards won:
+DS Smith received the External
+Business Partners Excellence Award
+from P&G. This award recognises our
+consistently high performance in
+serving P&G employees throughout
+the supply chain.
+Our teams in Spain, Finland and
+Hungary have received well-deserved
+recognition at the WorldStar Global
+Packaging Awards for exceptional
+packaging innovation.
+Annual Report 2024 dssmith.com
+17
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 20
+
+I
+N
+SI
+G
+H
+T
+I
+N
+N
+O
+V
+A
+T
+I
+ON
+An innovation in
+circular shelf-ready
+packaging
+The DD Wrap is an innovative
+and sustainable shelf-ready
+packaging solution.
+It is circular economy ready
+while also increasing supply
+chain efficiency. It is created
+from a single piece of cardboard
+without perforation at the front
+side to improve visibility and
+appeal at the point of display.
+The designers have been able
+to minimise the amount of
+material and resources used,
+as well as reduce the size of
+the boxes, which eliminates
+empty space.
+Reuse pilots
+Our reuse pilots will help us to understand how to
+support our customers in reaching the reuse
+targets proposed in the draft EU Packaging and
+Packaging Waste Regulation. We will pilot reusable
+packaging solutions with customers and partners as
+they progress through our innovation stage gate
+process. We look forward to scaling the pilots where
+packaging reuse best complements recycling
+systems, reduces materials and keeps them in use
+for as long as possible, delivering a better outcome
+for the planet.
+Optimise fibre for
+individual supply
+chains in new
+packaging solutions
+Using our insights, we work
+with our customers to drive
+innovation in our solutions
+with optimised packaging,
+designing out waste and
+pollution in the process.
+This involves optimising
+packaging for efficiency,
+driving savings through
+small improvements to the
+packaging’s dimensions, shape
+and materials that can be
+multiplied over thousands of
+units. This results in a lower
+environmental impact and/or
+financial savings across the
+customer’s supply chain.
+Efficiency and delivery
+We are investing in production and
+operational innovations, creating
+efficiencies and growth. It is our way
+of ensuring DS Smith is well set
+up for the years ahead.
+Delivering value every step of the way
+64%
+90%
+26%
+23%
+23/24
+22/23
+21/22
+20/21
+Percentage of fibre use
+optimised for individual
+supply chains1
+1. These figures represent c. 74 of our conventional packaging sites
+for whichBSIR (Board Strength Index Rating) data is available.
+It does not capture allpackaging designs and specifications and
+excludes board purchasedexternally and sheet board sales.
+See DS Smith Sustainability Report 2024,page 17.
+18
+Contents
+
+## Page 21
+
+M
+A
+N
+U
+F
+A
+C
+T
+U
+R
+E
+D
+E
+S
+I
+G
+N
+Stackable system
+display for Pepsi
+We have developed a
+stackable system display
+for Pepsi to launch a new
+flavour and also reduce
+supply chain costs. The
+display was delivered
+prefilled, making it easy
+to assemble by staff
+in store.
+As with all DS Smith
+displays, sustainability
+was at front of mind.
+The display was
+designed for the circular
+economy and was a fully
+recyclable solution,
+with no plastic mop tray
+or gluing required.
+Moreover, as the
+display was made from
+corrugated board it was
+easily compliant with
+the supermarket’s
+recycling waste streams.
+There are now
+more than
+6,000
+recyclable corrugated
+packaging solutions added
+to our portfolio for products
+sold by our customers,
+including e-commerce
+and retail.
+Investing for growth and efficiency
+We are investing to improve operational and environmental efficiency
+and increase capacity.
+Castelfranco c. €80m investment completed in 2022/23
+• Increased capacity of 155m sqm.
+• +75 per cent labour efficiency improvement.
+Lucca c. €250m net investment – replacement and upgrade of
+end of life line
+• 2.5x faster running.
+• 40 per cent more energy efficient.
+• Additional capacity of 270,000 tonnes.
+Viana c. €145m investment – replacement and upgrade
+• c. €45m on upgrade to paper line.
+• Incremental capacity came on-line October 2023.
+• Adding 30,000 tonnes of extra kraft top paper.
+Annual Report 2024 dssmith.com
+19
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 22
+
+I
+N
+N
+O
+V
+A
+T
+I
+ON
+“At Panvita, we strive for a
+sustainable future at every
+step of our production. With
+our excellent collaboration
+with DS Smith and the
+introduction of new
+packaging, we have taken an
+important step forward in our
+commitment to reducing
+environmental impacts.”
+Toni Balažič,
+Director of the Panvita Group
+Sustainable packaging
+We align to our customers’
+needs, responding with agility
+and helping drive their
+sustainability agenda. Our
+customers remain keen to use
+less plastic and improve the
+sustainability of their packaging.
+>1.2bn
+units of plastic replaced
+Circular Design Metrics
+Our Circular Design Metrics
+make it easy for our customers
+to compare the sustainability
+performance of different
+packaging designs. Our customers
+are using the metrics to measure
+and compare the circularity of
+different solutions at a glance,
+helping them to select the best
+solution based on their priorities.
+>100,000
+packaging decisions
+influenced by our Circular
+Design Metrics since
+their launch
+c. 4,000
+solutions presented to
+customers featuring our
+Circular Design Metrics
+each month
+Please see an example
+Circular Design Metric on
+page 66
+I
+N
+SI
+G
+H
+T
+Sustainability and circularity
+We integrate new technologies, processes
+and materials to ensure efficiency and
+optimise our supply chains, reducing
+pressure on natural resources
+and minimising waste
+to landfill.
+Circular Design Principles
+As over 80 per cent of a product’s
+environmental impact is determined
+at the design stage, enabling
+circularity through design
+is essential.
+Our Circular Design Principles,
+launched in 2020 in collaboration
+with the Ellen MacArthur
+Foundation, provide a framework to
+stimulate circular design
+innovation, ensuring that packaging
+is designed to meet its purpose with
+minimal environmental impact.
+We protect brands and products
+Designers must always ensure that
+packaging successfully protects its
+product. Damaged products from poor
+packaging have a negative economic
+and environmental impact
+We use no more materials
+than necessary
+Optimised use of packaging materials
+saves resources and reduces waste
+We design for supply
+cycle efficiency
+Our designers drive efficiency by
+changing the layout of products within
+boxes for stacking in delivery vehicles
+We keep packaging materials in use
+We eliminate waste by keeping
+packaging products in use for as long
+as possible, recycling material again
+and again
+We find a better way
+We empower our designers to challenge
+the status quo and support customers in
+the drive for a circular economy
+Delivering value every step of the way
+20
+Contents
+
+## Page 23
+
+Partnering with Bosch
+We have developed a plastic-free solution for packaging for a gas
+boiler for Bosch. The innovative solution has eliminated all plastic
+packaging parts and has resulted in the removal of 100,000
+plastic components.
+The DS Smith team of expert designers used the unique DS Smith
+Circular Design Metrics approach in combination with DS Smith’s
+Value Tool to transparently demonstrate the full lifecycle benefits
+of their packaging.
+Rouen paper mill investment
+We are investing €90 million (including €15 million subsidy) in a new
+biomass boiler in Rouen, entering a long-term biomass supply and
+electricity offtake agreement. This is an environmental and efficiency
+investment reducing CO2 emissions by c. 99,000 tonnes and delivering
+strong returns.
+This project is one of a number of initiatives in Europe and North
+America that are/will contribute to DS Smith’s goal of reducing
+greenhouse gas (GHG) emissions by 46 per cent in absolute terms by
+2030, compared with 2019 levels. We are also participating in the
+Science Based Targets initiative (SBTi) with our 1.5°C science-based
+target in line with the goals of the Paris Agreement.
+M
+A
+N
+U
+F
+A
+C
+T
+U
+R
+E
+Temperature
+controlled packaging
+We partnered with a biotech
+company to create a
+sustainable, recyclable and
+temperature controlled
+packaging solution to replace a
+current expanded polystyrene
+product. Using our Circular
+Design Metrics we created a
+100 per cent corrugated based
+solution that has a better
+thermal performance than the
+current EPS solution and is 100
+per cent recyclable.
+D
+E
+S
+I
+G
+N
+A LIST
+2023
+CLIMATE
+19%
+reduction in total greenhouse
+gas emissions since 2019/20
+CDP Climate Change
+A grade
+Annual Report 2024 dssmith.com
+21
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 24
+
+Why this stakeholder
+is important to us
+Their concerns
+Our response
+Customers
+Our customers are predominantly large,
+global fast moving consumer goods (FMCG)
+brands that typically sell goods in
+supermarkets and via e-commerce channels.
+We produce corrugated recyclable
+packaging for these brands and sell paper
+and recycling materials to third parties.
+Customers are concerned about
+sustainability, particularly the
+circularity, including recyclability, and
+the carbon footprint of their packaging.
+They are interested in supply chain
+transparency, legal and regulatory
+compliance, and competitive pricing, in
+addition to product quality and meeting
+their sustainability goals.
+We aim to delight our customers, from
+understanding their needs to providing innovative
+solutions through long-term strategic partnerships.
+We continue to bring new solutions to market,
+increasing recyclability, and reducing the carbon
+footprint using our Circular Design Metrics.
+Employees
+Our people are c. 29,000 employees
+working across 34 countries in Europe and
+North America, speaking 26 languages.
+We are working to realise the potential of
+our people, which focuses on creating a
+safe, diverse and inclusive workforce,
+as a fundamental foundation for a
+successful company.
+Our people want to work for a Purpose-
+led organisation that resonates, and
+that they are proud to be a part of.
+They contribute to a supportive culture,
+in which they feel safe, recognised
+and rewarded.
+We are committed to ensuring that our workplace is
+safe, diverse and inclusive. By giving everyone a
+voice, we promote a meritocracy with development
+opportunities for all, and recognition of achievement
+regardless of gender, ethnicity, age or religion. We
+encourage feedback through our Employee Works
+Councils and employee pulse surveys and celebrate
+successes with our Smithies awards.
+Investors
+Our investors buy shares in DS Smith that
+are listed on the London Stock Exchange,
+and we raise our debt from banks and listed
+bonds. Our equity and bonds are owned by
+a diverse range of investors in the UK,
+Europe, USA and beyond.
+Investors are interested in our financial,
+operational and ESG performance,
+alongside our Sustainability Strategy,
+risks and opportunities. They follow
+our ratings, legal compliance and
+industrial relations.
+We engage with investors and analysts through
+regular meetings and conferences, including the
+Annual General Meeting (AGM), and engage with
+our banking syndicate, fixed income investors and
+ratings agencies periodically. We aim to provide
+long-term value creation that benefits all of
+our stakeholders.
+Suppliers
+Our suppliers range from large, strategic
+suppliers, with whom we have deep
+long-term collaborative relationships, to
+small suppliers of specialist goods and
+services for specific requirements. Our
+diverse supplier population increases our
+resilience, helping to ensure security
+of supply.
+Suppliers are concerned about legal
+compliance, competitive pricing and
+sustainability. They are interested in
+how they can support our sustainability
+agenda, as well as progressing
+their own.
+We collaborate closely with our suppliers,
+partnering on a range of initiatives from circularity
+to carbon. This includes helping suppliers to
+calculate their carbon footprint, set a science-
+based target and reduce emissions. We develop
+mutually cooperative, beneficial relationships that
+create value for all.
+Understanding our stakeholders
+Our strategic goals are aligned with the expectations
+of our stakeholders, so that we are delivering for all.
+22
+Stakeholder engagement
+Contents
+
+## Page 25
+
+Why this stakeholder
+is important to us
+Their concerns
+Our response
+Nature
+Our circular business model is dependent
+on the provision of natural resources and
+ecosystem services from a flourishing
+natural world. For example, although we
+recycle packaging, fibre is required as the
+primary raw material and as a renewable
+fuel, in the form of biomass. Water is a
+crucial natural resource used to transport
+fibres through the process and as a conduit
+of energy in the form of steam.
+Alongside rapid decarbonisation, the
+climate must be stabilised, limiting
+nature loss by preserving and
+regenerating resources, such as land,
+soil and water. This needs to be
+achieved in accordance with scientific
+research and by implementing
+management practices that
+regenerate nature.
+We have launched biodiversity projects and
+programmes in our communities. We are assessing
+our dependencies on nature, and we are
+investigating setting targets to regenerate nature.
+This builds on our sustainable forest management
+practices and paper sourcing certifications.
+Communities
+Our communities are spread across Europe
+and North America, often in industrial areas,
+as well as the towns and cities in which our
+employees live. Our community
+engagement aims to produce prosperity,
+particularly to promote sustainable
+development and ensure our activities
+create positive local impacts.
+Our communities want to reside
+amongst a good neighbour, leveraging
+our activities in a way that produces
+environmental, economic and social
+value that benefits the communities in
+which we operate.
+We engage with our communities on a range of
+local issues, including in our Community
+Programme on three main strategic themes:
+biodiversity, design and education. The DS Smith
+Charitable Foundation supports environment,
+education and humanitarian causes,
+amongst others.
+Governments and NGOs
+Our government and NGO engagement is
+both direct and indirect, through trade
+associations. We aim to influence change to
+create a favourable landscape for our
+Company and stakeholders.
+Governments and NGOs want to engage
+in collaborative partnerships with the
+private sector, leveraging resources and
+building capacity to address systemic
+issues, particularly those impacting
+our industry.
+We engage in consultations relating to our policy
+priorities – decarbonisation of heat, reuse and
+recycling, and extended producer responsibility. We
+take a leadership role with non-governmental
+organisations, such as our strategic partnership with
+the Ellen MacArthur Foundation, the Science Based
+Targets initiative and the 4evergreen alliance.
+Annual Report 2024 dssmith.com
+23
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 26
+
+To delight our customers
+Our strategy
+84%
+FMCG and other
+consumer goods
+>1.2bn
+units of plastic
+replaced since 2020
+96%
+OTIF deliveries
+24
+Contents
+
+## Page 27
+
+Packaging
+Our Packaging customers include the world’s biggest brands and
+multinational companies stretching across Europe and North America.
+We serve customers predominantly producing FMCG and other
+consumer goods, together with industrial sectors including
+automotive and construction.
+Our corrugated
+packaging customers
+by volume
+European industry average
+corrugated packaging by
+volume
+16%
+84%
+26%
+74%
+Industrial
+FMCG and
+other
+consumer
+goods
+Source: DS Smith analysis
+Our priority is to provide quality, sustainable packaging solutions that
+address the challenges of a fast-changing world. We continue to
+invest in our innovation strategy to ensure each new product we
+create starts with in-depth research and insight before our expert
+designers create solutions, using our Circular Design Principles, that
+meet local requirements but also have the ability to scale across the
+countries where we operate.
+Reflecting our focus on innovation and increasingly close partnership
+with our customers, this year saw the launch of our industry-leading
+R&D and innovation centre, ‘R8’. The leading-edge facility will
+spearhead research in manufacturing, maximising the growing
+demand for sustainable packaging and the innovation needed to
+deliver it. Crucially, the facility allows DS Smith, its customers and
+partners to come together to accelerate the research and
+development of radically new, sustainable packaging fulfilment
+solutions, cementing our already strong relationships.
+“With the DS Smith Easy Bowl, we have improved
+our offering and strengthened our commitment
+to innovation and sustainability.”
+Samo Polanec
+Director of Production, Panvita MIR d.d.
+Paper
+Our mills in Europe and the US produce a wide range of high-quality
+finished paper products, primarily for container board products, all made
+from 100 per cent recycled or chain of custody certified fibre sources.
+The high performing packaging papers we produce, such as recycled
+corrugated case materials and kraftliners, are vital for our own packaging
+division to produce fibre-based packaging solutions. Our range of
+speciality papers includes plasterboard liners which are widely used in
+the construction industry. Our customers benefit from our commitment
+to lower our impact on the environment and increase the efficiency of
+our paper-making operations. We have invested £48 million to upgrade
+the fibre preparation line at our paper mill in Kemsley, UK, which will
+enhance efficiency, reliability and sustainability, while improving
+recycling processes and contributing to our goal of zero waste to landfill
+by 2030. We announced our investment to transform the energy supply
+of our Rouen paper mill in France this year, which will replace a coal-fired
+boiler with a new biomass boiler that will reduce the site’s emissions by
+99,000 tonnes of CO2 per year compared to 2022/23.
+Removing shrink wrap with Coca-Cola
+HBC Austria
+We teamed up with Coca-Cola HBC Austria to launch DS Smith
+LiftUp, a pioneering cardboard-based packaging solution,
+replacing plastic shrink wraps for 1.5-litre PET soft drink
+multi-packs. Launched in Austria, this 100 per cent recyclable
+innovation aims to remove approximately 200 tonnes of
+plastic each year. Developed using our Circular Design Metrics,
+DS Smith LiftUp is adaptable to various bottle sizes, showcasing a
+significant move towards reducing the carbon footprint of
+packaging. This collaboration marks a significant step forward in
+sustainable packaging, aligning with Coca-Cola HBC’s goal to
+achieve Net Zero emissions by 2040.
+Supporting Campari with its
+sustainability agenda
+Focusing on the packaging lifecycle and prioritising a closed
+loop approach, our innovative partnership with Campari has
+facilitated the implementation of more sustainable packaging
+solutions that reduce environmental impact. With this
+collaboration, Campari has made further progress in sustainable
+practices and reinforced its position as a responsible player in
+the spirits industry.
+Sole supplier in Europe to
+Mondelēz International
+Demonstrating the strength of our customer relationships,
+2023 saw us agree a second consecutive five-year contract
+agreement to be the sole supplier of corrugated packaging in
+Europe to Mondelēz International – one of the world’s largest
+snacking companies and known for its iconic brands such as
+Oreo, Cadbury, Milka and Philadelphia. The agreement
+represents an exclusive partnership and is an extension of
+existing services with a commitment to new projects.
+New fibre-based sustainable packaging solutions will be
+implemented across European markets, and both companies
+will work closely together to reduce the use of single-use
+plastics and utilise joint efforts to hit a target of Net Zero
+emissions by 2050.
+Recycling
+Our recycling and waste management services help our customers
+waste less and recycle more. Across Europe and North America and
+from municipalities to some of the best-known brands and retailers
+in the world, our expertise help our customers maximise their
+recycling strategies.
+The paper and cardboard we collect for recycling feeds our own paper
+mills as part of our closed loop recycling business model, while also being
+sold into our global network of third-party paper mills. By working
+with our customers to build recyclability into their supply chains, we
+are helping to provide sustainable solutions that the wider society
+demands from organisations.
+Annual Report 2024 dssmith.com
+25
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 28
+
+Our strategy
+To realise the
+potential of our people
+9%
+reduction in accident
+frequency rate vs 2023
+216,122
+safety observation tours
+62,633
+leadership safety talks
+
+262
+sites recorded zero LTAs
+during the year
+Our strategy
+26
+Contents
+
+## Page 29
+
+Ensuring the health, safety and wellbeing of all
+Focusing on health, safety and wellbeing is critical to achieve
+our ambition.
+Health and safety culture
+Our Company’s health and safety goal is to achieve zero harm for all
+individuals impacted by our operations, including our employees,
+contractors and visitors. To realise this objective we have established
+Vision Zero, a strategy emphasising leadership, engagement, safe
+work environments, processes and a shift towards developing a
+safety-oriented culture, behaviours and mindset.
+Throughout 2023/24, our primary focus has been the continuous
+implementation of Vision Zero. Collaborating closely with our
+leadership team, we have strived to ensure broad employee
+involvement in safety discussions and to systematically mitigate
+operational risks.
+Furthermore, we have reviewed and reintroduced our Group Health
+and Safety policy to reaffirm our dedication, clarify our vision and
+define roles and obligations. This policy acts as a foundational outline
+for the objectives we aim to accomplish and the conduct we anticipate
+from both ourselves and each other.
+Wellbeing of our people
+Promoting the welfare of our workforce, we introduced a global health
+and wellbeing week this year, a bi-annual initiative designed to raise
+awareness and inspire individuals to achieve a harmonious work-life
+equilibrium. This event encompassed a comprehensive range of over
+500 activities spanning all sites and divisions worldwide. Topics covered
+included nutrition, mental health, and physical exercise. The success of
+the week was evident in the post-event survey, where it received an
+outstanding rating. Moreover, most respondents expressed their
+intention to modify their lifestyles based on the week’s activities.
+Engaging our employees
+Labour markets have become increasingly competitive and in
+response we have refreshed our approach to listening.
+During 2023/24, we continued the use of pulse surveys, providing
+more frequent opportunities for colleague feedback, better manager
+guidance and support and clearer reporting and action planning.
+Online ideas boards were introduced for the first time this year,
+enabling suggestions for improvement to be crowd sourced.
+In total, over 12,000 employees were surveyed in 2023. We have
+been delighted with the increased response rates which have
+averaged 84 per cent versus 72 per cent in 2021.
+Despite a challenging external environment, we have seen some
+marked improvements in perceptions in recognition, based on our
+feedback in our engagement survey, which has seen a 9 percentage
+point increase due in part to our continued focus on our Smithies
+programme which celebrates the fantastic achievements of our
+colleagues. We have also seen a further increase in inclusion
+(+5 per cent) and safety (+4 per cent).
+There have also been some fantastic examples of efforts at site level,
+for example in Birmingham, UK. Between 2021 and 2023,
+engagement here increased from 46 per cent to 83 per cent, putting it
+9 percentage points above the external norm and it is now our most
+engaged site in North Europe. One colleague stated: “The site has
+come on leaps and bounds. This is down to the site leadership, led by a
+fantastic General Manager, who listens to the shop floor and gets
+their opinions.”
+We have designed and implemented improvements to our onboarding
+experience to ensure colleagues who are new to DS Smith are
+engaged and productive as quickly as possible. These improvements
+include a redesigned onboarding process, onboarding e-learning
+which is being translated into 11 core languages and an onboarding
+hub in which individuals can access all the key information, processes
+and tools they need as a new starter.
+Our European Works Council (EWC), which includes 50 representatives
+from across the business, engages twice a year with management to
+provide further feedback and discuss opportunities to improve.
+Regular engagement with regional leads, as well as both safety and
+diversity committees, ensures we have a regular two-way dialogue on
+employee matters across Europe.
+In 2024/25, we will continue to run targeted pulse surveys more
+frequently to give opportunities for our employees to provide regular
+feedback and drive action.
+Developing our employees
+Our talent and learning agenda is focused on: 1) ensuring we have the
+capabilities that will underpin our growth agenda, 2) ensuring the
+right level of skills and performance and 3) strengthening succession.
+• Management capability is central to the achievement of our people
+strategy. We have created our DS Smith Management Standards,
+outlining a clear and consistent set of accountabilities, embedding
+these in all of our people processes and in the continued roll out of
+our management development programmes.
+• Each of our Operations, Sales, Marketing and Innovation, Finance
+and Digital Learning Academies have delivered learning, expanding
+their coverage, with our Operations Learning Academy deploying
+technical training across multiple sites and our Sales, Marketing and
+Innovation Academy delivering over 7,000 learning interventions.
+• We continue to invest in our learning platform. We have added new
+content, expanded the languages and launched conversation AI
+functionality for over 70 subjects where people can practise their
+skills with an AI coach. We have recorded a further increase in the
+numbers of people making use of e-learning.
+• Working with Oxford Saïd Business School we continue to run the
+Aspire Programme designed to accelerate the development of high
+potential talents. We have also added a new Compass programme
+targeted at developing people earlier in career. To date we have 60
+people in our Compass alumni and over 200 people have participated in
+our Oxford Saïd Business School programmes. Data continues to show
+a significant return on investment in terms of promotions and
+retention rates from both groups.
+• Graduates continue to be critical to our succession strategy and we
+have seen a marked increased interest in applications this year. We
+currently have over 70 graduates attending our two-year personal
+development programme.
+• At the British HR Awards this year, we were delighted to win
+‘Manufacturing and Engineering Company of the Year’ in recognition
+of the quality and impact of our graduate development programme.
+Annual Report 2024 dssmith.com
+27
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 30
+
+Diversity, Equity & Inclusion (DEI)
+We are committed to building the diversity of our workforce to better
+reflect the communities we operate in. Together we are building an
+inclusive environment where everyone can realise their potential and
+thrive. This is fundamental for any successful company today and
+crucial to our strategic goal ‘to realise the potential of our people’.
+What do we mean by DEI?
+We define diversity as the range of human characteristics within the
+organisation. This includes, but is not limited to, race, ethnicity,
+gender, gender identity, sexual orientation, age, social class, physical
+or mental ability, religious or ethical values systems, national origin and
+political beliefs. It also includes diverse thinking or ‘neurodiversity’.
+Equity means providing everyone with what they need to succeed –
+recognising that not everyone starts from the same place.
+Inclusion describes how people feel about their experience at
+DS Smith, whether they feel it promotes and sustains a sense
+of belonging.
+The impact of DEI on our leaders and our people
+Being known as an inclusive organisation will help us to grow our
+talent pool. We will continue to welcome people from different
+backgrounds and consistently attract some of the best people from
+our local communities and beyond.
+To accelerate progress, our immediate focus is on investing in leaders,
+supporting them with an inclusive leadership education programme.
+This will provide the cultural awareness and understanding needed to
+role-model inclusive behaviours and recruit and manage diverse
+teams. We will take over 3,000 people managers and leaders through
+a facilitated journey exploring what DEI means to them and DS Smith,
+focusing on actions that will make an impact. Our approach to inclusive
+leadership is two-fold. We are working with Included, a global,
+impact-driven DEI consultancy, to enable our most senior leaders to
+become role-models for a more diverse business. We are also rolling
+out a similar internal programme, supported by in-house facilitators
+who will deliver in local languages to our wider management populations
+to meet the various cultural needs of our business. To date, 20 per cent
+of our leaders have completed this programme.
+Raising awareness through our active networks
+Active networks foster a sense of belonging by creating a safe
+and supportive space for employees who share a common sense
+of identity. The networks offer a platform for members to openly
+discuss their experiences and perspectives, which in turn can
+lead to positively building wellness through greater empathy
+and understanding. Active networks also promote greater
+awareness through various means including building an annual
+calendar to support key dates and celebrations within their
+respective communities.
+During 2023/24, our active network membership increased, on
+average, over 60 per cent, reflecting our colleagues’ commitment to
+championing positive change.
+• LGBTQ+ & Allies Network.
+• Culture & Ethnic Diversity Network.
+• Gender Diversity Network.
+• Disability & Allies Network.
+On behalf of the LGBTQ+ & Allies Network, DS Smith joined Workplace
+Pride as a member in May 2023 to further drive LGBTQ+ inclusion at
+work. The following month, we established an internal DEI Steering
+Committee (Steerco) to enable alignment and knowledge-sharing
+among our four active networks. Through collaboration on the DEI
+Steerco, and with the support of their executive sponsors, the active
+networks have written charters and co-created a schedule of coffee
+breaks and webinars. The active networks have also worked alongside
+the European Works Council to increase DEI engagement among
+non-wired colleagues through establishing a community of
+DEI Site Champions.
+Lucca DEI Site Champions & International
+Women’s Day
+In honour of International Women’s Day, our DEI Site Champions
+at Lucca paper mill organised a workshop to raise awareness
+and challenge gender-based discrimination and harassment.
+Participating in Scuola Superiore Sant’Anna’s Engine Project,
+workshop attendees listened to an interactive presentation on
+gender equality in Italy and had the opportunity to experience
+gender-based micro-aggressions through virtual reality.
+Neurodiversity Celebration Week
+To commemorate Neurodiversity Celebration Week, the
+Disability & Allies Network hosted an informative and engaging
+roundtable with award-winning neurodiversity consultant
+Rachel Morgan-Trimmer. In sharing her personal experiences
+and explaining neurodiversity, Rachel led a conversation on
+how we all play a role in creating an inclusive and accessible
+workplace for people living with ADHD, Dyslexia, Autism,
+Dyspraxia, Dyscalculia, as well as neurotypicals.
+International Pronouns Day
+The LGBTQ+ & Allies Network partnered with Workplace Pride
+to deliver an interactive workshop for colleagues to learn about
+the importance of using pronouns to cultivate a psychologically
+safe and inclusive space for members of the LGBTQ+
+community and allies. Education is a key component of the
+network’s purpose, so all employees feel valued and respected
+to bring their best to work.
+28
+To realise the potential of our people continued
+Contents
+
+## Page 31
+
+To support our active networks and inclusive leadership workshops,
+we have developed digital resources, including an active network
+toolkit and a manager’s guide on how to lead inclusively.
+Our manager’s guide deep dives into DEI, including a glossary of
+key DEI terms, guidance on how to lead with inclusion during the
+recruitment process, and tips for creating belonging among teams. If
+we are serious about supporting our colleagues to be themselves and
+to thrive, then we need our people-related processes to be fit for the
+future. For example, our Equal Opportunities and Anti-Discrimination,
+and Menopause policies are being embedded through training and
+awareness campaigns. We ensure that we recruit diverse candidates
+who can challenge us and help to drive us forward. This has enabled
+our female to male hiring ratio to increase for three years in a row.
+For next year our focus will be on:
+• Delivering Vision Zero.
+• Continuing efforts in more regular listening to give all our
+colleagues opportunities to give feedback and further improve our
+employee experience.
+• Refreshing our employee brand and careers website to attract the
+talent we need, including graduates, and provide more visibility of
+the careers we have to offer.
+• Internal talent and succession, in particular refreshing our talent
+board structure to enable significantly greater opportunities for
+internal moves.
+• Further accelerating our DEI agenda, in particular increasing
+manager capability in how to create a more inclusive
+working environment.
+Diversity of our team
+The overall percentage of females in DS Smith increased by 0.4 per cent
+to 23.2 per cent* in the financial year 2023/24. Our total number
+of employees as at 30 April 2024 was 28,978 of which 22,259
+(76.8 per cent) were male and 6,715 (23.2 per cent) were female.
+As reported in November 2023 in the 2023 FTSE Women Leaders
+Report, representation of women in our senior leadership (defined in
+accordance with the requirements of the FTSE Women Leaders
+Review as those on our four Executive Committees – Group Operating
+Committee; Group Strategy Committee; Group Health, Safety,
+Environment and Sustainability Committee; and Group M&A
+Committee – and their direct reports) was 31.1 per cent* in the
+12 months to 31 October 2023.
+This year we participated in the Parker Review, a voluntary business-
+led diversity framework, backed by the UK Government, and
+dedicated to increasing the representation of ethnic minorities on
+boards and senior leadership teams of both the FTSE 350 and the UK’s
+largest private companies. We submitted data on ethnic composition
+of our Board and senior leadership team (defined as those on our four
+Executive Committees – Group Operating Committee; Group Strategy
+Committee; Group Health, Safety, Environment and Sustainability
+Committee; and Group M&A Committee – and their direct reports) as at
+31 December 2023. As reported in the Parker Review in March 2024,
+we met the target of having at least one ethnic minority Director on
+our Board.
+The Financial Conduct Authority (FCA) introduced a requirement for
+listed companies to report on board diversity targets and provide data
+on the gender and ethnic diversity of the board and in its executive
+management. Following the FCA’s definition, executive management
+for these purposes means the members of our four Executive
+Committees. However, in the tables below, we have included Board
+members who are also in executive management only in the board
+members column, and not in the executive management column.
+We are committed to improving diversity across all protected
+characteristics and will continue to make progress in line with the
+FCA’s requirements.
+We asked all members of the Board and executive management to
+voluntarily self-disclose the data on their gender and ethnicity, using
+the terminology requested by the FCA. Further information about the
+diversity of our Board is set out in the Nomination Committee Report
+on pages 95 to 97.
+Our continued focus on female retention, development and
+recruitment has led to year on year improvements in our gender pay
+gap and this year we have achieved parity for the first time (see our
+UK Gender pay gap report).
+It continues to be a challenge to attract women into manufacturing,
+however we are making progress. We have an aspiration to improve
+gender diversity towards 40 per cent women in senior leadership
+by 2030.
+FCA gender diversity reporting as at 30 April 2024:
+Number of board
+members1
+Percentage of
+the board
+Number of senior
+positions on the board
+(CEO, CFO, SID and Chair)
+Number in executive
+management
+Percentage
+of executive
+management
+Men
+6
+60%
+4
+12
+85.7%
+Women
+4
+40%
+–
+2
+14.3%
+Not specified/prefer not to say
+–
+–
+–
+–
+–
+FCA ethnic diversity reporting as at 30 April 2024:
+Number of board
+members1
+Percentage of
+the board
+Number of senior
+positions on the board
+(CEO, CFO, SID and Chair)
+Number in executive
+management
+Percentage
+of executive
+management
+White British or other White
+(including minority-white groups)
+9
+90%
+4
+13
+92.9%
+Mixed/Multiple ethnic groups
+1
+10%
+–
+–
+–
+Asian/Asian British
+–
+–
+–
+1
+7.1%
+Black/African/Caribbean/Black British
+–
+–
+–
+–
+–
+Other ethnic group, including Arab
+–
+–
+–
+–
+–
+Not specified/prefer not to say
+–
+–
+–
+–
+–
+
+* Deloitte have provided independent third-party limited assurance for this 2023/24 metric. See the assurance statement on page 76 for information.
+1. The number of board members includes those who are members of both the Board and the executive management.
+Annual Report 2024 dssmith.com
+29
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 32
+
+To lead the way
+in sustainability
+Our strategy
+19%
+reduction in total greenhouse gas
+emissions since 2019/20 towards
+our 1.5°C science-based target
+14
+of our paper mills completing
+biodiversity activities
+100%
+reusable or recyclable
+packaging manufactured
+30
+Contents
+
+## Page 33
+
+Delivering Now & Leading Next
+Sustainability is integral to our circular business model and we can
+have the greatest positive impact by helping to create a circular
+economy for packaging.
+When we launched our Now & Next Sustainability Strategy in 2020,
+we set ambitious near and long-term targets that confirmed our
+commitment to the circular economy and our Purpose of Redefining
+Packaging for a Changing World. Now & Next includes aspirations for
+‘Now’ and for ‘Next’, focusing on the sustainability challenges we are
+facing today, as well as those that will impact on future generations.
+We believe that delivering these aspirations will enable us to partner
+with our customers to lead the transition to the circular economy
+for packaging.
+Governance of sustainability
+The Board is responsible for oversight of long-term aspects of the Group’s
+operations, including sustainability matters, when reviewing and guiding
+strategy, budgets and business plans.
+Upon appointment to the Board, Directors undertake an induction
+programme, receiving a broad range of information about the Group,
+including information about sustainability, tailored to their previous
+experience. Directors are given training and receive presentations to
+keep their knowledge current, including on the Now & Next
+Sustainability Strategy.
+The Board and its Committees, members of whom have relevant
+ESG and sustainability experience, are updated on sustainability at
+least annually. This includes the progress against delivering the
+Now & Next Sustainability Strategy and other items that involve
+sustainability-related matters, such as the Corporate Plan, principal
+risks and uncertainties, and remuneration. The Audit Committee is
+engaged on assurance and developments in ESG reporting.
+The Board takes into account sustainability-related risks and
+opportunities when overseeing strategy, major transactions and risk
+management by evaluating the sustainability-centric vision and
+strategy of the Group, including considering any trade-offs associated
+with sustainability matters.
+The Board is informed about the results of the sustainability materiality
+assessment, strategy development and progress, and the Remuneration
+Committee considers sustainability through the use of an ESG underpin,
+referring to factors that include, amongst others, continued delivery of
+the updated Now & Next Sustainability Strategy and of progress
+towards our science-based targets, described on page 119.
+The Board of Directors includes the Group Chief Executive and Group
+Finance Director as Executive Directors, both of whom are members
+of the four management Committees that support the work of the
+Board and its principal Committees.
+Sustainability-related matters are discussed every month at the
+Group Health, Safety, Environment and Sustainability (HSES)
+Committee and every two months at the Group Strategy Committee
+(GSC), both of which are chaired by the Group Chief Executive. Other
+Committees, such as the Group Compliance Committee, maintain
+oversight of sustainability-related risks and opportunities to the
+extent to which they are topical.
+Topics discussed this year included circular economy, including
+recyclability, roadmaps to deliver the 1.5°C science-based target,
+the community affairs programme and nature agenda, including
+deforestation and biodiversity.
+Aligned to the Now & Next Sustainability Strategy, four Steering
+Committees are responsible for maintaining a portfolio of projects to
+coordinate delivery and resources and propose solutions to critical
+trade-offs. Thematic working groups, which include subject matter
+experts, provide input, interfacing with internal functions, such as
+Sales, Marketing and Innovation (SMI), Procurement, and Finance.
+The governance of these working groups includes formalised terms of
+reference, clear objectives and regular reporting, at least quarterly, to
+the Group Health, Safety, Environment and Sustainability Committee.
+This structure is described in the context of climate change on
+page 61 as part of our IFRS S2 Climate-related Disclosures and
+Task Force on Climate-related Financial Disclosures (TCFD) reporting.
+ESG ratings
+We participate in a range of
+ratings, demonstrating our
+sustainability credentials.
+CDP: A Climate Change,
+A- Forests, A- Water Security
+EcoVadis: Gold
+MSCI: AA
+S&P Global: featured in the
+‘2024 Sustainability Yearbook’
+Sustainalytics: ‘Low ESG Risk’
+ISS: ‘Prime’ B
+FTSE4Good:
+Included since 2012
+Latest scores as of 2023/24.
+This section of the DS Smith Annual Report has been prepared with
+reference to IFRS S1 ‘General Requirements for Disclosure of
+Sustainability-related Financial Information’ disclosures.
+Voluntary IFRS S2 ‘Climate-related Disclosures’ and selected UK
+Transition Plan Taskforce disclosures can be found on pages 60-77,
+enhancing our Task Force on Climate-related Financial Disclosures.
+Voluntary EU Taxonomy disclosures can be found on pages 78-79.
+A LIST
+2023
+CLIMATE
+Sustainability
+Report 2024
+DS Smith ESG Reporting Suite
+EU Taxonomy
+supplementary
+report
+ESG Databook
+2024
+Net Zero
+Transition Plan
+2024
+Annual Report 2024 dssmith.com
+31
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 34
+
+To lead the way in sustainability continued
+Our Now & Next Sustainability Strategy helps guide us as we lead the transition to the
+circular economy. It has been developed to respond to the sustainability-related risks and
+opportunities identified in our double materiality assessment, described on page 35.
+Circularity
+Designing out waste and pollution
+and keeping materials in circulation
+We are designing out waste and pollution
+through circular design and helping our
+customers replace, reduce or avoid plastic
+with alternative fibre-based solutions.
+We are keeping materials in circulation by
+manufacturing 100 per cent recyclable or
+reusable packaging and we are working
+towards launching up to five new innovative
+reusable packaging pilots by 2025.
+We optimise fibre for individual supply chains
+so that our packaging is tailored to our
+customers’ unique supply chain conditions.
+Our long-term ambition is for all our
+packaging to be recycled or reused and to
+achieve zero waste to landfill by 2030.
+Decarbonising our operations and
+our value chain
+We are working towards decarbonising our
+business and value chain to meet our 1.5°C
+science-based target, which has been
+validated by the Science Based Targets
+initiative (SBTi).
+By 2030, reduce Scope 1, 2 and 3 greenhouse
+gas (GHG) emissions 46 per cent compared to
+2019 and reach Net Zero GHG emissions
+by 20501.
+We are encouraging 100 per cent of our
+strategic suppliers to set their own
+science-based targets by 20272.
+In 2023/24, we…
+• Achieved our 2025 plastic replacement
+target, replacing over one billion pieces,
+improving recyclability for our customers
+with corrugated solutions.
+• Continued to optimise packaging
+specifications uniquely optimised for
+individual supply chains.
+• Reduced waste sent to landfill by 19
+per cent compared to last year.
+In 2024/25, we will…
+• Explore new non-fibre innovations to
+ensure our fibre-composite solutions are
+fully recyclable.
+• Improve the availability of supply chain
+data to fully optimise all packaging
+solutions for all supply chains.
+• Continue to use our Circular Design Metrics
+to help our customers reduce the impact of
+their packaging through more sustainable
+design decisions, such as increased
+recycled content.
+In 2023/24, we…
+• Announced a €90 million investment to
+transition Rouen mill from coal to biomass
+(saving c. 99,000 tonnes CO2e).
+• Published our inaugural Net Zero
+Transition Plan, setting out key actions to
+achieve our science-based target.
+• Achieved CDP ‘A-List’ status for our 2023
+Climate Change response.
+In 2024/25, we will…
+• Progress decarbonisation initiatives, such
+as the Aschaffenburg mill waste-to-energy
+plant (saving c. 50,000 tonnes CO2e) and
+roll-out of solar generation capacity.
+• Set a FLAG (Forest, Land and Agriculture)
+science-based target to validate our
+Net Zero by 2050 commitment with
+the SBTi.
+• Continue to use our Circular Design Metrics
+to help our customers reduce their
+packaging impact.
+Carbon
+1. Target wording per SBTi website: ‘DS Smith commits to reduce absolute Scope 1, 2 and 3 GHG emissions 46.2% by FY 2030 from a FY 2019 base year.’
+2. Target wording per SBTi website: ‘DS Smith commits that 76% of its suppliers by emissions covering purchased goods and services will have science-based
+targets by FY 2027.’
+Now & Next Sustainability Strategy
+32
+Contents
+
+## Page 35
+
+Nature
+People & Communities
+Protecting and regenerating
+forests and biodiversity and
+managing water responsibly
+We are protecting nature by measuring and
+improving biodiversity in our own forests, in
+addition to implementing biodiversity
+programmes at our paper mills.
+Our ambition is to elevate our nature-related
+commitments by taking a science-based
+approach to regenerate nature.
+We have set a new target to develop water
+management and water scarcity plans for
+100 per cent of our paper mills and packaging
+plants by 20256.
+We are reducing the water withdrawal
+per tonne of production for the water
+used in our own process by 10 per cent
+by 2030 for our paper mills located in
+regions at risk of water stress.
+Creating safe and inclusive
+workplaces, respecting human
+rights and engaging our people and
+communities
+We are committed to reducing the accident
+frequency rate (AFR) each year and
+improving the diversity of our workforce to
+reflect the communities in which we operate.
+This includes all leadership teams completing
+inclusivity workshops for 2025 and by 2030,
+increasing gender diversity to 40 per cent
+female representation in senior leadership,
+improving gender and ethnic diversity across
+our overall workforce year-on-year and to set
+an aspiration for other protected
+characteristics by 2030. We continue to
+strengthen our human rights due diligence.
+We are playing an active role in our local
+communities and are equipping our people to
+lead the transition to a circular economy.
+In 2023/24, we…
+• Continued to develop our biodiversity
+programmes, with 14 mills completing
+biodiversity activities.
+• Began to assess how our business interfaces
+with nature to set targets to regenerate
+nature, taking a science-based approach.
+• Began EU Deforestation-Free Regulation
+(EUDR) preparation, including assessing
+our obligations and a risk analysis exercise.
+In 2024/25, we will…
+• Complete our impacts and dependencies
+assessment to produce our Taskforce on
+Nature-related Financial Disclosures (TNFD).
+• Set targets to regenerate nature.
+• Implement a due diligence system to fulfil
+the EUDR requirements, meeting our
+traceability and transparency obligations.
+In 2023/24, we…
+• Reduced the AFR3 to an all-time low.
+• Achieved our target for 100 per cent of our
+sites to complete the Sedex SAQ4,
+strengthening human rights due diligence.
+• Maintained 100 per cent of our sites
+participating in community activities5,
+including delivering circular economy
+lessons and a new biodiversity lesson plan.
+In 2024/25, we will…
+• Continue emphasising the role of
+leadership within health and safety,
+enhancing front-line capabilities, and
+streamlining our systems and processes to
+be more efficient and supervisor focused.
+• Deliver new community initiatives that
+bring all our colleagues together under a
+common cause.
+Alignment with international frameworks
+We respect several international frameworks that are relevant to corporate responsibility and ethical business conduct, including:
+• United Nations Declaration of Human
+Rights and the Convention on the
+Rights of the Child.
+• International Labour Organization (ILO)
+Eight Fundamental Conventions.
+• Organisation for Economic Co-operation
+and Development (OECD) Guidelines for
+Multinational Enterprises.
+• United Nations Global Compact (UNGC).
+• United Nations (UN) Sustainable
+Development Goals (SDGs).
+For information on our sustainability
+performance, policies and procedures,
+please refer to our Sustainability Report.
+3. Accident frequency rate (AFR).
+4. The Sedex SAQ (Supplier Ethical Data Exchange Self-Assessment Questionnaire) is a set of questions relating to business practices, management systems,
+policies and worker information. The scope includes manufacturing sites.
+5. Sites in scope includes sites with >50 FTEs.
+6. Sites in scope includes manufacturing sites with >5,000m3 annual water withdrawal, identified at current or future water stress risk with the WRI Aqueduct Tool.
+Annual Report 2024 dssmith.com
+33
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 36
+
+To lead the way in sustainability continued
+Now & Next progress summary
+We have begun the process of responding to the Science Based
+Target initiative (SBTi)’s updated requirements for Net Zero
+Validation, including the requirement for our industry to set a target
+to decarbonise ‘FLAG’ (Forest, Land and Agriculture) emissions and set
+a no deforestation commitment, which we aim to complete in 2025.
+Finally, we published our first Net Zero Transition Plan alongside
+DS Smith Sustainability Report 2024, describing how we are
+delivering and plan to progress our science-based target.
+People & Communities
+In 2023/24, we achieved our target for 100 per cent of our in-scope
+(manufacturing) sites to complete the Sedex Self-Assessment
+Questionnaire (SAQ), enabling the identification of opportunities
+to strengthen our human rights due diligence.
+We engaged 76 per cent of our people on the circular economy
+(2022/23: 57 per cent) and contributed to our 9.8 million cumulative
+total wider engagement figure since 2020/21 (2022/23: 8.4 million),
+engaging the public on the circular economy and circular lifestyles.
+For the fifth year running, 100 per cent of the sites included in our
+Community Programme (those with greater than 50 full time
+employees) had undertaken community activities aligned to our
+strategic themes of biodiversity, design and education.
+The accident frequency rate reduced to a new record low of 1.65
+(2022/23: 1.82) and inclusive leadership workshops were completed
+by 25 per cent of our managers (new target). Our gender diversity for
+women in senior leadership positions was 31.1 per cent*
+(2022/23: 34.5 per cent). See pages 26 to 29 for more information
+about how we are realising the potential of our people.
+Nature
+In 2023/24, 14 of our paper mills (2022/23: 13) continued to develop
+their biodiversity programmes, which include multi-year initiatives
+with actions to improve local biodiversity.
+For example, Dueñas mill recently supported biodiversity and
+landscape recovery in the local community through planting trees that
+are native to the area, improving natural habitats for local wildlife.
+We began a new project to assess our dependencies on nature
+as one of the first steps to setting targets to regenerate nature,
+taking a science-based approach, with reference to the Taskforce
+on Nature-related Financial Disclosures (TNFD) recommendations.
+This includes an assessment of our supply chain, direct operations
+and a downstream product screening assessment, comprehensively
+locating the interfaces with nature and prioritising sensitive locations.
+Alongside this project, as part of our EU Deforestation-Free Regulation
+(EUDR) preparation, we began screening exercises, a risk assessment
+and the development of a deforestation policy to meet the upcoming
+EUDR requirements.
+In 2023/24, 10 per cent of our in-scope paper mills and packaging
+plants developed water management plans (a new target), which
+includes the identification of water reduction opportunities and
+awareness-raising and training on water conservation. Water
+abstracted for use in own process per tonne of production decreased
+by 10 per cent compared to last year to 7.52m3/t nsp (2022/23:
+8.4m3/t nsp), driven by the closure of Trakia mill during the period and
+changes to the energy set up at Aschaffenburg mill which involves
+exporting water withdrawn to a third party.
+DS Smith Sustainability Report 2024 describes the progress
+made towards our Now & Next targets in greater detail.
+
+* Independent assurance obtained for the metrics marked with an asterisk ‘*’.
+See the summary independent assurance statement on page 76.
+Circularity
+In 2023/24, we achieved our target to replace one billion pieces of
+plastic with alternative fibre-based solutions 16 months in advance of
+our 2025 target, with over 1.2 billion replaced, avoided or removed
+since 2020/21. We maintained our target to manufacture 100
+per cent recyclable or reusable packaging and we continued to
+investigate corrugated packaging reuse pilots.
+We continued to use our Circular Design Metrics to help our customers
+to compare the sustainability performance of different packaging
+designs. The metrics encourage our customers to replace plastic,
+increase recycled content and optimise fibre use, combining
+customer, operational and industry data to design leaner packaging
+that maintains important properties, such as strength, resistance and
+recyclability. We continued to explore solutions for hard-to-recycle
+packaging and engage with brand owners and industry peers, through
+our trade associations, on best practice in design for recyclability.
+We optimised fibre for individual supply chains in 90 per cent of our
+new packaging solutions (2022/23: 64 per cent) at 74 of our
+packaging plants where we measure the board performance, driving
+improvements to the packaging’s dimensions, shape and materials
+used that can be multiplied over thousands of units.
+We achieved a 19 per cent reduction in waste to landfill compared
+to last year, sending 165,840 tonnes* of waste to landfill
+(2022/23: 204,637 tonnes*). This was predominantly as
+a result of exceptional events in the previous year.
+Carbon
+In 2023/24, GHG emissions across all three scopes totalled
+6,985,269 tonnes CO2e (2022/23: 7,391,418 tonnes CO2e),
+a 5 per cent reduction compared to last year and 19 per cent
+compared to the base year (2019/20: 8,645,693 tonnes CO2e).
+A 4 per cent reduction in Scope 1 and 2 (market-based) compared to
+last year was primarily a result of changes made in preparation for the
+new waste-to-energy facility at Aschaffenburg (c. 14,000 tonnes
+CO2e), alongside other smaller projects, and a strengthened focus on
+energy efficiency initiatives (c. 27,000 tonnes CO2e).
+A 6 per cent reduction in Scope 3 was primarily the result of
+methodology improvement, in particular using updated emission
+factors from the CDP supply chain programme to begin capturing
+supplier emissions. In contrast to last year, changes in production
+volumes did not have a significant impact, other than the closure of
+Pazardzhik (Trakia) mill and several other non-core operations
+resulting in a reduction of c. 50,000 tonnes CO2e.
+Our organic investment programme continued, with upgrades to
+corrugators, boilers and LED lighting contributing reductions. Several
+major projects progressed, including the transition from coal to
+biomass at Rouen, anticipated to contribute a 99,000 tonne CO2e
+reduction, and other new projects were announced, including
+upgraded machinery at Ghimbav and Columbia packaging plants, with
+energy savings created through steam optimisation and energy
+recovery technologies. We continued to develop our roadmap,
+assessing future projects and optimising the plan for best cost
+solutions. We progressed our energy efficiency efforts and
+ISO 50001:2018 certification, with the most energy-intensive plants
+undertaking ‘deep dives’ to investigate savings opportunities.
+We estimate that in 2023/24, c. 42 per cent of our purchased goods
+and services emissions were from suppliers who have set, or are in the
+process of setting, a science-based target (2022/23: 32 per cent).
+34
+Contents
+
+## Page 37
+
+High
+High
+Medium
+Medium
+24
+25
+26
+23
+22
+21
+20
+19
+18 16
+17
+11
+9
+5
+2
+1
+7
+8
+10
+6
+15
+14
+12
+3
+4
+3
+13
+DS Smith's impact on society and the environment
+Impact to DS Smith
+Risk management
+Sustainability-related risks and opportunities are integrated with and
+inform our overall risk management processes. Our processes to
+identify, assess, prioritise and monitor sustainability-related risks and
+opportunities are described in the Risk management section (pages
+49 to 58), in particular the ‘Sustainability commitments’ principal risk.
+In the context of climate-related risk management, there are
+processes in place for evaluating transition and physical risks,
+described on pages 74 and 75. These are embedded into the Group’s
+overall risk management framework and the processes are unchanged
+compared to the previous reporting period.
+The processes and related policies in relation to climate-related risks
+and opportunities are described in the context of climate change on
+page 74 as part of our IFRS S2 Climate-related Disclosures and
+Task Force on Climate-related Financial Disclosures (TCFD) reporting.
+Double materiality assessment
+We conduct a regular materiality assessment to identify
+sustainability-related risks and opportunities, ensuring that our
+Now & Next Sustainability Strategy fits with the priorities of our
+stakeholders, enabling us to develop strategy and leverage our
+resources in prioritised areas. The assessment is refreshed every two
+years, ensuring that our strategy remains responsive to changes in
+stakeholder sentiment and priorities.
+In our most recent assessment, conducted in 2022/23, we adopted a
+‘double materiality’ approach, capturing ‘impact’ and ‘financial’
+materiality. This evaluated the impacts that the business has on
+people and the environment (‘inside-out’), alongside the impacts that
+people and the environment have on the business (‘outside-in’).
+Our materiality assessment includes inputs and parameters such as:
+• A topics long-list, informed by a range of sources, covering our
+entire operations and the value chain.
+• Quantitative rankings and prioritisation, by importance, determined
+by surveying:
+• Internal stakeholders (e.g. employees, at a range of seniority).
+• External stakeholders (e.g. customers, investors, trade bodies).
+• Semi-structured interviews, exploring (financial and sustainability)
+material topics and:
+• Key (sustainability, climate and wider) risks and opportunities.
+• Expectations for how we should respond to these.
+• Implications for the future strategic direction, prioritisation and
+ambition for the Now & Next Sustainability Strategy.
+The most recent assessment concluded that the circular economy and
+climate change should remain our top priorities, being of critical
+importance for the business and for people and the environment.
+Biodiversity and the regeneration of nature emerged as nascent
+topics that had increased in importance and health and safety,
+diversity and inclusion and human rights were also identified
+as important.
+These findings informed the development of Now & Next, in addition
+to the prioritisation of other activities, such as ESG reporting
+considerations.
+The findings are presented visually in the materiality matrix below.
+Materiality matrix
+List of sustainability topics:
+1.
+Climate action
+2.
+Energy use and efficiency
+3.
+Product design for optimal resource use
+4.
+Recyclability
+5.
+Transitioning to a circular economy
+6.
+Biodiversity and regeneration of nature
+7.
+Business ethics, ESG governance
+and transparency
+8.
+Post-consumer waste and
+recycling infrastructure
+9.
+Responsible sourcing
+10. Community engagement and impact
+11. Data privacy and security
+12. Diversity, equity and inclusion
+13. Fair wages and labour
+14. Human rights in the value chain
+15. Physical and mental wellbeing
+16. Product health and safety
+17. Public policy and advocacy
+18. Sustainable consumer choices
+19. Sustainable forest management
+20. Waste in operations
+21. Water efficiency and quality
+22. Water scarcity
+23. Education development and upskilling
+24. Employee engagement
+25. Health and safety
+26. Reuse business models
+Annual Report 2024 dssmith.com
+35
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 38
+
+Metrics and targets
+The table below contains the metrics used to measure and monitor Now & Next Sustainability Strategy progress and capture the identified
+sustainability-related risks and opportunities arising from our double materiality assessment.
+1. This figure represents c. 74 of our conventional packaging sites for which
+BSIR (Board Strength Index Rating) data is available. It does not capture all
+packaging designs and specifications and excludes board purchased externally
+and sheet board sales. See DS Smith Sustainability Report 2024, page 17.
+2. In 2023/24, 99.6% (2022/23: 99.7%) of our packaging volume met our
+100 per cent recyclable and reusable standard. For the remaining 0.4
+per cent volume that is presently not either recyclable in practice or at scale,
+such as some barrier coatings and foam, we continue to push for alternatives.
+3. DS Smith commits to reduce absolute Scope 1, 2 and 3 GHG emissions 46.2%
+by FY2030 from a FY2019 base year.
+4. DS Smith commits that 76% of its suppliers by emissions covering purchased
+goods and services will have science-based targets by FY 2027.
+5. Sites with greater than 50 full time employees.
+Now & Next Sustainability Strategy target
+2023/24
+2022/23
+Status
+Circularity
+Design out
+waste and
+pollution
+By 2025, optimise fibre for individual supply chains in 100 per cent
+of new packaging solutions1
+Metric: Percentage of fibre use optimised for individual supply chains
+90%
+64%
+On track
+By 2030, optimise every fibre for every supply chain
+Ongoing
+Ongoing
+On track
+By 2025, help our customers to replace one billion pieces of plastic with alternative
+fibre-based solutions
+Metric: Number of pieces of plastic replaced, avoided or reduced
+Over 1.2 billion
+cumulative total
+since 2020/21
+Achieved
+By 2030, send zero waste to landfill
+Metric: Total waste landfilled (tonnes)
+165,840*
+tonnes
+204,637
+tonnes
+On track
+Keep
+materials
+in circulation
+By 2025, test up to five reuse pilots and continue to manufacture 100 per cent
+recyclable and reusable packaging2
+Ongoing
+Ongoing
+On track
+By 2030, aim for all our packaging to be recycled or reused
+Ongoing
+Ongoing
+On track
+Carbon
+Decarbonise
+our operations
+and value
+chain
+By 2030, reduce Scope 1, 2 and 3 GHG emissions by 46 per cent compared to 20193
+Metric: Total GHG emissions (tonnes CO2e)
+6,985,269
+tonnes CO2e
+7,391,418
+tonnes CO2e
+On track
+By 2027, encourage 100 per cent of our strategic suppliers (representing 76 per cent
+of purchased goods and services emissions) to set their own science-based targets4
+Metric: Percentage of purchased goods and services emissions from suppliers with
+science-based targets
+42%
+32%
+On track
+By 2050, reach Net Zero GHG emissions
+Ongoing
+Ongoing
+On track
+People &
+Communities
+Engage
+people and
+communities
+By 2025, engage 100 per cent of our people on the circular economy
+Metric: Percentage of our people engaged on the circular economy
+76%
+57%
+On track
+By 2030, engage 10 million people on the circular economy and circular lifestyles
+Metric: Number of people engaged on the circular economy
+9.8 million cumulative
+total since 2020/21
+Ahead
+100 per cent of our sites engaged in community activities each year5
+Metric: Percentage of sites participating in community activities
+100%
+100%
+Achieved
+Provide a safe
+and inclusive
+workplace
+Reduce the Accident frequency rate (AFR) every year
+Metric: Accident frequency rate (AFR)
+1.65
+1.82
+On track
+Strive to achieve Vision Zero
+Ongoing
+Ongoing
+On track
+By 2025, inclusive leadership workshops completed by all
+leadership teams across all sites
+Metric: Percentage of managers who have completed inclusive leadership workshops
+25%
+New target
+On track
+By 2030, improve gender diversity towards 40 per cent women in senior leadership
+and set an aspiration for other protected characteristics6
+Metric: Percentage of senior leadership, female employees
+31.1%*
+34.5%
+On track
+Respect
+human rights
+By 2025, complete SEDEX SAQ roll out to all sites and perform
+appropriate auditing of SAQs7
+Metric: Percentage of sites completed SEDEX SAQ
+100%
+56%
+Achieved
+Continue to improve human rights due diligence each year
+Ongoing
+Ongoing
+On track
+Nature
+Protect and
+regenerate
+forests and
+biodiversity
+By 2025, measure and improve biodiversity in our own forests and assess
+our dependencies on nature
+Ongoing
+Ongoing
+On track
+By 2025, biodiversity programmes in place at each of our paper mills
+Metric: Number of our paper mills with biodiversity programmes in place
+14
+13
+On track
+Set targets to regenerate nature taking a science-based approach
+Ongoing
+New target
+On track
+Water
+management
+By 2025, 100 per cent of our paper mills and packaging sites to have water
+management plans8
+Metric: Percentage of sites with water management plans
+10%
+New target
+On track
+By 2030, 10 per cent reduction in water withdrawal intensity at mills
+at risk of water stress compared to 2019
+Metric: Water abstracted for own process (m3/t nsp)9
+7.52
+m3/t nsp
+8.4
+m3/t nsp
+Achieved
+6. Defined in accordance with the requirements of the FTSE Women Leaders
+Review as those on our four Executive Committees and their direct reports.
+7. The Sedex SAQ (Supplier Ethical Data Exchange Self-Assessment
+Questionnaire) is a set of questions relating to business practices,
+management systems, policies and worker information. The scope includes
+manufacturing sites, as defined in our Basis of Preparation and the 100 per
+cent figure refers to the Sedex SAQ roll out.
+8. Sites in scope includes manufacturing sites with >5,000m3 annual water
+withdrawal at current or future water stress risk (WRI Aqueduct Tool).
+9. Metric updated to reflect the water that is abstracted for own process, which
+is water withdrawals less water exported to a third party for their own use.
+
+* Independent assurance obtained for the metrics marked with an asterisk ‘*’.
+See the summary independent assurance statement on page 76.
+36
+To lead the way in sustainability continued
+Contents
+
+## Page 39
+
+Industry-specific metrics
+This table contains Sustainability Accounting Standards Board (SASB) Containers & Packaging industry standard disclosures. The standard
+provides investors and other report users with consistent, comparable and reliable ESG information. Disclosures can be located directly in the
+table, with associated information on the pages referenced. ‘AR’ refers to Annual Report 2024, ‘SR’ refers to Sustainability Report 2024,
+’NZ’ refers to Net Zero Transition Plan 2024, and ‘DB’ refers to ESG Databook 2024, which can be obtained from the ESG Reporting Hub.
+Industry-specific metrics (SASB Standard Index (Containers & Packaging))
+Topic
+Accounting metric
+Unit
+Code
+Disclosure
+Ref
+Greenhouse
+gas emissions
+Gross global Scope 1 emissions;
+percentage covered under emissions-limiting regulations
+Tonnes
+CO2e: %
+RT-CP-110a.1
+1,340,272*; 70*
+AR 76-77
+Discussion of long-term and short-term strategy or plan to manage
+Scope 1 emissions, emissions reduction targets, and an analysis of
+performance against those targets
+Discussion
+and analysis
+RT-CP-110a.2
+Narrative
+NZ
+Air quality
+Air emissions of the following pollutants:(1) NOx (excluding N2O), (2)
+SOx, (3) volatile organic compounds (VOCs) and (4) particulate
+matter (PM)
+Tonnes
+RT-CP-120a.1
+4,170; 248;
+0; 0
+Energy
+management
+(1) Total energy consumed, (2) percentage grid electricity, (3)
+percentage renewable and (4) total self-generated energy
+MWh; %
+RT-CP-130a.1
+14,058,435*;
+12; 29*;
+5,669,066
+DB 7
+Water
+management
+1) Total water withdrawn and (2) total water consumed, percentage
+of each in regions with High or Extremely High Baseline Water Stress
+m3; %
+RT-CP-140a.1
+52,477,496*;
+15,851,351*;
+29*
+DB 10-11
+Description of water management risks and discussion of strategies
+and practices to mitigate those risks
+Discussion
+and analysis
+RT-CP-140a.2
+Narrative
+AR 70-71
+Number of incidents of non-compliance associated with water
+quality permits, standards and regulations
+Number
+RT-CP-140a.3
+3
+SR 69
+Waste
+management
+Amount of hazardous waste generated; percentage recycled
+Tonnes; %
+RT-CP-150a.1
+3,958; 65
+DB 12
+Product
+safety
+Number of recalls issued; total units recalled
+Number
+RT-CP-250a.1
+0; 0
+SR 67
+Discussion of process to identify and manage emerging materials
+and chemicals of concern
+Discussion
+and analysis
+RT-CP-250a.2
+Narrative
+SR 67
+Product
+lifecycle
+management
+Percentage of raw materials from: (1) recycled content, (2)
+renewable resources and (3) renewable and recycled content
+%
+RT-CP-410a.1
+82; 100; 100
+Revenue from products that are reusable, recyclable and/or compostable
+£ ‘000
+RT-CP-410a.2
+6,797
+SR 6
+Discussion of strategies to reduce the environmental impact of
+packaging throughout its lifecycle
+Discussion
+and analysis
+RT-CP-410a.3
+Narrative
+SR 14-21
+Supply chain
+management
+Total wood fibre procured; percentage from certified sources
+Tonnes; %
+RT-CP-430a.1
+4,545,648; 100
+Total aluminium purchased; percentage from certified sources
+Tonnes; %
+RT-CP-430a.2
+Not applicable
+Corporate Sustainability Reporting Directive (CSRD)
+The EU’s CSRD requires companies to disclose information about the
+risks and opportunities arising from social and environmental issues
+and the impact of business activities on people and the environment.
+These disclosures aim to help investors, civil society, consumers and
+other stakeholders to evaluate the sustainability performance of
+companies as part of the European Green Deal. We have begun
+preparation to report against material European Sustainability
+Reporting Standards (ESRS), informed by our double materiality
+assessment and Now & Next Sustainability Strategy.
+International Sustainability Standards Board (ISSB)
+The IFRS Foundation, through the ISSB, is developing standards
+that aim to result in a high-quality, comprehensive global baseline
+of sustainability disclosures focused on investor needs. We have
+prepared pages 30 to 37 with reference to IFRS S1 ‘General
+Requirements for Disclosure of Sustainability-related Financial
+Information’ and pages 60 to 77 with reference to IFRS S2 Climate-
+related Disclosures. These are consistent with the Task Force on
+Climate-related Financial Disclosures (TCFD) recommendations,
+with some additions. We continue to monitor the development and
+release of future IFRS sustainability disclosure standards.
+Responding to the evolving ESG reporting landscape
+We continue to monitor the evolving ESG reporting landscape, which has continued to mature over the past year. We are preparing new
+disclosures and developing our existing disclosures to meet the needs of our stakeholders and regulatory requirements.
+UK Transition Plan Taskforce (UK TPT)
+The UK TPT has published the Transition Plan Taskforce Disclosure
+Framework, which aims to provide a set of recommendations for
+effective reporting on climate transition plans. We have prepared
+our inaugural DS Smith Net Zero Transition Plan with reference to
+the TPT disclosure recommendations and guidance. A short
+summary of our transition plan is presented within the ‘strategy’
+section of our climate-related disclosures, on pages 64 to 68.
+Taskforce on Nature-related Financial Disclosures (TNFD)
+The TNFD consists of disclosure recommendations that aim to
+encourage and enable businesses to assess, report and act on their
+nature-related dependencies, impacts, risks and opportunities.
+As part of our commitment to assess our impacts and dependencies
+on nature for 2025, we have begun to assess the interfaces our
+operations and value chain have with nature, in alignment with the
+TNFD ‘LEAP’ (Locate, Evaluate, Assess and Prepare) approach.
+We plan to report against TNFD in DS Smith Annual Report 2025.
+Alongside these developments, we maintain our GRI-aligned
+Sustainability Report, SASB (Sustainability Accounting Standards
+Board) standard disclosures and ESG ratings submissions.
+Annual Report 2024 dssmith.com
+37
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 40
+
+Our strategy
+To double our size
+and profitability
+Our strategy
+£6,822m
+Revenue
+£701m
+Adjusted operating profit
+33.1p
+EPS
+38
+Contents
+
+## Page 41
+
+Operating review
+Resilient performance
+The macro-economic environment has remained challenging with
+overall market demand continuing to be weak, leading to a decline
+in like for like box volumes of 2 per cent4 compared to 2022/23.
+Customers are starting to increase promotional activity and stock
+levels, with like for like volumes in the second half of the year showing
+positive growth. The medium-term target for box volume growth of
+1.8 per cent (GDP+1 per cent) was significantly impacted by inflation
+in addition to lower production volumes.
+The largest decline in volume was in Northern Europe, which includes
+the UK and Germany, where we have a greater weighting to industrial
+and e-commerce customers, respectively. Southern Europe was
+relatively resilient and our Eastern Europe and North American
+divisions delivered strong volume growth for the year.
+For the 12-month period, revenue was £6,822 million
+(2022/23: £8,221 million), down 16 per cent on a constant currency
+basis and 17 per cent on a reported basis with the decline in box
+volumes (£129 million) and lower selling prices (£1,173 million).
+Packaging prices were down £647 million, approximately 10 per cent,
+with the balance reflecting lower external paper, recyclate and
+energy sales. Packaging prices have been relatively resilient,
+reflecting our strong customer relationships, ongoing innovation
+and continued focus on high service levels.
+Adjusted operating profit declined 18 per cent on a constant
+currency basis and 19 per cent on a reported basis to £701 million
+(2022/23: £861 million). The impact of box and other volume declines
+led to a £35 million reduction in adjusted operating profit. The decline
+in sales price was mostly offset by a reduction in raw material costs
+and cost mitigation actions, which led to an overall decrease in costs,
+excluding the impact of volume declines, of £1,059 million versus the
+comparable period with a reduction in raw materials costs of
+£661 million and cost mitigation initiatives and reduced other costs
+totalling £398 million.
+Group return on sales was 10.3 per cent (2022/23: 10.5 per cent), and
+within our medium-term target range of 10 to 12 per cent reflecting
+the robust operating profit.
+Basic earnings per share from continuing operations declined 20 per
+cent on a constant currency basis to 28.0 pence. Adjusted basic
+earnings declined by 22 per cent on a constant currency basis to
+33.1 pence per share, reflecting the decline in profitability.
+Return on average capital employed decreased by 360 bps to 10.7 per
+cent reflecting the lower profitability and below our medium-term
+target range of 12 to 15 per cent.
+Cash flow and net debt
+As previously announced, free cash flow8 was impacted in the period
+by a number of one-off items and led to an outflow of £175 million
+versus a cash inflow of £354 million in 2022/23. The cash outflow
+included a working capital outflow of £417 million including a net
+outflow of £137 million (2022/23: net benefit of £69 million) in
+respect of the reversal of prior period cash collateralisation of energy
+hedges which we undertook to limit our counterparty exposure. The
+underlying working capital outflow was principally driven by lower
+paper and energy prices reducing trade payables. In September 2023
+we paid the final amount of £103 million for the remaining
+outstanding shareholding in Interstate Resources, the majority of
+which we acquired in August 2017.
+Cash generated from operations before adjusting cash items of
+£566 million (2022/23: £1,092 million) was used to invest in net capex
+of £506 million (2022/23: £526 million).
+Cash conversion7,8, as defined in our financial KPIs (note 32) was
+39 per cent (2022/23: 101 per cent), below our target of being at or
+above 100 per cent.
+Net debt as at 30 April 2024 was £2,230 million (30 April 2023:
+£1,636 million), principally due to the increased working capital
+outflow and capital expenditure described above. Our net debt/
+EBITDA6 ratio (calculated in accordance with our banking covenant
+requirements) is 2.1 times (2022/23: 1.3 times), substantially below
+our banking covenant of 3.75 times and just above our medium-term
+target of at or below 2.0 times. The Group remains fully committed to
+maintaining its investment grade credit rating.
+Annual Report 2024 dssmith.com
+39
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 42
+
+Leading the way in sustainability
+Sustainability has been at the heart of our business for many years
+as we have developed and grown into a solely fibre-based corrugated
+packaging business and have built our Now & Next Sustainability
+Strategy around ambitious near and long-term targets that confirm
+our commitment to the Circular Economy and our Purpose of
+Redefining Packaging for a Changing World.
+Replacing one billion units of plastic by 2025 was one of these targets
+and we are proud to have achieved this target 16 months ahead of
+schedule. We have replaced over 1.2 billion units of plastic with a
+range of new and innovative fibre-based solutions. Everyday plastic
+items that have been replaced on supermarket shelves include
+ready-meal trays, fruit and vegetable punnets, plastic carriers and
+shrink-wrap that is commonly found on soft drink bottles.
+As well as supporting our customers’ sustainability challenges we also
+continue to make good progress in delivering against our own
+sustainability targets. We have reduced our total greenhouse gas
+(GHG) emissions by 5 per cent in the year (19 per cent compared to
+2019), strengthened our human rights due diligence having achieved
+our target to roll out Sedex SAQs (Supplier Ethical Data Exchange
+Self-Assessment Questionnaire) to all sites and maintained 100 per
+cent of our sites engaging in community activities.
+We are delighted that our progress on climate change was recently
+recognised with our CDP A List position (achieving A grade for Climate
+Change, alongside A- for Forests and Water Security) with continuing
+high ratings from EcoVadis, MSCI, S&P Global and Sustainalytics.
+Dividend
+The Board considers the dividend to be an extremely important
+component of shareholder returns. In June, we announced a final
+dividend of 12.0p per share, taking the total dividend for this year to
+18.0 pence per share, in line with 2022/23.
+Subject to approval of shareholders at the AGM to be held on
+3 September 2024, the final dividend will be paid on 4 October 2024
+to shareholders on the register at the close of business on
+6 September 2024.
+Our medium-term targets and key
+performance indicators
+We measure our performance according to both our financial and
+non-financial medium-term targets and key performance indicators.
+Performance against our financial key performance indicators and
+medium-term targets has been described above.
+Non-financial key performance indicators
+DS Smith is committed to providing all employees with a safe and
+productive working environment. We are pleased, once again,
+to report improvements in our safety record, with our accident
+frequency rate (defined as the number of lost time accidents per
+million hours worked) reducing by a further 9 per cent to 1.65,
+reflecting our ongoing commitment to best practice in health and
+safety. We are proud that 262 out of a total of 325 reporting sites
+achieved our target of zero accidents this year and we continue to
+strive for zero accidents for the Group as a whole.
+In the year we achieved a good performance in our customer service
+measure of OTIF (on-time, in-full) deliveries at 96 per cent, maintaining
+the same level as the prior year (96 per cent). Management remains
+fully committed to our target of 97 per cent on-time, in-full deliveries
+and the highest standards of service, quality and innovation to all our
+customers and we will continue to strive to meet the demanding
+standards our customers expect.
+Combination with International Paper
+DS Smith is a high-quality business with an excellent customer focus
+and exceptional people and this has been recognised by the strong
+interest we have seen in the Company.
+In April the boards of International Paper Company and DS Smith
+recommended an all-share combination of International Paper with
+DS Smith. The combination will bring together complementary
+businesses to create a truly global sustainable packaging solutions
+leader, with industry leading positions in two of the most attractive
+geographies of Europe and North America. The combined business will
+enhance our global proposition to customers, create opportunities for
+colleagues and drive value for shareholders who can remain fully
+invested in such an exciting business. Both parties are working
+together to satisfy the offer conditions as described in the rule
+2.7 announcement on 16 April 2024 and bring about the successful
+completion of the recommended all-share combination.
+Further details on the proposed transaction can be found
+at www.dssmith.com
+40
+Operating review continued
+Contents
+
+## Page 43
+
+Operating review
+Unless otherwise stated, all commentary and comparable analysis in
+the Overview and Operating review relates to the continuing
+operations of the Group, on a constant currency basis.
+Group
+Year ended
+30 April 2024
+Year ended
+30 April 2023
+Change
+– reported
+Change
+– constant
+currency
+Revenue
+£6,822m
+£8,221m
+(17%)
+(16%)
+Adjusted
+operating profit1
+£701m
+£861m
+(19%)
+(18%)
+Operating profit
+£604m
+£661m
+(18%)
+(17%)
+Revenue declined 16 per cent due to lower box volumes and lower
+selling prices for both paper and packaging as well as lower recyclate
+and energy sales. Adjusted operating profit declined 18 per cent due
+to the impact of revenue decline partly offset by a reduction in raw
+material costs and cost mitigation actions.
+Northern Europe
+Year ended
+30 April 2024
+Year ended
+30 April 2023
+Change
+– reported
+Change
+– constant
+currency
+Revenue
+£2,598m
+£3,132m
+(17%)
+(16%)
+Adjusted
+operating profit1
+£199m
+£212m
+(6%)
+(5%)
+Return on sales2
+7.7%
+6.8%
+90bps
+90bps
+In Northern Europe, like for like corrugated box volumes across
+the region declined more than the Group average due to a greater
+weighting of industrial and e-commerce customers which have seen
+the biggest sectoral declines over the year.
+Revenues decreased by 16 per cent in the region due to a combination
+of the decrease in box volumes, reductions in sales prices for
+packaging and externally sold paper as well as volumes of recycled
+fibre. Adjusted operating profit decreased less than revenue, with
+return on sales increasing to 7.7 per cent, reflecting resilient pricing in
+packaging, due to a higher proportion of indexed pricing, and benefits
+from restructuring announced in 2022/23.
+Southern Europe
+Year ended
+30 April 2024
+Year ended
+30 April 2023
+Change
+– reported
+Change
+– constant
+currency
+Revenue
+£2,532m
+£3,150m
+(20%)
+(19%)
+Adjusted
+operating profit1
+£373m
+£501m
+(26%)
+(25%)
+Return on sales2
+14.7%
+15.9%
+(120bps)
+(120bps)
+Southern Europe saw a like for like decline in box volumes approximately
+in line with the Group average with France weaker than Iberia and
+Italy, reflecting the weaker overall consumer market in France.
+Revenue declined 19 per cent, due to the impact of decreases in
+both packaging and external paper pricing. Adjusted operating profit
+declined by 25 per cent compared to the prior period, due largely
+to the decrease in the volume and price of paper sold externally,
+although margins continued to remain significantly above the Group’s
+target range.
+Eastern Europe
+Year ended
+30 April 2024
+Year ended
+30 April 2023
+Change
+– reported
+Change
+– constant
+currency
+Revenue
+£1,106m
+£1,275m
+(13%)
+(13%)
+Adjusted
+operating profit1
+£72m
+£76m
+(5%)
+(4%)
+Return on sales2
+6.5%
+6.0%
+50bps
+60bps
+Like for like corrugated box volumes in Eastern Europe grew over the
+period, with revenues declining 13 per cent, principally reflecting
+reduced paper and packaging prices. Return on sales improved during
+the period, as adjusted operating profit was down only slightly as the
+lower pricing was partially offset by lower raw material costs and
+efficiency improvements, together with costs of £19 million relating
+to the decision to close our Trakia paper mill in Bulgaria in the prior
+year comparative.
+Annual Report 2024 dssmith.com
+41
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 44
+
+North America
+Year ended
+30 April 2024
+Year ended
+30 April 2023
+Change
+– reported
+Change
+– constant
+currency
+Revenue
+£586m
+£664m
+(12%)
+(8%)
+Adjusted operating
+profit1
+£57m
+£72m
+(21%)
+(16%)
+Return on sales2
+9.7%
+10.8%
+(110bps)
+(100bps)
+Like for like packaging volumes grew during the period, reflecting
+excellent customer traction and our recent investments in additional
+capacity. However, revenue in the region declined, reflecting pricing
+reductions in paper and packaging.
+Adjusted operating profit declined by 16 per cent, principally
+reflecting the decline in paper profitability as the region produces
+more paper than it currently utilises for our own packaging production
+and hence retains some exposure to the paper export market. Despite
+this, return on sales margins remain attractive and the expected
+continued volume growth will reduce this exposure going forward.
+Outlook
+The positive trends in packaging volumes from the second half of last
+year have continued into the current financial year and we remain
+focused on pricing, operational efficiency and tight cost control. The
+increasing demand is resulting in higher paper and other input costs,
+including OCC. We anticipate this will be reflected in packaging price
+rises, with the benefits expected to be weighted to the second half of
+our current financial year and provide further momentum into FY26.
+Notes to the financial tables
+Note 32 explains the use of non-GAAP performance measures. These measures
+are used both internally and externally to evaluate business performance, as a
+key constituent of the Group’s planning process, and they are applied in the
+Group’s financial and debt covenants, as well as establishing the targets against
+which compensation is determined. Reporting of non-GAAP measures alongside
+reported measures is considered useful to enable investors to understand how
+management evaluates performance and value creation internally, enabling
+them to track the Group’s adjusted performance and the key business drivers
+which underpin it over time. Reported results are presented in the Consolidated
+Income Statement and reconciliations to adjusted results are presented on
+the face of the Consolidated Income Statement, in note 2, note 4, note 8,
+and note 32.
+1. Adjusted operating profit (adjusted EBITA) is before adjusting items (as set
+out in note 4) and amortisation of £98 million.
+2. Operating profit before amortisation and adjusting items as percentage
+of revenue.
+3. Operating profit before amortisation and adjusting items as a percentage of
+the average monthly capital employed over the previous 12-month period.
+Average capital employed includes property, plant and equipment,
+right-of-use assets, intangible assets (including goodwill), working capital,
+provisions, capital debtors/creditors, biological assets and assets/liabilities
+held for sale.
+4. Corrugated box volumes on a 12-month basis (based on area (m2) of
+corrugated box sold), adjusted for working days, on an organic basis.
+5. GDP growth for rolling 12 months (year-on-year) for the countries in
+which DS Smith operates, weighted by our sales by country = 0.8%.
+Source: Eurostat (15 May 2024) and ONS.
+6. EBITDA being operating profit before adjusting items, depreciation and
+amortisation and adjusted for the full-year effect of acquisitions and
+disposals in the period. Net debt is calculated at average exchange rates as
+opposed to closing rates. Ratio as calculated in accordance with bank
+covenants. See note 32 on non-GAAP measures for reconciliation.
+7. Free cash flow before tax, net interest, growth capital expenditure, pension
+payments and adjusting cash flows as a percentage of operating profit before
+amortisation and adjusting items.
+8. Free cash flow is the net movement on debt before cash outflow for
+adjusting items, dividends paid, acquisitions and divestment of subsidiary
+businesses (including borrowings acquired) and proceeds from issue of
+share capital.
+42
+Operating review continued
+Contents
+
+## Page 45
+
+Overview
+2023/24 has seen the Group deliver robust adjusted operating profit
+in the context of a challenging macroeconomic environment,
+characterised by soft demand, low paper prices and higher inflation
+impacting input costs. We continued to be responsive to our
+customers’ needs and invested in our strong relationships, while
+delivering innovative packaging solutions.
+The business saw revenue decline by 17 per cent (constant currency
+16 per cent) as the market price of paper and packaging reduced,
+coupled with a marginal decline in packaging volumes of (2 per cent).
+Adjusted operating profit reduced by 19 per cent (constant currency
+18 per cent) from the record level recorded in the previous year,
+reflecting the enormous effort by our colleagues across the business
+to offset the external headwinds.
+Whilst the above mentioned efforts ensured that the return
+on sales of the business remained relatively flat at 10.3 per cent
+(2022/23: 10.5 per cent) and within our target range, return on
+average capital employed (ROACE) for the year was 10.7 per cent
+(2022/23: 14.3 per cent), which was below the target range of 12 to
+15 per cent. The headline results can be summarised as:
+• Organic corrugated box volume reduced by 2 per cent (2022/23:
+a decrease of 5.8 per cent).
+• Revenue decreased 16 per cent on a constant currency and 17 per
+cent on a reported basis to £6,822 million (2022/23: £8,221 million).
+• Adjusted operating profit of £701 million, a decline of 18 per cent
+on a constant currency basis and 19 per cent on a reported basis
+(2022/23: £861 million).
+• 18 per cent reduction in operating profit to £604 million on a
+reported basis; 16 per cent decrease on a constant currency basis
+(2022/23: £733 million).
+• Statutory profit before tax of £503 million, a 23 per cent reduction
+on a constant currency basis and 24 per cent decrease on a reported
+basis (2022/23: £661 million).
+• Adjusted return on sales at 10.3 per cent (2022/23: 10.5 per cent).
+• Adjusted return on average capital employed of 10.7 per cent
+(2022/23: 14.3 per cent).
+• Net debt to EBITDA ratio of 2.1 times (2022/23: 1.3 times).
+• Cash conversion 39 per cent (2022/23: 101 per cent).
+Unless otherwise stated, the commentary below references the
+continuing operations of the Group.
+Non-GAAP performance measures
+The Group presents non-GAAP measures alongside reported
+measures, in order to provide a balanced and comparable view of the
+Group’s overall performance and position. Non-GAAP performance
+measures eliminate amortisation and unusual or non-operational
+items that may obscure understanding of the key trends and
+performance. These measures are used both internally and externally
+to evaluate business performance, as a key constituent of the Group’s
+planning process, they are applied in the Group’s financial and debt
+covenants, as well as comprising targets against which compensation
+is determined. Amortisation relates primarily to customer contracts
+and relationships arising from business combinations. Unusual or
+non-operational items include business disposals, restructuring,
+acquisition related and integration costs and impairments, and are
+referred to as adjusting items.
+“Robust profitability in
+a challenging market”.
+Richard Pike
+Group Finance Director
+Financial review
+Annual Report 2024 dssmith.com
+43
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 46
+
+Reporting of non-GAAP measures alongside statutory measures is
+considered useful by investors to understand how management
+evaluates performance and value creation, enabling them to track the
+Group’s performance and the key business drivers which underpin it
+and the basis on which to anticipate future prospects.
+Note 32 explains further the use of non-GAAP performance measures
+and provides reconciliations as appropriate to information derived
+directly from the financial statements. Where a non-GAAP measure is
+referred to in the review, the equivalent measure stemming directly
+from the financial statements (if available and appropriate) is also
+referred to.
+Trading results
+Revenue decreased by 17 per cent on a reported basis to
+£6,822 million (2022/23: £8,221 million). Packaging prices continued
+to fall across the year, reflecting ongoing soft demand, and paper
+selling prices remained weak through the year before starting to
+recover as we approached year end. Lower selling prices reduced
+revenue by £1,173 million, with packaging and other volume
+reductions reducing revenue by a further £142 million.
+Reported revenues are subject to foreign currency translation effects.
+In the year, the euro accounted for 60 per cent of Group revenue.
+As such, the movements of the euro against sterling during the year
+constituted the majority of the £84 million of adverse foreign
+exchange translation impact. On a constant currency basis, revenues
+decreased by 16 per cent.
+Corrugated box volumes reduced by 2 per cent (2022/23: 5.8 per cent
+reduction) as a result of softness in demand in our end markets.
+However, there was improvement in the demand environment across
+the year and in the second half we saw a marginal improvement over
+the prior year comparative period as sentiment began to improve.
+Adjusted operating profit of £701 million on a reported basis is a
+decrease of 19 per cent (2022/23: £861 million). This is largely
+attributable to reducing prices (£1,173 million) and volume reduction
+of £35 million, offset by input cost reductions of £1,059 million.
+Constant currency decline was 18 per cent with adverse foreign
+exchange translation impact to adjusted operating profit of
+£11 million. As the Group exited the year, market prices began to rise
+following the price reductions experienced over the past year.
+Operating profit at £604 million is a decline of 16 per cent on a
+constant currency basis and 18 per cent on a reported basis
+(2022/23: £733 million), as lower amortisation and adjusting items
+offset the decline in adjusted operating profit.
+On a reported basis, depreciation increased to £323 million
+(2022/23: £312 million), reflective of the continued investments
+in the Group’s operating assets.
+Amortisation decreased to £98 million (2022/23: £113 million) due to
+the full year effect of intangibles arising on earlier acquisitions
+completing their amortisation term.
+The key measure of return on average capital employed reduced by
+360 basis points to 10.7 per cent (2022/23: 14.3 per cent), due to the
+reduction in adjusted operating profit and higher capital employed.
+This performance is below the Group’s medium-term target of 12 to
+15 per cent.
+The Group’s adjusted return on sales was broadly comparable to the
+prior year with a 20 basis points reduction to 10.3 per cent
+(2022/23: 10.5 per cent), reflecting the robustness of our business
+model and continued focus on costs. It remains within the medium-
+term target of 10 to 12 per cent.
+Income statement – from continuing operations
+(unless otherwise stated)
+2023/24
+£m
+2022/23
+£m
+Revenue
+6,822
+8,221
+Adjusted operating profit1
+701
+861
+Operating profit
+604
+733
+Adjusted return on sales1
+10.3%
+10.5%
+Adjusted net financing costs1
+(103)
+(74)
+Share of profit of equity-accounted
+investments, net of tax
+2
+2
+Profit before income tax
+503
+661
+Adjusted profit before income tax1
+600
+789
+Adjusted income tax expense1
+(145)
+(197)
+Adjusted earnings1
+455
+592
+Profit from discontinued operations, net of tax
+11
+Adjusted basic earnings per share1
+33.1p
+43.0p
+Profit for the year attributable to
+owners of the parent (including
+discontinued operations)
+385
+502
+Basic earnings per share from continuing and
+discontinued operations
+28.0p
+36.6p
+Basic earnings per share from
+continuing operations
+28.0p
+35.8p
+1. Adjusted to exclude amortisation and adjusting items (see note 32).
+44
+Financial review continued
+Contents
+
+## Page 47
+
+Adjusting items
+Adjusting items before tax and financing costs were £1 million
+(2022/23: £15 million loss) which relates to a gain from the disposal of
+the Group’s associate in Ukraine of £10 million offset by acquisition
+and other adjusting costs of £9 million.
+Interest, tax and earnings per share
+Net finance costs were £103 million (2022/23: £74 million). The
+increase of £29 million over the prior year is a function of the higher
+interest rate environment coupled with the refinancing of prior year
+bonds. The employment benefit net finance expense of £1 million is in
+line with the prior year.
+The share of profits of equity-accounted investments remained at
+£2 million (2022/23: £2 million).
+Profit before tax decreased by 24 per cent on a reported basis to
+£503 million (2022/23: £661 million), driven by the decrease in
+operating profit and increased financing costs offset by a reduction
+in amortisation. Adjusted profit before tax of £600 million
+(2022/23: £789 million) decreased by 24 per cent on a reported basis,
+again due to the decrease in the underlying adjusted operating profit.
+The tax charge of £118 million (2022/23: £169 million) reflects the
+lower profits versus the prior year. The Group’s effective tax rate on
+adjusted profit, excluding amortisation, adjusting items and
+associates, was 24.2 per cent (2022/23: 25.0 per cent).
+Reported profit after tax, amortisation and adjusting items for
+continuing and discontinued operations was £385 million
+(2022/23: £503 million). The decrease in operating profit led to a
+reduction of 22 per cent in basic earnings per share from continuing
+operations on a reported basis to 28.0 pence (2022/23: 35.8 pence),
+with adjusted earnings per share from continuing operations 23 per
+cent lower at 33.1 pence (2022/23: 43.0 pence) on a reported basis,
+22 per cent lower on a constant currency basis.
+Acquisitions and disposals
+In recent years, the Group’s strategy has focused on organic growth in
+order to support growth with our major customers.
+During the year the Group acquired Bosis d.o.o., a high-quality
+packaging company in Serbia, for €20 million (net of cash and cash
+equivalents), complementing the Group’s existing regional packaging
+activity in Eastern Europe.
+The acquisition of the final 10 per cent holding in Interstate Resources
+was completed in the year with a final payment of $129 million.
+Cash flow
+Reported net debt of £2,230 million (30 April 2023: £1,636 million)
+has increased from the prior year, with a reduction in EBITDA from the
+record performance in the previous year and a net working capital
+outflow of £417 million, due largely to the decline in energy prices and
+paper raw material purchase prices during the financial year, net
+capital expenditure of £506 million and higher tax payments. The
+working capital outflows were mitigated by maintaining focus on cash
+management, in particular cash collection and inventory
+management, but these were insufficient to offset the commodity
+price moves. In order to manage counterparty credit risk of the Group’s
+energy derivatives, the Group agreed resets of certain derivatives
+with the counterparties to reduce the risk. The unwind in the current
+year of prior year resets contributed to a net working capital outflow
+of £137 million, compared to an inflow of £69 million in the prior year.
+Trade receivables factoring is £9 million higher than April 2023 at
+£369 million. This remains a reduction of some 34 per cent from the
+peak balance of £559 million in 2018. Going forward the Group
+expects to continue to sell high credit quality receivables under this
+programme within the range £350-400 million outstanding at any
+one time. Such arrangements enable the Group to optimise its
+working capital position and reduces the quantum of early payment
+discounts given.
+Net capital expenditure decreased by £20 million to £506 million in
+the year. The Group continued to focus on growth and efficiency
+capital projects, the most significant elements of which related to the
+replacement paper making line in Italy, the replacement recovery
+boiler in Portugal and the new biomass boiler in France. Proceeds from
+the disposal of property, plant and equipment were £41 million
+(2022/23: £19 million), which included assets becoming surplus as a
+result of the prior year restructuring, including UK recycling sites, the
+Berlin packaging site and other non-core assets.
+In the year, the remaining cash payment of $129 million occurred
+relating to the acquisition cost of the Interstate Resources acquisition
+following the settlement of the put option, and the acquisition of
+Bosis d.o.o. in Serbia was completed for €20 million.
+Tax paid of £169 million is £33 million higher than the prior year,
+driven by increasing levels of profit in the prior year.
+Net interest payments of £66 million decreased by £10 million with
+higher interest costs being offset by the timing of payments on the
+Eurobond that was issued during the year.
+Cash outflows associated with adjusting items decreased by
+£3 million to £11 million as programmes which commenced in
+previous years concluded.
+Disposal proceeds of £5 million related to the first tranche of the cash
+flow from the sale of the Group’s associate in Ukraine.
+Annual Report 2024 dssmith.com
+45
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 48
+
+Cash generated from operations before adjusting cash items was an
+inflow of £566 million (2022/23: £1,092 million inflow). Net cash flow
+was an outflow of £543 million, a £592 million decrease on the prior
+year. This reflects the effect of working capital outflows in the current
+year, increased tax payments and the outflow relating to the payment
+of the put option for the final consideration of Interstate Resources.
+Cash conversion at 39 per cent was lower than the previous year
+(2022/23: 101 per cent) due to the lower adjusted operating profit
+and cash outflow relating to working capital.
+Cash flow from continuing operations
+2023/24
+£m
+2022/23
+£m
+Cash generated from operations before
+adjusting cash items
+566
+1,092
+Capital expenditure (net of disposal of
+fixed assets)
+(506)
+(526)
+Tax paid
+(169)
+(136)
+Net interest paid
+(66)
+(76)
+Free cash flow
+(175)
+354
+Cash outflow for adjusting items
+(11)
+(14)
+Dividends
+(247)
+(289)
+Acquisitions and disposals of businesses,
+net of cash and cash equivalents
+(108)
+–
+Other
+(2)
+(2)
+Net cash flow
+(543)
+49
+Issue of share capital
+7
+4
+Foreign exchange, fair value and other
+movements
+(58)
+(205)
+Net debt movement
+(594)
+(152)
+Opening net debt
+(1,636)
+(1,484)
+Closing net debt
+(2,230)
+(1,636)
+Statement of financial position
+At 30 April 2024, shareholder funds were £3,949 million, a decrease
+from £4,084 million in the prior year. The key movements are profit
+attributable to shareholders was £385 million (2022/23: £502 million,
+together with an actuarial loss on employee benefits of £2 million
+(2022/23: £11 million gain) and foreign currency translation loss of
+£147 million (2022/23: gain of £194 million), with a net reduction in
+the cash flow hedge reserve of £211 million (2022/23: £645 million
+reduction) driven by the significant reduction in the underlying value
+of our commodity hedge positions as energy prices fell. Dividends paid
+in the year were £247 million (2022/23: £289 million).
+Equity attributable to non-controlling interests was £nil
+(2022/23: £3 million positive).
+The Group’s banking covenants stipulate the methodology upon
+which the net debt to adjusted earnings before interest, tax,
+depreciation and amortisation (EBITDA) ratio is to be calculated. The
+effects of IFRS 16 Leases, adopted since 1 May 2019, are excluded by
+the banks from the ratio’s determination. The ratio has increased to
+2.1 times, with a reduction in adjusted EBITDA and an increase in
+adjusted net debt. This represents an increase from the previous
+year-end position of 1.3 times. The ratio remains well inside the
+covenant requirements, which across all banking debt is 3.75 times.
+The Group’s publicly traded euro and sterling bonds are not subject to
+any financial covenants. The bonds are, however, subject to a coupon
+step up of 125 basis points for any period the Group falls below an
+investment grade credit rating.
+The covenant calculations also exclude income statement items
+identified as adjusting by the Group and any interest arising from the
+defined benefit pension schemes. At 30 April 2024, the Group has
+substantial headroom under its covenants, with the future outlook
+assessed as part of the annual going concern review. The Group’s
+investment grade credit rating from Standard & Poor’s remains stable
+at investment grade, which takes into account all the items excluded
+from covenant calculations and working capital.
+Statement of financial position
+30 April
+2024
+£m
+30 April
+2023
+£m
+Intangible assets
+2,811
+2,927
+Property, plant and equipment
+3,743
+3,529
+Right-of-use assets
+237
+224
+Inventories
+591
+619
+Trade and other receivables
+1,134
+1,257
+Cash and cash equivalents
+499
+472
+Derivative financial instruments
+79
+319
+Employee benefits
+50
+24
+Other
+110
+86
+Total assets
+9,254
+9,457
+Bank overdrafts
+(89)
+(104)
+Borrowings
+(2,437)
+(1,816)
+Trade and other payables
+(1,850)
+(2,287)
+Provisions
+(68)
+(65)
+Employee benefits
+(82)
+(79)
+Lease liabilities
+(239)
+(224)
+Derivative financial instruments
+(193)
+(368)
+Other
+(347)
+(427)
+Total liabilities
+(5,305)
+(5,370)
+Net assets
+3,949
+4,087
+Net debt
+2,230
+1,636
+Net debt to EBITDA ratio
+2.1x
+1.3x
+46
+Financial review continued
+Contents
+
+## Page 49
+
+At 30 April 2024, the committed borrowing facilities had a weighted
+average maturity of 2.7 years (30 April 2023: 2.4 years). Additional
+detail on these facilities is provided below. Total gross borrowings at
+30 April 2024 were £2,437 million (30 April 2023: £1,816 million). The
+committed borrowing facilities described do not include the
+£427 million of committed factoring facilities, which allow the sale of
+receivables without recourse. Given the committed nature of these
+facilities, they fully protect the Group from any short-term liquidity
+risks which may arise from volatility in financial markets.
+As described above, the Group continues to sell trade receivables
+without recourse, a process by which the trade receivables balance
+sold is de-recognised, with proceeds then presented within operating
+cash flows.
+The Group maintains a €1 billion Euro Commercial Paper Programme.
+There was no issued commercial paper at 30 April 2024.
+Facilities
+Currency
+Maturity
+date
+£m
+equivalent
+Syndicated RCF 2018
+Various
+2024-25
+1,400
+Euro medium-term notes
+EUR
+2024-30
+2,182
+Euro RCF 2020
+EUR
+2025
+51
+Sterling bond medium-term note
+GBP
+2029
+250
+Euro term loan
+EUR
+2025
+9
+Committed facilities at
+30 April 2024
+3,892
+Impairment
+The net book value of goodwill and other intangibles at 30 April 2024
+was £2,811 million (30 April 2023: £2,927 million).
+IAS 36 Impairment of Assets requires annual testing of goodwill and
+other intangible assets, as well as an assessment of any other assets
+for which there may be indicators of impairment. As part of this
+testing, the Group compares the carrying amount of the assets
+subject to testing with the higher of their net realisable value and
+value-in-use to identify whether any impairment exists. The asset
+or group of assets’ value-in-use is determined by discounting the
+future cash flows they expect to generate from the basis of the
+Group’s weighted average cost of capital (WACC) of 9.5 per cent
+(2022/23: 9.5 per cent), plus a blended country risk premium for each
+group of assets. Asset values were tested at 30 April 2024, with no
+impairment identified as a result of the testing performed.
+Energy costs
+Production facilities, in particular paper mills, are energy intensive
+resulting in significant costs for the Group. In 2023/24, costs for gas,
+electricity and other fuels, net of periodic local incentives, were
+£601 million (2022/23: £669 million). The year saw significant
+reductions in prices in the first half year, which eased into the second
+half, with energy costs for the first half year of £309 million
+decreasing to £292 million in the second half year (2022/23: H1
+£400 million, H2 £269 million). The Group’s energy sales reduced
+compared with the prior year. The Group continues to invest in energy
+efficiency projects and limits the exposure to volatile energy pricing
+by hedging energy costs with suppliers and financial institutions,
+managed by the Group’s Energy Procurement team.
+Capital structure and treasury management
+In addition to its trading cash flow, the Group finances its operations
+using a combination of borrowings, property and equipment leases,
+shareholders’ equity and, where appropriate, disposals of non-core
+businesses. The Group’s funding strategy is to achieve a capital
+structure that provides an appropriate cost of capital whilst providing
+the desired flexibility in short and medium-term funding to enable the
+execution of material investments or acquisitions, as required.
+The Group aims to maintain a strong balance sheet enabling
+significant headroom within the financial covenants and to ensure
+continuity of funding by having a range of maturities from a variety of
+sources. The Group has an investment grade rating from Standard &
+Poor’s of BBB–, with a positive outlook.
+The Group’s overarching treasury objective is to ensure sufficient
+funds are available for the Group to execute its strategy and to
+manage the financial risks to which the Group is exposed.
+In November 2018, the Group signed a £1.4 billion five-year
+committed syndicated revolving credit facility (RCF) with its core
+banks. The second extension option was exercised in November 2020.
+A further extension was agreed in June 2024, such that the new
+facility of £1.25 billion matures in May 2027.
+In July 2023 the Group issued two inaugural Green Bonds, to a value of
+€1.5 billion (€850 million due 2027 and €650 million due 27 July
+2030), significantly lengthening our maturity profile and securing
+long-term committed financing for the business. The net proceeds of
+the issuance will be used to finance or refinance eligible activities in
+accordance with DS Smith’s Green Finance Framework. The undrawn
+£500 million term loan facility signed in April 2023 was cancelled upon
+issuance of the Green Bonds.
+Available cash and debt facilities are reviewed regularly to ensure
+sufficient funds are available to support the Group’s activities. At
+30 April 2024, the Group’s committed facilities totalled £3.9 billion, of
+which £1.5 billion remained undrawn and £3.5 billion matures beyond
+one year or more. Undrawn committed borrowing facilities are
+maintained to provide protection against refinancing risk.
+Annual Report 2024 dssmith.com
+47
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 50
+
+Pensions
+The Group’s primary funded defined benefit pension scheme, based in
+the UK, is closed to future accrual. There are a variety of other
+post-retirement and employee benefit schemes operated locally for
+overseas operations, and an additional unfunded scheme in the UK
+relating to three former directors which is secured against assets of
+the UK business. In accordance with IAS 19 Employee Benefits
+(Revised 2011), the Group is required to make assumptions
+surrounding rates of inflation, discount rates and current and future
+life expectancies, amongst others, which could materially impact the
+value of any scheme surplus or liability. A material revaluation of the
+relevant assets and liabilities could result in a change to the cost to
+fund the scheme liabilities.
+The assumptions applied are subject to periodic review. A summary of
+the balance sheet position at 30 April is as follows:
+30 April
+2024
+£m
+30 April
+2023
+£m
+Aggregate gross assets of schemes
+820
+848
+Aggregate gross liabilities of schemes
+(852)
+(903)
+Balance sheet deficit
+(32)
+(55)
+Deferred tax assets
+7
+14
+Net balance sheet deficit
+(25)
+(41)
+The net deficit has decreased versus prior year mainly due to an
+increase in discount rate assumptions at 30 April 2024 partially offset
+by a fall in the asset valuations.
+The 2022 triennial valuation of the main UK scheme incorporated
+updates to underlying scheme assumptions, including demographic
+and life expectancy rates, which, along with updates surrounding
+mortality and proportion married assumptions and future
+improvements, resulted in a net decrease of c. 9 per cent in the
+valuation of the scheme liabilities. No changes were made to the
+previously approved funding plan following the triennial valuation.
+Total cash contributions paid into the Group pension schemes,
+reported within cash generated from operations in the cash flow,
+were £24 million in 2023/24 (2022/23: £25 million), which primarily
+constitute the agreed contributions under the UK defined benefit
+scheme deficit recovery plan.
+48
+Financial review continued
+Contents
+
+## Page 51
+
+Risk management:
+Protecting for tomorrow
+Our Group risk policy continues to provide the framework for effective
+governance forums from Board and Audit Committee level down to
+operational teams to ensure there is a common understanding of risk
+management practices across all parts of the Group. This is fully
+integrated with our annual corporate planning process and reflected
+in regular management meetings and performance monitoring. We
+use these practices to evaluate those risks that we believe we have
+the capacity, know-how and experience to manage, or to understand
+and tolerate those risks that we cannot influence. We actively target
+potential opportunities for growth and development by considering
+the risks and take appropriate action to ensure confidence that our
+chosen strategy will deliver successful and sustainable results.
+During financial year 2023/24 we continued to manage our business
+by recognising the future uncertainty and sought ways to leverage
+our investments in our key defences and mitigations across our
+12principal risks by reinforcing our skills capabilities and resources
+across our business networks. Our procedures helped to identify
+and assess key emerging risk themes that have the potential to
+materially disrupt our plans. These are set out in our emerging risk
+summary on page 56. The result of these activities in protecting our
+business for today and tomorrow is summarised in both our Chair’s
+statement on pages 4 and 5 and our Group Chief Executive’s review on
+pages 6 and 7.
+Enterprise risk management framework, policies, standards and governance
+12
+PRINCIPAL
+RISKS
+LINES OF
+ASSURANCE
+Organisation
+capability
+Ongoing
+Divisions & Regions
+Ongoing
+Group functions
+Quarterly
+Group Compliance
+Committee
+Ongoing
+Group Risk
+Monthly
+Group Operating
+Committee
+Ongoing
+Internal Audit
+Ongoing
+Health, Safety, Environment
+and Sustainability Committee
+Every 2 months
+Group Strategy Committee
+Quarterly
+Audit Committee
+Oversight of our principal risks
+Shopping
+habits
+Substitution
+of fibre
+packaging
+Paper/fibre
+price volatility
+Macroeconomic
+impacts
+Demand
+volatility and
+capacity
+management
+Regulation
+and
+governance
+Security of
+paper/fibre
+supply
+Cyber
+Disruptive
+market
+players
+Our risk perspective
+The Group’s investment in business growth to
+support its ambition to be the leading supplier of
+sustainable packaging solutions has coincided with a
+prolonged disruptive period meaning that the Group
+is faced with a number of key risks from the normal
+course of business that may be exacerbated by
+extraordinary levels of turbulence across global,
+regional and country events that could have a
+noticeable impact on its reputation, operations and
+financial performance.
+A number of challenges we referred to in our 2023
+Annual Report continued to influence our risk outlook
+(such as inflation, cost of living crises, supply chain,
+the competitive landscape, geopolitical tensions and
+macroeconomic uncertainty). During the year we
+anticipated that some risks are likely to be more
+severe and more likely (such as supply chain
+vulnerabilities, cyber events and increasing scrutiny
+and regulation). Our Group has built a robust business
+model over the years that has shown that these
+familiar and more invasive risks can be managed
+through both disciplined allocation of resources,
+unwavering attention to meeting the needs of our
+customers and ensuring that key decisions are made
+at the right level of the organisation with the right
+level of risk information to ensure the resilience of
+the Group’s business strategy, key priorities and
+delivery on our targets for today and tomorrow.
+Sustainability
+commitments
+Digitisation
+Operational
+management
+1ST
+Governance, Risk,
+Audit & Compliance
+support functions
+2ND
+Policies & procedures
+3RD
+Internal Audit & control
+reviews
+4TH
+External assurance
+5TH
+TOP DOWN
+BOTTOM UP
+RESILIENCE
+Annual Report 2024 dssmith.com
+49
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 52
+
+Mitigating and/or preventing the impact of a risk affecting our Corporate Plan delivery remains a cornerstone of our executive and operational
+management team efforts. Our risk heat map provides a summary of how we assess and evaluate the relationship between the likelihood and
+severity of our principal risks and uncertainties, taking into account the effectiveness of current mitigations, and informs where the Group
+should prioritise investments to manage them.
+Annual risk reporting cycle
+Board
+Internal
+Audit
+Health, Safety,
+Environment and
+Sustainability
+Committee
+Group
+Compliance
+Committee
+Group functions
+Audit
+Committee
+(see pages 100-105)
+Group
+Risk
+Group
+Strategy
+Committee
+Divisions &
+Regions
+Reviews Group risks, viability
+and risk management
+effectiveness including go
+forward actions to implement
+Reviews its programme
+and key control risks
+Provides feedback and
+guidance to divisions and
+Group functions on risk
+assessments in preparation
+for the Corporate
+Plan process
+Update risk assessments and integrate into their Corporate Plans
+Update risk assessments and integrate into their Corporate Plans
+Produce year-end review of principal and key business risks and
+reconsider effectiveness of risk management actions
+implemented
+Produce year-end review of principal and key business risks and
+reconsider effectiveness of risk management actions
+implemented
+Considers response
+to specifically selected risks
+Provides ongoing feedback to divisions and Group functions
+on risk assessments for the Corporate Plan, principal risks
+and emerging risks
+Updates review of Internal
+Audit programme and key
+control risks
+Undertakes the year-end
+assessment of Internal Audit
+needs and presents a plan for
+the year ahead
+Evaluation on principal
+risks review and emerging
+risks validation
+Reviews the progress of risk
+management in relation to
+the Corporate Plan, reviews
+and approves completed
+Internal Audit reports and
+reviews status of programme
+which includes the Group
+ethics report
+Further updates and
+approves completed Internal
+Audit reports and ongoing
+Internal Audit work
+Oversight and review of the principal risks effectiveness and
+uncertainties, risk appetite and tolerance and business viability as
+part of Corporate Plan discussions which is delegated to the Audit
+Committee
+Reviews Group and divisional
+risk reports, annual Internal
+Audit needs assessment,
+including audit plans and
+recommendations, and the
+Group ethics report
+Reviews a selection of Group
+function and/or divisional
+risks including ‘deep dive’
+compliance risk discussions
+Reviews a selection of Group
+function and/or divisional risks
+including an update on TCFD
+requirements and improvements
+to due diligence on modern
+slavery in the supply chain
+Reviews a selection of
+Group function and/or
+divisional risks
+Reviews a selection of
+Group function and/or
+divisional risks including
+product safety complaints
+Undertakes an assessment of the
+Group’s principal and emerging risks against the Corporate Plan
+Reviews sustainability performance, strategy and policies, monitors compliance with responsibilities and commitments and approves
+strategic decisions. Circularity, carbon water and waste, people and communities, and nature steering committees all contribute to the HSES
+Committee which feeds in to the Group Strategy Committee and Audit Committee
+Undertakes a review and assessment of the
+Group’s principal and emerging risks six months post the
+Corporate Plan review
+MAY – JUL
+AUG – OCT
+NOV – JAN
+FEB – APR
+50
+Risk management continued
+Contents
+
+## Page 53
+
+Climate-related risks and opportunities and principal risks
+See pages 70 to 73
+Climate-related risk
+Type
+Link to principal risk
+Transition
+Increased spend on
+carbon taxes
+Policy and legal
+• Regulation and governance
+• Paper/fibre price volatility
+Increased cost of raw
+materials or threat to supply
+Market
+• Security of paper/fibre supply
+• Paper/fibre price volatility
+Physical
+Increased severity of extreme
+weather events
+Acute physical
+• Security of paper/fibre supply
+• Paper/fibre price volatility
+Increased likelihood
+of water stress
+Chronic physical
+• Regulation and governance
+Climate-related opportunity
+Growth in demand for
+sustainable packaging
+Products and services
+• Shopping habits
+• Demand volatility
+• Organisation capability
+• Fibre substitution
+Greater resource efficiency
+Resource efficiency
+• Paper/fibre price volatility
+• Sustainability
+Use of lower-emission
+energy sources
+Energy source
+• Sustainability
+We consider climate change a systemic
+risk influencing both negatively and
+positively on the principal risks and
+uncertainties faced when executing the
+Group’s Corporate Plan.
+By prioritising climate change risk and
+seizing opportunities we can maintain
+our competitiveness and ensure
+long-term sustainability objectives,
+goals and outcomes.
+Climate change can affect the availability
+of raw materials and production
+processes, while natural disasters can
+disrupt supply chains and damage
+infrastructure. It can also enhance the
+focus and opportunities presented to
+DS Smith from investment into
+alternatives, innovation and focus
+on regulation.
+Our current view on the systemic
+implications of climate change are
+presented in the table below.
+Principal risks heat map
+Risk likelihood (with mitigation)
+Risk severity (with mitigation)
+Macroeconomic
+Shopping habits
+Paper/fibre
+price
+Sustainability
+Organisation
+capability
+Digitisation
+Security
+of supply
+Demand
+volatility
+and capacity
+management
+Fibre
+substitution
+Cyber
+Regulation/
+governance
+Disruptive
+market players
+Bubble colour reflects risk relative priority
+highest risk
+second level priority
+third level priority
+Annual Report 2024 dssmith.com
+51
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 54
+
+3
+3
+2
+24/25
+23/24
+22/23
+Our principal risks
+Our risk universe encompasses a wide range of potential risks that could impact our operations and performance. These are defined and
+prioritised into 12 principal risks that we manage on a cyclical basis on a top down and bottom up approach. Our internal alignment and external
+validation through the annual risk reporting cycle enable us to make well-informed decisions.
+Macroeconomic impacts
+24/25
+23/24
+22/23
+1
+1
+1
+Definition
+Multiple political/economic factors from
+foreign exchange/interest rates to
+weakening major economies significantly
+impact the level of consumer spend and
+customer demand for the Group’s
+packaging products.
+Key defence/mitigations
+A robust Corporate Plan process where
+macroeconomic trends are evaluated
+alongside investments to improve production
+cost base, efficiency and deliver other
+initiatives to capture sustainable growth
+trends in sustainable packaging using
+innovation priorities to strengthen resilience.
+Focus remains on supplying packaging
+quality, service and volume to fast moving
+consumer goods (FMCG) customers with
+a constant focus on quality, service and
+volume growth as these customers tend
+to show greatest resilience against
+GDP volatility.
+Our dynamic energy hedging strategy over
+five-year horizons smooths pricing volatility,
+and other developments in our procurement
+and logistics flows are helping to evolve our
+operating model and maintain resilience.
+Link to business strategy
+To double our size
+and profitability
+Opportunity
+The Group’s ability to reposition our business
+model outside of traditional sources of
+supply.
+Key risk indicator
+Eurozone GDP growth rate.
+Risk tolerance
+Risk outlook
+Paper/fibre price volatility
+2
+2
+3
+24/25
+23/24
+22/23
+Definition
+Volatile commodity pricing for recovered
+paper (including old corrugated cases (OCC))
+and containerboard grades can create
+significant short-term challenges to capture
+appropriate returns by aligning raw material
+costs to packaging sales revenues.
+Key defence/mitigations
+A strategy demonstrating the Group’s
+commercial credentials/services in Packaging
+to build up box prices regardless of raw
+material cost and sell the additional value of
+our products, services, innovations,
+sustainability credentials and customer
+brand benefits.
+Strong discipline to maintain cost-efficient,
+strategically located and integrated CCM
+production and recovered paper sourcing
+balanced with external selling strategies of
+excess recovered paper (if an excess is
+necessary for security of supply). Trading
+position through paper sourcing to maximise
+integration between internal CCM and
+box plants.
+A disciplined approach in managing volume,
+margin and stock keeping units through using
+technology innovations, performance
+packaging and striking a balance between
+those contracts indexed and those which are
+freely negotiated. Ultimately, supporting
+greater resilience with input pricing volatility.
+Link to business strategy
+To double our size
+and profitability
+Opportunity
+Strengthening our value proposition and the
+fibre and efficiency programmes.
+Key risk indicator
+Paper/recovered fibre market price and box
+selling price.
+Risk tolerance
+Risk outlook
+Cyber
+3
+3
+2
+24/25
+23/24
+22/23
+Definition
+The threat posed to our information or
+operational technology from ransomware
+and/or a failure to stop/identify
+sophisticated malicious cyber intruders on
+our IT infrastructure.
+Key defence/mitigations
+Regular awareness training and testing to
+better equip our employees with the
+knowledge to identify potential phishing/
+other social engineering techniques.
+Continued investments in IT security
+controls to improve our capability to detect,
+respond to and prevent malicious cyber
+activity, including hardening of the IT estate
+via network segregation between/within IT
+and operational technology environments.
+Regular improvements in, and testing of, IT
+disaster recovery planning through cyber
+drills, policies and procedures, including
+penetration/vulnerability testing.
+Increased expansion of the IT and
+operational technology security capabilities
+through increased internal resourcing and
+external partner support.
+Link to business strategy
+To double our size
+and profitability
+Opportunity
+Continued investment in a strong cyber
+security programme and culture of
+awareness to enhance our business
+continuity credentials.
+Key risk indicator
+IT security training effectiveness and
+phishing campaign statistics.
+Risk tolerance
+Risk outlook
+Increasing
+Stable
+Risk outlook
+Decreasing
+Acceptable
+Unacceptable
+Net risk tolerance key
+Re-assess
+Risk rank change by year key
+Principal risk example 1 – highest 12 – lowest
+52
+Risk management continued
+Contents
+
+## Page 55
+
+Shopping habits
+4
+4
+12
+24/25
+23/24
+22/23
+Definition
+We fail to adapt our offer to the pace and
+direction of change in consumer spending
+across the full retail FMCG spectrum, from the
+mega large brands, micro-brands and
+omni-channel distribution networks of the
+‘big box’ superstores and discounters, to the
+rise in e-commerce and importance of
+consumers’ values.
+Key defence/mitigations
+Heavily invested in FMCG and omni-channel
+distribution bringing performance packaging,
+eco-friendly fibre-based and packaging
+innovations to the forefront of our
+commercial strategy.
+Our Sales, Marketing and Innovation
+organisation is supported with a well-located
+converting network to ensure that the Group’s
+commercial strategy remains agile and aligns
+product solutions/services to reflect changing
+distribution and consumer preferences
+towards circular solutions (including the value
+of plastic replacements, point-of-sale
+packaging and end-to-end services).
+Rethinking and applying a differentiated
+service offering to different customer
+categories through improved use of
+digitisation alongside broader customer
+experience solutions (including new
+technology platforms, services and tools).
+Reinforcing our Trend and Insights &
+Marketing teams on understanding customer
+and consumer habits, needs and behavioural
+changes to inform research and development
+options and operational capabilities.
+Link to business strategy
+To double our size
+and profitability
+Opportunity
+Aligning our investments with consumer
+spending patterns to meet consumer
+needs with active engagement around
+packaging solutions.
+Key risk indicator
+Revenue and production growth for FMCG
+sector.
+Risk tolerance
+Risk outlook
+Regulation and governance
+5
+5
+6
+24/25
+23/24
+22/23
+Definition
+Our governance model fails to support the
+way we are organised and our geographical
+spread, resulting in unauthorised, illegal,
+unethical or inappropriate actions.
+Key defence/mitigations
+The Group continues to maintain detailed
+and extensive arrangements for the
+management of standards, domestic and
+international compliance rules alongside
+new regulations, with regular business unit
+legal compliance and control reviews
+including health, safety, environment,
+agency and supplier standards and product
+integrity/safety.
+Regulatory compliance training including
+e-learning modules for employees on a
+variety of compliance modules including
+antitrust, anti-bribery and corruption, and
+modern slavery to ensure full understanding
+of the applicable laws and high standards
+expected, alongside regular reporting and
+engagement with senior leadership at
+divisional level on legal, governance and
+compliance risk.
+Implementation of a strong and visual ‘Speak
+Up!’ programme across the Group providing a
+confidential route for employees to report
+perceived malpractice of any type.
+Use of the Group Compliance Committee as a
+forum to review and assess specific
+compliance risk matters.
+External advisory checks in parallel to trade
+associations (FEFCO, CEPI, AF&PA, FPA).
+Link to business strategy
+To delight
+our customers
+Opportunity
+Enhancing our strong governance model
+beyond the standards requested of us
+across the regulatory landscape.
+Key risk indicator
+Group and divisional compliance training
+and reviews.
+Risk tolerance
+Risk outlook
+Sustainability commitments
+6
+6
+4
+24/25
+23/24
+22/23
+Definition
+Our efforts and significant planned
+investments to decarbonise and transition
+our supply chain to a circular, low-carbon
+economy do not keep pace with growing
+customer and investor expectations
+on large organisations to make a positive
+contribution and address global
+climate change.
+Key defence/mitigations
+The development, investment and timely
+implementation of effective carbon
+reduction roadmaps for paper and packaging
+energy efficiency, equipment upgrades and
+switching to alternative energy sources
+across all sites, whilst monitoring and
+adapting to regulatory changes.
+Ensuring we meet the growing consumer
+and investor demand for sustainable
+packaging through a focus on packaging
+design, use and disposal based on a circular
+economy with business leaders and a sales
+force equipped to drive this agenda.
+Regular reviews of, and governance and
+reporting on, our sustainability priorities to
+ensure they align with the expectations of
+stakeholders, wider society and scientific
+climate projections, as well as implementing
+TCFD recommendations and submission to
+top ESG ratings such as CDP.
+Effective governance model focused on
+the Now & Next Sustainability Strategy
+and the development of new programmes
+to address developments such as science-
+based targets.
+Link to business strategy
+To lead the way
+in sustainability
+Opportunity
+Ensuring that our circular packaging
+solutions are sustainable through continued
+investment in sustainable projects such as
+efficiencies in energy upgrades and the
+circular economy.
+Key risk indicator
+Reduction of CO2e per tonne of production.
+Risk tolerance
+Risk outlook
+Increasing
+Stable
+Risk outlook
+Decreasing
+Acceptable
+Unacceptable
+Net risk tolerance key
+Re-assess
+3
+3
+2
+24/25
+23/24
+22/23
+Risk rank change by year key
+Principal risk example 1 – highest 12 – lowest
+Annual Report 2024 dssmith.com
+53
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 56
+
+Organisation capability
+7
+7
+5
+24/25
+23/24
+22/23
+Definition
+Risk that the management approach to our
+people and assets may not correctly or
+sufficiently identify future resourcing
+capability needs, particularly in the strategic
+growth drivers of Innovation, Sustainability
+and Digital and Data.
+Key defence/mitigations
+A Group HR Corporate Plan focusing on
+productivity, capability development,
+employee development and engagement,
+talent and strengthening our HR function.
+A combination of management actions from
+L&D programmes, succession planning,
+up-skilling, cross-skilling, talent acquisition
+and graduate programme/academies
+(including the DS Smith Way) to support
+the needs of the business and improve
+employee engagement and empowerment.
+Our HR and operational leaders work to
+prioritise key activities aimed at effective
+resourcing for new and foreseeable work
+realities to build needed skills, reduce
+reliance on the external labour market and
+review ways of working to improve
+organisation flexibility and productivity.
+The Group HR function continues to improve
+employee-related reporting to reflect wider
+support for a targeted and measured
+approach on diversity at all management
+and operational levels.
+Link to business strategy
+To realise the potential
+of our people
+Opportunity
+Developing and refining ways to cross-skill
+and up-skill our workforce to support both
+the current and future needs of the business.
+Key risk indicator
+Employee turnover including external/
+internal hiring ratios and diversity and
+inclusion metrics.
+Risk tolerance
+Risk outlook
+Demand volatility and capacity
+8
+8
+8
+24/25
+23/24
+22/23
+Definition
+Risk of low volume growth and high inflation
+impacting our ability to meet changes in
+demand patterns and capacity outlook
+profitably, whilst servicing customer
+agreements, needs and contract
+service levels.
+Key defence/mitigations
+We have an agile Corporate Plan and
+integrated business planning process
+designed to manage out material variations
+between demand and capacity forecasting,
+using flexible capital investment plans to
+support changes in our key markets
+alongside the development of new or
+expansion of our existing packaging
+manufacturing sites.
+Enhanced commercial negotiations, mix and
+pipeline to ensure profitability.
+Continued focus upon labour productivity
+improvements, cost reduction, development
+of external sales and export opportunities,
+product diversification and footprint/
+integration.
+Targeted capital investments aligned with
+mid and long-term business needs and a
+capital plan with the purpose of boosting
+revenue, profit and/or operational efficiency
+through the rationalisation of existing
+capacity via a highly compatible customer
+and production geographical footprint.
+Link to business strategy
+To delight
+our customers
+Opportunity
+Aligning our investments to our
+commitments to serve all of our customers
+and push further growth, through a flexible
+end to end supply chain.
+Key risk indicator
+Packaging demand and production
+volume metrics.
+Risk tolerance
+Risk outlook
+Disruptive market players
+9
+9
+10
+24/25
+23/24
+22/23
+Definition
+Disruptive behaviours in our key markets,
+where there is a risk that significant
+suppliers or competitors combine by copying
+our business model or disrupting the
+fundamental assumptions of our supply
+cycle business, causes shock/prolonged
+price and volume drop and materially
+reduces our capability to purchase
+paper or restricts our ability to compete
+more effectively.
+Key defence/mitigations
+The corporate planning process continues to
+ensure that the Group’s strategy team and
+divisional leadership capture information
+on changes in the market environment,
+building an acute understanding across our
+customer portfolio on their future needs to
+determine areas of activity that could be
+truly disruptive or where our bespoke
+solutions enhance our value proposition.
+Continuous improvement of our procurement
+and supply chain processes for all paper
+grades and critical raw materials, including
+enhanced contingency plans if critical
+suppliers were to be disrupted.
+Leadership and management team retain a
+heightened level of awareness of potential
+disruptive behaviours, possible blind spots
+and built-in institutional challenges to
+ensure a level of resilience operates in key
+areas of potential growth or change.
+Link to business strategy
+To double our size
+and profitability
+Opportunity
+Focusing on sustainable growth and
+reputation allows us to maintain our strong
+market position and compete with any new
+disruptive players.
+Key risk indicator
+Proportion of market share.
+Risk tolerance
+Risk outlook
+54
+Risk management continued
+Contents
+
+## Page 57
+
+Substitution of fibre packaging
+10
+10
+11
+24/25
+23/24
+22/23
+Definition
+Fibre-based packaging loses its credentials
+as a sustainable product of choice against
+developments in plastic packaging or other
+materials that can be reused and recycled,
+resulting in our products being substituted
+and/or replaced by competitor products.
+Key defence/mitigations
+Business investment in diverse portfolio
+of materials/services beyond traditional
+pulp and paper alongside a dedicated
+Government Affairs team that tracks/
+monitors proposed government legislation,
+the potential impact and sets/drives focused
+and proactive communication strategies to
+respond centrally as well as through
+industry trade associations to support/build
+the reputation of fibre-based materials in
+terms of recyclability, circularity and quality
+standards whilst leveraging our proven
+innovation capabilities.
+Collaboration between our Paper and
+Packaging divisions and R&D teams to deliver
+innovative papers and corrugated products,
+and develop new materials with our suppliers
+and partners for barrier/lamination concepts
+and plastic replacements.
+Link to business strategy
+To lead the way
+in sustainability
+Opportunity
+Accelerating R&D investments into new and
+enhanced fibre-based products enables us
+to respond quickly and efficiently to any
+changes in packaging regulations that may
+impact the Group and take proactive action
+accordingly to reduce any potential impacts.
+Key risk indicator
+Fibre packaging volume and market share
+growth and level of legislative protection.
+Risk tolerance
+Risk outlook
+Security of paper/fibre supply
+11
+11
+7
+24/25
+23/24
+22/23
+Definition
+Large fluctuations in the availability of
+recovered paper (including OCC) and
+containerboard adversely affects our
+performance. Our failure to adapt to
+changes in installed paper production
+capacity and imports, and our inability to
+produce a sustainable supply of internal
+European fibre for critical paper grades,
+including specific virgin papers, leaves us
+over-exposed to the threat of significant
+commodity availability and price volatility for
+extended periods of time.
+Key defence/mitigations
+Cross-divisional capability to optimise the
+make, buy, sell decision across the Group,
+ensuring the Group sources key paper
+grades from external suppliers to deliver and
+flex to paper volume needs.
+Investment in end-to-end supply chain
+programmes to bring cross-divisional
+benefits from improved stock visibility and
+plan adherence to help handle forecast
+variability through the short, medium and
+long-term horizons.
+A clearly defined fibre strategy based on
+performance packaging, and ‘best fit’
+footprint alignment between paper
+production, quality fibre sourcing and the
+capacity needs of our Packaging division.
+The service level agreements with key
+suppliers revised/updated for the best
+customer-first approach in place when
+prioritising how demand should be met
+through supply channels.
+Link to business strategy
+To double our size
+and profitability
+Opportunity
+Generating a best fit cost and quality
+solution for our customers through the
+expertise of our paper sourcing strategy and
+closed loop model.
+Key risk indicator
+Paper/recovered fibre supply volumes.
+Risk tolerance
+Risk outlook
+Digitisation
+12
+12
+9
+24/25
+23/24
+22/23
+Definition
+Risk of failing to effectively leverage digital
+technologies and strategies to meet key
+business priorities, resulting in missed
+opportunities for growth, innovation and
+operational efficiency. The inadequate
+alignment of digital initiatives with strategic
+business priorities leading to inefficiencies
+in resource allocation and a lack of focus on
+high impact areas such as customer
+experience enhancement and service
+proposition development.
+Key defence/mitigations
+The Group Strategy Committee oversight of
+enterprise-wide efforts to identify/leverage
+digital revenue opportunities including
+ongoing reviews of digital ‘light house’
+projects.
+Prioritisation of foundational digital initiatives
+(brilliant basics) to establish a robust digital
+infrastructure and operational framework.
+The central digital centre of excellence
+enables guidance and steering around
+prioritisation and continuous monitoring.
+Implementation of a structured governance
+framework that evaluates and prioritises
+new technology opportunities, balancing the
+need for innovation with risk management
+considerations and ensuring optimal resource
+allocation and investment decisions.
+Link to business strategy
+To delight
+our customers
+Opportunity
+Prioritising the latest digital transformation
+initiatives to not fall behind our competitors
+with regards to speed to market and smart
+product offerings.
+Key risk indicator
+Customer satisfaction surveys and website
+visitor traffic.
+Risk tolerance
+Risk outlook
+Increasing
+Stable
+Risk outlook
+Decreasing
+Acceptable
+Unacceptable
+Net risk tolerance key
+Re-assess
+3
+3
+2
+24/25
+23/24
+22/23
+Risk rank change by year key
+Principal risk example 1 – highest 12 – lowest
+Annual Report 2024 dssmith.com
+55
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 58
+
+DS Smith recognises we are subject to many general risks and challenges that are not uncommon in the market around greater uncertainty,
+increased volatility and more complexity. Changes in socioeconomic conditions, political, financial, general regulatory and legislative changes
+can impact our ability to deliver our Corporate Plan. Through our corporate planning cycle, annual risk reporting cycle and ability to find the
+opportunity within our risk framework, we are able to counter the effects of these more effectively through better mitigation, greater
+preparedness and collaboration.
+Geopolitical risks
+Description
+The rise of nationalism globally poses
+a potential risk, as certain groups
+prioritise national identity over global
+cooperation. This trend exacerbates
+geopolitical risks, particularly in regions
+like the Middle East and Russia/
+Ukraine, where conflicts persist.
+Impact
+The rise of nationalism may lead to
+trade barriers and protectionist
+policies, potentially hindering our
+exports. It could also trigger political
+instability, disrupting supply chains,
+and pose challenges navigating
+evolving regulations, impacting
+operations and profitability.
+For example, there could be changes to
+regulations around labour, environment
+and tariffs that could impact our
+operations and profitability.
+Action
+Overall, we continue to closely monitor
+and navigate these potential risks in
+order to maintain our position as a
+leading global packaging company.
+Emerging risks
+Our risk management programme reviews emerging risks, defined as those not currently impacting the Group but with potential significant
+future impact due to rapid or indirect evolution. These risks, often with longer-term effects, require immediate attention to mitigate adverse
+outcomes. Regular monitoring of external trends, combined with internal insights, helps identify potential future risks. We compile a list of key
+emerging risks from both internal and external sources, reviewed biannually with the Group Strategy Committee alongside principal risks.
+Notably, three emerging risks are gaining increased attention due to their potential for high impact.
+Prolonged extreme weather
+and infrastructure impact
+Description
+Unforeseen and prolonged extreme
+weather events, including heatwaves,
+droughts, floods and storms, may disrupt
+supply chains and transportation,
+leading to delays, damage and
+increased costs.
+Impact
+Extended extreme weather may
+affect energy and water supply to
+our facilities, impacting operations
+and productivity. Infrastructure
+disruptions, like power outages and
+road closures, could disrupt our
+operations and supply chain.
+Action
+Our business continuity plans
+incorporate contingencies for
+extreme weather and infrastructure
+disruptions, including diversifying
+transportation routes, investing in
+backup systems for energy and water,
+and exploring alternative sources of
+recycled materials.
+Potential in AI
+integration risks
+Description
+AI technologies have the potential to
+improve and transform significant
+areas of the Group’s business including
+decision-making, operational
+efficiency, technology and end-
+product and service innovation,
+analytics and financial systems.
+Impact
+The risk of missing out on emerging
+opportunities due to inadequate
+oversight and investment poses
+significant consequences for the
+Group, competitors and industry
+transformation. Key areas of exposure
+include the inability to establish a
+secure data infrastructure essential for
+AI implementation, requiring ongoing
+investment and resourcing, hindering
+the transformative potential of AI
+within the Group and the industry.
+Action
+A comprehensive approach to inform
+and realise the potential of AI,
+addressing the benefits, opportunities
+and alignment presented by alternative
+AI models. Data governance, trust,
+security, privacy and compliance to
+safeguard information and results must
+be an embedded part of this.
+56
+Risk management continued
+Contents
+
+## Page 59
+
+Viability Statement
+Context
+The Group’s strategy and key differentiators are detailed on pages 3
+and pages 8 and 9, and our risk management framework is described
+on pages 49 and 50. Understanding of our business model, our
+strategy and our principal risks is a key element in the assessment of
+the Group’s prospects, as well as the formal consideration of viability.
+The Group’s Corporate Plan cycle is the primary annual strategic and
+financial planning activity through which the Board assesses the
+prospects of the Group, extending for the three successive financial
+years that follow beyond the year ending after the assessment date.
+The planning process involves modelling under a series of assumptions
+surrounding both internal and external parameters, with key
+assumptions including economic growth projections, input pricing
+(including paper, fibre, energy and labour), foreign exchange rates
+and packaging volume growth; combined with the effects of major
+capital initiatives. The impact of climate change as expressed through
+the Group’s key risks in its risk management framework is taken into
+account during the planning process, with capital commitments
+consistent with meeting the Group’s SBTi carbon reduction
+commitments included within the forecast horizon. The robust
+Corporate Plan process is led by the Group Chief Executive, the Group
+Finance Director and the Group Head of Strategy, in conjunction with
+divisional management. The Board undertakes a detailed review of
+the Corporate Plan during its December Board meeting.
+Although the Directors have no reason to believe that the Group will
+not be viable over a longer period, the three-year period was chosen
+for this assessment having considered the speed and degree of
+change possible in the key assumptions influencing the Group, as well
+as the speed of evolution in the footprint of the Group, which limits
+the Directors’ ability to predict beyond this period reliably. Indeed,
+given the pace of change in the primary sectors in which the Group
+operates, particularly FMCG and e-commerce, as illustrated by the
+recent moves away from plastic packaging and the acceleration into
+e-commerce driven by the Covid-19 pandemic, the Directors believe
+that three years represents the most realistic and appropriate
+timescale over which to assess the Group’s viability.
+The most recent Corporate Plan process was undertaken against the
+backdrop of the uncertain economic environment experienced in
+2023/24, impacted by a downturn in paper pricing, and the ongoing
+impact of the wider economic consequences of the war in Ukraine
+and conflict in the Middle East. The forecast process for 2024/25,
+conducted subsequent to the Corporate Planning process, reflected
+an updated view of the market dynamics, which anticipate improving
+paper sales prices, increased volume demand and input price rises
+relating to fibre and energy and paper prices, but validated the overall
+Group profitability as set out in the Corporate Plan in the first financial
+year. Similarly, the going concern exercise which builds on the
+forecast validated the overall Group profitability as set out in the
+Corporate Plan for the second year. On that basis, the Directors are
+satisfied that the Corporate Plan, which covers a three year forecast
+period, provides a suitable basis for the viability assessment.
+Assessment of longer-term viability
+In accordance with the UK Corporate Governance Code, the Directors
+have assessed the viability of the Group over a three-year period to
+30 April 2027, which is a longer period than the minimum 12-month
+outlook required in adopting the going concern basis of accounting.
+This assessment period remains appropriate given the timescale of
+the Group’s planning and investment cycle.
+The Directors confirm that they have performed a robust assessment
+of the principal risks facing the Group as detailed on pages 49 and 51,
+including those that will threaten its business model, future
+performance and solvency or liquidity.
+The assessment of the Group’s viability considers a pessimistic
+but plausible downside scenario aligned to the principal risks and
+uncertainties set out on pages 52 to 55 where the realisation of
+these risks is considered remote, considering the effectiveness
+of the Group’s risk management and control systems and current risk
+appetite. The degree of severity applied in this scenario was based
+on management’s experience and knowledge of the industry to
+determine plausible movements in assumptions. The Directors
+note that the Group enjoyed a large degree of resilience to the
+consequential downturns from the Covid-19 pandemic and through
+the increased economic volatility in the post-pandemic period,
+influenced by the impact of the war in Ukraine.
+The Group has significant financial resources including committed
+and uncommitted banking and debt facilities, detailed in note 20.
+In assessing the Group’s viability, the Directors have assumed that
+with its investment grade rating and successful history of refinancing
+its maturing borrowings, the Group would be able to refinance its
+existing banking and debt facilities.
+The Directors have also considered mitigating actions available to the
+Group that are within management’s control, to respond to the stress
+scenarios such as restrictions on capital investment, further cost
+reduction opportunities, and dividend suspension or restriction on
+dividend levels. The Directors have assumed that these mitigating
+actions can be applied on a timely basis and at insignificant or no cost.
+Annual Report 2024 dssmith.com
+57
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 60
+
+Confirmation of viability
+Based on the analysis, the Directors have a reasonable expectation that
+the Group will be able to continue in operation and meet its liabilities
+as they fall due over the three-year period of their assessment.
+In reaching this conclusion the Directors have also considered the
+implications in a viability context of the proposed acquisition of the
+Group by International Paper which was announced on 16 April 2024.
+As set out in the Rule 2.7 Announcement, the Boards of Directors of
+both International Paper and DS Smith believe there is a compelling
+strategic and financial rationale for the Combination, including the
+complementary nature of their geographic footprints and the
+significant synergies expected post transaction. On this basis, the
+Board of DS Smith believes this supports its viability assessment, in
+the event the transaction proceeds. The transaction is expected to
+close during the fourth quarter of 2024, subject to the approval of
+International Paper shareholders and DS Smith shareholders, as well
+as customary closing conditions, including regulatory clearances in
+Europe and the U.S., all substantive conditions.
+The Group’s borrowings and facilities are subject to change of control
+provisions which allow for lenders to request repayment of the
+amounts owed but only in the event of a downgrade of the Group’s
+credit rating to below investment grade. In light of the announcements
+by a credit rating agency, in their Research Update issued on
+18 April 2024, that they view the transaction as positive from a
+credit perspective (and the credit rating agency signalling their
+intention to upgrade the Group’s credit rating as a result of an
+acquisition by International Paper), the Board considers the risk
+arising as a result of these change of control clauses to be remote.
+Even in the remote event that the Group’s borrowings are required to
+be repaid, the Board has also evaluated the ability of the enlarged
+group to settle any repayment requests and, based on the latest
+publicly available information, is satisfied that the available cash and
+facilities of the combined group would be sufficient to do so.
+The scenarios modelled in the viability assessment were based on
+the Group remaining an independent entity and, therefore, remain
+appropriate should the proposed acquisition not proceed. Accordingly,
+the Directors believe the conclusion that the Group and Company is
+viable remains appropriate in the circumstances of the proposed
+acquisition completing.
+Going concern
+The Board has reviewed a detailed consideration of going concern,
+based on the Group’s recent trading and forecasts, and including
+scenario analysis. This takes into account reasonably foreseeable
+changes in trading performance, including the continued uncertainty
+caused by high inflation and the ongoing war in Ukraine and
+reactivation of Middle East conflict.
+At 30 April 2024 there was significant headroom on the Group’s
+committed debt facilities, at a level of c. £1.6 billion. The going
+concern assessment included the period to 31 October 2025.
+Based on the resilience of the Group’s operations to both the
+high-cost environment experienced throughout the last 18 months
+and the weak demand experienced during FY24, as well as the current
+and forecast liquidity available, the Board believes that the Group is
+well placed to manage its business risks successfully despite the
+uncertainties inherent in the current economic outlook, and to
+operate within its current debt facilities.
+The Group’s current committed bank facility headroom, its forecast
+liquidity headroom over the going concern period of assessment and
+potential mitigating activities available to management have been
+considered by the Directors in forming their view that it is appropriate
+to conclude that there is a reasonable expectation that the Group has
+adequate resources to continue in operational existence for the
+foreseeable future. For this reason, the going concern basis has
+been adopted in preparing the financial statements.
+The financial statements have been prepared on the going concern basis
+with no material uncertainty identified after a detailed assessment.
+Further details, including the analysis performed and conclusion
+reached, are set out below.
+Liquidity and financing position
+The total debt facilities at 30 April 2024 were £3.9 billion, of which
+£2.5 billion is publicly listed debt with no attached covenants. In addition,
+the Group had access to c. £1.5 billion bank facilities, which were
+undrawn at 30 April 2024. Group facilities totalling £0.4 billion are due
+to expire within the going concern period. Subsequent to the year
+end, the Group successfully amended its revolving credit facility,
+extending its maturity to May 2027 for an amount of £1.25 billion
+replacing the existing facility for £1.4 billion. This means that the
+Group will have access to at least £3.35 billion of facilities for the
+duration of the going concern period to 31 October 2025. There is
+significant liquidity/financing headroom across the going concern
+forecast period. For this reason, the going concern review has focused
+more on forecast covenant compliance.
+58
+Risk management continued
+Contents
+
+## Page 61
+
+Overview
+In determining the going concern basis for preparing the financial
+statements, the Directors consider the Company’s objectives and
+strategy, its principal risks and uncertainties in achieving its objectives
+and its review of business performance and financial position. The
+economic environment reflected in this Going Concern assessment is
+based on the 2024/25 forecast which anticipates moderate organic
+box volume growth across each of our regions, recognising the
+inflationary pressures in the Group’s raw materials and overhead cost
+bases. In preparing the financial statements, the Group has modelled
+two scenarios in its assessment of going concern. These are:
+• The base case is derived from the 2024/25 full year forecast as
+presented to the Board. The key inputs and assumptions include:
+Packaging volume growth at moderate levels across the future
+periods considered by the modelling, driven by continued FMCG
+and e-commerce demand recovery, together with the recovery in
+industrial volumes. Both paper sales price and input fibre price are
+consistent with those anticipated in the forecast.
+• The downside case assumes European packaging volumes largely
+stagnating at 2023/24 levels, reflecting no future growth and
+double inflationary pressures on the cost base, not mitigated by a
+commensurate increase in paper prices. With a significant portion
+of the Group’s packaging contracts being either directly linked/
+referenced to a paper index, this results in higher input costs for
+the Group are more difficult to pass through to end customers.
+Mitigating actions
+The outturns of the above scenario modelling, combined with a stable
+operating performance throughout FY24 provide the Group a level of
+comfort that no significant cost/cash flow mitigations need to be built
+into the going concern modelling. However, a range of options remain
+at the Group’s disposal should they be required which provide the
+opportunity to support EBITDA, cash flow and net debt, including:
+• Actions in respect of variable and controllable costs such as
+discretionary bonuses, pay rises, recruitment freezes and wider
+labour force actions in response to higher levels of volume reductions.
+• Limiting capital expenditure to minimum maintenance levels by
+pausing growth spend (including brownfield sites and other
+expansionary spend).
+• Strategic actions in respect of the Group’s asset base could be
+considered in respect of disposals, mothballing and closures.
+• A reduction or temporary suspension of the Group’s dividend.
+The Group could also consider actions to assist covenant compliance,
+such as increased utilisation of debt factoring facilities and optimising
+working capital by negotiating longer payment terms whilst
+continuing to pay suppliers in full and in line with contractual terms.
+It is estimated that the Group EBITDA would have to fall by about
+36 per cent from FY24 levels for a breach of the net debt/EBITDA
+covenant to occur. The Board considers this scenario to be a remote
+possibility based upon the Group’s historical performance.
+Going concern basis
+Based on the forecast and the scenarios modelled, together with the
+performance of the Group in the current year, the Directors consider
+that the Group and Company has significant covenant and liquidity
+headroom in its borrowing facilities to continue in operational
+existence for the length of the going concern period until
+31 October 2025.
+In reaching this conclusion the Board has also considered the
+implications in a going concern context of the proposed acquisition
+of the Group by International Paper which was announced on
+16 April 2024. As set out in the Rule 2.7 Announcement, the Boards
+of Directors of both International Paper and DS Smith believe there
+is a compelling strategic and financial rationale for the Combination,
+including the complementary nature of their geographic footprints
+and the significant synergies expected post transaction. On this basis,
+the Board of DS Smith believes this supports its going concern
+assessment, in the event the transaction proceeds. The transaction
+is expected to close during the fourth quarter of 2024, subject
+to the approval of International Paper shareholders and DS Smith
+shareholders, as well as customary closing conditions, including
+regulatory clearances in Europe and the U.S., all substantive conditions.
+The Group’s borrowings and facilities are subject to change of
+control provisions which allow for lenders to request repayment
+of the amounts owed but only in the event of a downgrade of the
+Group’s credit rating to below investment grade. In light of the
+announcements a credit rating agency, in their Research Update
+issued on 18 April 2024, that they view the transaction as positive
+from a credit perspective (and the credit rating agency signalling
+their intention to upgrade the Group’s credit rating as a result of an
+acquisition by International Paper), the Board considers the risk
+arising as a result of these change control clauses to be remote. Even
+in the remote event that the Group’s borrowings are required to be
+repaid, the Board has also evaluated the ability of the enlarged group
+to settle any repayment requests and, based on the latest publicly
+available information, is satisfied that the available cash and facilities
+of the combined group would be sufficient to do so.
+The scenarios modelled in the going concern assessment were based
+on the Group remaining an independent entity and, therefore, remain
+appropriate should the proposed acquisition not proceed. Accordingly,
+the Board believes the conclusion that the Group and Company is a
+going concern for the period to 31 October 2025 remains appropriate
+in the circumstances of the proposed acquisition completing.
+Annual Report 2024 dssmith.com
+59
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 62
+
+Our circular business model keeps materials recirculating through
+recycling services, which support the manufacture of recyclable
+packaging. Whilst this alleviates pressure on natural systems, such as
+forests, and prevents waste from entering landfills and oceans, it is
+energy intensive, generating greenhouse gas (GHG) emissions that
+contribute to climate change.
+We have set a 1.5°C science-based target to reduce Scopes 1, 2 and 3
+GHG emissions 46 per cent by 2030 compared to 2019, and we are
+committed to reaching Net Zero by 2050.
+Our near-term 2030 target has been validated by the Science Based
+Targets initiative (SBTi) and we are in the process of setting a FLAG
+(Forest, Land and Agriculture) target and no deforestation
+commitment in order to obtain Net Zero validation from the SBTi.
+In support of a 1.5°C ‘Net Zero’ economy, we are committed to
+considering the Paris Agreement in our activities, including in our
+external engagement, as underpinned by the Intergovernmental
+Panel on Climate Change (IPCC) Sixth Assessment Report (AR6) and
+the IPCC Special Report on Global Warming of 1.5°C (SR1.5).
+We first included the TCFD recommendations in our 2018 Annual
+Report. Since then we have developed our reporting, reaching
+disclosure of all recommendations a year ahead of mandatory
+disclosure in 2022. The timeline above demonstrates how we have
+used the TCFD recommendations to accelerate climate action.
+Our response to
+climate change
+Task Force on Climate-related Financial Disclosures (TCFD)
+2018
+2019
+2020
+2021
+2022
+2023-24
+Voluntary partial
+TCFD disclosure
+in line with the
+recommendations,
+predominantly via
+CDP Climate Change
+The base year
+for our science-
+based target
+(2019/20)
+Full voluntary
+TCFD disclosure in
+Annual Report 2021
+First climate
+scenario analysis
+Commitment to
+reach Net Zero
+greenhouse gas
+emissions by 2050
+‘Carbon Project’
+to determine
+cost-optimised
+decarbonisation
+pathways, focused
+on our paper mills
+Full mandatory TCFD
+disclosure in Annual
+Report 2022
+Validation of 1.5°C
+science-based target to
+reduce Scope 1, 2 and 3
+GHG emissions 46
+per cent by 2030
+compared to 2019
+ESG underpin introduced
+in the 2021/22 annual
+bonus, including the
+commitment to using
+longer-term science-
+based targets
+Launch of our Green
+Finance Framework,
+aligned to our priority
+Sustainable Development
+Goals (SDGs)
+Development of
+roadmaps, with key
+technical solutions
+identified to drive
+carbon reduction for
+our packaging plants
+New governance
+organisation,
+‘Sustainability Delivery
+Team’, to manage
+project deployment for
+reaching Net Zero
+Evolution of the
+ESG underpin for
+the 2022/23 annual
+bonus, including the
+development of initial
+plans to achieve
+longer-term science-
+based targets
+Publication of our inaugural
+Net Zero Transition Plan
+Reduced Scope 1, 2 and 3
+GHG emissions by 19
+per cent compared to
+2019/20
+Ranked on the CDP ‘A List’,
+recognising leadership on
+climate change
+Announcement of
+significant transition
+milestone, removing
+c. 99,000 tonnes CO2e
+at Rouen mill
+Issuance of our Green Bond,
+raising €1.5 billion,
+significantly extending our
+debt maturity profile at
+attractive terms
+Voluntary IFRS S2 ‘Climate-related Disclosures’
+and UK Transition Plan Taskforce disclosures
+For the DS Smith Annual Report 2024, we have enhanced our
+TCFD disclosures with reference to IFRS ISSB (International
+Sustainability Standards Board) S2 and UK TPT disclosures.
+The requirements of IFRS S2 Climate-related Disclosures
+integrate, and are consistent with, the TCFD’s four core
+recommendations and 11 disclosures, with some additions.
+IFRS S2 Climate-related Disclosures require the disclosure of
+information about any climate-related transition plan the entity
+has and how the entity plans to achieve climate-related targets.
+This is consistent with the TCFD’s guidance on metrics, targets
+and transition plans (2021) and the UK TPT framework, which
+sets out good practice for robust and credible transition plans.
+These disclosures are therefore included in this integrated
+section of the DS Smith Annual Report 2024.
+This early voluntary application of IFRS S2 is accompanied by
+IFRS S1 General Requirements for Disclosure of Sustainability-
+related Financial Information on pages 30 to 37.
+We will continue to develop these disclosures as the IFRS
+sustainability disclosure standards and UK TPT are expected
+to become endorsed by the UK Government’s framework to
+create UK Sustainability Reporting Standards (UK SRS).
+A climate disclosures content index is presented on page 83 to
+sign post where relevant disclosures are located.
+60
+Contents
+
+## Page 63
+
+Describe management’s role in assessing and
+managing climate-related risks and opportunities
+Members of the Health, Safety, Environment and Sustainability
+(HSES) Committee, chaired by the Group Chief Executive, assess and
+manage climate-related risks and opportunities. This Committee
+meets monthly, having met 12 times during 2023/24 to discuss,
+amongst other topics:
+• GHG emissions forecasts.
+• Plans to deliver the science-based target.
+• Progress on climate-related opportunities, such as plastic replacement.
+Climate-related risks are monitored as part of our standard operating
+procedures to ensure that appropriate mitigation is in place and are
+regularly reviewed by management. Management is supported by the
+Carbon, Water and Waste Steering Committee, which is the primary
+thematic steering committee handling climate-related matters,
+including the delivery of the science-based target.
+Comprising leaders from across the business, the Committee
+maintains a portfolio of projects to allocate resources, coordinate
+delivery and propose solutions to critical trade-offs related to
+addressing climate-related risks and opportunities. These Committees
+draw on subject matter experts from Risk and Insurance, Strategy,
+Sustainability, Finance and Procurement teams. They report progress
+updates and escalate decisions to executive management on an
+ongoing basis.
+Project deployment and the maintenance of Net Zero roadmaps are
+carried out by a technical sustainability delivery team. This team is
+responsible for driving carbon/energy, water and waste reduction and
+coordinating, through the steering committee, the design, planning
+and implementation of our commitment to reach Net Zero.
+Climate-related metrics are discussed at least monthly by
+management teams. Senior management teams review within year
+performance, forecasts and longer-term progress against our targets,
+in addition to challenges, trends and opportunities for addressing
+climate-related issues monthly, and this is monitored by the HSES
+Committee on a quarterly basis, with progress presented to the
+Board annually.
+Governance
+Describe the Board’s oversight of climate-related risks
+and opportunities
+The Board and the Audit Committee maintain oversight of climate-
+related risks and opportunities when reviewing and guiding strategy,
+budgets and business plans. Annual updates on risk assessments,
+mitigation and progress are reviewed by the Board, and the Board
+makes significant strategic decisions, for example, the adoption of the
+science-based target.
+The Board considers any trade-offs associated with climate-related
+risks and opportunities by evaluating climate matters as part of
+setting the strategic direction of the Group, strategy implementation
+and resourcing and leadership. The terms of reference of the
+Audit Committee document the Committee responsibilities.
+These were updated to incorporate TCFD disclosures last year.
+Upon appointment to the Board, Directors undertake an induction
+programme, receiving a broad range of information about the Group,
+including information about sustainability and climate-related
+matters, tailored to their previous experience.
+Directors are given training and receive presentations to keep their
+knowledge current, including on TCFD and transition planning, and
+take responsibility for identifying and satisfying their own specific
+training requirements.
+The Board and its Committees, members of whom have relevant ESG
+and sustainability experience, are updated on climate-related issues
+at a minimum annually. This includes the progress of our Now & Next
+Sustainability Strategy and other items that involve climate-related
+issues, such as the Corporate Plan, principal risks and uncertainties,
+and remuneration. The Audit Committee is engaged on the assurance
+of climate-related metrics and developments in ESG reporting.
+Compliance statement
+DS Smith Plc has complied with the requirements of Listing Rule
+9.8.6R(8) by including climate-related financial disclosures
+consistent with the Task Force on Climate-related Financial
+Disclosures recommendations (Oct 2021 update) in the
+DS Smith Annual Report 2024, pages 61 to 77.
+Board
+Circularity
+Steering Committee
+and Working Groups
+Carbon, Water
+& Waste
+Steering Committee
+and Working Groups
+People &
+Communities
+Steering Committee
+and Working Groups
+Nature
+Steering Committee
+and Working Groups
+Sites
+Project Teams
+Health, Safety, Environment and Sustainability (HSES) Committee
+Divisional and Functional Leadership
+Sustainability governance framework
+Annual Report 2024 dssmith.com
+61
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 64
+
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+Summary of climate-related risks and their potential future impact
+Likelihood
+Climate-related
+risk
+Type
+Time
+horizon
+1.5°C
+scenario
+>2°C
+scenario
+Potential financial impact as indicated by reference to climate
+scenarios and our analysis*
+Transition
+Increased
+spend on
+carbon taxes
+Policy and
+legal
+Short term
+•••••
+•
+£45-107 million potential increase in operating
+costs, depending on the price of future allowances in
+emission trading schemes, which would likely be
+greater in a 1.5°C scenario versus a >2°C scenario as
+a way to meet public policy objectives.
+Increased cost
+of raw
+materials or
+threat to
+supply
+Market
+Medium
+– long term
+•••
+•••••
+£26-87 million potential increase in production costs
+attributable to climate-related disruption, which
+would likely be greater in a warmer scenario (e.g. 10
+per cent increase in costs in a >2°C scenario versus 3
+per cent increase in a 1.5°C scenario).
+Physical
+Increased
+severity of
+extreme
+weather
+events
+Acute
+physical
+Medium
+– long term
+••
+•••••
+£8-90 million potential business value-at-risk due to
+production downtime, assuming 1–12 months of
+disruption at one of our paper mills located in a region
+prone to specific climate events (e.g. 12 months in a
+>2°C scenario versus one month in a 1.5°C scenario).
+Increased
+likelihood of
+water stress
+Chronic
+physical
+Long term
+••
+•••••
+£1-2 million potential business value-at-risk due to
+production downtime, assuming 7-31 days of
+interruption at one of our paper mills located in a
+region at risk of water stress (e.g. 31 days in a >2°C
+scenario versus seven days in a 1.5°C scenario).
+Total potential financial impact of climate-related risks
+£80-286 million*
+Strategy
+The strategy for managing climate-related risks and opportunities is
+integrated into our overall corporate strategies, including our
+strategic goal ‘to lead the way in sustainability’ and our Now & Next
+Sustainability Strategy.
+We have identified seven key climate-related issues that are
+described in this section as climate-related risks and opportunities.
+This strategy section then goes on to explain our primary strategy for
+mitigating climate change, which is articulated within the ‘Carbon’
+pillar of our Now & Next Sustainability Strategy, supported by
+our Net Zero Transition Plan.
+Describe the climate-related risks and opportunities
+the organisation has identified over the short, medium
+and long term
+Climate-related risks and opportunities could arise over the short term
+(0-3 years), medium term (3-10 years) and long term (10+ years).
+These time horizons fit with the Group’s corporate and capital
+planning cycle time horizon (three years), which is used to develop the
+Group’s strategy, in addition to the annual risk reporting cycle (one
+year), which is used to assess and communicate risk.
+Physical assets in our industry tend to have long lifetimes and efforts
+are made to extend the lifetime of machinery, components and spare
+parts, fitting into the long-term (10+ years) time horizon. As such,
+investment decisions are made, including the implications that such
+decisions may have on climate-related risks and opportunities under
+this long-term time horizon.
+Climate-related risks
+Increased spend on carbon taxes
+In the short term, there is a risk that new carbon taxes could be
+introduced or existing carbon taxes could be extended as a policy
+tool to incentivise decarbonisation.
+Increased cost of raw materials or threat to supply
+In the medium to long term, there is a risk that raw materials could
+become more expensive or difficult to acquire due to disruption or
+market dynamic shifts caused by climate change.
+Increased severity of extreme weather events
+In the medium to long term, there is a risk that the frequency and
+severity of extreme weather events could increase, causing
+damage and disruption in our own operations or the value chain.
+Increased likelihood of water stress
+In the long term, there is a risk that competition for water could
+increase in the river basins from which we withdraw water,
+increasing the chance that supply constraints could be imposed.
+Climate-related opportunities
+Growth in demand for sustainable packaging
+In the short term, there is an opportunity to drive organic growth
+by demonstrating the benefits of circular packaging that helps
+brands and consumers to replace plastic and reduce their carbon
+footprint in the transition to Net Zero.
+Greater resource efficiency
+In the short term, there is an opportunity to use fewer resources
+(materials, energy and/or water), both in manufacture through
+design and operating efficiency, and throughout the value chain to
+reduce climate impact and cost.
+Use of lower-emission energy sources
+In the medium to long term, there is an opportunity to adopt
+lower-emission energy sources and energy efficiency measures.
+These could be equipment-based (e.g. e-boilers and carbon capture
+and storage), fuel-based (e.g. hydrogen) or process-based (e.g. heat
+recovery and optimisation through digital and data innovation).
+62
+Contents
+
+## Page 65
+
+Summary of climate-related opportunities and their potential future impact
+Likelihood
+Climate-related
+opportunity
+Type
+Time
+horizon
+1.5°C
+scenario
+>2°C
+scenario
+Potential financial impact as indicated by reference to climate
+scenarios and our analysis*
+Growth in demand for
+sustainable packaging
+Products and
+services
+Short term
+•••••
+•••
+£420-637 million potential increase in revenue
+owed to production growth, which would likely be
+greater in a 1.5°C scenario as society demands more
+sustainable products and services.
+Greater resource efficiency
+Resource
+efficiency
+Short term
+•••••
+•
+£12-37 million potential cost saving as a result of
+resource efficiency (reduced energy consumption),
+which would likely be greater in a 1.5°C scenario as
+more efficiency opportunities are exploited.
+Use of lower-emission
+energy sources
+Energy
+source
+Medium
+– long term
+•••••
+•
+Zero-£77 million potential cost saving as a result of
+use of lower-emission energy sources, which would
+likely be greater in a 1.5°C scenario as more
+lower-emission energy sources are exploited.
+Total potential financial impact of climate-related opportunities
+£432-751 million*
+••••• Greater likelihood • Lesser likelihood
+
+* Climate scenarios are used, alongside other tools, to assess vulnerability to climate change and are intended to represent plausible future states to assist learning
+and aid decision-making rather than to present future projections or forecasts. The values presented have changed compared to last year owed to changes in
+revenues, costs, currency exchange rates and emission values used for the analysis. The values are illustrative and estimated within the context set out by each
+reference scenario and then adapted to fit DS Smith. This is based on a single financial metric, without considering the implications of secondary impacts.
+For example, there may be a cost associated with damage to reputation that could occur as a result of business interruption owing to climate change.
+Describe the impact of climate-related risks and
+opportunities on the organisation’s businesses,
+strategy and financial planning
+The Board, Group Operating Committee (GOC) and its management
+committees consider climate-related issues when reviewing and
+setting strategy, policies and financial planning.
+There are already changes occurring in our business model and value
+chain in response to climate change. We anticipate that these will
+continue over the timescales mentioned on the previous page and
+accelerate towards 2050.
+Acquisitions or divestment
+This includes significant strategic decisions, including how capital is
+secured and spent. For example, having divested our plastics
+business, our focus has turned towards organic growth through
+circularity, recyclability and resource efficiency, exploiting climate-
+related opportunities as a fibre-based manufacturer.
+Capital investment
+In our operations, our asset renewal strategies and decisions relating
+to capital investment are impacted by the value of emissions. This
+includes incorporating emissions valuations into project appraisals
+and capital planning, particularly when considering significant
+energy-related expenditure in our paper operations (as the most
+energy intensive part of our business and therefore the greatest
+emissions source).
+Research and development (R&D)
+Our R&D investments include alternative packaging materials, in
+addition to barrier coatings that increase the efficacy of corrugated as
+an alternative to plastic.
+For example, in 2022 we opened our Fibre and Paper Development
+Laboratory at Kemsley mill, as part of our £100 million five-year R&D
+package announced in 2021, hosting innovative projects to accelerate
+our work on the circular economy. We also invest in achieving greater
+resource efficiency for natural assets, such as water. This includes, for
+example, the installation of water re-circulation systems within some of
+our paper mills.
+Strategy and decision-making
+Our primary strategy for responding to the effects of climate change
+is articulated in the ‘Carbon’ pillar of our Now & Next Sustainability
+Strategy, which includes our commitment to reach Net Zero
+GHG emissions by 2050.
+This is supported by our Net Zero Transition Plan, which documents
+the targets, actions and resources deployed to enable the transition,
+supporting and guiding our decision-making.
+The impact of climate-related risks and opportunities has been
+considered in the development of our Net Zero Transition Plan, which
+is a ‘living’ document, meaning that it is flexible and responsive to new
+information and developments in the external environment.
+Key assumptions and external factors
+Our transition plan looks into the future, and as such, assumptions
+have to be made to support decisions, often made with limited
+information. There are significant external factors that we depend on
+to deliver our plan. For example, to achieve science-based Scope 3
+reductions, we are reliant on our suppliers, particularly those that are
+most energy-intensive (e.g. of paper, starch and chemicals), to reduce
+their emissions in line with a 1.5°C trajectory.
+Our plan is dependent on market factors, including continued demand
+for recyclable packaging with a low carbon footprint, and national
+investment in recycling infrastructure and renewable energy systems
+to increase resource efficiency and ensure secure long-term supply.
+Our plan will benefit from stable long-term energy policy, strategies
+and incentives that encourage investment, particularly between
+2030 to 2050, in terms of future availability of quality bioenergy
+feedstocks and technological development.
+We remain responsive to changes in our assumptions and the external
+environment, for example, reacting to new policy measures and
+seeking to benefit from incentives.
+Our complete Net Zero Transition Plan report, which documents key
+assumptions and external factors in greater detail, can be downloaded
+from the ESG Reporting Hub on the DS Smith website.
+Annual Report 2024 dssmith.com
+63
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 66
+
+A summary of our Net Zero Transition Plan
+Our transition plan includes a roadmap of projects to deliver our 1.5°C validated science-based target to reduce Scope 1, 2 and 3
+GHG emissions 46 per cent by 2030 compared to 2019 and to reach Net Zero GHG emissions by 2050.
+Engaging our suppliers to set their
+own science-based targets
+Purchased goods and services
+We are working with our suppliers to
+encourage them to set science-based
+targets, collaborating on projects and
+building capacity to reduce supply
+chain emissions.
+Transportation and distribution
+We are partnering with our logistics
+suppliers to optimise transportation and
+distribution, increasing truck-fill, improving
+mileage and switching to low
+emission fuels.
+Waste generated in operations
+We work with our waste management
+suppliers to divert materials from landfill to
+recovery, extracting energy from waste
+and keeping materials in use for longer.
+Supporting our customers to reduce
+downstream product emissions
+Processing of sold products
+We are helping our customers to identify
+reduction opportunities, increasing
+recyclability, optimising supply chains
+and promoting the adopting of
+science-based targets.
+Our plan sets clear actions and milestones in our own operations (Scope 1 and 2)
+Our plan aims to engage and influence in our value chain (Scope 3)
+Downstream emissions
+As we continue to develop our internal roadmap and plans to reach Net Zero, we will explore
+the best ways to utilise each of these decarbonisation levers, in addition to others that may be
+developed between now and 2050. We will reduce greenhouse gas emissions urgently and
+cost effectively, taking into consideration the likely future availability and viability of options.
+Suppliers
+Scope 3 Categories 1, 4, 5 and 9
+Customers
+Scope 3 Category 10
+Consumers
+Scope 3 Category 12
+Enabling consumers to recycle more
+End of life treatment of sold products
+We will promote recycling towards increasing
+the average recycling rate for 2030,
+advocating for source segregation,
+consistent collections and greater clarity to
+enable consumers to recycle more.
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+Reducing energy consumption
+• We are identifying ways to continuously
+improve energy efficiency.
+Reducing material consumption
+• We keep material use at a minimum
+through circular design.
+Reducing waste generation
+• We are finding ways to minimise
+operational waste by focusing on
+greater resource efficiency, yield
+improvement and higher-quality
+‘right first time’ output to reduce
+energy consumption.
+Switching to renewable energy
+• We are investigating opportunities to
+transition from fossil to renewable fuels,
+such as biomass and energy generated
+from waste, where viable.
+• We will purchase electricity generated
+from certified renewable sources, such
+as wind and solar, where viable.
+Adopting new technologies
+• We are exploring modernising how we
+generate and consume energy, from
+new efficient combined heat and power
+(CHP) plants, boilers and corrugators,
+to future fuel and technological
+innovations such as hydrogen,
+when available.
+Upstream emissions
+Our plan is supported by
+• Strong governance.
+• Transparent reporting.
+• Robust assurance.
+Reduce
+Switch
+Adopt
+64
+Contents
+
+## Page 67
+
+The disclosures within this section of our TCFD disclosures have
+been prepared with reference to the UK Transition Plan
+Taskforce (UK TPT) framework, which aims to set the gold
+standard for private sector transition plans.
+Our complete Net Zero Transition Plan, which describes our key
+actions and initiatives in greater detail, can be obtained from
+our ESG Reporting Hub on the DS Smith website.
+Our anticipated pathway to Net Zero GHG emissions
+There are inevitable uncertainties relating to the precise timings of the deployment and delivery of our plan, which predominantly stem from planning far
+into the future. Actual future emissions are likely to vary as it is challenging to predict the future availability and cost of commodities, policy environment and
+timings of project delivery. Our internal plans take into consideration assumptions relating to future growth, which will impact emissions.
+Practical considerations in our planning
+With the support of our energy transition expert partners, we are
+continuing to evaluate the practical considerations associated with
+energy transition projects, as part of our planning.
+This includes in-depth studies of potential transition changes to be
+made to some of our most energy-intensive assets, including our
+paper mills and largest packaging operations.
+These assessments consider practical factors, such as regional
+availability of biomass and renewable certificate supply to meet
+future energy demand.
+We have evaluated local issues, such as site space availability,
+permitting and the impact on site operations and local communities,
+such as increased traffic and site-level production growth.
+As part of these assessments, assumptions have been made relating
+to discount rates, investment years and technical lifetimes, as well as
+future costs (e.g. carbon and commodity price forecasts).
+2019
+2030
+2050
+-19%
+since 2019/20 base year
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Progress to date
+Now
+Next
+Driving decarbonisation with the
+solutions that exist today
+Building on a 19 per cent reduction
+since 2019/20, we continue to…
+•
+Reduce energy, materials and waste
+•
+Switch to renewable energy
+•
+Adopt new technologies.
+We are engaging with suppliers,
+customers and consumers to
+reduce our value chain emissions
+as part of our combined Scope
+1, 2 and 3 science-based target
+Scaling up renewable energy
+sources in a circular economy
+The long-term future will depend
+on deploying new innovative
+technologies that require
+less heat for drying, bioenergy
+availability at scale and the
+transition to a circular economy
+for renewable energy and
+materials to cut emissions.
+Our pathway to Net Zero for the
+long term is illustrative, and through
+continuous review, our internal plans,
+which contain considerably greater
+detail, will be re-aligned to take
+advantage of the best-cost options
+available at the time considering for
+example, future costs, technology and
+commodity availability.
+High-quality GHG emissions removals,
+such as technological and natural
+solutions, will be explored to neutralise
+any limited emissions that cannot be
+eliminated from 2050 onwards.
+-46% 1.5°C
+science-based target for 2030
+Net
+
+Zero
+2024
+Rouen mill transition from coal to biomass
+In partnership with Engie, the coal-fired boiler at Rouen is being
+replaced with a new biomass boiler, which will supply
+c. 80 per cent of the heat demand, with operation by 2025/26.
+It is expected that the 56 MW Valmet boiler will be fuelled by
+c. 30 per cent by-products (pulper waste) and c. 70 per cent
+waste wood (e.g. from furniture and demolition waste).
+It is anticipated that by 2025/26, this will reduce emissions by
+c. 99,000 tonnes, reflecting a significant transition delivery
+milestone alongside those at Kemsley and Aschaffenburg mills.
+Annual Report 2024 dssmith.com
+65
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 68
+
+Transitioning our own operations to Net Zero
+Around one-third of our total greenhouse gas emissions are
+Scope 1 and 2 emissions, meaning that they are either direct
+emissions related to the use of fuels in our own operations (Scope 1)
+or indirect emissions relating to the electricity and steam we import to
+consume in our own operations (Scope 2).
+We have identified the primary decarbonisation levers described
+on page 64. Within these levers is a roadmap of projects, at varied
+stages of project progression, with quantified costs and anticipated
+emission reductions.
+Predominantly for our own operations, these projects include
+upgrades to physical assets, production processes and equipment,
+contractual changes and energy efficiency initiatives.
+Often, changes made to one part of the process have a range of
+implications, for example, upgrading a waste water treatment plant,
+bringing improvements in water quality and biogas generation.
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+Examples of milestones in our transition plan
+There are milestones within our plan that tackle our most significant
+emission sources. These build on the progress delivered at Kemsley
+mill, where one third of the steam demand is met by the neighbouring
+‘K3’ waste-to-energy combined heat and power (CHP) generating
+facility and the remainder of the steam demand and electricity
+demand is met by a modernised E.ON owned and operated ‘K4’ plant.
+2023/24
+2024/25
+2025/26
+Products and services
+We anticipate that as society transitions to a
+1.5°C future, demand for sustainable
+packaging will continue to rise as consumers
+are more conscious of their impact on the
+planet, necessitating greater recycling.
+We are adapting our products and services
+strategies in response to this, realising our
+identified climate-related opportunities.
+We work with some of the world’s most iconic
+brands, which place climate change at the
+forefront of their agendas.
+In response, this has impacted our product
+strategy, for example in the articulation of
+our customer value proposition, which was
+recently adapted to include ‘Circular ready:
+we help our customers with circular
+packaging solutions’.
+Crucially, as we implement our Net Zero
+Transition Plan in our own operations, we
+expect that the product carbon footprint
+will decrease.
+Circular Design Metrics
+We engage our customers using innovative
+tools such as our Circular Design Metrics,
+which help our customers compare the
+industry-average lifecycle carbon footprint*
+of different packaging and help our
+customers to identify opportunities for
+greater resource efficiency across the
+supply cycle and engage with them on
+sustainability campaigns.
+
+* Carbon footprint calculation is based on
+industry-average data from the FEFCO cradle to
+grave life cycle assessment. The life cycle
+inventory data and methodology can be obtained
+from https://www.fefco.org/lca/.
+Policies and conditions
+We have a range of policies in place, from Carbon and Energy Efficiency to Sustainable
+Forest Management and Fibre Sourcing, that promote the necessary conditions to guide
+decision-making and actions that support the implementation of our transition plan.
+These are explored in our full Net Zero Transition Plan report, which can be downloaded
+from our ESG Reporting Hub on the DS Smith website.
+The DS Smith Sustainability Report 2024 includes further information on climate-
+related topics, such as sustainable forest management, energy management
+and procurement.
+Preparation of our
+inaugural Net Zero
+Transition Plan,
+building on a 19
+per cent reduction in
+total GHG emissions
+achieved since
+2019/20
+Start of programme to
+introduce partial
+waste-to-energy
+transition (natural gas
+to refuse-derived fuel)
+at Aschaffenburg mill
+Anticipated
+commencement of
+biomass boiler
+operation (coal to
+biomass transition)
+at Rouen mill
+66
+Contents
+
+## Page 69
+
+Engagement strategy
+Although we are not directly responsible for generating Scope 3
+emissions, understanding our value chain emissions presents
+opportunities to influence decarbonisation. This involves engaging
+with stakeholders to identify reduction opportunities and encourage
+the deployment of initiatives to reduce emissions at scale.
+Our engagements prioritise the business activities that generate the
+greatest emissions to maximise their contribution towards achieving
+our science-based target of reducing Scope 1, 2 and 3 greenhouse gas
+emissions 46 per cent by 2030 compared to 2019.
+As part of setting the science-based target and calculating the base
+year Scope 3 emissions, we conducted a screening exercise to
+determine significant value chain emission sources.
+The most significant emission sources include:
+Upstream emissions
+• Emissions from the manufacture of production-related goods
+(e.g. paper, starch), generated by suppliers.
+• Well-to-tank emissions from natural gas, generated by
+energy suppliers.
+• Emissions from waste sent to landfill, generated by waste
+management suppliers.
+Downstream emissions
+• Emissions from the manufacture of new recycled paper from paper
+for recycling sold to our customers.
+• Emissions from waste that decomposes in landfill from consumer
+end of life disposal.
+Reflecting these emission hotspots, our engagement efforts prioritise
+suppliers (e.g. strategic suppliers of paper and other production-
+related goods that have energy-intensive manufacturing processes)
+and customers (e.g. large global FMCG brands).
+Further to this, we engage widely with industry, government, public
+sector and civil society to support the delivery of our transition plan.
+Engaging our suppliers
+We engage our strategic suppliers to set science-based targets,
+deploying bespoke engagement mechanisms depending on supplier
+maturity, towards delivering our Now & Next supplier engagement
+target, ‘by 2027, encourage 100 per cent of our strategic suppliers to
+set their own science-based targets’*.
+We prioritise ‘strategic suppliers’, which we define as the suppliers
+with whom we hold a long-term, mutually cooperative relationship
+with mutual commitment, where significant and ongoing value is
+accrued to both parties through operational capabilities. In 2023/24,
+we categorised 110 of our suppliers as strategic. We typically have
+large amounts of annual spend with these suppliers, meaning that we
+have the greatest degree of leverage to influence actions.
+Given that our strategic paper suppliers generate our greatest source
+of upstream emissions, our Paper Sourcing team regularly meets with
+these suppliers to review their decarbonisation progress, discuss their
+plans and identify opportunities to share knowledge.
+We engage less mature suppliers through the Supplier Leadership on
+Climate Transition initiative, founded by some of our key customers,
+to encourage them to calculate their carbon footprint, set a
+science-based target and begin reducing emissions.
+Scope 3
+In 2023/24, we estimate that c. 42 per cent of our Scope 3 Category 1
+(Purchased Goods and Services) emissions were generated by
+suppliers who have set or are in the process of setting their own
+science-based target (2022/23: 32 per cent).
+Over the next year, we plan to engage a greater number of suppliers
+as a member of the CDP Supply Chain programme, building on our first
+CDP cycle in 2023. This enables us to collect data to understand the
+progress made in our supply chain.
+In line with our Supplier Management policy, we aim to retain and
+engage suppliers in instances where the engagement does not lead to
+desired changes. In extreme cases, non-adherence can result in
+exiting a relationship with a supplier. We continue to assess the
+sustainability practices of our suppliers using EcoVadis, in addition to
+requiring that our suppliers adhere to our Global Supplier Standards.
+
+* Within our base year Scope 3 inventory, we estimate that these companies
+generate c. 76 per cent of emissions in Scope 3 Category 1: Purchased Goods
+and Services. In 2023/24, we categorised 110 of our suppliers as ‘strategic’.
+The percentage of emissions figure may change as we adopt supplier-specific
+emission factors in our greenhouse gas inventory.
+Engaging our customers
+We engage with our customers on a range of topics relating to
+Net Zero, including decarbonisation plans, product life cycle
+assessments and bespoke carbon data requests.
+These engagements tend to prioritise our largest global FMCG brands,
+that have relatively mature sustainability strategies, comprehensive
+plans and advanced data requirements. They are typically
+pan-European brands with whom we have long-term significant
+relationships and from whom we generate significant revenues.
+These customers purchase significant volumes and work with us as
+their packaging strategists and circularity experts. Our value chains
+have become integrated and interdependent, increasing the degree
+of leverage to influence actions in our operations, our customers’
+operations and the value chain more widely.
+This included, for example, purchasing renewable electricity via
+Energy Attribute Certificates (EACs) estimated to represent the
+electricity consumption associated with the production of packaging
+supplied to a global FMCG customer in certain markets.
+It is difficult at this stage to accurately quantify the expected
+contributions of specific activities, but collective actions with many
+customers could contribute meaningful reductions.
+1%
+14%
+73%
+12%
+Suppliers
+Customers
+Consumers
+Remainder
+‘Suppliers’ includes Scope 3
+Categories 1, 2, 3, 4, 5, 6 and 9
+‘Customers’ includes Scope 3
+Category 10
+‘Consumers’ includes Scope 3
+Category 12
+‘Remainder’ includes Scope 3
+Categories 7, 8 and 15
+Annual Report 2024 dssmith.com
+67
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 70
+
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+Engagement with government, public sector,
+communities and civil society
+Our engagement activities with government, public sector,
+communities and civil society are prioritised based on the perceived
+opportunity to influence policy towards a favourable legislative and
+policy landscape for the success of the Company, including in our
+ability to deliver our transition plan.
+Government and public sector
+This includes progressing and securing significant policy issues in the
+UK and the EU that involve key external factors that the delivery of
+our transition plan is dependent on, such as enabling greater recycling
+and decarbonising our industry in a predictable policy environment,
+ensuring a successful and smooth transition to Net Zero.
+Crucially for the deployment of the transition plan, we call upon
+policymakers to remove uncertainty through a predictable policy
+environment that enables long-term planning and investment to
+achieve the aim of the Paris Agreement under the United Nations
+Framework Convention on Climate Change.
+Policy priorities
+Our policy priorities include:
+Decarbonisation of heat
+We call on governments to provide increased support for low
+carbon energy sources and to set out clear deployment
+timelines to enable industry to plan and invest for the future
+timely and efficiently
+Reuse and recycling
+We call on policymakers to promote packaging solutions that
+deliver the best outcome for the environment based on
+transparent and robust scientific evidence, whereby in a
+circular economy, both multi-use and recyclable single-use
+packaging have a role
+Extended producer responsibility
+We call on extended producer responsibility (EPR) systems
+to fund improvements in recycling infrastructure and
+investment in separate waste collection to achieve
+increased recycling rates
+Specific policies, laws and regulations related to Net Zero
+In 2023/24, our policy engagement specifically focused on:
+• Revision of the Packaging and Packaging Waste Directive (via trade
+associations FEFCO and Cepi, and direct engagement).
+• Delegated acts supplementing the EU Deforestation Regulation
+(via trade association Cepi).
+• Revision of the Emissions Trading System Directive (via trade
+association Cepi).
+• Revision of the EU Carbon Border Adjustment Mechanism (via trade
+association Cepi).
+• Implementation of the UK Packaging Waste Regulations, including
+UK EPR (via trade associations CPI and Packaging Federation).
+• Proposal for a UK Carbon Border Adjustment Mechanism (CBAM)
+(via trade association CPI).
+Engagement with industry
+We engage with industry peers predominantly through our trade
+association memberships. This includes participating in and/or
+chairing committees, sub-committees and working groups on
+specific topics.
+These industry platforms provide an appropriate engagement
+mechanism as they tend to involve industry counterparts and other
+relevant adjacent industries, in well-governed, collaborative and
+consensus-driven environments.
+Engagement activities are prioritised based on the perceived
+opportunity to build capacity and transfer knowledge (either to/from
+DS Smith and industry counterparts, within the industry and/or
+associated industries), build consensus and develop mutually
+beneficial capabilities that contribute towards achieving the strategic
+ambition of the transition plan.
+Our current and planned engagement activities include
+engagements with:
+• FEFCO (European Federation of Corrugated Board Manufacturers).
+• Cepi (Confederation of European Paper Industries).
+• EUROPEN (The European Organisation for Packaging and
+the Environment).
+• 4evergreen.
+We also engage through national trade associations, including:
+• CPI (The Confederation of Paper Industries).
+• The Packaging Federation.
+• The Recycling Association.
+Driven by significant issues from circularity to carbon, technical
+experts from across our business are involved in providing inputs to
+these engagements, aiming to actively influence climate change-
+related policy and related activities.
+For example, 4evergreen, a cross-industry initiative to drive the
+recycling rate of paper products in Europe to 90 per cent by 2030, is a
+significant opportunity to reduce downstream (Category 12) Scope 3
+greenhouse gas emissions.
+Our Government Affairs function coordinates our approach to trade
+associations, monitoring that contributions and outcomes are in
+accordance with a 1.5°C future and that the engagements maintain
+alignment with the goals of the transition plan. This includes monthly
+internal briefings, policy monitoring and factsheets, disseminated to a
+wide cross-functional group, whose responsibilities are linked to the
+deployment of our transition plan.
+68
+Contents
+
+## Page 71
+
+Our strategic engagement and advocacy in these priority areas are
+helping to minimise risk and amplify opportunities in these areas for
+our business, maximising their contribution towards achieving the
+strategic ambition of our transition plan.
+Our current and planned engagement activities include ensuring
+support and incentives for the decarbonisation of our industry,
+campaigning for high-quality recycling infrastructure and raising our
+profile amongst prominent politicians in the United Kingdom and the
+European Union. An example of this can be found in our recent
+publication, ’Wasted Paper: A Path to Better Recycling’.
+Communities and civil society
+One of our most prominent stakeholder relationships is with the Ellen
+MacArthur Foundation (EMF), of whom we are a strategic partner.
+The EMF aims to promote the circular economy to eliminate waste and
+pollution, regenerate nature, minimise new resources and create an
+economy that benefits all. Significant areas of engagement activity
+with the EMF include initiatives relating to product design, policy
+events and policy goals.
+We have worked together to develop our Circular Design Principles
+and Circular Design Metrics with experts in circular design from the
+EMF. We have collaborated to educate EU policy audiences on the
+circular economy and design for circularity at key events and we have
+contributed to the development of EMF’s universal circular economy
+policy goals, enabling governments and businesses to benefit from
+the circular economy.
+All of these activities contribute to our transition plan at the interface
+of circular economy and climate change.
+Our engagements with communities and civil society tend to be highly
+localised and context specific. We are committed to engaging with our
+communities and civil society, particularly in instances where the
+deployment of this transition plan impacts these stakeholders.
+It is difficult to quantify the expected principal contributions of this
+type of engagement as these engagements tend to address long-
+term, systemic issues. If left unaddressed, issues of a systemic nature
+could present risk to the delivery of our transition plan.
+We therefore use our engagement to influence significant actors in
+government, parliamentary bodies, public sector, communities and
+civil society to help create the optimal external conditions in which to
+deliver our transition plan.
+See the stakeholder engagement section of the
+DS Smith Sustainability Report 2024 for further
+examples of how we engage with our stakeholders
+Wasted Paper: A Path to
+Better Recycling
+Our comprehensive report, which
+can be downloaded from the
+DS Smith website, delves into the
+recycling rates for paper and
+cardboard packaging across
+Europe and the opportunity we
+have to achieve an aspirational
+90 per cent target recycling rate by 2030.
+We make four key recommendations, including the introduction
+and enforcement of long-lasting, consistent recycling
+legislation to realise the benefits of keeping resources in use
+for longer in the circular economy.
+Financial position, performance and cash flows
+We consider the impact of climate change in preparing our
+consolidated financial statements, including the effect upon the
+application of our accounting policies, judgements, estimates and
+assumptions. In making our assessment of the impact, we consider
+climate-related risks and opportunities identified through our
+risk management processes as set out in our TCFD disclosures and
+in our Now & Next Sustainability Strategy.
+These considerations, which are core to our strategy, do not have a
+material impact on any accounting estimates and judgements,
+including the estimated future cash flows used in the impairment
+assessment of goodwill; the assessment of residual values and useful
+economic lives of property, plant and equipment; or the adequacy of
+provisions for liabilities.
+As we continue to identify the actions proposed to be taken to
+achieve our 1.5°C science-based target, we will continue to identify
+the capital projects, investments and other decarbonisation levers
+needed to achieve the strategic ambition of the transition plan.
+These projects are considered over the time periods referred to on
+page 62 and will be prioritised with consideration for a range of
+factors, including asset retirement, technology availability and
+investment cost.
+These factors are evaluated through annual budget reviews, informed
+by the corporate and capital planning processes. Any capital expenditure
+or project costs are anticipated to be funded through the existing or
+similar replacement financing structures of the Group.
+Annual Report 2024 dssmith.com
+69
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 72
+
+Climate-related risks
+Climate-related risk
+Description
+Increased spend on carbon taxes
+Type: Policy and legal transition risk
+Time horizon: Short term
+Link to principal risk: ‘Regulation and governance’
+Potential to impact: our European paper mills, with the potential to
+extend to other regions
+Definition
+New carbon taxes could be introduced, or existing carbon taxes, such
+as the European Union Emissions Trading System (EU ETS), could be
+extended as a policy tool to incentivise decarbonisation.
+Example outcome in a 1.5°C scenario
+Carbon taxes are introduced in new regions in the future, and/or
+schemes become more expensive to limit emissions.
+Example outcome in a >2°C scenario
+Carbon taxes are lower.
+Increased cost of raw materials or threat to supply
+Type: Market transition risk and/or acute or chronic physical risk
+Time horizon: Medium – long term
+Link to principal risk: ‘Security of paper/fibre supply’
+Potential to impact: our Paper Sourcing and Procurement functions
+Definition
+Raw materials, such as paper, pulp or starch, could become more
+expensive or difficult to acquire owed to disruption or shifts in market
+dynamics as a result of climate change.
+Example outcome in a 1.5°C scenario
+Disruption or shifts in market dynamics are less severe and more
+predictable, e.g. caused by planned regulatory change.
+Example outcome in a >2°C scenario
+Disruption or shifts in market dynamics are more severe due to
+chronic reasons, e.g. extreme weather causes crop failure.
+Increased severity of extreme weather events
+Type: Acute physical risk
+Time horizon: Medium – long term
+Link to principal risk: ‘Security of paper/fibre supply’
+Potential to impact: specific geographies as identified by
+specialists, e.g. hurricanes on the south-eastern coast of the USA
+Definition
+The frequency and severity of extreme weather events could
+increase, causing damage and disruption.
+Example outcome in a 1.5°C scenario
+Extreme weather is less severe, causing minimal disruption.
+Example outcome in a >2°C scenario
+Extreme weather is more severe, causing greater disruption, e.g.
+thunderstorms, tornadoes and extreme heat.
+Increased likelihood of water stress
+Type: Chronic physical risk
+Time horizon: Long term
+Link to principal risk: ‘Regulation and governance’
+Potential to impact: specific geographies as identified by the WRI
+Aqueduct tool, particularly our paper mills which use significant
+volumes of water to convert paper for recycling back into pulp
+Definition
+Competition for water could increase in the river basins from which
+we withdraw water, increasing the chance that water supply
+constraints could be imposed by local authorities.
+Example outcome in a 1.5°C scenario
+Water stress is less severe, causing minimal disruption.
+Example outcome in a >2°C scenario
+Water stress is more severe, with greater disruption, e.g. as greater
+consumption patterns drive up water usage.
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+Climate resilience
+Describe the resilience of the organisation’s strategy, taking into consideration different climate-related
+scenarios, including a 2°C or lower scenario
+Our identified climate-related risks and opportunities, alongside example outcomes drawn from several
+IEA and IPCC climate scenarios, including industry-specific scenarios, are described in the tables that follow.
+70
+Contents
+
+## Page 73
+
+Primary potential financial impacts
+Key actions in our strategies that mitigate the risk
+Increased operating costs (e.g. higher compliance costs)
+The scenarios explore a range of potential future carbon taxes.
+For example, if the cost per European Union Allowance (EUA)
+increased to €130 per tonne and if, as described by the IEA ETP 2°C
+scenario, a North American carbon tax was introduced, rising to $93
+per tonne by 2030, this could amount to a cost of £107 million.
+Alternatively, with a lower cost of carbon estimated at €71 and $64
+per tonne, this could amount to a cost of £45 million, which is more
+likely in a >2°C scenario with lower carbon taxes.
+• Hedge the cost of fuel, energy and carbon with our suppliers and
+financial institutions.
+• Factor the cost of carbon into our net zero transition planning and
+analysis and optimisation of project deployment, alongside
+scenarios and forecasts of future growth and fuel availability.
+• Deploy actions in our Net Zero Transition Plan to deliver our
+1.5°C science-based target, including switching from fossil to
+renewable fuels that reduce our GHG emissions and therefore
+limit exposure to carbon taxes.
+Increased production costs (e.g. higher input prices)
+Higher input costs would have to be recovered through increased
+packaging pricing, which would increase revenue.
+If, for example, in a >2°C scenario, the average price of a key input
+was to increase by 10 per cent compared to present day, this could
+lead to an increase in production costs, assuming the same level of
+production as today, of £87 million.
+Alternatively, in a 1.5°C scenario, if only a 3 per cent increase was
+observed, owed to less severe disruption, this could lead to an
+increase in production costs of £26 million.
+• Optimise the best fit between paper production, fibre sourcing and
+packaging demand to balance over the long term.
+• Remove unnecessary waste and save natural resources through
+innovative design, as part of delivering our Now & Next target to
+optimise fibre use for unique supply chains.
+Increased capital costs (e.g. more repair and maintenance)
+This could be as a result of damage to property, which may result in
+higher insurance premiums, compounded by costs to ensure
+continuity of supply. We use a ‘business interruption value-at-risk’
+metric to determine the potential impact of disruption caused by a
+climate-related event.
+If, for example, in a >2°C scenario, production was halted for a whole
+year at our highest-value site in a geographic region prone to specific
+climate events, this could present an incident valued at £90 million.
+If, in a 1.5°C scenario, disruption only lasted for one month due to a
+less severe climate-related weather event, this would be valued
+at £8 million.
+• Ensure that climate resilience indicators are part of the evaluation
+process when evaluating strategic decisions relating to our
+production footprint and capacity planning.
+• Implement adequate and flexible business continuity plans, using
+data to improve climate modelling and to strengthen our business
+resilience with a changing climate pattern.
+Decreased revenues and profit (e.g. temporary curtailment)
+This could be as a result of decreased production capacity because of
+limits placed on water withdrawal. We use the IPCC 4°C scenario to
+identify sites at risk of water stress and a ‘business interruption
+value-at-risk’ metric to determine the potential impact resulting from
+a climate-related disruption.
+If, for example, in a >2°C scenario, production was halted for 31 days
+at our highest-value site located in a region at future risk of water
+stress, this could present an incident valued at £2 million.
+Were this incident only to occur for seven days, in a 1.5°C scenario,
+this would be valued at less than £1 million.
+• Invest in closed-loop solutions that recycle water and other water
+efficiency measures, from optimising the configuration of
+processes to modernising water intensive equipment.
+• Maintain localised water stress mitigation measures
+(water management and water scarcity plans) at sites with
+greater than 5,000m3 water withdrawal, with business
+continuity planning, regular contact with relevant stakeholders
+(e.g. the water authority and local community) and
+monthly performance review.
+Primary potential financial impacts
+Key actions in our strategies that mitigate the risk
+Increased operating costs (e.g. higher compliance costs)
+The scenarios explore a range of potential future carbon taxes.
+For example, if the cost per European Union Allowance (EUA)
+increased to €130 per tonne and if, as described by the IEA ETP 2°C
+scenario, a North American carbon tax was introduced, rising to $93
+per tonne by 2030, this could amount to a cost of £107 million.
+Alternatively, with a lower cost of carbon estimated at €71 and $64
+per tonne, this could amount to a cost of £45 million, which is more
+likely in a >2°C scenario with lower carbon taxes.
+• Hedge the cost of fuel, energy and carbon with our suppliers and
+financial institutions.
+• Factor the cost of carbon into our net zero transition planning and
+analysis and optimisation of project deployment, alongside
+scenarios and forecasts of future growth and fuel availability.
+• Deploy actions in our Net Zero Transition Plan to deliver our
+1.5°C science-based target, including switching from fossil to
+renewable fuels that reduce our GHG emissions and therefore
+limit exposure to carbon taxes.
+Increased production costs (e.g. higher input prices)
+Higher input costs would have to be recovered through increased
+packaging pricing, which would increase revenue.
+If, for example, in a >2°C scenario, the average price of a key input
+was to increase by 10 per cent compared to present day, this could
+lead to an increase in production costs, assuming the same level of
+production as today, of £87 million.
+Alternatively, in a 1.5°C scenario, if only a 3 per cent increase was
+observed, owed to less severe disruption, this could lead to an
+increase in production costs of £26 million.
+• Optimise the best fit between paper production, fibre sourcing and
+packaging demand to balance over the long term.
+• Remove unnecessary waste and save natural resources through
+innovative design, as part of delivering our Now & Next target to
+optimise fibre use for unique supply chains.
+Increased capital costs (e.g. more repair and maintenance)
+This could be as a result of damage to property, which may result in
+higher insurance premiums, compounded by costs to ensure
+continuity of supply. We use a ‘business interruption value-at-risk’
+metric to determine the potential impact of disruption caused by a
+climate-related event.
+If, for example, in a >2°C scenario, production was halted for a whole
+year at our highest-value site in a geographic region prone to specific
+climate events, this could present an incident valued at £90 million.
+If, in a 1.5°C scenario, disruption only lasted for one month due to a
+less severe climate-related weather event, this would be valued
+at £8 million.
+• Ensure that climate resilience indicators are part of the evaluation
+process when evaluating strategic decisions relating to our
+production footprint and capacity planning.
+• Implement adequate and flexible business continuity plans, using
+data to improve climate modelling and to strengthen our business
+resilience with a changing climate pattern.
+Decreased revenues and profit (e.g. temporary curtailment)
+This could be as a result of decreased production capacity because of
+limits placed on water withdrawal. We use the IPCC 4°C scenario to
+identify sites at risk of water stress and a ‘business interruption
+value-at-risk’ metric to determine the potential impact resulting from
+a climate-related disruption.
+If, for example, in a >2°C scenario, production was halted for 31 days
+at our highest-value site located in a region at future risk of water
+stress, this could present an incident valued at £2 million.
+Were this incident only to occur for seven days, in a 1.5°C scenario,
+this would be valued at less than £1 million.
+• Invest in closed-loop solutions that recycle water and other water
+efficiency measures, from optimising the configuration of
+processes to modernising water intensive equipment.
+• Maintain localised water stress mitigation measures
+(water management and water scarcity plans) at sites with
+greater than 5,000m3 water withdrawal, with business
+continuity planning, regular contact with relevant stakeholders
+(e.g. the water authority and local community) and
+monthly performance review.
+Annual Report 2024 dssmith.com
+71
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 74
+
+Climate-related opportunities
+Climate-related opportunity
+Description
+Growth in demand for sustainable packaging
+Type: Products and services
+Time horizon: Short term
+Link to principal risks: ’Changes in shopping habits’, ‘Packaging
+capacity fluctuations’, ‘Organisation capability’, ‘Substitution of
+fibre packaging’
+Alignment with strategic pillar: To delight our customers
+Potential to impact: predominantly our Packaging business, with
+implications for our Paper, Paper Sourcing and Recycling operations
+Definition
+Drive organic growth by demonstrating the benefits of circular
+packaging that helps brands and consumers to replace plastic and
+reduce their carbon footprint in the transition to Net Zero.
+Example outcome in a 1.5°C scenario
+Demand for sustainable packaging is greater as consumers are
+more conscious of their impact on the planet, necessitating
+greater recycling.
+Example outcome in a >2°C scenario
+Uptake for sustainable packaging is slower and appetite for recycling
+is lower, foregoing the opportunity.
+Greater resource efficiency
+Type: Resource efficiency
+Time horizon: Short term
+Link to principal risks: ’Paper/fibre price volatility’, ‘Sustainability
+commitments’
+Alignment with strategic pillar: To double in size and profitability
+Potential to impact: the whole business, but predominantly in
+packaging design to reduce material consumption and in the energy
+efficiency of our recycled paper mills, as they use heat to evaporate
+water in drying pulp and paper
+Definition
+Use fewer resources (materials, energy and/or water), both in
+manufacture through design and operating efficiency, and
+throughout the value chain to reduce climate impact and cost.
+Example outcome in a 1.5°C scenario
+Greater resource efficiency is achieved across the industry at the
+‘system’ level, for example, by encouraging markets to invest in
+improved recycling infrastructure to create cleaner waste streams.
+This has the added benefit of increasing energy efficiency, as cleaner
+material requires less processing.
+Example outcome in a >2°C scenario
+A lesser focus on resource efficiency fails to protect natural
+resources and the potential benefits are foregone.
+Use of lower-emission energy sources
+Type: Energy source
+Time horizon: Medium – long term
+Link to principal risk: ‘Sustainability commitments’
+Alignment with strategic pillar: To lead the way in sustainability
+Potential to impact: the whole business, but predominantly our
+recycled paper mills, which rely on fossil fuels as, unlike primary pulp
+production, recycled production does not have biofuels readily
+available as a by-product from the wood used
+Definition
+As energy systems evolve, there is an opportunity to adopt lower-
+emission energy sources and energy efficiency measures. These
+could be equipment-based (e.g. e-boilers and carbon capture and
+storage), fuel-based (e.g. hydrogen) or process-based (e.g. heat
+recovery and optimisation through digital and data innovation).
+Example outcome in a 1.5°C scenario
+Transitioning from fossil fuels to renewable fuels, including biomass,
+biomethane and hydrogen limits warming to 1.5°C.
+Example outcome in a >2°C scenario
+Lower-emission energy sources are not affordable or are unavailable
+at the scale required to achieve Net Zero and the fuel mix remains
+roughly the same as present-day.
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+72
+Contents
+
+## Page 75
+
+Primary potential financial impacts
+Key actions in our strategies that realise the opportunity
+Increased revenues and profit (e.g. more sales)
+Organic growth and market share capture as a result of greater
+demand for recyclable packaging, enhanced by the added value of
+our sustainability, innovation and circularity credentials.
+If, for example, in a 1.5°C scenario, 1.5 per cent annual growth, as
+described in the IEA NZE 2050 scenario, could be fully exploited, by
+2030 this could increase revenue by c. £637 million.
+Alternatively, in a >2°C scenario, with less demand for sustainable
+packaging, assuming 1 per cent annual growth, by 2030 this could
+increase revenue by c. £420 million.
+In each of these figures, we assume that the growth in paper
+production described in the reference scenario is a result of
+packaging demand, increasing packaging revenue.
+• Support our design and innovation community with the tools they
+need to design for the circular economy, building on over 1,000
+designs for millions of products geared towards reducing the use
+of plastic.
+• Invest in R&D (doubled to a £100 million package to deliver over
+five years) to include the creation of new breakthrough
+technologies in materials and design innovation to support the
+circular economy.
+• Identify new plastic replacement opportunities, including
+capitalising on opportunities brought about by regulatory changes,
+e.g. the Single Use Packaging Directive and Packaging and
+Packaging Waste Regulation (PPWR).
+Decreased production costs (e.g. less material consumption)
+Decreased cost as a result of reduced materials, energy and water
+consumption, increasing profitability and added positive reputation
+value associated with a low environmental impact product.
+If, for example, in a 1.5°C scenario, energy intensity reduced by c. 2
+per cent per year to 2030, as described in the IEA NZE 2050 scenario,
+this would result in a saving of c. £37 million.
+Alternatively, if in a >2°C scenario, only a 0.6 per cent decrease in
+energy consumption was secured, as described in the IEA SDS 2030
+scenario, the saving would be reduced to c. £12 million.
+Beyond this example of energy efficiency, material efficiency
+through better product design and supply chain optimisation could
+present more savings and value creation opportunities.
+• Reduce energy consumption as part of our Group-wide ISO
+50001:2018 certified energy management system at 100 per cent
+of relevant sites to continuously improve energy performance,
+cost and GHG emissions, with site-level targets and monitoring.
+• Advocate for separate collection of recyclables to improve quality
+of material by reducing contamination, increasing recycling rates,
+lowering environmental impact and cost for local authorities as
+part of our engagement with policy makers.
+• Work with our customers to reduce fibre consumption,
+predominantly through better design, as part of delivering our
+Now & Next target to optimise fibre use for unique supply chains.
+Decreased operating costs (e.g. less fossil fuel consumption)
+Decreased cost as a result of reduced energy consumption and
+less exposure to future fossil fuel price increases and sensitivity to
+the cost of carbon. Added returns on investment secured from
+low-emission technology.
+According to the IEA NZE 2050 scenario, it will be important to move
+away from fossil fuels to near zero-emission alternatives for the
+industry to reach Net Zero, with the proportion of renewable fuels in
+the average energy mix increasing from 43 per cent to almost
+50 per cent in 2030.
+Assuming average renewable/non-renewable fuel costs, achieving
+this transition could present an energy cost reduction of £77 million.
+Alternatively, were no transition achieved, this would be zero.
+Inevitably costs would be incurred in achieving this transition which
+are not included in this analysis.
+• Investigate opportunities to implement lower-emission energy
+sources, including the viability of renewable fuel sources as fossil
+fuel alternatives, to be well-positioned to take advantage of
+lower-emission energy sources.
+• Deploy actions in our Net Zero Transition Plan, which includes
+initiatives relating to switching to lower-emission energy sources
+so that our business can grow without increasing emissions,
+realising the benefits of harnessing renewable energy.
+Primary potential financial impacts
+Key actions in our strategies that realise the opportunity
+Increased revenues and profit (e.g. more sales)
+Organic growth and market share capture as a result of greater
+demand for recyclable packaging, enhanced by the added value of
+our sustainability, innovation and circularity credentials.
+If, for example, in a 1.5°C scenario, 1.5 per cent annual growth, as
+described in the IEA NZE 2050 scenario, could be fully exploited, by
+2030 this could increase revenue by c. £637 million.
+Alternatively, in a >2°C scenario, with less demand for sustainable
+packaging, assuming 1 per cent annual growth, by 2030 this could
+increase revenue by c. £420 million.
+In each of these figures, we assume that the growth in paper
+production described in the reference scenario is a result of
+packaging demand, increasing packaging revenue.
+• Support our design and innovation community with the tools they
+need to design for the circular economy, building on over 1,000
+designs for millions of products geared towards reducing the use
+of plastic.
+• Invest in R&D (doubled to a £100 million package to deliver over
+five years) to include the creation of new breakthrough
+technologies in materials and design innovation to support the
+circular economy.
+• Identify new plastic replacement opportunities, including
+capitalising on opportunities brought about by regulatory changes,
+e.g. the Single Use Packaging Directive and Packaging and
+Packaging Waste Regulation (PPWR).
+Decreased production costs (e.g. less material consumption)
+Decreased cost as a result of reduced materials, energy and water
+consumption, increasing profitability and added positive reputation
+value associated with a low environmental impact product.
+If, for example, in a 1.5°C scenario, energy intensity reduced by c. 2
+per cent per year to 2030, as described in the IEA NZE 2050 scenario,
+this would result in a saving of c. £37 million.
+Alternatively, if in a >2°C scenario, only a 0.6 per cent decrease in
+energy consumption was secured, as described in the IEA SDS 2030
+scenario, the saving would be reduced to c. £12 million.
+Beyond this example of energy efficiency, material efficiency
+through better product design and supply chain optimisation could
+present more savings and value creation opportunities.
+• Reduce energy consumption as part of our Group-wide ISO
+50001:2018 certified energy management system at 100 per cent
+of relevant sites to continuously improve energy performance,
+cost and GHG emissions, with site-level targets and monitoring.
+• Advocate for separate collection of recyclables to improve quality
+of material by reducing contamination, increasing recycling rates,
+lowering environmental impact and cost for local authorities as
+part of our engagement with policy makers.
+• Work with our customers to reduce fibre consumption,
+predominantly through better design, as part of delivering our
+Now & Next target to optimise fibre use for unique supply chains.
+Decreased operating costs (e.g. less fossil fuel consumption)
+Decreased cost as a result of reduced energy consumption and
+less exposure to future fossil fuel price increases and sensitivity to
+the cost of carbon. Added returns on investment secured from
+low-emission technology.
+According to the IEA NZE 2050 scenario, it will be important to move
+away from fossil fuels to near zero-emission alternatives for the
+industry to reach Net Zero, with the proportion of renewable fuels in
+the average energy mix increasing from 43 per cent to almost
+50 per cent in 2030.
+Assuming average renewable/non-renewable fuel costs, achieving
+this transition could present an energy cost reduction of £77 million.
+Alternatively, were no transition achieved, this would be zero.
+Inevitably costs would be incurred in achieving this transition which
+are not included in this analysis.
+• Investigate opportunities to implement lower-emission energy
+sources, including the viability of renewable fuel sources as fossil
+fuel alternatives, to be well-positioned to take advantage of
+lower-emission energy sources.
+• Deploy actions in our Net Zero Transition Plan, which includes
+initiatives relating to switching to lower-emission energy sources
+so that our business can grow without increasing emissions,
+realising the benefits of harnessing renewable energy.
+Annual Report 2024 dssmith.com
+73
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 76
+
+Climate scenario analysis methodology
+In order to increase the utility of our climate scenario analysis,
+we draw on industry-specific reference scenarios.
+Industry-specific reference scenarios:
+• Provide data that fits with our business and industry data.
+• Address some of the decarbonisation challenges and
+climate-related risks and opportunities that we face.
+• Align with the latest international agreement on climate.
+They include information to 2030 and 2050, the same time
+horizon as our science-based target and Net Zero commitment.
+The selected scenarios, developed for the pulp and paper
+sector, predominantly focus on our paper businesses because
+these are our most energy-intensive operations.
+IEA NZE 1.5°C by 2030 (Pulp & Paper)
+In this scenario, growth in production and energy consumption
+are decoupled to achieve decarbonisation to the extent
+required to be on track with the Sustainable Development
+Scenario (SDS) by 2030.
+IEA Net Zero Emissions by 2050 (Pulp & Paper)
+In this scenario, annual production expands, necessitating
+greater recycling. Using a higher share of bioenergy is
+important to align with the Net Zero by 2050 trajectory.
+We supplement these with non industry-specific scenarios that
+reflect a range of warming trajectories, including greater than
+2°C by 2100 compared to pre-industrial levels, presenting a
+range of contrasting futures, including an alternative to the
+1.5°C scenario. They address cross-industry issues, such as
+carbon taxes.
+The scope includes our packaging and paper businesses.
+IEA ETP SDS 2°C
+In this scenario, mitigation measures are applied to carbon
+intensive industries, alongside technological advancements to
+the extent required to limit global warming to within 2°C by
+2100 versus pre-industrial levels.
+IPCC RCP 8.5 4°C
+In this scenario, a ‘business as usual’ state of no policy changes
+leads to growth in emissions, causing some of the physical
+effects of climate change to be felt with greater severity.
+In each scenario, we assume that we have the same activities as
+today, drawing on financial and non-financial data from the
+most recent reporting period at the time of the analysis.
+We model the most relevant reference points from the
+scenarios and use financial data to assess potential future
+effects on financial metrics. The primary potential financial
+impact figures given are illustrative estimates, given within the
+context of each scenario. The analysis was updated in May 2024
+and some of the estimates have changed compared to last year,
+due to changes in the inputs to our climate scenario analysis
+model. For example, revenues, costs and currency exchange
+rates have changed compared to those used previously. For
+water stress, the latest version of the WRI Aqueduct tool has
+updated inputs to the hydrological model, providing more
+accurate baseline data, as well as future projection data for 2030,
+based on the latest climate models. The estimates provided
+may therefore be incomparable to those previously given.
+Resilience based on climate scenario analysis
+The results obtained from analysis suggest that our present-day
+strategy is resilient to climate-related risks and opportunities and that
+we would not need to make fundamental changes to our business
+model between now and 2030, under a variety of contrasting future
+warming scenarios.
+The strategic ambition of our Net Zero Transition Plan, including our
+science-based target, guides us towards maximising the identified
+opportunities arising from the transition to a 1.5°C world.
+Our transition plan helps to mitigate climate-related risk through the
+deployment of roadmap projects, combined with appropriate risk
+management practices, increasing resilience.
+As we decarbonise alongside the entire industry, we see an
+opportunity to be at the forefront of leading the transition to a circular
+economy, which, compared to the linear economy, is a better system
+for tackling climate change, pollution and biodiversity loss.
+Significant areas of uncertainty
+The scenarios used in our analysis explore a range of assumptions
+about how climate change and variables such as carbon taxes, rates of
+energy efficiency and river basin water demand may develop far into
+the future. Inevitably, there is inherent uncertainty relating to these
+variables and how they would likely develop towards 2030.
+We consider these uncertainties to be acceptable, as the results from
+this analysis are used to assess resilience at a high-level to inform
+strategic responses, such as the decision to commit to a 1.5°C
+science-based target.
+Risk management
+Describe the organisation’s processes for identifying
+and assessing climate-related risks
+We undertake regular materiality analysis to ensure our sustainability
+priorities remain aligned to those of our stakeholders. In developing
+our Now & Next Sustainability Strategy, we consulted our
+stakeholders on a range of issues, including climate change, asking
+them about their perception of each issue as a risk or opportunity to
+our business.
+In 2022/23, we refreshed this analysis through a ‘double materiality’
+lens, considering financial materiality (e.g. the impact of climate
+change on the Group) and impact materiality (e.g. the impact of the
+Group on climate change). This is described in detail on page 35.
+The results reinforced climate action, energy use and efficiency,
+product design for optimal resource use, recyclability and
+transitioning to a circular economy as of critical importance for the
+business and for the planet and society. These topics, considered of
+’critical importance’, are captured within our climate-related risks
+and opportunities.
+These results, alongside a range of other credible sources such as
+industry research, are used to grade risks using the likelihood of the
+risk occurring and an estimate of the severity of resulting financial or
+strategic impacts over various time horizons.
+Based on this risk grading, the highest graded risks are evaluated in
+greater depth, considering our operations, supply chain, stakeholder
+expectations and regulation.
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+74
+Contents
+
+## Page 77
+
+Transition risks are assessed by the Group Risk and Insurance, Group
+Sustainability, Government and Community Affairs, and Group
+ESG Reporting teams, working across functions to develop
+responses to the financial and strategic implications.
+Physical risks are assessed by each division, supported by the
+Group Risk and Insurance team, drawing on expertise from
+specialist organisations.
+Our physical climate risk assessment includes inputs and parameters:
+• Site location, with engineering and behavioural considerations.
+• Third-party climate exposure data and intelligence, including:
+• Environmental mapping (e.g. wind and flood maps).
+• Satellite imagery.
+• Data models for temperatures and consecutive dry days.
+• Data models for maximum one day and five day precipitation.
+• Standardised Precipitation Index.
+• Statistics relating to sea level rise and wind.
+This includes the identification of specific event-driven risks,
+combining engineering visits, natural hazard maps and global climate
+model data to produce recommendations that maximise resilience to
+climate-related risk.
+Climate scenario analysis is used to identify acute and chronic physical
+risk at our locations, according to a range of scenarios, in the long term
+(to 2030 and 2050), specified by peril.
+This includes scenarios relating to a range of potential future
+outcomes, covering:
+• Extreme precipitation.
+• Wind.
+• Temperature.
+• Drought.
+• Sea level rise.
+This insight identifies the locations with the greatest exposure to
+these perils, with financial metrics including property value and
+business interruption value at risk.
+These analytics include ongoing monitoring, covering all our operations,
+and are used to inform our insurance and resilience policies.
+Climate-related opportunities are predominantly identified and
+assessed by the Group Sustainability team, who lead the sustainability
+materiality analysis and propose the strategic direction of the Group
+for sustainability by way of the Now & Next Sustainability Strategy,
+which sets the strategic ambitions to realise climate-related
+opportunities, as well as respond to climate-related risks.
+Climate change could affect the availability of raw materials and
+production processes, while natural disasters can disrupt supply
+chains and damage infrastructure. It could also enhance the focus
+and opportunities presented to DS Smith from investment into
+alternatives, innovation and focus on regulation. In considering the
+prioritisation of climate-related risks and the relative significance of
+climate-related risks in relation to other risks, we assess climate
+change factors within the wider context of our Group principal risks
+(see pages 51 to 55), given that climate change may amplify or
+dampen some of the Group’s principal risks.
+This integrated approach reduces the chance of inadvertently
+neglecting or creating a trade-off between climate change and other
+risks, ensuring that climate-related risks and opportunities are
+embedded in the Group’s enterprise risk management and corporate
+planning. This situates climate-related risks and opportunities
+alongside, and integrates climate-related risks and opportunities
+with, other types of risks and opportunities.
+Describe the organisation’s processes for managing
+climate-related risks
+Our process for managing, including monitoring and prioritisation of,
+climate-related risks involves deciding whether to avoid, transfer,
+mitigate or accept a given risk. This is influenced by a range of factors,
+such as the type of risk, site location, investment needed and
+forecasts of volume demand.
+Our risk management processes require that our principal business
+risks, including climate risks, are graded on a scale from negligible to
+critical using specific impact criteria such as a financial value range.
+By way of example, a financial impact between 2.5 per cent and
+10 per cent of operating income or net profit is graded as a moderate
+strategic or financial risk.
+Specialist Group functions (e.g. energy procurement), Sustainability
+Steering Committees (e.g. nature) and working groups (e.g. those
+deploying our Net Zero Transition Plan) work across the divisions and
+functions to implement mitigation measures through the delivery
+of our Now & Next targets that address climate-related risks and
+opportunities. These teams draw on internal and external resource,
+utilising specialist analysis, tools and expertise.
+For example, we have applied forecasts relating to the carbon price,
+electrical demand, decarbonisation policy, renewable deployment, and
+availability of technologies in our project work to inform decarbonisation
+roadmaps for our packaging plants to manage climate-related risk,
+as part of implementing our Net Zero Transition Plan.
+Describe how processes for identifying, assessing and
+managing climate-related risks are integrated into the
+organisation’s overall risk management
+Climate-related risks and opportunities are integrated into our
+principal risk assessments and corporate planning, evaluated using
+the Group’s common risk language, where such risks could significantly
+affect the business during the Corporate Plan time horizon.
+All divisions and Group functions produce formal principal risk
+assessment reports twice per year and undertake frequent risk
+reviews, considering the grading, trends and controls. The most
+significant climate-related risks and opportunities are selected for
+climate scenario analysis, prioritising those for which high-quality
+data is available.
+Key mitigating actions in response to climate-related risks, such as the
+science-based target, are agreed and developed by specialist working
+groups and teams, with the sponsorship of the Carbon, Water and
+Waste Steering Committee and approval of the HSES Committee.
+These are prioritised based on factors such as materiality, regulatory
+requirements and commercial opportunity. For example, actions
+relating to climate change and the circular economy are prioritised
+given that our stakeholders considered these issues of ‘critical
+importance’ in the most recent materiality assessment.
+Prioritised actions are implemented by the relevant sustainability
+working group, project teams and site teams, with accountability for
+delivery with Divisional and Functional leadership. Management
+performance, including challenges and opportunities relating to
+deploying mitigating actions, is reviewed alongside the wider review
+of sustainability performance and strategy progress. Any material
+risks to deployment are captured in our regular operational risk
+reviews (see pages 49 and 50).
+Our processes for identifying, assessing, prioritising and monitoring
+climate-related risk are unchanged compared to the prior period.
+Annual Report 2024 dssmith.com
+75
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 78
+
+Metrics and targets
+Disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its
+strategy and risk management process
+Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse gas (GHG) emissions, and the related risks
+Group greenhouse gas (GHG) emissions (Streamlined Energy and Carbon Reporting (SECR))
+Metric
+Unit of measure
+2023/24
+2022/23
+2019/20
+(base year)
+Compared
+to last year
+Compared
+to base year
+Direct (Scope 1) GHG emissions
+tonnes CO2e
+1,340,272*
+1,542,250*
+2,181,890
+-13%
+-39%
+Indirect (Scope 2 market-based) GHG emissions
+tonnes CO2e
+944,921*
+833,759*
+792,275
+13%
+19%
+Indirect (Scope 2 location-based) GHG emissions
+tonnes CO2e
+922,923*
+891,267*
+875,544
+4%
+5%
+Indirect (Scope 3) GHG emissions
+tonnes CO2e
+4,700,076
+5,015,409
+5,671,528
+-6%
+-17%
+Total GHG emissions
+tonnes CO2e
+6,985,269
+7,391,418
+8,645,693
+-5%
+-19%
+Gross Scope 1 and 2 (market) GHG emissions
+tonnes CO2e
+2,285,193*
+2,376,009*
+2,974,165
+-4%
+-23%
+GHG emissions from energy export
+tonnes CO2e
+488,604*
+529,699*
+791,810
+-8%
+-38%
+Net Scope 1 and 2 (market) GHG emissions
+tonnes CO2e
+1,796,589*
+1,846,310*
+2,182,355
+-3%
+-18%
+Energy consumption
+MWh
+14,058,435*
+14,407,601*
+15,707,667
+-2%
+-10%
+Energy exported
+MWh
+1,525,376*
+1,739,186*
+1,977,616
+-12%
+-23%
+Total production
+tonnes
+9,874,853*
+10,164,657*
+10,222,065
+-3%
+-3%
+GHG emissions (net) per tonne of production
+kg CO2e /t nsp
+182*
+182*
+213
+0%
+-15%
+Outside of scopes GHG emissions
+tonnes CO2e
+1,022,400*
+1,018,232*
+911,659
+0%
+12%
+UK reporting: 4 per cent of Scope 1 emissions and 29 per cent of Scope 2 (market-based) generated by UK-based operations in 2023/24.
+12 per cent of energy consumption consumed by UK-based operations in 2023/24.
+Group Indirect (Scope 3) value chain greenhouse gas (GHG) emissions
+Scope 3 category
+Unit of measure
+2023/24
+2022/23
+2019/20
+(base year)
+Compared
+to last year
+Compared
+to base year
+1: Purchased goods and services
+tonnes CO2e
+2,233,164
+2,341,614
+2,562,626
+-5%
+-13%
+2: Capital goods
+tonnes CO2e
+141,634
+161,217
+96,891
+-12%
+46%
+3: Fuel- and energy-related activities
+tonnes CO2e
+480,239*
+471,063
+425,243
+2%
+13%
+4: Upstream transportation and distribution
+tonnes CO2e
+363,900
+377,052
+407,883
+-3%
+-11%
+5: Waste generated in operations
+tonnes CO2e
+101,192*
+119,671*
+252,834
+-15%
+-60%
+6: Business travel
+tonnes CO2e
+3,102
+3,912
+4,173
+-21%
+-26%
+7: Employee commuting
+tonnes CO2e
+4,903
+5,390
+7,992
+-9%
+-39%
+8: Upstream leased assets
+tonnes CO2e
+4,037
+4,110
+4,507
+-2%
+-10%
+9: Downstream transportation and distribution
+tonnes CO2e
+104,621
+109,260
+109,381
+-4%
+-4%
+10: Processing of sold products
+tonnes CO2e
+581,463*
+693,418
+943,600
+-16%
+-38%
+12: End of life treatment of sold products
+tonnes CO2e
+654,726*
+693,027
+780,090
+-6%
+-16%
+15: Investments
+tonnes CO2e
+27,095
+35,675
+76,308
+-24%
+-64%
+Total Indirect (Scope 3) GHG emissions
+tonnes CO2e
+4,700,076
+5,015,409
+5,671,528
+-6%
+-17%
+Scope 3 Categories 11, 13 and 14 are excluded on the basis of irrelevance to our value chain, as described in our Basis of Preparation.
+GHG emissions are reported in accordance with the Greenhouse Gas Protocol Corporate Accounting and Reporting Standard (Revised), under a financial
+control boundary. Department for Business, Energy & Industrial Strategy (BEIS) 2022 emission factors are applied, unless emission factors from other
+sources are deemed more appropriate. See our Basis of Preparation, available from our ESG Reporting Hub.
+
+* Independent Assurance has been obtained for metrics marked ’*’, see the statement below.
+Independent Assurance Statement
+Deloitte have provided independent third-party limited assurance in accordance with the International Standard for Assurance Engagements 3000
+(ISAE 3000) and Assurance Engagements on Greenhouse Gas Statements (ISAE 3410) issued by the International Auditing and Assurance Standards
+Board (IAASB) over the selected information, identified with * in the above table, and other selected information relating to carbon, energy, water,
+waste, production and employee diversity identified with * within the DS Smith Annual Report 2024, DS Smith Sustainability Report 2024, DS Smith
+Net Zero Transition Plan 2024 and DS Smith ESG Databook 2024.
+Deloitte’s full unqualified assurance opinions, which include details of the selected information assured in 2023/24, 2022/23 and 2021/22, can be
+found on our ESG Reporting Hub, at https://www.dssmith.com/sustainability/reporting-hub.
+Independent third-party limited assurance of selected information for the 2019/20 base year was provided by Bureau Veritas.
+See the full assurance statement on our ESG Reporting Hub, at https://www.dssmith.com/sustainability/reporting-hub.
+Task Force on Climate-related Financial Disclosures (TCFD) continued
+76
+Contents
+
+## Page 79
+
+Carbon pricing
+We use internal carbon pricing as a tool to assess and manage
+carbon-related risks and opportunities. We apply an internal carbon
+price on an ad-hoc, project-by-project basis to arrive at the best cost
+solution, balancing financial and non-financial outcomes.
+For example, in our strategic assessment to achieve Net Zero, we
+modelled growth and investment phasing over 30 years to tackle
+our greatest emission sources.
+The analysis included a range of historic and forecast carbon prices,
+as well as carbon offset costs.
+Climate-related remuneration
+The importance of ESG and sustainability, including climate change,
+continues to be emphasised by the use of a variety of ESG considerations
+as an underpin to the annual bonus.
+In 2023/24, the three elements of the ESG underpin were met,
+including the roll out of an updated Now & Next Sustainability Strategy,
+which includes our approach to the delivery of science-based targets.
+When considering the application of discretion to override the
+formulaic outcome for the 2024/25 annual bonus, the Remuneration
+Committee will take into account, alongside other ESG factors,
+continued delivery of the updated Now & Next Sustainability Strategy
+and of progress towards our science-based targets, taking account of
+updated actual performance and current customer/regulatory
+requirements. For more information, see page 119.
+Describe the targets used by the organisation to manage climate-related risks and opportunities and
+performance against targets
+Industry-specific metrics and targets used to assess and manage outcomes of climate-related risks and opportunities
+Climate-related risk or opportunity
+Metric
+Unit of measure
+2023/24
+2022/23
+2021/22
+Trend
+Increased spend on
+carbon taxes
+Gross global Scope 1 emissions
+tonnes CO2e
+1,340,272*
+1,542,250*
+2,023,278*
+Ô
+Percentage covered under
+emissions-limiting regulations
+Per cent
+70*
+73*
+79
+Ô
+Now & Next target: By 2030, reduce Scope 1, 2 and 3 GHG emissions by 46 per cent compared to 2019
+Increased cost of raw
+materials or threat
+to supply
+Percentage of fibre use
+optimised for individual
+supply chains1
+Per cent
+90
+64
+26
+Ó
+Now & Next target: By 2025, optimise fibre for individual supply chains in 100% of new packaging solutions
+Increased severity of
+extreme weather
+events
+Internal and highly localised insurance metrics (financial and non-financial), such as loss expectancy and
+proprietary risk scores, which can be compared within the Company and across the industry
+Increased likelihood
+of water stress
+Total water withdrawals
+m3
+52,477,496*
+53,802,571*
+54,644,995*
+Ô
+Percentage of water withdrawn
+from areas at risk of water stress
+Per cent
+29*
+38
+31
+Ô
+Percentage of paper mills and
+packaging sites with a water
+management plan in place
+Per cent
+10
+–
+–
+–
+Now & Next target: By 2025, 100 per cent of our paper mills and packaging sites to have water management plans2
+Growth in demand
+for sustainable
+packaging
+Number of pieces of
+plastic replaced
+Million units
+Over 1.2 billion
+(cumulative to
+the end of
+2023/24)
+Ó
+Now & Next target: By 2025, help our customers to replace one billion pieces of plastic with alternative fibre-based solutions
+Greater resource
+efficiency
+Total energy consumption
+MWh
+14,058,435*
+14,407,601*
+15,324,120*
+Ô
+Water withdrawals at mills in
+areas at risk of water stress
+m3/t nsp
+(tonne net
+saleable
+production)
+7.9*
+8.9*
+8.1
+Ô
+Now & Next target: Maintain ISO 50001:2018 certification at 100 per cent of in-scope sites, covering 90 per cent of total energy consumption
+Use of lower-emission
+energy sources
+Percentage of overall
+energy consumption from
+renewable sources
+Per cent
+29*
+26
+21
+Ó
+Percentage of electricity
+consumed that was generated
+from renewable sources
+Per cent
+11*
+15
+13
+Ô
+Now & Next target: Reach Net Zero GHG emissions by 2050
+Selected information marked with an asterisk (*) has been independently assured by Deloitte – see the Independent Assurance Statement on page 76.
+1. This figure represents c. 74 of our conventional packaging sites for which BSIR (Board Strength Index Rating) data is available. It does not capture all packaging
+designs and specifications and excludes board purchased externally and sheet board sales. See DS Smith Sustainability Report 2024, page 17.
+2. Target updated from ’Maintain water stress mitigation plans at 100 per cent of our sites in current or future water stressed areas’.
+Scope includes manufacturing sites with >5,000m3 annual water withdrawal.
+Annual Report 2024 dssmith.com
+77
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 80
+
+Background
+The Taxonomy Regulation sets out a classification system that
+translates the European Union’s environmental objectives into criteria
+for determining when an activity can be considered environmentally
+sustainable for investment purposes.
+The Taxonomy Regulation is designed as a transparency tool to
+enable investors to compare companies and investment portfolios on
+a consistent basis. It is not a mandatory list of activities for investors
+to invest in, nor does it set mandatory environmental performance
+requirements for companies or financial products. In addition, the
+Taxonomy Regulation serves to advance the ambitions of the
+European Green Deal by scaling up sustainable investment.
+The Taxonomy Regulation establishes technical criteria for
+environmental sustainability across more than 100 economic
+activities and six environmental objectives:
+1. Climate change mitigation,
+2. Climate change adaptation,
+3. Sustainable use and protection of water and marine resources,
+4. Transition to a circular economy,
+5. Pollution prevention and control,
+6. Protection and restoration of biodiversity and ecosystems.
+How does it work?
+The Taxonomy Regulation requires four conditions to be met when
+meeting these objectives, for an economic activity to qualify as
+‘environmentally sustainable’:
+• It contributes substantially to one or more environmental
+objectives or is an enabling activity.
+• It does not significantly harm any environmental objectives.
+• It is carried out in compliance with minimum safeguards.
+• It complies with technical screening criteria.
+The Taxonomy Regulation requires mandatory disclosure of key
+performance indicators (KPIs), that identify firstly the ‘Eligibility’ of an
+economic activity for consideration under the disclosure requirement
+and secondly, the ‘Alignment’ of those economic activities with the
+detailed ‘screening criteria’ provided by the act to identify in-scope
+activities.
+The KPIs required for disclosure are: (1) turnover derived from
+products or services associated with economic activities that qualify
+as environmentally sustainable, (2) capital expenditure related to
+assets or processes associated with qualifying economic activities,
+and (3) operational expenditure related to assets or processes
+associated with qualifying activities, expressed as a percentage of
+the total for each measure, for the in-scope company.
+The EU has stated it intends to develop the Taxonomy Regulation
+over time and the fact that an activity is not currently recognised as
+substantially contributing to one of the EU’s environmental objectives
+does not necessarily mean it is not sustainable.
+EU Taxonomy
+This voluntary disclosure has been prepared in accordance
+with Regulation EU 2020/852 (the ‘Taxonomy Regulation’)
+and Delegated Regulation EU 2021/2178 (the ‘Disclosures
+Delegated Act’).
+Evolution of our voluntary disclosure
+We are continuing to evolve our Taxonomy Regulation disclosure,
+with this Annual Report being the third year of voluntary disclosure.
+DS Smith
+Annual
+Report
+2022
+First year of
+Taxonomy
+Regulation
+disclosure
+We mapped our activities to the EU
+Taxonomy-eligible business activities as
+set out in the Delegated Regulation (EU)
+2021/2139 (Climate Delegated Act) and
+identified the percentage of total Group
+turnover, capital expenditure and
+operating expenditure relating to
+EU taxonomy-eligible activities.
+DS Smith
+Annual
+Report
+2023
+Second year
+of Taxonomy
+Regulation
+disclosure
+We reviewed our activities and extended
+the list of those activities which we
+assessed as eligible and aligned based on
+information obtained from the ‘Taxonomy
+Navigator’ tool, provided by the
+European Commission.
+DS Smith
+Annual
+Report
+2024
+Third year of
+Taxonomy
+Regulation
+disclosure
+For 2023/24, we refreshed our analysis to
+include the new set of activities and
+criteria introduced with the Delegated
+Regulation 2023/2486 (the ‘Taxonomy
+Environmental Delegated Act’).
+As a UK company with its registered office and headquarters in
+London, DS Smith Plc is not currently subject to the Taxonomy
+Regulation on a mandatory basis. However, we welcome measures
+to increase transparency and seek to comply with the
+Taxonomy Regulation on a voluntary basis.
+Our industry and primary economic activity (paper and packaging
+manufacturing) presently fall outside the scope of economic activities
+defined by the Taxonomy Regulation.
+Within the current Taxonomy Regulation, we have identified that
+some of our activities are environmentally sustainable taxonomy-
+aligned activities – predominantly our recycling operations.
+Identified eligible activities
+We have identified five eligible activities, along with their associated
+Standard Classification of Economic Activities in the European
+Community (NACE) system codes and sectors.
+The use of NACE codes and sectors is for indicative purposes only and
+does not prevail over the activity description nor should it be
+interpreted as otherwise affecting the scope of reporting.
+Cogeneration of heat/cool and power from bioenergy
+(D35.11, D35.30) (Energy)
+Some of our paper mills generate heat and power in combined heat
+and power plants (CHPs) that are fed by renewable fuel sources, such
+as wood residuals and heavy black liquor, as by-products of the virgin
+papermaking process. Renewable sources for all energy types
+contributed c. 29 per cent of total energy consumption in 2023/24.
+Collection and transport of non-hazardous waste in source
+segregated fractions (E38.11) (Water supply, sewerage,
+waste management and remediation)
+Our recycling operations manage paper and cardboard for recycling,
+including collection and transportation. All separately collected and
+transported non-hazardous waste that is segregated at source and
+intended for preparation for reuse or recycling operations is
+considered to make a substantial contribution to climate mitigation
+under the relevant criteria.
+78
+Contents
+
+## Page 81
+
+Construction, extension and operation of waste water
+collection and treatment (E37.00) (Water supply, sewerage,
+waste management and remediation)
+We own and operate industrial waste water treatment plants to meet
+our own process water withdrawal and discharge requirements,
+including water treated on behalf of third parties.
+Forest management (A2) (Forestry)
+We manage c. 8,000 hectares of forest in North America and Iberia,
+providing timber feedstock to our virgin papermaking process.
+We maintain SFI (Sustainable Forestry Initiative) certification
+(North America) and FSC® Forest Management certification and PEFC
+Sustainable Forest Management (Iberia) certifications.
+Installation, maintenance and repair of energy efficiency
+equipment (C16, C17) (Construction and real estate)
+We maintain equipment to increase energy efficiency in the
+manufacture of wood products, paper and paper products.
+As this activity relates to building and construction, the most relevant
+substantial contribution criteria for climate mitigation is the
+installation and replacement of energy efficient light sources.
+A more detailed disclosure, set out in the provided
+EU Taxonomy Regulation templates, including methodologies,
+can be obtained from the DS Smith ESG Reporting Hub at
+www.dssmith.com/sustainability/reporting-hub.
+Proportions of Taxonomy Regulation-eligible and
+Taxonomy-aligned turnover, capital expenditure
+and operating expenditure
+In 2023/24, c. 3 per cent of turnover, c. 17 per cent of capital
+expenditure and c. 1 per cent of operating expenditure related to
+Taxonomy-eligible activities.
+Of this, c. 2 per cent of turnover, c. 2 per cent of capital expenditure
+and c. 1 per cent of operating expenditure was Taxonomy-aligned.
+These figures are summarised in the table below.
+Proportion of turnover
+(share of revenue) (%)
+Proportion of capital
+expenditure (‘capex’) (%)
+Proportion of operating
+expenditure (‘opex’) (%)
+Eligible
+Aligned
+Eligible
+Aligned
+Eligible
+Aligned
+Cogeneration of heat/cool and power from
+bioenergy (D35.11, D35.30)
+Less than
+0.03%
+0
+2
+0
+0
+0
+Collection and transport of non-hazardous
+waste in source segregated fractions (E38.11)
+2.41
+2.41
+1.50
+1.50
+0.83
+0.83
+Construction, extension and operation of
+waste water collection and treatment (E37.00)
+Less than
+0.002%
+0
+Less than
+0.4%
+0
+–
+–
+Forest management (A2)
+Less than
+1%
+-
+Less than
+0.5%
+–
+0
+0
+Installation, maintenance and repair of energy
+efficiency equipment (C16, C17)
+0
+0
+13
+Less than
+0.1%
+0
+0
+Totals
+3
+2
+17
+2
+1
+1
+Annual Report 2024 dssmith.com
+79
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 82
+
+The table below sets out where information relating to non-financial and sustainability matters can be found in our Strategic Report.
+Compliance statement
+DS Smith Plc has complied with the requirements of sections 414CA and 414CB of the Companies Act 2006 (as amended by The Companies
+(Strategic Report) (Climate-related Financial Disclosure) Regulations 2022) with the table disclosed below and other disclosures throughout the
+Strategic Report. The climate-related financial disclosures of the Company are contained within the Task Force on Climate-related Financial
+Disclosures (TCFD) section, on pages 60-77 of this Annual Report.
+Reporting requirements
+Some of the relevant policies
+Where to read more in this report about our impact,
+including the principal risks relating to these matters
+Page(s)
+Climate change and
+sustainability
+Group Sustainability policy2
+Task Force on Climate-related Financial Disclosures
+60-77
+Environmental
+matters
+Group Sustainability policy2
+Our sustainability approach, strategy, focus and targets
+Our sustainability performance
+Our differentiators
+Risk – sustainability commitments
+Task Force on Climate-related Financial Disclosures
+3, 9, 23,
+30-37
+10, 30-37
+6-21
+53
+60-77
+Employees
+Code of Conduct2
+‘Speak Up!’2
+Group Health and Safety policy2
+Equal Opportunities and Anti-Discrimination
+policy2
+Personal Data Protection policy1
+Document Retention policy1
+Confidential Information policy1
+Conflicts of Interest policy1
+What we create for our people
+Diversity and inclusion
+To realise the potential of our people – performance
+Health, safety and wellbeing
+Risk – organisation capability
+Gender pay gap reporting
+Our Purpose
+22, 26-29
+28-29
+8, 10, 26-29
+10, 27
+54
+29
+3
+Human rights
+Code of Conduct2
+Anti-Slavery and Human Trafficking policy2
+Governance of sustainability
+People and communities
+Risk – regulation and governance
+31
+33
+49-50, 53
+Social matters
+Code of Conduct2
+Gifts and Hospitality policy2
+Group Sustainability policy2
+People and communities
+22-23,
+33-34
+Compliance
+Corporate Criminal Offence (Anti-Facilitation
+of Tax Evasion) policy2
+Anti-Bribery and Anti-Corruption policy2
+Competition Law Compliance policy1
+Commercial Agents policy1
+Conflicts of Interest policy1
+Risk – regulation and governance
+49-50, 53
+Business model
+Our business model
+14-15
+Non-financial KPIs
+Employees: Accident frequency rate
+Customers: On-time in-full deliveries (OTIF)
+Sustainability: Greenhouse gas (GHG) emissions
+Climate change: TCFD metrics and targets
+10
+10
+10, 34, 76
+76-77
+1. Available to all employees through the DS Smith intranet. Not published externally.
+2. Available both on our website www.dssmith.com and to employees through the DS Smith intranet.
+Non-financial and sustainability
+information (NFSI) statement
+80
+Contents
+
+## Page 83
+
+Our policies
+A combination of online and in-person training on all the key policies is carried out across the Group and there is also a system of bi-annual
+certification for senior managers, certifying that they have read and understood the policies, that they have cascaded the policies down to their
+direct reports and that they are not aware of any breach of such policies. All employees, contractors and third parties are encouraged to report
+any circumstances where there is a suspected or actual breach of any of the DS Smith policies, applicable laws or the high standards as set out in
+the Code of Conduct, either through their managers, the confidential ‘Speak Up!’ helpline or directly to the Group General Counsel and Company
+Secretary. All reported incidences of actual or suspected breach of any of the policies are promptly and thoroughly investigated. The Group
+Compliance Committee and the Audit Committee also consider any high-risk areas identified by the Internal Audit function, the legal team or the
+divisional compliance teams. Many of these policies can be found on our website and additional commentary relating to sustainability can be
+found in DS Smith Sustainability Report.
+Policy
+Description
+Code of Conduct
+DS Smith Plc (DS Smith) and its subsidiaries (Group) are committed to the highest ethical standards in the way in which
+we engage with each other and our customers, employees, shareholders, suppliers, contractors and other
+stakeholders. Our Code of Conduct sets out what these commitments mean and the behaviours which are expected of
+all our employees, officers and business partners. This includes our expectations on health and safety, business
+practice, human rights, the environment, prevention of tax evasion and employee relations among other key areas for
+the business. Alongside the Code of Conduct we have an Employee Charter drawn up in partnership with the European
+Works Council (EWC) which builds on our Code of Conduct and reinforces our standing commitment to comply with
+applicable legislation and regulatory requirements. We also have other key Group policies outlined below, which serve
+to further expand upon the provisions in the Code of Conduct.
+Anti-Bribery and
+Anti-Corruption
+policy
+We have zero tolerance for any form of bribery or corruption and are committed to complying with all applicable
+anti-bribery and anti-corruption laws. This policy provides guidance on how to comply with the rules against bribery
+and other corrupt conduct that apply to the Group. In addition to our employees and contractors, we require that all
+third parties engaging with any entity in the Group comply with this policy.
+Anti-Slavery and
+Human Trafficking
+policy
+We do not tolerate any form of modern slavery within the Group or within our sphere of influence in the supply chain.
+We respect fundamental human rights and are committed to the principles set out in the United Nations Universal
+Declaration of Human Rights and this is documented in our Code of Conduct, Employee Charter and Anti-Slavery and
+Human Trafficking policy. Our annual Modern Slavery statement sets out the policies and due diligence processes we
+have across the Group, together with the steps taken since our last statement to ensure that human rights violations
+are not occurring within our operations or our supply chain. The ultimate responsibility for prevention of modern
+slavery rests with the Group’s leadership, with the Board of Directors having overall responsibility for ensuring this
+policy is implemented across the Group.
+Commercial Agents
+policy
+It is important to our ongoing success that DS Smith avoids damage to its reputation due to an act carried out by an
+agent in our name. The Commercial Agents policy outlines the rules that we expect to be followed across the Group
+when engaging and monitoring our relationships with agents. This policy also offers guidance to our agents on what is
+expected of them as an agent of DS Smith. Such guidance is supplemented by additional e-learning compliance
+training where appropriate. This ensures that agents are properly vetted and monitored.
+Competition Law
+and Antitrust
+Compliance policy
+We are committed to ensuring that our activities within the European Union (EU) and outside the EU are conducted in
+compliance with the principles of the EU competition rules as well as all applicable national rules that apply to the
+Group. This policy provides guidance on competition laws, information exchanges, swaps, trade associations and
+dawn raids. Additional e-learning training is available to support this policy.
+Conflicts of Interest
+policy
+Conflicts of interest, whether actual, potential or perceived, may impair our ability to act in accordance with our ethical
+standards and values. It is therefore important for all of our employees and any person associated with us to be aware
+of, and adhere to, the policies and procedures that we have in place to manage such conflicts. This policy outlines the
+requirements and processes in respect of conflicts of interest and advises employees of their obligations. It also
+includes a self-assessment tool to assist in determining whether there may be a conflict and a form for the disclosure
+and handling of conflicts of interest by employees and their line managers.
+Confidential
+Information policy
+We keep certain types of information confidential for important business reasons, including to comply with legal
+requirements (such as data protection and competition law), and to maintain a competitive edge. Confidential
+information is information that is not generally known or publicly available and is only available to employees or
+workers as a result of their employment/engagement with us. This policy sets out how confidential information
+should be handled and outlines the procedures that safeguard it.
+Corporate Criminal
+Offence (Anti-
+Facilitation of Tax
+Evasion) policy
+The Group will not engage in or be associated with any form of tax evasion anywhere in the world, nor facilitate such
+activities. This policy sets out the responsibilities of the Group as well as those working for or on behalf of the Group,
+and provides information and guidance on how to recognise and deal with potential tax evasion issues and our
+compliance processes. This policy must be implemented and followed by everyone who works for us or provides
+personal services to the Group and it must be communicated to all suppliers and customers.
+Document
+Retention policy
+In the course of carrying out our various business activities, we collect information from individuals and external
+organisations and generate a wide range of data and information which is recorded and stored. DS Smith is therefore
+committed to ensuring that it continues to ensure the accuracy of any data stored and ensuring that data (especially
+personal data) is only retained for as long as is necessary.
+Annual Report 2024 dssmith.com
+81
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 84
+
+Policy
+Description
+Equal
+Opportunities and
+Anti-Discrimination
+policy
+We are committed to promoting equal opportunities in employment. Job applicants, employees and contingent workers
+will receive equal treatment regardless of age, disability, race, religion or belief, sex, sexual orientation, gender
+reassignment, marriage and civil partnership, pregnancy and maternity or any other characteristic protected by
+applicable law. It is imperative for us to provide a respectful work environment and we have a zero tolerance approach to
+discrimination. This policy sets out the Group’s approach to equal opportunities and the avoidance of discrimination at
+work, as well as the processes to be followed in the event of any actual or suspected conduct which breaches this policy.
+All parties are encouraged to raise concerns if they find conduct within DS Smith that is unwelcome, offensive or a
+violation of this policy, through their line manager, local human resources (HR) or use of the ‘Speak Up!’ process so the
+Group can investigate and take appropriate remedial measures to end any conduct that violates this policy.
+Gifts and
+Hospitality policy
+We recognise that the act of giving and accepting gifts and hospitality can be part of building normal business
+relationships. However, our policy aims to ensure that our employees and contractors never accept gifts or hospitality
+which could break the law, compromise their judgement, conflict with their duty to DS Smith or our customers, or
+which could appear to others that their business judgement has been improperly influenced. Equally, our employees
+and contractors must never offer a gift or hospitality which could have this effect on the recipient. In order to monitor
+compliance with these principles, each site must maintain a gifts and hospitality register and registers must also be
+kept for head offices and specific functions that are not site specific. Before giving or receiving any gift and/or
+hospitality, depending on the value or the identity of the provider/recipient, our employees and contractors may be
+required to record the gift and/or hospitality in the relevant gifts and hospitality register, and/or seek approval from
+their line manager and the Group General Counsel and Company Secretary.
+Group Health
+and Safety policy
+We are committed to providing healthy and safe working conditions for the prevention of work-related injury and ill
+health to ensure that all our employees work in an environment where they, our contractors, site visitors and the
+public are healthy and safe. DS Smith actively strives for the continuous improvement of health and safety in the
+workplace by maintaining and developing our processes and systems in accordance with our values. This policy sets
+out our approach and arrangements with regards to health and safety, including our health, safety and wellbeing
+strategy, evaluation of risk and hazard assessments as well as health and safety training, engagement programmes
+and communication to raise awareness. The Health, Safety, Environment and Sustainability Committee meets
+monthly to oversee the management processes, targets and strategies designed to manage health and safety and
+environmental and sustainability risks and opportunities. The ultimate responsibility for health and safety rests with
+the Board members, the Group Chief Executive and the executive management team. This responsibility is cascaded
+through the organisation via the managing directors of each business unit, including their leadership teams. All staff
+collectively share responsibility for ensuring the workplace is a healthy and safe place to work.
+Group
+Sustainability
+policy
+Our Now & Next Sustainability Strategy is supported by policies which align the management of sustainability issues
+across our organisation. Risks arising from sustainability issues are considered as being among the key risks to the
+Group’s operations. To manage and mitigate such risks we have policies for existing and emerging sustainability
+issues. Our policies include Conflict Minerals, Carbon and Energy Efficiency, Community Engagement, Global Supplier
+Standards, Human Rights, Water Management, Zero Waste to Landfill and Sustainable Forest Management and Fibre
+Sourcing. These policies are periodically reviewed and updated, with action plans communicated to the heads of each
+business unit. The Board receives regular reports on performance and the Group Chief Executive is responsible for
+addressing sustainability-related issues. The Health, Safety, Environment and Sustainability Committee meets
+monthly and is supported by four steering committees linked to the pillars of our Now & Next Sustainability Strategy
+that oversee the processes for addressing sustainability-related issues and set and monitor internal targets and
+strategies to ensure sustainability-related risks and opportunities are appropriately managed.
+Personal Data
+Protection policy
+We recognise our responsibility to treat individuals’ personal data correctly and lawfully and take this issue very seriously.
+Compliance with data protection laws is critical to the success of our business. Compliance with statutory data protection is
+crucial in our relationship with our employees, customers, suppliers and business partners. The management of the
+relevant DS Smith company is responsible for cascading this policy and each site is responsible for confirming compliance.
+The Divisional Heads of Privacy will also send an annual confirmation form to check that each site is compliant.
+‘Speak Up!’ policy
+All of our employees, those providing services to DS Smith (contingent workers), shareholders and Non-Executive
+Directors are expected to conduct DS Smith business in a legal and ethical manner as detailed in our Code of Conduct.
+They have a responsibility not only to be aware of the Code of Conduct but to bring to the attention of management
+any activity which may be in violation of our policies or local law or does not meet the standards set out in the Code of
+Conduct. Employees are encouraged in the first instance to report any concerns to their line manager, local HR or
+employee representative. If not comfortable to do so, then there are ‘Speak Up!’ options available, where a report can
+be made through a dedicated free phone line or a secure website (both maintained by an independent third party that
+is under a duty of confidentiality). The phone and website support a majority of languages spoken across DS Smith.
+Alternatively, the Group General Counsel and Company Secretary can be contacted via email or letter. All ‘Speak Up!’
+options are available 24 hours a day, seven days a week and all ‘Speak Up!’ reports are treated in the strictest
+confidence and are investigated. Findings from the investigations may include corrective actions and lessons to be
+learned. Twice a year, a summary of reports made and findings from the investigations is shared with the Audit
+Committee and the EWC Executive. It is our policy to build a climate of support for our employees if concerns are
+raised, including a suspected breach of our Code of Conduct, and to ensure that there is an avenue to report concerns
+which will then be confidentially investigated.
+82
+Non-financial and sustainability information statement (NFSI) continued
+Contents
+
+## Page 85
+
+Statement of approval
+This Strategic Report, on pages 1 to 83 , was approved by the Board of Directors on 20 June 2024 and is signed on its behalf by
+Miles Roberts
+Group Chief Executive
+20 June 2024
+Climate disclosures index
+For this 2024 Annual Report, we have voluntarily enhanced our required Task Force on Climate-related Financial Disclosures (TCFD) reporting
+with reference to the IFRS S2 ‘Climate-related Disclosures’ standard. Accompanying IFRS S1 ‘General Requirements for the Disclosure of
+Sustainability-related Financial Information’ disclosures can be located on pages 30 to 37. A complete set of disclosures prepared with
+reference to the UK Transition Plan Taskforce guidance can be located in our standalone Net Zero Transition Plan, which can be obtained from
+the ESG Reporting Hub on the DS Smith website.
+Task Force on Climate-related Financial Disclosures (TCFD)
+International Sustainability Standards Board (ISSB)
+IFRS S2 Climate-related Disclosures
+UK Transition Plan Taskforce (UK TPT)
+Location
+Governance
+Describe the Board’s oversight of
+climate-related risks and opportunities
+Governance, Governance body(s)
+Accountability, Governance,
+Board oversight and reporting
+61
+Describe management’s role in assessing
+and managing climate-related risks
+and opportunities
+Governance, Management’s role
+Accountability, Governance,
+Management roles, responsibility,
+and accountability
+Strategy
+Describe the climate-related risks and
+opportunities the organisation has identified
+over the short, medium and long term
+Strategy, Climate-related risks
+and opportunities
+62
+Describe the impact of climate-related risks
+and opportunities on the organisation’s
+businesses, strategy and financial planning
+Strategy, Business model and value
+chain, Strategy and decision-making,
+Financial position, financial
+performance and cash flows
+Action, Implementation strategy
+Engagement strategy
+63-69
+Describe the resilience of the organisation’s
+strategy, taking into consideration different
+climate-related scenarios, including a 2°C or
+lower scenario
+Strategy,
+Climate resilience
+70-74
+Risk management
+Describe the organisation’s processes for
+identifying and assessing climate-related risks
+Describe the organisation’s processes for
+managing climate-related risks
+Risk management
+N/A
+74-75
+Describe how processes for identifying,
+assessing and managing climate-related risks
+are integrated into the organisation’s overall
+risk management
+Metrics and targets
+Describe the metrics used by the organisation
+to assess climate-related risks and
+opportunities in line with its strategy and risk
+management process
+Metrics and targets,
+Climate-related metrics
+Disclose Scope 1, Scope 2 and, if appropriate,
+Scope 3 greenhouse gas (GHG) emissions, and
+the related risks
+Metrics and targets,
+Climate-related targets
+Metrics and targets
+76-77
+Describe the targets used by the organisation
+to manage climate-related risks and
+opportunities and performance against targets
+Metrics and targets,
+Climate-related metrics
+Annual Report 2024 dssmith.com
+83
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 86
+
+Geoff Drabble
+Chair
+Appointed to the Board on 1 September 2020 as a
+Non-Executive Director and became the Chair of
+the Board and the Nomination Committee on 3
+January 2021.
+Key strengths
+• Wealth of industrial and international
+experience
+• Extensive experience of chairing boards
+Skills, experience and contribution
+Geoff’s wealth of industrial and international
+experience, including experience of sales and
+marketing, combined with his experience of
+chairing boards of listed companies and his
+awareness of both the non-executive and chief
+executive perspective, means that his skills and
+experience contribute to the Board’s practical
+understanding of good governance in action,
+balancing stakeholders’ interests across the
+range of issues considered by the Board,
+including environmental, social and governance
+(ESG) matters.
+Geoff served for 12 years as Chief Executive of
+Ashtead Group plc, the FTSE 100 industrial
+equipment rental company. He was previously an
+executive director of The Laird Group plc and held
+a number of senior management positions at
+Black & Decker. Geoff retired from being the
+Senior Independent Director at Howden Joinery
+Group Plc in May 2023. Geoff is a chartered
+accountant.
+External appointment
+Geoff is non-executive chair of Ferguson plc.
+Miles Roberts
+Group Chief Executive
+Appointed to the Board on 4 May 2010 as Group
+Chief Executive.
+Key strengths
+• Clear strategic mindset
+• Strong leadership skills
+Skills, experience and contribution
+Miles’ strong leadership skills combined with his
+clear strategic mindset, rooted in the practicality
+of his engineering and accountancy training,
+means that his skills and experience, and ability
+to identify material risks and sustainable growth
+opportunities for the Group’s business, contribute
+to the Board’s clear strategic vision. He brings to
+the Board extensive financial and operational
+experience particularly within international
+manufacturing industries.
+Following his early career in engineering,
+Miles became a chartered accountant. He was
+previously Chief Executive of McBride plc, having
+originally joined as its Group Finance Director.
+As Group Chief Executive, Miles leads the
+executive management of the Group and is
+responsible for DS Smith’s overall ESG
+performance and its clear objectives at the centre
+of our business model, taking into account the
+Board’s risk appetite. He chairs the Group’s
+Health, Safety, Environment and Sustainability
+Committee that monitors the establishment of
+goals, management of risks and opportunities,
+reporting and related governance procedures in
+that area.
+External appointment
+Miles is a non-executive director of Land
+Securities Group PLC.
+Richard Pike
+Group Finance Director
+Appointed to the Board on 30 June 2023 as Group
+Finance Director.
+Key strengths
+• Financial and general management experience
+in leadership roles in manufacturing
+• Experience in the recycling and sustainability
+sectors
+Skills, experience and contribution
+Richard’s financial and general management
+experience in leadership roles within
+manufacturing companies, together with his
+knowledge and understanding of the recycling
+and sustainability sectors and of the growing
+importance of ESG matters, play a central role
+with the Board’s discussions on the next chapter
+of growth for DS Smith.
+Before joining DS Smith, Richard was Chief
+Financial Officer of Biffa plc. Prior to that he spent
+time in the food manufacturing sector as Group
+Finance Director of AB Sugar and Managing
+Director of British Sugar (both parts of ABF plc),
+followed by being Chief Financial Officer of
+Boparan Holdings Limited. Earlier in his career
+Richard trained and qualified as a chartered
+accountant with PwC, and thereafter went on to
+hold a variety of roles at Scapa Group plc,
+Pilkington plc and Manchester Airports Group.
+External appointment
+None.
+Principal Board
+Committees key:
+A
+Audit
+Committee
+N
+Nomination
+Committee
+R
+Remuneration
+Committee
+Chair
+N
+R
+N
+Board of Directors
+84
+Contents
+
+## Page 87
+
+Tessa Bamford
+Non-Executive Director
+Appointed to the Board on 1 January 2024 as a
+Non-Executive Director.
+Key strengths
+• Experience of senior executive recruitment
+and succession planning
+• Online and corporate communications, with a
+background in M&A
+Skills, experience and contribution
+Tessa’s extensive experience in the fields of
+leadership advice and recruitment,
+communications and investment banking,
+contributes further to the Board’s discussions.
+Tessa joined the Board following her retirement
+from Spencer Stuart, a global leadership search
+and advisory firm, where she led the UK Board
+and CEO practice, working with clients in the UK
+and internationally. Tessa previously held
+non-executive director roles at Ferguson plc for
+ten years and at Barratt Developments plc for
+nine years. Prior to joining Spencer Stuart,
+Tessa was a founding director of Cantos
+Communications, an online corporate
+communications company where she also
+managed many of its largest client accounts.
+Her earlier career was as an investment banker
+for 18 years, which started at BZW, then
+Schroders, latterly as a managing director in
+which she worked in both the UK and US advising
+companies on equity capital markets and M&A.
+External appointment
+None.
+Celia Baxter
+Non-Executive Director
+Appointed to the Board on 9 October 2019 as a
+Non-Executive Director and Chair of the
+Remuneration Committee.
+Key strengths
+• Extensive HR experience and ESG knowledge
+and experience
+• Board experience in non-UK listed companies
+Skills, experience and contribution
+Celia’s background of working in a range of
+sectors, including manufacturing, means that,
+as well as her experience as a remuneration
+committee chair and her understanding of
+employee dynamics and ESG issues, she brings
+extensive and practical business knowledge to
+the Board.
+Celia was Director of Group HR and responsible
+for all ESG activities at Bunzl plc for 13 years.
+Her early executive career was with Ford Motor
+Company and KPMG. She has held HR positions
+with Hays plc, Enterprise Oil Plc and Tate & Lyle
+Plc. As a non-executive director she was on the
+board of NV Bekaert SA until May 2020 and on
+the board of RHI Magnesita N.V. until June 2021
+and retired as Senior Independent Director and
+the remuneration committee chair at Senior plc in
+April 2023.
+External appointments
+Celia is the senior independent director and
+remuneration committee chair of Dowlais Group
+plc and non-executive director of discoverIE
+Group plc.
+Alan Johnson CMG
+Non-Executive Director
+Appointed to the Board on 1 June 2022 as a
+Non-Executive Director.
+Key strengths
+• Strong financial background in the FMCG sector
+• Extensive international experience
+Skills, experience and contribution
+Alan’s extensive financial and international
+experience working within the consumer goods
+and retail sectors and his experience of chairing
+international accountancy bodies brings a range
+of important different perspectives to contribute
+to the Board’s discussions.
+Alan has been President and Chair of the Board of
+the International Federation of Accountants and
+chaired the audit committee of the International
+Valuation Standards Council. Alan held a number
+of senior finance positions at Unilever during a
+30-year career, including Chief Audit Executive
+and Chief Financial Officer of the Global Foods
+Division. He was previously Chief Financial Officer
+and then a non-executive director at food retailer
+Jerónimo Martins, SGPS, SA until April 2016.
+External appointments
+Alan is a non-executive director of Imperial
+Brands plc and William Grant & Sons Holdings
+Limited, where he also chairs the audit
+committee, and is the Chair of the Stakeholder
+Advisory Council, which will provide strategic
+advice to the International Ethics Standards
+Board for Accountants and the International
+Auditing and Assurance Standards Board.
+A
+N
+R
+A
+A
+N
+N
+R
+R
+Annual Report 2024 dssmith.com
+85
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 88
+
+Alina Kessel
+Non-Executive Director
+Appointed to the Board on 1 May 2020 as a
+Non-Executive Director.
+Key strengths
+• Broad and wide-ranging marketing experience
+• International outlook
+Skills, experience and contribution
+Alina’s experience of living, as well as working, in
+a number of different countries, including the US,
+combined with her expertise in marketing and
+communications means that her skills and
+experience contribute an additional perspective
+to the Board’s discussions, particularly when
+considering the interests of employees (based in
+over 30 countries) and our global customers and
+discussing how to communicate key non-financial
+aspects of our business.
+She has over 25 years of experience building
+global brands for large multinational clients,
+helping them grow their business through
+communications, experience, commerce and
+technology. Her current role with WPP includes
+working with global clients on their sustainability
+agenda. Originally from Ukraine and a US national,
+Alina has lived and worked in the UK, US, Australia
+and Germany.
+External appointment
+Alina is a Global Client Leader at WPP, a leading
+international marketing communications
+company.
+Eric Olsen
+Non-Executive Director
+Appointed to the Board as a Non-Executive
+Director on 15 May 2023.
+Key strengths
+• Knowledge of manufacturing operations
+• Experience in leading multinational listed
+entities
+Skills, experience and contribution
+Eric’s extensive experience in the fields of
+finance, human resources, strategy, operations
+and global leadership deepens the range of
+perspectives brought to the Board’s discussions.
+Eric is a Certified Public Accountant (CPA), holding
+a Master of Business Administration from HEC
+international business school in Paris. Eric was
+the CEO of Aliaxis SA from 2020 to 30 April 2024
+and CEO of LafargeHolcim from 2015 to 2017.
+Prior to that he also held a number of other roles
+within the Lafarge Group, including as EVP
+Organisation and Human Resources and EVP in
+charge of Operations. Eric started his career in the
+field of M&A at Deloitte & Touche and Banque
+Paribas and was one of the managing partners of
+Trinity Associates for six years. Eric has dual
+American and French nationalities.
+External appointments
+Eric is a board member of Fortera Inc, member of
+the Technical and Strategic Advisory Committee
+of Breakthrough Energy Ventures Europe and a
+corporate advisor for Temasek Holdings Inc.
+David Robbie
+Senior Independent Director
+Appointed to the Board as a Non-Executive
+Director on 11 April 2019 and became Chair of
+the Audit Committee at the conclusion of the
+2019 AGM. He was appointed Senior
+Independent Director on 28 February 2022.
+Key strengths
+• Strong financial, risk management and
+corporate finance experience
+• International and strategic mindset
+Skills, experience and contribution
+David’s strong financial, risk management
+and corporate finance experience combined
+with his international and strategic mindset
+and practical governance experience with 25
+years serving as a director on FTSE boards
+means that his skills and experience add
+depth to the Board’s discussions in these
+areas.
+David was the Interim Chairman, Senior
+Independent Director and chair of the audit
+committee at FirstGroup plc until June 2021.
+He was previously Finance Director of Rexam
+PLC. Prior to his role at Rexam, David served
+in senior finance roles at BTR plc before
+becoming Group Finance Director at CMG plc
+in 2000 and then Chief Financial Officer at
+Royal P&O Nedloyd N.V. in 2004. He served
+as a non-executive director of the BBC
+between 2006 and 2010 and as chair of their
+audit committee. David qualified as a
+chartered accountant at KPMG.
+External appointment
+David is a non-executive director and audit
+committee chair of easyJet plc.
+Principal Board
+Committees key:
+A
+Audit
+Committee
+N
+Nomination
+Committee
+R
+Remuneration
+Committee
+Chair
+A
+A
+A
+N
+N
+N
+R
+R
+R
+86
+Board of Directors continued
+Contents
+
+## Page 89
+
+Louise Smalley
+Non-Executive Director
+Appointed to the Board on 23 June 2014 as a
+Non-Executive Director. It was announced in June
+2024 that Louise will retire from the Board with
+effect from the conclusion of the 2024 AGM.
+Key strengths
+• Strong HR experience
+• Extensive knowledge of people management,
+rewards and remuneration schemes
+Skills, experience and contribution
+Louise’s recent experience as a serving listed
+company executive director, combined with her
+extensive knowledge of progressive people
+management practices in multi-site large-scale
+businesses, means that her skill and experience
+contribute to the Board’s focus on the importance
+of enabling everyone who works for the Group,
+whatever their background, to realise their
+potential.
+She was Group Human Resources Director of
+Whitbread PLC and, for nine years until August
+2021, an executive director of Whitbread PLC,
+where she held several key transformation and
+HR roles. She previously worked as a HR
+professional in the oil industry, with BP and Esso
+Petroleum. Louise is an alumna of the Cambridge
+Institute for Sustainability Leadership and has
+experience of leading timely evolutions of
+sustainability strategies.
+External appointments
+Louise is a non-executive director and
+remuneration committee chair of Informa PLC
+and a non-executive director and remuneration
+committee chair of A.G. BARR p.l.c.
+Iain Simm
+Group General Counsel and Company
+Secretary
+Appointed Group General Counsel and Company
+Secretary on 6 June 2016.
+Key strengths
+• Legal expertise
+• Wealth of experience in assisting boards with
+legal and governance matters
+Skills, experience and contribution
+Iain’s experience as general counsel and company
+secretary in listed entities operating on a
+multi-jurisdictional basis means that the Board
+benefits from his advice on governance and
+compliance matters as well as advice on complex
+legal issues.
+Iain has previously held General Counsel and
+Company Secretary roles with Signature Aviation
+plc and P&O Ports Ltd. He undertook his legal
+training with Slaughter and May and worked for a
+number of years in their corporate and
+commercial department.
+External appointment
+None.
+A
+N
+R
+Annual Report 2024 dssmith.com
+87
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 90
+
+Introduction
+This section of the Annual Report focuses on corporate governance.
+Having a structured corporate governance framework enables the
+right information to be brought before the right people at the right
+time to make informed decisions, which in turn strengthens the
+Group’s decision-making processes and supports the Board’s key focus
+on delivering the Group’s strategy for the benefit of our shareholders
+and taking into account the interests of all our stakeholders.
+Your Board understands that good corporate governance is an
+essential element in helping to build a successful business in a
+sustainable manner.
+Chair’s introduction to governance
+Division of responsibilities
+My role as Chair is to lead the Board and be responsible for its overall
+effectiveness in directing the Company. It is important that each
+member of the Board is clear about their responsibilities and that each
+member of the Board is able to contribute fully to all aspects of the
+discussions we have as a Board.
+The approval of certain Group policies (including some of those listed
+in the Non-Financial and Sustainability Information Statement on
+pages 80 to 83) is one of the matters reserved to the Board and is one
+of the ways we, as a Board, have oversight of longer-term aspects of
+the Group’s operations, including our leadership on sustainability
+matters and our progress in addressing climate-related issues.
+Succession planning
+As a Board, and when we meet as the Nomination Committee, we
+regularly discuss senior leadership succession, as we recognise that
+non-financial resources and the manner in which we deliver our
+strategy are as important as financial resources and the strategic
+content of our Corporate Plan. For simplicity of presentation,
+information about this crucial topic, including the announcement in
+December 2023 of Miles’ retirement, is set out in the Nomination
+Committee Report.
+88
+Contents
+
+## Page 91
+
+Balancing stakeholders’ interests
+Each Board pack for Board meetings includes a reminder of each
+Director’s duties under section 172 of the Companies Act 2006. That
+frames our deliberations at meetings in the context of a reminder that
+every Director must act in the way they consider, in good faith, would
+be most likely to promote the success of the Company for the benefit
+of its members as a whole, while thinking about the likely
+consequences of any decision in the long term, the interests of the
+Company’s employees, the need to foster the Company’s business
+relationships with suppliers, customers and others, the impact of the
+Company’s operations on the community and the environment, the
+desirability of the Company maintaining a reputation for high
+standards of business conduct, and the need to act fairly as between
+the members of the Company.
+The principal decisions that the Board takes can be divided into two
+categories: there are decisions taken relating to matters considered
+each year (such as approving the Corporate Plan, the budget and the
+Annual Report, or considering the level of dividend payment to
+propose) and there are decisions that relate to a new project or an
+identified inflection point, when a new direction is to be taken.
+An important continuing project in 2023/24, that the Board has been
+regularly briefed on, has been the further development of the Group’s
+Net Zero Transition Plan for achieving its 1.5°C validated science-
+based target. Progression of the project roadmap has included
+challenging the best-cost solutions and the deployment of significant
+transition projects, such as the biomass boiler at Rouen Mill (replacing
+coal) and waste-to-energy facility at Aschaffenburg Mill (replacing
+natural gas). Further feasibility investigations have been conducted
+relating to solar and heat pumps, renewable electricity sourcing and
+energy efficiency opportunities, prioritising the greatest emission
+sources. Over 30 strategic suppliers have been engaged in 2023/24 to
+set their own science-based targets and deliver emissions reductions.
+The Board has been pleased to note that these initiatives aim to
+contribute to the near-term 2030 target to reduce Scope 1, 2 and 3
+greenhouse gas emissions 46 per cent by 2030 compared to 2019, as
+part of reaching the long-term 2050 target of Net Zero greenhouse
+gas emissions.
+In addition to the regulatory requirement to include a statement about section 172 of the Companies Act 2006 in the Strategic Report
+(which is on page 5), there is also a requirement to make a statement about the Company’s engagement with the wider UK workforce and
+with suppliers and customers. The methods of engagement in the UK and outside the UK are broadly the same, so we have cross-
+referenced below, not repeated, our disclosures on these matters.
+Statement about the Company’s engagement with the wider UK workforce
+More detail about how we realise the potential of our people by engaging with our wider workforce (a term that is wider than the term
+employees, who are those employed directly by the Group under contracts of service) wherever they are based (not just those based in
+the UK) is set out on pages 26 to 29 of the Strategic Report.
+Statement about the Company’s engagement with suppliers and customers
+More detail about how we engage with our customers and the importance of sustainability throughout our supply chain is set out on
+pages 24 and 25 and 30 to 37 of the Strategic Report.
+In April 2024 the Board announced its recommendation of an all-share
+combination of International Paper Company and the Company, a
+combination that would be expected to strengthen the customer
+value proposition, combine the expertise of both management teams
+to accelerate innovative sustainable solutions and products for all
+customers and create new opportunities for employees.
+As your Chair I look forward to both supporting and challenging the
+executive team as we realise our Purpose of ‘Redefining Packaging for
+a Changing World’.
+Geoff Drabble
+Chair
+20 June 2024
+Annual Report 2024 dssmith.com
+89
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 92
+
+Division of responsibilities
+The Board
+The Board is collectively responsible
+for the long-term success of the
+Group and for ensuring leadership
+within a framework of effective
+controls. The key roles of the Board
+are:
+• Setting the strategic direction of
+the Group
+• Overseeing implementation of the
+strategy by ensuring that the
+Group is suitably resourced to
+achieve its strategic aspirations
+• Providing entrepreneurial
+leadership within a framework of
+prudent and effective controls
+which enables risk to be assessed
+and managed
+• Ensuring that the necessary
+financial and human resources are
+in place for the Group to meet its
+objectives
+• Setting the Group’s values.
+Chair
+• Primarily responsible for overall
+operation, leadership and
+governance of the Board.
+• Leads the Board, sets the agenda
+and promotes a culture of open
+debate between Executive and
+Non-Executive Directors.
+• Regularly meets with the Group
+Chief Executive and other senior
+management to stay informed.
+• Ensures effective communication
+with our shareholders.
+Senior Independent
+Director
+• Provides a sounding board to the
+Chair and appraises his
+performance.
+• Acts as intermediary for other
+Directors, if needed.
+• Available to respond to
+shareholder concerns if contacted.
+Division of responsibilities of the Board
+Group Chief Executive
+• Responsible for executive
+management of the Group as a
+whole.
+• Delivers strategic and commercial
+objectives within the Board’s
+stated risk appetite.
+• Builds positive relationships with
+all the Group’s stakeholders.
+Non-Executive Directors
+• Constructively challenge and help
+develop proposals on strategy.
+• Scrutinise the performance of
+management.
+• Review performance of the
+business.
+Board and Board Committee meetings attendance
+
+Board
+Nomination
+Committee
+Audit
+Committee
+Remuneration
+Committee
+Total number of meetings in 2023/24
+7
+5
+4
+5
+Executive Directors
+Miles Roberts
+7/7
+5/5
+n/a
+n/a
+Richard Pike – joined the Board on 30 June 2023
+6/6
+n/a
+n/a
+n/a
+Adrian Marsh – retired from the Board on 30 June 2023
+1/1
+n/a
+n/a
+n/a
+Non-Executive Directors
+Geoff Drabble
+7/7
+5/5
+n/a
+5/5
+Tessa Bamford – joined the Board on 1 January 2024
+2/3
+2/2
+1/1
+1/2
+Celia Baxter
+7/7
+5/5
+4/4
+5/5
+Alan Johnson
+7/7
+5/5
+4/4
+5/5
+Alina Kessel
+7/7
+5/5
+4/4
+5/5
+Eric Olsen – joined the Board on 15 May 2023
+6/7
+4/5
+3/4
+3/5
+David Robbie
+7/7
+5/5
+4/4
+5/5
+Louise Smalley
+6/7
+4/5
+4/4
+5/5
+In addition to the seven scheduled Board meetings there were a number of ad hoc meetings called to discuss matters that the Chair and Group Chief Executive
+decided should be considered by the Board. All Directors received papers in advance of meetings and had the opportunity to comment in advance if they were unable
+to attend some or all of a meeting.
+The Chair also holds meetings with the Non-Executive Directors without the Executive Directors present.
+90
+Contents
+
+## Page 93
+
+Disclosure Committee
+which oversees the Company’s compliance with
+its disclosure obligations.
+Group Health, Safety,
+Environment and
+Sustainability Committee
+Meets monthly
+Oversees the management
+processes, targets and
+strategies designed to manage
+health and safety and
+environmental and sustainability
+risks and opportunities, including
+reviewing performance on
+climate-related issues and the
+Group’s health and safety and
+environmental and sustainability
+responsibilities and
+commitments.
+Group Operating
+Committee
+Meets monthly
+Considers Group-wide initiatives
+and priorities. Reviews the
+implementation of operational
+plans. Reviews changes to
+policies and procedures and
+facilitates the discussion of the
+development of new projects.
+Group Strategy
+Committee
+Meets once every two
+months
+Plans the business strategy
+implementation as approved by
+the Board and set out by the
+annual Corporate Plan process.
+The Corporate Plan is used to
+develop the Group’s strategy,
+based on the set strategic
+direction. The Corporate Plan’s
+focus is primarily on strategic
+actions, supported by high level
+financial information. It covers a
+three-year time horizon and is
+reviewed annually by the Board.
+General Purposes Committee
+which facilitates efficient operational
+management decision-making in relation to day
+to day financing and administrative matters.
+Group Compliance Committee
+Meets quarterly
+Oversees compliance with all legal, regulatory
+and organisational requirements including the
+effective interface between the financial, legal,
+risk and internal audit functions, reporting back
+to both the Group Operating Committee and the
+Audit Committee.
+Group M&A Committee
+Meets as required
+Considers potential acquisitions and disposals
+and other related aspects that may impact the
+realisation of the Corporate Plan.
+Share Scheme Committee
+which facilitates administrative matters in
+relation to the Group’s share schemes.
+Management committees
+Four management committees, chaired by the Group Chief Executive, and the Group Compliance Committee also support the work of the
+Board and its principal Committees.
+Board’s principal Committees
+Remuneration Committee
+• Recommends the policy for the
+remuneration of the Chair, the Executive
+Directors, the Company Secretary and
+senior executives, in alignment with the
+Group’s reward principles.
+• Considers remuneration of the wider
+workforce when setting remuneration of
+the Chair, the Executive Directors, the
+Company Secretary and senior executives
+and reviews related policies and
+alignment of incentives and rewards with
+culture, to help inform setting of the
+Remuneration policy.
+• Considers the business strategy of the
+Group and how the Remuneration policy
+reflects and supports that strategy.
+Audit Committee
+• Monitors the integrity of the Group’s
+reporting process and financial
+management, its accounting processes
+and audits (internal and external).
+• Ensures that risks are carefully identified
+and assessed and that sound systems of
+risk management and internal control are
+in place.
+• Oversees fraud prevention arrangements
+and reports received under the ‘Speak Up!’
+policy.
+For more information see page 100
+Nomination Committee
+• Reviews the structure, size and
+composition of the Board and its
+Committees.
+• Identifies and recommends suitable
+candidates to be appointed to the Board
+and reviews the wider senior
+management talent pool.
+• Considers wider elements of succession
+planning below Board level, including
+diversity.
+For more information see page 95
+For more information see page 106
+Board’s standing sub-committees
+In addition to the three principal Committees of the Board there are three further standing sub-committees of the Board.
+Annual Report 2024 dssmith.com
+91
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 94
+
+Corporate governance in action
+The governance section of the Annual Report outlines how we have
+applied the main principles of the 2018 UK Corporate Governance
+Code (Code). The Code is published by the Financial Reporting Council
+(FRC) and available at www.frc.org.uk.
+Corporate governance in context
+Our compliance with the UK Corporate
+Governance Code’s five sections
+1
+Board leadership and Company Purpose
+Your Board rigorously challenges strategy, assesses performance and
+balances the interests of all our stakeholders to ensure that every
+decision we make is of the highest quality.
+The regulatory requirement is to include in the Strategic Report a
+statement about the Directors’ compliance with section 172 of the
+Companies Act 2006, which includes taking into account the interests
+of a variety of stakeholders. This is on page 5.
+s172
+We use this symbol in the governance section of the Annual
+Report to highlight examples that illustrate aspects of
+that statement.
+The Directors’ biographies on pages 84 to 87 summarise what each
+Board member contributes to the governance of the Company and
+its long-term success. The Chair’s introduction to governance puts
+DS Smith’s approach to matters of corporate governance into our
+DS Smith context and links to the topics covered in section 1 of
+the Code, as we explain in this governance section how we have
+applied aspects of Code principles A to E and how we have put the
+related provisions of the Code into practice.
+From page 93
+2
+Division of responsibilities
+Your Board and its Directors, both Executive and Non-Executive,
+operate within a clear framework of roles and responsibilities. One of
+the roles of Non-Executive Directors is to broaden the diversity of
+viewpoints shared in the boardroom discussion, drawing on the full
+range of their experience in other industries and other countries,
+while considering a range of other stakeholders’ perspectives.
+We explain how we have applied aspects of Code principles F to I and
+how we have put the related provisions of section 2 of the Code into
+practice in the section on division of responsibilities and in the
+Nomination Committee Report, where we also have more information
+about the independence of Directors.
+From page 90
+3
+Composition, succession and evaluation
+Your Board scrutinises the effectiveness of its performance in an
+annual Board performance review and evaluates the balance of skills,
+experience, knowledge and independence of the Directors. That then
+informs the succession planning process, which also takes into
+account the contribution made by having a diversity of backgrounds
+(whether of gender, of social or ethnic backgrounds, or of the less
+immediately visible cognitive differences). All new Directors receive a
+tailored induction programme, which builds on their personal
+experience and ensures that appointments can be made from a wider
+pool of talent than one limited to only those with previous experience
+of holding a directorship with a UK listed company.
+The Nomination Committee Report and the paragraphs on Board
+review in practice within the Board leadership section explain how we
+have applied aspects of Code principles J to L and how we have put the
+provisions of section 3 of the Code into practice.
+From page 95
+4
+Audit, risk and internal control
+All your Board’s decisions are discussed within the context of the risks
+involved. Effective risk management, set in the context of a well-
+structured internal control framework, is central to achieving our
+strategic objectives, particularly as we balance the, sometimes
+conflicting, interests of our stakeholders.
+The audit, risk and internal control section and the Audit Committee
+Report explain how we have applied aspects of Code principles M, N
+and O in section 4 of the Code and how we have put the provisions of
+that section into practice, firstly through matters that come before
+the full Board and secondly through the detailed work of the Audit
+Committee. Further information about our principal and emerging
+risks, as well as our viability and going concern statements, is in the
+risk section on pages 49 to 59.
+From page 98
+5
+Remuneration
+Our Remuneration policy, which was approved at the 2023 AGM, is
+designed to support our long-term strategy and to promote long-term
+sustainable success. It is aligned to our Purpose of ‘Redefining
+Packaging for a Changing World’.
+The remuneration sections of this report explain how we have applied
+aspects of principles P, Q and R in section 5 of the Code and how we
+have put the provisions of that section into practice, as well as how
+we have complied with regulatory requirements in relation to
+remuneration matters.
+From page 106
+All relevant provisions of the Code have been complied with
+throughout the year ended 30 April 2024. The Board has been briefed
+on the provisions of the revised UK Corporate Governance Code that
+was published in 2024 by the FRC and has oversight of appropriate
+preparations being made ahead of that coming into force in 2025
+and 2026.
+92
+Contents
+
+## Page 95
+
+Board leadership and Company Purpose
+Board leadership in action
+The Code provides that a board should establish a company’s purpose
+and values as well as its strategy and that its directors should lead by
+example and promote the desired culture.
+The Code highlights the importance of effective engagement with
+shareholders and other stakeholders. The Group’s key stakeholders
+and their differing perspectives are identified and taken into account,
+not only as part of the Board’s annual strategy and corporate planning
+discussions, but also in our project assessments and in other
+Board conversations.
+Health and safety is always a key item on the Board’s agenda and the
+Board was pleased to hear that the Group-wide lost time accident
+frequency rate has fallen again, to a new low of 1.65.
+Delivery of our Corporate Plan will be driven by our continuing
+progress in sustainability and circularity, innovation, digital and
+data and organic growth. The Board is regularly briefed about our
+progress in delivering against each of these. Each element has a key
+role in the realisation of our Purpose of ‘Redefining Packaging for a
+Changing World’.
+The Board understands that the Group has a role as an employer and
+as a taxpayer, as well as a member of the wider communities in which
+our sites are based and as a key link in the supply chains through
+which so many goods pass, and that these roles are broader than the
+more traditional single role of a corporate entity reporting on its
+financial results to its shareholders. The balancing of the differing
+perspectives of all our key stakeholders is a recurrent theme in our
+Board’s conversations.
+All discussions, assessments and conversations focus not only on
+delivering increased value for shareholders, but also assess the
+impacts of our decisions and strategies on the Group’s wider
+stakeholders. (The concerns of, and our response to, our stakeholders
+are summarised on pages 22 and 23.) The Board recognises the
+importance of regular, open and constructive dialogue with
+shareholders and other stakeholders and this has long been a key
+aspect of our culture and of our decision-making.
+Engagement with our shareholders
+The Group’s Investor Relations team coordinates an ongoing
+programme of communication and engagement with shareholders
+and analysts throughout the year, and the Board receives regular
+updates on the views of the Group’s shareholders from our internal
+team and also from the Company’s brokers, so all Board members have
+a clear understanding of the views of the shareholders. Celia Baxter,
+as Chair of the Remuneration Committee, leads the engagement with
+shareholders when we have remuneration matters to discuss.
+Each year some institutional investors (and other interested bodies)
+issue materials concerning their expectations of companies. These
+are summarised for, and considered by, the Board and these also
+inform the comments that Board members make on the working
+drafts of the Annual Report that they review, prior to its final approval
+and publication.
+Engagement with our workforce
+Our engagement with our workforce makes use of the well-
+established European Works Council (EWC) structure.
+EWC representatives meet regularly with our Group Chief Executive
+and members of our Group HR team to discuss a wide range of topics.
+While health and safety, Group performance and sustainable
+employment are always on the agenda for these discussions, topics
+during 2023/24 have also included discussions about employee
+engagement surveys, ageing workforce, performance and
+development reviews and heat stress minimum standards. This has
+allowed us to share insights and gain quality feedback from
+employees, working collaboratively to bring in changes that benefit
+employees and enhance the working environment.
+Members of management continued to attend EWC meetings
+throughout the year, held virtually on a platform that enables live
+translation. Again this year an EWC representative joined a meeting
+of the Remuneration Committee to support and inform discussions
+about both executive remuneration and the remuneration of the
+wider workforce, as well as to reflect on some of the topics discussed
+when Celia Baxter, the Chair of our Remuneration Committee,
+met with the EWC Executive earlier in 2024. All these meetings
+build further on the dialogue started in 2020.
+The regular schedule of reporting to the Nomination Committee
+includes the review of employee talent, development and succession
+plans as well as insight into the progress made on diversity, equity and
+inclusion and updates on the growing range of active networks, such
+as the gender diversity, disability and allies, culture and ethnicity, and
+LGBTQ+ and allies networks. All these activities ensure that the voice
+of our workforce is heard regularly in the boardroom and provide
+richer context for the Board’s decision-making.
+Engagement with our suppliers, customers and
+other stakeholders
+The business relationships with our suppliers, customers and other
+stakeholders, such as regulators and non-governmental
+organisations, are matters which the Group Chief Executive covers
+in his regular reports to the Board. The Board appreciates the
+continuing work being done by the procurement function that
+strengthens existing relationships with suppliers so that supplies
+flow, even in times of shortage or supply chain stress.
+The most recent update to the Board on sales, marketing and
+innovation highlighted the well-balanced customer portfolio, across a
+wide range of accounts, supported by a strategic marketing function
+and digital marketing strategy, with a focus on sustainability
+performance. This update built upon and illustrated some of the key
+themes and projects that the Board had experienced at first hand
+during its March 2024 visit to the Group’s Global R&D and Innovation
+Centre (which focuses on early-stage design and prototyping work)
+based in Redditch, UK.
+s172
+s172
+s172
+s172
+s172
+s172
+s172
+s172
+s172
+Annual Report 2024 dssmith.com
+93
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 96
+
+Complementing the regular briefings from operational and functional
+management about Group-specific matters (such as reports from our
+Corporate Affairs director on progress made during the year on our
+programme of wider engagement in the community and the report to
+each Board meeting on health and safety), the Board also has a
+programme of briefings both from internal specialists (on such topics
+as the Packaging and Packaging Waste Regulation in the EU and its
+implications for the Group) and from the Group’s external advisers on a
+range of topics, including cyber security, and the wider views of the
+market, and of institutional shareholders in particular, on the Group.
+This enables current and future plans to be set in the wider context of
+the broader environment. This covers not just topics that are currently
+visible, but emerging areas of interest and concern across a diverse
+range of fields.
+Our engagement with the local communities of which our sites and
+employees are a part has been a developing area of focus in recent
+years. The Board has been briefed on recent examples such the beach
+clean in Portugal undertaken by colleagues from the Ferreira a Nova
+depot and the ‘Let’s Go Circular!’ lesson plan presented to 23
+elementary schools in Arnstadt, Germany.
+Board engagement through site visits
+Board site visits are an important way in which Board members can
+engage with our employees, assess and monitor culture, and
+understand more about our customers and suppliers. In visiting the
+Group’s sites, the Board has an opportunity to put into context, and
+learn at first hand about, the Group’s day to day operations, as well as
+being able to engage with and challenge a wider group of
+management. Site visits also enable the Board to witness the Group’s
+culture at first hand. This year the Board has visited both the Group’s
+newly built packaging facility at Castelfranco in Italy and its new
+Global R&D and Innovation Centre based at Redditch in the UK.
+A comprehensive health and safety report is provided to each Board
+meeting. This report includes the total number of near misses and
+safety observations, key markers of employee engagement and
+involvement in observing and reporting positive practices and
+recognising health and safety hazards. The level of engagement is
+seen as a reflection of the culture and health and safety leadership at
+a site. In 2023/24 the health and safety engagement index was 29.8,
+a 39 per cent increase compared to the previous year, demonstrating
+the increasing levels of engagement achieved through the application
+of good management practices across all areas. This is the highest
+figure since the Group started tracking this measure in 2017.
+Board performance review in practice
+Board performance review is an iterative process. After each review
+(whether internal or external and including reviews of Committees
+and Directors), the Board sets itself objectives. Following the review
+in 2023, the Board set itself a number of objectives, including to
+maintain focus on talent and succession planning and on actions
+supporting our SBTi commitments, to consider the balance between
+short, medium and longer term in the corporate planning cycle and
+continue to develop the engagement with senior management in
+regular site visits.
+In the first part of 2024 Board members completed an internal
+questionnaire about the performance of the Board and its
+Committees, which gave structured content for each Board member’s
+individual discussions with the Chair. At that time David Robbie, as
+Senior Independent Director, met with all the Directors individually, to
+appraise the Chair’s performance and subsequently discussed this
+with him. The Directors considered the feedback from the above
+process and adopted Board objectives for 2024. Both as part of the
+Board and Committee performance review process and during the
+year, the Non-Executive Directors met without members of executive
+management being present.
+Succession and composition
+More details about succession planning are set out in the Nomination
+Committee Report.
+s172
+s172
+s172
+94
+Board leadership and Company Purpose continued
+Contents
+
+## Page 97
+
+Dear shareholders
+The Nomination Committee supports the Board on the crucial topic of
+executive and non-executive succession planning.
+Our principal objective as a Nomination Committee is to make sure the
+Board has individuals with the necessary range of skills and
+knowledge, and diversity of experiences to lead the Company and
+deliver the Group’s strategy. As a Committee we continue to focus on
+senior executive succession planning, as well as Board composition, as
+we progress towards a greater range of diversity of experiences
+across the Group’s senior leadership team. As Chair of this Committee,
+I report to the Board on the outcome of our meetings.
+Our priorities over the year were:
+• To keep under review succession planning at the Executive Director
+level and support succession planning at senior management levels.
+• To improve the diversity on the Board.
+• To monitor the Group’s progress towards increasing the relative.
+number of women in senior management positions and senior
+management diversity.
+• To keep under review our leadership needs, both executive and
+non-executive, with a view to ensuring the continued ability of
+DS Smith to compete effectively in the marketplace.
+Geoff Drabble
+Chair of Nomination Committee
+20 June 2024
+Nomination Committee Report
+Annual Report 2024 dssmith.com
+95
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 98
+
+Membership and operation of the Committee
+Member
+Since
+Geoff Drabble (Chair)
+2020
+Tessa Bamford
+2024
+Celia Baxter
+2019
+Alan Johnson
+2022
+Alina Kessel
+2020
+Eric Olsen
+2023
+Miles Roberts
+2010
+David Robbie
+2019
+Louise Smalley
+2014
+During the year, the Committee held five scheduled meetings. Details
+of individual Directors’ attendance can be found on page 90. There
+were updates between formal meetings and a number of ad hoc
+briefings and meetings to discuss items that needed to be considered
+between scheduled meetings. The Group General Counsel and
+Company Secretary acts as Secretary to the Committee.
+Board changes and composition
+Adrian Marsh retired from the Board on 30 June 2023 and Richard Pike
+replaced Adrian from that date as the Company’s Group Finance
+Director and joined the Board as an Executive Director. Eric Olsen
+joined the Board with effect from 15 May 2023 and Tessa Bamford
+joined the Board with effect from 1 January 2024. Tessa’s election as a
+Director of the Company will be put to the Annual General Meeting on
+3 September 2024 for approval. All the other Directors held office
+throughout the year under review. Their biographies, including their
+key strengths, skills, experience and contribution to the Board, are set
+out on pages 84 to 87.
+It was announced in December 2023 that Miles Roberts would be
+stepping down as Group Chief Executive no later than 30 November
+2025. It was announced in June 2024 that Louise Smalley will retire
+from the Board with effect from the conclusion of the 2024 AGM.
+Succession planning and recruitment
+The Committee keeps under regular review succession planning at the
+Executive Director level and supports succession planning at senior
+management levels, valuing the balance of continuity and
+refreshment over the medium term. The Committee’s annual rolling
+schedule of periodic agenda items includes a deep dive into senior
+talent management, talent and skillset mapping and succession
+planning, informed by a presentation given by members of the Group
+HR team.
+For each Board appointment made we follow a similar process, as the
+Board seeks to appoint an outstanding candidate, with a different
+range of experience, to maximise Board effectiveness. Shortlisted
+candidates are interviewed by a number of Executive and Non-
+Executive Directors and the Committee makes a recommendation to
+the Board.
+When we think about diversity we recognise that diversity can take
+many forms, including diversity of gender and of socio-economic and
+ethnic backgrounds, and diversity of cognitive and personal strengths,
+as well as the diversity of life experience and the role of
+intersectionality, where different characteristics overlap. We also
+recognise that diversity at Board level and throughout the Company is
+a valuable strength, bringing with it a range of perspectives.
+The mix of skills needed by Board members will change as the
+landscape in which the Group operates changes. Therefore, as we
+consider each new Board appointment, the role specification is not a
+direct replication of the role of a retiring Board member.
+When making decisions on new appointments, Board members
+consider the skills, experience and knowledge already represented
+on the Board and the alignment in terms of the culture and values of
+DS Smith. The Committee also keeps in mind the benefits of diversity,
+in all its forms, including of gender, ethnicity and life experience.
+The announcement in December 2023 that Miles Roberts would be
+stepping down as Group Chief Executive no later than 30 November
+2025 gave the Company an appropriate amount of time to identify
+and appoint Miles’ successor, a process that had begun (and was led
+by the Chair) but one that, in the light of the recommended all-share
+combination of International Paper with the Company, is not being
+progressed. Apart from assisting with recruitment, Korn Ferry has also
+provided advice to the Remuneration Committee in relation to various
+aspects of remuneration and talent assessment services to the Group.
+Korn Ferry does not have any connection with any individual
+Directors, other than Korn Ferry during 2023/24 advised the
+International Federation of Accountants on the search for its next
+chief executive officer and Alan Johnson is the chair of the
+search committee.
+Key responsibilities of the Nomination
+Committee
+As a Committee we have delegated authority from the Board to
+focus on Board and Committee composition and succession
+planning. In discharging those key responsibilities in relation to
+succession planning we also consider ways to:
+• Improve diversity in the pipeline for senior management roles
+• Further strengthen the senior management team.
+96
+Nomination Committee Report continued
+Contents
+
+## Page 99
+
+Induction, training and development programmes
+Upon appointment to the Board, Directors undertake an induction
+programme, receiving a broad range of information about the Group
+tailored to their previous experience. This includes information
+on the operational and sustainability performance and business of
+the Group and details of Group strategy, corporate governance and
+Board procedures.
+Assisted by the Group Company Secretary, the Chair has responsibility
+for Directors’ induction programmes, and also for the Board’s training
+and professional development. Directors have been given training and
+presentations during the course of the year to keep their knowledge
+current and enhance their experience. This has included topics such as
+updates on remuneration matters, on Task Force on Climate-related
+Financial Disclosures (TCFD) and associated ESG reporting and
+cyber security.
+Directors will continue to receive regular training updates from
+appropriate internal and external specialists on governance issues,
+financial and reporting standards, digital development, cyber security
+and sustainability. In addition, Directors are fully aware of their own
+responsibility for identifying and satisfying their own specific training
+requirements.
+Time commitments
+Under the Code the reasons for the Board permitting its members to
+enter into significant new external appointments should be explained
+in the Annual Report.
+As part of the process of appointing Tessa Bamford to the Board, the
+Board noted the value that the variety of her current roles will bring to
+the Group.
+The experience gained in external roles held by our Board members
+broadens and deepens the knowledge and experience of the
+Directors, which in turn benefits the Company. Directors do not take
+part in any discussion concerning their own external appointments.
+Diversity
+The Board diversity and inclusion policy applies to the Board and its
+principal Committees. The policy acknowledges the importance of
+diversity and includes an explicit requirement to take into account
+diversity when considering appointments to the Board. DS Smith
+acknowledges the importance of diversity of thought, skills and
+experience in the effective functioning of the Board and the wider
+organisation. This diversity may arise from any number of sources,
+including differences in age, gender, ethnicity, disability, sexual
+orientation, cultural and economic background and religious belief.
+Our Directors have experience of a wide range of industries and
+backgrounds, as well as of complex organisations with a global reach.
+Looking at diversity beyond the Board and across the Group, the Board
+recognises that some challenges in achieving diversity arise from
+social contexts with impacts not limited to DS Smith as a Group, but
+the Board remains committed to ensuring that all have an equal
+chance of developing their careers within our business. Currently the
+Group’s leadership populations are internationally diverse but the
+Group is aware that more needs to be done to improve the gender and
+ethnic mix and address the ageing demographic in the leadership
+population. (See pages 27 to 29 for more about our programmes to
+develop diverse leadership talent, from whom might be drawn a
+future generation of executive and non-executive directors, and to
+improve the gender balance of those in senior management and their
+direct reports.)
+Tables with numerical data reporting on gender and ethnic
+background diversity in the format required by the applicable
+regulations are set out on page 29. As at 30 April 2024 (the final day
+of the financial year, which is our chosen reference date) our Board
+was made up of four women and six men, so meeting the 40 per cent
+threshold specified by the Financial Conduct Authority. We do not
+have a woman in at least one of the specified senior board positions
+(chair, chief executive, senior independent director or chief financial
+officer). The Board is mindful of this requirement and of changing
+expectations of stakeholders. Since the appointment of Alan Johnson
+on 1 June 2022 the Board has met the Parker Review recommendation
+that each FTSE 100 board should have at least one director from a
+non-white ethnic minority background.
+Our most recently published UK gender pay gap report is available on
+our website. We know that we have a relative lack of women in
+executive management positions and that the number of women in
+senior leadership roles fluctuates, but the trend in recent years has
+been towards a better gender balance.
+Members of the Group HR team have shared updates with the
+Nomination Committee on the substantial progress made on the
+important topics of diversity, equity, inclusion and employee
+engagement and the Committee has been impressed with the
+work done, including that of creating awareness and building
+manager capability.
+Independence and re-election of Directors
+The Nomination Committee makes an assessment each year of the
+criteria set out in the Code concerning independence and the
+Committee also reviews the time commitment of Non-Executive
+Directors to assess whether each has sufficient time to discharge
+their duties. Louise Smalley was first appointed to the Board ten years
+ago in June 2014. The Board was of the view that Louise remained
+independent as she continued to exercise independent judgement.
+She provided continuity and experience of the Board’s previous
+discussions, since the other Non-Executive Directors were appointed
+much more recently, in 2019 and later. The Committee therefore
+confirms that all the Non-Executive Directors are independent and
+each has sufficient time to discharge their duties. The Committee also
+considered Geoff Drabble to be independent on his appointment to
+the Board.
+The Nomination Committee this year considered the then current
+term of appointment to the Board of Louise Smalley. Board members
+reviewed the commitment and contribution to the Board and its
+Committees of Louise, as well as the balance of her skills, knowledge
+and experience with those of the other Directors. While recognising
+that she has been in the role for ten years, it was agreed that Louise’s
+term of appointment should be renewed for a further period and that
+she will retire at the conclusion of the 2024 AGM. (Directors do not
+participate in any debate or decision about their own re-
+appointment.) The expiry date of the current term of each of the
+Non-Executive Directors is set out on page 124.
+All current Directors (other than Louise Smalley) are standing for
+re-election or, in the case of Tessa Bamford, election at the
+2024 AGM.
+Board and Committee performance review
+Information about this year’s internal performance review of the
+Board and its Committees can be found on page 94.
+Annual Report 2024 dssmith.com
+97
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 100
+
+Risk management and internal control
+The Board has overall responsibility for establishing and maintaining
+the Group’s systems of risk management and internal control
+(including financial, operational and compliance controls) and retains
+ultimate accountability for the effectiveness of the systems and
+processes implemented. The Board confirms that an annual review of
+the overall effectiveness of the Group’s system of internal controls
+has been conducted and that risk management procedures were
+implemented during the year and up to the date of approval of this
+Annual Report, including a robust assessment of the Group’s emerging
+and principal risks, summarised on pages 49 to 56. These procedures
+are complemented by annual presentations from, and challenges to,
+senior management, together with regular updates from the risk,
+governance and Internal Audit functions throughout the year.
+The systems and processes implemented are designed to identify,
+manage and, where appropriate, mitigate or eliminate significant risks
+that might affect delivery of the Group’s business objectives – there is
+an established and ongoing process for identifying, evaluating and
+managing the significant risks and uncertainties faced by the Group.
+The systems and processes of internal control are designed to provide
+reasonable, but not absolute, assurance against material
+misstatement or loss and include a process of self-certification by
+senior divisional management, confirming that their divisions have
+complied with Group policies and procedures and reporting any
+significant control weaknesses identified during the past year. In
+addition, the results of the work of the Group’s Internal Audit function
+and Group Governance team and the adherence to the risk
+identification and management processes identified above are
+reviewed. These procedures have continued to be in place throughout
+the year and up to the date of approval of this Annual Report.
+The Board also has procedures in place to ensure that its powers to
+authorise and manage conflicts are operated effectively. These
+procedures were followed throughout the year and up to the date of
+approval of this Annual Report.
+Risk management
+Our risk management framework is set out in the Group’s Risk policy.
+Those processes remained robust during the year, supporting
+management in identifying changes in the profile of our principal risks.
+Management and employees have continued to manage the day to
+day risks that the Group faces and have been able to adapt and to plan
+responses to these changing situations. Our risk reviews, embedded
+within our strategic planning process, support effective management
+of the Group’s principal risks and uncertainties and inform the regular
+updates on specific risk areas that are brought for discussion and
+review at the Audit Committee.
+The Board discusses regularly the Group’s cyber security programme,
+as well as benefiting from presentations from external cyber advisers.
+Cyber security is also discussed by senior executive management at
+the Group Operating Committee meetings, along with other aspects of
+IT infrastructure and security controls.
+The Audit Committee has kept up to date with risk developments
+throughout the year with in-depth discussion of the Group’s principal
+risks and mitigation efforts and has noted the way in which our
+divisions and Group functions have continued to demonstrate
+resilience and revise risk mitigation remedies in their plans where
+appropriate.
+The Group Compliance Committee has continued to meet regularly
+and to expand its oversight of the business. Recent topics have
+included extended producer responsibility policy in the UK and
+compliance with the new EU Deforestation Regulation.
+Further details on the Group’s risk management and mitigation
+approach for each principal risk, including its emerging risks reporting,
+are set out in the risk management section on pages 49 to 56 and the
+Group’s viability statement on pages 57 and 58. Our Task Force on
+Climate-related Financial Disclosures are set out on pages 60 to 77.
+Emerging risks are reported on as part of the risk management
+reviews. Integrating them into the reporting processes supports the
+Board in maintaining a clear overview, taking account of the
+increasing ESG disclosure requirements and the effect of
+macroeconomic uncertainty.
+Audit, risk and internal control
+98
+Contents
+
+## Page 101
+
+Internal control
+The Board determines the objectives and broad policies of the Group
+and has a set schedule of matters which are required to be brought to
+it for decision. Overall management of the Group’s risk appetite, its
+tolerance of risk and discussion of key aspects of execution of the
+Group’s strategy remain the responsibility of the Board. The Board has
+delegated to the Audit Committee the responsibility for establishing a
+system of internal controls and framework appropriate to the
+business environments in which the Group operates. Key elements of
+this system include:
+• A clearly defined divisional organisation structure for monitoring
+the conduct and operations of individual business units
+• Clear delegation of authority throughout the Group, starting with
+the matters reserved for the Board.
+• A formal process for ensuring that key risks affecting operations
+across the Group are identified and assessed on a regular basis,
+together with the controls in place to mitigate those risks. Risk
+consideration is embedded in decision-making processes at all
+levels with input from risk specialists where appropriate, and the
+most significant risks are periodically reviewed by the Board. The
+risk process is reviewed by the Audit Committee.
+• Control policies and procedures in functions including finance, tax,
+IT, HR, procurement and legal, are reviewed and updated as
+appropriate and supplemented by mandatory training and the
+Group’s communications strategy.
+• Assurance processes over the internal financial control
+environment such as annual control self-assessments and ongoing
+divisional control review programmes.
+• The preparation and review of comprehensive annual divisional and
+Group budgets; and an annual review and approval by the Board of
+the three-year Corporate Plan.
+• The monthly reporting of actual results using the Group
+consolidation system and their review against budget, forecasts
+and the previous year, with explanations obtained for all significant
+variances.
+• The operating framework which outlines key control procedures
+and policies to apply throughout the Group. This includes clearly
+defined policies and escalating authorisation levels for capital
+expenditure and investment, with larger capital projects,
+acquisitions and disposals requiring Board approval. This framework
+is kept under periodic review.
+• Regular formal meetings between the Group Chief Executive,
+the Group Finance Director and divisional management to discuss
+strategic, operational and financial issues.
+• Communicating key corporate values through our Code of Conduct
+and associated policies to all employees to ensure relevant staff are
+properly trained and equipped to exercise management oversight
+and control.
+The Group Governance team is a centrally-led function that maintains
+and develops the internal control framework, provides support and
+training to the business in complying with that framework and
+provides assurance to management about compliance with the
+framework through a site and risk-based work programme. As the
+second line of defence, an important part of this function’s role is to
+support the business in development of remediation plans and
+corrective actions for control weaknesses identified through the
+governance and compliance work programme, or through Group
+Internal Audit’s activities. During the year, the team has been
+developing the Group’s response to the anticipated changes in the UK
+Corporate Governance Code and to the actual changes when they
+became known on issuance of the Code in January 2024. The internal
+control framework is a key element in the mitigation of the risk of
+fraud.
+Internal Audit
+The Internal Audit function is an in-house function that provides the
+third line of defence. It operates under a charter approved by the
+Audit Committee which sets out the purpose, scope and authority of
+the function to deliver the Internal Audit plan.
+The Internal Audit function’s remit is to provide independent
+assurance to measure the success of the organisation at managing
+risk and to drive continuous improvement. This takes the form of
+reviews of the operations of Group sites, service centres, functions,
+projects, processes and compliance risk areas, in accordance with a
+previously agreed plan, including an assessment of implemented
+systems of internal control. Internal Audit provides reports detailing
+findings and recommendations of potential control process
+improvements and conducts supplementary follow-up reviews,
+where merited, to ensure that management implements the
+recommendations agreed. During the year, Internal Audit’s activities
+were supported and complemented by management’s Group
+Governance team.
+The Internal Audit plan is designed each year to align to key risks faced
+by the Group, as well as to provide rotational assurance. The annual
+Internal Audit plan, and any revisions required to respond to emerging
+risks or areas of concern, are approved by the Audit Committee. The
+Internal Audit plan considers the scope and effectiveness of the
+management assurance programme undertaken by the Group
+Governance team in determining rotational coverage of financial
+controls audit activities, as well as providing assurance over the
+management assurance programme itself.
+Findings from the Internal Audit and Group Governance teams are
+reported to Group and divisional business management as well as to
+the Audit Committee to give a holistic assurance picture.
+The Audit Committee periodically considers stakeholder feedback on
+the quality of the work of Internal Audit. External Quality Assessment
+is required by the Institute of Internal Auditors Standards every five
+years so this will next be due in 2025.
+Annual Report 2024 dssmith.com
+99
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 102
+
+Dear shareholders
+I am pleased to present the Audit Committee Report, which provides
+an overview of the Audit Committee’s role supporting the Board in its
+oversight of the integrity of the reporting process and control
+framework across the Group. Details of the Board’s procedures and
+processes in relation to oversight of risk management and internal
+control are set out on pages 98 and 99.
+Our principal objectives as an Audit Committee are:
+• To monitor the integrity of the Group’s reporting process and
+adherence to the Group’s accounting policies and procedures.
+• To ensure that risks are carefully identified and assessed; and that
+sound systems of risk management and internal control are
+implemented.
+Our role as a Committee is pivotal in ensuring the robustness of the
+Group’s risk management activities and internal control environment,
+ensuring the integrity of the financial reporting process. The Group’s
+procedures and systems to identify, mitigate and manage risks
+continue to develop to allow the internal control and financial
+reporting processes to also benefit from continuous incremental
+improvement.
+Audit Committee Report
+The Committee continues to monitor the presentation of financial
+results, particularly taxation and the measures of underlying
+performance, cash flows and financial position together with
+impairment assessments, going concern and viability. The Committee
+has continued to deepen its familiarity and oversight of ESG matters
+and disclosures, including the updated TCFD and SECR information.
+In addition, it has followed the progress, and noted, the current,
+narrowed focus of the requirements arising from the UK
+Government’s restoring trust in audit and corporate governance
+initiative.
+As Chair of the Audit Committee I make myself available, including at
+the Company’s annual general meeting, to answer any shareholder
+questions on the Committee’s remit.
+David Robbie
+Chair of Audit Committee
+20 June 2024
+100
+Contents
+
+## Page 103
+
+Audit Committee meetings’ key topics
+• Review of the 2022/23 Annual Report and
+announcement, including a review to
+ensure the report was fair, balanced and
+understandable
+• Going concern and viability statement
+• Review of the key non-financial metrics in
+the SECR and TCFD tables
+• Impairment assessment review
+• Effectiveness of internal control
+framework update
+• Review of adjusting items
+• Internal Audit report and review of internal
+assessment of the effectiveness of the
+Internal Audit function
+• External Auditor report
+• Review of external Auditor effectiveness
+• Recommendation of appointment of the
+external Auditor
+• Update on full-year forecast results
+and trading outlook and emerging
+year-end accounting issues and matters
+of judgement
+• Ethics and compliance report review
+• Update on external Auditor plan and fees
+• Risk update and review of emerging risks
+• Review and approval of Internal Audit plan
+for 2024/25 including confirmation of
+non-financial areas to be targeted
+• Review of current developments in
+ESG reporting
+• 2023/24 external Auditor plan for the
+half year
+• Review of letter to management from
+external Auditor on 2022/23 audit
+• Impairment assessment review
+• Review of adjusting items
+• Internal Audit report
+• Ethics and compliance report review
+• Risk update
+• Review of the 2023/24 Annual Report and
+announcement, including a review to
+ensure the report was fair, balanced and
+understandable
+• Going concern and viability statement
+• Review of the key non-financial metrics in
+the SECR and TCFD tables
+• Impairment assessment review
+• Effectiveness of internal control
+framework update
+• Risk review
+• Review of adjusting items
+• Internal Audit report and review of the
+effectiveness of the Internal Audit
+function
+• External Auditor report
+• Review of external Auditor effectiveness
+• Recommendation of appointment of the
+external Auditor
+• Update on half-year forecast results
+• Going concern
+• Review of announcement of half-year
+results
+• External Auditor half-year report, including
+confirmation of independence and
+objectivity
+• Internal Audit report
+• Non-audit fees review
+• Risk update
+JUN
+2023
+APR
+2024
+OCT
+2023
+JUN
+2024
+DEC
+2023
+Other matters particularly focused on by the Audit
+Committee in its discussions with management include:
+• Oversight of external audit transition processes
+• Risk management, internal control and compliance enhancements
+• Quality of earnings
+• Financial commitments and liabilities
+• Pensions
+• Taxation matters, including review of strategy and risks
+• Internal Audit and in-house governance, compliance and corporate
+governance activities updates
+• Climate and sustainability risks and the evolution of disclosure
+requirements
+2023
+2024
+Annual Report 2024 dssmith.com
+101
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 104
+
+The Audit Committee met on four occasions during the year, with
+meetings scheduled to align with the Group’s external financial
+reporting obligations. Details of the attendance of individual Directors
+can be found on page 90. As and when required, the Audit Committee
+members were joined by the Group Chief Executive, the Group
+Finance Director, the Group Financial Controller, the Group Risk Officer
+and representatives from the Internal Audit and Governance teams
+and the external Auditor for parts of these meetings, by invitation.
+The external Auditor was not present at meetings where their
+performance was discussed. The Audit Committee also met privately
+with the external Auditor as appropriate.
+The Group General Counsel and Company Secretary acts as Secretary
+to the Committee.
+The Board is satisfied that the Chair of the Committee and other
+members of the Audit Committee have both recent and relevant
+financial experience (as set out on pages 84 to 87) and that the Audit
+Committee, as a whole, has competence relevant to the sector
+(namely manufacturing) in which the Company operates.
+In addition to the scheduled Committee meetings, the Chair of the
+Audit Committee held separate individual meetings during the year
+with the Group Finance Director and his team, the Group Risk Officer
+and representatives from Internal Audit and the external Auditor.
+The Audit Committee received sufficient, reliable and timely
+information from management to enable it to fulfil its responsibilities.
+Risk management, internal control and
+Internal Audit
+In fulfilling the Committee’s oversight of the risk management and
+control environment, a number of key activities are undertaken during
+the year, including regular meetings with senior management.
+The Audit Committee considered the Group’s risk management
+activities during the year (with specific discussions of topics such as
+the volatility of paper prices, changes in consumer shopping habits
+and regulation and governance risks). The Audit Committee continued
+its regular review of risk reporting to ensure that the balance between
+risk and opportunity was in keeping with the Group’s risk appetite and
+tolerance. The Audit Committee is satisfied that the Group’s executive
+compensation arrangements do not prejudice robust controls and
+good stewardship.
+A key element of the Committee’s oversight role is to challenge
+management and test the validity of any critical assumptions and
+matters of significant judgement. Areas debated include the process
+of impairment assessment and items for consideration within
+adjusting profit measures. The Committee has taken a close interest
+in developments in ESG reporting including emerging evidence-based
+compliance requirements and the Group’s voluntary adoption of
+emerging sustainability reporting standards and disclosures. In
+conjunction with the Board, the Committee continues to challenge
+management on its approach to matters relating to cyber security.
+The Committee has also reviewed documented internal controls over
+the Group’s principal risks and challenged management to ensure the
+extent of assurance activity is appropriate.
+The Committee approved the Group’s annual Internal Audit plan,
+which was primarily risk-based, focusing on those areas which are the
+most significant risks facing the business, as well as providing
+rotational coverage of processes, systems, core compliance risks and
+strategic projects, and overseeing internal management compliance
+activities. During the year, the Committee received regular reports
+summarising findings from the Internal Audit reviews performed,
+action plans to address any areas highlighted for improvement and
+additional activity review summaries from internal compliance teams.
+Membership and operation of the Committee
+Member
+Since
+David Robbie (Chair)
+2019
+Tessa Bamford
+2024
+Celia Baxter
+2019
+Alan Johnson
+2022
+Alina Kessel
+2020
+Eric Olsen
+2023
+Louise Smalley
+2014
+Key responsibilities of the Audit Committee
+As a Committee we have delegated authority from the Board to
+focus on the following key responsibilities:
+• Ensuring the integrity of financial reporting and associated
+external announcements.
+• Reviewing and challenging the application of the accounting
+policies and principles reflected in the Group’s financial
+statements.
+• Reviewing disclosures made under the provisions of the
+Streamlined Energy and Carbon Reporting legislation and
+Task Force on Climate-related Financial Disclosures
+provisions.
+• Assessing the basis on which the viability statement and
+going concern statement are being made and challenging the
+assumptions underlying them.
+• Managing the appointment, independence, effectiveness
+and remuneration of the Group’s external Auditor, including
+the policy on the supply of non-audit services.
+• Initiating and conducting the audit tender process for the
+external audit.
+• Monitoring the adequacy and effectiveness of the internal
+control environment.
+• Challenging the plans and effectiveness of the Internal Audit
+function, which is independent from the Group’s external
+Auditor.
+• Overseeing the Group’s risk management processes and
+performance.
+• Reviewing the effectiveness of established fraud prevention
+arrangements and reports made through the confidential
+‘Speak Up!’ policy process.
+• Assessing the Group’s compliance with the 2018 UK
+Corporate Governance Code.
+• Providing advice to the Board on whether the Annual Report
+and financial statements, when taken as a whole, are fair,
+balanced and understandable and provide all the necessary
+information for shareholders to assess the Group’s position,
+performance, business model and strategy.
+• Recommending to the Board the appointment of the
+external Auditor.
+102
+Audit Committee Report continued
+Contents
+
+## Page 105
+
+Fraud risk
+The Group has a framework to both protect itself against the risk and
+the consequences of fraud and to detect and investigate instances of
+actual and alleged fraud. Fraud encompasses misappropriation of
+assets, financial misstatement, and bribery and corruption. The tone
+from the top is clear – the Group has a zero tolerance to fraud, as set
+out in the fraud policy guidance. In terms of protection against fraud,
+there is an operational framework setting out policies on such areas
+as code of conduct, anti-bribery and corruption, conflicts of interest
+and gifts and hospitality, complemented by mandatory training. The
+Group internal financial control framework provides the day to day
+first line of defence against misappropriation and misstatement, and
+adherence to this control framework is monitored through site visits
+by representatives from the Internal Audit and Group Governance
+teams and detailed bi-annual certification processes. The confidential
+‘Speak Up!’ reporting programme, together with a comprehensive,
+specific fraud response policy and associated guidance, underpin the
+approach to detection and investigation of alleged and actual fraud.
+All instances of alleged fraud are investigated fully and lessons learnt
+incorporated, as appropriate, into the frameworks and training. The
+Internal Audit function takes the lead on these investigations and the
+Audit Committee is informed fully on these activities. Internal Audit
+are working with the legal and Governance teams to consider any
+adjustments to the frameworks needed to respond to the failure to
+prevent fraud offence, which has been introduced recently. The
+Committee is satisfied that the Group’s overall framework to mitigate
+the risk of fraud is appropriate and proportionate.
+Confidential reporting
+Twice a year the Committee receives separate reports on matters
+raised through ‘Speak Up!’, the Group’s confidential reporting channel,
+and any related investigations. The ‘Speak Up!’ programme is available
+through a multi-language phone line and web portal and third parties,
+such as suppliers and contractors, can also report through that phone
+line and web portal. The Code specifies that reports arising from such
+confidential reporting channels should either be reviewed by the
+Board or an explanation given. All Board members attend that part of
+the Audit Committee meeting when ‘Speak Up!’ and any related
+investigations are reported on. This means that representatives from
+both Internal Audit and the external Auditor (who attend the Audit
+Committee meetings but not Board meetings) can contribute their
+perspectives, which is a valuable part of the review process. Internal
+Audit are also able to provide specialist support where such assurance
+is considered necessary.
+Financial reporting
+At each of its meetings, the Committee receives reports from
+management on how the financial performance of the Group will be
+reported externally. These reports address the key performance
+indicators, the primary financial statements, the presentation of
+results and other areas including taxation and significant accounting
+and financial reporting judgements. This reporting is complemented
+at the June and December meetings by the reports from the external
+Auditor on their review and audit work.
+Significant matters considered in relation to the financial statements
+The significant matters considered in relation to the financial statements are set out below. They represent the key areas where the external
+Auditor has challenged management’s assumptions.
+Issue
+Review and conclusion
+Carrying
+value of
+goodwill
+The Group has significant balances of goodwill and customer related intangibles arising from the acquisition programme
+commencing in 2015. Goodwill is subject to an annual impairment exercise undertaken by comparing the value in use of the
+Group’s four cash-generating units (CGUs) – Northern Europe, Southern Europe, Eastern Europe and North America. This
+exercise uses the Group’s annual Board approved forecast financial information and assumptions as the basis for the CGUs’
+cash flows, together with long-term growth assumptions and market-based discount rates. The Committee has reviewed the
+results of this exercise and the disclosures in the Financial Statements. The Committee is mindful that these assumptions are
+subject to change and has considered appropriate scenarios reflecting these sensitivities. The Committee noted that the
+assumptions for North America, as a region in which the Group has a limited track record, required more judgement and that
+reasonably possible changes in the assumptions used could result in impairment. The Committee is satisfied that the
+impairment exercise was rigorous and the judgements made by management were reasonable, that there is significant
+headroom of value in use over the carrying values of each of the CGUs, that no impairments were necessary and that the
+disclosures in the Financial Statements are appropriate.
+Taxation
+Taxation remains a key area of focus for the Committee, particularly given the continued and increasing level of fiscal authority
+activity, ongoing tax enquiries and the second pillar of the OECD Base Erosion and Profit Shifting framework. The Group is
+exposed to differing tax regimes and risks which affect both the carrying values of uncertain tax positions and balances
+(including deferred tax) and the resultant income statement charges. The Audit Committee reviewed the tax charge for the
+half year and the full year, including the underlying tax charge, the appropriateness of and movement in tax provisions
+recognised and the risks associated with them. The Committee is satisfied that the amounts recognised in the income
+statement and statement of financial position and the disclosure provided are appropriate.
+Going
+concern
+The Committee noted that the implications of the proposed acquisition, announced on 16 April 2024, of the Group by
+International Paper have meant that going concern is a significant matter. The strategic and financial rationale for the
+combination are believed to be compelling and support the going concern assessment in the event that the transaction
+proceeds. The Committee further noted that the Group’s borrowings and facilities are subject to change of control provisions
+which allow for lenders to request repayment of the amounts owed but only in the event of a downgrade of the Group’s credit
+rating to below investment grade and that, following the announcements by a credit ratings agency that they view the
+transaction as positive from a credit perspective, the risk arising as a result of these change of control clauses is regarded as
+remote. Lastly, the Committee considered the assessed ability of the enlarged group, following any combination, to repay the
+borrowings and the disclosures made. The Committee is satisfied that the going concern basis for preparation of both the
+Group and parent company financial statements and the corresponding disclosures are appropriate.
+Annual Report 2024 dssmith.com
+103
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 106
+
+The Code requires the Board to confirm that the Annual Report
+presents a fair, balanced and understandable assessment of the
+Group’s performance, business model and strategy. This is an
+important area of focus for the Committee. At the request of the
+Board, the Committee undertook procedures so as to be able to advise
+the Board on this. Committee members gave input at various stages
+during the planning and drafting process, as well as taking the
+opportunity to review the Annual Report as a whole and discuss, prior
+to the June Audit Committee meeting, any areas requiring additional
+clarity or better balance in the messaging.
+ESG reporting
+The ESG reporting landscape has continued to be an area of significant
+regulatory development over the past 12 months. The Group has
+begun to prepare new disclosures with reference to the requirements
+of the CSRD (Corporate Sustainability Reporting Directive), ISSB
+(International Sustainability Standards Board) and UK TPT (UK
+Transition Plan Task Force). This includes establishing dedicated
+resource and project teams for adopting the new reporting standards,
+including assessing ‘readiness’ to report against material topics and
+drafting disclosures. Developed disclosures can be found in this
+Annual Report 2024, including the TCFD (Task Force on Climate-
+related Financial Disclosures) on pages 60 to 77, EU Taxonomy (pages
+78 and 79), the Non-Financial and Sustainability Information
+Statement (pages 80 to 83) and Streamlined Energy and Carbon
+Reporting (SECR) in alignment with the greenhouse gas protocol on
+page 76. The ESG reporting function is integrated within the Group
+finance team and delivers work relating to assurance, reporting
+systems, forecasting and planning and disclosures, in addition to
+partnering with the business to strengthen the production and use of
+ESG data, for example, relating to Scope 3. The Audit Committee has
+received comprehensive briefing during the year, covering the
+evolving ESG landscape together with regular updates. The
+Committee has specifically reviewed the SECR and TCFD disclosures
+and is satisfied that they are appropriate.
+Deloitte LLP is the independent assurance provider providing
+assurance for selected metrics (indicated with an asterisk in the
+relevant disclosures in the 2024 Annual Report) during the financial
+year 2023/24.
+Other activities of the Committee
+Preparation for corporate governance reform
+The impact of the UK Government’s corporate governance reform
+strategy has become clearer during the year following the
+Government’s decision not to proceed with legislation and after the
+publication by the Financial Reporting Council of the new version of
+the UK Corporate Governance Code. The Committee continues to
+receive updates on management’s ongoing preparation activities in
+these areas.
+Financial Reporting Council (FRC) correspondence
+The Group received correspondence from the FRC in March 2024
+concerning the routine inspection by the FRC of Ernst & Young LLP’s
+(EY) audit of the Group’s financial statements for the year ending
+30 April 2023. The Audit Committee, through the Chair, provided full
+support to the review. There were no key findings as a result of the
+review. Four areas of improvement were identified, all of which have
+been addressed for the current year (year ending 30 April 2024)
+process.
+Committee’s continued development
+In order to help the Committee continue to meet its responsibilities,
+Committee meetings include regular corporate governance updates
+and briefings from external advisers or from members of senior
+management.
+The Committee’s effectiveness was reviewed as part of the wider
+Board’s performance review of effectiveness, as described on page
+94.
+External Auditor
+Effectiveness
+In addition to the external Auditor confirming their independence and
+objectivity, the Audit Committee also evaluates and monitors their
+effectiveness through a review of the qualifications, expertise and
+resources of the engagement team.
+This is conducted through direct assessment and recurring activities.
+As part of the current assessment of effectiveness, the Audit
+Committee has taken into consideration the guidance issued by the
+FRC including the guidance on oversight of the external audit set out
+in the “Audit Committees and the External Auditor: Minimum
+Standard”. Based on evidence from management, the external
+Auditor and, as appropriate, external sources together with its own
+experience, the Audit Committee assessed the mindset and culture,
+skills, character and knowledge, quality control and judgement of the
+external Auditor. The assessment considered the degree of challenge
+to management, the level of professional scepticism, the issues
+identified and the quality of explanations. The Audit Committee
+recognises that the quality of an audit is paramount. The Committee is
+satisfied with the effectiveness of the external Auditor and that the
+current year audit was one of high quality.
+Separate from the meetings of the Audit Committee, the Chair of the
+Committee meets regularly with the external Auditor’s lead
+engagement partner. The Committee also has meetings with
+members of the external Auditor team, with no members of executive
+management present.
+Independence and objectivity
+In order to ensure the independence and objectivity of the external
+Auditor, the Audit Committee maintains and regularly reviews the
+Auditor Independence policy which covers non-audit services which
+may be provided by the external Auditor, and permitted fees.
+The Group has a policy on the supply of non-audit services by the
+external Auditor, which was most recently updated in April 2023. The
+policy prohibits certain categories of work in accordance with
+guidance such as the FRC Ethical Standard. It specifies that the Group
+should not employ the external Auditor to provide non-audit services
+where either the nature of the work or the extent of such services
+might impair their independence or objectivity. The external Auditor is
+permitted to undertake some non-audit services under the Group’s
+policy, providing it has the skill, competence, integrity and appropriate
+independence safeguards in place to carry out the work in the best
+interests of the Group, for example, permissible reporting accountant
+work associated with significant acquisitions. All proposed permitted
+non-audit services above a de-minimis financial threshold are subject
+to the prior approval of the Audit Committee.
+104
+Audit Committee Report continued
+Contents
+
+## Page 107
+
+Non-audit services and fees are reported to the Audit Committee
+twice each year. During 2023/24, total non-audit fees paid to the
+external Auditor of £0.3 million were 4 per cent of the annual Group
+audit fee (2022/23: £0.3 million; 5 per cent): see note 3 to the
+consolidated financial statements. In addition, £11.7 million was paid
+to other accounting firms for non-audit work, including £0.1 million for
+specific work projects allocated by the Internal Audit team.
+The EU Audit Regulation (Retained Legislation) and the FRC’s revised
+Ethical Standard mean that there is also a cap of 70 per cent on the
+ratio of non-audit fees to audit fees that can be paid to the external
+Auditor, which places a further constraint on the non-audit services
+permitted.
+Annually, the Audit Committee receives written confirmation from the
+external Auditor of the following:
+• Whether they have identified any relationships that might have a
+bearing on their independence
+• Whether they consider themselves independent within the
+meaning of the UK regulatory and professional requirements
+• The continued suitability of their quality control processes and
+ethical standards.
+The external Auditor also confirms that no non-audit services
+prohibited by the FRC’s Revised Ethical Standard were provided to the
+Group or parent Company.
+On the basis of the Committee’s own review, approval requirements in
+the non-audit services policy, and the external Auditor’s
+confirmations, the Audit Committee is satisfied with the external
+Auditor’s independence and objectivity.
+External Auditor fee and appointment
+External audit fee negotiations are approved by the Audit Committee
+each year. There are no contractual restrictions on the Group in regard
+to the current external Auditor’s appointment.
+Ernst & Young LLP were appointed as external Auditor to the Group in
+2022 (following a tender process conducted in 2021), with Kevin
+Harkin being appointed the lead audit partner for the 2022/23
+year end.
+Pursuant to the terms of the Statutory Audit Services for Large
+Companies Market Investigation (Mandatory Use of Competitive
+Tender Process and Audit Committee Responsibilities) Order 2014
+(Competition & Markets Authority Order), which is now in force, the
+Audit Committee is solely responsible for negotiating and agreeing
+the external Auditor’s fee, the scope of the statutory audit and
+initiating and supervising any competitive tender process for the
+external audit. When a tender is undertaken, the Committee is
+responsible for making recommendations to the Board as to the
+external Auditor’s appointment. The Committee’s policy is that the
+role of external Auditor will be put out to tender at least every ten
+years in line with the applicable rules.
+The Audit Committee confirms that the Company has complied with
+the provisions of the Competition & Markets Authority Order with
+regards to external audit tendering and audit responsibilities
+throughout its financial year ended 30 April 2024.
+Annual Report 2024 dssmith.com
+105
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 108
+
+Dear shareholders
+Introduction
+On behalf of the Board, I am pleased to present the Directors’
+Remuneration Report for the year ended 30 April 2024, which sets
+out how we have implemented the Remuneration policy that was
+approved by shareholders at the annual general meeting (AGM) in
+September 2023.
+My letter on pages 106 to 108, the summary on pages 109 to 112 and
+the Annual Report on Remuneration on pages 116 to 128 will be
+presented for approval by an advisory vote at our AGM in September
+2024.
+Our role
+Our role as a Remuneration Committee is to develop a reward package
+for executives and senior management that supports our vision and
+strategy as a Group and ensures those rewards are performance-
+based and encourage long-term shareholder value creation. Our
+Purpose as a Group is ‘Redefining Packaging for a Changing World’.
+More about the delivery of our Purpose through our strategic goals
+and our Now & Next Sustainability Strategy is set out on page 3 and
+pages 30 to 37 of this year’s Annual Report.
+Remuneration Committee Report
+Recommended all-share combination with
+International Paper
+In April 2024 the Board announced its recommendation of an
+all-share combination of International Paper Company and the
+Company, a combination that would be expected to strengthen
+the customer value proposition, combine the expertise of both
+management teams to accelerate innovative sustainable
+solutions and products for all customers and create new
+opportunities for employees.
+The Committee took into account the interests of shareholders
+and employees when considering the remuneration proposals
+contemplated in the event shareholders approve the proposed
+all-share combination of International Paper Company and the
+Company. Those remuneration proposals are set out in the
+Co-operation Agreement between International Paper
+Company and the Company, available on the Company’s website
+at www.dssmith.com.
+As at 20 June 2024, shareholder approval of the proposed
+all-share combination of International Paper Company and the
+Company has not yet been obtained. The Committee has
+therefore been operating in compliance with the Takeover
+Code during this offer period and has continued to act
+independently in relation to remuneration matters as set out in
+this report.
+106
+Contents
+
+## Page 109
+
+Stakeholder experience in the year under review
+The Committee in its deliberations about variable pay outcomes takes
+into account the experience of a wide range of the Group’s key
+stakeholders and did so again in considering the 2023/24
+financial year.
+We have continued to deliver on our commitment to quality and
+service for our customers, with an on-time, in-full rate of 96 per cent
+and the strongest customer satisfaction scores since 2017 when we
+started running our survey. The strength of our brand has also been
+confirmed in our recent brand survey undertaken by the Group that
+shows a further increase in the value and standards our brand
+represents as scored by our actual and prospective customers.
+Group-wide we have kept a strong focus on employee health and
+wellbeing. Our programmes have included a Group-wide health,
+safety and wellbeing week, when we highlighted the variety of health
+and wellbeing programmes available, with over 500 events happening
+across the business. There has been a further improvement in the
+Group-wide lost time accident frequency rate which has fallen again
+to a new low of 1.65.
+The Group’s connection with the local communities where our sites
+are based has continued to strengthen. For the fifth year running all
+our sites with more than 50 full-time employees have participated in
+community activities. Over the past 12 months we have continued to
+work with our suppliers and at our sites to increase our focus on
+human rights due diligence and to integrate this more fully into
+our business.
+We continue to work on our policies and practices across all areas of
+the ESG agenda and keep up to date with the additional reporting
+requirements. The Committee continues to be satisfied with the
+progress being made in relation to sustainability matters and sees this
+as a key differentiator that is highly appreciated by our customers.
+This progress is driven by the Group’s values and has resulted in, for
+example, DS Smith being one of a small number of companies that
+achieved an ‘A’, out of over 21,000 companies scored, recognised for
+corporate transparency and performance on climate change by global
+environmental non-profit organisation, CDP.
+All these factors drive the Group’s ongoing profitability and cash flow,
+impacting the performance measures of our incentive plans. The
+underlying importance of these factors to the Group continues to be
+emphasised by the use of a variety of these ESG considerations as an
+underpin to the annual bonus, both for the 2023/24 and the 2024/25
+annual bonus.
+In respect of the 2023/24 financial year, an interim dividend has been
+paid and a maintained final dividend has been recommended, subject
+to the approval of shareholders at the forthcoming AGM.
+Our year under review
+The key discussions of the Committee and decisions taken since
+1 May 2023 were:
+• Making sure that there is appropriate balance between the
+business need for meaningful incentivisation for
+management and the recognition of the wider societal
+context in which the business operates, taking into account
+the differing expectations of each key stakeholder group,
+including our customers, employees, investors and suppliers.
+• Reviewing statistics relating to the ‘gender pay gap’, noting
+that our median pay levels for the UK (for about 5,000
+employees) are broadly at parity.
+• Reviewing the salaries of the Group Chief Executive, the
+Group Finance Director and the next layer of management
+and approving the treatment of remuneration arrangements
+for joiners and leavers in that layer of senior management. As
+part of our review we always consider the salary increases
+implemented across the Group.
+• Considering (in principle) the treatment of outstanding
+unvested awards under the Performance Share Plan (PSP) and
+Deferred Share Bonus Plan (DSBP) held by Miles Roberts, our
+current Chief Executive, when he announced his intention to
+retire from the Board and from full-time executive roles.
+• Considering whether the formulaic outcomes of the annual
+bonus and PSP are judged to be appropriately aligned with
+business performance and stakeholder experience over the
+relevant periods.
+• Setting the targets for the annual bonus and PSP awards made
+in 2023/24 taking into account a number of factors which
+included our medium-term growth targets, the volatility of
+paper pricing and our investment programme.
+• Setting the performance measures and weighting for the
+2024/25 awards (see page 108 for more details).
+• Assessing the operation of the ESG underpin in the bonus and
+considering whether there is a need to include specific ESG
+measures in the bonus and PSP awards. Sustainability continues
+to be one of the key values of DS Smith and our progress and our
+leading position in promoting the circular economy have been
+achieved without the need to directly incentivise ESG.
+Accordingly, the Committee decided to maintain the current
+approach of having an ESG underpin to the annual bonus.
+Our achievements
+Our Purpose informs the Group’s approach to strategy, which
+has led, not only to the financial and non-financial results
+highlighted on the inside front cover, but also to our strong
+health and safety performance and our high scores among the
+environmental, social and governance (ESG) ratings published
+by MSCI (AA) and EcoVadis Gold as well as those issued by
+Sustainalytics, S&P Global and CDP. Significantly, our 2023/24
+CDP Climate Change response was awarded ‘A’ by CDP, placing
+us on the ‘A List’ for our commitment to environmental
+transparency.
+You can read about the achievements of our business during
+2023/24 in more detail in the Strategic Report starting on page 1.
+Highlights for the 2023/24 financial year
+Highlights for the 2023/24 financial year include:
+• Adjusted operating profit of £701 million, (on a constant
+currency basis).
+• 9 per cent reduction in accident frequency rate.
+• Over 1.2 billion units of plastic replaced since 2020.
+Annual Report 2024 dssmith.com
+107
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 110
+
+Variable pay outcome
+Unfortunately the Performance Share Plan (PSP) award made in 2021
+will not vest in July 2024 as the performance conditions were not met.
+The formulaic outcome for the 2023/24 annual bonus was 20.6 per
+cent of the maximum bonus opportunity and the Committee has
+therefore decided that the Executive Directors will receive 20.6 per
+cent of the maximum annual bonus opportunity. (See pages 118 and
+119 for more details.)
+Taking into consideration the context of the wider experience of our
+key stakeholders described above, the Committee concluded that it
+was therefore not necessary to apply any discretion to amend the
+outcome of the PSP or the annual bonus.
+ESG underpin
+In considering whether to apply discretion to override the
+annual bonus formulaic outcome, an ESG underpin is used.
+The Committee took into account three ESG factors:
+Roll out of an updated Now & Next Sustainability
+Strategy, which includes our approach to the
+delivery of science-based targets, to take account
+of updated actual performance and current
+customer/regulatory requirements
+Continuing maintenance of high health and
+safety standards
+Continued work with our communities.
+The Committee reviewed the evidence of performance against
+these factors (see summary on page 119) and concluded this
+was satisfactory and that no discretion needed to be applied.
+Structure of performance measures and
+weighting for 2024/25 awards
+The Committee has considered the most important elements to
+focus on when choosing the structure and weighting of
+performance measures for 2024/25 awards, in the context of
+the Board’s recommendation of an all-share combination with
+International Paper Company, which is expected to complete
+within the 2024/25 financial year.
+As a consequence, the Committee is retaining for the 2024/25
+annual bonus performance measures EBTA, with a greater
+weighting, to incentivise the focus on profitability, and has
+replaced free cash flow with strategic objectives to include a focus
+on key business projects for the year ahead, alongside the
+necessary activities to support the completion of the
+recommended combination.
+The Committee decided not to include a TSR measure in the PSP
+awards made in 2024/25, due to the impact on relative TSR
+measures of the prospect of corporate activity during the 60 day
+period ending on 30 April 2024 (which would be the starting
+point for a relative TSR measure for the applicable performance
+period) and the impact of International Papaer Company’s share
+price on the Company’s share price.
+Our conversation with our shareholders
+At the AGM in September 2024, shareholders will be asked to vote on
+the Remuneration Report. I hope that the Committee will once again
+have your support on that resolution.
+As Committee Chair, I continue to be available to engage with
+shareholders, as they so wish, on remuneration matters.
+Celia Baxter
+Chair of Remuneration Committee
+20 June 2024
+Our Remuneration policy
+The Committee has concluded that the Remuneration policy has
+operated as intended, both in terms of appropriately incentivising
+corporate performance and in respect of quantum, in the context of
+the Company’s performance.
+Our conversation with our workforce
+A European Works Council (EWC) representative joined a Committee
+meeting this year to support and inform discussions about both
+executive remuneration and the remuneration of the wider workforce.
+In addition, I once again attended meetings of the EWC Executive to
+engage and consult with them on executive remuneration and wider
+employee remuneration issues. This included an update on the voting
+outcome in relation to the approval of the remuneration policy at the
+2023 AGM and on key decisions made by the Committee, such as those
+in relation to the recruitment of the new Group Finance Director and the
+retirement of the Group Chief Executive. These meetings are a regular
+feature of the annual timetable as both I and the EWC Executive value
+the opportunity they provide to understand more about matters
+relating to the Executive Directors’ remuneration and its alignment with
+that of the wider workforce, as well as providing an additional channel
+through which the voice of employees can be heard in the boardroom.
+108
+Remuneration Committee Report continued
+Contents
+
+## Page 111
+
+Miles Roberts
+Richard Pike
+
+Fixed pay (salary,
+retirement and
+other benefits)
+Annual bonus
+£954
+£362
+£1,316
+£501
+£643
+£142
+
+Vesting as a % of maximum
+2023/24
+annual bonus
+2021/22 PSP
+vesting in 2024/25
+Miles Roberts
+21%
+0%
+Richard Pike
+21%
+n/a
+
+Single total figure of remuneration
+£’000
+2023/24
+2022/23
+Increase/
+(Decrease)
+Miles Roberts
+£1,316
+4,0001
+(67)%
+Richard Pike2
+£643
+n/a
+n/a
+1. The long-term incentives for 2022/23 have been restated to reflect the share
+price on the vesting date of 14 July 2023, which was 288p.
+2. Richard Pike joined the Board on 30 June 2023
+For more information on how the single total figure of
+remuneration is calculated see page 116
+2024/25 application
+The table below sets out a summary of how the Remuneration policy will apply during 2024/25.
+Remuneration element
+Application of the Remuneration policy
+Base salary
+• The salary for Group Chief Executive Miles Roberts will be increased by 4% to £926,000 and the salary for Group
+Finance Director Richard Pike will be increased by 4% to £572,000, increases that took into account the average
+increase of 4.1% for the UK workforce as a whole.
+Annual bonus
+• No changes to maximum award levels of:
+• Group Chief Executive 200% of salary; and
+• Group Finance Director 150% of salary.
+• Bonus payable to Executive Directors paid half in cash and half in deferred shares, under the DSBP, with the shares
+vesting after three years.
+• The performance measures for 2024/25 will be 75% adjusted EBTA and 25 % strategic objectives. (Details of the ESG
+underpin are set out on page 119.)
+Performance
+share plan (PSP)
+• No change to maximum award level for Group Chief Executive of 225% and for Group Finance Director of 200%.
+• The performance measures for 2024/25 will be adjusted EPS and adjusted ROACE with equal weighting.
+• Any shares that vest under this award must be retained for a further two years before they can be sold and they are
+also subject to a post-employment holding condition.
+Retirement benefit
+• Contribution or cash alternative rate for Group Chief Executive and for Group Finance Director is 6%, which is aligned
+with that available to the workforce in the UK (being the country where they are based for employment purposes).
+Shareholding
+guidelines
+• Shareholding target remains at 225% of salary for the Group Chief Executive and at 200% of salary for the Group
+Finance Director.
+• Actual holding (valued at closing price on the last trading day of financial year) was 1,069% for Miles Roberts and
+323% for Richard Pike.
+Any shares that vest under PSP or DSBP awards granted in 2020/21 or subsequent years will, until the relevant
+shareholding requirement is met, be held in a nominee arrangement, because they are subject to a post-employment
+holding condition (in addition to the two-year post-vesting holding condition).
+Remuneration at a glance
+Single total figure of remuneration for 2023/24 (£’000s) (Audited)
+Annual Report 2024 dssmith.com
+109
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 112
+
+Miles Roberts
+Richard Pike
+
+£994
+£1,834
+Fixed pay: 17%
+Bonus: 31%
+PSP: 52%
+£5,831
+£3,003
+
+£994
+£1,834
+Fixed pay: 21%
+Bonus: 38%
+PSP: 41%
+£4,830
+£2,002
+£994
+£917
+
+Bonus: 38%
+PSP: 21%
+£2,411
+£500
+
+Fixed pay: 100%
+£994
+£615
+£850
+Fixed pay: 20%
+Bonus: 27%
+PSP: 53%
+£3,115
+£1,650
+£615
+£850
+Fixed pay: 24%
+Bonus: 33%
+PSP: 43%
+£2,565
+£1,100
+
+Fixed pay: 100%
+£615
+Fixed pay: 41%
+£615
+£425
+Bonus: 32%
+PSP: 21%
+£1,315
+£275
+Fixed pay: 47%
+Illustration of the application in 2024/25 of the Remuneration policy
+The balance between fixed and variable ‘at risk’ elements of remuneration changes with performance. Our Remuneration policy results in a
+significant proportion of remuneration received by Executive Directors being dependent on performance. The total remuneration of Miles Roberts
+and for Richard Pike for maximum, target and minimum performance in 2024/25 is presented in the charts below. (The basis of the calculation of
+the share price appreciation is that the share price embedded in the calculation for the PSP awards in the maximum bar chart is assumed to increase
+by 50 per cent across the performance period.) These figures are indicative as future share prices and future dividends are not known at present.
+Minimum (fixed remuneration only, i.e. latest known salary, retirement and other benefits): £’000s
+Maximum (fixed remuneration plus maximum annual bonus opportunity plus 100% vesting of performance shares) and share price appreciation
+of 50%: £’000s
+Maximum (fixed remuneration plus maximum annual bonus opportunity plus 100% vesting of performance shares): £’000s
+Target (fixed remuneration plus half of maximum annual bonus opportunity plus 25% vesting at threshold of performance shares): £’000s
+110
+Remuneration at a glance continued
+Contents
+
+## Page 113
+
+Key attributes to consider in reviewing remuneration matters
+Under the 2018 Corporate Governance Code the Remuneration Committee is asked to describe with examples how it has considered six specific
+factors. The Committee has reviewed the reward principles (set out on page 112).
+The Committee has noted that these principles are clear and expressed simply. Under our reward principles incentive levels are to be
+proportionate and designed in a way to minimise any behavioural risks. All the criteria for each element of an individual’s remuneration
+are explained, so that each individual has a clear and predictable line of sight as to what actions will impact their remuneration outcomes, so
+that all remuneration is appropriately earned for genuine business performance aligned with the Company’s culture, values and strategy.
+The decisions made in relation to remuneration matters are taken in alignment with these over-arching reward principles that apply to all
+executive management.
+Employee voice in the boardroom
+Include a reward
+session led by the
+Group Head of
+Reward at the regular
+meetings with the
+EWC Executive
+Invite EWC
+representative to
+speak regularly at
+Remuneration
+Committee meetings
+Information
+flow
+Any reward-related
+feedback also shared
+with Remuneration
+Committee
+Information flow
+Other sources of
+feedback on the
+total employee
+experience
+Board
+Remuneration
+Committee
+Use of existing
+European Works
+Council (EWC)
+structure
+Annual Report 2024 dssmith.com
+111
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 114
+
+DS Smith reward principles
+As part of good practice for any reputable company we apply
+the following baseline principles when setting reward across
+the organisation:
+• Meets legal and regulatory requirements.
+• Simple and clear to understand.
+• Affordable and sustainable.
+• Competitive in the market on a total reward basis to enable
+DS Smith to attract and retain the right level of talent.
+However, to differentiate our employee value proposition and
+ensure that our approach to reward aligns to our culture, we
+have developed the following DS Smith reward principles:
+• We support a culture of meritocracy where our people are
+encouraged to reach their potential and are clear on what
+they need to do to succeed. For salaried employees, reward
+should be differentiated using our Group salary and incentive
+ranges for entry, established and high performers. Where pay
+is determined through collective bargaining and there is less
+scope to differentiate by individual, the highest performers
+should be rewarded through development, promotion and
+other recognition opportunities.
+• We strive to have consistent policies and practices at a local
+level and transparency in our benefits offering and policies.
+• Incentives are designed to reward collective rather than
+individual effort, to support our one DS Smith culture. For
+senior managers, this is Group financial performance but for
+middle managers and frontline employees, performance
+measures can be the key value drivers that the individuals are
+able to influence directly such as cost, quality and service.
+• All employees should have the opportunity to share in the
+success of the Group.
+• Share ownership is fundamental at senior levels and
+desirable across the Group.
+• The Group respects the need for employees to make their
+own choices around what they value, although there are
+certain reward components linked to health and wellbeing
+where the Group may decide it is appropriate to set a
+minimum Group standard.
+• Our pension offering should be competitive with the local
+market where this is a benefit valued by employees.
+• When determining rewards, demonstration of an individual’s
+behaviours in line with the Group’s values (be caring, be
+challenging, be trusted, be responsive and be tenacious) are
+considered alongside the results achieved.
+• In managed exits people should be treated fairly, in line with
+the Group’s values and with dignity, but failure should not be
+rewarded.
+• Safeguards are applied to ensure that incentive levels are
+proportionate, appropriately earned for genuine business
+performance aligned to Company strategy and designed in a
+way to minimise any behavioural risks.
+In summary: key objectives of our
+Remuneration policy
+The purpose of our Remuneration policy is to deliver a
+remuneration package that:
+• Attracts and retains high calibre Executive Directors and
+senior managers in a challenging and competitive business
+environment.
+• Reduces complexity, delivering an appropriate balance
+between fixed and variable pay for each Executive Director
+and the senior management team.
+• Encourages long-term performance by setting challenging
+targets linked to sustainable growth.
+• Is strongly aligned to the achievement of the Group’s
+objectives and shareholder interests and to the delivery of
+sustainable value to shareholders.
+• Seeks to avoid creating excessive risks in the achievement of
+performance targets.
+• Is consistent with the Company’s Purpose and values.
+• Is commensurate with pay and conditions across the Group.
+• Is aligned to the DS Smith reward principles.
+• Takes into account overall corporate performance as well as
+business performance.
+All our decisions as a Remuneration Committee are taken in
+this context.
+112
+Remuneration at a glance continued
+Contents
+
+## Page 115
+
+(approved in 2023)
+Set out below are the key elements of our Directors’ remuneration policy applicable from 5 September 2023 when the policy was approved by
+our shareholders. The full policy can be found in the Annual Report 2023 and on our website at https://www.dssmith.com/investors/annual-
+reports/archive.
+Element, purpose and link to strategy
+Operation and performance metrics
+Maximum opportunity
+Basic salary
+To help recruit and retain
+key senior executives.
+To provide a competitive
+salary relative to
+comparable companies,
+in terms of size and
+complexity.
+Normally reviewed by the Committee annually and fixed for the
+12 months commencing 1 August.
+The Committee takes into account:
+• role, competence and performance;
+• average change in broader workforce salary; and
+• total organisational salary budgets.
+When external benchmarking is used, the comparator groups are
+chosen having regard to:
+• size: market capitalisation, turnover, profits and the number of
+employees;
+• diversity and complexity of the business;
+• geographical spread of the business; and
+• domicile of the Executive Director.
+Salaries will normally be increased
+in line with increases for the
+workforce in general, unless there
+has been an increase in the scope,
+responsibility or complexity of the
+role, when increases may be higher.
+Phased higher increases may also
+be awarded to new Executive
+Directors who were hired at a
+discount to the market level to
+bring salary to the desired mid-
+market positioning, subject to
+individual performance.
+The aim is to position salaries
+around the mid-market level,
+although higher salaries may be
+paid, if necessary, in cases of
+external recruitment or retention.
+Annual bonus
+To incentivise executives
+to achieve or exceed
+specific, predetermined
+objectives during a
+one-year period.
+To reward ongoing
+delivery and contribution
+to strategic initiatives.
+Deferred proportion of
+bonus, awarded in
+shares, provides a
+retention element and
+additional alignment of
+interests with
+shareholders.
+Targets are set annually. The performance measures, targets and
+weightings may vary from year to year in order to align with the
+Company’s strategy and goals during the year to which the bonus
+relates.
+Performance measures can include some or all of the following:
+financial measures, strategic measures and ESG measures.
+Bonus payouts are determined by the Committee after the year end,
+based on performance against predetermined objectives, at least the
+majority of which will be financial.
+Up to half of the bonus is paid in cash and the balance is deferred into
+shares.
+The deferred bonus shares vest after three years. Dividend equivalents
+arising over the period between the grant date and the vesting date are
+paid in cash or shares in respect of the shares which vest.
+The annual bonus plans are not contractual and bonuses under the
+plans are not eligible for inclusion in the calculation of the participating
+executives’ retirement benefit arrangements.
+Malus and clawback provisions apply to the annual bonus plan and the
+deferred bonus shares so that individuals are liable to repay/forfeit
+some or all of their bonus if there is a material misstatement of results,
+error in calculation, gross misconduct, payments based on erroneous or
+misleading data, significant reputational damage or corporate failure.
+The Committee will act reasonably in the application of malus
+and clawback.
+Maximum bonus potential of 200%
+of base salary, with target bonus
+being no greater than one half of
+the maximum.
+Bonus starts to be earned at the
+threshold level (below which 0% is
+payable).
+Current maximum potential for
+each Executive Director is set out in
+the Annual Report on
+Remuneration.
+Remuneration policy
+Annual Report 2024 dssmith.com
+113
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 116
+
+Element, purpose and link to strategy
+Operation and performance metrics
+Maximum opportunity
+Performance
+share plan (PSP)
+To incentivise Executive
+Directors and other
+senior executives to
+achieve returns for
+shareholders over a
+longer time frame.
+To help retain executives
+and align their interests
+with shareholders
+through building a
+shareholding in the
+Company.
+Awards of nil-cost options or conditional awards of shares are made
+annually with vesting dependent on the achievement of performance
+conditions measured at the end of the three-year performance period.
+Awards will vest, subject to performance, on the third anniversary of
+grant and will be subject to an additional two-year holding period
+post-vesting, during which time awarded shares may not be sold (other
+than for tax purposes).
+The Committee reviews the quantum of awards annually to ensure that
+they are in line with market levels and appropriate, given the
+performance of the individual and the Company.
+Performance measures can include some or all of the following:
+financial measures, strategic measures, ESG measures and relative TSR.
+Dividend equivalents arising over the period between the grant date
+and the vesting date are paid in cash or shares in respect of the shares
+which vest.
+Malus and clawback provisions apply to the PSP so that individuals are
+liable to repay/forfeit some or all of their shares if there is a material
+misstatement of results, error in calculation, gross misconduct, vesting
+based on erroneous or misleading data, significant reputational damage
+or corporate failure. The Committee will act reasonably in the
+application of malus and clawback.
+The maximum annual award under
+the PSP that may be granted to an
+individual in any financial year is
+225% of salary in normal
+circumstances and 400% of salary
+in exceptional circumstances, which
+is limited to buy-out awards under
+recruitment.
+Actual award levels to Executive
+Directors are set out in the Annual
+Report on Remuneration.
+No greater than 25% of the
+relevant part of the award will vest
+for achieving threshold
+performance (which for a relative
+TSR performance measure would
+be median performance), increasing
+to full vesting for the achievement
+of maximum performance.
+Share ownership
+guidelines
+To further align the
+interests of executives
+with those of
+shareholders.
+During employment
+Executive Directors are expected to build and maintain a shareholding
+in the Company’s shares as a multiple of their base salary within five
+years of appointment as an Executive Director (Group Chief Executive
+225%, Group Finance Director 200%). To achieve this, Executive
+Directors are expected to retain at least 50% of shares (net of tax)
+which vest under the Company’s share plans until the share ownership
+guidelines are met. Incentive awards which have vested but that the
+Executive Director has yet to exercise and unvested incentive awards
+awarded under the DSBP (if they are only subject to a time-based
+condition) are considered to count towards the shareholding on a
+notional post-tax basis.
+Non-Executive Directors are expected to build and maintain a
+shareholding that is equivalent to 50% of their annual fee from the
+Company within two years of their date of appointment.
+After employment
+In respect of share plan awards granted from 2020 onwards, Executive
+Directors will be required to retain, for two years after leaving the
+Company, a holding of shares at a level equal to the lower of the
+shareholding requirement they were subject to during employment and
+their actual shareholding on departure (excluding shares purchased
+with own funds and any shares from share plan awards made before
+2020).
+Not applicable
+All employee share
+plan
+Encourages long-term
+shareholding in the
+Company.
+Executive Directors have the opportunity to participate in the UK or
+international sharesave plans on the same terms as other eligible
+employees (which is currently an opportunity to save up to £250, or
+local currency equivalent, per month). There are no performance
+conditions applicable to awards.
+Up to £500 per month (or local
+currency equivalent).
+Retirement benefit
+To provide income in
+retirement.
+Executive Directors can elect to:
+• participate in the Group’s registered defined contribution plan
+(DC Plan); or
+• receive a salary supplement; or
+• a combination of the above.
+Maximum: a retirement benefit
+contribution rate aligned with that
+available to the workforce in the
+country where they are based for
+employment purposes.
+114
+Remuneration policy continued
+Contents
+
+## Page 117
+
+Element, purpose and link to strategy
+Operation and performance metrics
+Maximum opportunity
+Benefits
+To help retain employees
+and remain competitive
+in the marketplace.
+Directors, along with other UK senior executives, receive a car
+allowance or company car equivalent, income protection insurance, life
+cover of four times salary, family medical insurance and subsidised gym
+membership. Additional benefits (including a relocation allowance) may
+be provided from time to time, where they are in line with market
+practice.
+Any reasonable business related expenses may be reimbursed
+(including tax thereon, if deemed to be a taxable benefit).
+Benefit levels may be increased in
+line with market levels to ensure
+they remain competitive and valued
+by the recipient. However, as the
+cost of the provision of benefits can
+vary without any change in the level
+of provisions, no maximum is
+predetermined.
+Non-Executive
+Directors and Chair
+Attract and retain high
+performing individuals.
+Reviewed annually by the Board (after recommendation by the
+Committee in respect of the Chair).
+Fee increases, if applicable, are normally effective from 1 August. The
+Board and, where appropriate, the Committee, considers pay data at
+comparable companies of similar scale.
+Directors with additional responsibilities, currently the Senior
+Independent Director and the Chairs of the Audit and Remuneration
+Committees, receive additional fees.
+No eligibility for participation in bonuses, retirement plans or share
+plans but limited benefits may be delivered in relation to the
+permanency of their duties as a Director (e.g. hospitality, provision of a
+mobile phone, tablet/laptop and travel-related expenses). Tax may be
+reimbursed if these benefits are deemed to be a taxable benefit.
+If there is a temporary yet material increase in the time commitments
+for Non-Executive Directors, the Board may pay extra fees on a pro-rata
+basis to recognise the additional workload.
+No prescribed maximum annual
+increase.
+Details of current fees are set out in
+the annual report on remuneration.
+Aggregate annual fees limited by
+Articles of Association (currently to
+£1,000,000).
+Discretions and judgements
+The Committee will operate the annual bonus plan and long-term
+plans according to the rules of each respective plan, their respective
+ancillary documents and the UK Financial Conduct Authority’s Listing
+Rules, which, consistent with market practice, include discretion in a
+number of respects in relation to the operation of each plan.
+Discretions include:
+• Who participates in the plan.
+• Determining the timing of grants of awards and/or payments.
+• Determining the quantum of an award and/or payment.
+• Determining the extent of vesting.
+• How to deal with a change of control or restructuring of the Group.
+• Whether or not an Executive Director or a senior manager is a good
+leaver for incentive plan purposes and whether the proportion of
+awards that vest do so at the time of leaving or at the normal
+vesting date(s).
+• How and whether an award may be adjusted in certain
+circumstances (e.g. for a rights issue, a corporate restructuring or
+for special dividends).
+• What the weighting, measures and targets should be for the annual
+bonus plan and PSP awards from year to year.
+• The Committee also retains the ability, within the policy, if events
+occur that cause it to determine that the conditions set in relation
+to an annual bonus plan or a granted PSP award are unable to fulfil
+their original intended purpose, to adjust targets and/or set
+different measures or weightings for the applicable annual bonus
+plan and PSP awards.
+The Committee can use its judgement to make adjustments to
+published outturns for significant events or changes in the Company’s
+asset base that were not envisaged when the targets were originally
+set or for changes to accounting standards, to ensure that the
+performance conditions achieve their original purpose.
+The Committee also has the discretion to reduce or apply other
+restrictions to an award if, after taking into account all circumstances
+known to the Committee, it determines that the amount which a
+participant would otherwise receive pursuant to an incentive award in
+accordance with its terms would result in the participant receiving an
+amount which the Committee considers cannot be justified or which
+the Committee considers to be an unfair or undeserved benefit to the
+participant.
+The Committee has the discretion to override formulaic outcomes to
+the bonus and the PSP or DSBP in order to ensure that outcomes
+reflect true underlying business performance or to reduce awards if
+the business has suffered an exceptional negative event in order to
+ensure that outcomes reflect overall corporate performance.
+The Committee can use its discretion to reduce or waive the post-
+employment shareholding requirement in the event of ill health or
+death. The post-employment shareholding requirement would
+normally fall away on a change of control.
+In addition, the Committee can amend the Remuneration policy with
+regard to minor or administrative matters where it would be, in the
+opinion of the Committee, disproportionate to seek or await
+shareholder approval.
+Any historic share awards that were granted before the date a revised
+policy came into force remain eligible to vest or be exercised or sold
+based on their original award terms and the Remuneration policy that
+was in force when those awards were granted.
+Annual Report 2024 dssmith.com
+115
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 118
+
+The tables below show how we have applied the Remuneration policy during 2023/24. They disclose all the elements of remuneration earned
+by the Directors during the year. Full details of the policy that was voted on in 2023 are included in the 2023 Annual Report which is available on
+our website.
+Ernst & Young LLP has audited, as required by the applicable regulations, those tables labelled as audited.
+Single total figure of remuneration for each Director (audited)
+Executive Directors during 2023/24
+
+Salary
+£’000
+Benefits1
+£’000
+Retirement
+benefits2
+£’000
+Total fixed
+remuneration
+£’000
+Annual bonus3
+£’000
+Long-term
+incentives
+£’000
+Total variable
+remuneration
+£’000
+Total single
+remuneration
+figure
+£’000
+Miles Roberts
+Group Chief Executive
+2022/23
+838
+22
+100
+960
+1,677
+1,3634
+3,040
+4,000
+2023/24
+879
+22
+53
+954
+362
+0
+362
+1,316
+Richard Pike
+Group Finance Director from
+30 June 2023
+2023/245
+460
+16
+25
+501
+142
+n/a
+142
+643
+Adrian Marsh
+Group Finance Director up to
+and including 30 June 2023
+2022/23
+527
+19
+46
+592
+790
+6664
+1,456
+2,048
+2023/246
+89
+4
+5
+98
+27
+0
+27
+125
+1. Taxable benefits in 2022/23 and 2023/24 principally include an annual car allowance of £20,000 for Miles Roberts and of £17,500 for Richard Pike and Adrian
+Marsh. The Executive Directors also receive income protection, life and health cover.
+2. In lieu of membership of the defined contribution scheme Miles Roberts, Adrian Marsh and Richard Pike each received an annual retirement benefit allowance
+which is not pensionable and is not considered to be salary for the purpose of calculating any bonus payment or long-term incentive.
+3. The annual bonus, when paid, is paid 50% in cash and 50% in deferred shares as described in the policy table on page 113.
+4. The long-term incentives for 2022/23 were valued in the 2023 Annual Report using the average share price for the last three months of that financial year, which
+was 328p. This has been restated to reflect the share price on the vesting date of 14 July 2023, which was 288p. This also impacts the total and sub-total figures
+for 2022/23.
+5. Richard Pike became an employee before he joined the Board on 30 June 2023. In the financial year ending 30 April 2023 he was paid remuneration totalling
+£370,594, being salary of £52,179, benefits of £2,545, retirement benefits of £2,870 and amounts compensating for the loss of benefits accrued in his previous
+role of £313,000. In respect of the period from 1 May 2023 to 29 June 2023 he was paid remuneration totalling £125,286, being salary of £89,551, benefits of
+£3,138, retirement benefits of £4,925 and £27,672 being the amount in respect of 2023/24 annual bonus pro-rated to reflect the proportion of the applicable
+period that relates to time when he was not a Director. All of the remuneration he received from 30 June 2023 when he became a director is included in the above
+table, which also includes the amount in respect of 2023/24 annual bonus pro-rated to reflect the proportion of the applicable period that relates to time when he
+was a Director. A conditional award will vest in 2024 (after the date of this report) in favour of Richard Pike. Further details are on page 120.
+6. After Adrian Marsh retired from the Board on 30 June 2023 he continued to be an employee. In respect of the period from 1 July 2023 to 5 September 2023 he
+received remuneration totalling £132,907, being salary of £94,805, benefits of £3,119, retirement benefits of £5,688 and £29,295 being an amount in respect
+of 2023/24 annual bonus pro-rated to reflect the proportion of the applicable period that relates to time when he was not a Director. (These details are repeated
+on page 125 to comply with regulatory requirements.) The figure in the above table in respect of 2023/24 annual bonus is pro-rated to reflect the proportion of
+the applicable period that relates to when he was a Director.
+
+Fees
+£’000
+Total4
+2023/24
+£’000
+Total4
+2022/23
+£’000
+2023/24
+2022/23
+Non-Executive Directors
+
+Geoff Drabble
+337
+330
+337
+330
+Tessa Bamford1
+23
+–
+23
+–
+Celia Baxter
+84
+79
+84
+79
+Alan Johnson2
+67
+59
+67
+59
+Alina Kessel
+67
+64
+67
+64
+Eric Olsen3
+33
+–
+33
+–
+David Robbie
+98
+89
+98
+89
+Louise Smalley
+67
+64
+67
+64
+Total
+776
+685
+776
+685
+1. Tessa Bamford joined the Board on 1 January 2024.
+2. Alan Johnson joined the Board on 1 June 2022.
+3. Eric Olsen joined the Board on 15 May 2023. At Eric’s request, from 10 November 2023 he has not been paid any fee.
+4. Non-Executive Directors received no taxable benefits, annual bonus, long-term incentives or retirement benefit payments during 2022/23 or 2023/24.
+Annual report on remuneration
+116
+Contents
+
+## Page 119
+
+Fixed pay
+Base salary (audited)
+Salaries for Executive Directors (audited)
+1 August 2022
+(£)
+1 August 2023
+(£)
+1 August 2024
+(£)
+Earned in
+2023/24
+(£)
+Miles Roberts
+846,600
+890,000
+926,000
+879,150
+Richard Pike1
+n/a1
+550,000
+572,000
+460, 4492
+Adrian Marsh1
+532,000
+n/a1
+n/a1
+88,6672
+1. Richard Pike joined the Company’s Board and Adrian Marsh retired from the Company’s Board on 30 June 2023.
+2. These amounts relate to the periods when Richard Pike and Adrian Marsh were directors. See page 116 for amounts Richard Pike earned when not a director and
+page 125 for amounts Adrian Marsh earned when not a director.
+When reviewing salaries the Committee takes account of a number of factors, with particular focus on the general level of salary increases
+awarded to employees throughout the Group. Where relevant, the Committee also considers external market data on salary and total
+remuneration. In April 2024 the usual review of executive remuneration was held and it was agreed that a pay increase would be implemented
+on 1 August 2024 of 4% for Miles Roberts and of 4% Richard Pike, an increase that took into account the average increase of 4.1% for the UK
+workforce as a whole.
+Fees for Non-Executive Directors and the Chair (audited)
+In addition to a base fee of £67,750, the Chair of the Audit Committee and the Chair of the Remuneration Committee each receive a fee of
+£18,000 per annum and the Senior Independent Director receives a fee of £15,000 per annum. The fee for the Chair, which had been fixed for
+three years, was increased with effect from 3 January 2024 from £330,000 to £345,000, an increase made taking into account market rates for
+comparable positions. It was agreed that an increase of 4% would be implemented on 1 August 2024 in respect of the base fee for Non-
+Executive Directors increasing that to £70,500. This decision took into account market rates for comparable positions and the average increase
+for the UK workforce as a whole of 4.1%.
+
+Base fee effective from
+Earned in
+2023/24
+(£)
+1 August 2022
+(£)
+ 1 August 2023
+(£)
+1 August 2024
+(£)
+Geoff Drabble
+330,000
+330,0001
+345,0001
+336,654
+Tessa Bamford2
+n/a
+n/a
+70,500
+22,583
+Celia Baxter
+64,500
+67,750
+70,500
+84,188
+Alan Johnson
+64,500
+67,750
+70,500
+66,938
+Alina Kessel
+64,500
+67,750
+70,500
+66,938
+Eric Olsen3
+n/a
+67,750
+70,500
+32,737
+David Robbie
+64,500
+67,750
+70,500
+97,938
+Louise Smalley
+64,500
+67,750
+70,500
+66,938
+1. Geoff Drabble’s fee was increased with effect from 3 January 2024 to £345,000.
+2. Tessa Bamford joined the Board on 1 January 2024.
+3. Eric Olsen joined the Board on 15 May 2023. At Eric’s request from 10 November 2023 Eric has not been paid any fee.
+Annual Report 2024 dssmith.com
+117
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 120
+
+Variable pay
+The Committee believes it is important that a significant portion of the Executive Directors’ package is performance-related and that the
+performance conditions support the delivery of the Group’s strategy and its long-term sustainable success. The Remuneration policy
+encourages long-term performance by setting challenging targets linked to sustainable growth for variable pay, which consists of the annual
+bonus and the longer-term PSP. The Remuneration Committee has discretion to adjust retrospectively the targets, for example after a
+substantial restructuring, and would normally discuss this with its larger shareholders. Alternatively, adjustments to published outturns may be
+appropriate for significant events or changes in the asset base that were not envisaged when the targets were originally set, to ensure that the
+performance conditions achieve their original purpose. Full disclosure of this would be given in the Remuneration Report. The Remuneration
+Committee has the discretion to override formulaic outcomes in order to ensure that outcomes reflect true underlying business performance.
+When considering that discretion in relation to the annual bonus for 2023/24 the Committee took, and in relation to the annual bonus for
+2024/25 the Committee will take, into account various ESG matters (as described on page 119).
+Performance measures
+An explanation of the performance measures for the annual bonus (assessed on a constant currency basis) and PSP (assessed on an actual
+currency basis without adjustments for exchange rate movements) is set out below. The strategic rationale for the choice of these performance
+measures is to focus on the key measures (both financial and strategic) over the performance period for the PSP and the annual bonus.
+Adjusted earnings per share (EPS) applicable to the PSP
+Adjusted EPS is disclosed in the Annual Report and is the portion of the Group’s adjusted after tax profit allocated to each outstanding share.
+Adjusted EPS is an indicator of the underlying performance of the Group.
+Adjusted return on average capital employed (ROACE) applicable to the PSP
+ROACE is disclosed in the Annual Report. It is defined as earnings before interest, tax, amortisation and adjusting items as a percentage of
+average capital employed, including goodwill. This is a measure of the efficiency and profitability of the assets and investments.
+Total shareholder return (TSR) applicable to the PSP
+TSR is the increase (or decrease) in the value of a notional investment in a share in the Company and each of the companies in the Industrial
+Goods and Services Supersector within the FTSE 350 Index over the three-year PSP performance period, taking account of share price
+movement and the value of dividends (which are deemed to be re-invested) over that period. This is a measure that takes into account the
+experience of shareholders over the applicable period. However the impact of the prospect of corporate activity during the 60 day period
+ending on 30 April 2024, (which would have been the starting point for a relative TSR measure for the applicable performance period) and the
+impact of International Paper Company’s share price on the Company’s share price was such that it was decided not to include a TSR measure in
+the PSP awards made in 2024/25: see page 108.
+Adjusted earnings before tax and amortisation (EBTA) applicable to annual bonus
+EBTA is adjusted earnings before taxation, amortisation and income from associates. This measure gives a snapshot of the performance of the
+Group in the short term of a single financial year.
+Free cash flow applicable to annual bonus
+Free cash flow is the net movement on debt before cash outflow for adjusting items, dividends paid, acquisition and disposal of subsidiary
+businesses (including borrowings acquired), and proceeds from issue of share capital, adjusted for the effects of changes in factoring balances.
+This measure focuses on liquidity: see page 108.
+Strategic objectives applicable to annual bonus
+There are a number of important strategic objectives for 2024/25, which are receiving particular focus in 2024/25: see page 108.
+Annual bonus
+2023/24 annual bonus
+The Executive Directors’ targets for the 2023/24 bonus were based on the financial targets set out below, with annual bonus payments
+determined by reference to performance over the financial year ended 30 April 2024. Achievement is calculated on a straight-line basis
+between threshold and target and between target and maximum. Adjusted EBTA and free cash flow have equal weighting as annual bonus
+performance measures.
+Targets and outcomes (audited)
+Financial measure
+Threshold
+0% of maximum
+Target
+50% of maximum
+Maximum
+Achieved
+Adjusted EBTA
+£576m
+£621m
+£657m
+£613m
+Free cash flow
+£(56)m
+£(16)m
+£19m
+£(182)m
+118
+Annual report on remuneration continued
+Contents
+
+## Page 121
+
+ESG underpin
+ESG underpin element
+Assessment of performance in 2023/24
+Roll out of an updated Now & Next Sustainability Strategy,
+which includes our approach to the delivery of science-based
+targets, to take account of updated actual performance and
+current customer/regulatory requirements
+The updated Now & Next Sustainability Strategy was successfully
+rolled out to employees, customers and investors in 2023. For more
+information see pages 30 to 37.
+Continuing maintenance of high health and safety standards
+Group-wide lost time accident performance is 12% better than
+2022/23. Group-wide H&S engagement index has increased in each of
+the last seven years, further evolving our safety culture and
+contributing to the reduction in the total number of accidents (with
+and without lost time) that is 13.6% better than 2022/23. For more
+information see pages 26 and 27.
+Continued work with our communities
+The Group has completed the planned community programme activity
+in all 157 targeted sites.
+Outcomes (audited)
+Miles Roberts
+Richard Pike
+Adrian Marsh
+Adjusted EBTA (as a proportion of the maximum opportunity)
+20.6/50
+20.6/50
+20.6/50
+Free cash flow (as a proportion of the maximum opportunity)
+0/50
+0/50
+0/50
+Total (as a proportion of the maximum opportunity)
+20.6/100
+20.6/100
+20.6/100
+Maximum bonus opportunity as a % of salary
+200%
+150%
+150%
+Value of bonus paid in cash
+£181,105
+£71,1391
+£13,6992
+Value of bonus deferred into shares
+£181,105
+£71,1391
+£13,6992
+Overall award level
+£362,210
+£142, 2781
+£27,3982
+1. This amount is pro-rated to reflect the proportion of the applicable period that relates to time when he was a Director from 30 June 2023.
+2. This amount is pro-rated to reflect the proportion of the applicable period that relates to time when he was a Director, up to and including 30 June 2023.
+Performance is assessed on a constant currency basis and therefore the actual published results are restated for bonus purposes using
+budgeted exchange rates.
+Bonus awards are measured against the achievement of the Group’s objectives. Maximum bonus opportunity for 2023/24 for Miles Roberts was
+200% of salary and for Richard Pike and Adrian Marsh was 150% of salary and was between 50% and 100% for the other most senior executives.
+When deciding the level of variable pay, including the annual bonus, the Committee considered the experience of the Group’s stakeholders
+during the 2023/24 financial year (as summarised on page 107). The Committee concluded that the outcome of the annual bonus in respect of
+2023/24 appropriately reflected the Company’s performance in 2023/24 and was commensurate with the broader stakeholder experience in
+that period; and that appropriate progress and actions have continued to be made to realise our ESG agenda. It was therefore not felt necessary
+to apply any discretion to amend the outcome of the overall award level.
+Implementation for 2024/25
+The annual bonus for 2024/25 will remain in line with the Remuneration policy and with a maximum opportunity of 200% of salary for the
+Group Chief Executive and 150% for the Group Finance Director.
+For 2024/25 the bonus will be based on EBTA (as to 75% of maximum bonus opportunity) and strategic objectives (as to 25% of maximum
+bonus opportunity). In the event of an unbudgeted acquisition or disposal in the year, the Committee will assess how the financial performance
+of the acquired or disposed of company should be treated.
+In the opinion of the Committee, the annual bonus targets for 2024/25 are commercially sensitive and accordingly are not disclosed prospectively.
+These will be disclosed next year in the Directors’ remuneration report, so that achievement against those targets will be visible, in retrospect.
+When considering the application of discretion to override the formulaic outcome for the 2024/25 annual bonus, the Committee will take into
+account the following factors:
+• Continued delivery of the updated Now & Next Sustainability Strategy and of progress towards our science-based targets, taking
+account of updated actual performance and current customer/regulatory requirements
+• Continuing maintenance of high health and safety standards
+• Continued work with our communities.
+Annual Report 2024 dssmith.com
+119
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 122
+
+The Committee will report on its assessment of the Group’s performance in those ESG underpin factors in the Annual Report 2025 (following a
+similar format to its assessment for 2023/24).
+Having an ESG underpin in this way acknowledges the importance of ESG which is integral to the DS Smith strategy, and in particular our
+strategic goal to lead the way in sustainability.
+Performance Share Plan (PSP)
+Overview of the Performance Share Plan
+The PSP operates as a long-term incentive plan for senior managers in the Group, with awards vesting after three years, and held for a further
+two years by the Executive Directors.
+The awards in the past have had three performance measures: adjusted EPS, adjusted ROACE and relative TSR. These had equal weighting.
+The Committee’s policy is that no adjustments for exchange rate movements are made to EPS and ROACE over the three-year performance
+period as these are of a long-term nature and fluctuations are more likely to average out over the period.
+The relative TSR vesting scale is median to upper quartile performance, with no vesting below median performance. 25% of the award vests for
+achieving threshold performance, increasing on a straight-line basis to full vesting for maximum performance.
+The TSR comparator group for the 2021/22, 2022/23 and 2023/24 awards is the FTSE 350 Industrial Goods and Services Supersector.
+2021/22 awards and their performance targets (audited)
+The PSP award made on 8 July 2021 has EPS, ROACE and TSR performance conditions, each with an equal weighting and measured at the end of
+the three-year performance period ending on 30 April 2024. Those performance targets and actual performance against those targets are set
+out in the table below. 25% of the PSP award would have vested for achieving threshold performance, increasing on a straight-line basis to full
+vesting for maximum performance. Unfortunately the threshold vesting targets were not met.
+
+Weighting
+Threshold
+(25% vests)
+Maximum
+(100% vests)
+Outcome
+Adjusted EPS
+One third
+35.2p
+40.0p
+33.1p
+Adjusted ROACE
+One third
+11.2%
+13.1%
+10.7%
+Relative TSR1
+One third
+Median
+Upper quartile
+Below median
+1. Measured against the FTSE 350 Industrial Goods and Services Supersector.
+Deferred share bonus plan (DSBP) awards vesting in 2024
+The DSBP award vesting in 2024 relates to the deferral into shares of half of the bonus paid in July 2021 in relation to the financial year
+2020/21. The number of shares vesting in 2024 under the DSBP award granted on 8 July 2021 to Miles Roberts is 177,529. Details of those
+awards and the single total figure of remuneration that included them were set out in the remuneration report for 2020/21. Dividend
+equivalents for the DSBP award also accrued during the three-year vesting period. Those dividend equivalents will be paid to Miles Roberts in
+27,055 shares shortly after the award vests on 8 July 2024, the third anniversary of grant of the award. This award is subject to a two-year
+post-vesting holding period and after vesting will be held in a nominee arrangement, if the required shareholding in the nominee arrangement
+has not been met, because it is subject to a post-employment holding condition.
+Conditional award vesting in 2024
+To compensate Richard Pike for share-based incentive awards that he forfeited on leaving his former employer, Richard was granted a
+conditional award on terms equivalent to the DSBP in respect of the Company’s shares over 85,675 shares, which will vest after the date of this
+report in 2024. Dividend equivalents for this award also accrued during the vesting period. Those dividend equivalents will be paid in 5,543
+shares, shortly after the award vests. This award is subject to a two-year post-vesting holding period and after vesting will be held in a nominee
+arrangement, if the required shareholding in the nominee arrangement has not been met, because it is subject to a post-employment holding
+condition.
+120
+Annual report on remuneration continued
+Contents
+
+## Page 123
+
+PSP and DSBP awards granted in 2023 vesting in 2026/27 (audited)
+The PSP awards made in 2023 in respect of 2023/24 were in line with the applicable Remuneration policy and, as reported in last year’s
+Remuneration Report, were:
+• 225% of salary for the Group Chief Executive and 200% of salary for the Group Finance Director
+• Any shares that vest under the PSP awards granted in 2023/24 must be retained for a further two years before they can be sold (a total of
+five years from original grant) and they are also subject to a post-employment holding condition, meaning that any applicable shares that
+vest will be held in a nominee arrangement, if the required shareholding level in the nominee arrangement has not been met. For any PSP
+awards which vest following departure that have been granted good leaver treatment, the Committee will reduce the two year post-vesting
+holding period so that it does not extend beyond the second anniversary of departure, provided that the three year period after grant has
+been completed
+• The PSP awards were granted as nil-cost options and are subject to three performance measures: adjusted EPS, adjusted ROACE and relative
+TSR, with equal weighting on each element.
+The DSBP awards made in 2023 relate to the deferral into shares of half of the bonus paid in 2023 in relation to the bonus award included in the
+single total figure of remuneration for 2022/23. They were granted as nil-cost options and are not subject to performance conditions, but are
+subject to continued employment. The DSBP award granted to Adrian Marsh was granted after he retired from the Board on 30 June 2023 and
+will be treated in accordance with the DSBP rules that apply to a good leaver.
+Executive Director
+Award
+Number of options granted under award
+on 10 July 2023
+Face value of award at time of grant
+(£)
+Miles Roberts
+PSP
+687,671
+1,904,849
+DSBP
+302,689
+838,449
+Richard Pike
+PSP
+397,111
+1,099,997
+Employee
+Award
+Number of options granted under award
+on 10 July 2023
+Face value of award at time of grant
+(£)
+Adrian Marsh
+DSBP
+142,655
+395,154
+These PSP and DSBP awards were made on 10 July 2023. The face value in the above table is calculated using 277p which was the average price
+of a DS Smith share for the three trading days preceding the grant of the award and the price used in the calculation of the number of options
+awarded.
+The targets for the 2023/24 PSP award are set out below:
+% vesting as a proportion
+Adjusted EPS
+One third
+Adjusted ROACE
+One third
+Relative TSR
+One third1
+100%
+42.0p
+13.8%
+Upper quartile
+Between 25% and 100%
+36.0 – 42.0p
+12.0 – 13.8%
+Between median and upper quartile
+25%
+36.0p
+12.0%
+Median
+1. The comparator group for measurement of relative TSR is the FTSE 350 Industrial Goods and Services Supersector, as it was in 2021/22 and 2022/23.
+Awards vest on a straight-line basis between threshold and maximum performance. The performance measurement period for the adjusted
+EPS and adjusted ROACE targets is the 2025/26 financial year and for the relative TSR target is the three years to 30 April 2026.
+PSP awards to be granted in 2024 vesting in 2027/28
+The PSP awards to be made in 2024 in respect of 2024/25 will be in line with the applicable Remuneration policy, with grants being made of up
+to 225% of salary for the Group Chief Executive and 200% of salary for the Group Finance Director. As a matter of best practice, before
+finalising the PSP award levels, the Committee considered the movements in the share price since the 2023 PSP grant and will monitor
+performance against the targets to consider whether discretion should be applied to the formulaic outturn when determining the vesting
+outturn.
+Annual Report 2024 dssmith.com
+121
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 124
+
+The targets for the 2024/25 PSP award will be adjusted EPS and adjusted ROACE each having equal weighting:
+% vesting as a proportion
+ Adjusted EPS
+One half
+Adjusted ROACE
+One half
+100%
+40.2p
+13.8%
+Between 25% and 100%
+35.1 – 40.2p
+12.0 – 13.8%
+25%
+35.1p
+12.0%
+Awards vest on a straight-line basis between threshold and maximum performance. The performance of adjusted EPS and adjusted ROACE will
+be measured on an average basis over the applicable performance period.
+The Committee’s aim, as always, has been to set robust targets with a strong degree of stretch in the applicable economic context. In setting the
+target ranges the Committee took into account a number of factors which included our medium-term growth targets, the volatility of paper
+pricing and our investment programme. Our desire continues to be to set targets which balance stretch with the ability to at least achieve the
+threshold level so that awards remain motivating and meaningful to all participants.
+DSBP awards in 2024
+As set out on page 119, half of the value of the bonus to be paid in 2024 in respect of the performance over the financial year ended 30 April
+2024, will be deferred into shares, which will not vest until 2027.
+Outstanding PSP and DSBP share awards during 2023/24 and as at 30 April 2024 (audited)
+The table below sets out details of outstanding share awards, both under the PSP and the DSBP, held by Miles Roberts, Richard Pike and Adrian
+Marsh during the year under review. Unvested awards will vest in future years subject to performance and/or continued service. Vested awards
+will expire if not exercised before the relevant expiry date.
+ Award date
+Awards held
+at 30 April
+2023
+Granted
+Dividend
+equivalents
+Exercised/
+vested1
+Lapsed/
+forfeited
+Grant price
+for award
+(p)2
+Market
+price on
+date of
+exercise (p)
+Awards held
+at 30 April
+2024
+Vesting date
+(if any
+performance
+conditions
+applicable
+are met)
+Expiry date
+Miles Roberts
+
+PSP
+14 Jul 20
+647,123
+–
+41,976
+473,391
+215,708
+272.00
+305.8
+0
+14 Jul 23
+14 Jul 30
+PSP
+8 Jul 21
+411,635
+–
+–
+–
+–
+434.00
+–
+411,635
+8 Jul 24
+8 Jul 31
+PSP
+27 Jun 22
+638,153
+–
+–
+–
+–
+287.00
+–
+638,153
+27 Jun 25
+27 Jun 32
+PSP
+10 Jul 23
+–
+687,671
+–
+–
+–
+277.00
+–
+687,671
+10 Jul 26
+10 Jul 33
+
+DSBP
+15 Jul 19
+168,944
+–
+–
+168,944
+–
+357.00
+305.8
+0
+15 Jul 22
+15 Jul 29
+DSBP
+8 Jul 21
+177,529
+–
+–
+–
+–
+434.00
+–
+177,529
+8 Jul 24
+8 Jul 31
+DSBP
+27 Jun 22
+281,881
+–
+–
+–
+287.00
+–
+281,881
+27 Jun 25
+27 Jun 32
+DSBP
+10 Jul 23
+–
+302,689
+–
+–
+–
+277.00
+–
+302,689
+10 Jul 26
+10 Jul 33
+
+ 2,499,558
+
+Richard Pike
+PSP
+10 Jul 23
+–
+397,111
+–
+–
+277.00
+–
+397,111
+10 Jul 26
+10 Jul 33
+
+–
+
+397,111
+
+Adrian Marsh
+
+PSP
+14 Jul 20
+316,286
+–
+–
+–
+–
+272.00
+–
+n/a3
+14 Jul 23
+14 Jul 30
+PSP
+8 Jul 21
+229,953
+–
+–
+–
+–
+434.00
+–
+n/a3
+8 Jul 24
+8 Jul 31
+PSP
+27 Jun 22
+356,445
+–
+–
+–
+287.00
+n/a3
+27 Jun 25
+27 Jun 32
+
+DSBP
+8 Jul 21
+83,672
+–
+–
+–
+–
+434.00
+–
+n/a3
+8 Jul 24
+8 Jul 31
+DSBP
+27 Jun 22
+132,850
+–
+–
+–
+287.00
+–
+n/a3
+27 Jun 25
+27 Jun 32
+DSBP
+10 Jul 23
+–
+142,655
+–
+–
+–
+277.00
+–
+n/a3
+10 Jul 26
+10 Jul 33
+1. As at 30 April 2024 neither Miles Roberts nor Richard Pike held any vested, but unexercised PSP or DSBP awards.
+2. The figure in this column is the average price of a DS Smith share for the three trading days preceding the award and is the price used in the calculation of the
+number of options originally awarded.
+3. Adrian Marsh retired from the Board on 30 June 2023.
+122
+Annual report on remuneration continued
+Contents
+
+## Page 125
+
+The target ranges for the 2021/22 PSP awards are set out on page 120. The target ranges for the 2023/24 awards are set out on page 121. The
+relative TSR target for the 2022/23 award is the same as it was for the 2021/22 award. For the 2022/23 awards the target ranges for EPS and
+ROACE are set out in the audited table below and will be measured at the end of the performance period.
+PSP plan
+EPS range
+ROACE range
+2022/23
+36.0 – 42.0p
+12.0 – 13.8%
+It is currently intended that any ordinary shares required to fulfil entitlements under the DSBP and the award granted to Richard Pike in
+connection with his recruitment (the full details of which were set out on pages 116 and 117 of Annual Report 2023) will be satisfied solely with
+existing shares acquired by Computershare Trustees (Jersey) Limited in its capacity as trustee of the employee benefit trust (the Trust), which
+buys shares to do so. The Trust may also be used to fulfil certain entitlements under the PSP and the employee sharesave plans or those may be
+fulfilled by newly-issued shares.
+Sharesave – employee share plans (audited)
+Executive Directors are eligible to participate in the Sharesave (SAYE) on the same terms as all other UK-based employees of the Company and
+participating subsidiaries of the Group. Options are granted under the SAYE, which, in the UK, is an HMRC tax-advantaged plan. Participants
+contract to save up to the equivalent of £250 per month over a period of three years (two years in the US). The current maximum permitted
+monthly saving of the equivalent of £250 is set by the Company. Under the applicable plan rules (and the Remuneration policy) the monthly
+maximum could be increased in the future to up to the equivalent of £500 per month. The option price is discounted by up to 20% (15% in the
+US) of the average closing mid-market price of the Company’s shares on the three dealing days prior to invitation (20-day average to the day
+before grant in France and the higher of the mid-market average price on the day before invitation and the mid-market average on the day
+before grant in the US). In common with most plans of this type, there are no performance conditions applicable to options granted under the
+SAYE.
+Options held at
+30 April 2023
+Options granted
+during the year
+Options
+exercised during
+the year
+Options lapsed
+during the year
+Market price on
+date of exercise
+(p)
+Options held at
+30 April 2024
+Exercise price
+(p)
+Date from which
+exercisable
+Expiry date
+Miles Roberts
+2,769
+–
+–
+–
+–
+2,769
+325.00
+1 Apr 24
+30 Sep 24
+Adrian Marsh
+2,769
+–
+–
+2,769
+–
+-1
+325.00
+1 Apr 24
+30 Sep 24
+1. Adrian Marsh retired from the Board on 30 June 2023.
+Richard Pike does not hold any SAYE options.
+Share ownership guidelines
+Executive Directors are expected to build a significant shareholding in the Company within five years from the date of their appointment as an
+Executive Director. Executive Directors’ shareholdings (including those of their connected persons) are summarised in the following audited table:
+Name of Director
+Total
+shareholding as at
+30 April 2023
+Total
+shareholding as at
+30 April 2024
+Unvested only
+subject to
+continued
+employment
+Vested awards
+(not exercised)
+Shareholding
+required
+(% salary)
+Shareholding at
+30 April 2024
+(% salary)1
+Requirement
+met
+Executive Directors during 2023/24
+
+Miles Roberts
+2,063,831
+2,314,282
+403, 9122
+0
+225%
+1,069%
+Yes
+Richard Pike
+n/a3
+461,586
+45,4084
+0
+200%
+323%
+Yes
+Adrian Marsh
+301,021
+n/a5
+n/a5
+n/a5
+n/a5
+n/a5
+n/a5
+1. Based on the salary as at 30 April 2024 and a share price of 350p (being the closing price on 30 April 2024) multiplied by the current year shareholding and
+interests in shares which count towards the shareholding requirement.
+2. Includes the awards of deferred bonus shares granted in 2021, 2022 and 2023, which are not subject to any further performance conditions. A reduction to the
+gross award levels of 47% has been applied for the expected level of tax and social security deductions that will ultimately be due on these shares.
+3. Richard Pike joined the Board on 30 June 2023.
+4. Includes the conditional award that is due to vest after the date of this report in 2024. That award is not subject to any further performance conditions.
+A reduction to the gross award levels of 47% has been applied for the expected level of tax and social security deductions that will be due on these shares.
+5. Adrian Marsh retired from the Board on 30 June 2023, when he held 301,021 shares.
+The PSP awards granted in 2022 and 2023 are unvested and remain subject to performance conditions so are not included in the above table as
+they do not count towards the shareholding requirement. Nil-cost options which have vested but have yet to be exercised are considered to
+count towards the shareholding requirement, other than any such shares that correspond to the estimated tax and national insurance
+contributions. As at 30 April 2024 Miles Roberts and Richard Pike did not hold any such vested, but unexercised awards.
+Failure to meet the minimum shareholding requirement is taken into account when determining eligibility for share-based incentive awards for
+Executive Directors. There have been no changes to the shareholdings set out above between the financial year-end and the date of this report.
+Awards which vested on 14 July 2023 are held in a nominee arrangement because they are subject to a post-employment holding condition (in
+addition to the two-year post-vesting holding condition that applies to vested PSP awards). Awards which vest in subsequent years will, if the
+required shareholding in the nominee arrangement has not been met, also be held in that nominee arrangement. On cessation of employment,
+Adrian Marsh was required to retain for a period of two years in that nominee arrangement a shareholding, in respect of awards granted from
+2020 onwards only, equal to the lower of 200% of his base salary or his actual shareholding in that arrangement on cessation of employment.
+Annual Report 2024 dssmith.com
+123
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 126
+
+Non-Executive Directors are expected to build up a holding in shares equivalent to 50% of their annual fees within two years of their date of
+appointment. Non-Executive Directors’ shareholdings (including those of their connected persons) are summarised in the following audited table:
+Name of Director
+Total
+shareholding as at
+30 April 2023
+Total
+shareholding as at
+30 April 2024
+Shareholding
+required
+(% fee)
+Shareholding at
+30 April 2024
+(% fee)1
+Requirement
+met
+Non-Executive Directors during 2023/24
+
+Geoff Drabble
+77,445
+77,445
+50%
+79%
+Yes
+Tessa Bamford2
+–
+0
+50%
+0%
+No2
+Celia Baxter
+15,113
+15,113
+50%
+62%
+Yes
+Alan Johnson
+12,596
+12,596
+50%
+65%
+Yes
+Alina Kessel
+19,000
+19,000
+50%
+98%
+Yes
+Eric Olsen3
+–
+26,000
+50%
+134%
+Yes3
+David Robbie
+30,000
+30,000
+50%
+104%
+Yes
+Louise Smalley
+18,600
+18,600
+50%
+96%
+Yes
+1. Based on the fee as at 30 April 2024 and a share price of 350p (being the closing price on 30 April 2024) multiplied by the current year shareholding and interests
+in shares which count towards the shareholding requirement.
+2. Tessa Bamford joined the Board on 1 January 2024. She has not yet been on the Board for two years.
+3. Eric Olsen joined the Board on 15 May 2023. He has not yet been on the Board for two years and at his request from 10 November 2023 he has not been paid any
+fee. Based on an annual fee of £67,750 he would have met his shareholding requirement.
+External appointments
+The Board supports Executive Directors taking up appointments outside the Company to broaden their knowledge and experience. Each
+Executive Director is permitted to accept one non-executive appointment (or in exceptional circumstances two appointments) from which they
+may retain any fee. Any external appointment must not conflict with a Director’s duties and commitments to DS Smith.
+Miles Roberts was appointed a non-executive director of Land Securities Group PLC with effect from 19 September 2022 and retained fees of
+£71,925 for the year ended 30 April 2024 (£43,526 for the year ended 30 April 2023).
+Directors’ contracts and notice periods
+
+Date of
+initial appointment to the Board
+Expiry date of current term
+for Non-Executive Directors
+Geoff Drabble
+Chair
+1 September 2020
+31 August 2026
+Miles Roberts
+Group Chief Executive
+4 May 2010
+not applicable
+Richard Pike
+Group Finance Director
+30 June 2023
+not applicable
+Tessa Bamford
+1 January 2024
+31 December 2026
+Celia Baxter
+Chair of Remuneration Committee
+9 October 2019
+8 October 2025
+Alan Johnson
+1 June 2022
+30 May 2025
+Alina Kessel
+
+1 May 2020
+30 April 2026
+Eric Olsen
+15 May 2023
+14 May 2026
+David Robbie
+Chair of Audit Committee
+ and Senior Independent Director
+11 April 2019
+10 April 2025
+Louise Smalley
+
+23 June 2014
+3 September 2024
+Miles Roberts and Richard Pike each have a notice period of 12 months exercisable by either the Company or the individual. It was announced on
+7 December 2023 that Miles Roberts had informed the Company of his intention, following 13 years with the Company, to retire from the Board
+and from his role as Group Chief Executive. It is intended that Miles’ formal notice period will start on 1 December 2024, which means that he
+would retire from the Board and step down as Group Chief Executive no later than 30 November 2025. It was announced in June 2024 that
+Louise Smalley will retire from the Board with effect from the conclusion of the 2024 AGM. Non-Executive Directors have letters of
+appointment for an initial term of three years whereupon they are normally renewed. The current terms of the Non-Executive Directors are set
+out in the table above. The notice period is one month exercisable by either the Company or the Non-Executive Director. In line with the UK
+Corporate Governance Code, all Directors (including Non-Executive Directors) are subject to annual re-election by shareholders at the AGM.
+Their letters of appointment detail the time commitment expected of each Non-Executive Director. Both these and the Executive Directors’
+service contracts are available for inspection at the registered office during normal business hours and at each AGM.
+124
+Annual report on remuneration continued
+Contents
+
+## Page 127
+
+Payments to past Directors (audited)
+After Adrian Marsh retired from the Board on 30 June 2023 he continued to be an employee. In respect of the period from 1 July 2023 to
+5 September 2023 he received remuneration totalling £132,907, being salary of £94,805, benefits of £3,119, retirement benefits of £5,688
+and £29,295 being an amount in respect of 2023/24 annual bonus pro-rated to reflect the proportion of the applicable period that relates to
+time when he was not a Director. No other payments were made to past Executive Directors during the year ended 30 April 2024 (2022/23: Nil).
+Payments for loss of office (audited)
+No payments were made in respect of loss of office during the year ended 30 April 2024 (2022/23: Nil).
+Relative importance of spend on pay
+The table below shows the expenditure and percentage change in overall spend on employee remuneration and dividends.
+
+2023/24
+£m
+2022/23
+£m
+Percentage
+change
+Overall expenditure on employee pay1
+1,447
+1,504
+(4)%
+Dividend paid during the year2
+247
+289
+(15)%
+1. Total remuneration reflects overall employee costs and includes some exchange rate fluctuation. See consolidated financial statements note 6 for further
+information.
+2. The year on year change in the dividend paid figure is due to the timing of dividend payments in the prior year.
+Review of past performance — total shareholder return graph
+The graph below illustrates the Company’s TSR performance since 1 May 2014 (the period required by the applicable regulations), relative to
+the FTSE 100 Index as well as the FTSE 250 Index. In December 2017 the Company joined the FTSE 100 Index from the FTSE 250 Index.
+Therefore, both indices are considered appropriate comparator indices for the Company. As at 30 April 2024 DS Smith ranked 81 by market
+capitalisation. This graph looks at the value, over the ten years to 30 April 2024, of an initial investment of £100 in DS Smith shares compared
+with that of £100 invested in both the FTSE 100 and FTSE 250 Index. The other points plotted are the values at intervening financial year ends.
+23
+24
+22
+21
+20
+19
+18
+17
+16
+15
+14
+Total shareholder return
+0
+50
+100
+150
+200
+250
+300
++72.2%
+DS Smith
+FTSE 100
+FTSE 250
+Remuneration of the Group Chief Executive
+The table below shows the total remuneration figure for the Group Chief Executive for each of the last ten financial years. The total remuneration
+figure includes the annual bonus and long-term incentive awards which vested, based on performance in those years. The annual bonus and
+long-term incentive awards percentages show the payout for each year as a percentage of the maximum available for the financial year.
+
+2014/15
+2015/16
+2016/17
+2017/18
+2018/19
+2019/20
+2020/21
+2021/22
+2022/231
+2023/24
+Total remuneration
+(£’000)
+5,527
+4,447
+4,861
+4,220
+3,065
+1,422
+2,525
+2,580
+4,000
+1,316
+Annual bonus
+payout
+88%
+79%
+45%
+88%
+74%
+0%
+98%
+100%
+100%
+21%
+Long-term
+incentive vesting
+92%
+94%
+100%
+93%
+52%
+35%
+0%
+0%
+66.67%
+0 %
+1. The 2022/23 figure has been restated to include the actual share price on the date of vesting (14 July 2023) for the actual number of options vesting under that
+PSP award that is now known.
+Annual Report 2024 dssmith.com
+125
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 128
+
+Group Chief Executive pay ratio disclosures (audited)
+Method
+25th percentile
+Median
+75th percentile
+Total pay ratio
+Total pay ratio
+Total pay ratio
+2018/19
+B
+100:1
+91:1
+72:1
+2019/20
+B
+52:1
+44:1
+35:1
+2020/21
+B
+90:1
+71:1
+60:1
+2021/22
+B
+81:1
+60:1
+56:1
+2022/23
+B
+126:1
+99:1
+96:1
+2023/24
+B
+36:1
+29:1
+28:1
+The table above sets out how the single total figure of remuneration (STFR) for the Group Chief Executive compares to the STFR of the UK
+employees at the 25th percentile, median and 75th percentile. All STFRs for the 2023/24 financial year have been based on full-time equivalent
+values and annualised where necessary. In last year’s Annual Report the ratios for 2022/23 were calculated using the average share price in the
+last three months of the financial year as an estimate for the value of the 2020/21 PSP. Those figures have been restated to reflect the actual
+share price on the vesting day of 14 July 2023 now that this is known. The table below sets out the split between total remuneration (fixed and
+variable pay and benefits) and the salary component of that total for UK employees used in the above total pay ratio calculations. DS Smith has
+chosen to use methodology B (as defined in the applicable regulations) to calculate the figures in the tables above and below, because, in
+2023/24 as was the case in prior years, there were multiple bonus plans in place across the UK which are not payable in some cases in advance
+of the Directors’ remuneration report being approved by the Board, meaning it is not practically possible to collate the bonus amounts relating
+to performance during 2023/24 for every UK employee in advance of this remuneration report being approved.
+Remuneration used to calculate the Group Chief Executive pay ratio disclosures
+
+25th percentile pay ratio
+Median pay ratio
+75th percentile pay ratio
+Total remuneration
+(£)
+Base salary
+(£)
+Total remuneration
+(£)
+Base salary
+(£)
+Total remuneration
+(£)
+Base salary
+(£)
+2018/19
+30,744
+26,608
+33,804
+32,051
+42,277
+31,622
+2019/20
+27,244
+26,647
+32,342
+31,479
+40,349
+36,202
+2020/21
+28,042
+25,729
+35,384
+33,566
+42,142
+39,756
+2021/22
+31,877
+28,282
+42,645
+37,647
+46,215
+42,210
+2022/23
+31,850
+30,632
+40,288
+38,748
+41,564
+39,217
+2023/24
+36,201
+34,026
+44,945
+39,174
+46,971
+42,122
+As DS Smith uses methodology B, the 2023 UK gender pay gap data has been used to identify the relevant comparator employee falling at the
+relevant percentile and to calculate the annual total remuneration relating to 2023/24 for the three identified employees on the same basis as
+the Group Chief Executive’s annual total remuneration for the same period in the single figure table. We are confident that the three employee
+STFR figures (which include applicable bonus) used in the pay ratio reporting are as representative of the respective percentiles as would have
+been the case if the 2023/24 STFR had been calculated for all UK employees. (The data reference date was 22 April 2024.)
+As a result of the large proportion of variable pay in the Group Chief Executive’s total reward, the ratio can be subject to a high degree of
+volatility from one year to the next. That is the case this year, when, a reduced level of variable pay has resulted in a marked decrease in the
+ratio.
+We will continue to report on trends in these figures, which are expected to fluctuate as variable pay outcomes fluctuate for the Group Chief
+Executive. The Company does believe that the median pay ratio for 2023/24 is consistent with the pay, reward and progression policies for UK
+employees taken as a whole.
+126
+Annual report on remuneration continued
+Contents
+
+## Page 129
+
+Annual percentage change in remuneration of Executive and Non-Executive Directors and employees
+The table below shows the percentage change in three aspects of remuneration (salary or fee, benefits and bonus) for the Group Chief
+Executive, the Group Finance Director and the Non-Executive Directors who were Directors at 30 April 2024 compared to full-time equivalent
+employees of the Company. (The format of the table is prescribed by regulation. Benefits and bonus are not applicable to Non-Executive
+Directors.) The section headed ’% change on prior year for 2023/24’ sets out the change from financial year 2022/23 to financial year 2023/24.
+The normal date for any implementation of a pay review is 1 August, not the start of the financial year. However the most recent fee increase
+for Geoff Drabble was with effect from 3 January 2024, being the anniversary of his becoming Chair. The increase in fees for certain Non-
+Executive Directors also includes the increases in fees for their additional roles. (Other explanatory notes concerning the figures for the prior
+years were set out in the Annual Reports for 2021, 2022 and 2023.)
+Miles
+Roberts
+Richard
+Pike1
+Geoff
+Drabble
+Tessa
+Bamford2
+Celia
+Baxter
+Alan
+Johnson
+Alina
+Kessel
+Eric
+Olsen3
+David
+Robbie
+Louise
+Smalley
+Company
+employees
+% change on prior year for
+2023/24
+Salary/Fee
+4.9
+n/a
+2.0
+n/a
+6.7
+4.8 4
+4.8
+n/a
+10.2
+4.8
+5.0
+Benefits
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+6.0
+Bonus
+(78.4)
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+(77.5)
+% change on prior year for
+2022/23
+Salary/Fee
+3.6
+n/a
+0
+n/a
+2.9
+n/a
+3.7
+n/a
+13.5
+3.7
+4.9
+Benefits
+(1.2)
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+5.0
+Bonus
+3.6
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+9.8
+% change on prior year for
+2021/22
+Salary/Fee
+2.9
+n/a
+0
+n/a
+1.5
+n/a
+1.9
+n/a
+3.7
+1.9
+4.1
+Benefits
+2.8
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+11.2
+Bonus
+5.0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+8.3
+% change on prior year for
+2020/21
+Salary/Fee
+1.1
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+8.1
+0.6
+2.0
+Benefits
+(1.2)
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+1.3
+Bonus
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+1. Richard Pike joined the Board on 30 June 2023 so in 2023/24 he has no prior year to compare 2023/24 with.
+2. Tessa Bamford joined the Board on 1 January 2024 so in 2023/24 she has no prior year to compare 2023/24 with.
+3. Eric Olsen joined the Board on 15 May 2023 so in 2023/24 he has no prior year to compare 2023/24 with and at his request from 10 November 2023 Eric has not
+been paid any fee.
+4. Alan Johnson joined the Board on 1 June 2022 (part way through 2022/23), so to provide a meaningful comparison his fees received for 2022/23 have been
+annualised.
+Voting on the remuneration policy and on the remuneration report at the 2023 AGM
+Set out in the table below is a summary of the votes cast by proxy at the AGM held in 2023 in relation to the remuneration-related resolutions.
+Votes in favour
+Votes against
+Votes withheld
+(being votes that are not recognised
+as a vote in law)
+Directors’ remuneration report
+975,784,275 (92.42%)
+80,084,550 (7.58%)
+18,912,889
+Remuneration policy
+972,164,655 (90.99%)
+96,220,706 (9.01%)
+6,396,353
+Key responsibilities of the Remuneration Committee
+• Designing the Remuneration policy
+• Implementing the Remuneration policy
+• Ensuring the competitiveness of reward, within an appropriate governance framework
+• Designing the incentive plans
+• Setting incentive targets and determining award levels
+• Overseeing all share awards across the Group.
+Each of these responsibilities impacts the other. The Committee is very conscious of the importance of the wider context in which it
+operates in discharging these responsibilities.
+Annual Report 2024 dssmith.com
+127
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 130
+
+Remuneration Committee governance
+The Board is ultimately accountable for executive remuneration and delegates this responsibility to the Remuneration Committee. The
+Committee’s principal function is to support the Group’s strategy by ensuring that its delivery is underpinned by the Company’s overall
+Remuneration policy, as described earlier in this report. It also determines the specific remuneration package, including service contracts and
+retirement benefit arrangements, for each Executive Director and our most senior executives, as well as the fees paid to the Chair. The
+Remuneration Committee’s Terms of Reference can be found at www.dssmith.com/investors/corporate-governance/committees/.
+Topics considered as part of regular
+annual decision-making cycle of
+Remuneration Committee
+• Feedback from employee pulse surveys on how employees
+feel about the quality of the Group’s leadership. This includes
+whether the leadership team continues to demonstrate living
+our values, how we measure employee performance and
+whether employees believe we have the right approach to
+reward.
+• Review of guidance from the government and investor bodies.
+• Holistic view of market practices.
+• Assessing whether our remuneration framework is
+appropriately aligned with our culture and continues to
+motivate our leaders to achieve the Group’s strategic
+objectives and does not inadvertently motivate inappropriate
+behaviour giving rise to ESG or other risks.
+• Consideration of remuneration and related policies across
+the Group.
+• Discussion of the relevant aspects of this year’s Board
+effectiveness review.
+Members
+Since
+Celia Baxter (Chair)
+2019
+Geoff Drabble
+2020
+Tessa Bamford
+2024
+Alan Johnson
+2022
+Alina Kessel
+2020
+Eric Olsen
+2023
+David Robbie
+2019
+Louise Smalley
+2014
+During the year the Committee held five scheduled meetings. Details
+of individual Directors’ attendance can be found on page 90. In
+addition, the Committee held a number of ad hoc meetings to discuss
+matters that needed to be considered by the Committee between
+scheduled meetings. The Group General Counsel and Company
+Secretary acts as Secretary to the Committee.
+All members of the Committee are independent Non-Executive Directors.
+This is fundamental to ensuring Executive Directors’ and senior executives’
+remuneration is set by people who are independent and have no personal
+financial interest, other than as shareholders, in the matters discussed.
+There are no potential conflicts of interest arising from cross-directorships
+and there is no day to day involvement in running the business. The
+Committee consults with the Group Chief Executive, who may attend
+meetings of the Committee, although he is not involved in deciding his
+own remuneration. The Committee is assisted by the Group Head of Reward,
+the Deputy Company Secretary and the Group General Counsel and
+Company Secretary. No-one is allowed to participate in any matter directly
+concerning the details of their own remuneration or conditions of service.
+As described earlier in the report, the Company has discussed with the
+EWC Executive matters relating to Executive Directors’ remuneration.
+When considering matters relating to the remuneration of the Executive
+Directors, the Committee takes into account the overall approach to
+reward for, and the pay and employment conditions of, other employees
+in the Group.
+To differentiate our employee value proposition and reinforce our strong
+DS Smith culture, the Group has developed the DS Smith reward
+principles (set out on page 112) which are endorsed by the Committee
+and were last reviewed by the Committee in 2024. Current policies and
+future decision making are matched against these to drive continuous
+improvement in this area.
+During the financial year of 2023/24 the Committee was advised by Korn
+Ferry in relation to various aspects of the remuneration of Executive
+Directors for which they were paid £52,050, partly on a fixed fee basis
+and partly on a time and materials basis. Korn Ferry in the financial year
+2023/24 has also provided search and talent assessment services to the
+Group. The teams providing that are separate from the Remuneration
+Committee advisers and there was no conflict of interest. The Committee
+is satisfied that the advice it receives from its advisers is objective and
+independent. Korn Ferry is a member of the Remuneration Consultants
+Group and adheres to the Code of Conduct for Remuneration Consultants
+(which can be found at www.remunerationconsultantsgroup.com).
+This report has been prepared in accordance with applicable legislation
+and regulatory requirements, including those of the Large and Medium-
+Sized Companies and Groups (Accounts and Reports) (Amendment)
+Regulations 2013 (Regulations). The Regulations require the Auditor to
+report to shareholders on the audited information within this report and
+to state whether, in their opinion, the relevant sections have been
+prepared in accordance with the Companies Act 2006. The Auditor’s
+opinion is set out in the Independent Auditor’s report and we have clearly
+marked the audited sections of this annual report on remuneration.
+On behalf of the Board
+Celia Baxter
+Chair of Remuneration Committee
+20 June 2024
+128
+Annual report on remuneration continued
+Contents
+
+## Page 131
+
+Acquisitions and disposals
+Acquisitions and disposals in the year ended 30 April 2024 are
+described in note 30 to the consolidated financial statements.
+Events after the reporting date
+Other than as set out in note 34 to the consolidated financial
+statements, there are no subsequent events after the reporting date
+which require disclosure.
+Share capital
+Details of the issued share capital and the rights and restrictions
+attached to the shares, together with details of movements in the
+Company’s issued share capital during the year, are shown in note 24
+to the consolidated financial statements. Pursuant to the Company’s
+employee share option schemes 1,803,581 ordinary shares of 10
+pence each were issued during the year. Between 1 May and 20 June
+2024 inclusive, 304,166 shares were issued pursuant to the
+Company’s employee share option schemes. The Company has not
+utilised its authority to make market purchases of 137,745,180 shares
+granted to it at the 2023 annual general meeting (AGM) but, in line
+with market practice, will be seeking to renew such authority at this
+year’s AGM.
+The trustee of the employee benefit trust, which is used to purchase
+shares on behalf of the Company as described in note 24 to the
+consolidated financial statements, has the power to vote or not vote,
+at its absolute discretion, in respect of any shares in the Company held
+unallocated in that trust. However, in accordance with good practice,
+the trustee adopts a policy of not voting in respect of such shares. The
+trustee has a dividend waiver in place in respect of shares which are
+the beneficial property of the trust.
+Dividends
+An interim dividend for 2023/24 of 6.0 pence per ordinary share was
+paid on 31 January 2024 and the Directors recommend a final dividend
+of 12.0 pence per ordinary share, which, together with the interim
+dividend, increases the total dividend for the year to 18.0 pence per
+ordinary share (2022/23: 18.0 pence). Subject to approval of
+shareholders at the AGM to be held on 3 September 2024, the final
+dividend will be paid on 4 October 2024 to shareholders on the
+register at the close of business on 6 September 2024.
+Additional information
+Political donations
+No political donations were made during the year ended 30 April 2024
+(2022/23: nil). DS Smith has a policy of not making donations to
+political organisations or independent election candidates or incurring
+political expenditure, as defined in the Political Parties, Elections and
+Referendums Act 2000, anywhere in the world.
+Directors’ and officers’ liability insurance
+The Company has purchased and maintains appropriate insurance
+cover in respect of Directors’ and officers’ liabilities. The Company has
+also entered into qualifying third-party indemnity arrangements for
+the benefit of all its Directors and qualifying third-party indemnity
+arrangements have been entered into by a subsidiary of the Company
+for the benefit of certain directors of companies within the Group, all
+in a form and scope which comply with the requirements of the
+Companies Act 2006. These indemnities were in force throughout the
+year and up to the date of this Annual Report.
+Additional employee disclosures
+In our Strategic Report on pages 1 to 83 we set out some of the ways
+in which we realise the potential of our people, including how we
+engage with our workforce. As part of creating a modern, diverse and
+inclusive culture all companies within the Group strive to operate
+fairly at all times and this includes not permitting discrimination on the
+basis of race, religion or belief, gender, disability, age, sexual
+orientation, gender reassignment, marriage or civil partnership,
+pregnancy and maternity or any other characteristic protected by
+local law (and complying with the Group’s Equal Opportunities and
+Anti-Discrimination policy). This also includes giving full and fair
+consideration to suitable applications for employment from disabled
+persons, making reasonable adjustments in the hiring process to
+ensure fairness and equity in the selection process. For existing
+employees with a disability we will make all reasonable adjustments
+to support their continued employment, in their same job or, if this is
+not practicable, make every effort to find suitable alternative
+employment and to provide relevant training and career development
+opportunity.
+Through the Group’s engagement survey, via our European Works
+Council which brings together employee representatives from the
+different European countries where we operate, as well as through
+site and team meetings and briefing newsletters, the Group provides
+employees with various opportunities to obtain information on
+matters of concern to them, to improve their awareness of the
+financial and economic factors that affect the performance of the
+Group and to provide their feedback.
+Annual Report 2024 dssmith.com
+129
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 132
+
+Substantial shareholdings
+Information provided to the Company pursuant to the Financial Conduct Authority’s Disclosure Guidance and Transparency Rules (DTRs) is
+published on a Regulatory Information Service and on the Company’s website. The following information has been received, in accordance with
+DTR 5, from holders of notifiable interests in the Company’s issued share capital.
+
+As at 30 April 2024
+As at 20 June 2024
+Nature of holding
+Aviva plc and its subsidiaries
+5.53%
+4.98%
+Direct & indirect
+BlackRock, Inc.
+Below 5%
+Below 5%
+Indirect
+abrdn plc
+Below 5%
+Below 5%
+Indirect
+Ameriprise Financial, Inc. and its group
+4.981%
+4.981%
+Direct & indirect
+The Goldman Sachs Group, Inc.
+3.118610%
+2.743523%
+Indirect
+Sarasin & Partners LLP
+3.01%
+3.01%
+Indirect
+Merpas (UK) Limited
+2.985%
+2.985%
+Direct & indirect
+Norges Bank
+2.94729%
+3.20095%
+Direct
+Black Creek Investment Management Inc.
+2.936202%
+2.936202%
+Direct & indirect
+Auditor
+Each of the persons who is a Director at the date of the approval of
+this Annual Report confirms that:
+• so far as the Director is aware, there is no relevant audit information
+of which the Company’s Auditor is unaware; and
+• the Director has taken all the steps he/she ought to have taken as a
+Director in order to make him/herself aware of any relevant audit
+information and to establish that the Company’s Auditor is aware of
+that information.
+This confirmation is given and should be interpreted in accordance
+with the provisions of section 418 of the Companies Act 2006.
+A resolution to reappoint Ernst & Young LLP as Auditor will be
+proposed at the forthcoming AGM.
+Listing Rule 9.8.4 and other required disclosures
+To the extent that there is information applicable to be disclosed
+under Listing Rule (LR) 9.8.4, such information is set out on the pages
+listed in the table below:
+Subject matter
+Page(s)
+Interest capitalised
+note 5 on page 159
+Certain information is included in our Strategic Report (pages 1 to 83)
+or Financial Statements that would otherwise be required to be
+disclosed in this section of the report. This is as follows:
+Subject matter
+Page(s)
+Likely future developments in the business
+8 and 9
+Research and development
+7
+Use of financial instruments
+47
+Greenhouse gas emissions
+76
+As is customary, our principal financing facilities incorporate change
+of control clauses.
+Companies within the Group have branches in Norway, Poland and
+Slovakia.
+The information that fulfils the requirements of the corporate
+governance statement for the purposes of DTR 7 can be found on
+pages 84 to 105, and that governance report also forms part of the
+Directors’ report.
+The Strategic Report on pages 1 to 83 and the governance report and
+Directors’ Remuneration Report on pages 84 to 131 together
+represent the management report for the purpose of compliance with
+DTR 4.1.8R.
+Statement of approval
+The Directors’ report was approved by the Board of Directors on
+20 June 2024 and is signed on its behalf by:
+Iain Simm
+Group General Counsel and Company Secretary
+20 June 2024
+130
+Additional information continued
+Contents
+
+## Page 133
+
+The Directors are responsible for preparing the Annual Report and the
+Group and Company Financial Statements in accordance with
+applicable law and regulations.
+Company law requires the Directors to prepare Group and Company
+Financial Statements for each financial year. Under that law they have
+elected to prepare the Group Financial Statements in accordance with
+UK-adopted International Accounting Standards in conformity with
+the requirements of the Companies Act 2006, and the parent
+Company Financial Statements in accordance with UK Accounting
+Standards, including FRS 101 Reduced Disclosure Framework.
+Company law requires the Directors to prepare Group and parent
+Company Financial Statements for each financial year. Under that law
+the Directors have elected to prepare the Group Financial Statements
+in accordance with UK-adopted international accounting standards
+(IFRSs) and have elected to prepare the parent Company Financial
+Statements in accordance with United Kingdom Generally Accepted
+Accounting Practice (United Kingdom Accounting Standards and
+applicable law), including Financial Reporting Standard 101 ‘Reduced
+Disclosure Framework’ (FRS 101).
+Under company law the Directors must not approve the Financial
+Statements unless they are satisfied that they give a true and fair
+view of the state of affairs of the Group and Company and of their
+profit or loss for that period. In preparing each of the Group and
+Company Financial Statements, the Directors are required to:
+• select suitable accounting policies and then apply them
+consistently;
+• make judgements and estimates that are reasonable and prudent;
+• for the Group Financial Statements, state whether they have been
+prepared in accordance with UK-adopted International Accounting
+Standards in conformity with the requirements of the Companies
+Act 2006;
+• for the Company Financial Statements, state whether the
+applicable UK Accounting Standards have been followed, subject to
+any material departures disclosed and explained in the Company
+Financial Statements;
+• assess the Group and Company’s ability to continue as a going
+concern, disclosing, as applicable, matters relating to going concern;
+and
+• use the going concern basis of accounting unless they either intend
+to liquidate the Group or the Company or to cease operations, or
+have no realistic alternative but to do so.
+Statement of Directors’ responsibilities
+The Directors are responsible for keeping adequate accounting
+records that are sufficient to show and explain the Company’s
+transactions and disclose with reasonable accuracy at any time the
+financial position of the Company and enable them to ensure that its
+Financial Statements comply with the Companies Act 2006. They are
+responsible for such internal control as they determine is necessary to
+enable the preparation of financial statements that are free from
+material misstatement, whether due to fraud or error, and have
+general responsibility for taking such steps as are reasonably open to
+them to safeguard the assets of the Group and to prevent and detect
+fraud and other irregularities.
+Under applicable law and regulations, the Directors are also
+responsible for preparing a Strategic Report, a Directors’ Report, a
+Directors’ Remuneration Report and a corporate governance
+statement that comply with that law and those regulations.
+The Directors are responsible for the maintenance and integrity of the
+corporate and financial information included on the Company’s
+website. Legislation in the UK governing the preparation and
+dissemination of financial statements may differ from legislation in
+other jurisdictions.
+Responsibility statement of the Directors in
+respect of the Annual Report and the Financial
+Statements
+We confirm that to the best of our knowledge:
+• the Financial Statements, prepared in accordance with the
+applicable set of accounting standards, give a true and fair view of
+the assets, liabilities, financial position and profit or loss of the
+Company and the undertakings included in the consolidation as a
+whole; and
+• the Strategic Report and the Directors’ Report, including content
+contained by reference, includes a fair review of the development
+and performance of the business and the position and performance
+of the Company and the undertakings included in the consolidation
+taken as a whole, together with a description of the principal risks
+and uncertainties that they face.
+The Board confirms that the Annual Report and the Financial
+Statements, taken as a whole, are fair, balanced and understandable
+and provide the information necessary for shareholders to assess the
+Group’s position and performance, business model and strategy.
+This responsibility statement was approved by the Board of Directors
+on 20 June 2024 and is signed on its behalf by:
+Miles Roberts
+Group Chief Executive
+20 June 2024
+Richard Pike
+Group Finance Director
+20 June 2024
+Annual Report 2024 dssmith.com
+131
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 134
+
+Independent Auditor’s report
+to the members of DS Smith Plc
+132
+Opinion
+In our opinion:
+• DS Smith Plc’s group financial statements and parent company financial statements (the “financial statements”) give a true and fair view of
+the state of the group’s and of the parent company’s affairs as at 30 April 2024 and of the group’s profit for the year then ended;
+• the group financial statements have been properly prepared in accordance with UK adopted International Accounting Standards;
+• the parent company financial statements have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice; and
+• the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+We have audited the financial statements of DS Smith Plc (the ‘parent company’) and its subsidiaries (the ‘group’) for the year ended
+30 April 2024 which comprise:
+ Group
+
+Parent Company
+
+ Consolidated statement of financial position as at 30 April 2024
+
+Statement of financial position as at 30 April 2024
+
+ Consolidated income statement for the year then ended
+
+Statement of changes in equity for the year then ended
+
+ Consolidated statement of comprehensive income for the year
+then ended
+
+Related notes 1 to 17 to the financial statements, including material
+accounting policy information
+
+ Consolidated statement of changes in equity for the year then ended
+
+ Consolidated statement of cash flows for the year then ended
+
+ Related notes 1 to 34 to the consolidated financial statements,
+including material accounting policy information
+
+The financial reporting framework that has been applied in the preparation of the group financial statements is applicable law and UK adopted
+International Accounting Standards. The financial reporting framework that has been applied in the preparation of the parent company financial
+statements is applicable law and United Kingdom Accounting Standards, including FRS 101 “Reduced Disclosure Framework” (United Kingdom
+Generally Accepted Accounting Practice).
+Basis for opinion
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under
+those standards are further described in the Auditor’s responsibilities for the audit of the financial statements section of our report. We believe
+that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Independence
+We are independent of the group and parent in accordance with the ethical requirements that are relevant to our audit of the financial
+statements in the UK, including the FRC’s Ethical Standard as applied to listed public interest entities, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements.
+The non-audit services prohibited by the FRC’s Ethical Standard were not provided to the group or the parent company and we remain
+independent of the group and the parent company in conducting the audit.
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting in the preparation of the
+financial statements is appropriate. Our evaluation of the directors’ assessment of the group and parent company’s ability to continue to adopt
+the going concern basis of accounting included the following procedures:
+• performed independent analysis of events and factors that we would expect to be considered by management, prior to inspecting its going
+concern analysis, in order to determine if there were any scenarios or factors not included;
+• audited the key factors and assumptions adopted in the assessment of going concern and the cash flow model, including considering whether
+management had exercised any bias in selecting their assumptions, by comparing against past performance and available market data;
+• understood the operation of management’s model, checked the clerical accuracy of management’s models, and recalculated management’s
+forecasts of its compliance with borrowing covenants throughout the assessment period under management’s scenarios;
+132
+Contents
+
+## Page 135
+
+Annual Report 2024 dssmith.com 133
+• verified the terms of the facilities specifically around existence of change of control clause terms, maturity, interest rates, and any restrictions
+or covenants of the borrowings held by the group at the date of approving of the financial statements against the original contracts. In addition,
+we have obtained independent third-party confirmations for the borrowings held by the group;
+• checked the consistency of the factors and assumptions adopted in the going concern assessment with other areas of our audit, including the
+group’s asset impairment test and deferred tax assessment;
+• challenged the appropriateness and adequacy of the going concern assessment period until 31 October 2025, considering whether any
+events or conditions foreseeable after the period indicated a longer review period would be appropriate;
+• performed independent sensitivity assessment on revenue and EBITDA to identify which events or conditions could lead to the group
+exhausting all liquidity or breaching the financial covenants during the going concern period;
+• assessed management’s reverse stress test including reperforming the calculations and agreeing the inputs to the going concern model;
+• assessed the reasonableness of management’s available mitigations drawing upon our understanding of the business and nature of the
+mitigations, including their quantum and whether these mitigations are within management’s control;
+• obtained evidence that the Syndicated Revolving Credit Facility agreement had been amended subsequent to year end which extended the
+maturity of the facility to May 2027 for an amount of £1.25bn and updated the change of control clause to consider the upcoming all-share
+combination with International Paper as a permitted transaction;
+• considered the implications of the upcoming all-share combination with International Paper Company (International Paper) expected to
+complete by the end of 2024.
+In respect of the proposed transaction, we performed the following procedures:
+• obtained management’s assessment of the implications of the change of control clause in the group’s debt facilities;
+• obtained evidence of the intention of the acquirer as to their future plans for the business and the parent company standalone entity. This
+included examining the acquirer’s presentation to the shareholders as published on their website, related announcements including the Rule
+2.7 Announcement released by RNS on 16 April 2024, DS Smith board meeting minutes and third-party analyst reports as well as confirming
+with the DS Smith Board of Directors that the solus entity would continue in existence throughout the going concern period;
+• from our review of the terms of the facilities, we understood the nature of the change of control clauses and independently assessed the risk
+of these being triggered, including consideration of the risk attached to a downgrade in the group’s credit rating;
+• worked with our EY Debt Advisory team to establish an independent assessment on the group’s credit rating should the combination complete
+and provide their view on the latest published credit agencies’ outlook of the group’s credit rating;
+• inspected International Paper’s latest publicly available financial information including its 2023 Annual Report and First Quarter 2024 report
+alongside statements and investor presentations related to the combination;
+• read the co-operation agreement between DS Smith and International Paper as published in both parties’ websites to understand conditions
+precedent which remain to be addressed;
+• understood the current status and conditions precedent to finalise the combination.
+Disclosures
+• considered whether management’s disclosures in the Annual Report and Accounts sufficiently and appropriately capture management’s
+assessment of the group and company’s ability to continue as a going concern and the impact of the planned all-share combination through
+consideration of the relevant disclosure standards.
+Our key observations
+On a business as usual basis before consideration of the proposed transaction, the results from management’s evaluation and reverse stress test
+on the group’s forecasts and scenarios indicate that the group would need to be exposed to downside events, significantly greater than the
+financial effect of the disruption caused in recent years (e.g. due to COVID-19 and high-cost inflation following Russia’s invasion of Ukraine),
+throughout the going concern period in order to breach its covenants or exhaust its available liquidity.
+As at the balance sheet date, the total facilities available to the group amounted to £3.9bn, of which, £1.5bn was undrawn. Group facilities
+totalling £0.4bn are due to expire within the going concern period. Subsequent to the year end, the group successfully amended its revolving
+credit facility, extending its maturity to May 2027 for an amount of £1.25bn replacing the existing facility for £1.4bn. The group will have access
+to at least £3.35bn of facilities for the duration of the going concern period to 31 October 2025.
+The drawn facilities, which amounted to £2.4bn as at the balance sheet date, all relate to drawdowns from the Euro medium-term note
+programme, which has a change of control provision. This provision allows the noteholders to request DS Smith to redeem the notes in the event
+of a change of control with a consequential credit rating downgrade to a non-investment grade. Similarly, the undrawn revolving credit facility,
+which was subsequently successfully renegotiated by the group, requires the enlarged group’s credit rating not to be downgraded to below
+investment grade on combination with International Paper. The Board considers this scenario to be remote, noting that third party credit rating
+agency commentary has indicated that the group’s proposed all-share combination with International Paper is expected to positively affect the
+group’s credit rating upon completion of the transaction. The Board has considered the future intentions of International Paper and concluded
+that the Company will continue in existence for the going concern period even in the event of the transaction proceeding.
+Annual Report 2024 dssmith.com
+133
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 136
+
+Independent Auditor’s report to the members of DS Smith Plc continued
+134
+Going concern has also been determined to be a key audit matter.
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or
+collectively, may cast significant doubt on the group and parent company’s ability to continue as a going concern for a period to 31 October 2025.
+In relation to the group and parent company’s reporting on how they have applied the UK Corporate Governance Code, we have nothing material
+to add or draw attention to in relation to the directors’ statement in the financial statements about whether the directors considered it
+appropriate to adopt the going concern basis of accounting.
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this report.
+However, because not all future events or conditions can be predicted, this statement is not a guarantee as to the group’s ability to continue as a
+going concern.
+Overview of our audit approach
+ Audit scope
+ • We performed an audit of the complete financial information of 11 components and audit procedures on specific
+balances for a further 9 components.
+• The components where we performed full or specific audit procedures accounted for 77% of Profit before tax, 83%
+of Revenue and 85% of Total assets.
+
+ Key audit
+matters
+ We identified the following key audit matters that, in our professional judgement, had the greatest effect on our overall
+audit strategy, the allocation of resources in the audit and in directing the audit team’s efforts:
+• Carrying value of goodwill of the North America cash generating unit
+• Valuation of uncertain tax positions
+• Going Concern
+
+ Materiality
+ Overall group materiality of £23.8m which represents 4.7% of the group’s profit before tax.
+
+An overview of the scope of the parent company and group audits
+Tailoring the scope
+Our assessment of audit risk, our evaluation of materiality and our allocation of performance materiality determine our audit scope for each
+company within the Group. Taken together, this enables us to form an opinion on the consolidated financial statements. We take into account
+size, risk profile, the organisation of the group and effectiveness of group-wide controls, changes in the business environment, the potential
+impact of climate change and other factors such as recent Internal Audit results when assessing the level of work to be performed at
+each company.
+In assessing the risk of material misstatement to the group financial statements, and to ensure we had adequate quantitative coverage of
+significant accounts in the financial statements within the four geographic segments, three in Europe (Northern Europe, Eastern Europe and
+Southern Europe) and another in North America, we selected 20 components (2023: 19) covering entities within the UK, France, Germany, Spain,
+Portugal, Italy, USA, Belgium, Denmark, Hungary, Netherlands, Poland, Austria and Sweden, which represent the principal business units within
+the group.
+Of the 20 components selected, we performed an audit of the complete financial information of 11 components (“full scope components”) which
+were selected based on their size or risk characteristics. For the remaining 9 components (“specific scope components”), we performed audit
+procedures on specific accounts within that component that we considered had the potential for the greatest impact on the significant accounts
+in the financial statements either because of the size of these accounts or their risk profile.
+The reporting components where we performed audit procedures accounted for 77% (2023: 93%) of the group’s profit before tax, 83% (2023:
+82%) of the group’s revenue and 85% (2023: 85%) of the group’s total assets. For the current year, the full scope components contributed
+58% (2023: 76%) of the group’s profit before tax, 65% (2023: 66%) of the group’s revenue and 73% (2023: 74%) of the group’s total assets.
+The specific scope component contributed 19% (2023: 15%) of the group’s profit before tax, 18% (2023: 13%) of the group’s revenue and 12%
+(2023: 12%) of the group’s total assets. The audit scope of these components may not have included testing of all significant accounts of the
+component but will have contributed to the coverage of significant accounts tested for the group.
+Of the remaining components that together represent 23% of the group’s profit before tax, none are individually greater than 4% of the Group’s
+profit before tax. For these components, we performed other procedures, including analytical reviews, testing of cash balances, testing of
+consolidation journals and enquiry of management about unusual transactions in these components to respond to any potential risks of material
+misstatement to the group financial statements.
+
+134
+Contents
+
+## Page 137
+
+Annual Report 2024 dssmith.com 135
+The charts below illustrate the coverage obtained from the work performed by our audit teams.
+Profit before tax
+
+Revenue
+
+Total assets
+
+Changes from the prior year
+Our scoping has remained largely consistent with the prior period. The reduction in coverage of profit before tax is mainly due to changes in the
+profit contribution of the components across the group as a result of movements in paper prices during the year. In addition, Austria has been
+included as a specific scope component due to an increase in the size of this business relative to the rest of the group.
+Involvement with component teams
+In establishing our overall approach to the group audit, we determined the type of work that needed to be undertaken at each of the
+components by us, as the primary audit engagement team, or by component auditors from other EY global network firms operating under
+our instruction. Of the 11 full scope components, audit procedures were performed on 1 of these directly by the primary audit team who also
+performed central testing for a number of significant matters, such as the audit of uncertain tax positions, derivatives, pensions, impairment and
+factoring contracts amongst other areas. For the 9 specific scope components, where the work was performed by component auditors, we
+determined the appropriate level of involvement to enable us to determine that sufficient audit evidence had been obtained as a basis for our
+opinion on the group as a whole.
+The group audit team continued to follow a programme of planned visits that has been designed to ensure that the Senior Executive members of
+the audit team visited the primary operating locations where the group audit scope is focused. During the current year’s audit cycle, visits were
+undertaken by the primary audit team to the component teams in UK, Spain, USA and Germany (2023: UK, Spain, USA, France, Italy). These visits
+involved discussing the audit approach with the component team and any issues arising from their work, and meetings with local management
+and visits to operational sites. The primary team interacted regularly with the component teams where appropriate during various stages of the
+audit, reviewed relevant working papers and were responsible for the scope and direction of the audit process. This, together with the additional
+procedures performed at group level, gave us appropriate evidence for our opinion on the group financial statements.
+
+19%
+23%
+58%
+15%
+12%
+73%
+Full scope components
+Specific scope
+components
+Other procedures
+Full scope components
+Specific scope
+components
+Other procedures
+17%
+18%
+65%
+Full scope components
+Specific scope
+components
+Other procedures
+Annual Report 2024 dssmith.com
+135
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 138
+
+Independent Auditor’s report to the members of DS Smith Plc continued
+136
+Climate change
+Stakeholders are increasingly interested in how climate change will impact DS Smith Plc’s group. The group has determined that the most
+significant future impacts from climate change on its operations will be from (i) increased spend on carbon taxes, (ii) increased cost of raw
+materials or threat to supply, (iii) increased severity of extreme weather events and (iv) increased likelihood of water stress. These are explained
+on pages 60-77 in the required Task Force on Climate Related Financial Disclosures and on pages 49 to 56 in the principal risks and uncertainties.
+They have also explained their climate commitments on pages 30 to 37. All of these disclosures form part of the “Other information,” rather than
+the audited consolidated financial statements. Our procedures on these unaudited disclosures therefore consisted solely of considering
+whether they are materially inconsistent with the consolidated financial statements or our knowledge obtained in the course of the audit or
+otherwise appear to be materially misstated, in line with our responsibilities on “Other information”.
+In planning and performing our audit we assessed the potential impacts of climate change on the group’s business and any consequential
+material impact on its consolidated financial statements.
+The group has explained in its basis of preparation, in note 1, how they have reflected the impact of climate change in their consolidated financial
+statements including how this aligns with their commitment to the aspirations as set out in their TCFD and its defined sustainability targets as
+outlined in the Strategic report. The basis of preparation also explains management’s consideration of the impact of climate change in respect of
+(a) estimates of future cash flows used in the impairment assessment of goodwill and going concern, (b) assessment of residual values and
+estimated useful economic lives of property, plant and equipment, (c) adequacy of provisions for liabilities. Whilst management disclosed that
+the group’s sustainability strategy did not have a material impact, management is aware that this will evolve in future periods and will regularly
+assess these risks against the judgements and estimates made in preparation of the group’s consolidated financial statements.
+Our audit effort in considering the impact of climate change on the consolidated financial statements was focused on evaluating management’s
+assessment of the impact of climate risk, physical and transition, their climate commitments, the effects of material climate risks disclosed on
+pages 60-77 and the significant judgements and estimates disclosed in note 1 and whether these have been appropriately reflected in the
+future cash flows used to assess the carrying value of goodwill, economic life of property, plant and equipment, and adequacy of provisions
+following the requirements of UK adopted International Accounting Standards. As part of this evaluation, we performed our own risk
+assessment, supported by our climate change internal specialists, to determine the risks of material misstatement in the consolidated financial
+statements from climate change which needed to be considered in our audit.
+We also challenged the Directors’ considerations of climate change risks in their assessment of going concern and associated disclosures. Where
+considerations of climate change were relevant to our assessment of going concern, these are described above.
+Based on our work we have not identified the impact of climate change on the consolidated financial statements to be a key audit matter or to
+impact a key audit matter.
+Key audit matters
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the financial statements of the
+current period and include the most significant assessed risks of material misstatement (whether or not due to fraud) that we identified. These
+matters included those which had the greatest effect on: the overall audit strategy, the allocation of resources in the audit; and directing the
+efforts of the engagement team. These matters were addressed in the context of our audit of the financial statements as a whole, and in our
+opinion thereon, and we do not provide a separate opinion on these matters.
+ Carrying value
+of goodwill
+ Refer to the Audit Committee Report (page 103); Accounting policies (page 150); and Note 10 of the Consolidated
+Financial Statements (pages 164 to 166)
+As at 30 April 2024, the total carrying value of goodwill was £2,226m (2023: £2,268m) of which £630m (2023:
+£633m) relates to the North America Paper and Packaging (“NAPP”) CGU.
+Whilst NAPP has been generating positive EBITDA in the past several years, its historical performance was impacted
+by different challenges and underlying operational issues which have contributed to a shortfall in actual
+performance when compared to budget. In the current year, NAPP continues to experience a shortfall in
+performance due to slow recovery of demand for consumer goods, with US paper and packaging companies
+experiencing a trough in pricing and demand.
+There is a risk that estimates and assumptions used by management to calculate the cash flows in the impairment
+assessment, particularly on volume and pricing may be incorrect. This could result in an impairment charge against
+the carrying values specifically for NAPP.
+
+136
+Contents
+
+## Page 139
+
+Annual Report 2024 dssmith.com 137
+ Risk – Carrying value of goodwill (continued)
+
+ Our response to
+the risk
+ We tested the estimated recoverable amount of goodwill by performing the following procedures:
+• We obtained an understanding of and identified management’s internal controls designed to respond to the risk
+related to the impairment of goodwill.
+• We assessed the appropriateness of the Group’s cash generating units (CGUs) identified by management,
+including management’s determination of which assets or liabilities should be included in the carrying value of
+the CGUs.
+• We reviewed the valuation methodology for consistency with the requirements of IAS 36 and tested the integrity
+of models.
+• We tested the forecast cash flows by comparing the assumptions, such as price, volume and capital expenditures,
+used within the impairment models to market prices, approved budgets and business plans. This includes corroborating
+management’s price and volume assumptions to external market data and industry peers’ expectation.
+• We involved valuation specialists to assist us in challenging the reasonableness of management’s valuation
+assumptions, such as discount rates and long-term growth rates as well as the discounted cash flow
+methodology used by management.
+• We performed sensitivity analyses to assess the potential impact of a range of reasonably possible outcomes.
+• We evaluated the appropriateness of the financial statement disclosures.
+• We assessed the historical accuracy of forecasts by looking back at actual results versus those forecast for
+each CGU.
+• We reviewed the FY24 actual results in comparison to budget and forecast to understand the status of
+operational issues previously discussed and expectations of future growth to ensure that estimates are
+reasonable and supportable.
+
+ Key
+observations
+communicated
+to the Audit
+Committee
+ Based on our audit procedures, considering the long term growth rate and NAPP’s recent trading results, we consider
+management’s assessment that no impairment is required against goodwill relating to NAPP is appropriate.
+However, we concluded that there were reasonably possible changes in certain key assumptions which could result
+in impairment in the NAPP CGU which required disclosure.
+We are satisfied that the disclosures in the Annual Report and financial statements on the sensitivity of the
+forecasts, including NAPP, are appropriate and reflect the reasonably possible change in assumption as required
+by IAS 36.
+
+ Valuation of
+Uncertain Tax
+Positions
+ Refer to the Audit Committee Report (page 103); Refer to Accounting policies (page 153); and Note 7 to the
+Consolidated Financial Statements (pages 160 to 162)
+For the year ended 30 April 2024 the group recognised a total tax risk provision (including interest) of £94m
+(2023: £114m).
+The group is subject to income tax in numerous jurisdictions and is routinely under audit by tax authorities in the
+ordinary course of business.
+Management applies judgement in assessing uncertain tax positions in each jurisdiction, which requires
+interpretation of local tax laws and specific facts and circumstances. Specifically, each tax provision involves the
+evaluation of unique and evolving facts and circumstances.
+Given this judgement, there is a risk that tax provisions may be misstated.
+
+Annual Report 2024 dssmith.com
+137
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 140
+
+Independent Auditor’s report to the members of DS Smith Plc continued
+138
+ Risk – Valuation of Uncertain Tax Positions (continued)
+
+ Our response to
+the risk
+ Our approach focused on the following procedures:
+• We obtained an understanding of management’s key controls over their tax provision in supporting the
+prevention, detection and correction of material errors in the financial statements.
+• The group audit team, evaluated the tax positions taken by management in each significant jurisdiction in the
+context of local tax law, correspondence with tax authorities and the status of any tax audits. Our work utilised
+support from local country tax specialists in jurisdictions where the group has more significant tax exposures.
+• We assessed the group’s transfer pricing judgements, considering the way in which the group’s businesses
+operate and the correspondence and agreements reached with tax authorities, including correspondence on tax
+audits and reviewing tax returns.
+• We evaluated the methodology adopted by management to calculate uncertain tax provisions and whether this is
+compliant with IFRIC 23.
+• In evaluating management’s accounting, we developed our own range of acceptable provision levels for the
+group’s tax exposures, based on the evidence we obtained.
+• The group audit team evaluated the completeness of uncertain tax positions by understanding the group’s
+process for determining the completeness of identified tax risks and challenging whether risks provided for in
+one jurisdiction were applicable in other jurisdictions.
+• We evaluated the adequacy of the related disclosures provided in the group financial statements.
+
+ Key
+observations
+communicated
+to the Audit
+Committee
+ Management’s provision falls within our independently determined range and as a result we are satisfied that the
+estimates and judgements made by management in the valuation and accounting of uncertain tax provisions are
+reasonable and in accordance with IAS 12 and IFRIC 23. We are satisfied that appropriate disclosures on the
+uncertain tax positions have been made in the consolidated financial statements.
+
+In the current year, going concern was considered as a key audit matter as a result of the proposed all-share combination with International
+Paper. There have been no other changes in our assessment of key audit matters compared with the prior year.
+Our application of materiality
+We apply the concept of materiality in planning and performing the audit, in evaluating the effect of identified misstatements on the audit and in
+forming our audit opinion.
+Materiality
+The magnitude of an omission or misstatement that, individually or in the aggregate, could reasonably be expected to influence the economic
+decisions of the users of the financial statements. Materiality provides a basis for determining the nature and extent of our audit procedures.
+We determined materiality for the group to be £23.8 million (2023: £33.5 million), which is 4.7% of profit before tax (2023: 5% of profit before
+tax). We have set materiality based on profit before tax as it is a key performance measure for the users of the financial statements.
+We determined materiality for the parent company to be £35.9 million (2023: £35.2 million), which is 1% (2023: 1%) of equity which we consider
+to be an appropriate basis for materiality for a holding company, as the users of the financial statements focus on a capital-based measure.
+During the course of our audit, we reassessed initial materiality and there has been no change from our original assessment determined
+during planning.
+
+138
+Contents
+
+## Page 141
+
+Annual Report 2024 dssmith.com 139
+Performance materiality
+The application of materiality at the individual account or balance level. It is set at an amount to reduce to an appropriately low level the
+probability that the aggregate of uncorrected and undetected misstatements exceeds materiality.
+On the basis of our risk assessments, together with our assessment of the group’s overall control environment, our judgement was that
+performance materiality was 50% (2023: 50%) of our planning materiality, namely £11.9m (2023: £16.7m). We have set performance
+materiality at this percentage consistent with prior year and includes considerations from the findings of our previous year audit.
+Audit work at component locations for the purpose of obtaining audit coverage over significant financial statement accounts is undertaken
+based on a percentage of total performance materiality. The performance materiality set for each component is based on the relative scale and
+risk of the component to the group as a whole and our assessment of the risk of misstatement at that component. In the current year, the range
+of performance materiality allocated to components was £2.4m to £9.5m (2023: £3.3m to £7.5m).
+Reporting threshold
+An amount below which identified misstatements are considered as being clearly trivial.
+We agreed with the Audit Committee that we would report to them all uncorrected audit differences in excess of £1.1m (2023: £1.6m), which is
+set at 4.6% of planning materiality, as well as differences below that threshold that, in our view, warranted reporting on qualitative grounds.
+We evaluate any uncorrected misstatements against both the quantitative measures of materiality discussed above and in light of other
+relevant qualitative considerations in forming our opinion.
+Other information
+The other information comprises the information included in the annual report set out on pages 1 to 131, including the Strategic Report and
+Governance sections (including the Directors’ Report; Chair’s introduction to Governance; Division of Responsibilities; Board Leadership and
+Company Purpose; Nomination Committee Report; Audit, risk and internal control; Audit Committee Report; Remuneration Committee Report,
+and Additional information), other than the financial statements and our auditor’s report thereon. The directors are responsible for the other
+information contained within the annual report.
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in this report,
+we do not express any form of assurance conclusion thereon.
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the
+financial statements or our knowledge obtained in the course of the audit, or otherwise appears to be materially misstated. If we identify such
+material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material misstatement in
+the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of the other
+information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, the part of the directors’ remuneration report to be audited has been properly prepared in accordance with the Companies
+Act 2006.
+In our opinion, based on the work undertaken in the course of the audit:
+• the information given in the strategic report and the directors’ report for the financial year for which the financial statements are prepared is
+consistent with the financial statements; and
+• the strategic report and the directors’ report have been prepared in accordance with applicable legal requirements.
+
+Annual Report 2024 dssmith.com
+139
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 142
+
+Independent Auditor’s report to the members of DS Smith Plc continued
+140
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the group and the parent company and its environment obtained in the course of the audit,
+we have not identified material misstatements in the strategic report or the directors’ report.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in
+our opinion:
+• adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been received from
+branches not visited by us; or
+• the parent company financial statements and the part of the Directors’ Remuneration Report to be audited are not in agreement with the
+accounting records and returns; or
+• certain disclosures of directors’ remuneration specified by law are not made; or
+• we have not received all the information and explanations we require for our audit
+Corporate Governance Statement
+We have reviewed the directors’ statement in relation to going concern, longer-term viability and that part of the Corporate Governance
+Statement relating to the group and company’s compliance with the provisions of the UK Corporate Governance Code specified for our review by
+the Listing Rules.
+Based on the work undertaken as part of our audit, we have concluded that each of the following elements of the Corporate Governance
+Statement is materially consistent with the financial statements or our knowledge obtained during the audit:
+• Directors’ statement with regards to the appropriateness of adopting the going concern basis of accounting and any material uncertainties
+identified set out on page 58;
+• Directors’ explanation as to its assessment of the company’s prospects, the period this assessment covers and why the period is appropriate
+set out on pages 57 to 58 ;
+• Director’s statement on whether it has a reasonable expectation that the group will be able to continue in operation and meets its liabilities
+set out on page 58;
+• Directors’ statement on fair, balanced and understandable set out on page 131;
+• Board’s confirmation that it has carried out a robust assessment of the emerging and principal risks set out on pages 49 to 56;
+• The section of the annual report that describes the review of effectiveness of risk management and internal control systems set out on
+page 102; and;
+• The section describing the work of the audit committee set out on pages 100 to 105.
+Responsibilities of directors
+As explained more fully in the directors’ responsibilities statement set out on page 131, the directors are responsible for the preparation of the
+financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is
+necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, the directors are responsible for assessing the group and parent company’s ability to continue as a going
+concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the directors either
+intend to liquidate the group or the parent company or to cease operations, or have no realistic alternative but to do so.
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement,
+whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is
+not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements
+can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the
+economic decisions of users taken on the basis of these financial statements.
+
+140
+Contents
+
+## Page 143
+
+Annual Report 2024 dssmith.com 141
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in line with our responsibilities,
+outlined above, to detect irregularities, including fraud. The risk of not detecting a material misstatement due to fraud is higher than the risk of
+not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional misrepresentations,
+or through collusion. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+However, the primary responsibility for the prevention and detection of fraud rests with both those charged with governance of the company
+and management.
+• We obtained an understanding of the legal and regulatory frameworks that are applicable to the group and determined that the most
+significant and directly relevant to specific assertions in the financial statements are those related to the reporting frameworks (UK adopted
+International Accounting Standards and FRS 101), the Companies Act 2006, the UK Corporate Governance Code, the Listing Rules of the UK
+Listing Authority and the relevant tax compliance regulations in the jurisdictions in which the group operates. In addition, we concluded that
+there are certain significant laws and regulations that may have an effect on the determination of the amounts and disclosures in the financial
+statements, mainly relating to health and safety, employee matters and environmental legislation.
+• We understood how DS Smith Plc is complying with those frameworks by making enquiries of management, Internal Audit, those responsible
+for legal and compliance procedures and the Company Secretary. We corroborated our enquiries through our review of Board minutes and
+papers provided to the Audit Committee and attendance at meetings of the Audit Committee, as well as consideration of the results of our
+audit procedures across the group to either corroborate or provide contrary evidence which was then followed up. We tested management’s
+entity level controls to understand the company culture of honest and ethical behaviour, including the emphasis on fraud prevention.
+• We assessed the susceptibility of the group’s financial statements to material misstatement, including how fraud might occur by meeting with
+management from various parts of the business to understand which areas were susceptible to fraud. We also considered performance
+targets and their propensity to influence management to manage earnings.
+• Based on this understanding we designed our audit procedures to identify non-compliance with such laws and regulations. Our procedures
+involved reviewing Board minutes to identify non-compliance with such laws and regulations, review of reporting to the Audit Committee on
+compliance with regulations and enquires of the Company Secretary and management.
+• We considered the programmes and controls that the group has established to address risks identified, or that otherwise prevent, deter and
+detect fraud; and how senior management monitors those programmes and controls. Where risk was considered as higher, we performed
+audit procedures to address each identified fraud risk.
+• With the assistance of our forensic specialists and considering our understanding of the group, we designed our audit procedures to identify
+non-compliance with such laws and regulations that could have a material impact on the financial statements. Our procedures involved:
+enquiries of group management, those charged with governance, head of legal and external legal advisors, and internal audit; review of
+internal and external reports; challenging the assumptions and judgements made by management in respect of significant accounting
+estimates; incorporating data analytics across our audit approach, testing of manual journal entries recorded to revenue and group-level
+adjustments and any other large or unusual transactions to gain reasonable assurance that the financial statements were free from fraud and
+error. Where observations are raised about management’s process or controls surrounding compliance with laws and regulations by us or
+others, we consider the potential effect of those observations. Furthermore, we performed procedures to conclude on the compliance of
+disclosures made in the annual report and accounts with all applicable requirements.
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council’s website at
+https://www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor’s report.
+Other matters we are required to address
+• Following the recommendation from the audit committee, we were re-appointed by the company at the Annual General Meeting on
+5 September 2023 to audit the financial statements for the year ended 30 April 2024 and subsequent financial periods.
+The period of total uninterrupted engagement including previous renewals and reappointments is two years, covering the years ended
+30 April 2023 to 30 April 2024.
+• The audit opinion is consistent with the additional report to the audit committee.
+Use of our report
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit
+work has been undertaken so that we might state to the company’s members those matters we are required to state to them in an auditor’s
+report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the
+company and the company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Kevin Harkin (Senior statutory auditor)
+for and on behalf of Ernst & Young LLP, Statutory Auditor
+London, 20 June 2024
+Annual Report 2024 dssmith.com
+141
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 144
+
+Financial statements
+Consolidated income statement
+Year ended 30 April 2024
+142
+Continuing operations
+Note
+Before
+adjusting
+items
+2024
+£m
+Adjusting
+items
+ 2024
+(note 4)
+£m
+After
+adjusting
+ items
+2024
+£m
+Before
+adjusting
+items
+2023
+£m
+Adjusting
+items
+ 2023
+(note 4)
+£m
+After
+adjusting
+ items
+2023
+£m
+Revenue
+2
+6,822
+–
+6,822
+8,221
+–
+8,221
+Operating costs
+3,4
+(6,121)
+–
+(6,121)
+(7,360)
+–
+(7,360)
+Operating profit before amortisation,
+acquisitions and divestments
+2
+701
+–
+701
+861
+–
+861
+Amortisation of intangible assets;
+acquisitions and divestments
+10, 4
+(98)
+1
+(97)
+(113)
+(15)
+(128)
+Operating profit
+4
+603
+1
+604
+748
+(15)
+733
+Finance income
+5
+14
+–
+14
+2
+–
+2
+Finance costs
+5, 4
+(116)
+–
+(116)
+(75)
+–
+(75)
+Employment benefit net finance expense
+25
+(1)
+–
+(1)
+(1)
+–
+(1)
+Net financing costs
+
+(103)
+–
+(103)
+(74)
+–
+(74)
+Profit after financing costs
+
+500
+1
+501
+674
+(15)
+659
+Share of profit of equity accounted investments,
+net of tax
+13
+2
+–
+2
+2
+–
+2
+Profit before income tax
+
+502
+1
+503
+676
+(15)
+661
+Income tax (expense)/credit
+7, 4
+(119)
+1
+(118)
+(172)
+3
+(169)
+Profit for the year from continuing operations
+
+383
+2
+385
+504
+(12)
+492
+Discontinued operations
+
+Profit for the year from discontinued operations,
+net of tax
+30(b)
+–
+–
+–
+–
+11
+11
+Profit for the year
+
+383
+2
+385
+504
+(1)
+503
+
+Profit for the year attributable to:
+
+Owners of the parent
+
+383
+2
+385
+503
+(1)
+502
+Non-controlling interests
+
+–
+–
+–
+1
+–
+1
+
+Earnings per share
+
+Earnings per share from continuing and discontinued operations
+
+Basic
+8
+
+28.0p
+
+36.6p
+Diluted
+8
+
+27.9p
+
+36.3p
+Earnings per share from continuing operations
+
+Basic
+8
+
+28.0p
+
+35.8p
+Diluted
+8
+
+27.9p
+
+35.5p
+Adjusted earnings per share from continuing operations
+
+Basic
+8, 32
+
+33.1p
+
+43.0p
+
+Diluted
+8
+
+32.9p
+
+42.7p
+
+142
+Contents
+
+## Page 145
+
+Consolidated statement
+of comprehensive income
+Year ended 30 April 2024
+Annual Report 2024 dssmith.com 143
+
+Note
+2024
+£m
+2023
+£m
+Profit for the year
+
+385
+503
+Items which will not be reclassified subsequently to profit or loss
+
+Actuarial (loss)/gain on employee benefits
+25
+(2)
+11
+Income tax on items which will not be reclassified subsequently to profit or loss
+7
+1
+(2)
+Items which may be reclassified subsequently to profit or loss
+
+Foreign currency translation differences
+
+(147)
+194
+Reclassification to income statement on asset write-down
+
+–
+(3)
+Cash flow hedges fair value changes
+
+(236)
+(72)
+Reclassification from cash flow hedge reserve to income statement
+21(c)
+25
+(573)
+Movement in net investment hedge
+
+41
+(74)
+Income tax on items which may be reclassified subsequently to profit or loss
+7
+43
+149
+Other comprehensive expense for the year, net of tax
+
+(275)
+(370)
+
+Total comprehensive income for the year
+
+110
+133
+
+Total comprehensive income attributable to:
+
+Owners of the parent
+
+110
+132
+Non-controlling interests
+
+–
+1
+
+Annual Report 2024 dssmith.com
+143
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 146
+
+Financial statements continued
+Consolidated statement
+of financial position
+At 30 April 2024
+144
+
+Note
+2024
+£m
+2023
+£m
+Assets
+
+Non-current assets
+
+Intangible assets
+10
+2,811
+2,927
+Biological assets
+
+11
+11
+Property, plant and equipment
+11
+3,743
+3,529
+Right-of-use assets
+12
+237
+224
+Equity accounted investments
+13
+17
+17
+Other investments
+14
+17
+17
+Employee benefits
+25
+50
+24
+Deferred tax assets
+22
+23
+11
+Other receivables
+16
+4
+1
+Derivative financial instruments
+21
+15
+165
+Total non-current assets
+
+6,928
+6,926
+Current assets
+
+Inventories
+15
+591
+619
+Biological assets
+
+5
+6
+Income tax receivable
+
+37
+24
+Trade and other receivables
+16
+1,130
+1,256
+Cash and cash equivalents
+19
+499
+472
+Derivative financial instruments
+21
+64
+154
+Total current assets
+
+2,326
+2,531
+Total assets
+
+9,254
+9,457
+Liabilities
+
+Non-current liabilities
+
+Borrowings
+20
+(2,040)
+(1,742)
+Employee benefits
+25
+(82)
+(79)
+Other payables
+17
+(31)
+(34)
+Provisions
+23
+(8)
+(11)
+Lease liabilities
+12
+(164)
+(154)
+Deferred tax liabilities
+22
+(213)
+(262)
+Derivative financial instruments
+21
+(71)
+(49)
+Total non-current liabilities
+
+(2,609)
+(2,331)
+Current liabilities
+
+Bank overdrafts
+19
+(89)
+(104)
+Borrowings
+20
+(397)
+(74)
+Trade and other payables
+17
+(1,819)
+(2,253)
+Income tax liabilities
+
+(134)
+(165)
+Provisions
+23
+(60)
+(54)
+Lease liabilities
+12
+(75)
+(70)
+Derivative financial instruments
+21
+(122)
+(319)
+Total current liabilities
+
+(2,696)
+(3,039)
+Total liabilities
+
+(5,305)
+(5,370)
+Net assets
+
+3,949
+4,087
+Equity
+
+Issued capital
+24
+138
+138
+Share premium
+
+2,258
+2,251
+Reserves
+24
+1,553
+1,695
+Total equity attributable to owners of the parent
+
+3,949
+4,084
+Non-controlling interests
+
+-
+3
+Total equity
+
+3,949
+4,087
+Approved by the Board of Directors of DS Smith Plc on 20 June 2024 and signed on its behalf by:
+
+M W Roberts
+
+R Pike
+Director
+
+Director
+The accompanying notes are an integral part of these consolidated financial statements.
+144
+Contents
+
+## Page 147
+
+Consolidated statement
+of changes in equity
+Year ended 30 April 2024
+Annual Report 2024 dssmith.com 145
+
+Note
+Share
+capital
+£m
+Share
+premium
+£m
+Hedging
+reserve
+£m
+Translation
+reserve
+£m
+Own
+shares
+£m
+Retained
+earnings1
+£m
+Total equity
+attributable
+to owners of
+the parent
+£m
+Non-
+controlling
+interests
+£m
+Total
+equity
+£m
+At 1 May 2022
+
+137
+2,248
+609
+(105)
+(9)
+1,352
+4,232
+2
+4,234
+Profit for the year
+
+–
+–
+–
+–
+–
+502
+502
+1
+503
+Actuarial gain on employee benefits
+25
+–
+–
+–
+–
+–
+11
+11
+–
+11
+Reclassification to income statement
+on asset write-down
+
+–
+–
+–
+–
+–
+(3)
+(3)
+–
+(3)
+Foreign currency translation differences
+
+–
+–
+–
+194
+–
+–
+194
+–
+194
+Cash flow hedges fair value changes
+
+–
+–
+(72)
+–
+–
+–
+(72)
+–
+(72)
+Reclassification from cash flow hedge
+reserve to income statement
+21(c)
+–
+–
+(573)
+–
+–
+–
+(573)
+–
+(573)
+Movement in net investment hedge
+
+–
+–
+–
+(74)
+–
+–
+(74)
+–
+(74)
+Income tax on other comprehensive income
+–
+–
+149
+–
+–
+(2)
+147
+–
+147
+Total comprehensive (expense)/income
+–
+–
+(496)
+120
+–
+508
+132
+1
+133
+Issue of share capital
+
+1
+3
+–
+–
+–
+–
+4
+–
+4
+Employee share trust
+
+–
+–
+–
+–
+(5)
+(3)
+(8)
+–
+(8)
+Share-based payments (net of tax)
+
+–
+–
+–
+–
+–
+13
+13
+–
+13
+Dividends paid
+9
+–
+–
+–
+–
+–
+(289)
+(289)
+–
+(289)
+Other changes in equity in the year
+1
+3
+–
+–
+(5)
+(279)
+(280)
+–
+(280)
+At 30 April 2023
+
+138
+2,251
+113
+15
+(14)
+1,581
+4,084
+3
+4,087
+Profit for the year
+
+–
+–
+–
+–
+–
+385
+385
+–
+385
+Actuarial loss on employee benefits
+25
+–
+–
+–
+–
+–
+(2)
+(2)
+–
+(2)
+Foreign currency translation differences
+
+–
+–
+–
+(147)
+–
+–
+(147)
+–
+(147)
+Cash flow hedges fair value changes
+
+–
+–
+(236)
+–
+–
+–
+(236)
+–
+(236)
+Reclassification from cash flow hedge
+reserve to income statement
+21c
+–
+–
+25
+–
+–
+–
+25
+–
+25
+Movement in net investment hedge
+
+–
+–
+–
+41
+–
+–
+41
+–
+41
+Income tax on other comprehensive income
+–
+–
+41
+2
+–
+1
+44
+–
+44
+Total comprehensive (expense)/income
+–
+–
+(170)
+(104)
+–
+384
+110
+–
+110
+Issue of share capital
+
+–
+7
+–
+–
+–
+–
+7
+–
+7
+Employee share trust
+
+–
+–
+–
+–
+5
+(9)
+(4)
+–
+(4)
+Share-based payments (net of tax)
+
+–
+–
+–
+–
+–
+(4)
+(4)
+–
+(4)
+Dividends paid
+9
+–
+–
+–
+–
+–
+(247)
+(247)
+–
+(247)
+Transactions with non-controlling
+interests
+
+–
+–
+–
+–
+–
+3
+3
+(3)
+–
+Other changes in equity in the year
+–
+7
+–
+–
+5
+(257)
+(245)
+(3)
+(248)
+At 30 April 2024
+
+138
+2,258
+(57)
+(89)
+(9)
+1,708
+3,949
+–
+3,949
+1. Retained earnings include a reserve related to merger relief (note 24).
+Annual Report 2024 dssmith.com
+145
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 148
+
+Financial statements continued
+Consolidated statement
+of cash flows
+Year ended 30 April 2024
+146
+Continuing operations
+Note
+2024
+£m
+2023
+£m
+Operating activities
+
+Cash generated from operations
+27
+555
+1,078
+Interest received
+
+14
+2
+Interest paid
+
+(80)
+(78)
+Tax paid
+
+(169)
+(136)
+Cash flows from operating activities
+
+320
+866
+Investing activities
+
+Acquisition of subsidiary businesses, net of cash and cash equivalents
+30
+(113)
+–
+Divestment of equity accounted investment
+30
+5
+–
+Capital expenditure
+
+(547)
+(545)
+Proceeds from sale of property, plant and equipment and intangible assets
+
+41
+19
+Cash outflows from restricted cash and other deposits
+
+–
+(2)
+Other investing activities
+
+–
+2
+Cash flows used in investing activities
+
+(614)
+(526)
+Financing activities
+
+Proceeds from issue of share capital
+
+7
+4
+Repayment of borrowings
+
+(616)
+(679)
+Proceeds from borrowings
+
+1,284
+332
+(Payments)/proceeds from derivative financial instruments
+
+(2)
+14
+Repayment of principal on lease liabilities
+12
+(72)
+(106)
+Dividends paid to Group shareholders
+9
+(247)
+(289)
+Other financing activities
+
+(2)
+(4)
+Cash flows from/(used in) financing activities
+
+352
+(728)
+Increase/(decrease) in cash and cash equivalents
+
+58
+(388)
+Net cash and cash equivalents at beginning of the year
+
+368
+746
+Exchange (losses)/gains on cash and cash equivalents
+
+(16)
+10
+Net cash and cash equivalents at end of the year
+19
+410
+368
+
+146
+Contents
+
+## Page 149
+
+Notes to the consolidated
+financial statements
+147
+1. Material accounting policies
+(a) Basis of preparation
+(i) Consolidated financial statements
+These financial statements are the consolidated financial statements
+for the Group consisting of DS Smith Plc, a company registered in
+England and Wales, and all its subsidiaries. The consolidated financial
+statements have been prepared and approved by the Directors in
+accordance with the recognition, measurement and presentation
+requirements of UK-adopted International Accounting Standards
+(IFRS) as issued by the International Accounting Standards Board
+(IASB), and the requirements of the Companies Act 2006. UK-adopted
+IFRS are equivalent to those issued by the IASB for the purposes of the
+consolidated financial statements.
+The consolidated financial statements are prepared on the historical
+cost basis with the exception of biological assets, other investments,
+assets and liabilities of certain financial instruments and employee
+benefit plans that are stated at their fair value and share-based
+payments that are stated at their grant date fair value.
+The preparation of consolidated financial statements requires
+management to make judgements, estimates and assumptions
+that affect whether and how policies are applied, and the reported
+amounts of assets and liabilities, income and expenses. Estimates
+with a significant risk of material adjustment and the critical
+accounting judgement are discussed in accounting policies 1(z)
+and 1(aa).
+Going concern: the consolidated financial statements have been
+prepared on a going concern basis. The Board has reviewed a detailed
+consideration of going concern, based on the Group’s recent trading
+and forecasts, and including scenario analysis. This takes into account
+reasonably foreseeable changes in trading performance, including the
+continued uncertainty caused by high inflation and the ongoing war in
+Ukraine and reactivation of Middle East conflict. At 30 April 2024 there
+was significant headroom on the Group’s committed debt facilities, at
+a level of c.£1.6 billion. The going concern assessment included the
+period to 31 October 2025. Based on the resilience of the Group’s
+operations to both the high-cost environment experienced
+throughout the last 18 months and the weak demand experienced
+during FY24, as well as the current and forecast liquidity available, the
+Board believes that the Group is well placed to manage its business
+risks successfully despite the uncertainties inherent in the current
+economic outlook, and to operate within its current debt facilities.
+The Group’s current committed bank facility headroom, its forecast
+liquidity headroom over the going concern period of assessment and
+potential mitigating activities available to management have been
+considered by the Directors in forming their view that it is appropriate
+to conclude that there is a reasonable expectation that the Group has
+adequate resources to continue in operational existence for the
+foreseeable future. For this reason, the going concern basis has been
+adopted in preparing the financial statements. The financial
+statements have been prepared on the going concern basis with no
+material uncertainty identified after a detailed assessment. Further
+details, including the analysis performed and conclusion reached, are
+set out below.
+Liquidity and financing position: the total debt facilities at 30 April
+2024 were £3.9bn, of which £2.5bn is publicly listed debt with no
+attached covenants. In addition, the Group had access to c£1.5bn bank
+facilities, which were undrawn at 30 April 2024. Group facilities
+totalling £0.4bn are due to expire within the going concern period.
+Subsequent to the year end, the Group successfully amended its
+revolving credit facility, extending its maturity to May 2027 for an
+amount of £1.25bn replacing the existing facility for £1.4bn. This
+means that the Group will have access to at least £3.35bn of facilities
+for the duration of the going concern period to 31 October 2025.
+There is significant liquidity/financing headroom across the going
+concern forecast period. For this reason, the going concern review has
+focused more on forecast covenant compliance.
+Overview: in determining the going concern basis for preparing the
+financial statements, the Directors consider the Company’s objectives
+and strategy, its principal risks and uncertainties in achieving its
+objectives and its review of business performance and financial
+position. The economic environment reflected in this Going Concern
+assessment is based on the 2024/25 forecast which anticipates
+moderate organic box volume growth across each of our regions,
+recognising the inflationary pressures in the Group’s raw materials and
+overhead cost bases. In preparing the financial statements, the Group
+has modelled two scenarios in its assessment of going concern.
+• The base case is derived from the 2024/25 full year forecast as
+presented to the Board. The key inputs and assumptions include:
+Packaging volume growth at moderate levels across the future
+periods considered by the modelling, driven by continued FMCG and
+e-commerce demand recovery, together with the recovery in
+industrial volumes. Both paper sales price and input fibre price are
+consistent with those anticipated in the forecast; and
+• The downside case assumes European packaging volumes largely
+stagnating at 2023/24 levels, reflecting no future growth and
+double inflationary pressures on the cost base, not mitigated by a
+commensurate increase in paper prices. With a significant portion of
+the Group’s packaging contracts being either directly linked /
+referenced to a paper index, this results in higher input costs for the
+Group are more difficult to pass through to end customers.
+Mitigating actions: the outturns of the above scenario modelling,
+combined with a stable operating performance throughout FY24
+provide the Group a level of comfort that no significant cost / cash flow
+mitigations need to be built into the going concern modelling.
+However, a range of options remain at the Group’s disposal should
+they be required which provide the opportunity to support EBITDA,
+cash flow and net debt, including:
+• Actions in respect of variable and controllable costs such as
+discretionary bonuses, pay rises, recruitment freezes and
+wider labour force actions in response to higher levels of
+volume reductions
+• Limiting capital expenditure to minimum maintenance levels by
+pausing growth spend (including brownfield sites and other
+expansionary spend)
+• Strategic actions in respect of the Group’s asset base could be
+considered in respect of disposals, mothballing and closures
+• A reduction or temporary suspension of the Group’s dividend
+
+Annual Report 2024 dssmith.com
+147
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 150
+
+Notes to the consolidated financial statements continued
+148
+1. Material accounting policies continued
+(a) Basis of preparation continued
+(i) Consolidated financial statements continued
+The Group could also consider actions to assist covenant compliance,
+such as increased utilisation of debt factoring facilities and optimising
+working capital by negotiating longer payment terms whilst
+continuing to pay suppliers in full and in line with contractual terms.
+It is estimated that the Group EBITDA would have to fall by about
+36 per cent from FY24 levels for a breach of the net debt:EBITDA
+covenant to occur. The Board considers this scenario to be a remote
+possibility based upon the Group’s historical performance.
+Going concern basis: based on the forecast and the scenarios modelled,
+together with the performance of the Group in the current year, the
+Directors consider that the Group and Company has significant covenant
+and liquidity headroom in its borrowing facilities to continue in operational
+existence for the length of the going concern period until 31 October 2025.
+In reaching this conclusion the Board has also considered the implications
+in a going concern context of the proposed acquisition of the Group by
+International Paper which was announced on 16 April 2024. As set
+out in the Rule 2.7 Announcement, the Boards of Directors of both
+International Paper and DS Smith believe there is a compelling
+strategic and financial rationale for the Combination, including the
+complementary nature of their geographic footprints and the significant
+synergies expected post transaction. On this basis, the Board of
+DS Smith believes this supports its going concern assessment, in the
+event the transaction proceeds. The transaction is expected to
+close during the fourth quarter of 2024, subject to the approval of
+International Paper shareholders and DS Smith shareholders, as well as
+customary closing conditions, including regulatory clearances in Europe
+and the U.S., all substantive conditions. The Group’s borrowings and
+facilities are subject to change of control provisions which allow for
+lenders to request repayment of the amounts owed but only in the
+event of a downgrade of the Group’s credit rating to below investment
+grade. In light of the announcements by a credit rating agency, in their
+Research Update issued on 18 April 2024, view the transaction as
+positive from a credit perspective (and the credit rating agency signalling
+their intention to upgrade the Group’s credit rating as a result of an
+acquisition by International Paper), the Board considers the risk arising
+as a result of these change of control clauses to be remote. Even in the
+remote event that the Group’s borrowings are required to be repaid,
+the Board has also evaluated the ability of the enlarged group to settle
+any repayment requests and, based on the latest publicly available
+information, is satisfied that the available cash and facilities of the
+combined group would be sufficient to do so. The scenarios modelled in
+the going concern assessment were based on the Group remaining an
+independent entity and, therefore, remain appropriate should the
+proposed acquisition not proceed. Accordingly, the Board believes the
+conclusion that the Group and Company is a going concern for the period
+to 31 October 2025 remains appropriate in the circumstances of the
+proposed acquisition completing.
+(ii) Climate change
+The Group has considered the impact of climate change in preparing
+these consolidated financial statements, including the effect upon the
+application of its accounting policies, judgements, estimates and
+assumptions. In making its assessments of the impact the Group
+considered the risks identified through its risk management processes,
+the Task Force on Climate-related Financial Disclosures (TCFD) on
+page 60 to 77 and its defined sustainability targets, as outlined in the
+Strategic Report.
+These considerations, which are core to the Group’s strategy, did not
+have a material impact on any accounting estimates and judgements
+including the following areas:
+• The estimates of future cash flows used in the impairment
+assessment of goodwill (refer to note 10) and going concern;
+• The assessment of residual values and estimated useful economic
+lives of property, plant and equipment (refer to note 11); and
+• The adequacy of provisions for liabilities (refer to note 23).
+The impact of climate change will evolve in future periods and the
+Group will continue to assess this.
+(iii) Discontinued operations
+The Group classifies non-current assets and disposal groups as held for
+sale if their carrying amounts will be recovered principally through a sale
+transaction rather than through continuing use. Non-current assets and
+disposal groups classified as held for sale are measured at the lower of
+their carrying amount and fair value less costs to sell. Costs to sell are the
+incremental costs directly attributable to the disposal of an asset or
+disposal group, excluding finance costs and income tax expense.
+The criteria for held for sale classification is regarded as met only when
+the sale is highly probable and the asset or disposal group is available for
+immediate sale in its present condition. Actions required to complete the
+sale should indicate that it is unlikely that significant changes to the sale
+will be made or that the decision to sell will be withdrawn. Management
+must be committed to the plan to sell the asset and the sale is expected to
+be completed within one year from the date of the classification.
+Assets and liabilities classified as held for sale are presented
+separately as current items in the statement of financial position.
+Discontinued operations are excluded from the results of continuing
+operations and are presented as a single amount as profit or loss after
+tax from discontinued operations in the income statement. Cash flows
+generated from discontinued operations are presented as a single
+item in the statement of cash flows.
+All other notes to the financial statements include amounts for
+continuing operations.
+(iv) New accounting standards adopted
+The following amended standards and interpretations were adopted
+by the Group during the year ending 30 April 2024. These amended
+standards and interpretations have not had a significant impact on the
+consolidated financial statements.
+• IFRS 17 Insurance Contracts;
+• IAS 12 Income Taxes – International Tax Reform – Pillar Two Model Rules;
+• Amendments to IAS 12 Income Taxes – Deferred Tax related to
+Assets and Liabilities arising from a Single Transaction;
+• Amendments to IAS 1 Presentation of Financial Statements and
+IFRS Practice Statement 2 Making Materiality Judgements –
+Disclosure of Accounting Policies; and
+• Amendments to IAS 8 Accounting Policy Changes in Accounting
+Estimates and Errors – Definition of Accounting Estimates.
+
+148
+Contents
+
+## Page 151
+
+Annual Report 2024 dssmith.com 149
+1. Material accounting policies continued
+(a) Basis of preparation continued
+(iv) New accounting standards adopted continued
+The accounting policies set out above have been applied consistently
+in all periods presented in these consolidated financial statements.
+The accounting policies have been applied consistently by all Group entities.
+(v) Changes to accounting standards not yet adopted
+The standards not yet adopted are currently not expected to have a
+material impact on the consolidated financial statements of the Group.
+(b) Basis of consolidation
+(i) Subsidiaries
+The financial statements of subsidiaries are included in the consolidated
+financial statements from the date that control commences until the
+date that control ceases. Control is achieved when the Group is exposed
+to, or has rights to, variable returns from its involvement with the entity
+and has the ability to affect those returns through its power over the
+entity. Intra-group balances and any unrealised gains and losses or
+income and expenses arising from intra-group transactions are
+eliminated in preparing the consolidated financial statements.
+(ii) Interests in equity accounted investments
+The Group’s interests in equity accounted investments comprise
+interests in associates and joint ventures. An associate is an entity
+over which the Group has significant influence, but not control or joint
+control, over the financial and operating policy decisions of the
+investment. A joint venture is an entity in which the Group has joint
+control, whereby the Group has rights to the net assets of the entity,
+rather than rights to its assets and obligations for its liabilities.
+Interests in associates and joint ventures are accounted for using the
+equity method. They are recognised initially at cost, which includes
+transaction costs. Subsequent to initial recognition the consolidated
+financial statements include the Group’s share of the profit or loss and
+other comprehensive income of equity accounted investments, until the
+date on which significant influence or joint control ceases.
+(iii) Non-controlling interests
+Non-controlling interests are shown as a component of equity in the
+consolidated statement of financial position net of the value of options
+over interests held by non-controlling interests in the Group’s subsidiaries.
+(iv) Business combinations
+The acquisition method is used to account for the acquisition of
+subsidiaries. Identifiable net assets acquired (including intangibles)
+in a business combination are measured initially at their fair values
+at the acquisition date.
+Where the measurement of the fair value of identifiable net assets
+acquired is incomplete at the end of the reporting period in which the
+combination occurs, the Group will report provisional fair values.
+Final fair values are determined within a year of the acquisition date
+and applied retrospectively.
+The excess of the consideration transferred and the amount of any
+non-controlling interest over the fair value of the identifiable assets
+(including intangibles), liabilities and contingent liabilities acquired is
+recorded as goodwill.
+The consideration transferred is measured as the fair value of
+the assets given, equity instruments issued (if any), and liabilities
+assumed or incurred at the date of acquisition.
+Acquisition-related costs are expensed as incurred.
+The results of the subsidiaries acquired are included in the
+consolidated financial statements from the acquisition date.
+(c) Revenue
+The Group is in the business of providing sustainable packaging
+solutions, sustainable paper products, recycling and waste
+management services. The Group has concluded that it is the principal
+in its revenue arrangements.
+Revenue comprises the fair value of the sale of goods and services,
+net of value added tax and other sales taxes, rebates and discounts
+and after eliminating sales within the Group. Revenue from contracts
+with customers is recognised when control of the goods or services
+is transferred to the customer at an amount that reflects the
+consideration to which the Group expects to be entitled in exchange
+for those goods or services and the fulfilment of the related
+performance obligations. Generally this occurs when the goods are
+loaded into the collection vehicle if the buyer is collecting them, or
+when the goods are unloaded at the delivery address if the Group
+is responsible for delivery.
+The transaction price is the contractual price with the customer
+adjusted for rebates and discounts. Rebates and discounts are
+estimated using historical data and experiences with the customer.
+Revenue is recognised to the extent that it is highly probable that
+a significant reversal will not occur. Returns from customers are
+negligible. No element of financing is deemed present as typical
+sales contracts with customers are usually shorter than 12 months.
+A receivable is recognised when the goods are delivered or services
+provided at a point in time that consideration is unconditional because
+only the passage of time is required before the payment is due.
+Revenue by function is not provided in the Group’s disclosures as
+the year-on-year variability in the degree of integration would be
+misrepresentative of the level of activity.
+(d) Supplier rebates
+The Group receives income from its suppliers, mainly in the form
+of volume-based rebates and early settlement discounts. These are
+recognised as a reduction in operating costs in the year to which they
+relate. At the period end, where appropriate, the Group estimates
+supplier income due from annual agreements for volume rebates.
+(e) Government grants
+Government grants are recognised in the statement of financial
+position initially as deferred income when there is reasonable
+assurance that they will be received and that the Group will comply
+with the conditions attached to them. Grants that compensate the
+Group for expenses incurred are offset against the expenses in the
+same periods in which the expenses are incurred. Grants relating to
+assets are released to the income statement over the expected useful
+life of the asset to which they relate on a basis consistent with the
+depreciation policy. Depreciation is provided on the full cost of the
+assets before deducting grants.
+Annual Report 2024 dssmith.com
+149
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 152
+
+Notes to the consolidated financial statements continued
+150
+1. Material accounting policies continued
+(f) Dividends
+Dividends attributable to the equity holders of the Company paid
+during the year are recognised directly in equity.
+(g) Foreign currency translation
+The consolidated financial statements are presented in sterling, which
+is the Group’s presentational currency. Transactions in foreign
+currencies are translated into the respective functional currencies of
+Group companies at the foreign exchange rates ruling at the dates
+of the transactions. Monetary assets and liabilities denominated
+in foreign currencies at the reporting date are translated into the
+functional currency at the foreign exchange rates ruling at that date.
+Foreign exchange differences arising on translation of monetary
+assets and liabilities are recognised in the consolidated income
+statement. Non-monetary assets and liabilities that are measured
+at historical cost in a foreign currency are translated using the
+exchange rates at the dates of the transactions.
+The assets and liabilities of all the Group entities that have a functional
+currency other than sterling are translated at the closing exchange
+rate at the reporting date. Income and expenses for each income
+statement are translated at average exchange rates (unless this
+average is not a reasonable approximation of the cumulative effect of
+the rates prevailing on the transaction dates, in which case income and
+expenses are translated at the date of the transactions).
+On consolidation, exchange differences arising from the translation of
+the net investment in foreign entities, borrowings, and other financial
+instruments designated as hedges of such investments, are
+recognised in the translation reserve. On the disposal of foreign
+currency entities, the cumulative exchange difference recorded in the
+translation reserve is reclassified to the consolidated income
+statement as part of the gain or loss on disposal.
+(h) Intangible assets
+(i) Goodwill
+The recognition of business combinations requires the excess of the
+purchase price of acquisitions over the net book value of identifiable
+assets acquired to be allocated to the assets and liabilities of the
+acquired entity. The Group makes judgements and estimates in
+relation to the fair value allocation of the purchase price.
+Goodwill is stated at cost less accumulated impairment losses.
+The useful life of goodwill is considered to be indefinite. Goodwill is
+allocated to the cash generating units (CGUs) that are expected to
+benefit from the synergies of the combination and is tested annually
+for impairment or more frequently if an impairment is indicated.
+On disposal of a subsidiary, or a jointly controlled entity, the attributable
+amount of goodwill is included in the determination of the profit or
+loss recognised in the consolidated income statement.
+(ii) Intellectual property
+Intellectual property is stated at cost less accumulated amortisation
+and impairment.
+(iii) Computer software
+Computer software that is integral to a related item of hardware is
+included within property, plant and equipment. All other computer
+software is treated as an intangible asset.
+(iv) Customer relationships
+Customer relationships, acquired as part of a business combination,
+are capitalised separately from goodwill and are carried at cost less
+accumulated amortisation and impairment.
+(v) Other intangible assets
+Other intangible assets that are acquired by the Group are carried at
+cost less accumulated amortisation and impairment.
+(vi) Amortisation
+Amortisation of intangible assets (excluding goodwill) is charged to
+the income statement on a straight-line basis over the estimated
+useful lives of intangible assets, unless such lives are indefinite.
+Intangible assets (other than goodwill) are amortised from the
+date they are available for use.
+The estimated useful lives are as follows:
+Intellectual property
+Up to 20 years
+Computer software
+3–5 years
+Customer relationships
+5–15 years
+Other
+2-3 years
+(i) Property, plant and equipment
+Property, plant and equipment is stated at cost less accumulated
+depreciation and impairment.
+Depreciation is charged to the income statement on a straight-line
+basis over the estimated useful lives of each item of property, plant
+and equipment, and major components that are accounted
+for separately (or in the case of leased assets, the lease period,
+if shorter). Land is not depreciated.
+The estimated useful lives are as follows:
+Freehold and long leasehold properties
+10–50 years
+Plant and equipment – motor vehicles
+3–5 years
+Plant and equipment – other, fixtures and fittings
+(including IT hardware)
+2–30 years
+The estimated residual lives are reviewed at each reporting date. The
+impact of climate factors on useful lives is considered on an asset by
+asset basis and takes into consideration the climate change targets
+set by the Group. Capital expenditure will be required for ongoing
+projects in order to meet the Group’s climate change targets and this
+has not resulted in any significant changes to the estimated useful life
+of assets in the current year.
+Gains or losses arising on the sale of surplus property assets are
+recorded through operating profit before adjusting items.
+The Group capitalises borrowing costs on qualifying assets. The
+capitalisation rate applied is the weighted average cost of borrowing.
+
+150
+Contents
+
+## Page 153
+
+Annual Report 2024 dssmith.com 151
+1. Material accounting policies continued
+(j) Other investments
+Other investments primarily consist of investments in unquoted equity
+securities and restricted cash. Equity securities are measured at fair value.
+On initial recognition, the Group makes an irrevocable election (on an
+instrument-by-instrument basis) to designate investments in equity
+instruments as at fair value through other comprehensive income
+(FVTOCI). Designation at FVTOCI is not permitted if the equity investment
+is held for trading or if it is contingent consideration recognised by an
+acquirer in a business combination.
+Investment in equity instruments at FVTOCI are initially measured at
+fair value plus transaction costs. Subsequently, they are measured
+at fair value with gains and losses arising from changes in fair value
+recognised in other comprehensive income and accumulated in the
+investment revaluation reserve. The cumulative gain or loss is not
+reclassified to profit or loss on divestment of the equity investments;
+instead, it is transferred to retained earnings. The Group has
+designated all investments in equity that are not held for trading as
+at FVTOCI.
+Restricted cash is carried at amortised cost.
+(k) Impairment
+The carrying amounts of the Group’s assets, including tangible
+and intangible non-current assets, are reviewed at each reporting
+date to determine whether there are any indicators of impairment.
+If any such indicators exist, the asset’s recoverable amount is
+estimated. Goodwill is tested for impairment annually at the same
+time, regardless of the presence of an impairment indicator.
+An impairment loss is recognised whenever the carrying amount
+of an asset, collection of assets or its Cash Generating Unit (CGU)
+exceeds its recoverable amount. Impairment losses are recognised in
+the consolidated income statement.
+(i) Cash-generating units
+For the purposes of property, plant and equipment and other
+intangibles impairment testing, each operating segment, split by
+process (e.g. Packaging, Paper, Recycling), is a separate individual CGU.
+Goodwill impairment testing is carried out based on regional groupings
+of CGUs as set out in note 10, as this is the lowest level at which
+goodwill is monitored for internal management purposes.
+(ii) Calculation of recoverable amount
+The recoverable amount of the Group’s assets is calculated as the
+value-in-use of the CGU to which the assets are attributed or the
+net selling price, if greater. Value-in-use is calculated by discounting
+the cash flows expected to be generated by the CGUs being tested for
+evidence of impairment. This is done using a pre-tax discount rate that
+reflects the current assessment of the time value of money, and the
+country-specific risks for which the cash flows have not been adjusted
+including our assessment of the impact of climate. For an asset that
+does not generate largely independent cash flows, the recoverable
+amount is determined for the CGU to which the asset belongs.
+(iii) Reversals of impairment
+Impairment losses in respect of goodwill are not reversed. In respect of
+other assets, an impairment loss is reversed if there has been a change in
+the estimates used to determine the recoverable amount.
+An impairment loss is reversed only to the extent that the asset’s
+carrying amount does not exceed the carrying amount that would
+have been determined, net of depreciation or amortisation, if no
+impairment loss had been recognised.
+(l) Derivative financial instruments
+The Group uses derivative financial instruments, primarily currency
+and commodity swaps, to manage currency and commodity risks
+associated with the Group’s underlying business activities and the
+financing of these activities. The Group has a policy not to, and does
+not, undertake any speculative activity in these instruments.
+Such derivative financial instruments are initially recognised at fair value on
+the date on which a derivative contract is entered into and are subsequently
+remeasured at fair value. Derivatives are carried as assets when the fair value
+is positive and as liabilities when the fair value is negative.
+IFRS 9 Financial Instruments was effective for annual periods
+beginning on or after 1 January 2018 and replaced IAS 39 Financial
+Instruments: Recognition and Measurement. The Group had previously
+elected to continue hedge accounting under IAS 39, as is allowed by
+the standard. From 1 May 2024 the Group will prospectively adopt
+hedge accounting under IFRS 9, as the hedge accounting
+requirements are simplified and are more closely aligned to the
+Group’s risk management strategy. Under IFRS 9 all existing hedging
+relationships are expected to qualify as continuing hedging
+relationships. No material effect is expected from this change.
+Derivative financial instruments are accounted for as hedges when
+designated as hedges at the inception of the contract and when the
+financial instruments provide an effective hedge of the underlying risk.
+For the purpose of hedge accounting, hedges are classified as:
+• cash flow hedges when hedging exposure to variability in cash flows that
+is attributable to a particular risk associated with either a statement of
+financial position item or a highly probable forecast transaction; or
+• hedges of the net investment in a foreign entity.
+The treatment of gains and losses arising from revaluing derivatives
+designated as hedging instruments depends on the nature of the
+hedging relationship as follows:
+Cash flow hedges: the effective portion of the gain or loss on the hedging
+instrument is recognised directly in equity, while the ineffective portion is
+recognised in the income statement. Amounts taken to equity are
+transferred to the income statement in the same period during which the
+hedged transaction affects profit or loss, such as when a forecast sale or
+purchase occurs. Where the hedged item is the cost of a non-financial
+asset or liability, the amounts taken to equity are transferred to the initial
+carrying amount of the non-financial asset or liability.
+If the hedging instrument expires or is sold, terminated or exercised
+without replacement or roll-over, the hedged transaction ceases to be
+highly probable, or if its designation as a hedge is revoked, amounts
+previously recognised in equity remain in equity until the forecast
+transaction occurs and are transferred to the income statement or to the
+initial carrying amount of a non-financial asset or liability as above. If a
+forecast transaction is no longer expected to occur, amounts previously
+recognised in equity are transferred to the income statement.
+Annual Report 2024 dssmith.com
+151
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 154
+
+Notes to the consolidated financial statements continued
+152
+1. Material accounting policies continued
+(l) Derivative financial instruments continued
+Hedges of net investment in a foreign entity: these represent the
+effective portion of the gain or loss on the hedging instrument that is
+recognised directly in equity, while the ineffective portion is
+recognised in the income statement. Amounts taken to equity are
+reclassified to the income statement when the foreign entity is sold.
+Any gains or losses arising from changes in the fair value of all other
+derivatives are taken to the income statement. These may arise from
+derivatives for which hedge accounting is not applied because they
+are not effective as hedging instruments.
+The net present value of the expected future payments under options
+over interests held by non-controlling interests in the Group’s
+subsidiaries is shown as a financial liability. At the end of each period,
+the valuation of the liability is reassessed with any changes
+recognised in profit or loss for the period.
+(m) Treasury shares
+When share capital recognised as equity is repurchased, the amount of
+the consideration paid, including directly attributable costs, is
+recognised as a change in equity. Repurchased shares are classified as
+treasury shares and are presented as a deduction from total equity.
+(n) Trade and other receivables
+Trade and other receivables are recognised initially at fair value less
+expected credit loss allowance and subsequently held at amortised
+cost. The Group utilises the simplified approach to provide for losses
+on receivables under IFRS 9.
+(o) Inventories
+Inventories are stated at the lower of cost and net realisable value.
+Net realisable value is the estimated selling price in the ordinary
+course of business, less the estimated costs of completion and selling
+expenses. The cost of inventories is based on a weighted average cost
+and includes expenditure incurred in acquiring the inventories and
+bringing them to their existing location and condition. In the case of
+manufactured inventories and work in progress, cost includes an
+appropriate share of overheads based on normal operating capacity.
+(p) Biological assets
+Biological assets consist of standing timber, measured at fair
+value less cost to sell. Any change in fair value resulting from both
+net growth and change in the market value of standing timber is
+presented in the income statement. The revenue from the sale
+of standing timber is presented within revenue.
+(q) Cash and cash equivalents and restricted cash
+Cash and cash equivalents comprise cash balances and call deposits.
+Bank overdrafts that are repayable on demand and form an integral
+part of the Group’s cash management are included as a component
+of cash and cash equivalents for the purpose of the statement of cash
+flows. Cash and cash equivalents are stated at amortised cost.
+Cash subject to contractual restrictions on use by the Group is
+excluded from cash and cash equivalents in the consolidated
+financial statements and is presented within other investments
+in the consolidated statement of financial position. Restricted cash is
+stated at amortised cost.
+(r) Borrowings
+Borrowings are recognised initially at fair value, less attributable
+transaction costs. Subsequent to initial recognition, interest-bearing
+borrowings are stated at amortised cost unless designated in a fair
+value hedge relationship, with borrowing costs being accounted
+for on an accruals basis in the income statement using the effective
+interest method.
+At the reporting date, interest payable is recorded separately from the
+associated borrowings, within trade and other payables.
+(s) Employee benefits
+(i) Defined contribution schemes
+Contributions to defined contribution pension schemes are recognised
+as an employee benefit expense within personnel expenses in the
+income statement, as incurred.
+(ii) Defined benefit schemes
+The Group’s net obligation in respect of defined benefit pension
+schemes is calculated separately for each scheme by estimating
+the amount of future benefit that employees have earned in return for
+their service in the current and prior periods; that benefit is discounted
+to its present value amount and recognised in the income statement
+within personnel expenses; a corresponding liability for all future
+benefits is established on the statement of financial position and the
+fair value of any scheme assets is deducted.
+The discount rate is the yield at the reporting date on AA credit
+rated bonds that have maturity dates approximating to the duration
+of the schemes’ obligations. The calculation is performed by a
+qualified actuary using the projected unit method. Actuarial gains and
+losses are recognised immediately in the statement of other
+comprehensive income.
+(iii) Share-based payment transactions
+The Group operates equity-settled share-based compensation plans.
+The fair value of the employee services received in exchange for the
+grant of the options is recognised within personnel expenses, with a
+corresponding increase in equity, over the period that the employees
+unconditionally become entitled to the awards. The fair value of the
+options granted is measured using a stochastic model, taking into
+account the terms and conditions upon which the options were granted.
+The total amount to be expensed over the vesting period
+is determined by reference to the fair value of the options granted,
+excluding the impact of any non-market vesting conditions.
+
+152
+Contents
+
+## Page 155
+
+Annual Report 2024 dssmith.com 153
+1. Material accounting policies continued
+(s) Employee benefits continued
+At each reporting date, the Group revises its estimates of the number
+of options that are expected to become exercisable. It recognises the
+impact of the revision of original estimates, if any, in the income
+statement, and a corresponding adjustment to equity.
+(t) Provisions
+A provision is recognised in the statement of financial position when
+the Group has a present legal or constructive obligation as a result of a
+past event, a reliable estimate can be made of the amount of the
+obligation and it is probable that an outflow of economic benefits will
+be required to settle the obligation. Provisions are discounted to
+present value where the effect is material.
+(u) Trade and other payables
+Trade and other payables are initially measured at fair value,
+net of directly attributable transaction costs, and are subsequently
+measured at amortised cost using the effective interest method.
+(v) Leases
+The Group recognises a right-of-use asset and a lease liability at the
+lease commencement date.
+The right-of-use asset is initially measured at cost, being the initial
+amount of the lease liability adjusted for any lease payments made at
+or before commencement date, plus any initial direct costs incurred
+and an estimate of end of lease dismantling or restoration costs,
+less any incentives received and related provisions.
+Lease liabilities are recorded at the present value of lease payments,
+which include:
+• Fixed lease payments;
+• Variable payments that depend on an index or rate, initially
+measured using the commencement date index or rate;
+• Any amounts expected to be payable under residual value
+guarantees; and
+• The exercise price of purchase options, if it is reasonably certain
+they will be exercised.
+The interest rate implicit in the lease is used to discount lease
+payments, or, if that rate cannot be determined, the Group’s
+incremental borrowing rate is used, being the rate that the Group
+would have to pay to borrow the funds necessary to obtain an asset
+of similar value in a similar economic environment with similar terms
+and conditions.
+Right-of-use assets are depreciated on a straight-line basis over the
+lease term, or the useful life if shorter. Interest is recognised on the
+lease liability, resulting in a higher finance cost in the earlier years of
+the lease term.
+Lease payments relating to low value assets or to short-term leases
+are recognised as an expense on a straight-line basis over the lease
+term. Short-term leases are those with 12 or fewer months’ duration.
+(w) Taxation
+Income tax on the profit or loss for the year comprises current and
+deferred tax. Income tax is recognised in profit or loss except to the
+extent that it relates to items recognised directly in equity or in other
+comprehensive income.
+Current tax is the expected tax payable on the taxable income for
+the year, using tax rates enacted in each jurisdiction at the reporting
+date, and any adjustment to tax payable in respect of previous years.
+The Group is subject to corporate taxes in a number of different
+jurisdictions and judgement is required in determining the appropriate
+provision for transactions where the ultimate tax determination is
+uncertain. In such circumstances, the Group recognises liabilities for
+anticipated taxes based on the best information available and where
+the anticipated liability is both probable and can be estimated. Any
+interest and penalties accrued are included in income taxes in both the
+consolidated income statement and the consolidated statement of
+financial position. Where the final outcome of such matters differs
+from the amount recorded, any differences may impact the income tax
+and deferred tax provisions in the period in which the final
+determination is made.
+Deferred tax is provided for using the balance sheet liability method,
+providing for temporary differences between the carrying amounts of
+assets and liabilities for financial reporting purposes and the amounts
+used for taxation purposes. The tax effect of certain temporary
+differences is not recognised, principally with respect to goodwill;
+temporary differences arising on the initial recognition of assets or
+liabilities (other than those arising in a business combination or in a
+manner that initially impacts accounting or taxable profit); and
+temporary differences relating to investment in subsidiaries and
+equity accounted investees to the extent that they will probably not
+reverse in the foreseeable future and the Group is able to control the
+reversal of such temporary differences. The amount of deferred tax
+provided is based on the expected manner of realisation or settlement
+of the carrying amount of assets and liabilities, using tax rates enacted
+or substantively enacted at the reporting date.
+A deferred tax asset is recognised only to the extent that it is probable that
+future taxable profits will be available against which the asset can be
+utilised. Deferred tax assets are reduced to the extent that it is no
+longer probable that the related tax benefit will be realised.
+The Group has applied the exemption from recognising and disclosing
+information about deferred tax assets and liabilities related to Pillar Two
+income taxes as required in the amendments to IAS 12 International Tax
+Reform to Pillar Two Model Rules, issued in May 2023.
+(x) Adjusting items
+Items of income or expenditure that are significant by their nature,
+size or incidence, and for which separate presentation would assist
+in the understanding of the trading and financial results of the Group,
+are classified and disclosed as adjusting items.
+Such items include business disposals, restructuring and acquisition
+related and integration costs, and impairments.
+
+Annual Report 2024 dssmith.com
+153
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 156
+
+Notes to the consolidated financial statements continued
+154
+1. Material accounting policies continued
+(y) Non-GAAP performance measures
+In the reporting of financial information, the Group has adopted
+certain non-GAAP measures of historical or future financial
+performance, position or cash flows other than those defined or
+specified under IFRS.
+Non-GAAP measures are either not defined by IFRS or are adjusted
+IFRS figures, and therefore may not be directly comparable with other
+companies’ reported non-GAAP measures, including those in the
+Group’s industry.
+Non-GAAP measures should be considered in addition to, and are not
+intended to be a substitute for, or superior to, IFRS measures.
+Details of the Group’s non-GAAP performance measures, including
+reasons for their use and reconciliations to IFRS figures, are included
+as appropriate in note 32.
+(z) Key sources of estimation uncertainty
+The application of the Group’s accounting policies requires
+management to make estimates and assumptions. These estimates
+and assumptions affect the reported assets and liabilities and financial
+results of the Group. Actual outcomes could differ from the estimates
+and assumptions used.
+The Group’s key sources of estimation uncertainty are as
+detailed below:
+(i) Taxation
+The Group’s tax payable on profits is determined based on tax laws and
+regulations that apply in each of the numerous jurisdictions in which
+the Group operates. The Group is required to exercise judgement in
+estimating income tax provisions, along with the recognition of
+deferred tax assets/liabilities. While the Group aims to ensure that
+estimates recorded are accurate, the actual amounts could be
+different from those expected. See note 7 for additional information.
+(ii) Goodwill impairment
+Goodwill is tested annually for impairment or more frequently if an
+impairment is indicated. Impairment tests are conducted by
+component by value in use of CGUs to their respective carrying
+amounts (including allocated goodwill). It is possible that if key
+assumptions were changed adversely, impairment would need to be
+recognised. See note 10 for additional information.
+(iii) Employee benefits
+IAS 19 Employee Benefits requires the Group to make assumptions
+including, but not limited to, rates of inflation, discount rates and life
+expectancies. The use of different assumptions, in any of the above
+calculations, could have a material effect on the accounting values
+of the relevant statement of financial position assets and liabilities
+which could also result in a change to the cost of such liabilities
+as recognised in profit or loss over time. These assumptions are
+subject to periodic review. See note 25 for additional information.
+(aa) Critical accounting judgement
+(i) Adjusting items
+The Group is required to exercise judgement in applying the adjusting
+items accounting policy to items of income and expenditure, taking
+account of their origination, as well as considering similar items in prior
+years to ensure consistency and appropriate presentation. See note 4
+for additional information.
+(ab) IFRS standards and interpretations endorsed but
+not yet effective
+The IASB and International Financial Reporting Interpretations
+Committee (IFRIC) have issued new standards and interpretations
+with an effective date after the date of these financial statements.
+International Financial Reporting Standards (IFRS/IAS)
+Effective date –
+financial year ending
+Amendments to IAS 7 and IFRS 7 – Supplier Finance
+Arrangements
+30 April 2025
+Amendments to IFRS 16 (Seller-Lessee Subsequent
+Measurement of Sale and Leaseback Transactions)
+30 April 2025
+Amendments to IAS 1 – Classification of Liabilities
+and Debt with Covenants
+30 April 2025
+Amendments to IFRS 7 – Classification and
+Measurement of Financial Instruments
+30 April 2027
+The Group does not anticipate that the adoption of the standards and
+interpretations that are effective for the year ending 30 April 2025
+and beyond will have a material effect on its financial statements.
+(ac) IFRS standards that have been issued but are not
+yet endorsed are as follows:
+• Amendments to IAS 21 (Lack of exchangeability);
+• IFRS S1 (General Requirements for Disclosure of Sustainability-
+Related Financial Information);
+• IFRS S2 (Climate-Related Disclosures);
+• IFRS 18 Presentation and Disclosures in Financial Statements; and
+• IFRS 19 Subsidiaries without Public Accountability: Disclosures.
+The Group does not anticipate that the adoption of these accounting
+standards will have a material effect on its financial statements.
+
+154
+Contents
+
+## Page 157
+
+Annual Report 2024 dssmith.com 155
+2. Segment reporting
+Operating segments
+IFRS 8 Operating Segments requires operating segments to be identified on the same basis as is used internally for the review of performance
+and allocation of resources by the Group Chief Executive (who is the Chief Operating Decision Maker as defined by IFRS 8).
+The Group’s continuing operations are organised into segments which cover geographical regions with integrated packaging and paper
+businesses. These comprise the Group’s reportable segments and their results are regularly reviewed by the Group Chief Executive. The measure
+of profitability reported to the Group Chief Executive for the purposes of resource allocation and assessment of performance is adjusted
+operating profit, which is a non-GAAP performance measure, about which further information is provided in note 32.
+Segment results include items directly attributable to a segment as well as those that can be allocated on a reasonable basis. Central
+administration costs are allocated to the individual segments on a consistent basis year-on-year. All assets and liabilities have been analysed by
+segment, except for items of a financing nature, taxation balances, employee benefit liabilities and current and non-current asset investments.
+Debt and associated interest are managed at a Group level and therefore have not been allocated across the segments.
+Year ended 30 April 2024
+
+Note
+Northern
+Europe
+£m
+Southern
+Europe
+£m
+Eastern
+Europe
+£m
+North
+America
+£m
+Total
+continuing
+operations
+£m
+External revenue
+
+2,598
+2,532
+1,106
+586
+6,822
+Adjusted EBITDA1
+
+310
+497
+127
+90
+1,024
+Depreciation
+
+(111)
+(124)
+(55)
+(33)
+(323)
+Adjusted operating profit1
+
+199
+373
+72
+57
+701
+Unallocated items:
+
+Amortisation
+
+10
+
+(98)
+Adjusting items in operating profit
+
+4
+
+1
+Total operating profit (continuing operations)
+
+604
+Unallocated items:
+
+Net financing costs
+
+(103)
+Share of profit of equity accounted investments, net of tax
+
+2
+Profit before income tax
+
+503
+Income tax expense
+
+(118)
+Profit for the year (continuing operations)
+
+385
+
+Analysis of total assets and total liabilities
+
+Segment assets
+
+2,512
+3,197
+1,469
+1,354
+8,532
+Unallocated items:
+
+Equity accounted investments and other investments
+
+34
+Derivative financial instruments
+
+79
+Cash and cash equivalents
+
+499
+Tax
+
+60
+Employee benefits
+
+50
+Total assets
+
+9,254
+
+Segment liabilities
+
+(990)
+(762)
+(238)
+(110)
+(2,100)
+Unallocated items:
+
+Borrowings, overdrafts and interest payable
+
+(2,583)
+Derivative financial instruments
+
+(193)
+Tax
+
+(347)
+Employee benefits
+
+(82)
+Total liabilities
+
+(5,305)
+
+Capital expenditure
+
+153
+242
+105
+47
+547
+1. Adjusted to exclude amortisation and adjusting items as presented in the income statement.
+Annual Report 2024 dssmith.com
+155
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 158
+
+Notes to the consolidated financial statements continued
+156
+2. Segment reporting continued
+Year ended 30 April 2023
+
+Note
+Northern
+Europe
+£m
+Southern
+Europe
+£m
+Eastern
+Europe
+£m
+North
+America
+£m
+Total
+continuing
+operations
+£m
+External revenue
+
+3,132
+3,150
+1,275
+664
+8,221
+Adjusted EBITDA1
+
+324
+621
+125
+103
+1,173
+Depreciation
+
+(112)
+(120)
+(49)
+(31)
+(312)
+Adjusted operating profit1
+
+212
+501
+76
+72
+861
+Unallocated items:
+
+Amortisation
+
+10
+
+(113)
+Adjusting items in operating profit
+
+4
+
+(15)
+Total operating profit (continuing operations)
+
+733
+Unallocated items:
+
+Net financing costs
+
+(74)
+Share of profit of equity accounted investments, net of tax
+
+2
+Profit before income tax
+
+661
+Income tax expense
+
+(169)
+Profit for the year (continuing operations)
+
+492
+
+Analysis of total assets and total liabilities
+
+Segment assets
+
+2,246
+3,762
+1,247
+1,318
+8,573
+Unallocated items:
+
+Equity accounted investments and other investments
+
+34
+Derivative financial instruments
+
+319
+Cash and cash equivalents
+
+472
+Tax
+
+35
+Employee benefits
+
+24
+Total assets
+
+9,457
+
+Segment liabilities
+
+(1,249)
+(910)
+(282)
+(119)
+(2,560)
+Unallocated items:
+
+Borrowings, overdrafts and interest payable
+
+(1,936)
+Derivative financial instruments
+
+(368)
+Tax
+
+(427)
+Employee benefits
+
+(79)
+Total liabilities
+
+(5,370)
+
+Capital expenditure
+
+134
+266
+109
+36
+545
+1. Adjusted to exclude amortisation and adjusting items as presented in the income statement.
+
+156
+Contents
+
+## Page 159
+
+Annual Report 2024 dssmith.com 157
+2. Segment reporting continued
+Geographical areas
+In presenting information by geographical area, external revenue is based on the geographical location of customers. Non-current assets are
+based on the geographical location of assets and exclude equity accounted investments, other investments, deferred tax assets, derivative
+financial instruments, employee benefits, and intangible assets (which are monitored at the operating segment level, not at a country level).
+
+External revenue
+Non-current assets
+Capital expenditure
+Continuing operations
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+UK
+1,071
+1,300
+525
+508
+70
+67
+France
+1,009
+1,203
+518
+491
+76
+79
+Iberia
+798
+970
+702
+673
+94
+81
+Germany
+631
+763
+429
+420
+52
+38
+Italy
+720
+972
+473
+426
+72
+106
+USA
+591
+671
+410
+390
+47
+36
+Rest of the World
+2,002
+2,342
+938
+857
+136
+138
+
+6,822
+8,221
+3,995
+3,765
+547
+545
+3. Operating profit
+Continuing operations
+2024
+£m
+2023
+£m
+Operating costs
+
+Cost of sales
+3,292
+4,255
+Other production costs
+1,318
+1,328
+Distribution
+516
+561
+Administrative expenses
+995
+1,216
+
+6,121
+7,360
+Details of adjusting items included in operating profit are set out in note 4.
+Operating profit is stated after charging/(crediting) the following:
+Continuing operations
+2024
+£m
+2023
+£m
+Depreciation of owned assets
+247
+241
+Depreciation of right-of-use assets
+76
+71
+Amortisation of intangible assets
+98
+113
+(Profit)/loss on sale of non-current assets
+(9)
+7
+Research and development
+8
+8
+Impairment (credit)/charge in respect of property, plant and equipment
+(4)
+24
+
+Annual Report 2024 dssmith.com
+157
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 160
+
+Notes to the consolidated financial statements continued
+158
+3. Operating profit continued
+
+2024
+2023
+Auditor’s remuneration
+UK
+£m
+Overseas
+£m
+Total
+£m
+UK
+£m
+Overseas
+£m
+Total
+£m
+Fees payable for audit of the Group’s annual financial statements
+1.9
+–
+1.9
+1.0
+–
+1.0
+Fees payable for audit of the Group’s subsidiaries, pursuant to
+legislation
+0.5
+4.3
+4.8
+1.2
+3.3
+4.5
+Total audit fees
+2.4
+4.3
+6.7
+2.2
+3.3
+5.5
+Fees payable to the Group’s Auditor and their associates for other
+services:
+
+Corporate finance services
+–
+–
+–
+–
+–
+–
+Audit related assurance services
+0.2
+0.1
+0.3
+0.2
+0.1
+0.3
+Total non-audit fees
+0.2
+0.1
+0.3
+0.2
+0.1
+0.3
+Total Auditor’s remuneration
+2.6
+4.4
+7.0
+2.4
+3.4
+5.8
+Non-audit fees in 2023/24 primarily related to audit-related fees for the review of the interim results and 2022/23 primarily include reporting
+and accounting services in respect of the Euro medium-term note (EMTN) issues in the year and audit-related fees for the review of the
+interim results.
+A description of the work of the Audit Committee is set out in the governance section and includes an explanation of how the external Auditor’s
+objectivity and independence are safeguarded when non-audit services are provided by the external Auditor.
+4. Adjusting items
+Items are presented as adjusting in the financial statements where they are significant items of financial performance that the Directors
+consider should be separately disclosed to assist in the understanding of the trading and financial results of the Group. Such items include
+business disposals, restructuring and acquisition related and integration costs, and impairments.
+Continuing operations
+2024
+£m
+2023
+£m
+Acquisition related costs
+(9)
+(15)
+Gain on acquisitions and divestments
+10
+–
+Net gain/(loss) on acquisitions and divestments
+1
+(15)
+Total pre-tax adjusting items (recognised in operating profit)
+1
+(15)
+Current tax credit on adjusting items
+1
+3
+Total post-tax adjusting items
+2
+(12)
+
+158
+Contents
+
+## Page 161
+
+Annual Report 2024 dssmith.com 159
+4. Adjusting items continued
+2023/24
+In April 2024, the Group sold its previously fully written-down Ukrainian associate, RKTK, for £10m. £5m was received by 30 April 2024 and a
+further £5m will be received in the next financial year. This resulted in a £10m gain on divestment in the year ended 30 April 2024.
+The Group incurred £3m of acquisition costs in the year-end 30 April 2024 relating to the recommended all-share offer from International Paper
+and a further £6m of other related costs.
+2022/23
+On 1 September 2022 the put option for the final 10% stake in Interstate Resources crystallised. This has resulted in additional costs
+in relation to performance conditions which have been met by the business and the costs of hedging the pending payment of the
+US dollar liability.
+The current tax credit on adjusting items of £3m for the year ended 30 April 2023 is the tax effect at the local applicable tax rate of adjusting
+items that are subject to tax. This excludes non-tax–deductible deal related advisory fees in relation to acquisitions and divestments.
+Adjusting items from discontinued operations comprise the gain on the settlement of certain costs and obligations arising from the disposal of
+the Plastics division.
+5. Finance income and costs
+Continuing operations
+2024
+£m
+2023
+£m
+Interest income from financial assets
+(14)
+(2)
+Finance income
+(14)
+(2)
+Interest on borrowings and overdrafts
+103
+49
+Interest on lease liabilities
+12
+11
+Other
+1
+15
+Finance costs
+116
+75
+Borrowing costs capitalised on qualifying assets in the year ended 30 April 2024 was £1m (2022/23: £nil). Borrowing costs were capitalised at a
+weighted average rate of 4.7%.
+6. Staff costs
+Continuing operations
+2024
+£m
+2023
+£m
+Wages and salaries
+1,149
+1,194
+Social security costs
+238
+233
+Contributions to defined contribution pension plans
+57
+56
+Service costs for defined benefit schemes (note 25)
+5
+6
+Share-based payments (note 26)
+(2)
+15
+Staff costs
+1,447
+1,504
+
+Average number of employees
+2024
+Number
+2023
+Number
+Northern Europe
+10,639
+10,874
+Southern Europe
+8,878
+9,010
+Eastern Europe
+7,606
+7,922
+North America
+1,720
+1,755
+Rest of the World
+652
+607
+Average number of employees
+29,495
+30,168
+
+Annual Report 2024 dssmith.com
+159
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 162
+
+Notes to the consolidated financial statements continued
+160
+7. Income tax expense
+
+2024
+£m
+2023
+£m
+Current tax expense
+
+Current year
+(158)
+(206)
+Adjustment in respect of prior years
+25
+32
+
+(133)
+(174)
+Deferred tax credit/(charge)
+
+Origination and reversal of temporary differences
+29
+14
+Change in tax rates
+(3)
+(4)
+Recognition of previously unrecognised deferred tax assets
+4
+1
+Adjustment in respect of prior years
+(16)
+(9)
+
+14
+2
+Total income tax expense before adjusting items
+(119)
+(172)
+Current tax credit on adjusting items (note 4)
+1
+3
+Total income tax expense in the income statement from continuing operations
+(118)
+(169)
+Total income tax expense in the income statement from discontinued operations (note 30(b))
+–
+–
+Total income tax expense in the income statement – total Group
+(118)
+(169)
+The tax credit on amortisation was £26m (2022/23: £25m).
+The reconciliation of the actual tax charge to the domestic corporation tax rate is as follows:
+
+2024
+£m
+2023
+£m
+Profit before income tax on continuing operations
+503
+661
+Profit before income tax on discontinued operations (note 30(b))
+–
+11
+Share of profit of equity accounted investments, net of tax
+(2)
+(2)
+Profit before tax and share of profit of equity accounted investments, net of tax
+501
+670
+
+Income tax at the UK corporation tax rate of 25.0% (2022/23: 19.5%)
+(125)
+(131)
+Effect of additional taxes and tax rates in overseas jurisdictions
+(1)
+(47)
+Impact of tax credits
+9
+23
+Non-deductible expenses
+(13)
+(34)
+Non-taxable income
+6
+2
+Recognition of previously unrecognised deferred tax assets
+4
+1
+Deferred tax not recognised
+(4)
+(2)
+Adjustment in respect of prior years
+9
+23
+Effect of change in corporation tax rates
+(3)
+(4)
+Income tax expense – total Group
+(118)
+(169)
+The Group’s eﬀective tax rate, excluding amortisation, adjusting items and share of result from equity accounted investments, was 24.2%
+(2022/23: 25.0%).
+The Finance Act 2021 included a 6% increase in the main UK corporation tax rate to 25% from 1 April 2023, which was substantially enacted on
+10 June 2021. The tax reconciliation for the year ended 30 April 2024 is therefore presented at the 25% rate and the effects of additional taxes
+and tax rates in overseas jurisdictions is lower than for 2022/23.
+
+160
+Contents
+
+## Page 163
+
+Annual Report 2024 dssmith.com 161
+7. Income tax expense continued
+Uncertain tax positions
+The Group operates in a complex multinational tax environment and is subject to uncertain tax positions and changes in legislation in the
+jurisdictions in which it operates. The Group’s uncertain tax positions principally include pricing of cross-border transactions and a limited number
+of specific transaction-related tax risks.
+The assessment of uncertain tax positions is based on management’s expectation of the likely outcome of settlements with tax authorities or
+litigation. The quantification of the risks at any one point in time, especially with respect to transfer pricing, requires a degree of judgement and
+estimation by management.
+Within the consolidated balance sheet at 30 April 2024 for continuing operations are current tax liabilities of £134m (30 April 2023: £165m)
+which include a provision of £94m (30 April 2023: £104m) relating to uncertain tax positions. There are also deferred tax liabilities of £213m
+(30 April 2023: £262m) which include a provision of £nil (30 April 2023: £10m) relating to uncertain tax positions. It is possible that amounts paid
+will be different from the amounts provided and the Group estimates the range of reasonably possible outcomes relating to uncertain tax
+positions to be from £56m to £167m.
+The Group filed an application with the General Court of the European Court of Justice for the EU Commission’s decision in respect of State Aid to
+be annulled. The application was stayed behind the lead cases HMRC and ITV. On 8 June 2022, the General Court released its judgment which
+dismissed the applications to annul the European Commission Decision concerning the Controlled Foreign Company Financing Exemption.
+This decision does not change the position recorded in these financial statements. We will continue to monitor any developments following
+the decision of both HMRC and ITV to appeal the decision.
+An appeal against the charging notice received from HMRC following detailed analysis conducted supporting the Group’s position was also filed.
+There are tax audits being conducted by the tax authorities in a number of countries. Whilst there is inherent uncertainty regarding the timing of
+the resolution of these tax audits and the final tax liabilities to be assessed, the Group expects liabilities of approximately £10m to reverse in the
+next 12 months.
+Included within the current tax liabilities is an amount of £12m (30 April 2023: £12m) relating to interest and penalties on uncertain
+tax positions.
+Pillar Two
+The UK government, amongst others, has enacted legislation in respect of Pillar Two introducing a global minimum effective tax rate of 15% and
+a domestic minimum top-up tax. The rules will apply to the Group for the financial year commencing on 1 May 2024. The UK legislation has also
+adopted the OECD’s transitional Pillar Two safe harbour rules which, if applicable and met, will deem the top up tax for a jurisdiction to be nil
+based on available Country-by-Country Reporting data.
+The Group has performed an assessment of the Group’s potential exposure to Pillar Two income taxes based on the most recent Country-by-
+Country Reporting data available for the constituent entities in the Group. Based on that assessment the Pillar Two effective tax rates in most of
+the jurisdictions are above 15% or one of the other transitional safe harbour reliefs are available. However, there are a limited number of
+jurisdictions where transitional safe harbour relief does not apply. The Group does not expect a material exposure to Pillar Two income taxes in
+those jurisdictions.
+The Group has applied the exemption from recognising and disclosing information about deferred tax assets and liabilities (as set out in Note 22)
+related to Pillar Two income taxes as required in the amendments to IAS 12 International Tax Reform to Pillar Two Model Rules, issued in
+May 2023.
+
+Annual Report 2024 dssmith.com
+161
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 164
+
+Notes to the consolidated financial statements continued
+162
+7. Income tax expense continued
+Tax on other comprehensive income and equity
+
+Gross
+2024
+£m
+Tax credit/
+(charge)
+2024
+£m
+Net
+2024
+£m
+Gross
+2023
+£m
+Tax credit/
+(charge)
+2023
+£m
+Net
+2023
+£m
+Actuarial (loss)/gain on employee benefits
+(2)
+1
+(1)
+11
+(2)
+9
+Foreign currency translation differences
+(147)
+–
+(147)
+194
+–
+194
+Reclassification to income statement on asset write down
+–
+–
+–
+(3)
+–
+(3)
+Movements in cash flow hedges
+(211)
+41
+(170)
+(645)
+149
+(496)
+Movement in net investment hedge
+41
+2
+43
+(74)
+–
+(74)
+Other comprehensive (expense)/income for the year
+(319)
+44
+(275)
+(517)
+147
+(370)
+Issue of share capital
+7
+–
+7
+4
+–
+4
+Employee share trust
+(4)
+–
+(4)
+(8)
+–
+(8)
+Share-based payments
+(2)
+(2)
+(4)
+15
+(2)
+13
+Dividends paid to Group shareholders
+(247)
+–
+(247)
+(289)
+–
+(289)
+Other comprehensive (expense)/income and
+changes in equity
+(565)
+42
+(523)
+(795)
+145
+(650)
+The realisation of underlying reserves is conducted in such a way to ensure there is no material tax consequence.
+8. Earnings per share
+Basic earnings per share from continuing operations
+
+2024
+2023
+Profit from continuing operations attributable to ordinary shareholders
+£385m
+£492m
+Weighted average number of ordinary shares
+1,374m
+1,376m
+Basic earnings per share
+28.0p
+35.8p
+Diluted earnings per share from continuing operations
+
+2024
+2023
+Profit from continuing operations attributable to ordinary shareholders
+£385m
+£492m
+Weighted average number of ordinary shares
+1,374m
+1,376m
+Potentially dilutive shares issuable under share-based payment arrangements
+7m
+10m
+Weighted average number of ordinary shares (diluted)
+1,381m
+1,386m
+Diluted earnings per share
+27.9p
+35.5p
+The number of shares excludes the weighted average number of the Company’s own shares held as treasury shares during the year of 3m
+(2022/23: 2m).
+
+2024
+2023
+
+Basic
+pence per
+share
+Diluted
+pence per
+share
+Basic
+pence per
+share
+Diluted
+pence per
+share
+Earnings per share from continuing operations
+28.0p
+27.9p
+35.8p
+35.5p
+Earnings per share from discontinued operations (note 30(b))
+–
+–
+0.8p
+0.8p
+Earnings per share from continuing and discontinued operations
+28.0p
+27.9p
+36.6p
+36.3p
+
+162
+Contents
+
+## Page 165
+
+Annual Report 2024 dssmith.com 163
+8. Earnings per share continued
+Adjusted earnings per share from continuing operations
+Adjusted earnings per share is a key performance measure for management long-term remuneration and is widely used by the Group’s
+shareholders. Adjusted earnings is calculated by adding back the post-tax effects of both amortisation and adjusting items.
+Further detail about the use of non-GAAP performance measures, including details of why amortisation is excluded, is given in note 32.
+A reconciliation of basic to adjusted earnings per share is as follows:
+
+2024
+2023
+
+£m
+Basic
+pence
+per share
+Diluted
+pence
+per share
+£m
+Basic
+pence
+per share
+Diluted
+pence
+per share
+Basic earnings
+385
+28.0p
+27.9p
+492
+35.8p
+35.5p
+Add back:
+
+Amortisation of intangible assets
+98
+7.1p
+7.0p
+113
+8.1p
+8.1p
+Tax credit on amortisation
+(26)
+(1.9p)
+(1.9p)
+(25)
+(1.8p)
+(1.8p)
+Adjusting items, before tax
+(1)
+(0.1p)
+(0.1p)
+15
+1.1p
+1.1p
+Tax on adjusting items and adjusting tax items
+(1)
+–
+–
+(3)
+(0.2p)
+(0.2p)
+Adjusted earnings
+455
+33.1p
+32.9p
+592
+43.0p
+42.7p
+9. Dividends proposed and paid
+
+2024
+2023
+
+Pence
+per share
+£m
+Pence
+per share
+£m
+2022/23 interim dividend – paid
+–
+–
+6.0p
+83
+2022/23 final dividend – paid
+–
+–
+12.0p
+165
+2023/24 interim dividend – declared and paid
+6.0p
+82
+–
+–
+2023/24 final dividend – proposed
+12.0p
+166
+–
+–
+
+2024
+£m
+2023
+£m
+Paid during the year
+247
+289
+The final 2022/23 dividend of 12p per share and the 2023/24 interim dividend of 6.0p per share were paid during the year.
+
+Annual Report 2024 dssmith.com
+163
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 166
+
+Notes to the consolidated financial statements continued
+164
+10. Intangible assets
+
+Goodwill
+£m
+Software
+£m
+Intellectual
+property
+£m
+Customer
+relationships
+£m
+Carbon
+credits
+£m
+Other
+£m
+Total
+£m
+Cost
+
+At 1 May 2023
+2,285
+189
+23
+1,354
+17
+60
+3,928
+Acquisitions
+5
+–
+–
+5
+–
+–
+10
+Additions
+–
+25
+2
+–
+25
+–
+52
+Disposals
+(1)
+(7)
+(1)
+–
+(25)
+(1)
+(35)
+Reclassification
+–
+6
+1
+–
+–
+1
+8
+Currency translation
+(46)
+(5)
+(1)
+(32)
+–
+–
+(84)
+At 30 April 2024
+2,243
+208
+24
+1,327
+17
+60
+3,879
+Amortisation and impairment
+
+At 1 May 2023
+(17)
+(126)
+(16)
+(798)
+–
+(44)
+(1,001)
+Amortisation
+–
+(15)
+(2)
+(74)
+–
+(7)
+(98)
+Disposals
+–
+6
+–
+–
+–
+1
+7
+Currency translation
+–
+3
+1
+20
+–
+–
+24
+At 30 April 2024
+(17)
+(132)
+(17)
+(852)
+–
+(50)
+(1,068)
+Carrying amount
+
+At 1 May 2023
+2,268
+63
+7
+556
+17
+16
+2,927
+At 30 April 2024
+2,226
+76
+7
+475
+17
+10
+2,811
+
+Goodwill
+£m
+Software
+£m
+Intellectual
+property
+£m
+Customer
+relationships
+£m
+Carbon
+credits
+£m
+Other
+£m
+Total
+£m
+Cost
+
+At 1 May 2022
+2,210
+182
+21
+1,301
+14
+41
+3,769
+Additions
+–
+3
+1
+–
+2
+24
+30
+Disposals
+–
+(4)
+–
+–
+–
+(1)
+(5)
+Reclassification
+–
+4
+(1)
+–
+–
+(4)
+(1)
+Currency translation
+75
+4
+2
+53
+1
+–
+135
+At 30 April 2023
+2,285
+189
+23
+1,354
+17
+60
+3,928
+Amortisation and impairment
+
+At 1 May 2022
+(17)
+(106)
+(12)
+(703)
+–
+(25)
+(863)
+Amortisation
+–
+(20)
+(3)
+(80)
+–
+(10)
+(113)
+Disposals
+–
+4
+–
+–
+–
+1
+5
+Reclassification
+–
+–
+1
+–
+–
+3
+4
+Currency translation
+–
+(4)
+(2)
+(15)
+–
+(13)
+(34)
+At 30 April 2023
+(17)
+(126)
+(16)
+(798)
+–
+ (44)
+ (1,001)
+Carrying amount
+
+At 1 May 2022
+2,193
+76
+9
+598
+14
+16
+2,906
+At 30 April 2023
+2,268
+63
+7
+556
+17
+16
+2,927
+Included within customer related intangibles at 30 April 2024 are amounts purchased as part of the acquisitions of Europac (carrying amount
+£306m, remaining amortisation period 10 years) and Interstate Resources (carrying amount £92m, remaining amortisation period three years).
+
+164
+Contents
+
+## Page 167
+
+Annual Report 2024 dssmith.com 165
+10. Intangible assets continued
+Goodwill
+The CGUs identified below represent the lowest level at which goodwill is monitored for impairment indicators and internal management
+purposes, and are not larger than the operating segments determined in accordance with IFRS 8 Operating Segments. The carrying values of
+goodwill are split between the CGU groups as follows:
+
+2024
+£m
+2023
+£m
+Northern Europe
+398
+405
+Southern Europe
+1,035
+1,068
+Eastern Europe
+163
+162
+North America
+630
+633
+Total goodwill
+2,226
+2,268
+Goodwill impairment tests – key assumptions and methodology
+The Group tests goodwill annually for impairment, or more frequently if there are indications that goodwill may be impaired. The recoverable
+amounts of the CGUs are determined from value-in-use calculations.
+Impairment tests were conducted based on the segmental structures, and have confirmed that there are no impairments in the year ended
+30 April 2024, as the recoverable amount of the groups of CGUs, based upon value-in-use calculations, exceeded the carrying amounts.
+The calculations of value-in-use are inherently judgemental and require management to make a series of estimates and assumptions. The key
+assumptions in the value-in-use calculations are:
+• the cash flow forecasts have been derived from the most recent forecast presented to the Board for the year ending 30 April 2025. The cash
+flows utilised are based upon forecast sales volumes and product mix, anticipated movements in paper prices and input costs and known
+changes and expectations of current market conditions, taking into account the cyclical nature of the business;
+• the sales volume and price assumptions underlying the cash flow forecasts are the Directors’ estimates of likely future changes based upon
+historic performance and the current economic outlooks for the economies in which the Group operates. These are viewed as the key
+operating assumptions as they determine the Directors’ approach to margin and cost maintenance. Key assumptions modelled in the
+assessment include the impact of paper price cyclicality, where the modelled outlook reflects paper price improvements, consistent with
+observable third party forecast sources;
+• the cash flow forecasts for capital expenditure are based upon past experience and include the replacement capital expenditure required to
+generate the terminal cash flows;
+• cash flows beyond the year ended 30 April 2025 reflect the long-term growth rate specific to each of the CGUs . Where a CGU consists of
+multiple countries, country-specific rates are incorporated into a weighted average rate for that region. The rates applied are based upon
+external sources such as the International Monetary Fund’s World Economic Outlook Database;
+• the pre-tax adjusted discount rate is derived from the basis of the Group’s weighted average cost of capital (WACC) of 9.5% (2022/23: 9.5%),
+plus a blended country risk premium for each CGU. The discount rate is a function of the cost of debt and equity. The cost of equity is largely
+based upon the risk-free rate for 10-year Government Bond yields for the European countries in which the Group operates (70% weighting),
+30-year UK gilts (17% weighting) and 30-year US treasury yields (13%), adjusted for the relevant country market risk premium, ranging from
+4.6% to 19.2%, which reflects the increased risk of investing in country specific equities and the relative volatilities of the equity of the Group
+compared to the market. This Group rate has been adjusted for the risks inherent in the countries in which the CGUs operate that are not
+reflected in the cash flow projections; and
+• The Group assesses climate change impacts when preparing its summary of key risks as part of its risk management processes. These risks
+inform the forecast for the year ended 30 April 2025 which is the basis of the Impairment modelling. The impact of climate change, both in
+terms of opportunities and risks, is identified in the Group’s TCFD disclosure within this Annual Report.
+
+Annual Report 2024 dssmith.com
+165
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 168
+
+Notes to the consolidated financial statements continued
+166
+10. Intangible assets continued
+Key assumptions by CGU
+Northern
+Europe
+Southern
+Europe
+Eastern
+Europe
+North
+America
+Long-term growth rate at 30 April 2024
+1.3%
+1.3%
+2.7%
+2.2%
+Long-term growth rate at 30 April 2023
+1.4%
+1.3%
+2.8%
+1.8%
+Discount rate at 30 April 2024
+10.3%
+11.7%
+12.0%
+10.1%
+Discount rate at 30 April 2023
+10.5%
+12.4%
+12.8%
+10.1%
+Goodwill impairment tests – sensitivities
+The value-in-use is based upon anticipated discounted future cash flows. At 30 April 2024, the impairment tests concluded that there was
+headroom across all CGUs. Whilst the Directors believe the assumptions used are realistic, it is possible that a reduction in the headroom would
+occur if any of the above key assumptions were adversely changed. Factors which could cause an impairment are:
+• significant and prolonged underperformance relative to the forecast; and
+• deteriorations in the economies in which the Group operates.
+To support their assertions, the Directors have reviewed the sensitivity analyses to determine the impact that would result from the above
+situations, including reduction or delays in future growth and increased discount rates. In these cases, if future estimates of economic
+improvements were delayed by twelve months, the growth rate in the outer years modelled reduced, or if the estimated discount rates applied
+to the cash flows were increased by 0.5%, there would still be adequate headroom to support the carrying value of the assets. Based on this
+analysis, with the exception of North America, the Directors believe that a reasonably possible change in any of the key assumptions detailed
+above would not cause the carrying value of CGUs to exceed their recoverable amounts, although the headroom would decrease. Sensitivities
+have also been conducted to determine the change required to the CGUs EBITDA and discount rates, to reduce the recoverable amounts down to
+the carrying value of the assets. EBITDA growth is based on a number of elements over the long term, including price and volume growth in the
+first year as well as assumptions regarding inflation and the cyclical paper price assumption. With all other assumptions held constant, for
+Northern Europe, it would require a reduction in EBITDA of 16% (year ended 30 April 2023: 17%) or a discount rate of 14.0% (year ended 30
+April 2023: 15.1%); Southern Europe a reduction in EBITDA of 22% (year ended 30 April 2023: 9%) or a discount rate of 16.2% (year ended 30
+April 2023: 13.9%) and Eastern Europe a reduction in EBITDA of 36% (year ended 30 April 2023: 12%) or a discount rate of 21.3% (year ended
+30 April 2023: 15.1%). For North America, where future cash flows include domestic volume growth from completed expansion projects and
+cyclical paper price improvements, the sensitivity conducted identified that a reasonably possible change to the EBITDA growth assumption or
+discount rates applied could reduce the headroom of $338m (£268m) to nil. Any further decrease in EBITDA, or further increase in discount rate
+over and above the sensitivity could lead to an impairment. It is possible that these factors could move together in combination. The sensitivity
+identified that a reduction of 15% to the EBITDA across the period modelled (year ended 30 April 2023: 14% reduction) or a discount rate of
+11.8% (year ended 30 April 2023: 11.7%) would be required to reduce the headroom to nil.
+On a regional basis, amortisation is attributable to Northern Europe (2023/24: £16m, 2022/23: £24m), Southern Europe (2023/24: £40m,
+2022/23: £46m), Eastern Europe (2023/24: £11m, 2022/23: £12m) and North America (2023/24: £31m, 2022/23: £31m).
+
+166
+Contents
+
+## Page 169
+
+Annual Report 2024 dssmith.com 167
+11. Property, plant and equipment
+
+Land and
+buildings
+£m
+Plant and
+equipment
+£m
+Fixtures
+and fittings
+£m
+Under
+construction
+£m
+Total
+£m
+Cost
+
+At 1 May 2023
+1,173
+3,634
+110
+498
+5,415
+Acquisitions
+2
+4
+–
+–
+6
+Additions
+17
+111
+4
+428
+560
+Disposals
+(18)
+(91)
+(4)
+(8)
+(121)
+Reclassification
+–
+4
+–
+–
+4
+Transfers
+43
+265
+14
+(322)
+–
+Currency translation
+(40)
+(130)
+(6)
+(12)
+(188)
+At 30 April 2024
+1,177
+3,797
+118
+584
+5,676
+Depreciation and impairment
+
+At 1 May 2023
+(271)
+(1,560)
+(55)
+–
+(1,886)
+Acquisitions
+–
+(3)
+–
+–
+(3)
+Depreciation charge
+(35)
+(202)
+(10)
+–
+(247)
+Impairment
+1
+3
+–
+–
+4
+Disposals
+9
+82
+3
+–
+94
+Reclassification
+–
+(2)
+–
+–
+(2)
+Transfers
+(12)
+15
+(3)
+–
+–
+Currency translation
+20
+83
+4
+–
+107
+At 30 April 2024
+(288)
+(1,584)
+(61)
+–
+(1,933)
+
+Carrying amount
+
+At 1 May 2023
+902
+2,074
+55
+498
+3,529
+At 30 April 2024
+889
+2,213
+57
+584
+3,743
+
+Land and
+buildings
+£m
+Plant and
+equipment
+£m
+Fixtures
+and fittings
+£m
+Under
+construction
+£m
+Total
+£m
+Cost
+
+At 1 May 2022
+1,043
+3,260
+93
+297
+4,693
+Additions
+31
+103
+3
+400
+537
+Disposals
+(16)
+(119)
+(4)
+–
+(139)
+Reclassification
+32
+6
+2
+(5)
+35
+Transfers
+20
+181
+7
+(208)
+–
+Currency translation
+63
+203
+9
+14
+289
+At 30 April 2023
+1,173
+3,634
+110
+498
+5,415
+Depreciation and impairment
+
+At 1 May 2022
+(218)
+(1,304)
+(43)
+–
+ (1,565)
+Depreciation charge
+(30)
+(201)
+(10)
+–
+(241)
+Impairment
+(4)
+(20)
+–
+–
+(24)
+Disposals
+11
+89
+4
+–
+104
+Reclassification
+–
+5
+–
+–
+5
+Currency translation
+(30)
+(129)
+(6)
+–
+(165)
+At 30 April 2023
+(271)
+(1,560)
+(55)
+–
+(1,886)
+
+Carrying amount
+
+At 1 May 2022
+825
+1,956
+50
+297
+3,128
+At 30 April 2023
+902
+2,074
+55
+498
+3,529
+Assets under construction mainly relate to production machines in Italy, France, UK and Portugal and site improvements under construction.
+All items of property, plant and equipment have been tested for indicators of impairment in relation to climate change considerations and no
+indicators were identified.
+
+Annual Report 2024 dssmith.com
+167
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 170
+
+Notes to the consolidated financial statements continued
+168
+12. Right-of-use assets and lease liabilities
+Right-of-use assets
+
+Land and
+buildings
+£m
+Plant and
+equipment
+£m
+Fixtures
+and fittings
+£m
+Total
+£m
+Cost
+
+At 1 May 2023
+197
+215
+–
+412
+Additions
+50
+52
+–
+102
+Disposals
+(33)
+(31)
+–
+(64)
+Currency translation
+(4)
+(6)
+–
+(10)
+At 30 April 2024
+210
+230
+–
+440
+Depreciation and impairment
+
+At 1 May 2023
+(82)
+(106)
+–
+(188)
+Depreciation charge
+(33)
+(43)
+–
+(76)
+Disposals
+26
+30
+–
+56
+Currency translation
+2
+3
+–
+5
+At 30 April 2024
+(87)
+(116)
+–
+(203)
+
+Carrying amount
+
+At 1 May 2023
+115
+109
+–
+224
+At 30 April 2024
+123
+114
+–
+237
+
+Land and
+buildings
+£m
+Plant and
+equipment
+£m
+Fixtures
+and fittings
+£m
+Total
+£m
+Cost
+
+At 1 May 2022
+186
+189
+1
+376
+Additions
+75
+61
+–
+136
+Disposals
+(37)
+(43)
+(1)
+(81)
+Reclassification
+(32)
+1
+–
+(31)
+Currency translation
+5
+7
+–
+12
+At 30 April 2023
+197
+215
+–
+412
+Depreciation and impairment
+
+At 1 May 2022
+(72)
+(105)
+–
+(177)
+Depreciation charge
+(32)
+(39)
+–
+(71)
+Disposals
+24
+42
+–
+66
+Currency translation
+(2)
+(4)
+–
+(6)
+At 30 April 2023
+(82)
+(106)
+–
+(188)
+
+Carrying amount
+
+At 1 May 2022
+114
+84
+1
+199
+At 30 April 2023
+115
+109
+–
+224
+During the prior year, a lease in Germany was terminated early and the asset purchased. This was reclassified to land and buildings in property,
+plant and equipment.
+
+168
+Contents
+
+## Page 171
+
+Annual Report 2024 dssmith.com 169
+12. Right-of-use assets and lease liabilities continued
+Lease liabilities
+The carrying amounts of lease liabilities and the movements during the year are as follows:
+
+2024
+£m
+2023
+£m
+At beginning of the year
+224
+203
+Additions
+102
+136
+Accretion of interest
+12
+11
+Payments
+(84)
+(117)
+Early termination
+(10)
+(15)
+Currency translation
+(5)
+6
+At end of the year
+239
+224
+
+Current
+75
+70
+Non-current
+164
+154
+
+239
+224
+The maturity analysis of lease liabilities is presented in note 20.
+13. Equity accounted investments
+
+2024
+£m
+2023
+£m
+At beginning of the year
+17
+17
+Dividends
+(2)
+(2)
+Share of profit of equity accounted investments, net of tax
+2
+2
+RKTK reversal of impairment
+10
+–
+RKTK disposal
+(10)
+–
+At end of the year
+17
+17
+Principal equity accounted investments
+
+Principal country
+of operation
+Ownership interest
+
+Nature of business
+2024
+2023
+PrJSC ‘Rubezhnoye Cardboard and Package Mill’
+
+Paper and packaging
+Ukraine
+–
+49.6%
+Philcorr LLC
+Packaging
+USA
+40.0%
+40.0%
+Philcorr Vineland LLC
+Packaging
+USA
+40.0%
+40.0%
+Cartonajes Santander, S.L.
+Packaging
+Spain
+39.6%
+39.6%
+Cartonajes Cantabria S.L.
+Packaging
+Spain
+39.6%
+39.6%
+Euskocarton, S.L.
+Packaging
+Spain
+39.6%
+39.6%
+Industria Cartonera Asturiana S.L.
+Packaging
+Spain
+39.6%
+39.6%
+In April 2024, the Group sold its previously fully written-down Ukrainian associate, RKTK, for £10m. £5m was received by 30 April 2024 and a
+further £5m will be received in the next financial year. This resulted in a £10m gain on divestment in the year ended 30 April 2024.
+All the above associates are accounted for using the equity method because the Group has the ability to exercise significant influence over the
+investments due to the Group’s equity holdings and board representation.
+
+Annual Report 2024 dssmith.com
+169
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 172
+
+Notes to the consolidated financial statements continued
+170
+13. Equity accounted investments continued
+Summary of financial information of associates
+The financial information below is for the Group’s associates on a 100% basis for the year ended 30 April.
+
+2024
+£m
+2023
+£m
+Current assets
+16
+14
+Non-current assets
+12
+13
+Current liabilities
+(6)
+(5)
+Non-current liabilities
+(4)
+(5)
+Revenue
+82
+98
+Profit after tax
+12
+4
+Other comprehensive income
+–
+1
+Total comprehensive income
+12
+5
+14. Other investments
+
+2024
+£m
+2023
+£m
+Investments
+11
+10
+Restricted cash
+6
+7
+
+17
+17
+15. Inventories
+
+2024
+£m
+2023
+£m
+Raw materials and consumables
+366
+374
+Work in progress
+24
+26
+Finished goods
+201
+219
+
+591
+619
+Inventory provisions at 30 April 2024 were £57m (30 April 2023: £60m).
+Inventories of £2,478m were recognised as an expense during the year ended 30 April 2024 (2022/ 23: £3,344m) and included within cost
+of sales.
+16. Trade and other receivables
+
+2024
+2023
+
+Non-
+current
+£m
+Current
+£m
+Non-
+current
+£m
+Current
+£m
+Trade receivables
+–
+900
+–
+1,060
+Loss allowance
+–
+(28)
+–
+(31)
+Prepayments and accrued income
+4
+78
+1
+77
+Other deposits
+–
+29
+–
+30
+Other receivables
+–
+151
+–
+120
+
+4
+1,130
+1
+1,256
+Other receivables comprise various items including indirect tax receivable, employee advances and interest receivable.
+The Group has sold without recourse certain trade receivables and on realisation the receivable is de-recognised and proceeds are presented
+within operating cash flows. Other deposits relate to these arrangements. Sold trade receivables under these arrangements at 30 April 2024
+amounted to £369m (30 April 2023: £360m).
+Accrued income amounted to £22m (30 April 2023: £19m).
+Included within other receivables are energy support receivables of £40m (30 April 2023: £26m) and indirect tax receivable of £61m (30 April
+2023: £53m).
+
+170
+Contents
+
+## Page 173
+
+Annual Report 2024 dssmith.com 171
+16. Trade and other receivables continued
+
+Total
+£m
+Current
+(not past due)
+£m
+Of which past due
+1 month
+or less
+£m
+1–3
+months
+£m
+3–6
+months
+£m
+6–12
+months
+£m
+More than
+12 months
+£m
+At 30 April 2024
+
+Gross trade receivables
+900
+862
+5
+6
+1
+2
+24
+Weighted average loss rate
+3.1%
+0.5%
+20.0%
+–
+–
+50.0%
+91.7%
+Loss allowance
+(28)
+(4)
+(1)
+–
+–
+(1)
+(22)
+
+At 30 April 2023
+
+Gross trade receivables
+1,060
+971
+53
+7
+3
+2
+24
+Weighted average loss rate
+2.9%
+0.4%
+3.8%
+28.6%
+33.3%
+–
+91.7%
+Loss allowance
+(31)
+(4)
+(2)
+(2)
+(1)
+–
+(22)
+Movement in loss allowance
+
+2024
+£m
+2023
+£m
+At beginning of the year
+(31)
+(30)
+Amounts written off
+2
+2
+Net remeasurement of loss allowance
+–
+(2)
+Currency translation
+1
+(1)
+At end of the year
+(28)
+(31)
+Concentrations of credit risk with respect to trade receivables are limited due to the Group’s customer base being large and diverse. The majority
+of customers are credit insured and the Group has a history of low levels of losses in respect of trade receivables.
+The loss allowance represents the Group’s expected credit losses on trade receivables as defined under IFRS 9 Financial Instruments.
+The expected credit losses are estimated using a provision matrix by grouping trade receivables based on shared credit risk characteristics
+and the days past due. Expected loss rates are calculated by reference to past default experience of the debtor and an analysis of the debtor’s
+current financial position, adjusted for factors that are specific to the debtors, general economic conditions and an assessment of both the
+current as well as the forecast direction of conditions at the reporting date. The accounting impact of credit insurance is not considered integral
+to the consideration of the carrying value of the trade receivables.
+17. Trade and other payables
+
+2024
+2023
+
+Non-
+current
+£m
+Current
+£m
+Non-
+current
+£m
+Current
+£m
+Trade payables
+–
+1,253
+–
+1,572
+Interest payable
+–
+57
+–
+16
+Other non-trade payables and accrued expenses
+31
+509
+34
+665
+
+31
+1,819
+34
+2,253
+In accordance with government initiatives to allow suppliers to receive payments earlier than contractual payment terms, the Group has
+set up supply chain finance programmes through third parties, all of which are established and well capitalised financial institutions. These
+schemes allow suppliers to receive, if they choose, on an invoice by invoice basis, an earlier payment whilst the Group continues to pay to the
+suppliers’ contractual terms. Suppliers are at liberty to use them or not and these arrangements have no cost to the Group and have no effect on
+trade payable balances or operating cash flows. The Group does not participate in any rebates, does not receive any fees from the providers nor
+does it provide any discounts or incentives for the suppliers to utilise these facilities. Additionally, they are not used to create payment terms
+which are abnormal, atypical or extend statutory payment terms in the countries the Group operates in and no adjustments are made by
+Standard & Poor’s in their assessment of Group adjusted net debt.
+Included within other non-trade payables and accrued expenses are indirect tax payables of £67m (30 April 2023: £66m), capital creditors of
+£79m (30 April 2023: £52m), employee cost accruals of £103m (30 April 2023: £148m), payroll and other taxes of £56m (30 April 2023: £55m)
+and holiday pay of £62m (30 April 2023: £63m).
+
+Annual Report 2024 dssmith.com
+171
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 174
+
+Notes to the consolidated financial statements continued
+172
+17. Trade and other payables continued
+The Group assesses the supply chain finance programmes to ascertain whether liabilities to suppliers who have chosen to access an earlier
+payment under the scheme continue to meet the definition of trade payables, or should be reclassified as borrowings. The Group has concluded
+that the Group’s liability to the supplier remains unchanged for all such programmes and, as such, these balances remain in trade payables and
+the cash flows associated with these programmes remain within operating cash flows.
+18. Net debt
+The components of net debt and movement during the year are as follows:
+
+Note
+At 30 April
+2023
+£m
+Continuing
+operations
+cash flow
+£m
+Foreign exchange,
+fair value and
+non-cash
+movements
+£m
+At 30 April
+2024
+£m
+Cash and cash equivalents
+
+472
+44
+(17)
+499
+Overdrafts
+
+(104)
+14
+1
+(89)
+Net cash and cash equivalents
+19
+368
+58
+(16)
+410
+Other investments – restricted cash
+14
+6
+1
+–
+7
+Other deposits
+
+30
+(1)
+–
+29
+Borrowings – after one year
+
+(1,742)
+(738)
+440
+(2,040)
+Borrowings – within one year
+
+(74)
+70
+(393)
+(397)
+Lease liabilities
+12
+(224)
+72
+(87)
+(239)
+Derivative financial instruments
+
+Assets
+
+–
+2
+(2)
+–
+Liabilities
+
+–
+–
+–
+–
+
+(2,004)
+(594)
+(42)
+(2,640)
+Net debt – reported basis
+
+(1,636)
+(536)
+(58)
+(2,230)
+IFRS 16 lease liabilities
+
+220
+
+236
+Net debt excluding IFRS 16 liabilities
+
+(1,416)
+
+(1,994)
+Net debt is a non-GAAP measure not defined by IFRS. While the Group has included lease liabilities after transition to IFRS 16 Leases within total
+lease liabilities (in addition to arrangements previously classified as finance leases under IAS 17), IFRS 16 liabilities are currently excluded from
+the definition of net debt as set out in the Group’s banking covenant requirements.
+Further detail on the use of non-GAAP measures and a reconciliation showing the calculation of adjusted net debt, as defined in the Group’s
+banking covenants, is included in note 32.
+Derivative financial instruments above relate to forward foreign exchange contracts and cross-currency swaps used to hedge the Group’s
+borrowings and the net assets of foreign operations. The difference between the amounts shown above and the total derivative financial
+instrument assets and liabilities in the consolidated statement of financial position relates to derivative financial instruments that hedge
+forecast foreign currency transactions and the Group’s purchases of energy.
+Non-cash movements relate to amortisation of fees incurred on debt issuance and new leases.
+Other deposits are included, as these short-term receivables have the characteristics of net debt.
+19. Cash and cash equivalents
+
+2024
+£m
+2023
+£m
+Bank balances
+437
+466
+Short-term deposits
+62
+6
+Cash and cash equivalents (consolidated statement of financial position)
+499
+472
+Bank overdrafts
+(89)
+(104)
+Net cash and cash equivalents (consolidated statement of cash flows)
+410
+368
+
+172
+Contents
+
+## Page 175
+
+Annual Report 2024 dssmith.com 173
+20. Borrowings
+
+2024
+2023
+
+Current
+£m
+Non-
+current
+£m
+Total
+£m
+Current
+£m
+Non-
+current
+£m
+Total
+£m
+Bank and other loans1
+(2)
+(7)
+(9)
+(42)
+(299)
+(341)
+Commercial paper
+–
+–
+–
+(24)
+–
+(24)
+Medium-term notes and other fixed-term debt
+
+€452.4m medium-term note 1.375% coupon July 2024
+(387)
+–
+(387)
+–
+(660)
+(660)
+€10m term loan 1.4% coupon September 2025
+(8)
+(1)
+(9)
+(8)
+(9)
+(17)
+€600m medium-term note 0.85% coupon September 2026
+–
+(511)
+(511)
+–
+(525)
+(525)
+€850m medium-term note 4.375% coupon July 2027
+–
+(721)
+(721)
+–
+–
+–
+£250m medium-term note 2.875% coupon July 2029
+–
+(249)
+(249)
+–
+(249)
+(249)
+€650m medium-term note 4.5% coupon July 2030
+–
+(551)
+(551)
+–
+–
+–
+
+(397)
+(2,040)
+(2,437)
+(74)
+(1,742)
+(1,816)
+1. Drawings under bank loans and revolving credit facility.
+Borrowings are unsecured and measured at amortised cost. There have been no breaches of covenants during the year ended 30 April 2024 in
+relation to the above borrowings.
+Of the total borrowing facilities available to the Group, the undrawn committed facilities available at 30 April were as follows:
+
+2024
+£m
+2023
+£m
+Expiring within one year
+300
+–
+Expiring between one and two years
+51
+800
+Expiring between two and five years
+1,100
+855
+Expiring after five years
+–
+–
+
+1,451
+1,655
+The £1,451m of undrawn facilities consist of revolving credit facilities.
+The repayment profile of the Group’s borrowings, after taking into account the effect of forward foreign exchange contracts, is as follows:
+
+2024
+
+1 year
+or less
+£m
+1–2
+years
+£m
+2–5
+years
+£m
+More than
+5 years
+£m
+Total
+£m
+Borrowings
+
+Fixed rate
+(397)
+(4)
+(1,234)
+(802)
+(2,437)
+Floating rate
+–
+–
+–
+–
+–
+Total borrowings
+(397)
+(4)
+(1,234)
+(802)
+(2,437)
+
+2023
+
+1 year
+or less
+£m
+1–2
+years
+£m
+2–5
+years
+£m
+More than
+5 years
+£m
+Total
+£m
+Borrowings
+
+Fixed rate
+(74)
+(672)
+(523)
+(249)
+(1,518)
+Floating rate
+–
+–
+(298)
+–
+(298)
+Total borrowings
+(74)
+(672)
+(821)
+(249)
+(1,816)
+
+Annual Report 2024 dssmith.com
+173
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 176
+
+Notes to the consolidated financial statements continued
+174
+20. Borrowings continued
+The Group’s borrowings, after taking into account the effect of forward foreign exchange contracts, are denominated in the following
+currencies:
+
+2024
+
+Sterling
+£m
+Euro
+£m
+US dollar
+£m
+Other
+£m
+Total
+£m
+Borrowings
+
+Fixed rate
+(153)
+(2,160)
+(124)
+–
+(2,437)
+Floating rate
+–
+–
+–
+–
+–
+
+(153)
+(2,160)
+(124)
+–
+(2,437)
+Net cash and cash equivalents (including bank overdrafts)
+
+Floating rate
+38
+204
+6
+162
+410
+Net borrowings at 30 April 2024
+(115)
+(1,956)
+(118)
+162
+(2,027)
+
+2023
+
+Sterling
+£m
+Euro
+£m
+US dollar
+£m
+Other
+£m
+Total
+£m
+Borrowings
+
+Fixed rate
+(98)
+(1,187)
+(232)
+(1)
+(1,518)
+Floating rate
+(210)
+(88)
+–
+–
+(298)
+
+(308)
+(1,275)
+(232)
+(1)
+(1,816)
+Net cash and cash equivalents (including bank overdrafts)
+
+Floating rate
+(23)
+240
+13
+138
+368
+Net borrowings at 30 April 2023
+(331)
+(1,035)
+(219)
+137
+(1,448)
+At 30 April 2024, 89% of the Group’s borrowings, after taking into account the effect of cross-currency swaps and forward foreign exchange
+contracts, were denominated in euros in order to hedge the underlying assets of the Group’s European operations (30 April 2023: 70%). Interest
+rates on floating rate borrowings are based on EURIBOR, or where applicable, local currency base rates. The Group’s sterling denominated
+floating rate borrowings are based on SONIA.
+Maturity of lease liabilities
+
+1 year
+or less
+£m
+1–2
+years
+£m
+2–5
+years
+£m
+More than
+5 years
+£m
+Total
+£m
+At 30 April 2023
+(70)
+(51)
+(73)
+(30)
+(224)
+At 30 April 2024
+(75)
+(54)
+(78)
+(32)
+(239)
+Denomination of lease liabilities
+
+Sterling
+£m
+Euro
+£m
+US dollar
+£m
+Other
+£m
+Total
+£m
+At 30 April 2023
+(55)
+(109)
+(34)
+(26)
+(224)
+At 30 April 2024
+(54)
+(103)
+(38)
+(44)
+(239)
+
+174
+Contents
+
+## Page 177
+
+Annual Report 2024 dssmith.com 175
+20. Borrowings continued
+Changes in liabilities arising from financing activities
+
+At 1 May
+2023
+£m
+Financing
+cash flows
+£m
+Acquisitions
+and
+divestments
+£m
+New leases
+and early
+termination
+£m
+Movements
+in fair value
+£m
+Other
+£m
+At 30 Apr
+2024
+£m
+Bank and other loans, including commercial paper
+(365)
+357
+–
+–
+–
+(1)
+(9)
+Medium-term notes and other fixed-term debt
+(1,451)
+(1,025)
+–
+–
+–
+48
+(2,428)
+Lease liabilities
+(224)
+72
+–
+(86)
+–
+(1)
+(239)
+Total liabilities from financing activities
+(2,040)
+(596)
+–
+(86)
+–
+46
+(2,676)
+
+At 1 May
+2022
+£m
+Financing
+cash flows
+£m
+Acquisitions
+and
+divestments
+£m
+New leases
+and early
+termination
+£m
+Movements
+in fair value
+£m
+Other
+£m
+At 30 Apr
+2023
+£m
+Bank and other loans, including commercial paper
+(43)
+(316)
+–
+–
+–
+(6)
+(365)
+Medium-term notes and other fixed-term debt
+(2,029)
+663
+–
+–
+–
+(85)
+(1,451)
+Lease liabilities
+(203)
+106
+–
+(121)
+–
+(6)
+(224)
+Derivative financial instruments related to hedging of
+financial liabilities (note 18)
+
+Assets
+12
+(14)
+–
+–
+2
+–
+–
+Liabilities
+–
+–
+–
+–
+–
+–
+–
+Total liabilities from financing activities
+(2,263)
+439
+–
+(121)
+2
+(97)
+(2,040)
+Other changes include foreign exchange movements and amortisation of capitalised borrowing costs.
+Financing cash flows consist of the net amount of proceeds from borrowings, repayment of borrowings, repayment of lease obligations and
+proceeds from settlement of derivative financial instruments in the consolidated statement of cash flows. Payments in respect of and proceeds
+from settlement of derivative financial instruments in the consolidated statement of cash flows relate solely to derivative financial instruments
+used to hedge the Group’s borrowings and net assets of foreign operations. Operating cash flows include settlement of commodity derivatives.
+
+Annual Report 2024 dssmith.com
+175
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 178
+
+Notes to the consolidated financial statements continued
+176
+21. Financial instruments
+The Group’s activities expose the Group to a number of key risks which have the potential to affect its ability to achieve its business objectives.
+A summary of the Group’s key financial risks and the policies and objectives in place to manage these risks is set out in the Financial review and
+Principal risk sections of the Strategic Report.
+The derivative financial instruments set out in this note have been entered into in line with the Group’s risk management objectives. The Group’s
+treasury policy prohibits entering into speculative transactions.
+(a) Carrying amounts and fair values of financial assets and liabilities
+Set out below is the accounting classification of the carrying amounts and fair values of all of the Group’s financial assets and liabilities:
+
+2024
+2023
+  Category
+Carrying
+amount
+£m
+Fair value
+£m
+Carrying
+amount
+£m
+Fair value
+£m
+Financial assets
+
+Cash and cash equivalents
+ Amortised cost
+499
+499
+472
+472
+Restricted cash
+ Amortised cost
+6
+6
+7
+7
+Other investments
+
+Fair value through other comprehensive
+income
+11
+11
+10
+10
+Trade and other receivables
+ Amortised cost
+1,134
+1,134
+1,257
+1,257
+Derivative financial instruments
+ Fair value – hedging instruments
+79
+79
+319
+319
+Total financial assets
+
+1,729
+1,729
+2,065
+2,065
+Financial liabilities
+
+Trade and other payables
+ Amortised cost, except as detailed below
+(1,850)
+(1,850)
+(2,287)
+(2,287)
+Bank and other loans
+ Amortised cost
+(9)
+(9)
+(341)
+(341)
+Commercial paper
+ Amortised cost
+–
+–
+(24)
+(24)
+Medium-term notes and other
+fixed-term debt
+ Amortised cost
+(2,428)
+(2,382)
+(1,451)
+(1,384)
+Lease liabilities
+ Amortised cost
+(239)
+(239)
+(224)
+(224)
+Bank overdrafts
+ Amortised cost
+(89)
+(89)
+(104)
+(104)
+Derivative financial instruments
+ Fair value – hedging instruments
+(193)
+(193)
+(368)
+(368)
+Total financial liabilities
+
+(4,808)
+(4,762)
+(4,799)
+(4,732)
+The fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants at the measurement date. For financial instruments carried at fair value, market prices or rates are used to determine fair value
+where an active market exists. The Group uses forward prices for valuing forward foreign exchange and commodity contracts and uses valuation
+models with present value calculations based on market yield curves to value fixed rate borrowings. All derivative financial instruments are
+shown at fair value in the consolidated statement of financial position.
+The Group’s medium-term notes and other fixed-term debt are in effective cash flow and net investment hedges. The fair values of
+financial assets and liabilities which bear floating rates of interest or are short term in nature are estimated to be equivalent to their
+carrying amounts.
+The Group’s financial assets and financial liabilities are categorised within the fair value hierarchy that reflects the significance of the inputs
+used in making the assessments. The majority of the Group’s financial instruments are Level 2 financial instruments in accordance with the fair
+value hierarchy, meaning although the instruments are not traded in an active market, inputs to fair value are observable for the asset and
+liability, either directly (i.e. quoted market prices) or indirectly (i.e. derived from prices). The Group’s medium-term notes are Level 1 financial
+instruments, as the notes are listed on the Luxembourg Stock Exchange. Other investments are Level 3 financial instruments. The fair value of
+other investments is derived from fair value calculations based on their cash flows, and details of the valuation of the redemption liability are
+provided in note 17.
+176
+Contents
+
+## Page 179
+
+Annual Report 2024 dssmith.com 177
+21. Financial instruments continued
+(b) Derivative financial instruments
+The Group enters into foreign exchange and commodity derivative financial instruments to manage the risks associated with the
+Group’s underlying business activities and the financing of these activities. Derivatives are carried at their fair value in the statement of
+financial position.
+The assets and liabilities of the Group at 30 April in respect of derivative financial instruments are as follows:
+
+Assets
+Liabilities
+Net
+
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+Derivatives held to hedge future transactions:
+
+Forward foreign exchange contracts
+–
+1
+–
+(2)
+–
+(1)
+Energy and carbon certificate costs
+79
+318
+(193)
+(366)
+(114)
+(48)
+Total derivative financial instruments
+79
+319
+(193)
+(368)
+(114)
+(49)
+
+Current
+64
+154
+(122)
+(319)
+(58)
+(165)
+Non-current
+15
+165
+(71)
+(49)
+(56)
+116
+
+79
+319
+(193)
+(368)
+(114)
+(49)
+(c) Cash flow and net investment hedges
+(i) Hedge reserves
+Set out below is the reconciliation of each component in the hedging reserve:
+
+Commodity risk
+£m
+Foreign
+exchange risk
+£m
+Total
+£m
+Balance at 1 May 2022
+609
+–
+609
+Gain/(loss) on designated cash flow hedges:
+
+Cross-currency swaps
+–
+7
+7
+Commodity contracts
+(78)
+–
+(78)
+Forward foreign exchange contracts
+–
+(1)
+(1)
+Loss/(gain) reclassified from equity to the income statement:
+
+Cross-currency swaps
+–
+(8)
+(8)
+Commodity contracts
+(565)
+–
+(565)
+Deferred tax
+149
+–
+149
+At 30 April 2023
+115
+(2)
+113
+Gain/(loss) on designated cash flow hedges:
+
+Commodity contracts
+(237)
+–
+(237)
+Forward foreign exchange contracts
+–
+1
+1
+Loss/(gain) reclassified from equity to the income statement:
+
+Commodity contracts
+25
+–
+25
+Deferred tax
+41
+–
+41
+At 30 April 2024
+(56)
+(1)
+(57)
+
+Annual Report 2024 dssmith.com
+177
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 180
+
+Notes to the consolidated financial statements continued
+178
+21. Financial instruments continued
+(c) Cash flow and net investment hedges continued
+(i) Hedge reserves continued
+The amounts reclassified to the income statement from the cash flow hedging reserve during the year are reflected in the following items in the
+income statement:
+
+2024
+£m
+2023
+£m
+Operating costs
+25
+(565)
+Finance costs
+–
+(8)
+Total pre-tax loss/(gain) reclassified from equity to the income statement during the year
+25
+(573)
+There was £nil recognised ineffectiveness during the year ended 30 April 2024 (2022/23: £nil) in respect of cross-currency swaps, forward
+foreign exchange contracts and commodity derivatives.
+(ii) Hedges of net investments in foreign operations
+The Group utilises foreign currency borrowings, cross-currency swaps and forward foreign exchange contracts as hedges of long-term
+investments in foreign subsidiaries. The pre-tax gain on the hedges recognised in equity during the year was £41m (2022/23: loss of £74m).
+This £41m is matched by a similar gain in equity on the retranslation of the hedged foreign subsidiary net assets resulting in a net gain of £nil
+(2022/23: net gain of £nil) treated as hedge ineffectiveness in the income statement.
+(d) Risk identification and risk management
+(i) Capital management
+The Group defines its managed capital as the sum of equity, as presented in the consolidated statement of financial position, and net debt
+(note 18).
+
+2024
+£m
+2023
+£m
+Net debt
+2,230
+1,636
+Total equity
+3,949
+4,087
+Managed capital
+6,179
+5,723
+In July 2023 the Group issued a €1.5bn bond split across two tranches (four and seven years) under the Group’s Green Financing Framework. The
+Group bought back almost €300m of the €750m bond which is due to mature in July 2024. Scheduled repayments on a term loan amounted to
+€9m.
+Managed capital is different from capital employed (defined as property, plant and equipment, right-of-use assets, goodwill and intangible
+assets, working capital, capital debtors/creditors, provisions, biological assets and assets/liabilities held for sale). Managed capital relates to
+the Group’s sources of funding, whereas adjusted return on average capital employed is the Group’s measure of the level of return being
+generated by the asset base.
+The Group funds its operations from the following sources of capital: operating cash flow, borrowings, shareholders’ equity and, where
+appropriate, divestments of non-core businesses. The Group’s objective is to achieve a capital structure that results in an appropriate cost of
+capital whilst providing flexibility in short and medium-term funding so as to accommodate significant investments or acquisitions. The Group
+also aims to maintain a strong balance sheet and to provide continuity of financing by having borrowings with a range of maturities and from
+a variety of sources.
+The Group’s overall treasury objectives are to ensure sufficient funds are available for the Group to carry out its strategy and to manage certain
+financial risks to which the Group is exposed, as described elsewhere in this note. The Group’s treasury strategy is controlled through the
+Balance Sheet Committee which meets every two months and includes the Group Finance Director, the Group General Counsel and Company
+Secretary, the Group Financial Controller and the Corporate Finance Director. The Group Treasury function operates in accordance with policies
+and procedures approved by the Board and is controlled by the Corporate Finance Director. The function arranges funding for the Group,
+provides a service to operations and implements strategies for financial risk management.
+(ii) Market risk
+Market risk is the risk that the fair value or future cash flows of a financial instrument fluctuate because of a change in market prices. The Group
+is exposed to changes in interest rates, foreign currency exchange rates and commodity prices.
+178
+Contents
+
+## Page 181
+
+Annual Report 2024 dssmith.com 179
+21. Financial instruments continued
+(d) Risk identification and risk management continued
+Interest rate risk
+The Group is exposed to interest rate risk as borrowings are arranged at fixed interest rates, exposing it to fair value risk, and at floating interest
+rates, exposing it to future cash flow risk. The risk is managed by maintaining a mix of fixed and floating rate borrowings. The Group’s exposure
+to interest rates on financial assets and financial liabilities is detailed in the liquidity risk management section of this note.
+Interest rate sensitivity
+At 30 April 2024, 100% of the Group’s borrowings were at fixed rates of interest (30 April 2023: 84%). The sensitivity analysis below shows the
+impact on profit of a 100 basis points rise in market interest rates (representing management’s assessment of the reasonably possible change in
+interest rates) in all currencies in which the Group had variable-rate borrowings during the year ended 30 April 2024.
+To calculate the impact on the income statement for the year, the interest rates on all variable-rate external borrowings and cash deposits have
+been increased by 100 basis points. The impact on equity is equal to the impact on profit.
+The results are presented before non-controlling interests and tax.
+
+2024
+£m
+2023
+£m
+Impact on profit of increase in market interest rates of 100 basis points
+(6)
+(2)
+Foreign exchange risk
+The Group’s exposure to foreign currency risk at the end of the reporting period, expressed in sterling, was as follows:
+
+2024
+2023
+
+EUR
+£m
+USD
+£m
+EUR
+£m
+USD
+£m
+Trade receivables
+636
+64
+769
+65
+Trade payables
+(1,183)
+(74)
+(1,392)
+(177)
+Net borrowings1
+(1,956)
+(118)
+(1,035)
+(219)
+1. After taking into account the effect of forward foreign exchange contracts.
+Foreign exchange risk on investments
+The Group is exposed to foreign exchange risk arising from net investments in Group entities, the functional currencies of which differ from the
+Group’s presentational currency, sterling. The Group partly hedges this exposure through borrowings denominated in foreign currencies and
+through cross-currency swaps and forward foreign exchange contracts.
+Gains and losses arising from hedges of net investments are recognised in equity.
+Foreign exchange risk on borrowings
+The Group is exposed to foreign exchange risk on borrowings denominated in foreign currencies. To mitigate this risk, the foreign currency
+borrowings are designated in hedges of net investments.
+Foreign exchange risk on transactions
+Foreign currency transaction risk arises where a business unit makes product sales or purchases in a currency other than its functional currency.
+Part of this risk is hedged using forward foreign exchange contracts which are designated as cash flow hedges.
+The Group only designates the forward rate of foreign currency forwards in hedge relationships.
+For the hedges of highly probable forecast sales and purchases, as the critical terms (i.e. the notional amount, maturity and underlying terms) of
+the foreign exchange forward contracts and their corresponding hedged items are the same, the Group performs a qualitative assessment of
+effectiveness and it is expected that the value of the forward contracts and the value of the corresponding hedged items will systematically
+change in opposite directions in response to movements in the underlying exchange rates.
+The Group’s main currency exposures are to the euro and US dollar. The following significant exchange rates applied during the year:
+
+2024
+2023
+
+Average
+Closing
+Average
+Closing
+Euro
+1.161
+1.170
+1.152
+1.136
+US dollar
+1.258
+1.254
+1.201
+1.247
+
+Annual Report 2024 dssmith.com
+179
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 182
+
+Notes to the consolidated financial statements continued
+180
+21. Financial instruments continued
+(d) Risk identification and risk management continued
+(ii) Market risk continued
+Foreign exchange risk on transactions continued
+The following sensitivity analysis shows the impact on the Group’s results of a 10% strengthening and weakening in the sterling exchange rate
+against all other currencies representing management’s assessment of the reasonably possible change in foreign exchange rates. The analysis is
+restricted to financial instruments denominated in a foreign currency and excludes the impact of financial instruments designated as net
+investment hedges.
+Net investment hedges are excluded as the impact of the foreign exchange movements on these are offset by equal and opposite movements in
+the hedged items.
+The results are presented before non-controlling interests and tax.
+
+2024
+2023
+
+Impact on
+profit
+£m
+Impact on
+total equity
+£m
+Impact on
+profit
+£m
+Impact on
+total equity
+£m
+10% strengthening of sterling
+–
+25
+–
+30
+10% weakening of sterling
+–
+(31)
+–
+(37)
+Commodity risk
+The Group’s main commodity exposures are to changes in gas and electricity prices. The Group also hedges its exposure to fluctuations in the
+cost of carbon emission certificates. This commodity price risk is managed by a combination of physical supply agreements and derivative
+instruments. At 30 April 2024, losses of £56m net of tax (2022/23: gains of £115m) are deferred in equity in respect of cash flow hedges in
+accordance with IAS 39. Any gains or losses deferred in equity will be reclassified to the income statement in the period in which the hedged item
+also affects the income statement, which will occur within three years.
+The following table details the Group’s sensitivity to a 10% increase in these prices, which is management’s assessment of the reasonably
+possible change, on average, over any given year. A decrease of 10% in these prices would produce an opposite effect on equity. As all of
+the Group’s commodity financial instruments achieve hedge accounting under IAS 39, there is no impact on profit for either year.
+The results are presented before non-controlling interests and tax.
+
+2024
+2023
+
+Impact on
+profit
+£m
+Impact on
+total equity
+£m
+Impact on
+profit
+£m
+Impact on
+total equity
+£m
+10% increase in electricity prices
+–
+–
+–
+8
+10% increase in gas prices
+–
+25
+–
+44
+10% increase in carbon certificate prices
+–
+5
+–
+7
+(iii) Credit risk
+Credit risk is the risk that a customer or counterparty to a financial instrument will fail to perform or fail to pay amounts due, causing financial loss
+to the Group. In the current economic environment, the Group has placed increased emphasis on the management of credit risk. The carrying amount of
+financial assets at 30 April 2024 was £1,729m and is analysed in note 21(a). This represents the maximum credit risk exposure.
+Credit risk on financial instruments held with financial institutions is assessed and managed by reference to the long-term credit ratings
+assigned to that counterparty by S&P Global Ratings’ and Moody’s credit rating agencies. Amounts deposited with counterparties are subject to
+limits based on their credit ratings. There are no significant concentrations of credit risk.
+See note 16 for information on credit risk with respect to trade receivables.
+
+180
+Contents
+
+## Page 183
+
+Annual Report 2024 dssmith.com 181
+21. Financial instruments continued
+(d) Risk identification and risk management continued
+(iv) Liquidity risk
+Liquidity risk is the risk that the Group, although solvent, will have difficulty in meeting its obligations associated with its financial liabilities as
+they fall due.
+The Group manages its liquidity risk by maintaining a sufficient level of undrawn committed borrowing facilities. At 30 April 2024, the Group had
+£1,451m of undrawn committed borrowing facilities (30 April 2023: £1,655m), which comprises revolving credit facilities. The Group mitigates
+its refinancing risk by raising its debt requirements from a number of different sources with a range of maturities.
+The following table is an analysis of the undiscounted contractual maturities of non-derivative financial liabilities.
+
+Contractual repayments
+At 30 April 2024
+Total
+£m
+1 year
+or less
+£m
+1–5
+years
+£m
+More than
+5 years
+£m
+Non-derivative financial liabilities
+
+Trade and other payables
+1,850
+1,819
+31
+–
+Bank and other loans
+9
+2
+7
+–
+Medium-term notes and other fixed-term debt
+2,441
+395
+1,240
+806
+Lease liabilities
+271
+77
+150
+44
+Bank overdrafts
+89
+89
+–
+–
+Interest payments on borrowings
+364
+74
+233
+57
+Total non-derivative financial liabilities
+5,024
+2,456
+1,661
+907
+
+Contractual repayments
+At 30 April 2023
+Total
+£m
+1 year
+or less
+£m
+1–5
+years
+£m
+More than
+5 years
+£m
+Non-derivative financial liabilities
+
+Trade and other payables
+2,287
+2,253
+34
+–
+Bank and other loans
+343
+42
+301
+–
+Commercial paper
+24
+24
+–
+–
+Medium-term notes and other fixed-term debt
+1,455
+8
+1,197
+250
+Lease liabilities
+264
+72
+143
+49
+Bank overdrafts
+104
+104
+–
+–
+Interest payments on borrowings
+88
+21
+45
+22
+Total non-derivative financial liabilities
+4,565
+2,524
+1,720
+321
+Refer to note 29 for a summary of the Group’s capital commitments.
+
+Annual Report 2024 dssmith.com
+181
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 184
+
+Notes to the consolidated financial statements continued
+182
+21. Financial instruments continued
+(d) Risk identification and risk management continued
+(iv) Liquidity risk continued
+The following table is an analysis of the undiscounted contractual maturities of derivative financial liabilities. Where the payable and receivable
+legs of these derivatives are denominated in foreign currencies, the contractual payments or receipts have been calculated based on exchange
+rates prevailing at the respective year ends. The disclosure shows net cash flow amounts for derivatives that are net cash-settled and gross cash
+inflow and outflow amounts for derivatives that have simultaneous gross cash settlement.
+Where applicable, interest and foreign exchange rates prevailing at the reporting date are assumed to remain constant over the future
+contractual maturities.
+
+Contractual payments/(receipts)
+At 30 April 2024
+Total
+£m
+1 year
+or less
+£m
+1–5
+years
+£m
+More than
+5 years
+£m
+Derivative financial liabilities
+
+Energy derivatives
+199
+124
+75
+–
+Forward foreign exchange contracts:
+
+Payments
+73
+69
+4
+–
+Receipts
+(72)
+(68)
+(4)
+–
+Total derivative financial liabilities
+200
+125
+75
+–
+
+Contractual payments/(receipts)
+At 30 April 2023
+Total
+£m
+1 year
+or less
+£m
+1–5
+years
+£m
+More than
+5 years
+£m
+Derivative financial liabilities
+
+Energy derivatives
+374
+322
+52
+–
+Forward foreign exchange contracts:
+
+Payments
+277
+277
+–
+–
+Receipts
+(271)
+(271)
+–
+–
+Total derivative financial liabilities
+380
+328
+52
+–
+
+182
+Contents
+
+## Page 185
+
+Annual Report 2024 dssmith.com 183
+22. Deferred tax assets and liabilities
+Analysis of movements in recognised deferred tax assets and liabilities during the year
+
+Property, plant and
+equipment and
+intangible assets
+Employee benefits
+including pensions
+Tax
+losses
+Other1
+Total
+
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+At beginning of the year
+(296)
+(302)
+19
+27
+50
+58
+(24)
+(172)
+(251)
+(389)
+Credit/(charge) for the year:
+
+– continuing
+(12)
+12
+(5)
+(5)
+17
+(7)
+14
+2
+14
+2
+Recognised directly in equity
+–
+–
+(1)
+(4)
+–
+–
+41
+149
+40
+145
+Currency translation
+5
+(6)
+(2)
+1
+1
+(1)
+3
+(3)
+7
+(9)
+At end of the year
+(303)
+(296)
+11
+19
+68
+50
+34
+(24)
+(190)
+(251)
+1. Includes deferred tax assets on deferred deductions in respect of R&D expenditure and derivative financial instruments of £17m (30 April 2023: £24m).
+At 30 April 2024, deferred tax assets and liabilities were recognised for all taxable temporary differences except:
+• where the deferred tax liability arises on goodwill;
+• on initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects
+neither the accounting profit nor the taxable profit or loss; and at the time of the transaction, does not give rise to equal taxable and
+deductible temporary differences; and
+• in respect of taxable temporary differences associated with investments in subsidiaries and associates, where the timing of the reversal of
+temporary differences can be controlled by the Group and it is probable that temporary differences will not reverse in the foreseeable future.
+At 30 April 2024, no deferred tax liability has been recognised in respect of temporary differences relating to unremitted earnings of subsidiaries
+because the Group is in a position to control the timing of the reversal of the temporary differences and it is probable that such differences will
+not reverse in the foreseeable future. The amount of the associated temporary differences at 30 April 2024 was £2,402m (30 April 2023:
+£2,455m).
+As commented in note 7, Finance Act 2021 included a 6% increase in the main UK corporation tax rate to 25% from 1 April 2023, which was
+substantially enacted on 10 June 2021. Accordingly, the rate applied to UK deferred tax assets and liabilities expected to reverse after
+1 April 2024 is 25% (2023: 25%).
+Recognised deferred tax assets and liabilities
+Deferred tax assets and liabilities are offset where the Group has a legally enforceable right to do so. The following is the analysis of the deferred
+tax balances (after offset) for financial reporting purposes:
+
+2024
+£m
+2023
+£m
+Deferred tax liabilities
+(213)
+(262)
+Deferred tax assets
+23
+11
+Net deferred tax
+(190)
+(251)
+The deferred tax asset in respect of tax losses at 30 April 2024 includes an asset in the UK of £18m (30 April 2023: £19m). The asset has been
+recognised based on the Group’s forecast of net interest income that will arise in the UK. The asset is expected to be fully recovered over the
+foreseeable future.
+Included within deferred tax assets is an asset of £5m recognised in respect of tax losses and other temporary differences in Croatia. The
+business has made a loss this year, but an asset has been recognised as a result of the Group forecasting sufficient taxable profits over the
+foreseeable future against which these assets will be realised.
+In addition to the tax losses above, the Group has tax losses at 30 April 2024 of £119m (30 April 2023: £114m) for which no deferred tax assets
+have been recognised. These losses include £85m which do not expire, £25m which expire between 2027 and 2029 and £9m which expire
+between 2037 and 2041 under current tax legislation. Deferred tax assets have not been recognised in respect of these items because it is not
+probable that future taxable profit will be available against which the Group can utilise these benefits.
+The Group also has other temporary differences on which it has not recognised deferred tax assets, £158m of which do not expire and £21m of
+which expire by 2025.
+
+Annual Report 2024 dssmith.com
+183
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 186
+
+Notes to the consolidated financial statements continued
+184
+23. Provisions
+
+Restructuring
+£m
+Carbon
+Credits
+£m
+Other
+£m
+Total
+£m
+At 1 May 2023
+
+24
+3
+38
+65
+Acquisitions
+
+–
+–
+1
+1
+Charged to income
+
+7
+34
+6
+47
+Credited to income
+
+–
+–
+(16)
+(16)
+Utilised
+
+(27)
+–
+–
+(27)
+Currency translation
+
+–
+(1)
+(1)
+(2)
+At 30 April 2024
+
+4
+36
+28
+68
+
+Non-current
+
+–
+–
+8
+8
+Current
+
+4
+36
+20
+60
+At 30 April 2024
+
+4
+36
+28
+68
+The restructuring provision includes amounts associated with the site closures and restructuring costs.
+The Group was one of a number of companies operating in the paper packaging industry that was subject to a decision (currently the subject of
+appeal) by the Italian Competition Authority concerning anti-competitive behaviour in Italy (the ‘Decision’). Given its position as leniency
+applicant, the Group was not fined. The Group is subject to a number of claims (both actual and threatened) for compensation in respect of the
+Decision, which the Group intends to defend robustly. Given the early stage of these claims, the ongoing appeal process, the Group’s intention to
+defend all claims robustly and having applied the tests in IAS 37, no provision has been recognised and instead this item has been disclosed as a
+contingent liability.
+Other provisions relate to environmental and restoration liabilities, indemnities and estimated liabilities arising from actual and potential
+litigation and disputes. The Group has considered the impact of climate factors. Other than those relating to carbon emissions (refer to note 10
+for further details) on its operations, no other climate-related provision has been recognised in the current financial year.
+The timing of the utilisation of these provisions is uncertain, except where the associated costs are contractual, in which case the provision is
+utilised over the time period specified in the contract.
+24. Capital and reserves
+Share capital
+
+Number of shares
+
+2024
+millions
+2023
+millions
+2024
+£m
+2023
+£m
+Ordinary equity shares of 10 pence each:
+
+Issued, allotted, called up and fully paid
+1,379
+1,377
+138
+138
+During the year ended 30 April 2024, 1,803,581 (2022/23: 1,527,919) ordinary shares were issued as a result of exercises of employee
+share options.
+The net movements in share capital and share premium are disclosed in the consolidated statement of changes in equity.
+The holders of ordinary shares are entitled to receive dividends as declared from time to time and are entitled to one vote per share at meetings
+of the Company.
+Translation reserve
+The translation reserve comprises all foreign exchange differences arising from the translation of the financial statements of foreign operations
+and the translation of liabilities that hedge the Company’s net investment in a foreign subsidiary.
+Hedging reserve
+The hedging reserve comprises the effective portion of the cumulative net change in the fair value of cash flow hedging instruments related to
+hedged transactions that have not yet occurred.
+Share premium
+The share premium account represents the difference between the issue price and the nominal value of shares issued.
+
+184
+Contents
+
+## Page 187
+
+Annual Report 2024 dssmith.com 185
+24. Capital and reserves continued
+Own shares
+The reserve for the Company’s own shares comprises the cost of the Company’s shares held by the Group. The Group operates a General
+Employee Benefit Trust, which acquires shares in the Company that can be used to satisfy the requirements of the Performance Share Plans.
+At 30 April 2024, the Trust held 2.8m shares (30 April 2023: 4.2m shares). The market value of the shares at 30 April 2024 was £9.7m (30 April
+2023: £13.0m). Dividends receivable on the shares owned by the Trust have been waived.
+Retained earnings
+Retained earnings includes a merger relief reserve related to the shares issued in consideration to the sellers of EcoPack/EcoPaper in 2017/18.
+The closing balance of this reserve is £32m (30 April 2023: £32m).
+25. Employee benefits
+
+Total
+UK
+Overseas
+Balance sheet
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+Present value of post-retirement obligations
+(840)
+(893)
+(717)
+(772)
+(123)
+(121)
+Government issued nominal bonds
+128
+120
+128
+120
+–
+–
+Government issued index-linked bonds
+468
+403
+468
+403
+–
+–
+Equities/multi-strategy
+27
+65
+12
+52
+15
+13
+Debt instruments
+368
+230
+344
+205
+24
+25
+Derivatives
+(1)
+233
+(1)
+233
+–
+–
+Real estate
+1
+1
+–
+–
+1
+1
+Cash and cash equivalents
+22
+9
+21
+9
+1
+–
+Other
+157
+72
+139
+54
+18
+18
+Debt (repurchase agreements) used to fund liability driven investments
+(350)
+(285)
+(350)
+(285)
+–
+–
+
+820
+848
+761
+791
+59
+57
+Net post-retirement plan (deficit)/surplus
+(20)
+(45)
+44
+19
+(64)
+(64)
+Other employee benefit liabilities
+(12)
+(10)
+–
+–
+(12)
+(10)
+Total employee benefit (deficit)/surplus
+(32)
+(55)
+44
+19
+(76)
+(74)
+Related deferred tax asset/(liability)
+7
+14
+(11)
+(5)
+18
+19
+Net employee benefit (deficit)/surplus
+(25)
+(41)
+33
+14
+(58)
+(55)
+Employee benefit schemes
+At 30 April 2024, the Group operated a number of employee benefit arrangements for the benefit of its employees throughout the world. The
+plans are provided through both defined benefit and defined contribution arrangements and their legal status and control vary depending on the
+conditions and practices in the countries concerned.
+Pension scheme trustees and representatives of the Group work with those managing the employee benefit arrangements to monitor the
+effects on the arrangements of changes in financial markets and the impact of uncertainty in assumptions, and to develop strategies that could
+mitigate the risks to which these employee benefit schemes expose the Group.
+
+Annual Report 2024 dssmith.com
+185
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 188
+
+Notes to the consolidated financial statements continued
+186
+25. Employee benefits continued
+UK schemes
+The DS Smith Group Pension Scheme (the ‘Group Scheme’) is a UK funded final salary defined benefit scheme providing pensions and lump sum
+benefits to members and dependants. The Group Scheme closed to future accrual from 30 April 2011 with pensions calculated based on
+pensionable salaries up to the point of closure (or the date of leaving the Group Scheme, if earlier). The Group Scheme has a normal retirement
+age of 65 although some members are able to take their benefits earlier than this. Increases to pensions are affected by changes in the rate of
+inflation for the majority of members.
+The Group Scheme is governed by a Trustee Company (DS Smith Pension Trustees Limited), which is comprised of a Board of Trustee Directors
+(the ‘Trustee Board’) represented by two independent members, two member appointees and two Group appointed members. The Trustee
+Board is responsible for managing the operation, funding and investment strategy of the Group Scheme.
+During the prior year in response to the market turmoil following the mini-budget, the Group made funding support of up to £100m available to
+the main UK defined benefit pension scheme. This took the form initially of a cash advance in anticipation of potential margin calls and latterly a
+liquidity facility. The cash advance was fully repaid within days of being made and as at 30 April 2024 a liquidity facility remained in place but
+was undrawn.
+UK legislation requires the Trustee Board to carry out actuarial funding valuations at least every three years and to target full funding over
+an appropriate period of time, taking into account the current circumstances of the Group Scheme and the Group on a basis that prudently
+reflects the risks to which the Group Scheme is exposed (the ‘Technical Provisions’ basis). The most recent funding valuation was carried out as
+at 30 April 2022, following which a deficit recovery plan was agreed with the Trustee Board on 21 July 2023. The Group has agreed to maintain
+the previous Schedule of Contributions. The contribution for the year ended 30 April 2024 under the plan was £21m. The recovery plan is
+expected to be completed on or around September 2025.
+The Trustee Board and the Group have in place a secondary Long-Term Funding Target (the ‘LTFT’), in addition to the statutory funding
+requirement, the purpose of which is to achieve material additional security for the Group Scheme’s members. The objective of the LTFT is
+for the Group Scheme to be funded by 30 April 2035 to a level that does not expect to rely on future contributions from the Group. The LTFT
+comprises actuarial assumptions to assess whether any additional contributions above the deficit recovery contributions are required, and
+an investment strategy approach to be followed for de-risking the scheme’s assets. In recent valuations, the secondary funding assessment has
+concluded that the deficit recovery plan contributions are sufficient and no additional contributions from the Group under the LTFT are required.
+In order to manage risk, the Group Scheme’s investment strategy is designed to closely align movements in the Group Scheme’s assets to
+those of its liabilities, whilst maintaining an appropriate level of expected return. To help the Trustee Board to monitor, review and assess
+investment matters, the Investment and Funding Committee (the ‘IFC’), which consists of representatives from the Trustee Board and the Group,
+meets on a quarterly basis throughout the year.
+The Group Scheme exposes the Group to risks, such as longevity risk, currency risk, inflation risk, interest rate risk and investment risk. As the
+Group Scheme’s obligation is to provide lifetime pension benefits to members upon retirement, increases in life expectancy will result in an
+increase in the Group Scheme’s liabilities. Other assumptions used to value the defined benefit obligation are also uncertain.
+The Group Scheme deficit recovery plan agreed with the Trustee Board is considered a minimum funding requirement as described in IFRIC 14
+IAS 19 – the Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction. The Group has an unconditional right
+to a return of any surplus in a run-off scenario and has therefore recognised the IAS 19 accounting surplus on the Group’s balance sheet at
+30 April 2024.
+The assets in the Group Scheme (apart from the cash held) are nearly all Level 2 instruments under the fair value hierarchy. All Level 2 assets are
+held in daily traded pooled funds for which daily bid prices are available, and the valuation process for these assets involves minimal judgement
+and is agreed by reference to independent third parties. The Group Scheme does not hold any investment in DS Smith securities.
+On 16 June 2023, the High Court issued a ruling in respect of Virgin Media vs NTL Pensions Trustees II Limited (and others) calling into question
+the validity of changes made to benefits provided by contracted-out schemes between 1997 and 2016 where certain documentation under
+Section 37 of the Pension Scheme Act 2003 wasn’t obtained. Virgin Media has appealed the decision and an appeal hearing . The Trustee Board
+are aware of this matter and mindful of any potential impact on scheme liabilities. However, to date, given the legal and legislative uncertainty,
+any impact on liabilities has not yet been quantified and no allowance has been made for it in scheme liabilities reported at 30 April 2024.
+The largest defined contribution arrangement operated by the Group is in the UK. The UK defined contribution scheme is a trust-based
+arrangement offering members a range of investments. All assets are held independently from the Group. The Group also operates a small
+unfunded arrangement in the UK.
+
+186
+Contents
+
+## Page 189
+
+Annual Report 2024 dssmith.com 187
+25. Employee benefits continued
+Overseas schemes
+The countries where the Group operates the most significant defined benefit post-retirement arrangements are:
+• France – various mandatory retirement indemnities, post-retirement medical plans and jubilee arrangements (benefits paid to
+employees after completion of a certain number of years of service), the majority of which are determined by the applicable collective
+bargaining agreement;
+• Belgium – liabilities with respect to non-contributory defined benefit and cash balance retirement plans, as well as unfunded jubilee
+arrangements. The defined benefit plan is closed to new employees, although active members continue to accrue benefits;
+• Switzerland – a contributory defined benefit pension scheme providing pensions and lump sum benefits to members and dependants;
+• Italy – mandatory end-of-service lump sum benefits in respect of pre-2007 service;
+• Portugal – defined benefit pensions plan with a fund that guarantees a payment of a pension supplement to all retired employees and
+pensioners who were receiving pension benefit from the fund on 13 July 2007; and
+• Germany – jubilee arrangements and non-contributory defined benefit pension schemes.
+In general, local trustees or similar bodies manage the post-retirement and medical plans in accordance with local regulations.
+Overseas schemes expose the Group to risks such as longevity risk, currency risk, inflation risk, interest rate risk, investment risk, life expectancy
+risk and healthcare cost risk. Actions taken by the local regulator, or changes to legislation, could result in stronger local funding requirements for
+pension schemes, which could affect the Group’s future cash flow.
+Movements in the liability for employee benefit plans’ obligations recognised in the consolidated statement of
+financial position
+
+2024
+£m
+2023
+£m
+Schemes’ liabilities at beginning of the year
+(903)
+(1,199)
+Interest cost
+(41)
+(34)
+Service cost recognised in the consolidated income statement
+(5)
+(6)
+Member contributions
+–
+(1)
+Pension payments
+53
+53
+Unfunded benefits paid
+8
+8
+Actuarial gains – financial assumptions
+16
+270
+Actuarial gains/(losses) – experience
+13
+(17)
+Actuarial gains – demographic
+3
+29
+Currency translation
+4
+(6)
+Schemes’ liabilities at end of the year
+(852)
+(903)
+
+Annual Report 2024 dssmith.com
+187
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 190
+
+Notes to the consolidated financial statements continued
+188
+25. Employee benefits continued
+Movements in the fair value of employee benefit plans’ assets recognised in the consolidated statement of
+financial position
+
+2024
+£m
+2023
+£m
+Schemes’ assets at beginning of the year
+848
+1,113
+Employer contributions
+21
+23
+Member contributions
+–
+–
+Interest income
+40
+33
+Actuarial losses
+(34)
+(271)
+Pension payments
+(53)
+(53)
+Currency translation
+(2)
+3
+Schemes’ assets at end of the year
+820
+848
+Durations and expected payment profile
+The following table provides information on the distribution of the timing of expected benefit payments for the Group Scheme:
+At 30 April 2024
+Within 5
+years
+£m
+6 to 10
+years
+£m
+11 to 20
+years
+£m
+21 to 30
+years
+£m
+31 to 40
+years
+£m
+41 to 50
+years
+£m
+Over 50
+years
+£m
+Projected benefit payments
+278
+305
+578
+421
+230
+73
+11
+The weighted average duration for the Group Scheme is 12 years.
+The Group made agreed contributions of £21m to fund the Group Scheme in 2023/24 (2022/23: £20m). The Group’s current best estimate of
+contributions expected to be made to the Group Scheme in the year ending 30 April 2025 will be approximately £21m. A charge over four
+UK Packaging properties has been made as security for the unfunded arrangement in the UK, the liability for which totals £5m.
+Significant actuarial assumptions
+Principal actuarial assumptions for the Group Scheme are as follows:
+
+2024
+2023
+Discount rate for scheme liabilities
+5.4%
+5.0%
+Inflation
+3.3%
+3.2%
+Pre-retirement pension increases
+2.9%
+2.8%
+Future pension increases for pre 30 April 2005 service
+2.9%
+2.8%
+Future pension increases for post 30 April 2005 service
+2.1%
+2.1%
+For overseas arrangements, the weighted average actuarial assumptions are at an average discount rate of 1.8% (30 April 2023: 2.9%) and an
+inflation rate of 2.0% (30 April 2023: 2.7%).
+
+188
+Contents
+
+## Page 191
+
+Annual Report 2024 dssmith.com 189
+25. Employee benefits continued
+During 2021, the UK Statistics Authority’s publication on the future of the RPI assumption base had the effect of lowering the RPI assumption by
+1% per annum in the short term and the post-2030 assumption is that the RPI/CPI gap falls to zero. Assumptions regarding future mortality
+experience are set based on actuarial advice and in accordance with the relevant standard mortality tables in each country. For the Group
+Scheme at 30 April, the mortality base table used is SAPS 3 (year of birth), with CMI 2023 projections with a 1.25% per annum long-term rate of
+improvement used for future longevity improvement. As part of the Group Scheme actuarial valuation exercise the projected life expectancies
+were as follows:
+
+2024
+2023
+
+Male
+Female
+Male
+Female
+Life expectancy at age 65
+
+Member currently aged 65
+20.7
+23.1
+20.9
+23.3
+Member currently aged 45
+21.7
+24.4
+21.9
+24.7
+Sensitivity analysis
+The sensitivity of the liabilities in the Group Scheme to each significant actuarial assumption is summarised in the following table, showing
+the impact on the defined benefit obligation if each assumption is altered by the amount specified in isolation, whilst assuming that all other
+variables remain the same. In practice, this approach is not necessarily realistic since some assumptions are related. This sensitivity analysis
+applies to the defined benefit obligation only and not to the net defined benefit pension liability, the measurement of which depends on a
+number of factors including the fair value of plan assets.
+
+Increase in
+pension liability
+£m
+0.5% decrease in discount rate
+(45)
+0.5% increase in inflation
+(32)
+0.5% pre-retirement pension increases
+(10)
+0.5% CPI 5% on pre 30 April 2005 service
+(24)
+0.5% CPI 2.5% on post 30 April 2005 service
+(5)
+1 year increase in life expectancy
+(24)
+Expense recognised in the consolidated income statement
+
+Total
+
+2024
+£m
+2023
+ £m
+Post-retirement benefits current service cost
+(5)
+(6)
+Total service cost
+(5)
+(6)
+Net interest cost on net pension liability
+(1)
+(1)
+Pension Protection Fund levy
+–
+–
+Employment benefit net finance expense
+(1)
+(1)
+Total expense recognised in the consolidated income statement
+(6)
+(7)
+Items recognised in other comprehensive income
+Remeasurement of defined benefit obligation
+32
+282
+Return on plan assets excluding amounts included in employment benefit net finance expense
+(34)
+(271)
+Total (losses)/gains recognised in other comprehensive income
+(2)
+11
+
+Annual Report 2024 dssmith.com
+189
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 192
+
+Notes to the consolidated financial statements continued
+190
+26. Share-based payment expense
+The Group’s share-based payment arrangements are as follows:
+(i) A Performance Share Plan (PSP). Awards under the PSP normally become exercisable after three years subject to remaining in
+service and the satisfaction of performance conditions measured over the three financial years commencing with the year of grant.
+Awards have been made under the PSP annually since 2008, originally based on the following performance measures, in the proportions
+shown below:
+i.
+the Group’s total shareholder return (TSR) compared to the constituents of the Industrial Goods and Services Supersector within the
+FTSE 250;
+ii.
+average adjusted earnings per share (EPS); and
+iii. average adjusted return on average capital employed (ROACE).
+Awards made in 2016 are subject to three performance measures:
+i.
+33.3% of each award based on a TSR component;
+ii.
+33.3% of each award based on average adjusted EPS; and
+iii. 33.3% of each award based on average adjusted ROACE.
+Awards made from 2017 to 2019 are subject to either two performance measures or three performance measures:
+(a) Two performance measures:
+i.
+50% of each award based on average adjusted EPS; and
+ii.
+50% of each award based on average adjusted ROACE.
+(b) Three performance measures:
+i.
+33.3% of each award based on a TSR component;
+ii.
+33.3% of each award based on average adjusted EPS; and
+iii. 33.3% of each award based on average adjusted ROACE.
+Awards made from 2020 are subject to either two performance measures or to three performance measures:
+(a) Two performance measures:
+i.
+50% of each award based on adjusted EPS; and
+ii.
+50% of each award based on adjusted ROACE.
+(b) Three performance measures:
+i.
+33.3% of each award based on a TSR component;
+ii.
+33.3% of each award based on adjusted EPS; and
+iii. 33.3% of each award based on adjusted ROACE.
+Some awards granted in 2016, 2017 and 2020 have vested but have not yet been fully exercised. The maximum term of the options granted
+under the above scheme is the 10 year anniversary of the grant date.
+(ii) A Deferred Share Bonus Plan (DSBP) is operated for Executive Directors and, from 2012/13, for senior executives. Shares awarded
+under the DSBP will vest automatically if the Director or senior executive is still employed by the Group three years after the grant of
+the award. The maximum term of the options granted under the above scheme is the 10 year anniversary of the grant date.
+(iii) An international Sharesave Plan was introduced in January 2014 with further invitations being made in subsequent years. All employees of
+the Group and participating subsidiaries were eligible to participate in this Plan or an HMRC approved UK Sharesave Plan. Options are granted
+to participants who have contracted to save up to a maximum of £250 (or local currency equivalent) across all open invitations per month
+over a period of three years, at a discount of up to 20% to the average closing mid-market price of a DS Smith Plc ordinary share on the three
+dealing days prior to invitation. Options cannot normally be exercised until a minimum of three years has elapsed. In common with most plans
+of this type there are no performance conditions applicable to options granted under this Plan. The provisions of this Plan are subject to
+minor country specific variances. In France, the option price is discounted by up to 20% of the 20-day average up to the day before grant
+date. A standard US Stock Purchase Plan was introduced in January 2014 with further invitations in subsequent years. US employees of the
+Group are eligible to participate in this Plan. Options are granted to participants who have contracted to save up to the local currency
+equivalent of £250 per month over a period of two years at a discount of up to 15% to the higher of the mid-market average price on the day
+before invitation and the mid-market average on the day before grant of a DS Smith Plc ordinary share. Options cannot normally be exercised
+until a minimum of two years has elapsed.
+
+190
+Contents
+
+## Page 193
+
+Annual Report 2024 dssmith.com 191
+26. Share-based payment expense continued
+Options cannot normally be exercised until a minimum of two years has elapsed. The maximum term of the options granted under the above
+schemes is six months after the completion of the three-year vesting period.
+Further details of the awards described in (i), (ii) and (iii) are set out in the Remuneration Committee report.
+Options outstanding and exercisable under share arrangements at 30 April 2024 were:
+
+Options outstanding
+Options exercisable
+
+Number
+of shares
+Option price
+range (p)
+Weighted
+average
+remaining
+contract life
+(years)
+Weighted
+average
+exercise
+price (p)
+Number
+exercisable
+Weighted
+average
+exercise
+price (p)
+Performance Share Plan
+10,885,792
+Nil
+0.7
+Nil
+428,199
+Nil
+Deferred Share Bonus Plan
+2,725,827
+Nil
+1.3
+Nil
+48,225
+Nil
+Sharesave Plan
+9,270,969
+235.0-412.0
+2.0
+267.7
+1,104,273
+324.7
+The effect on earnings per share of potentially dilutive shares issuable under share-based payment arrangements is shown in note 8.
+Movements in the number of share options outstanding and their related weighted average exercise prices are as follows:
+
+Performance
+Share Plan
+Deferred Share
+Bonus Plan
+Sharesave
+Plan
+2024
+Weighted
+average
+exercise
+price (p)
+Options
+(‘000s)
+Weighted
+average
+exercise
+price (p)
+Options
+(‘000s)
+Weighted
+average
+exercise
+price (p)
+Options
+(‘000s)
+At 1 May 2023
+Nil
+10,154
+Nil
+2,132
+321.6
+6,278
+Granted
+Nil
+4,687
+Nil
+1,022
+235.0
+5,733
+Exercised
+Nil
+(2,214)
+Nil
+(259)
+324.9
+(1,804)
+Lapsed
+Nil
+(1,741)
+Nil
+(169)
+318.2
+(936)
+At 30 April 2024
+Nil
+10,886
+Nil
+2,726
+267.7
+9,271
+Exercisable at 30 April 2024
+Nil
+428
+Nil
+48
+324.7
+1,104
+
+Performance
+Share Plan
+Deferred Share
+Bonus Plan
+Sharesave
+Plan
+2023
+Weighted
+average
+exercise
+price (p)
+Options
+(‘000s)
+Weighted
+average
+exercise
+price (p)
+Options
+(‘000s)
+Weighted
+average
+exercise
+price (p)
+Options
+(‘000s)
+At 1 May 2022
+Nil
+8,965
+Nil
+1,346
+308.8
+ 12,965
+Granted
+Nil
+4,235
+Nil
+1,219
+Nil
+Nil
+Exercised
+Nil
+(4)
+Nil
+(319)
+285.0
+(4,214)
+Lapsed
+Nil
+(3,042)
+Nil
+(114)
+316.8
+(2,473)
+At 30 April 2023
+Nil
+10,154
+Nil
+2,132
+321.6
+6,278
+Exercisable at 30 April 2023
+Nil
+73
+Nil
+308
+266.0
+1
+The average share price of the Company during the financial year was 307.0 pence (2022/23: 304.7 pence). The fair value of awards granted in
+the period relates to the PSP and DSBP schemes.
+The fair value of the PSP award granted during the year, determined using the stochastic (Monte Carlo) valuation model, was £l2m. The
+significant inputs into the model were: a share price of 317.49p for the PSP at the grant date; the exercise prices shown above; an expected
+volatility of the share price of 31.80%; the scheme life disclosed above; a risk-free interest rate of 5.20%; and an expected dividend yield of
+5.78%. The volatility of share price returns is calculated over the period of time commensurate with the remainder of the performance period
+immediately prior to the date of grant.
+The total (credit)/charge for the year relating to share-based payments recognised as personnel expenses was (£2m) (2022/23: £15m).
+
+Annual Report 2024 dssmith.com
+191
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 194
+
+Notes to the consolidated financial statements continued
+192
+27. Cash generated from operations
+Continuing operations
+2024
+£m
+2023
+ £m
+Profit for the year
+385
+492
+Adjustments for:
+
+Amortisation of intangible assets; acquisitions and divestments
+97
+128
+Cash outflow for adjusting items
+(11)
+(14)
+Depreciation
+323
+312
+(Profit)/loss on sale of non-current assets
+(9)
+7
+Share of profit of equity accounted investments, net of tax
+(2)
+(2)
+Employment benefit net finance expense
+1
+1
+Share-based payments
+(2)
+15
+Finance income
+(14)
+(2)
+Finance costs
+116
+75
+Other non-cash items
+(13)
+24
+Income tax expense
+118
+169
+Change in provisions
+7
+19
+Change in employee benefits
+(24)
+(25)
+Cash generation before working capital movement
+972
+1,199
+Changes in:
+
+Inventories
+6
+99
+Trade and other receivables
+88
+15
+Trade and other payables
+(511)
+(235)
+Working capital movement
+(417)
+(121)
+Cash generated from continuing operations
+555
+1,078
+192
+Contents
+
+## Page 195
+
+Annual Report 2024 dssmith.com 193
+28. Reconciliation of net cash flow to movement in net debt
+
+2024
+£m
+2023
+£m
+Profit for the year
+385
+492
+Income tax expense
+118
+169
+Share of profit of equity accounted investments, net of tax
+(2)
+(2)
+Net financing costs
+103
+74
+Amortisation of intangible assets; acquisitions and divestments
+97
+128
+Adjusted operating profit
+701
+861
+Depreciation
+323
+312
+Adjusted EBITDA
+1,024
+1,173
+Working capital movement
+(417)
+(121)
+Change in provisions
+7
+19
+Change in employee benefits
+(24)
+(25)
+Other
+(24)
+46
+Cash generated from operations before adjusting cash items
+566
+1,092
+Capital expenditure
+(547)
+(545)
+Proceeds from sale of property, plant and equipment and other investments
+41
+19
+Tax paid
+(169)
+(136)
+Net interest paid
+(66)
+(76)
+Free cash flow
+(175)
+354
+Cash outflow for adjusting items
+(11)
+(14)
+Dividends paid
+(247)
+(289)
+Acquisition of subsidiary businesses, net of cash and cash equivalents
+(113)
+–
+Divestment of equity accounted investments
+5
+–
+Other
+(2)
+(2)
+Net cash flow
+(543)
+49
+Proceeds from issue of share capital
+7
+4
+Net movement on debt
+(536)
+53
+Foreign exchange, fair value and other non-cash movements (note 18)
+(58)
+(205)
+Net debt movement – continuing operations
+(594)
+(152)
+Opening net debt
+(1,636)
+(1,484)
+Closing net debt – reported basis
+(2,230)
+(1,636)
+Adjusted operating profit, adjusted EBITDA, free cash flow, and net debt are non-GAAP measures not defined by IFRS. Further detail on the use
+of non-GAAP measures is included in note 32.
+29. Capital commitments and contingencies
+At 30 April 2024, the Group had committed to incur capital expenditure of £329m (30 April 2023: £298m) relating primarily to the new paper
+machine in Lucca.
+Except in relation to the matter disclosed in note 23, the Group is not subject to material litigation, but has a number of contingent liabilities that
+arise in the ordinary course of business on behalf of trading subsidiaries including, inter alia, intellectual property disputes and regulatory
+enquiries in areas such as health and safety, environmental, and anti-trust. No losses are anticipated to arise on these contingent liabilities.
+
+Annual Report 2024 dssmith.com
+193
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 196
+
+Notes to the consolidated financial statements continued
+194
+30. Acquisitions and divestments
+(a) 2023/24
+On 29 March 2024, the Group completed the acquisition of Bosis doo, a Serbia-based packaging company, for £17m, net of cash and cash
+equivalents.
+In April 2024, the Group sold its previously fully written-down Ukrainian associate, RKTK, for £10m. £5m was received by 30 April 2024 and a
+further £5m will be received in the next financial year. This resulted in a £10m gain on divestment in the year ended 30 April 2024.
+2022/23
+The crystallisation of the put option for the final 10% stake in Interstate Resources occurred during the financial year. Additional costs as a
+result of the business meeting performance obligations were recognised together with the costs of hedging the dollar payment of the liability,
+the latter of which will continue until the payment is made. These costs of £15m have been taken to adjusting items; refer to note 4 for further
+details. Refer to note 17 for further details on the valuation of this final payment.
+(b) Plastics division
+On 27 February 2020, the sale of the Group’s Plastics division to Olympus Partners and its affiliate Liqui-Box Holdings was completed.
+Plastics principally comprised flexible packaging and dispensing solutions, extruded and injection moulded products and foam products.
+The Plastics segment has been classified as a discontinued operation as disclosed in note 1(a)(ii). The consolidated income statement
+presents the Plastics segment as a discontinued operation with a single line amount of profit from discontinued operation, net of tax.
+The consolidated statement of cash flows presents a single amount of net cash flow from discontinued operations.
+Consolidated income statement – discontinued operations
+
+Year ended
+30 April 2024
+£m
+Year ended
+30 April 2023
+£m
+Revenue
+–
+–
+Operating costs
+–
+–
+Operating profit before amortisation and adjusting items
+–
+–
+Amortisation of intangible assets
+–
+–
+Profit on disposal before tax
+–
+–
+Other pre-tax adjusting items
+–
+11
+Net finance cost
+–
+–
+Profit before income tax
+–
+11
+Income tax credit/(expense)
+–
+–
+Profit for the year from discontinued operations
+–
+11
+Settlement of certain costs and obligations arising from the disposal of the Plastics division in the year ended 30 April 2023 resulted in a gain in
+adjusting items in profit from discontinued operations of £11m.
+
+194
+Contents
+
+## Page 197
+
+Annual Report 2024 dssmith.com 195
+30. Acquisitions and divestments continued
+Basic earnings per share from discontinued operations
+
+2024
+2023
+Profit from discontinued operations attributable to ordinary shareholders
+–
+£11m
+Weighted average number of ordinary shares
+1,374m
+1,376m
+Basic earnings per share
+–
+0.8p
+Diluted earnings per share from discontinued operations
+
+2024
+2023
+Profit from discontinued operations attributable to ordinary shareholders
+–
+£11m
+Weighted average number of ordinary shares
+1,374m
+1,376m
+Potentially dilutive shares issuable under share-based payment arrangement
+7m
+10m
+Weighted average number of ordinary shares (diluted)
+1,381m
+1,386m
+Diluted earnings per share
+–
+0.8p
+The number of shares excludes the weighted average number of the Company’s own shares held as treasury shares during the year of 3m
+(2022/23: 2m).
+Adjusted earnings per share from discontinued operations
+Further detail about the use of non-GAAP performance measures is given in note 32.
+A reconciliation of basic to adjusted earnings per share from discontinued operations is as follows:
+
+2024
+2023
+
+£m
+Basic –
+pence
+per share
+Diluted –
+pence
+per share
+£m
+Basic –
+pence
+per share
+Diluted –
+pence
+per share
+Basic earnings from discontinued operations
+–
+–
+–
+11
+0.8p
+0.8p
+Add back:
+
+Adjusting items, before tax
+–
+–
+–
+(11)
+(0.8p)
+(0.8p)
+Adjusted earnings from discontinued operations
+–
+–
+–
+–
+–
+–
+Other 2023/24 acquisitions and divestments
+The Group incurred £3m (2022/23: £nil) of acquisition costs in the year ended 30 April 2024 relating to the recommended all-share offer from
+International Paper and a further £6m (2022/23: £nil) of other related costs.
+
+Annual Report 2024 dssmith.com
+195
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 198
+
+Notes to the consolidated financial statements continued
+196
+31. Related parties
+Identity of related parties
+In the normal course of business, the Group undertakes a wide variety of transactions between its subsidiaries and equity accounted investments.
+The key management personnel of the Group comprise the Chair, Executive Directors and Non-Executive Directors. The compensation
+of key management personnel can be found in the single total figure remuneration table in the Remuneration Committee report. Certain key
+management personnel also participate in the Group’s share-based incentive programme (note 26). Included within share-based payments, and detailed
+in the Remuneration Committee report, is a credit of £nil (2022/23: £3m charge) relating to key management personnel.
+Transactions with pension trustees are disclosed in note 25.
+Other related party transactions
+
+2024
+£m
+2023
+ £m
+Sales to equity accounted investees
+14
+18
+Purchases from equity accounted investees
+22
+24
+32. Non-GAAP performance measures
+The Group presents reported and adjusted financial information in order to provide shareholders with additional information to further
+understand the Group’s operational performance and financial position.
+The principal adjustments to financial information are made to exclude the effects of adjusting items (refer to note 4) and amortisation.
+Total reported financial information represents the Group’s overall performance and financial position, but can contain significant unusual
+or non-operational items that may obscure understanding of the key trends and position. These unusual or non-operational items include
+business disposals, restructuring and project costs, acquisition-related and integration costs, and impairments. Restructuring items treated as
+adjusting items are major programmes usually spanning more than one year, with uneven impact on the profit and loss for those years affected.
+Other adjusting items, such as business disposals, impairments, integration and acquisition costs, are by nature either highly variable or can also
+have a similar distorting effect. Therefore, the Directors consider that presenting non-GAAP measures which exclude adjusting items enables
+comparability of the recurring core business, complementing the IFRS measures presented.
+Amortisation relates primarily to customer contracts and relationships arising from or as a result of business combinations. Significant costs
+are incurred in maintaining, developing and increasing the value of such intangibles, costs which are charged in determining adjusted profit. Exclusion of
+amortisation remedies this double count as well as, in the case of customer contracts and relationships, providing comparability over the accounting
+treatment of customer contracts and relationships arising from the acquisition of businesses and those generated internally.
+The Group’s key non-GAAP measures are used both internally and externally to evaluate business performance against the Group’s KPIs
+and banking and debt covenants, as a key constituent of the Group’s planning process, as well as comprising targets against which compensation
+is determined.
+Certain non-GAAP performance measures can be, and are, reconciled to information presented in the financial statements. Other financial
+key performance measures are calculated using information which is not presented in the financial statements and is based on, for example,
+average 12-month balances or average exchange rates.
+Unlike other of the Group’s non-GAAP performance measures, net debt and net debt/EBITDA remain calculated under the previous standard, IAS
+17 Leases, because they are calculated in accordance with the Group’s banking covenant requirements which remain on the previous GAAP basis.
+As such, for net debt and net debt/EBITDA, the reconciliation for the non-GAAP performance measure below has been expanded to show the
+calculation to return the non-GAAP performance measure to the IAS 17 basis.
+
+196
+Contents
+
+## Page 199
+
+Annual Report 2024 dssmith.com 197
+32. Non-GAAP performance measures continued
+Key non-GAAP performance measures
+The key non-GAAP performance measures used by the Group and their calculation methods are as follows:
+Adjusted operating profit
+Adjusted operating profit is operating profit excluding the pre-tax effects of both amortisation and adjusting items. Adjusting items include
+business divestment gains and losses, restructuring and acquisition-related and integration costs and impairments.
+A reconciliation between reported and adjusted operating profit is set out on the face of the consolidated income statement.
+Operating profit before adjusting items
+A reconciliation between operating profit and operating profit before adjusting items is set out on the face of the consolidated
+income statement.
+Other similar profit measures before adjusting items are quoted, such as profit before income tax and adjusting items, and are directly derived
+from the consolidated income statement, from which they can be directly reconciled.
+Adjusted EBITDA
+Earnings before interest, tax, depreciation and amortisation (Adjusted EBITDA) is adjusted operating profit excluding depreciation. A reconciliation from
+adjusted operating profit to adjusted EBITDA is provided in note 28.
+Adjusted earnings per share
+Adjusted earnings per share is basic earnings per share adjusted to exclude the post-tax effects of adjusting items and amortisation. Adjusted
+earnings per share is a key performance measure for management long-term remuneration and is widely used by the Group’s shareholders.
+A reconciliation between basic and adjusted earnings per share is provided in note 8.
+Return on sales
+Return on sales is adjusted operating profit measured as a percentage of revenue. Return on sales is used to measure the value delivered to
+customers and the Group’s ability to charge for that value.
+
+2024
+£m
+2023
+£m
+Adjusted operating profit
+701
+861
+Revenue
+6,822
+8,221
+Return on sales
+10.3%
+10.5%
+Adjusted return on average capital employed (ROACE)
+ROACE is the last 12 months’ adjusted operating profit as a percentage of the average monthly capital employed over the previous 12-month
+period. Capital employed is the sum of property, plant and equipment, right-of-use assets, goodwill and intangible assets, working capital, capital
+debtors/creditors, provisions, biological assets and assets/liabilities held for sale.
+
+2024
+£m
+2023
+£m
+Capital employed at 30 April
+6,636
+6,203
+Currency inter-month and acquisition/divestment movements
+(79)
+(194)
+Last 12 months’ average capital employed
+6,557
+6,009
+Last 12 months’ adjusted operating profit
+701
+861
+Adjusted return on average capital employed
+10.7%
+14.3%
+
+Annual Report 2024 dssmith.com
+197
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 200
+
+Notes to the consolidated financial statements continued
+198
+32. Non-GAAP performance measures continued
+Net debt and net debt/EBITDA
+Net debt is the measure by which the Group assesses its level of overall indebtedness within its financial position. The components of net debt
+as they reconcile to the primary financial statements and notes to the accounts are disclosed in note 18.
+Net debt/EBITDA is the ratio of net debt to adjusted EBITDA, calculated in accordance with the Group’s banking covenant requirements.
+Net debt/EBITDA is considered a key measure of balance sheet strength and financial stability by which the Group assesses its financial position.
+The Group’s banking covenant requirements currently exclude IFRS 16 liabilities from the definition of net debt, as well as requiring that EBITDA
+is calculated before the effects of IFRS 16, so an adjustment to the previous IAS 17 basis is made in the calculation.
+In calculating the ratio, net debt is stated at average rates as opposed to closing rates, and adjusted EBITDA is adjusted operating profit before
+depreciation from the previous 12 month period adjusted for the full year effect of acquisitions and divestments in the period, and to adjust to an
+IAS 17 basis.
+
+2024
+£m
+2023
+£m
+Net debt – reported basis (see note 18)
+2,230
+1,636
+IFRS 16 lease liabilities (see note 18)
+(236)
+(220)
+Adjustment to average rate
+7
+(17)
+Net debt – adjusted basis
+2,001
+1,399
+Adjusted EBITDA – last 12 months’ reported basis (continuing operations)
+1,024
+1,173
+Adjust to IAS 17 basis
+(85)
+(85)
+Acquisition and divestment effects
+3
+–
+Adjusted EBITDA – banking covenant basis
+942
+1,088
+Net debt/EBITDA
+2.1x
+1.3x
+Free cash flow
+Free cash flow is the net movement on debt before cash outflow for adjusting items, dividends paid, acquisition and divestment of subsidiary
+businesses (including borrowings acquired), and proceeds from issue of share capital.
+A reconciliation from Adjusted EBITDA to free cash flow is set out in note 28.
+Cash conversion
+Cash conversion is free cash flow, as defined above, adjusted to exclude tax, net interest, growth capital expenditure and pension payments as a
+percentage of adjusted operating profit and can be derived directly from note 28, other than growth capital expenditure, which is capital
+expenditure necessary for the development or expansion of the business as follows:
+
+2024
+£m
+2023
+£m
+Growth capital expenditure
+186
+275
+Non-growth capital expenditure
+361
+270
+Total capital expenditure (note 28)
+547
+545
+Free cash flow (note 28)
+(175)
+354
+Tax paid (note 28)
+169
+136
+Net interest paid (note 28)
+66
+76
+Growth capital expenditure
+186
+275
+Change in employee benefits (note 28)
+24
+25
+Adjusted free cash flow
+270
+866
+Adjusted operating profit
+701
+861
+Cash conversion
+39%
+101%
+
+198
+Contents
+
+## Page 201
+
+Annual Report 2024 dssmith.com 199
+32. Non-GAAP performance measures continued
+Average working capital to sales
+Average working capital to sales measures the level of investment the Group makes in working capital to conduct its operations. It is measured
+by comparing the monthly working capital balances for the previous 12 months as a percentage of revenue over the same period. Working capital
+is the sum of inventories, trade and other receivables, and trade and other payables, excluding capital and acquisition and divestment-related
+debtors and creditors.
+
+2024
+£m
+2023
+£m
+Inventories (note 15)
+591
+619
+Trade and other receivables
+1,099
+1,211
+Trade and other payables
+(1,696)
+(2,105)
+Inter-month movements and exclusion of capital and acquisition and divestment-related items
+80
+36
+Last 12 months’ average working capital
+74
+(239)
+Last 12 months’ revenue
+6,822
+8,221
+Average working capital to sales
+1.1%
+(2.9%)
+Constant currency and organic growth
+The Group presents commentary on both reported and constant currency revenue and adjusted operating profit comparatives in order to explain
+the impact of exchange rates on the Group’s key income statement items. Constant currency comparatives recalculate the prior year revenue
+and adjusted operating profit as if they had been generated using the current year exchange rates. In addition, the Group then separates the
+incremental effects of acquisitions and disposals made in the current year, and the incremental effects of acquisitions and disposals made in the
+previous year, to determine underlying organic growth. The table below shows the calculations:
+
+Revenue
+£m
+Adjusted
+operating
+profit
+£m
+Reported basis – comparative year ended 30 April 2023
+8,221
+861
+Currency effects
+(84)
+(11)
+Constant currency basis – comparative year ended 30 April 2023
+8,137
+850
+Organic growth
+(1,315)
+(149)
+Reported basis – year ended 30 April 2024
+6,822
+701
+
+Return on sales – comparative year ended April 2023 – constant currency basis
+10.4%
+
+£m
+Reported profit before tax comparative year ended 30 April 2023
+661
+Currency effects
+(10)
+Constant currency profit before tax comparative year ended 30 April 2023
+651
+
+Basic earnings per share from continuing operations for the comparative year ended 30 April 2023 – constant currency basis
+£m
+Profit from continuing operations
+492
+Currency effects
+(9)
+
+483
+Weighted average number of ordinary shares
+1,376m
+Basic earnings per share – constant currency basis
+35.1p
+
+Annual Report 2024 dssmith.com
+199
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 202
+
+Notes to the consolidated financial statements continued
+200
+32. Non-GAAP performance measures continued
+Constant currency and organic growth continued
+Adjusted earnings per share for the comparative year ended 30 April 2023 – constant currency basis
+£m
+Adjusted earnings
+592
+Currency effects
+(10)
+
+582
+Weighted average number of ordinary shares
+1,376m
+Adjusted earnings per share – constant currency basis
+42.3p
+Dividend cover
+Dividend cover is adjusted earnings per share divided by the total dividend for the year.
+
+2024
+2023
+Adjusted earnings per share
+33.1p
+43.0p
+Total dividend
+18.0p
+18.0p
+Dividend cover
+1.8x
+2.4x
+
+200
+Contents
+
+## Page 203
+
+Annual Report 2024 dssmith.com 201
+33. DS Smith Group companies
+The Group’s ultimate parent Company is DS Smith Plc.
+Group companies are grouped by the countries in which they are incorporated or registered. Unless otherwise noted, the undertakings
+below are wholly-owned and consolidated by DS Smith Plc and the share capital held comprises ordinary or common shares which are held by
+Group subsidiaries.
+
+Fully owned subsidiaries
+Notes
+Argentina
+
+Total Marketing Support Argentina SA
+AR1
+Australia
+
+Total Marketing Support Pacific Pty Ltd
+AU1
+Austria
+
+DS Smith Austria Holdings GmbH
+AT1
+DS Smith Packaging Austria
+Beteiligungsverwaltungs GmbH
+AT1
+DS Smith Packaging Austria GmbH
+AT2
+DS Smith Packaging South East GmbH
+AT1
+Belgium
+
+DS Smith Packaging Belgium N.V.
+BE1
+DS Smith Packaging Marketing N.V.
+BE2
+Bolivia
+
+TotalMarketing Support Bolivia S.A.
+BO1
+Bosnia & Herzegovina
+
+DS Smith Packaging BH d.o.o. Sarajevo
+BA1
+DS Smith Recycling Bosnia d.o.o.
+BA2
+Brazil
+
+Total Marketing Support Brazil Ltda
+BR1
+Bulgaria
+
+DS Smith Bulgaria S.A.
+c, BG1
+Canada
+
+TMS Canada 360 Inc.
+CA1
+Chile
+
+Total Marketing Support Chile SpA
+CL1
+China
+
+DS Smith Shanghai Trading Ltd
+CN1
+TMS Shanghai Trading Ltd
+CN2
+Colombia
+
+Total Marketing Support Colombia S A S
+CO1
+Croatia
+
+Bilokalnik-IPA d.d.
+HR1
+DS Smith Belišće Croatia d.o.o.
+HR2
+DS Smith Unijapapir Croatia d.o.o.
+HR3
+Czech Republic
+
+DS Smith Packaging Czech Republic s.r.o.
+CZ1
+Denmark
+
+DS Smith Packaging Denmark A/S
+DK1
+Ecuador
+
+Total Marketing Support Ecuador TM-EC
+C.L.
+EC1
+Egypt
+
+TMS Egypt LLC
+EG1
+Estonia
+
+DS Smith Packaging Estonia AS
+EE1
+
+Notes
+Finland
+
+DS Smith Packaging Baltic Holding Oy
+FI1
+DS Smith Packaging Finland Oy
+FI1
+DS Smith Packaging Pakkausjaloste Oy
+FI2
+Eastpac Oy
+FI1
+France
+
+DS Smith France
+FR1
+DS Smith Hêtre Blanc
+FR2
+DS Smith Packaging Ales
+FR3
+DS Smith Packaging Anjou
+FR2
+DS Smith Packaging Atlantique
+FR2
+DS Smith Packaging Bretagne
+FR4
+DS Smith Packaging C.E.R.A.
+FR5
+DS Smith Packaging Consumer
+FR2
+DS Smith Packaging Contoire-Hamel
+FR6
+DS Smith Packaging Display and Services
+FR2
+DS Smith Packaging DPF
+FR7
+DS Smith Packaging Durtal
+FR8
+DS Smith Packaging Fegersheim
+FR9
+DS Smith Packaging France
+FR2
+DS Smith Packaging Kaypac
+FR10
+DS Smith Packaging Larousse
+FR11
+DS Smith Packaging Mehun-CIM
+FR12
+DS Smith Packaging Nord Est
+FR1
+DS Smith Packaging Premium
+FR13
+DS Smith Packaging Savoie
+FR14
+DS Smith Packaging Seine Normandie
+FR15
+DS Smith Packaging Sud Est
+FR16
+DS Smith Packaging Sud Ouest
+FR13
+DS Smith Packaging Systems
+FR17
+DS Smith Packaging Velin
+FR18
+DS Smith Packaging Vervins
+FR2
+DS Smith Paper Coullons
+FR19
+DS Smith Paper Kaysersberg
+FR20
+DS Smith Paper Rouen
+FR15
+DS Smith Recycling France
+FR21
+Rowlandson France
+FR1
+Tecnicarton France
+FR22
+Germany
+
+Bretschneider Verpackungen GmbH
+h, DE2
+Delta Packaging Services GmbH
+DE6
+DS Smith Packaging Arenshausen
+Mivepa GmbH
+DE3
+DS Smith Packaging Arnstadt GmbH
+DE1
+DS Smith Packaging Beteiligungen GmbH
+DE8
+DS Smith Packaging Deutschland Stiftung
+DE5
+DS Smith Packaging Deutschland Stiftung
+& Co KG
+DE8
+
+Notes
+DS Smith Paper Deutschland GmbH
+DE7
+DS Smith Recycling Deutschland GmbH
+DE4
+DS Smith Stange B.V. & Co. KG
+DE8
+DS Smith Transport Services GmbH
+DE7
+Greece
+
+DS Smith Cretan Hellas S.A.
+GR1
+DS Smith Hellas S.A.
+GR2
+Guatemala
+
+TMS Global Guatemala, Sociedad Anonima
+GT1
+Honduras
+
+Total Marketing Support Honduras, S.A.
+HN1
+Hungary
+
+DS Smith Packaging Hungary Kft.
+HU2
+Merpas Hungary Kft.
+HU1
+India
+
+The Less Packaging Company India
+Private Limited
+IN1
+Total Marketing Support India Private
+Limited
+IN2
+Indonesia
+
+PT Total Marketing Support Indonesia
+ID1
+Ireland
+
+DS Smith Ireland Treasury Designated
+Activity Company
+IR1
+DS Smith Recycling Ireland Limited
+IR2
+Italy
+
+DS Smith Holding Italia SpA
+IT3
+DS Smith Packaging Italia SpA
+IT3
+DS Smith Paper Italia Srl
+IT3
+DS Smith Recycling Italia Srl
+IT2
+Toscana Ondulati SpA
+IT1
+Japan
+
+Total Marketing Support Japan Ltd
+JP1
+Kazakhstan
+
+Total Marketing Support Kazakhstan L.L.P.
+KZ1
+Latvia
+
+SIA DS Smith Packaging Latvia
+LV1
+Lithuania
+
+UAB DS Smith Packaging Lithuania
+LT1
+Luxembourg
+
+DS Smith (Luxembourg) S.à r.l.
+LU1
+DS Smith Perch Luxembourg S.à r.l.
+LU1
+DS Smith Re S.A.
+LU1
+Malaysia
+
+Total Marketing Support (360) Malaysia
+Sdn. Bhd.
+MY1
+
+Annual Report 2024 dssmith.com
+201
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 204
+
+Notes to the consolidated financial statements continued
+202
+33. DS Smith Group companies continued
+
+Fully owned subsidiaries continued
+Notes
+Mexico
+
+Total Marketing Support 360 Mexico S.A de
+C.V
+MX1
+Morocco
+
+Tecnicartón Tánger S.a.r.l. AU
+MA1
+Netherlands
+
+David S. Smith (Netherlands) B.V.
+NL2
+DS Smith B.V.
+PSQ
+DS Smith Baars B.V.
+DE8
+DS Smith De Hoop Holding B.V.
+NL2
+DS Smith Finance B.V.
+NL2
+DS Smith Hellas Netherlands B.V.
+NL2
+DS Smith Italy B.V.
+PSQ
+DS Smith Packaging Almelo B.V.
+NL1
+DS Smith Packaging Barneveld B.V.
+NL3
+DS Smith Packaging Belita B.V.
+NL2
+DS Smith Packaging Holding B.V.
+NL2
+DS Smith Packaging International B.V.
+NL2
+DS Smith Packaging Netherlands B.V.
+NL2
+DS Smith Packaging Tilburg B.V.
+NL5
+DS Smith Recycling Benelux B.V.
+NL2
+DS Smith Recycling Holding B.V.
+NL2
+DS Smith Salm B.V.
+NL2
+DS Smith Toppositie B.V.
+NL2
+Nicaragua
+
+Total Marketing Support Nicaragua,
+Sociedad Anonima
+NI1
+Nigeria
+
+Total Marketing Support 360 Nigeria
+Limited
+NG1
+North Macedonia
+
+DS Smith AD Skopje
+f, MK1
+Pakistan
+
+TMS Pakistan (Private) Limited
+PK1
+Philippines
+
+Total Marketing Support Philippines, Inc
+PH1
+Poland
+
+DS Smith Packaging sp. Z o.o.
+PL1
+DS Smith Polska sp. Z o.o.
+PL1
+Portugal
+
+DS Smith Displays P&I, S.A.
+PT2
+DS Smith Energia Viana, S.A.
+PT6
+DS Smith Packaging Portugal, S.A.
+PT3
+DS Smith Paper Viana, S.A.
+PT6
+DS Smith Portugal, SGPS, S.A.
+PT6
+DS Smith Recycling Portugal, S.A.
+PT7
+Iberian Forest Fund – Fundo Especial de
+Investimento Imobiliario Florestal
+Fechado
+PT8
+Nova DS Smith Embalagem, S.A.
+PT5
+Tecnicartón Portugal Unipessoal Lda
+PT1
+
+Notes
+Romania
+
+DS Smith Packaging Ghimbav S.R.L.
+d, RO1
+DS Smith Packaging Romania S.R.L.
+RO3
+DS Smith Paper Zarnesti. S.R.L.
+b, RO2
+Serbia
+
+DS Smith Packaging Offset d.o.o. Valjevo
+RS3
+DS Smith Inos Papir Servis d.o.o.
+RS1
+DS Smith Packaging d.o.o. Kruševac
+RS2
+Papir Servis DP d.o.o. Kruševac
+RS2
+Slovakia
+
+DS Smith Packaging Slovakia s.r.o.
+SK1
+DS Smith Turpak Obaly a.s.
+e, SK2
+Slovenia
+
+DS Smith Slovenija d.o.o.
+SI1
+South Africa
+
+TMS 360 SA (PTY) Ltd
+ZA1
+Spain
+
+Bertako S.L.U.
+ES1
+DS Smith Andorra S.A.
+ES3
+DS Smith Business Services S.L.U.
+ES3
+DS Smith Packaging Cartogal S.A.
+ES9
+DS Smith Packaging Dicesa S.A.
+g, ES5
+DS Smith Packaging Galicia S.A.
+ES10
+DS Smith Packaging Holding S.L.U.
+ES3
+DS Smith Packaging Lucena, S.L.
+ES7
+DS Smith Packaging Madrid S.L.
+ES3
+DS Smith Packaging Penedes S.A.U.
+ES5
+DS Smith Recycling Spain S.A.
+ES2
+DS Smith Spain, S.A.
+ES4
+Tecnicartón, S.L.
+ES8
+Sweden
+
+DS Smith Packaging Sweden AB
+SE1
+DS Smith Packaging Sweden Holding AB
+SE1
+Switzerland
+
+DS Smith Packaging Switzerland AG
+CH1
+Turkey
+
+DS Smith Ambalaj A.Ş.
+TR1
+Total Marketing Support Turkey Baskı
+Yönetimi Hizmetleri A.Ş.
+TR2
+Ukraine
+
+Total Marketing Support Ukraine
+UA1
+United Arab Emirates
+
+Total Marketing Support Middle East
+DMCC
+AE1
+UK
+
+Abbey Corrugated Limited
+PSQ
+Ashton Corrugated
+PSQ
+Ashton Corrugated (Southern) Limited
+PSQ
+Avonbank Paper Disposal Limited
+PSQ
+Biber Paper Converting Limited
+PSQ
+Calara Holding Limited
+PSQ
+Conew Limited
+PSQ
+Corrugated Products Limited
+PSQ
+
+Notes
+David S. Smith Nominees Limited
+PSQ
+D.W. Plastics (UK) Limited (00495461) 1
+PSQ
+DS Smith (UK) Limited (00501594) 1
+PSQ
+DS Smith America (UK) LLP (0C428961) 1
+PSQ
+DS Smith Business Services Limited
+PSQ
+The DS Smith Charitable Foundation
+PSQ
+DS Smith Corrugated Packaging Limited
+PSQ
+DS Smith Display Holding Limited (00382678) 1
+PSQ
+DS Smith Dormant Five Limited
+PSQ
+DS Smith Euro Finance Limited (05987239) 1
+PSQ
+DS Smith Europe Limited
+PSQ
+DS Smith Finco Limited (06740135) 1
+a, PSQ
+DS Smith Haddox Limited
+PSQ
+DS Smith Holdings Limited (06739623) 1
+a, PSQ
+DS Smith International Limited (02636539) 1
+PSQ
+DS Smith Italy Limited (04424098) 1
+PSQ
+DS Smith Logistics Limited
+PSQ
+DS Smith Packaging Limited
+PSQ
+DS Smith Paper Limited
+PSQ
+DS Smith Pension Trustees Limited
+PSQ
+DS Smith Perch Limited (08150751) 1
+PSQ
+DS Smith Recycling UK Limited
+PSQ
+DS Smith Roma Limited
+PSQ
+DS Smith Sudbrook Limited (00518152) 1
+PSQ
+DS Smith Supplementary Life Cover
+Scheme Limited
+PSQ
+DS Smith Ukraine Limited (06352659) 1
+PSQ
+DSS Eastern Europe Limited
+PSQ
+DSS Poznan Limited
+PSQ
+DSSH No. 1 Limited (02873032) 1
+PSQ
+Grovehurst Energy Limited (02197516) 1
+PSQ
+JDS Holding
+PSQ
+Miljoint Limited
+PSQ
+Multigraphics Holdings Limited
+PSQ
+Multigraphics Limited
+PSQ
+Multigraphics Services Limited
+PSQ
+Priory Packaging Limited
+PSQ
+Reed & Smith Limited
+PSQ
+St. Regis International Limited (00328480) 1
+PSQ
+St. Regis Kemsley Limited
+PSQ
+St. Regis Paper Company Limited
+PSQ
+The Brand Compliance Company Limited
+PSQ
+The Less Packaging Company Limited
+(07023121) 1
+PSQ
+TheBannerPeople.Com Limited
+PSQ
+TMS Global UK Limited
+PSQ
+Total Marketing Support Global Limited
+PSQ
+Total Marketing Support Limited
+PSQ
+Treforest Mill plc
+PSQ
+United Shopper Marketing Limited
+PSQ
+W. Rowlandson & Company Limited (00133121) 1
+PSQ
+Waddington & Duval Limited
+PSQ
+
+202
+Contents
+
+## Page 205
+
+Annual Report 2024 dssmith.com 203
+33. DS Smith Group companies continued
+
+Fully owned subsidiaries continued
+Notes
+USA
+
+Carolina Graphic Services, LLC
+US1
+Cedarpak, LLC
+US3
+CEMT Holdings Group, LLC
+US4
+Corrugated Container Corporation
+US13
+Corrugated Container Corporation of
+Shenandoah Valley
+US14
+Corrugated Container Corporation of
+Tennessee
+US15
+Corrugated Supply, LLC
+US4
+Corrugated Supply, L.P.
+US4
+DS Smith Creative Solutions Inc.
+US16
+DS Smith Holdings, Inc.
+US3
+DS Smith Management Resources, Inc.
+US3
+DS Smith North America Recycling, LLC
+US3
+DS Smith North America Shared
+Services, LLC
+US3
+DS Smith Packaging-Holly Springs, LLC
+US18
+DS Smith Packaging-Lebanon, LLC
+US17
+DS Smith Packaging-Stream, LLC
+US3
+Evergreen Community Power, LLC
+US3
+Interstate Container Columbia, LLC
+US6
+Interstate Container New Castle, LLC
+US7
+Interstate Container Reading, LLC
+US8
+Interstate Corrpack, LLC
+US5
+Interstate Holding, Inc.
+US3
+Interstate Mechanical Packaging, LLC
+US6
+Interstate Paper, LLC
+US9
+Interstate Realty Hialeah, LLC
+US3
+Interstate Resources, Inc.
+US3
+Interstate Southern Packaging, LLC
+US10
+Newport Timber, LLC
+US9
+Phoenix Technology Holdings USA, Inc.
+US3
+RB Lumber Company, LLC
+US9
+RFC Container, LLC
+US4
+SouthCorr, L.L.C.
+US11
+St. George Timberland Holdings, Inc.
+US3
+TMS America, LLC
+US19
+United Corrstack, LLC
+US12
+Uruguay
+
+Total Marketing Support Uruguay S.A.
+UY1
+
+Associate entities
+Notes
+Netherlands
+
+Stort Doonweg B.V.
+i, NL4
+Portugal
+
+Companhia Termica Do Serrado A.c.e.
+l, PT4
+Spain
+
+Cartonajes Cantabria, S.L.
+k, ES6
+Cartonajes Santander, S.L.
+k, ES6
+Euskocarton, S.L.
+k, ES6
+Industria Cartonera Asturiana, S.A.
+k,ES11
+USA
+
+Philcorr LLC
+j, US2
+PhilCorr Vineland LLC
+j, US2
+
+Ownership interest at 30 April 2024
+
+a
+Directly held by DS Smith Plc
+
+b
+99.927% ownership interest
+
+c
+99.699% ownership interest
+
+d
+99.285% ownership interest
+
+e
+98.89% ownership interest
+
+f
+81.39% ownership interest
+
+g
+80% ownership interest
+
+h
+51% ownership interest
+
+i
+50% ownership interest
+
+j
+40% ownership interest
+
+k
+39.58% ownership interest
+
+l
+30% ownership interest
+
+1. Companies where DS Smith Plc has issued guarantees over the liabilities of the companies as at 30 April 2024 and for which the companies are taking the
+exemption from the requirements of an audit for their individual financial statements as permitted by section 479A of the Companies Act.
+Annual Report 2024 dssmith.com
+203
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 206
+
+Notes to the consolidated financial statements continued
+204
+33. DS Smith Group companies continued
+Registered offices
+
+PSQ
+Level 3, 1 Paddington Square, London, W2 1DL, United Kingdom
+AR1
+Avenida Eduardo Madero 1020, 5th floor, Office “B”, The City of Buenos
+Aires, Argentina
+AU1 Baker Mckenzie, Level 46, 100 Barangaroo Avenue, Sydney NSW 2000, Australia
+AT1
+Friedrichstraße 10, 1010, Wien, Austria
+AT2
+Heidestrasse 15, 2433 Margarethen am Moos, Austria
+BE1
+New Orleansstraat 100, 9000 Gent, Belgium
+BE2
+Leonardo da Vincilaan 2, Corporate Village – Gebouw Gent 1831
+Machelen-Diegem, Belgium
+BO1
+Santa Cruz de la Sierra – Calle Dr. Mariano Zambrana No 700 UV: S/N
+MZNO: S/N Zona: Oeste, Bolivia
+BA1
+ul. Igmanska bb, Sarajevo, Vogošća, Bosnia and Herzegovina
+BA2 Jovana Dučića br 25 A, Banja Luka, Bosnia and Herzegovina
+BR1
+Avenida Paulista no. 807, conjunto 810, Bela Vista, Cidade de Sao Paulo,
+Estado de Sao Paulo, CEP 01311-100, Brazil
+BG1
+Glavinitsa, 4400 Pazardzhik, Bulgaria
+CA1
+215-1673 Carling Avenue, Ottowa ON K2A 1C4, Canada
+CL1
+Santa Beatriz, 111. Of 1104. Providencia, Santiago de Chile, Chile
+CN1
+Room 308, No. 1, Building , 1588, Shenchang Road, , Minhang District,
+Shanghai, China
+CN2
+R919, 9/F, No. 1788 West Nan Jin Rd, Jing An District, Shanghai,
+200040, China
+CO1
+Carrera 12 89 33 Piso 6, Bogotá D.C., Colombia
+HR1 Dravska ulica 19, Koprivnica (Grad Koprivnica), Croatia
+HR2 Vijenac Salamona Henricha Gutmanna 30, Belišće, Croatia
+HR3 Lastovska ulica 5, Zagreb, Croatia
+CZ1
+Teplická 109, Martiněves, 405 02 Jílové , Czech Republic
+DK1
+Åstrupvej 30, 8500 Grenaa, Denmark
+EC1
+Bulgaria E7-70 (203), Diego de Almagro, Edificio Bulgaria PB, Quito,
+Ecuador
+EG1
+Nile City Towers, North Tower, 22nd Floor, Cornish EI Nil, Cairo, 11624, Egypt
+EE1
+Pae 24, 11415 Tallinn, Estonia
+FI1
+PL 426, 33101 Tampere, Finland
+FI2
+Virranniementie 3, 70420 Kuopio, Finland
+FR1
+11 route Industrielle, F-68320, Kunheim, France
+FR2
+1 Terrasse Bellini, 92800, Puteaux, France
+FR3
+345 Impasse de Saint-Alban Avenue de Croupillac, 30100 Ales, France
+FR4
+ZAC de Kevoasdoue, 29270, Carhaix, France
+FR5
+6-8 Boulevard Monge, 69330, Meyzieu, Lyon, France
+FR6
+570 Rue Nationale Contoire Hamel, 80500 Trois- Rivieres, France
+FR7
+350 Zone Artisanale des Trois Fontaines, 38140 Rives, France
+FR8
+550, Route de Bazouges, 49430 Durtal, France
+FR9
+146 Route de Lyon, 67640, Fegersheim, France
+FR10 Zone Industrielle, Voiveselles Croisette, 88800, B.P. 37, Vittel, France
+FR11 5 rue de la Deviniere, 45510 Tigy, France
+FR12 Route de Marmagne, 18500, Mehun sur Yevre, France
+FR13 Zone Industrielle de Châteaubernard, 16100, Cognac, France
+FR14 Avenue Robert Franck, 73110, La Rochette, France
+FR15 Rue Desire Granet, 76800 St. Etienne du Rouvray, France
+FR16 Zone Industrielle du Pré de la Barre, 38440, St-Jean de Bournay, France
+FR17 12 rue Gay Lussac ZI Dijon Chenove, 21300, Chenove, France
+FR18 Zone Industrielle de la Plaine, 88510 Eloyes, France
+FR19 la Fosse, 45720, Coullons, France
+FR20 77 Route de Lapoutroie, 68240, Kaysersberg, France
+FR21 2 Rue Paul Cezanne, 93360, Neuilly Plaisance, France
+FR22 27 Rue du Tennis, 25110, Baume les Dames, France
+DE1
+Bierweg 11, 99310 Arnstadt, Germany
+DE2
+Bretschneiderstr. 5, D-08309 Eibenstock, Germany
+DE3
+Miwepa 80, 37318 Arenshausen, Germany
+DE4 Kufsteiner Strasse 27, 83064 Raubling, Germany
+DE5
+Rollnerstrasse 14, D-90408 Nürnberg, Germany
+DE6
+Siemensstrasse 8, 50259 Pulheim, Germany
+DE7
+Weichertstrasse 7, D-63741 Aschaffenburg, Germany
+DE8 Zum Fliegerhorst 1312 – 1318, 63526 Erlensee, Germany
+GR1
+PO Box 90, GR-72200 Ierapetra, Kriti, Greece
+GR2
+PO Box 1010, 57022 Sindos Industrial Area, Thessaloniki, Greece
+GT1
+15 Calle 1-04 Zona 10, Centrica Plaza, Torre I, Oficina 301, Guatemala,
+01010, Guatemala
+HN1 Avenida La Paz, No. 2702, Tegucigalpa, M.D.C., PO Box 2735, Honduras
+HU1 Váci út 1-3., “A” Tower, 6th floor, 1062 Budapest, Hungary
+HU2 Záhony u. 7, HU-1031 Budapest, Hungary
+IN1
+A-5/30, Basement, Behind Oriental Bank of Commerce, Paschim Vihar,
+New Delhi, 110063 , India
+IN2
+G-56 Green Park (main), New Delhi – 110016, India
+ID1
+Tempo Scan Tower Lantai 32, Jalan H.r. Rasuna Said Kav 3-4, Kel. Kuningan
+Timur, Kec.Setiabudi, Kota Adm. Jakarta Selatan, Prov. DKI Jakarta, Indonesia
+IR1
+10 Ely Place, Dublin 2, D02 HR98, Ireland
+IR2
+3 Dublin Landings, North Wall Quay, Dublin 1, DO1 C4E, Ireland
+IT1
+Capannori (Lu) Via del Fanuccio, 126 Cap, 55014 Frazione Marlia, Italy
+IT2
+Strada Lanzo 237, cap 10148, Torino (TO), Italy
+IT3
+Via Torri Bianche, n. 24, 20871 Vimercate (MB), Italy
+JP1
+Nihonbashi 3 Chome Square 11F, 3-9-1 Nihonbashi, Chuo-ku, Tokyo,
+Japan
+KZ1
+Abay Ave. 52, 8 floor, 802-6 office “Innova Tower” BC, 050008,
+Almaty, Kazakhstan
+LV1
+Hospitāļu iela 23-102, Rīga LV-1013, Latvia
+LT1
+Savanoriu ave. 183, 02300 Vilnius, Lithuania
+LU1
+8-10 Avenue de la Gare, L-1610 Luxembourg
+MY1 Unit C-12-4, Level 12, Block C, Megan Avenue II, No. 12 Jalan Yap Kwan
+Seng, 50450 Kuala Lumpur, Wilayah Persekutuan, Malaysia
+MX1 Calle Rio Mississippi 49, Piso 10, Oficina 1002-08, Colonia Cuauhtémoc,
+Alcaldía Cuauhtémoc, Ciudad de Mexico, Codigo Postal 06500, Mexico
+MA1 Tanger, Zone Franche d’Exportation, Ilot 11, Lot 5, Morocco
+NL1
+Bedrijvenpark Twente 90, NL-7602 KD Almelo, Netherlands
+NL2
+Coldenhovenseweg 130, 6961 EH, Eerbeek, Netherlands
+NL3
+Hermesweg 2, 3771 ND, Barneveld, Netherlands
+NL4 Kanaalweg 8 A, 6961 LW, Eerbeek, Netherlands
+NL5
+Wegastraat 2, 5015 BS, Tilburg, Netherlands
+NI1
+Car Building, 3rd Floor, Highway to Masaya, Managua, Nicaragua
+NG1 3, Ijora – Causeway, Ijora, Lagos, Nigeria
+MK1 Str. 1632 no. 1, Skopje 1000, North Macedonia
+PK1
+668, Main Double Road, E-11/3, NPF Islamabad islamabad , Islamabad
+Capital Territory (I.C.T.), Pakistan
+PH1
+24/F Philam Life Tower, 8767 Paseo de Roxas Avenue, Bel-Air, City of
+Makati, Fourth District, NCR, 1226, Philippines
+PL1
+Komitetu Obrony Robotników 45D, 02-146 Warsaw, Poland
+
+204
+Contents
+
+## Page 207
+
+Annual Report 2024 dssmith.com 205
+33. DS Smith Group companies continued
+Registered offices continued
+
+PT1
+Águeda (Aveiro), Raso de Paredes 3754-209, Portugal
+PT2
+Edifício Opção Actual, Parque Industrial de Oliveirinha, 3430-414 Carregal
+do Sal, Portugal
+PT3
+Rua Mestra Cecília do Simão, n.º 378 , 3885-593 Gondesende-Esmoriz,
+Portugal
+PT4
+Lugar do Espido, Via Norte, Distrito: Porto Concelho: Maia Freguesia:
+Cidade da Maia, 4470 177 MAIA, Portugal
+PT5
+Rua do Monte Grande, n. o3,, 4485-255 Guilhabreu, Portugal
+PT6
+Estrada 23 de Fevereiro, 372, 4905-261, Deocriste, Portugal
+PT7
+Rua Pedro Jose Ferreira, 329/335, 4420-612, Gondomar, Portugal
+PT8
+Rua Doutor António Cândido, n.º 10, 4º andar, 1050-076 Lisboa, Portugal
+RO1
+Oraş Ghimbav, Strada FĂGĂRAŞULUI, Nr. 6, Brasov County, Romania
+RO2 No. 18, 13 Decembrie Street, Zarnesti, Brasov County, Romania
+RO3 Calea Torontalului, DN6 kM. 7, Timisoara, Romania
+RS1
+Milorada Jovanovića 14, Beograd, Serbia
+RS2
+Balkanska 72, 37000 Kruševac, Serbia
+RS3
+Popučke bb, Valjevo, Serbia
+SK1
+Námestie baníkov 8/31, 048 01 Roznava, Slovakia
+SK2
+Robotnícka 1, Martin, 036 80, Slovakia
+SI1
+Cesta prvih borcev 51, 8280 Brestanica, Slovenia
+ZA1
+Central Office Park No 4, 257 Jean Avenue, Centurion, Gauteng,
+0157, South Africa
+ES1
+Polígono Industrial Areta nº 1, parcela 348, calle Altzutzate, nº 46, 31620
+Huarte, Navarra, Spain
+ES2
+Avenida el Norte de Castilla, 20, 47008 Valladolid (Valladolid), Spain
+ES3
+Avd. Del Sol 13, Torrejón de Ardoz, 28850 – Madrid, Spain
+ES4
+Carretera A-62, Burgos a Portugal, 34210, Duenas (Palencia), Spain
+ES5
+Carretera B.P. 2151 confluencia carretera C15, Sant Pere de Riudevitlles,
+08776, Barcelona, Spain
+ES6
+Poligono Industrial Heras, 239-242, 39792, Medio Cudeyo, Spain
+ES7
+Carretera Nacional 331 (Carretera de Malaga), Km.66,28, 14900, Lucena
+(Cordoba), Spain
+ES8
+Parque Industrial Juan Carlos I, C/ Canal Crespo, 13 Almussafes 46440
+(Valencia), Spain
+ES9
+Polígono Industrial A Tomada, parcela 28-33, A Pobra do Caramiñal , 15949
+A Coruña, Spain
+ES10 Polígono Industrial O Pousadoiro 4, Parcela 1, 36617 Vilagarcía de Arousa,
+Pontevedra (Galicia), Spain
+ES11 Poligono Industrial San Claudio, 33191, Oviedo, Spain
+SE1
+Box 504, 331 25 Varnamo, Sweden
+CH1
+Industriestrasse 13, 4665 Oftringen, Switzerland
+TR1
+Araptepe Selimpaşa Mah. 5007. Sk. No. 4 Silivri, Istanbul, Turkey
+TR2
+Goztepe Merdivenkoy Mah. Bora Sk. No.1 Nida Kule Is Merkezi, Kat 7,
+Kadikoy, Istanbul, 34732, Turkey
+UA1 4-5 Floors, 25B,Sagaydachnogo str., Kiev, 04070, Ukraine
+AE1
+Unit No: I5-PF-39, Detached Retail I5, Plot No: JLT-PH1-RET-I5,
+Jumeirah Lakes Towers, Dubai, United Arab Emirates
+US1
+4328 Federal Drive, STE 105, Greensboro, NC 27410, United States
+US2
+2317 Almond Road, Vineland, NJ 08360, United States
+US3
+600 Peachtree Street , Suite 4200, Atlanta GA 30308, United States
+US4 2066 South East Avenue, Vineland, NJ 08360, United States
+US5
+903 Woods Road, Cambridge, MD 21613, United States
+US6 128 Crews Drive, Columbia, SC 29210, United States
+US7
+792 Commerce Avenue, New Castle, PA 16101, United States
+US8 100 Grace Street, Reading, PA 19611, United States
+US9 2366 Interstate Paper Road, Riceboro, GA 31323, United States
+US10 120 T Elmer Cox Road Greeneville, TN 37743, United States
+US11 3021 Taylor Drive, Asheboro, NC 27203, United States
+US12 720 Laurel Street, Reading PA 19602, United States
+US13 6405 Commonwealth Drive SW, Roanoke, Virginia, 24018, United States
+US14 100 Development Ln., Winchester VA 22602, United States
+US15 128 Corrugated Ln, Piney Flats TN 37686, United States
+US16 70 Outwater Ln., Floor 4, Garfield, NJ 07026, United States
+US17 800 Edwards Drive, Lebanon IN 46052, United States
+US18 301 Thomas Mill Road, Holly Springs NC 27540, United States
+US19 2 Mid America Plaza, Suite 110, Oakbrook Terrace IL 60181, United States
+UY1
+Plaza Independencia 811 PB, Montevideo, Uruguay
+34. Subsequent events
+In November 2018, the Group signed a £1.4 billion five-year committed syndicated revolving credit facility with its core banks. The second
+extension option was exercised in November 2020. A further extension was agreed in June 2024, such that the new facility of £1.25 billion
+matures in May 2027.
+On 19 June 2024, the Group signed a 5 year €200m loan facility with Bayerische LB, Commerzbank, IKB Deutsche Industriebank Ag and
+Unicredit Bank.
+
+Annual Report 2024 dssmith.com
+205
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 208
+
+Parent Company statement
+of financial position
+At 30 April 2024
+206
+
+Note
+2024
+£m
+2023
+£m
+Assets
+
+Non-current assets
+
+Intangible assets
+3
+48
+44
+Property, plant and equipment and right-of-use assets
+4
+25
+27
+Investments in subsidiaries
+5
+4,920
+4,645
+Deferred tax assets
+10
+28
+9
+Other receivables
+6
+7,375
+6,115
+Derivative financial instruments
+12
+72
+154
+Employee benefits
+13
+14
+5
+Total non-current assets
+
+12,482
+10,999
+Current assets
+
+Trade and other receivables
+6
+341
+318
+Cash and cash equivalents
+7
+61
+1
+Derivative financial instruments
+12
+116
+156
+Total current assets
+
+518
+475
+Total assets
+
+13,000
+11,474
+Liabilities
+
+Non-current liabilities
+
+Borrowings
+9
+(2,033)
+(1,739)
+Other payables
+8
+(62)
+(21)
+Lease liabilities
+11
+(13)
+(12)
+Provisions
+
+–
+(3)
+Derivative financial instruments
+12
+(71)
+(49)
+Total non-current liabilities
+
+(2,179)
+(1,824)
+Current liabilities
+
+Borrowings
+9
+(477)
+(80)
+Trade and other payables
+8
+(6,563)
+(5,499)
+Income tax liabilities
+
+–
+(2)
+Lease liabilities
+11
+(2)
+(2)
+Derivative financial instruments
+12
+(122)
+(319)
+Total current liabilities
+
+(7,164)
+(5,902)
+Total liabilities
+
+(9,343)
+(7,726)
+Net assets
+
+3,657
+3,748
+
+Equity
+
+Issued capital
+14
+138
+138
+Share premium account
+14
+2,258
+2,251
+Reserves
+14
+1,261
+1,359
+Shareholders’ equity
+
+3,657
+3,748
+The Company made a profit for the year of £262m (2022/23: profit of £17m including the recognition of intra-group dividends).
+Approved by the Board of Directors of DS Smith Plc (company registered number 1377658) on 20 June 2024 and signed on its behalf by:
+M W Roberts
+
+R Pike
+Director
+
+Director
+The accompanying notes are an integral part of these financial statements.
+206
+Contents
+
+## Page 209
+
+Parent Company statement
+of changes in equity
+At 30 April 2024
+
+Annual Report 2024 dssmith.com 207
+
+Share
+capital
+£m
+Share
+premium
+£m
+Hedging
+reserve
+£m
+Own
+shares
+£m
+Merger relief
+reserve
+£m
+Retained
+earnings
+ £m
+Total
+equity
+£m
+At 1 May 2022
+137
+2,248
+603
+(9)
+32
+1,500
+4,511
+Profit for the year
+–
+–
+–
+–
+–
+17
+17
+Actuarial loss on employee benefits
+–
+–
+–
+–
+–
+(1)
+(1)
+Cash flow hedges fair value changes
+–
+–
+(72)
+–
+–
+–
+(72)
+Reclassification from cash flow hedge reserve to
+income statement
+–
+–
+(573)
+–
+–
+–
+(573)
+Income tax on other comprehensive income
+–
+–
+146
+–
+–
+–
+146
+Total comprehensive (expense)/income
+–
+–
+(499)
+–
+–
+16
+(483)
+Issue of share capital
+1
+3
+–
+–
+–
+–
+4
+Employee share trust
+–
+–
+–
+(5)
+–
+(3)
+(8)
+Share-based payments (net of tax)
+–
+–
+–
+–
+–
+13
+13
+Dividends paid
+–
+–
+–
+–
+–
+(289)
+(289)
+Other changes in equity in the year
+1
+3
+–
+(5)
+–
+(279)
+(280)
+At 30 April 2023
+138
+2,251
+104
+(14)
+32
+1,237
+3,748
+Profit for the year
+–
+–
+–
+–
+–
+262
+262
+Actuarial loss on employee benefits
+–
+–
+–
+–
+–
+1
+1
+Income tax on other comprehensive income
+–
+–
+–
+–
+–
+(2)
+(2)
+Total comprehensive income
+–
+–
+–
+–
+–
+261
+261
+Issue of share capital
+–
+7
+–
+–
+–
+–
+7
+Employee share trust
+–
+–
+–
+5
+–
+(9)
+(4)
+Share-based payments (net of tax)
+–
+–
+–
+–
+–
+(4)
+(4)
+Dividends paid
+–
+–
+–
+–
+–
+(247)
+(247)
+Reclassification (Note 1 (j))
+–
+–
+(104)
+–
+–
+–
+(104)
+Other changes in equity in the year
+–
+7
+(104)
+5
+–
+(260)
+(352)
+At 30 April 2024
+138
+2,258
+–
+(9)
+32
+1,238
+3,657
+
+Annual Report 2024 dssmith.com
+207
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 210
+
+Notes to the parent Company
+financial statements
+208
+1. Material accounting policies
+(a) Basis of preparation
+These financial statements of DS Smith Plc (the ‘Company’) have been
+prepared on the going concern basis and in accordance with Financial
+Reporting Standard 101 Reduced Disclosure Framework (FRS 101) and
+the UK Companies Act.
+The accounts are prepared under the historical cost convention with
+the exception of certain financial instruments and employee benefit
+plans that are stated at their fair value and share-based payments that
+are stated at their grant date fair value.
+Under section 408 of the Companies Act 2006 the Company is exempt
+from the requirement to present its own income statement or
+statement of comprehensive income.
+In these financial statements, the Company has applied the
+exemptions available under FRS 101 in respect of the
+following disclosures:
+• statement of cash flows and related notes;
+• a comparative period reconciliation for share capital;
+• disclosures in respect of transactions with wholly-owned
+subsidiaries;
+• comparative period reconciliations for tangible fixed assets and
+intangible assets;
+• disclosures in respect of capital management;
+• the effects of new but not yet effective IFRSs; and
+• disclosures in respect of key management personnel.
+As the Group financial statements include the equivalent disclosures,
+the Company has also taken advantage of the exemptions under FRS
+101 available in respect of the following disclosures:
+• IAS 24 Related Party Disclosure in respect of transactions entered
+with wholly-owned subsidiaries;
+• IFRS 2 Share-based Payment in respect of Group settled
+share-based payments;
+• IFRS 13 Fair Value Measurement and the disclosures required by
+IFRS 7 Financial Instruments; and
+• IAS 12 Income Taxes in respect of recognising and disclosing
+information about deferred tax assets and liabilities related to Pillar
+Two income taxes.
+The following amended standards and interpretations were adopted
+by the Company during the year ending 30 April 2024. These amended
+standards and interpretations have not had a significant impact on the
+consolidated financial statements.
+• IFRS 17 Insurance Contracts;
+• IAS 12 Income Taxes – International Tax Reform – Pillar Two
+Model Rules;
+• Amendments to IAS 12 Income Taxes – Deferred Tax related to
+Assets and Liabilities arising from a Single Transaction;
+• Amendments to IAS 1 Presentation of Financial Statements and
+IFRS Practice Statement 2 Making Materiality Judgements –
+Disclosure of Accounting Policies; and
+• Amendments to IAS 8 Accounting Policy Changes in Accounting
+Estimates and Errors – Definition of Accounting Estimates.
+The accounting policies set out above have been applied consistently
+in all periods presented in these Company financial statements.
+The accounting policies have been applied consistently by all
+Group entities.
+(b) Foreign currencies
+The Company’s financial statements are presented in sterling, which is
+the Company’s functional currency and presentation currency.
+Monetary assets and liabilities denominated in foreign currencies are
+translated into sterling at the rates of exchange at the date of the
+transaction, and retranslated at the rate of exchange ruling at the
+balance sheet date. Exchange differences arising on translation are
+taken to the income statement.
+(c) Intangible assets
+Intangible assets are stated at cost less accumulated amortisation and
+impairment losses. Amortisation is charged to the income statement
+on a straight-line basis over the estimated useful lives of each item,
+which range between three and five years.
+(d) Property, plant and equipment
+Property, plant and equipment is stated at cost less accumulated
+depreciation and impairment losses. Depreciation is charged to the
+income statement on a straight-line basis over the estimated useful
+lives of each item of property, plant and equipment. Estimated useful
+lives of plant and equipment are between two and 30 years, and for
+leasehold improvements are over the period of the lease.
+
+208
+Contents
+
+## Page 211
+
+Annual Report 2024 dssmith.com 209
+1. Material accounting policies continued
+(e) Leases
+The Company recognises a right-of-use asset and a lease liability at
+the lease commencement date.
+The right-of-use asset is initially measured at cost, being the initial
+amount of the lease liability adjusted for any lease payments made at
+or before commencement date, plus any initial direct costs incurred
+and an estimate of end of lease dismantling or restoration costs,
+less any incentives received and related provisions.
+Lease liabilities are recorded at the present value of lease payments.
+The interest rate implicit in the lease is used to discount lease
+payments, or, if that rate cannot be determined, the Company’s
+incremental borrowing rate is used, being the rate that the Company
+would have to pay to borrow the funds necessary to obtain an asset of
+similar value in a similar economic environment with similar terms
+and conditions.
+Right-of-use assets are depreciated on a straight-line basis over the
+lease term, or the useful life if shorter.
+Interest is recognised on the lease liability, resulting in a higher
+finance cost in the earlier years of the lease term.
+Lease payments relating to low value assets or to short-term leases
+are recognised as an expense on a straight-line basis over the lease
+term. Short-term leases are those with 12 months or less duration.
+When the Company enters into a back-to-back lease arrangement
+on behalf of a subsidiary, corresponding lease receivables
+are recognised.
+(f) Investments in subsidiaries
+Investments in subsidiaries are valued at cost less provisions
+for impairment.
+Impairment testing is performed annually for investment in
+subsidiaries by comparing the carrying amount of each investment
+with the relevant subsidiary’s consolidated balance sheet. Where the
+net assets are lower than the investment value, a discounted cash
+flow is utilised to calculate the present value of the investment to
+confirm whether any impairment is required.
+(g) Deferred taxation
+Deferred tax is provided for using the balance sheet liability method,
+providing for temporary differences between the carrying amounts of
+assets and liabilities for financial reporting purposes and the amounts
+used for taxation purposes. The amount of deferred tax provided is
+based on the expected manner of realisation or settlement of the
+carrying amount of assets and liabilities, using tax rates enacted or
+substantively enacted at the reporting date.
+A deferred tax asset is recognised only to the extent that it is probable
+that future taxable profits will be available against which the asset can
+be utilised. Deferred tax assets are reduced to the extent that it is no
+longer probable that the related tax benefit will be realised.
+(h) Employee benefits
+(i) Defined benefit schemes
+The Company is the sponsoring employer for a UK funded,
+defined benefit scheme, the DS Smith Group Pension scheme
+(the ‘Group Scheme’).
+The Group has in place a stated policy for allocating the net
+defined benefit cost relating to the Group Scheme to participating
+Group entities.
+Accordingly, both the Company’s statement of financial position
+and income statement reflect the Company’s share of the net defined
+benefit liability and net defined benefit cost in respect of the Group
+Scheme, allocated per the stated policy. Actuarial gains and losses are
+recognised immediately in the statement of comprehensive income.
+(ii) Share-based payment transactions
+The Company operates an equity-settled, share-based compensation
+plan. The fair value of the employee services received in exchange for
+the grant of the options is recognised as an expense. The fair value of
+the options granted is measured using a stochastic model, taking into
+account the terms and conditions upon which the options were
+granted. The total amount to be expensed over the vesting period is
+determined by reference to the fair value of the options granted,
+excluding the impact of any non-market vesting conditions. Non-
+market vesting conditions are included in assumptions about the
+number of options that are expected to become exercisable.
+At each reporting date, the Company revises its estimate of
+the number of options that are expected to become exercisable.
+It recognises the impact of the revision of original estimates, if any,
+in the income statement, and a corresponding adjustment to equity.
+Where applicable, the fair value of employee services received by
+subsidiary undertakings within the Group in exchange
+for options granted by the Company is recognised as an expense in
+the financial statements of the subsidiary by means of a recharge from
+the Company.
+(i) Shares held by employee share trust
+The cost of shares held in the employee share trust is deducted
+from equity. All differences between the purchase price of the shares
+held to satisfy options granted and the proceeds received
+for the shares, whether on exercise or lapse, are charged
+to retained earnings.
+Annual Report 2024 dssmith.com
+209
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 212
+
+Notes to the parent Company financial statements continued
+210
+1. Material accounting policies continued
+(j) Financial instruments
+The Company uses derivative financial instruments, primarily currency
+and commodity swaps, to manage interest rate, currency and
+commodity risks associated with the Group’s underlying business
+activities and the financing of these activities. The Group has a policy
+not to, and does not, undertake any speculative activity in these
+instruments. Such derivative financial instruments are initially
+recognised at fair value on the date on which a derivative contract
+is entered into and are subsequently remeasured at fair value.
+Derivatives are carried as assets when the fair value is positive
+and as liabilities when the fair value is negative.
+Derivative financial instruments are accounted for as hedges when
+designated as hedges at the inception of the contract and when the
+financial instruments provide an effective hedge of the underlying
+risk. Any gains or losses arising from the hedging instruments are
+offset against the hedged items.
+For the purpose of hedge accounting, hedges are classified as cash
+flow hedges due to hedging exposure to variability in cash flows that
+is either attributable to a particular risk associated with a recognised
+asset or liability or a highly probable forecast transaction.
+The Company’s strategy for energy and carbon certificate costs is to
+hedge on a Group exposure basis by portfolio. On maturity of a hedged
+position, the resulting settlement is charged or credited in
+its entirety to subsidiaries based on their respective actual energy use.
+As a result, no benefits or costs are retained or absorbed by the
+Company. Derivative contracts with counterparties external to the
+Group are mirrored by agreements between the Company and its
+subsidiaries and recorded as derivatives in the financial statements.
+At each reporting date, the Company revises its estimate of
+the number of options that are expected to become exercisable.
+It recognises the impact of the revision of original estimates, if any,
+in the income statement, and a corresponding adjustment to equity.
+Where applicable, the fair value of employee services received by
+subsidiary undertakings within the Group in exchange
+for options granted by the Company is recognised as an expense in
+the financial statements of the subsidiary by means of a recharge from
+the Company.
+(k) Financial guarantee contracts
+Financial guarantee contracts are recorded at fair value on initial
+recognition and subsequently assessed for any changes in the
+risk of default which would result in an expense recorded in the
+income statement.
+(l) Dividend income
+Dividend income from subsidiary undertakings is recognised in the
+income statement when paid.
+(m) Accounting judgements and key sources of
+estimation uncertainty
+Employee benefits
+IAS 19 Employee Benefits requires the Company to make assumptions
+including, but not limited to, rates of inflation, discount rates and life
+expectancies. The use of different assumptions, in any of the above
+calculations, could have a material effect on the accounting values
+of the relevant statement of financial position assets and liabilities
+which could also result in a change to the cost of such liabilities
+as recognised in profit or loss over time. These assumptions are
+subject to periodic review. See note 25 of the Group’s accounts for
+additional information.
+
+210
+Contents
+
+## Page 213
+
+Annual Report 2024 dssmith.com 211
+2. Employee information
+The average number of employees employed by the Company during the year was 427 (2022/23: 381).
+
+2024
+£m
+2023
+ £m
+Wages and salaries
+46
+42
+Social security costs
+4
+5
+Pension costs
+3
+2
+Total
+53
+49
+Note 26 to the consolidated financial statements sets out the disclosure information required for the Company’s share-based payments.
+3. Intangible assets
+
+Software
+£m
+Other
+£m
+Carbon credits
+£m
+Under
+construction
+£m
+Total
+£m
+Cost
+
+At 1 May 2023
+82
+10
+17
+11
+120
+Additions
+–
+–
+25
+12
+37
+Disposals
+–
+–
+(25)
+–
+(25)
+Reclassifications
+4
+(1)
+–
+(3)
+–
+At 30 April 2024
+86
+9
+17
+20
+132
+
+Amortisation
+
+At 1 May 2023
+(73)
+(3)
+–
+–
+(76)
+Amortisation charge
+(5)
+(3)
+–
+–
+(8)
+At 30 April 2024
+(78)
+(6)
+–
+–
+(84)
+
+Carrying amount
+
+At 1 May 2023
+9
+7
+17
+11
+44
+At 30 April 2024
+8
+3
+17
+20
+48
+4. Property, plant and equipment and right-of-use assets
+
+Right-of-use
+assets
+£m
+Leasehold
+improvements
+£m
+Plant and
+equipment
+£m
+
+Under
+construction
+£m
+Total
+£m
+Cost
+
+At 1 May 2023
+15
+6
+4
+4
+29
+Additions
+–
+–
+–
+1
+1
+Reclassification
+–
+4
+(2)
+(2)
+–
+At 30 April 2024
+15
+10
+2
+3
+30
+
+Depreciation
+
+At 1 May 2023
+(1)
+–
+(1)
+–
+(2)
+Depreciation charge
+(2)
+(1)
+–
+–
+(3)
+At 30 April 2024
+(3)
+(1)
+(1)
+–
+(5)
+
+Carrying amount
+
+At 1 May 2023
+14
+6
+3
+4
+27
+At 30 April 2024
+12
+9
+1
+3
+25
+Right-of-use assets relate to land and buildings.
+
+Annual Report 2024 dssmith.com
+211
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 214
+
+Notes to the parent Company financial statements continued
+212
+5. Investments in subsidiaries
+
+Shares in Group
+undertakings
+£m
+At 1 May 2023
+4,645
+Additions
+275
+At 30 April 2024
+4,920
+The Company’s principal trading subsidiary undertakings at 30 April 2024 are shown in note 33 to the consolidated financial statements.
+Additions in the year ended 30 April 2024 are a result of intergroup restructuring transactions.
+6. Trade and other receivables
+
+2024
+2023
+
+Non-
+current
+£m
+Current
+£m
+Non-
+current
+£m
+Current
+£m
+Amounts owed by subsidiary undertakings
+7,375
+326
+6,115
+300
+Other receivables
+–
+1
+–
+1
+Prepayments and accrued income
+–
+14
+–
+17
+
+7,375
+341
+6,115
+318
+When measuring the potential impairment of receivables from subsidiary undertakings, forward-looking information based on assumptions for
+the future movement of different economic drivers is considered.
+7. Cash and cash equivalents
+
+ 2024
+£m
+2023
+£m
+Bank balances
+1
+1
+Short-term deposits
+60
+–
+
+61
+1
+8. Trade and other payables
+
+2024
+2023
+
+Non-
+current
+£m
+Current
+£m
+Non-
+current
+£m
+Current
+£m
+Trade payables
+–
+10
+–
+32
+Amounts owed to subsidiary undertakings
+62
+6,421
+21
+5,411
+Other tax and social security payables
+–
+14
+–
+12
+Non-trade payables, accruals and deferred income
+–
+118
+–
+44
+
+62
+6,563
+21
+5,499
+Amounts owed to subsidiaries are subject to interest at rates based on EURIBOR or, where applicable, forward-looking base rates and are
+repayable between 2025 and 2029.
+
+212
+Contents
+
+## Page 215
+
+Annual Report 2024 dssmith.com 213
+9. Borrowings
+
+2024
+2023
+
+Non-
+current
+£m
+Current
+£m
+Non-
+current
+£m
+Current
+£m
+Bank loans and overdrafts
+–
+83
+–
+72
+Medium-term notes and other fixed-term debt
+2,033
+394
+1,739
+8
+
+2,033
+477
+1,739
+80
+Disclosures in respect of the Group’s borrowings are provided in note 20 to the consolidated financial statements.
+10. Deferred tax assets and liabilities
+Analysis of movements in recognised deferred tax assets and liabilities during the year
+
+Property, plant and
+equipment and
+intangible assets
+Employee benefits
+including pensions
+Tax
+losses
+Derivative financial
+instruments
+Total
+
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+At beginning of the year
+13
+10
+5
+7
+19
+24
+(28)
+(174)
+9
+(133)
+Credit/(charge) for the year
+(3)
+3
+(2)
+(1)
+(2)
+(5)
+(6)
+–
+(13)
+(3)
+Recognised directly in equity
+–
+–
+(2)
+(1)
+–
+–
+34
+146
+32
+145
+At end of the year
+10
+13
+1
+5
+17
+19
+–
+(28)
+28
+9
+11. Lease liabilities
+The carrying amounts of lease liabilities and the movements during the year are as follows:
+
+ 2024
+£m
+2023
+£m
+Cost
+
+At beginning of the year
+14
+4
+Additions
+–
+11
+Accretion of interest
+1
+1
+Payments
+–
+(2)
+At end of the year
+15
+14
+
+Current
+2
+2
+Non-current
+13
+12
+
+15
+14
+Maturity of lease liabilities
+
+1 year
+or less
+£m
+1–2
+years
+£m
+2–5
+years
+£m
+More than
+5 years
+£m
+Total
+£m
+At 30 April 2023
+(2)
+(2)
+(5)
+(5)
+(14)
+At 30 April 2024
+(3)
+(2)
+(6)
+(4)
+(15)
+
+Annual Report 2024 dssmith.com
+213
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 216
+
+Notes to the parent Company financial statements continued
+214
+12. Derivative financial instruments
+The assets and liabilities of the Company at 30 April in respect of derivative financial instruments are as follows:
+
+Assets
+Liabilities
+Net
+
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+2024
+£m
+2023
+£m
+Derivatives held to:
+
+Manage the currency exposures on business activities, borrowings
+and net investments
+–
+–
+–
+–
+–
+–
+Derivative financial instruments included in net debt
+–
+–
+–
+–
+–
+–
+
+Derivatives held to hedge future transactions:
+
+Forward foreign exchange contracts
+–
+–
+–
+–
+–
+–
+Energy and carbon certificate costs
+188
+310
+(193)
+(368)
+(5)
+(58)
+Total derivative financial instruments
+188
+310
+(193)
+(368)
+(5)
+(58)
+
+Current
+116
+156
+(122)
+(319)
+(6)
+(163)
+Non-current
+72
+154
+(71)
+(49)
+1
+105
+
+188
+310
+(193)
+(368)
+(5)
+(58)
+Disclosures in respect of the Group’s derivative financial instruments are provided in note 21 to the consolidated financial statements.
+In the current year the cash flow hedge reserve balance has been classified as intergroup derivatives to reflect the hedging model more
+appropriately and commodity swaps are no longer recognised as eligible for cash flow hedge accounting. Movements on commodity swaps are
+recognised through income with equivalent offsetting movements on, as the case may be, derivative payables and receivables.
+13. Employee benefits
+The Company participates in the Group’s UK pension schemes. The accounting valuation is consistent with the Group valuation, as described in
+note 25 to the consolidated financial statements, where full disclosures relating to these schemes are given.
+
+2024
+£m
+2023
+ £m
+Present value of funded obligations
+(712)
+(767)
+Present value of unfunded obligations
+(5)
+(5)
+Fair value of scheme assets
+761
+791
+Total IAS 19 surplus, net
+44
+19
+Allocated to other participating employers
+(30)
+(14)
+Company’s share of IAS 19 surplus, net
+14
+5
+14. Share capital and reserves
+Details of the Company’s share capital and merger relief reserve are provided in note 24 to the consolidated financial statements. Movements in
+shareholders’ equity are shown in the parent Company statement of changes in equity.
+The closing merger relief reserve of £32m (30 April 2023: £32m) relates to the shares issued in consideration to the sellers of EcoPack/EcoPaper.
+The reserve for the Company’s own shares comprises the cost of the Company’s shares held by the Group. The Group operates a General
+Employee Benefit Trust, which acquires shares in the Company that can be used to satisfy the requirements of the Performance Share Plan.
+At 30 April 2024, the Trust held 2.8m shares (30 April 2023: 4.2m shares). The market value of the shares at 30 April 2024 was £9.7m
+(30 April 2023 : £13.0m). Dividends receivable on the shares owned by the Trust have been waived.
+As at 30 April 2024, the Company had distributable reserves of £1,229m (30 April 2023: £1,223m).
+
+214
+Contents
+
+## Page 217
+
+Annual Report 2024 dssmith.com 215
+15. Guarantees and contingent liabilities
+The Company has entered into financial guarantees to guarantee the indebtedness of other companies within the Group of £8.0m (30 April
+2023: £4.9m). The probability of default is remote and there was no change in the assessment of the risk of default during the year.
+The Company has also issued guarantees over the liabilities of a number of UK subsidiary companies as at 30 April 2024 and for which the
+companies are taking the exemption from the requirements of an audit for their individual financial statements as permitted by section 479A of
+the Companies Act. Refer to note 33 of the Group’s consolidated financial statements for further details.
+16. Related party disclosure
+The Company has identified the Directors of the Company, its key management personnel, and Group’s UK pension schemes as related parties.
+Details of the relevant relationships with these related parties are disclosed in the Remuneration Committee report and note 31 to the
+consolidated financial statements respectively.
+17. Auditor’s remuneration
+Auditor’s remuneration in respect of the Company is detailed in note 3 to the consolidated financial statements.
+
+Annual Report 2024 dssmith.com
+215
+Strategic Report
+Governance
+Financial Statements
+Contents
+
+## Page 218
+
+Five-year financial summary
+Unaudited
+216
+Continuing operations
+2020
+£m
+2021
+£m
+2022
+£m
+2023
+£m
+2024
+£m
+Revenue
+ 6,043
+5,976
+7,241
+8,221
+6,822
+Operating profit1
+ 660
+502
+616
+861
+701
+Amortisation
+ (143)
+(142)
+(138)
+(113)
+(98)
+Share of profit of equity-accounted investments
+before adjusting items, net of tax
+ 7
+5
+7
+2
+2
+Net financing costs before adjusting items
+ (87)
+(78)
+(70)
+(74)
+(103)
+Profit before taxation and adjusting items
+ 437
+287
+415
+676
+502
+Acquisitions and divestments
+ (4)
+(5)
+2
+(15)
+1
+Other adjusting items
+ (65)
+(51)
+(39)
+–
+–
+Profit before income tax
+ 368
+231
+378
+661
+503
+
+Adjusted earnings per share1
+ 33.2p
+24.2p
+30.7p
+43.0p
+33.1p
+Dividends per share
+n/a
+12.1p
+15.0p
+18.0p
+18.0p
+
+Return on sales2
+10.9%
+8.4%
+8.5%
+10.5%
+10.3%
+Adjusted return on average capital employed1,2,3
+10.6%
+8.2%
+10.8%
+14.3%
+10.7%
+1. Before amortisation and adjusting items.
+2. Adjusted return on average capital employed is defined as operating profit before amortisation and adjusting items divided by average capital employed.
+3. Average capital employed is the average monthly capital employed for the last 12 months. Capital employed is made up of property, plant and equipment, right-of-
+use assets, goodwill and intangible assets, working capital, capital debtors/creditors, provisions, biological assets and assets/liabilities held for sale. Assets and
+liabilities relating to discontinued operations are excluded. The definition of capital employed is different from the definition of managed capital as defined in note
+21 to the consolidated financial statements, which consists of equity as presented in the consolidated statement of financial position, plus net debt.
+216
+Contents
+
+## Page 219
+
+1.5°C-aligned
+The target set out in the Paris Agreement to limit global warming to 1.5°C by 2100 compared to pre-industrial
+levels to avoid the worst impacts of climate change
+AFR
+Accident Frequency Rate is the number of lost time accidents per million hours worked
+Circular Design Metrics
+A pioneering tool from DS Smith that rates and compares the circularity of packaging designs across eight
+indicators, giving a clear identification of a packaging design’s sustainability performance, and where to
+focus attention
+Circular Design Principles
+A set of principles, developed by DS Smith in collaboration with the Ellen MacArthur Foundation, which guide
+designers to develop more circular packaging solutions
+DEI
+Diversity, Equity and Inclusion
+ESG
+Environmental, Social and Governance
+ESG Databook
+A yearly publication to stakeholders, documenting non-financial performance in the previous and historic
+financial years
+FMCG
+Fast moving consumer goods
+GHG
+Greenhouse gas
+GOC
+Group Operating Committee
+HSES Committee
+Health, Safety, Environment and Sustainability Committee
+ISO
+International Standards Organisation
+LTA
+Lost Time Accident is an accident resulting in lost time of one shift or more
+LTI
+Lost Time Injury being an injury resulting in lost time of one shift or more
+Net Zero
+The state of reaching a balance between the amount of greenhouse gas produced and taken out of the
+atmosphere resulting in no net impact on the climate from greenhouse gas emissions to limit global
+temperature rise
+Net Zero Transition Plan
+A time-bound roadmap of decarbonisation activities to reach Net Zero, with defined targets and actions
+OTIF
+On-time, in full
+ROACE
+Return on average capital employed being earnings before interest, tax, amortisation and adjusting items as a
+percentage of average capital employed, including goodwill, over the prior 12-month period
+SBT (science-based target),
+SBTi (Science-Based
+Targets initiative)
+A carbon reduction target that reflects an emissions reduction in line with climate science, as promoted by the
+SBTi, an NGO which drives ambitious climate action in the private sector
+Scope 1 (direct) GHG
+emissions
+Greenhouse gas emissions arising from the combustion of fuels in assets owned by the Company (e.g.
+emissions from owned boilers, furnaces, vehicles, etc)
+Scope 2 (indirect)
+GHG emissions
+Greenhouse gas emissions arising from the generation of purchased electricity, heat, steam or cooling, which
+physically occur at the facility where the energy is generated
+Scope 3 (indirect)
+GHG emissions
+Greenhouse gas emissions arising in the value chain from all other sources as a consequence of our activities
+but from sources not owned by the Group
+TCFD
+Task Force on Climate-related Financial Disclosures being a framework developed to help public companies
+and other organisations disclose climate-related risks and opportunities
+TNFD
+Task Force on Nature-related Financial Disclosures being a nature-related risk-management and
+disclosure framework
+Glossary
+Annual Report 2024 dssmith.com
+217
+Contents
+
+## Page 220
+
+Registered office and advisers
+Secretary and
+Registered Oﬃce
+Iain Simm
+DS Smith Plc
+Level 3, 1 Paddington Square
+London W2 1DL
+Registered in England
+Company No: 01377658
+Auditor
+Ernst & Young
+1 More London Place
+London SE1 2AF
+Solicitor
+Slaughter and May
+One Bunhill Row
+London EC1Y 8YY
+Stockbroker
+Citigroup
+Citigroup Centre
+33 Canada Square
+Canary Wharf
+London E14 5LB
+J.P. Morgan Cazenove
+25 Bank Street
+Canary Wharf
+London E14 5JP
+Registrar
+Equiniti
+Aspect House
+Spencer Road
+Lancing
+West Sussex BN99 6DA
+Registrar
+Please contact the Registrar at the above right address to advise of a
+change of address or for any enquiries relating to dividend payments,
+lost share certiﬁcates or other share registration matters. The Registrar
+provides online facilities at www.shareview.co.uk. Once you have
+registered you will be able to access information on your DS Smith Plc
+shareholding, update your personal details and amend your dividend
+payment instructions online without having to call or write to
+the Registrar.
+Dividends
+Shareholders who wish to have their dividends paid directly into a bank
+or building society account should contact the Registrar. In addition,
+the Registrar is now able to pay dividends to over 90 different
+countries. This service enables the payment of your dividends directly
+into your bank account in your home currency. For international
+payments, a charge is deducted from each dividend payment to
+cover the costs involved. Please contact the Registrar to request
+further information.
+Share dealing services
+The Registrar oﬀers a real-time telephone and internet dealing
+service for the UK. Further details including terms and rates can be
+obtained by logging on to the website at www.shareview.co.uk/
+dealing or by calling 0345 603 7037. Lines are open between 8am
+and 4.30pm, UK time, Monday to Friday.
+Company website
+The Company’s website at www.dssmith.com contains the latest
+information for shareholders, including press releases and an updated
+ﬁnancial diary. Email alerts of the latest news, press releases and
+ﬁnancial reports about the Company may be obtained by registering
+for the email news alert service on the website.
+Share price information
+The latest price of the Company’s ordinary shares is available at
+www.londonstockexchange.com. DS Smith’s ticker symbol is SMDS.
+It≈is recommended that you consult your ﬁnancial adviser and verify
+information obtained before making any investment decision.
+Shareholder information
+Financial diary
+3 September 2024
+Annual General Meeting
+5 December 2024*
+Announcement of half-year results for the six
+months ended 31 October 2024
+19 June 2025*
+Announcement of full-year results for the
+year ended 30 April 2025
+
+* Provisional date
+Other information
+Information on how to manage your shareholdings can be found at
+https://help.shareview.co.uk. The pages at this web address provide
+answers to commonly asked questions regarding shareholder
+registration, links to downloadable forms and guidance notes. If your
+question is not answered by the information provided, you can send
+your enquiry via secure email from these pages. You will be asked
+to complete a structured form and to provide your shareholder
+reference, name and address. You will also need to provide your
+email address if this is how you would like to receive your response.
+Alternatively, you can telephone +44 (0)371 384 2197. Lines are open
+between 8.30am and 5.30pm, UK time, Monday to Friday. For call
+charges, please check with your provider as costs may vary.
+This report contains certain forward-looking statements with respect
+to the operations, performance and financial condition of the Group.
+By their nature, these statements involve uncertainty since future
+events and circumstances can cause results and developments to
+differ materially from those anticipated or may not be within our
+control. The forward-looking statements reflect knowledge and
+information available at the date of preparation of this report and
+DS Smith Plc undertakes no obligation to update these forward-looking
+statements. This report includes climate, nature, circular economy
+and sustainability-related disclosures, which remain under
+development and are subject to greater uncertainty than other
+disclosures, as relevant knowledge, models and methodologies are
+nascent and evolving, the disclosures are of a long-term nature and
+rely on third party information or other matters outside our control,
+there are challenges with current data availability and reliability and
+other factors, such as the developing policy and regulatory landscape,
+socio-political environment and market practice. As such, the
+disclosures included in this report may be amended and updated,
+as market practice and data quality and availability develop, and
+underlying uncertainties, assumptions and estimates change. These
+factors could also lead to actual achievements, results, performance
+or other future events or conditions differing from those stated,
+implied and/or reflected in any forward-looking statements or metrics
+included in our climate and sustainability disclosures. Nothing
+contained in this report should be construed as a profit forecast.
+Pages 1 to 83 consist of a Strategic Report and Directors’ Report
+(including the Directors’ Remuneration Report) that have been drawn
+up and presented in accordance with and in reliance upon applicable
+English company law. The liability of the Directors in connection with
+such reports shall be subject to the limitation and restrictions provided
+by, and shall be no greater than is required by, applicable English
+company law.
+This Annual Report is dedicated to the memory of Paul Coleman
+1982-2024
+218
+Contents
+
+## Page 221
+
+Printed in the UK by Principal Colour Ltd on
+Nautilus Superwhite, Revive 100% recycled
+offset andRevive 100% recycled silk.
+Both manufactured at a mill certified to
+both ISO 14001 and FSC® accredited.
+Principal Colour Ltd are certified to the
+ISO 14001 Environmental Management
+System and FSC® accredited.
+Consultancy and design by Black Sun Global
+www.blacksun-global.com
++44 (0) 20 7736 0011
+Contents
+
+## Page 222
+
+@dssmithgroup
+DS Smith
+DS Smith
+@dssmith.group
+DS Smith Plc
+Level 3
+1 Paddington Square
+London
+W2 1DL
+Telephone
++44 (0) 20 7756 1800
+Registered in England.
+Company number: 01377658
+Keep in touch
+@dssmithgroup
+Contents

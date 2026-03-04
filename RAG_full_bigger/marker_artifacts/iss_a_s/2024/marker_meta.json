@@ -1,0 +1,10 @@
+{
+  "company_name_full": "ISS A/S",
+  "slug": "iss_a_s",
+  "report_year_source": "2024",
+  "report_year_output_folder": "2024",
+  "pdf_path": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\cache\\iss_a_s\\2024\\report.pdf",
+  "extraction_method": "text_only_full",
+  "marker_md_source": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\iss_a_s\\2024\\iss_a_s_2024_report.md",
+  "marker_md_final": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\iss_a_s\\2024\\iss_a_s_2024_report.md"
+}

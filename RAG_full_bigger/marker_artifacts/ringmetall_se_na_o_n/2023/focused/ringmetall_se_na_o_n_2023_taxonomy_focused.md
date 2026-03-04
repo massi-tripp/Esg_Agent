@@ -1,0 +1,903 @@
+## Page 1
+
+# **RINGMETALL SE** | ANNUAL REPORT 2023 1
+
+## Page 2
+
+# **ANNUAL REPORT 2023**
+
+| TO THE SHAREHOLDERS                                           | 4   |
+|---------------------------------------------------------------|-----|
+| KEY FIGURES FOR THE GROUP                                     | 4   |
+| THE MANAGEMENT BOARD                                          | 5   |
+| LETTER FROM THE MANAGEMENT BOARD                              | 6   |
+| THE SUPERVISORY BOARD                                         | 8   |
+| REPORT OF THE SUPERVISORY BOARD                               | 9   |
+| RINGMETALL ON THE CAPITAL MARKET                              | 12  |
+| COMBINED MANAGEMENT REPORT FOR THE FINANCIAL YEAR 2023        | 16  |
+| THE RINGMETALL GROUP                                          | 16  |
+| COMPLIANCE AND SUSTAINABILITY REPORT                          | 28  |
+| ECONOMIC REPORT                                               | 39  |
+| OPPORTUNITY AND RISK REPORT                                   | 53  |
+| DEVELOPMENT OF RINGMETALL SE                                  | 65  |
+| FINANCIAL POSITION OF RINGMETALL SE                           | 67  |
+| FORECAST REPORT                                               | 68  |
+| FURTHER LEGAL INFORMATION                                     | 68  |
+| EU TAXONOMY (Appendix to the sustainability reporting)        | 72  |
+| CONSOLIDATED FINANCIAL STATEMENTS FOR THE FINANCIAL YEAR 2023 | 74  |
+| CONSOLIDATED BALANCE SHEET (ASSETS)                           | 74  |
+| CONSOLIDATED BALANCE SHEET (LIABILITIES)                      | 75  |
+| CONSOLIDATED INCOME STATEMENT                                 | 76  |
+| CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME                | 77  |
+| CONSOLIDATED CASH FLOW STATEMENT                              | 78  |
+| CONSOLIDATED STATEMENT OF CHANGES IN EQUITY                   | 79  |
+| GROUP NOTES FOR THE FINANCIAL YEAR 2023                       | 82  |
+| ANNUAL FINANCIAL STATEMENTS OF RINGMETALL SE                  | 155 |
+| BALANCE SHEET                                                 | 155 |
+| INCOME STATEMENT                                              | 157 |
+| NOTES FOR THE FINANCIAL YEAR 2023                             | 159 |
+| OTHER                                                         | 180 |
+| SOURCES                                                       | 180 |
+| LEGAL INFORMATION                                             | 182 |
+| IMPRINT                                                       | 182 |
+
+## Page 3
+
+Image /page/2/Picture/0 description: A man in a factory setting is working with a metal strip. He is wearing gloves and a dark t-shirt and jeans. The man is standing in front of a large metal coil, and there is a metal fence behind him. The factory has yellow and blue accents.
+
+## Page 4
+
+# <span id="page-3-0"></span>**TO THE SHAREHOLDERS**
+
+# <span id="page-3-1"></span>KEY FIGURES FOR THE GROUP
+
+| P&L KEY FIGURES          | 2023    | 2022    | 2021    | 2020    | 2019    |
+|--------------------------|---------|---------|---------|---------|---------|
+| EUR `000                 |         |         |         |         |         |
+| Revenues                 | 181,584 | 213,511 | 172,338 | 117,972 | 120,581 |
+| Total output             | 180,161 | 216,535 | 173,124 | 117,278 | 120,563 |
+| Gross profit             | 90,252  | 91,715  | 80,025  | 56,887  | 55,455  |
+| EBITDA                   | 19,156  | 28,300  | 26,620  | 12,180  | 10,029  |
+| EBIT                     | 11,289  | 21,283  | 20,177  | 5,987   | 4,969   |
+| Consolidated net profit  | 6,330   | 15,920  | 14,917  | 2,735   | 3,022   |
+| Earnings per share (EUR) | 0.20    | 0.52    | 0.50    | 0.08    | 0.09    |
+| Dividend per share (EUR) | 0.10    | 0.10    | 0.09    | 0.06    | 0.06    |
+
+| BALANCE SHEET KEY FIGURES |            |            |            |            |            |
+|---------------------------|------------|------------|------------|------------|------------|
+| EUR `000                  | 31.12.2023 | 31.12.2022 | 31.12.2021 | 31.12.2020 | 31.12.2019 |
+| Fixed assets              | 77,509     | 73,462     | 70,195     | 66,021     | 63,979     |
+| Current assets            | 53,178     | 56,775     | 52,130     | 35,392     | 34,004     |
+| Equity                    | 79,217     | 77,464     | 63,749     | 49,589     | 49,999     |
+| Equity ratio              | 60.0%      | 59.0%      | 51.5%      | 47.9%      | 50.0%      |
+| Liabilities               | 44,456     | 45,057     | 51,060     | 47,152     | 43,590     |
+| Balance sheet total       | 131,982    | 131,341    | 123,896    | 103,547    | 100,002    |
+
+#### **AVERAGE NUMBER OF EMPLOYEES PER YEAR (FTE)**
+
+Image /page/3/Figure/5 description: The image is a bar chart comparing values for the years 2019, 2020, 2021, 2022, and 2023. The bar for 2023 has a value of 867. The bar for 2022 has a value of 814. The bar for 2021 has a value of 748. The bar for 2020 has a value of 698. The bar for 2019 has a value of 685.
+
+## Page 5
+
+# <span id="page-4-0"></span>THE MANAGEMENT BOARD
+
+Image /page/4/Picture/1 description: A man in a suit and collared shirt is smiling at the camera. He has short brown hair and fair skin. He is wearing a dark blue suit jacket and a light blue collared shirt. The background is blurred, but it appears to be an office setting with windows.
+
+#### **Christoph Petri**
+
+Christoph Petri studied business administration at the University of Nuremberg and the University of Sydney and graduated in 2006 with a degree in business administration. He then began his career at a consulting and investment company in Munich focusing on medium-sized companies. In 2011, he was appointed to the Management Board of Ringmetall, where he is Spokesman of the Management Board and responsible for strategic investment management, finance, investor relations, sales and marketing.
+
+Image /page/4/Picture/4 description: A man with short gray hair is smiling and wearing a blue blazer over a white and blue checkered button-down shirt. He is standing in front of a blurred white background.
+
+#### **Konstantin Winterstein**
+
+Konstantin Winterstein studied at TU Darmstadt and TU Berlin, where he graduated in mechanical engineering in 1996. In 2004, he received an MBA from INSEAD Business School in Fontainebleau and Singapore. From 1997 to 2014, he held various positions at the BMW Group. He has been a member of the Ringmetall Management Board since 2014 and is responsible for operational investment management, HR, IT, technology and production.
+
+## Page 6
+
+# <span id="page-5-0"></span>LETTER FROM THE MANAGEMENT BOARD
+
+Dear shareholders,
+
+Dear customers and business partners,
+
+The last few years have presented us all with challenges and led to many upheavals. COVID-19, Russia's invasion of Ukraine, rising energy costs and a general rise in inflation and - in response to all of this - a significant increase in the interest rate environment last year. It is quite remarkable how amazingly resilient the global economy is proving to be in the face of this multitude of changes. Looking at Europe, Germany and some industries in particular, the effects of this challenging environment are evident in some cases though. All in all, however, the economy is proving to be robust.
+
+The 2023 financial year proved to be challenging for Ringmetall as well. Important customer industries for us, such as the chemical and pharmaceutical industries, clearly felt the economic headwind in the past fiscal year. For much of the year, we were therefore also confronted with declining demand for our products. However, following the above-average performance in 2022, we anticipated a weaker trend and initiated countermeasures in the form of cost-cutting measures and production adjustments at an early stage. Despite declines in revenues and earnings, we can therefore also look back on a robust and, given the circumstances, satisfactory company performance overall.
+
+Our Group revenue declined by 15.0 percent to EUR 181.6 million. The revenue growth from our very successful acquisitions of Protective Lining in the USA and Liner Factory and IDF in Germany was offset by a double-digit percentage fall in steel prices. However, the noticeably weakened economic environment was reflected in subdued demand from key customer industries, as mentioned above. The sale of our Group subsidiary HSM as of 30 June 2023, which also saw us part with our Industrial Handling business division, was also reflected in a lower revenue base in the second half of 2023. On a comparable basis, i.e. adjusted for HSM's share of revenue in the 2022 and 2023 financial years, the decline in revenue therefore amounted to just -12.1 percent.
+
+At EUR 19.2 million, our earnings before interest, taxes, depreciation and amortization (EBITDA) were 32.3 percent lower than in the previous year, which corresponds to an EBITDA margin of 10.6 percent in relation to total operating performance. In connection with the sale of HSM, there were one-off deconsolidation effects amounting to EUR -4.6 million. From a purely operational perspective, EBITDA therefore declined only slightly more than Group revenue, although we were confronted with a noticeable reduction in production capacity utilization. Not least because of the shortage of skilled workers, we made a conscious decision not to cut back on our core workforce despite a lower order volume. This is also because this is the only way we will be able to increase our production volume quickly enough when the economic environment improves again.
+
+After a record year in 2022, we therefore had to adjust to a much more difficult economic environment at record speed in 2023. Simultaneously, we made a conscious decision to sell our Group subsidiary HSM and thus become a pure packaging specialist. Due to the associated one-off effects, our corporate development appears less attractive at first glance. However, a closer look reveals that we have held up well in a difficult environment.
+
+At the same time, we are receiving the first positive signals from the market. Our business performance in the final weeks of the 2023 financial year and at the start of 2024 gives us reasons for hope for the current financial
+
+## Page 7
+
+year. At this point in time, we cannot rule out the possibility that this development is just a short-term countermovement. Nevertheless, we would like to include these positive signals in our outlook. Our guidance for 2024 therefore reflects both a pessimistic and an optimistic scenario in the form of wider forecast ranges. For the 2024 financial year, we therefore expect Group revenue of between EUR 170 million and EUR 195 million with EBITDA of between EUR 20 million and EUR 27 million. As the year progresses, we plan to make these forecasts more specific and thus reduce the ranges.
+
+In 2023, we further strengthened and internationalized Ringmetall through successful acquisitions. With the acquisition of Protective Lining in the USA, we have successfully entered the US market in the liner product segment, which represents another milestone in our company's history. And the market environment remains extremely attractive for further acquisitions. Against the backdrop of our continued solid financial position, we are therefore confident that we will be able to successfully exploit the opportunities that present themselves in 2024.
+
+We would like to take this opportunity to express our sincere thanks to our fantastic team of employees. Even in these difficult times, they have once again achieved great things with their outstanding commitment in the past financial year. We would also like to thank our company's shareholders and our business partners for their long-standing support. We wish you all the best, success and, above all, good health for 2024.
+
+Munich, April 2024
+
+With kind regards
+
+The Management Board of Ringmetall SE
+
+Chih At
+
+K. Oitete
+
+Christoph Petri Spokesman of the Management Board
+
+Konstantin Winterstein Member of the Management Board
+
+## Page 34
+
+# STAKEHOLDER MANAGEMENT
+
+Image /page/33/Figure/1 description: The image shows a diagram of stakeholders for Ringmetall. The stakeholders are arranged in a semi-circle around the Ringmetall logo. The stakeholders are: Employees, Investors, Customers, Suppliers, Politics, NGOs, and Media. The word STAKEHOLDER is written below the Ringmetall logo.
+
+Ringmetall communicates openly and transparently with its internal and external stakeholders and actively seeks regular exchanges with these target groups. Due to the size of the company, stakeholder groups have emerged in the past with whom current topics are discussed on a regular basis and those with whom contact is more case-specific. The exchange with employees, customers, suppliers, the media and the capital market takes place very regularly. At clearly defined intervals, company representatives discuss current company developments, answer questions and gather criticism and suggestions, from which concrete measures can then be taken to consistently develop Ringmetall further. In addition, the company is also in contact with representatives of non-profit organizations and politicians. Ringmetall continues to develop the exchange with its stakeholders in order to incorporate the expectations of the individual groups into the strategic development of the company in the future.
+
+## Page 35
+
+Image /page/34/Picture/0 description: The image shows a close-up of a pile of silver metal tubes. The tubes are bent and curved, and they are stacked on top of each other. The tubes are all the same size and shape, and they are all made of the same material. The image is well-lit, and the tubes are all in focus.
+
+## Page 36
+
+# NON-FINANCIAL STATEMENT
+
+As part of this combined management report, Ringmetall publishes a combined non-financial statement for Ringmetall SE and the Group in accordance with Sections 315b, 315c HGB in conjunction with Sections 289b to 289e HGB. The contents of the non-financial statement can be found in the entire combined management report in the sections "The Ringmetall Group - Business Model and Structure", "The Ringmetall Group - Competitive Strengths and Market Entry Barriers" and "Compliance and Sustainability Report" and here under "Non-financial statement". The marked contents in the section "The Ringmetall Group - Business model and structure" as well as the sections "The Ringmetall Group - Competitive strengths and market entry barriers" and "Compliance and sustainability report" including the annex to the EU taxonomy and the "Non-financial statement" were not part of the audit of the management report.
+
+#### **EU taxonomy**
+
+An important objective of the action plan for financing sustainable growth ("Sustainable Finance") as part of the European "Green Deal" is to redirect capital flows into sustainable investments. Against this backdrop, the EU Taxonomy Regulation (EU 2020/852) came into force in mid-2020. As a standardized and legally binding classification system, it is intended to determine which economic activities in the EU are considered taxonomy-compliant and therefore "environmentally sustainable" with regard to six environmental objectives defined by the regulation (climate change mitigation, adaptation to climate change, sustainable use and protection of water and marine resources, transition to a circular economy, pollution prevention and control, protection and restoration of biodiversity and ecosystems). Companies that have to prepare a non-financial statement are obliged to apply them. According to Article 8 of the Taxonomy Regulation, the taxonomy-compliant shares of environmentally sustainable economic activities in
+
+revenue, investments and operating expenses must be reported annually.
+
+For the 2023 financial year, information on the taxonomy conformity and capability of the environmental protection and climate change adaptation objectives must be provided; with regard to the other four environmental objectives, the assessment of taxonomy capability is sufficient. Revenues, capital expenditure (CapEx) and operating expenses (OpEx) are reported according to their respective target allocation.
+
+## **Analysis of the taxonomy capability**
+
+Both product areas of Ringmetall, closure systems and liners, protect both the products from the environment and the environment from the products. The list of potentially taxonomy-eligible activities was analyzed on the basis of economic activities. In the area of revenue and operating expenses, no revenue and expenses in accordance with the categories of the EU taxonomy could be identified.
+
+|                                       | Taxonomy<br>capable | Taxonomy<br>capable,<br>but not<br>taxonomy<br>compliant | Not<br>taxonomy<br>capable |
+|---------------------------------------|---------------------|----------------------------------------------------------|----------------------------|
+| Revenue                               | 0 %                 | 0 %                                                      | 100 %                      |
+| Capital<br>Expenditures<br>(CapEx)    | 12 %                | 1 %                                                      | 87 %                       |
+| Operational<br>Expenditures<br>(OpEx) | 0 %                 | 0 %                                                      | 100 %                      |
+
+#### **Revenue**
+
+Revenue amounted to EUR 181.6 million in 2023. The total forms the denominator under the EU Taxonomy Regulation. The sum of taxonomy-eligible revenue forms the numerator. No taxonomy-eligible revenue was identified for the past financial year.
+
+## Page 37
+
+In-depth analyses of individual sales are planned for subsequent years, particularly in the area of the environmental objective of the circular economy.
+
+#### **Capital expenditure (CapEx)**
+
+The denominator of investment expenditure is the sum of additions to Group property, plant and equipment, intangible assets and leases. Additions to the scope of consolidation are not taken into account. In total, the denominator for 2023 is investments amounting to EUR 6.8 million. The sum of the taxonomy-eligible capital expenditure results in the numerator. Ringmetall made investments in 2023 that belong to the groups 4.1 Power generation using photovoltaic technology, 6.3 Transportation by motorcycles, passenger cars and light commercial vehicles, 7.3 Installation, maintenance and repair of energy-efficient appliances. All investments other than those relating to 6.3 Transport by motorbikes, passenger cars and light commercial vehicles can contribute to climate protection.
+
+#### **Operating expenses (OpEx)**
+
+Operating expenses consist of expenses for building renovation measures, maintenance and repair of property, plant and equipment and short-term leasing obligations. The sum of these expenses is the denominator. In the numerator, the taxonomy-eligible costs are recognized.
+
+#### **Analysis of taxonomy conformity**
+
+Turnover and expenditure are only considered taxonomy-compliant if they make a significant contribution to the implementation of one or more environmental objectives and at the same time do not compromise any of the environmental objectives. The final step is to check whether the minimum level of protection can be met.
+
+*Economic activity 4.1 Power generation with photovoltaic technology*
+
+The planned photovoltaic system was installed at Nittel in 2023. The investment costs amounted to EUR 633 thousand. The system supports Nittel in expanding the use of climate-neutral energy resources.
+
+# *Economic activity 6.3 Transportation by motorcycles, passenger cars and light commercial vehicles*
+
+The Group prefers to lease taxonomy-compliant vehicles. Due to a lack of information regarding taxonomy compliance, the vehicles could not be identified as compliant.
+
+# *Economic activity 7.3 Installation, maintenance and repair of energy-efficient appliances*
+
+To improve energy management, a heat recovery system was installed at Nittel at an investment cost of EUR 205 thousand, which allows the waste heat from the machines to be used efficiently in the subsequent production process. No climate-damaging coolants or similar substances are used in the machine.
+
+#### **Minimum protection**
+
+The recommendations of the Platform on Sustainable Finance with regard to human rights, anti-corruption, fair competition and taxes are taken into account when assessing minimum protection. The minimum protection requirements are communicated internally through a separate Code of Conduct and externally through a Code of Conduct for Suppliers. In addition, the Ringmetall Group's whistleblower reporting system, to which internal and external persons can submit reports of potential violations, provides a further building block for compliance with the minimum protection requirements. Group-wide risk analyses and precautionary measures, e.g. recording working hours and training, are carried out at regular intervals.
+
+The corresponding tables are attached to the combined management report.
+
+## Page 38
+
+Image /page/37/Picture/0 description: A woman wearing a hairnet and gloves is leaning on a machine. She is wearing a blue shirt. The machine has a silver cylinder with a gold ring around the top.
+
+## Page 39
+
+# <span id="page-38-0"></span>ECONOMIC REPORT
+
+# OVERALL ECONOMIC SITUATION
+
+In its report on the economic situation in Germany in January 2024, the Federal Ministry for Economic Affairs and Climate Protection (BMWK) assumes that the phase of economic weakness will continue at the turn of the year 2023/24. After a price, seasonally and calendar-adjusted decline in gross domestic product (GDP) at the end of 2023, current early indicators do not yet point to a rapid economic recovery. According to the BMWK, the decline in GDP for 2023 as a whole was 0.3 percent. However, with a downward trend in inflation, rising real wages and a gradual recovery in the global economy, key negative factors for the German economy should ease over the course of this year and a recovery driven primarily by the domestic economy should set in. Incoming domestic orders have recently shown signs of stabilizing in key areas. However, weak foreign demand, particularly from the eurozone, continues to weigh on the economy. The economy is not expected to recover until later in the year, when there is a domestic economic upturn and exports pick up again.
+
+According to the International Monetary Fund (IMF), the global economic recovery from the COVID-19 pandemic, Russia's invasion of Ukraine and the cost of living crisis is proving surprisingly resilient, according to the World Economic Outlook of January 2024. Inflation is falling faster than expected from its peak in 2022, with the impact on employment and economic activity being lower than expected. This reflected favorable supply-side developments and central bank tightening, which had kept inflation expectations at a firm level. High interest rates to combat inflation and reduced fiscal support in light of high debt levels are likely to weigh on growth in 2024. Global growth is expected to be 3.1 percent in 2024 and 3.2 percent in 2025. However, the forecast for 2024/25 is below the historical (2000 – 2019) average of 3.8 percent, as the higher interest rate environment and lower government subsidies are weighing on economic activity and the underlying productivity growth is low. Inflation is falling faster than expected in most regions as supply-side problems and tight monetary policy have been overcome. Overall global inflation is expected to fall to 5.8 percent in 2024 and to 4.4 percent in 2025.
+
+In terms of sectors, companies in the chemical and pharmaceutical industries represent the largest end user group of the Ringmetall Group's products. In its World Chemistry Report of February 2024, the German Chemical Industry Association (VCI) described the global production trend for chemicals in December as stagnating. Positive impetus would come primarily from Asia. Production capacities are being expanded. In America and especially in Europe, the situation remained tense at the end of the year. The global production trend for pharmaceuticals has recently declined slightly, although it is still at a high level. Demand for pharmaceuticals remained stable. Global production of chemicals and pharmaceuticals increased by 2.3 percent in 2023, while it declined by 0.3 percent in Europe.
+
+## Page 40
+
+# BUSINESS PERFORMANCE OF THE GROUP
+
+The following analysis of the Ringmetall Group's business performance relates to the consolidated financial statements as at 31 December 2023, which were prepared in accordance with International Financial Reporting Standards (IFRS) as adopted by the European Union.
+
+#### **Business performance in 2023**
+
+The 2023 financial year proved to be challenging for the Ringmetall Group. For much of the year, the company was confronted with declining demand for our products due to the economic situation. Group revenue fell by 15.0 percent to EUR 181.6 million (2022: EUR 213.5 million). The revenue growth from the acquisitions of Protective Lining in the USA and IDF and Liner Factory in Germany was offset by a double-digit percentage decline in steel prices which is leading to a decline in sales at Ringmetall due to the dependence of sales prices on the price of steel. The weakened economic environment, particularly in the second half of 2023, was also reflected in subdued demand from key customer industries, especially the chemical industry. The sale of the Group subsidiary HSM as at 30 June 2023 was also reflected in a lower revenue base in the second half of 2023. There were also one-off deconsolidation effects of EUR -4.6 million in connection with the sale of HSM.
+
+Earnings before interest, taxes, depreciation and amortization (EBITDA) fell disproportionately by 32.3 percent to EUR 19.2 million
+
+(2022: EUR 28.3 million). The EBITDA margin in relation to total operating performance therefore fell to 10.6 percent after 13.1 percent in the previous year.
+
+#### **Comparison with forecast**
+
+On 7 February 2023, the company published its guidance for the full year 2023, in which it assumed Group revenue of between EUR 195 million and EUR 220 million with EBITDA of between EUR 22 million and EUR 28 million. As this guidance was published - as usual - on the basis of raw material prices and exchange rates as at 31 December of the previous year and excluding the effects of M&A transactions, the company published a new guidance on 30 June 2023 following the sale of the Group subsidiary HSM. This included the effects from the transactions of the year (the acquisition of Protective Lining, the acquisition of Liner Factory and the sale of HSM) as well as the effects from the change in the relevant raw material prices and exchange rates from the first half of the year and also reflected the current economic situation. Accordingly, the Management Board now forecasts Group revenue in the range of EUR 175 to 195 million with EBITDA in the range of EUR 13 to 18 million for the 2023 financial year.
+
+At EUR 181.6 million, Group revenue was in the lower half of the adjusted forecast range. At EUR 19.2 million, EBITDA was slightly above the adjusted forecast range.
+
+|               | Forecast from<br>07.02.2023 | Forecast from<br>30.06.2023 | Business performance<br>2023 |
+|---------------|-----------------------------|-----------------------------|------------------------------|
+| Group revenue | 195 - 220 Mio. EUR          | 175 - 195 Mio. EUR          | 181.6 Mio. EUR               |
+| Group EBITDA  | 22 - 28 Mio. EUR            | 13 - 18 Mio. EUR            | 19.2 Mio. EUR                |
+
+## Page 41
+
+#### **Development in the business divisions**
+
+At EUR 173.3 million, revenue in the Industrial Packaging division was down 12.1 percent on the previous year (2022: EUR 197.2 million). The growth in revenue from the acquisitions of Protective Lining on 6 January 2023 and Liner Factory on 1 June 2023 and the containment solutions business of IDF on 1 November 2023 in the Liner product area was offset by a significant decline in raw material prices, primarily steel prices. The weakened economic environment was also reflected in an organic decline in revenue in all product areas.
+
+Against the backdrop of consistent cost management, which included a significant reduction in temporary employment contracts, as well as a slightly positive earnings contribution from the acquired companies, EBITDA fell by 11.6 percent to EUR 26.8 million (2022: EUR 30.3 million). At 15.6 percent, the EBITDA margin in relation to total operating performance was slightly above the previous year's level (2022: 15.2 percent).
+
+The Industrial Packaging division's share of Group revenue amounted to 95.4 percent in 2023 (2022: 92.4 percent).
+
+The Industrial Handling segment was closed with the sale of the subsidiary HSM on 30 June 2023. Accordingly, segment revenue fell by 49.4 percent to EUR 8.3 million (2022: EUR 16.3 million).
+
+From a purely operational perspective, the division's sales performance in the first half of the year was also characterized by the challenging economic environment.
+
+EBITDA was similarly significantly lower at EUR 0.5 million (2022: EUR 1.1 million). The one-off deconsolidation effects of EUR -4.6 million arising in connection with the sale reduced earnings at Group level.
+
+The division's share of Group revenue amounted to 4.6 percent (2022: 7.6 percent).
+
+## Page 69
+
+by the Annual General Meeting. The rights and obligations arising from the shares are based on the statutory provisions, in particular Sections 12, 53a et seq., 118 et seq. and 186 of the German Stock Corporation Act (AktG). As at 31 December 2023, no shares were held in treasury. Each of the Management Board members holds more than 10 percent of the voting rights in the company.
+
+# **Restrictions affecting voting rights or the transfer of shares**
+
+The company is not entitled to any rights from treasury shares. In the cases of Section 136 of the German Stock Corporation Act, voting rights from the shares concerned are excluded by law.
+
+Statutory provisions and provisions of the Articles of Association on the appointment and dismissal of members of the Management Board and on amendments to the Articles of Association
+
+Members of the Management Board are appointed and dismissed on the basis of Sections 84 and 85 of the German Stock Corporation Act (AktG). In accordance with Section 84 of the German Stock Corporation Act, members of the Management Board are appointed by the Supervisory Board for a maximum term of five years. However, the Supervisory Board of Ringmetall SE has decided to limit the appointment of Management Board members to three years as a rule. Reappointment or extension of the term of office, in each case for a maximum of five years, is permitted.
+
+In accordance with Section 6 of the Articles of Association, the Management Board consists of one or more persons. The number of members is determined by the Supervisory Board. In accordance with Section 84 (2) of the German Stock Corporation Act, the Supervisory Board may appoint a member of the Management Board as Chairman. If a required member of the Management Board is missing, the member is appointed by the court in urgent cases in
+
+accordance with Section 85 (1) of the German Stock Corporation Act at the request of one of the parties involved. The Supervisory Board can revoke the appointment to the Management Board and the appointment as Chairman of the Management Board in accordance with Section 84 (3) of the German Stock Corporation Act if there is good cause.
+
+In accordance with Section 179 of the German Stock Corporation Act, the Articles of Association can only be amended by a resolution of the Annual General Meeting. Unless otherwise stipulated by mandatory legal provisions, resolutions of the Annual General Meeting - with the exception of elections - are passed with a simple majority of the votes cast and, if applicable, with a simple majority of the capital represented in accordance with Section 133 of the German Stock Corporation Act and Section 17 (1) of the Articles of Association. A majority of 75.0 percent of the share capital represented is required to change the purpose of the company in accordance with Section 179 (2) of the German Stock Corporation Act; the Articles of Association do not make use of the option of determining a larger capital majority for this purpose. Amendments to the Articles of Association that only affect the wording can be resolved by the Supervisory Board in accordance with Section 17 (2) of the Articles of Association. Amendments to the Articles of Association become effective upon entry in the commercial register in accordance with Section 181 (3) of the German Stock Corporation Act.
+
+# **Powers of the Management Board to issue or buy back shares**
+
+At the Annual General Meeting on June 14, 2019, the Executive Board was authorized until 31 May 2024 pursuant to Section 71 para. 1 no. 8 of the German Stock Corporation Act (AktG), with the approval of the Supervisory Board, to purchase treasury shares of up to a total of 10.0 percent of
+
+## Page 70
+
+the current share capital of EUR 29,069,040.00. The shares acquired in this way, together with treasury shares already held by the company or attributable to it in accordance with Sections 71 a et seq. of the German Stock Corporation Act, may at no time account for more than 10.0 percent of the share capital. The authorization may be exercised in whole or in part, in this case also several times, for one or more purposes. The authorization may not be used for trading in treasury shares.
+
+At the Annual General Meeting on 16 June 2021, the Management Board was authorized until 31 May 2026, with the approval of the Supervisory Board, to increase the share capital by up to EUR 5,813,800.00 by issuing new no-par value registered shares (ordinary shares) on one or more occasions, if necessary with the exclusion of subscription rights (Authorized Capital 2021/I).
+
+# **Significant agreements subject to a change of control**
+
+Ringmetall SE has not concluded any agreements in the 2023 financial year that contain provisions for the event of a change of control, as could occur as a result of a takeover bid, among other things.
+
+# **Dependent company report pursuant to Section 312 AktG**
+
+The Management Board has prepared a dependent company report in accordance with Section 312 of the German Stock Corporation Act (AktG) and issued the following conclusion:
+
+" The Management Board of Ringmetall SE declares that the company, under the circumstances known to it at the time the legal transactions were carried out, the company received appropriate consideration for each legal transaction. No measures have been taken or omitted at the instigation of or in the interests of the controlling company or its affiliated companies."
+
+# **Responsibility statement of the legal representatives**
+
+To the best of our knowledge, and in accordance with the applicable reporting principles, the annual financial statements and consolidated financial statements give a true and fair view of the assets, liabilities, financial position and profit or loss of the company and the Group, and the combined management report includes a fair review of the development and performance of the business and the position of the company and the Group, together with a description of the principal opportunities and risks associated with the expected development of the company and the Group.
+
+Munich, 29 April 2024
+
+chist AK K. Vitate
+
+Christoph Petri
+
+Konstantin Winterstein
+
+**Spokesman of the Management Board**
+
+**Member of the Management Board**
+
+## Page 71
+
+# EU TAXONOMY (Appendix to the sustainability reporting)
+
+The following table shows the taxonomy compliant shares of environmentally sustainable economic activities in revenue, investments and operating expenses.
+
+#### **Revenue**
+
+<span id="page-70-0"></span>
+
+| Economic activities                                                                                          | Absolute revenue | Revenue share | Criteria for a significant contribution |                              |                            |                  |                         |                             | DNSH criteria ("Do not significantly harm") |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+|--------------------------------------------------------------------------------------------------------------|------------------|---------------|-----------------------------------------|------------------------------|----------------------------|------------------|-------------------------|-----------------------------|---------------------------------------------|------------------------------|----------------------------|------------------|-------------------------|-----------------------------|--------------------|------------------------------------------|-------------------------------------------------------------|
+|                                                                                                              | in EUR m         | in %          | Climate protection                      | Adaptation to climate change | Water and marine resources | Circular economy | Environmental pollution | Biodiversity and ecosystems | Climate protection                          | Adaptation to climate change | Water and marine resources | Circular economy | Environmental pollution | Biodiversity and ecosystems | Minimum protection | Taxonomy compliant revenue share in 2023 | Category: Enabling activity (E) / Transitional activity (T) |
+| A. Taxonomy compliant activities (taxonomy compliant)                                                        |                  |               |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| A.1 Ecologically sustainable activities (taxonomy compliant)                                                 | 0                | 0             |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| Revenue from environmentally sustainable activities (taxonomy compliant) (A.1)                               | 0                | 0             |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| A.2 Taxonomy eligable, but not environmentally sustainable activities (not taxonomy compliant activities)    |                  |               |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| Revenue from taxonomy eligable but not environmentally sustainable activities (not taxonomy compliant) (A.2) |                  |               |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| Total A.1 and A.2                                                                                            | 0                | 0             |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| B. Not taxonomy eligible activities                                                                          | 181.6            | 100.0         |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| Revenue from not taxonomy eligible activities                                                                | 181.6            | 100.0         |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+| Total A and B                                                                                                | 181.6            | 100.0         |                                         |                              |                            |                  |                         |                             |                                             |                              |                            |                  |                         |                             |                    |                                          |                                                             |
+
+## Page 72
+
+## **Capital Expenditures (CapEx)**
+
+|                                                                                                                |                      |                      | Criteria for a significant contribution |                              |                            |                  |                         |                             |                    | DNSH criteria ("Do not significantly harm") |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+|----------------------------------------------------------------------------------------------------------------|----------------------|----------------------|-----------------------------------------|------------------------------|----------------------------|------------------|-------------------------|-----------------------------|--------------------|---------------------------------------------|----------------------------|------------------|-------------------------|-----------------------------|--------------------|------------------------------------------|-------------------------------------------------------------|--|--|
+| Economic activities                                                                                            | Absolute investments | Share of investments | Climate protection                      | Adaptation to climate change | Water and marine resources | Circular economy | Environmental pollution | Biodiversity and ecosystems | Climate protection | Adaptation to climate change                | Water and marine resources | Circular economy | Environmental pollution | Biodiversity and ecosystems | Minimum protection | Taxonomy compliant revenue share in 2023 | Category: Enabling activity (E) / Transitional activity (T) |  |  |
+|                                                                                                                | in EUR m             | in %                 |                                         |                              |                            |                  |                         |                             |                    |                                             | Yes/No                     |                  |                         |                             | Yes/No             | in %                                     | E/T                                                         |  |  |
+| A. Taxonomy compliant activities (taxonomy compliant)                                                          |                      |                      |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| A.1 Ecologically sustainable activities (taxonomy compliant)                                                   |                      |                      |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| 4.1 Power generation with photovoltaic technology                                                              | 0.6                  | 8.8                  | 100.0                                   |                              |                            |                  |                         |                             | Yes                | Yes                                         | Yes                        | Yes              | Yes                     | Yes                         | Yes                | 8.8%                                     |                                                             |  |  |
+| 7.3 Installation, maintenance and repair of energy-efficient appliances                                        | 0.2                  | 2.9                  | 100.0                                   |                              |                            |                  |                         |                             | Yes                | Yes                                         | Yes                        | Yes              | Yes                     | Yes                         | Yes                | 2.9%                                     |                                                             |  |  |
+| Investments in environmentally sustainable Activities (taxonomy compliant) (A.1)                               | 0.8                  | 11.7                 | 100.0                                   |                              |                            |                  |                         |                             | Yes                | Yes                                         | Yes                        | Yes              | Yes                     | Yes                         | Yes                | 11.7%                                    |                                                             |  |  |
+| A.2 Taxonomy eligable, but not environmentally sustainable activities (not taxonomy compliant activities)      |                      |                      |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| 6.3 Transportation with motorcycles, passenger cars and light commercial vehicles                              | 0.1                  | 1.5                  |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| Investments in taxonomy eligable but not environmentally sustainable activities (not taxonomy compliant) (A.2) | 0.1                  | 1.5                  |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| Total A.1 and A.2                                                                                              | 0.9                  | 13.2                 | 100.0                                   |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| B. Not taxonomy eligible activities                                                                            | 5.9                  | 86.8                 |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| Investments in not taxonomy eligible activities                                                                | 5.9                  | 86.8                 |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+| Total A and B                                                                                                  | 6.8                  | 100.0                |                                         |                              |                            |                  |                         |                             |                    |                                             |                            |                  |                         |                             |                    |                                          |                                                             |  |  |
+
+## Page 73
+
+#### **Operational Expenditures (OpEx)**
+
+|                                                                                                                            |                               |                               | Criteria for a significant contribution |                                 |                               |                  |                         |                                | DNSH criteria ("Do not significantly harm") |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-----------------------------------------|---------------------------------|-------------------------------|------------------|-------------------------|--------------------------------|---------------------------------------------|---------------------------------|-------------------------------|------------------|-------------------------|--------------------------------|--------------------|---------------------------------------------|-------------------------------------------------------------------|--|
+| Economic activities                                                                                                        | Absolute<br>operating expense | Share of<br>operating expense | Climate protection                      | Adaptation to<br>climate change | Water and<br>marine resources | Circular economy | Environmental pollution | Biodiversity and<br>ecosystems | Climate protection                          | Adaptation to<br>climate change | Water and<br>marine resources | Circular economy | Environmental pollution | Biodiversity and<br>ecosystems | Minimum protection | Taxonomy compliant<br>revenue share in 2023 | Category:<br>Enabling activity (E) /<br>Transitional activity (T) |  |
+|                                                                                                                            | in EUR m                      | in %                          | in %                                    |                                 |                               |                  |                         |                                | Yes/No                                      |                                 |                               |                  |                         |                                | Yes/No             | in %                                        | E/T                                                               |  |
+| A. Taxonomy compliant activities (taxonomy compliant)                                                                      |                               |                               |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| A.1 Ecologically sustainable activities (taxonomy compliant)                                                               |                               |                               |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| Operation expense for environmentally sustainable activities<br>(taxonomy compliant) (A.1)                                 | 0                             | 0                             |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| A.2 Taxonomy eligable, but not environmentally sustainable<br>activities (not taxonomy compliant activities)               | 0                             | 0                             |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| Operational expense for taxonomy eligable but not environmentally<br>sustainable activities (not taxonomy compliant) (A.2) |                               |                               |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| Total A.1 and A.2                                                                                                          |                               |                               |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| B. Not taxonomy eligible activities                                                                                        | 2.9                           | 100.0                         |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| Operational expense for not taxonomy eligible activities                                                                   | 2.9                           | 100.0                         |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+| Total A and B                                                                                                              | 2.9                           | 100.0                         |                                         |                                 |                               |                  |                         |                                |                                             |                                 |                               |                  |                         |                                |                    |                                             |                                                                   |  |
+
+## Page 74
+
+# <span id="page-73-0"></span>**CONSOLIDATED FINANCIAL STATEMENTS FOR THE FINANCIAL YEAR 2023**
+
+# <span id="page-73-1"></span>CONSOLIDATED BALANCE SHEET (ASSETS)
+
+as of 31 December
+
+| ASSETS                        |       |            |            |
+|-------------------------------|-------|------------|------------|
+| EUR '000                      | Notes | 31.12.2023 | 31.12.2022 |
+| Intangible assets             | 15    | 6,075      | 3,707      |
+| Goodwill                      | 14 15 | 35,918     | 34,137     |
+| Property, plant and equipment | 16    | 35,141     | 35,332     |
+| Other non-current assets      | 17    | 375        | 286        |
+| Deferred tax assets           | 12    | 1,295      | 1,104      |
+| Total non-current assets      |       | 78,804     | 74,566     |
+| Inventories                   | 18    | 19,141     | 25,721     |
+| Trade receivables             | 19    | 23,473     | 21,282     |
+| Contract assets               | 20    | 326        | 354        |
+| Other current assets          | 21    | 3,266      | 1,068      |
+| Current tax receivables       | 21    | 188        | 231        |
+| Cash and cash equivalents     | 22    | 6,784      | 8,119      |
+| Total current assets          |       | 53,178     | 56,775     |
+| Total assets                  |       | 131,982    | 131,341    |
+
+## Page 75
+
+# <span id="page-74-0"></span>CONSOLIDATED BALANCE SHEET (LIABILITIES)
+
+as of 31 December
+
+| LIABILITIES                                                           |       |            |            |
+|-----------------------------------------------------------------------|-------|------------|------------|
+| EUR '000                                                              | Notes | 31.12.2023 | 31.12.2022 |
+| Subscribed capital                                                    | 23    | 29,069     | 29,069     |
+| Capital reserve                                                       | 23    | 16,664     | 16,664     |
+| Currency translation differences recognized outside<br>profit or loss | 23    | -460       | 470        |
+| Revaluation of severance payment obligations and others               | 24    | 164        | 173        |
+| Retained earnings                                                     |       | 32,936     | 30,024     |
+| Non-controlling interests                                             | 23    | 844        | 1,064      |
+| Total equity                                                          |       | 79,217     | 77,464     |
+| Provisions for post-employment benefits                               | 24    | 1,115      | 760        |
+| Other provisions                                                      |       | 63         | 172        |
+| Financial liabilities                                                 | 26    | 19,209     | 21,357     |
+| Deferred tax liabilities                                              | 12    | 2,285      | 2,262      |
+| Total non-current liabilities                                         |       | 22,672     | 24,551     |
+| Other provisions                                                      | 25    | 4,846      | 5,626      |
+| Current tax liabilities                                               |       | 1,465      | 1,816      |
+| Financial liabilities                                                 | 26    | 12,091     | 8,638      |
+| Trade payables                                                        | 27    | 9,305      | 10,713     |
+| Other liabilities                                                     | 27    | 2,386      | 2,533      |
+| Total current liabilities                                             |       | 30,093     | 29,326     |
+| Total liabilities                                                     |       | 52,765     | 53,877     |
+| Total equity and liabilities                                          |       | 131,982    | 131,341    |
+
+## Page 76
+
+# <span id="page-75-0"></span>CONSOLIDATED INCOME STATEMENT
+
+from 1 January to 31 December
+
+| EUR '000                                                                   | Notes | 2023    | 2022     |
+|----------------------------------------------------------------------------|-------|---------|----------|
+| Group revenue                                                              | 9     | 181,584 | 213,511  |
+| Change in inventories of finished goods and work in progress               | 18    | -1,423  | 3,024    |
+| Total output                                                               |       | 180,161 | 216,535  |
+| Other income                                                               | 9     | 1,105   | 2,626    |
+| Cost of materials                                                          | 10    | -89,909 | -124,820 |
+| Personnel expenses                                                         | 10    | -47,672 | -46,104  |
+| Other expenses                                                             | 10    | -24,128 | -19,530  |
+| Other taxes                                                                | 10    | -401    | -407     |
+| Earnings before interest, taxes, depreciation and amortization<br>(EBITDA) |       | 19,156  | 28,300   |
+| Depreciation and amortization                                              | 15 16 | -7,867  | -7,017   |
+| Earnings before interest and taxes (EBIT)                                  |       | 11,289  | 21,283   |
+| Financial income                                                           | 11    | 86      | 4        |
+| Financial expense                                                          | 11    | -1,767  | -733     |
+| Consolidated net income before taxes                                       |       | 9,608   | 20,554   |
+| Ertragsteueraufwand                                                        | 12    | -3,278  | -4,634   |
+| Consolidated net income for the year                                       |       | 6,330   | 15,920   |
+| Consolidated net income for the year attributable to:                      |       |         |          |
+| Shareholders of Ringmetall SE                                              | 13    | 5,820   | 15,225   |
+| Non-controlling interests                                                  | 13    | 510     | 695      |
+| Earnings per share                                                         |       |         |          |
+| Basic earnings per share (EUR)                                             | 13    | 0.20    | 0.52     |
+| Diluted earnings per share (EUR)                                           | 13    | 0.20    | 0.52     |
+
+## Page 77
+
+# <span id="page-76-0"></span>CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+from 1 January to 31 December
+
+| EUR `000                                                                                                | Notes  | 2023    | 2022   |
+|---------------------------------------------------------------------------------------------------------|--------|---------|--------|
+| Consolidated net income for the year                                                                    |        | 6,330   | 15,920 |
+| Items in other comprehensive income that could affect<br>expenses or income in the future:              |        |         |        |
+| Foreign business currency translation differences                                                       | 7, 23  | -978    | 949    |
+| Items of other comprehensive income that will not be recognized<br>as expenses or income in the future: |        |         |        |
+| Result from the revaluation of the severance payment obligations                                        | 24     | -8      | 140    |
+| Income tax attributable to components of other comprehensive<br>income                                  | 12     | -1      | -34    |
+| Other comprehensive income                                                                              |        | -987    | 1,055  |
+| Total comprehensive income                                                                              |        | 5,343   | 16,975 |
+| Total comprehensive income attributable to:                                                             |        |         |        |
+| Shareholders of Ringmetall SE                                                                           |        | 4,881   | 16,308 |
+| Non-controlling interests                                                                               |        | 462     | 667    |
+| EUR '000                                                                                                | Notes  | 2023    | 2022   |
+| Consolidated net income                                                                                 | 13     | 6,330   | 15,920 |
+| Depreciation of non-current assets                                                                      | 15, 16 | 7,867   | 7,017  |
+| Income tax expense and deferred taxes                                                                   | 12     | 3,278   | 4,634  |
+| Gain (-) on asset disposals                                                                             | 9      | -55     | -25    |
+| Net interest income                                                                                     | 11     | 1,681   | 729    |
+| Cash flow before interest, taxes and refinancing                                                        |        | 19,101  | 28,275 |
+| Increase (-)/decrease (+) in inventories and trade receivables                                          |        | 4,060   | 28     |
+| Increase (+)/decrease (-) in provisions                                                                 |        | -1,164  | -40    |
+| Increase (-)/decrease (+) in trade payables, other liabilities and accruals                             |        | 3,655   | -4,397 |
+| Assets acquired from company acquisitions                                                               |        | 8,834   | 6,268  |
+| Assets disposed in the sale of companies                                                                |        | -1,362  | -      |
+| Increase (+)/decrease (-) in the statement of financial position – non-cash                             |        | -6,836  | -6,783 |
+| Cash flow before interest and taxes                                                                     |        | 26,288  | 23,351 |
+| Income taxes paid                                                                                       |        | -4,154  | -4,912 |
+| Cash flow from operating activities                                                                     |        | 22,134  | 18,439 |
+| Inflows from the disposal of property, plant and equipment                                              |        | 201     | 179    |
+| Outflows for investments in property, plant and equipment                                               |        | -3,707  | -2,384 |
+| Outflows for investments in intangible assets                                                           |        | -253    | -258   |
+| Outflows for additions to the scope of consolidation in the previous year                               |        | -974    | -301   |
+| Outflows for additions to the scope of consolidation in the financial year                              |        | -13,857 | -4,519 |
+| Cash flow from investment activities                                                                    |        | -18,590 | -7,283 |
+| Inflows from borrowing financial loans                                                                  |        | 8,806   | 6,069  |
+| Outflows for the redemption of financial loans                                                          |        | -6,155  | -6,923 |
+| Payments from the redemption of leasing                                                                 |        | -2,526  | -2,710 |
+| Outflows to owners (dividend payment)                                                                   |        | -3,556  | -3,260 |
+| Interest paid *                                                                                         |        | -1,767  | -733   |
+| Interest received*                                                                                      |        | 86      | 4      |
+| Cash flow from financing activities                                                                     |        | -5,112  | -7,553 |
+| Change in cash and cash equivalents (sub-totals 1-3)                                                    |        | -1,568  | 3,603  |
+| Effect of exchange rates on cash                                                                        |        | -198    | -82    |
+| Changes in cash and cash equivalents due to changes in consolidation group                              |        | 431     | 25     |
+| Cash and cash equivalents at the beginning of the period                                                |        | 8,119   | 4,573  |
+| Cash and cash equivalents at end of period**                                                            |        | 6,784   | 8,119  |
+| Cash and cash equivalents                                                                               | 22     | 6,784   | 8,119  |
+| Current liabilities to banks                                                                            |        | 0       | 0      |
+| Cash and cash equivalents at end of period                                                              |        | 6,784   | 8,119  |
+
+## Page 78
+
+## <span id="page-77-0"></span>**CONSOLIDATED CASH FLOW STATEMENT**
+
+from 1 January to 31 December
+
+\* For better understanding, interest paid and received is shown under cash flow from financing activities and not under cash flow from operating activities. \*\* Of the cash and cash equivalents, an amount of EUR 386 thousand (2022: EUR 366 thousand) is attributable to non-controlling interests.
+
+## Page 145
+
+our auditor's report. We are independent of the group entities in accordance with the requirements of European law and German commercial and professional law, and we have fulfilled our other German professional responsibilities in accordance with these requirements.
+
+In addition, in accordance with Article 10 (2) letter (f) of the EU Audit Regulation, we declare that we have not provided non-audit services prohibited under Article 5 (1) of the EU Audit Regulation.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions on the consolidated financial statements and on the combined management report.
+
+# **KEY AUDIT MATTERS IN THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS**
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements for the financial year from January 1, 2023 to December 31, 2023 These matters were addressed in the context of our audit of the consolidated financial statements as a whole, and in forming our audit opinion thereon; we do not provide a separate audit opinion on these matters.
+
+We have identified the following matters as key audit matters to be disclosed in our auditor's report:
+
+- 1. Impairment of goodwill
+- 2. Presentation and disclosures relating to the acquisitions
+
+# **1. IMPAIRMENT OF GOODWILL**
+
+## **Matter**
+
+In caption "goodwill" of the consolidated financial statements Ringmetall SE discloses goodwill amounting to kEUR 35,918, which is 27.2% of total assets. Goodwill were allocated to cash-generating units.
+
+The company conducts an impairment test for each cash-generating units including goodwill annually on November 30 or in addition when triggering events for an impairment occur. The valuation is based on a model using the discounted cashflow method. For any book value of a cash-generating unit exceeding the carrying amount an impairment is recorded.
+
+Basis for the assessment of an impairment of goodwill are future cashflows that are derived from the detailed business plans for each company of the group as prepared by management. These business plans are based on assumptions over future market developments as well as revenue growth and cost trends.
+
+The impairment test for goodwill is complex and involves multiple estimates and judgements to be made by management, specifically regarding future cashflows, growth rate for the terminal value and the discount rate used. Based on the significance of the book value of goodwill for the consolidated financial statements of Ringmetall SE and the material uncertainties related to the valuation we identified a key audit matter.
+
+Ringmetall SE disclosed information relating to goodwill in Section 7.9 and in Sections 14 and 15 on of the notes to the consolidated financial statements.
+
+## Page 146
+
+#### **Auditor's Response and Observations**
+
+As part of our audit we assessed the appropriateness of key assumptions and parameters involving judgment. Together with our valuation specialists, we also assessed the appropriateness of the valuation model used for the impairment test of shares in affiliated companies.
+
+We obtained an understanding of the planning approach and planning process. We also obtained an understanding of the key assumptions made by management in the business plan. For the detailed planning phase we compared future cashflows to the business plans as approved by the supervisory board. Based on an analysis of deviations from budgets in the past and for the current year we assessed the accuracy of the company´s budgeting process. We retraced the underlying assumptions of the business plan and the growth rates used for cashflows beyond the detailed planning phase by comparing these to historical trends and current industry specific expectations.
+
+In addition, we questioned the discount rates used by comparing those to average capital cost of a peer group. Using an own valuation model, we conducted, together with our valuation specialists, an own estimate of the fair values of the shares in affiliated companies and compared those with the estimates made by management. Regarding the impact of possible changes in capital cost and growth rates used for the terminal value, we conducted an own sensitivity analysis of the estimated fair values.
+
+We concluded, that the impairment test for shares in affiliated companies as conducted by management and the related judgements and estimates can be retraced and that they are within an acceptable range of values.
+
+#### **2. PRESENTATION AND DISCLOSURES RELATING TO THE ACQUISITON**
+
+#### **Matter**
+
+Ringmetall SE made three corporate acquisitions in the 2023 financial year. As of January 6, 2023, the business operations as well as the production facilities and debts of Protective Lining Corp. (New York - USA) were acquired as part of an asset deal, as well as the workforce and existing production know-how.
+
+On June 1, 2023, the shares in SVD-Verpackungen GmbH and thus its manufacturing subsidiary Liner Factory GmbH & Co. KG (Ahaus) were taken over.
+
+As of November 1, 2023, the business operations as well as the customer base and selected assets of IDF GmbH & Co. KG (Ennepetal) were taken over as part of an asset deal.
+
+The sales were accounted for as a business combination in accordance with IFRS 3. The sales prices totaled kEUR 15,024 thousand. The identifiable assets acquired and liabilities assumed are recognized at fair value on the date of acquisition. Taking into account the fair values of the assets and liabilities as well as deferred taxes, there was an identifiable net asset of kEUR 8,834 thousand and thus a positive difference of EUR 6,190 thousand, which was recognized in the balance sheet as goodwill. The purchase price allocations are provisional according to IFRS 3.45.
+
+## Page 147
+
+Due to the overall material impact of the company acquisitions on the financial position of the Ringmetall Group as well as the scope for discretion in identifying and valuing the acquired assets and liabilities, these acquisitions represent a particularly important audit matter in our audit.
+
+The Ringmetall Group's information on company acquisitions is contained in Section 6 "Changes in the scope of consolidation/acquisition and sale of assets" of the notes to the consolidated financial statements.
+
+#### **Auditor's Response and Observations**
+
+As part of our audit of the accounting representation of company acquisitions, we viewed and understood the contractual agreements and reconciled the purchase prices with proof of payment. We have assessed whether the dates of the acquisitions were correctly taken into account in these consolidated financial statements.
+
+Through interviews with management, inspection of documents and on-site inspections, we verified that all acquired assets and debts had been identified and recognized. We also assessed the purchase price allocations prepared by an independent external expert. We also assessed the expertise, skills and objectivity of the experts as well as the suitability of their work. In addition, we have verified the completeness and accuracy of the notes required by IFRS 3.
+
+Overall we concluded, that the identification of assets and liabilities by management was appropriately conducted.
+
+#### **Other Information**
+
+The executive directors or the supervisory board are responsible for the other information. The other information comprises:
+
+- the separately published corporate governance statement pursuant to § 289f and § 315d of the German Commercial Code (HGB), which is referred to in the section "Corporate governance and sustainability statement"
+- the insurance companies pursuant to §§ 264 (2) sentence 3, 289 (1) sentence 5, 315 (1) sentence 5 HGB to the annual financial statements, consolidated financial statements and combined management report
+- the representations identified separately in the section entitled "The Ringmetall Group', and marked as unaudited
+- the disclosures contained in the "Compliance and Sustainability Report" section of the Combined Management Report and in the Annex to the Combined Management Report "Annex EU Taxonomy", which is referred to in the "Compliance and Sustainability Report" section, are not part of the management report and have not been audited.
+- the disclosures on the combined non-financial statement contained in the "Compliance and Sustainability Report" section, subsection "Non-financial statement" of the combined management report,
+- the remaining parts of the annual report with the exception of the audited consolidated financial statements and combined management report as well as our auditor's report
+
+## Page 148
+
+Our audit opinions on the consolidated financial statements and on the combined management report do not cover the other information, and consequently we do not express an opinion or any other form of assurance conclusion thereon.
+
+In connection with our audit, our responsibility is to read the other information and thereby acknowledge whether the other information
+
+- is materially inconsistent with the consolidated financial statements, with the combined management report, or our knowledge obtained in the audit or
+- otherwise appears to be materially misstated.
+
+If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+# **RESPONSIBILITIES OF THE EXECUTIVE DIRECTORS AND THE SUPERVISORY BOARD FOR THE CONSOLIDATED FINANCIAL STATEMENTS AND THE COMBINED MANAGEMENT REPORT**
+
+The executive directors are responsible for the preparation of the consolidated financial statements that comply, in all material respects, with IFRSs as adopted by the EU and the additional requirements of German commercial law pursuant to § 315e (1) HGB and that the consolidated financial statements, in compliance with these requirements, give a true and fair view of the assets, liabilities, financial position and financial performance of the group. In addition, the executive directors are responsible for such internal control as they have determined necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud (i.e. fraudulent financial reporting and misappropriation of assets) or error.
+
+In preparing the consolidated financial statements, the executive directors are responsible for assessing the group's ability to continue as a going concern. They also have the responsibility for disclosing, as applicable, matters related to going concern. In addition, they are responsible for financial reporting based on the going concern basis of accounting unless there is an intention to liquidate the group or to cease operations, or there is no realistic alternative but to do so.
+
+Furthermore, the executive directors are responsible for the preparation of the combined management report that, as a whole, provides an appropriate view of the group's position and is, in all material respects, consistent with the consolidated financial statements, complies with German legal requirements, and appropriately presents the opportunities and risks of future development. In addition, the executive directors are responsible for such arrangements and measures (systems) as they have considered necessary to enable the preparation of a combined management report that is in accordance with the applicable German legal requirements, and to be able to provide sufficient appropriate evidence for the assertions in the combined management report.
+
+The supervisory board is responsible for overseeing the group's financial reporting process for the preparation of the consolidated financial statements and of the combined management report.
+
+## Page 149
+
+# **AUDITOR'S RESPONSIBILITIES FOR THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS AND OF THE COMBINED MANAGEMENT REPORT**
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and whether the combined management report as a whole provides an appropriate view of the group's position and, in all material respects, is consistent with the consolidated financial statements and the knowledge obtained in the audit, complies with the German legal requirements and appropriately presents the opportunities and risks of future development, as well as to issue an auditor's report that includes our opinions on the consolidated financial statements and on the combined management report.
+
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with § 317 HGB and the EU Audit Regulation and in compliance with German Generally Accepted Standards for Financial Statement Audits promulgated by the Institut der Wirtschaftsprüfer (IDW) will always detect a material misstatement. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements and this combined management report.
+
+We exercise professional judgment and maintain professional skepticism throughout the audit. We also
+
+- identify and assess the risks of material misstatement of the consolidated financial statements and of the combined management report, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our audit opinions. The risk of not detecting a material misstatement resulting from fraud is higher than the risk of not detecting a material misstatement resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal controls.
+- obtain an understanding of internal control relevant to the audit of the consolidated financial statements and of arrangements and measures (systems) relevant to the audit of the combined management report in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an audit opinion on the effectiveness of these systems.
+- evaluate the appropriateness of accounting policies used by the executive directors and the reasonableness of estimates made by the executive directors and related disclosures.
+- conclude on the appropriateness of the executive directors' use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the group's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in the auditor's report to the related disclosures in the consolidated financial statements and in the combined management report or, if such disclosures are inadequate, to modify our respective audit opinions. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the group to cease to be able to continue as a going concern.
+- evaluate the overall presentation, structure and content of the consolidated financial statements, including the disclosures, and whether the consolidated financial statements present the underlying transactions and events in a manner that the consolidated financial statements give a true and fair
+
+## Page 150
+
+view of the assets, liabilities, financial position and financial performance of the group in compliance with IFRSs as adopted by the EU and the additional requirements of German commercial law pursuant to § 315e (1) HGB.
+
+- obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the group to express audit opinions on the consolidated financial statements and on the combined management report. We are responsible for the direction, supervision and performance of the group audit. We remain solely responsible for our audit opinions.
+- evaluate the consistency of the combined management report with the consolidated financial statements, its conformity with [German] law, and the view of the group's position it provides.
+- perform audit procedures on the prospective information presented by the executive directors in the combined management report. On the basis of sufficient appropriate audit evidence we evaluate, in particular, the significant assumptions used by the executive directors as a basis for the prospective information and evaluate the proper derivation of the prospective information from these assumptions. We do not express a separate opinion on the prospective information and on the assumptions used as a basis. There is a substantial unavoidable risk that future events will differ materially from the prospective information.
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide those charged with governance with a statement that we have complied with the relevant independence requirements and communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and, where applicable, the actions taken or safeguards applied to eliminate independence threats.
+
+From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the consolidated financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter.
+
+## Page 151
+
+## **OTHER LEGAL AND REGULATORY REQUIREMENTS**
+
+REPORT ON THE ASSURANCE ON THE ELECTRONIC RENDERING OF THE CONSOLIDATED FINANCIAL STATEMENTS AND THE COMBINED MANAGEMENT REPORT, PREPARED FOR PUBLICATION PURPOSES IN ACCORDANCE WITH § 317 (3A) HG
+
+## **Assurance Opinion**
+
+We have performed assurance work in accordance with § 317 (3a) HGB to obtain reasonable assurance as to whether the rendering of the consolidated financial statements and the combined management report (hereinafter the "ESEF documents") contained in the electronic file "ringmetall-2023-12-31-DE.zip" and prepared for publication purposes complies in all material respects with the requirements of § 328 (1) HGB for the electronic reporting format ("ESEF format"). In accordance with German legal requirements, this assurance work extends only to the conversion of the information contained in the consolidated financial statements and the combined management report into the ESEF format and therefore relates neither to the information contained within these renderings nor to any other information contained in the file identified above.
+
+In our opinion, the rendering of the consolidated financial statements and the combined management report contained in the electronic file identified above and prepared for publication purposes complies in all material respects with the requirements of § 328 (1) HGB for the electronic reporting format. Beyond this assurance opinion and our audit opinion on the accompanying consolidated financial statements and the accompanying combined management report for the financial year from January 1, 2023 to December 31, 2023 contained in the "Report on the audit of the consolidated financial statements and of the combined management report" above, we do not express any assurance opinion on the information contained within these renderings or on the other information contained in the file identified above.
+
+## **Basis for the Assurance Opinion**
+
+We conducted our assurance work on the rendering of the consolidated financial statements and the combined management report contained in the file identified above in accordance with § 317 (3a) HGB and the IDW Assurance Standard: Assurance Work on the Electronic Rendering of Financial Statements and Management Reports, Prepared for Publication Purposes in Accordance with § 317 (3a) HGB (IDW AsS 410 (06.2022). Our responsibility in accordance therewith is further described in the "Auditor's Responsibilities for the Assurance Work on the ESEF Documents" section. Our audit firm has applied the requirements of the IDW Quality Management Standards, which implement the IAASB's International Standards on Quality Management.
+
+# **Responsibilities of the Executive Directors and the Supervisory Board for the ESEF Documents**
+
+The executive directors of the company are responsible for the preparation of the ESEF documents with the electronic renderings of the consolidated financial statements and the combined management report in accordance with § 328 (1) sentence 4 No. 1 HGB and for the tagging of the consolidated financial statements in accordance with § 328 (1) sentence 4 No. 2 HGB.
+
+## Page 152
+
+In addition, the executive directors of the company are responsible for such internal controls that they have considered necessary to enable the preparation of ESEF documents that are free from material intentional or unintentional non-compliance with the requirements of § 328 (1) HGB for the electronic reporting format.
+
+The supervisory board is responsible for overseeing the process for preparing the ESEF documents as part of the financial reporting process.
+
+# **Auditor's Responsibilities for the Assurance Work on the ESEF documents**
+
+Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material intentional or unintentional non-compliance with the requirements of § 328 (1) HGB. We exercise professional judgment and maintain professional skepticism throughout the assurance work. We also
+
+- identify and assess the risks of material intentional or unintentional non-compliance with the requirements of § 328 (1) HGB, design and perform assurance procedures responsive to those risks, and obtain assurance evidence that is sufficient and appropriate to provide a basis for our assurance opinion.
+- obtain an understanding of internal control relevant to the assurance on the ESEF documents in order to design assurance procedures that are appropriate in the circumstances, but not for the purpose of expressing an assurance opinion on the effectiveness of these controls.
+- evaluate the technical validity of the ESEF documents, i.e. whether the file containing the ESEF documents meets the requirements of the Delegated Regulation (EU) 2019/815, in the version in force at the date of the financial statements, on the technical specification for this electronic file.
+- evaluate whether the ESEF documents provide an XHTML rendering with content equivalent to the audited consolidated financial statements and to the audited combined management report.
+- evaluate whether the tagging of the ESEF documents with Inline XBRL technology (iXBRL) in accordance with the requirements of Articles 4 and 6 of the Delegated Regulation (EU) 2019/815, in the version in force at the date of the financial statements, enables an appropriate and complete machine-readable XBRL copy of the XHTML rendering.
+
+# **FURTHER INFORMATION PURSUANT TO ARTICLE 10 OF THE EU AUDIT REGULATION**
+
+We were elected as group auditor by the consolidated general meeting on June 20, 2023. We were engaged by the supervisory board on December 15, 2023. We have been the group auditor of the Ringmetall SE without interruption since the financial year 2022.
+
+We declare that the audit opinions expressed in this auditor's report are consistent with the additional report to the audit committee pursuant to Article 11 of the EU Audit Regulation (long-form audit report).
+
+In addition to the financial statement audit, we have provided to group entities the following services that are not disclosed in the consolidated financial statements or in the combined management report for the audited entity or its controlled entities:
+
+- Review of the consolidated interim financial statements as of June 30, 2023 and the interim group management report for the period from January 1, 2023 to June 30, 2023
+- other verification services for compliance with covenants agreed with creditors,
+
+## Page 171
+
+#### **INDEPENDENT AUDITOR'S REPORT**
+
+To Ringmetall SE, Munich
+
+#### **REPORT ON THE AUDIT OF THE ANNUAL FINANCIAL STATEMENTS AND OF THE COMBINED MANAGEMENT**
+
+#### **AUDIT OPINIONS**
+
+We have audited the annual financial statements of Ringmetall SE, Munich, which comprise the balance sheet as at December 31, 2023, the statement of profit or loss for the financial year from January 1, 2023 to December 31, 2023 and notes to the annual financial statements, including the presentation of the recognition and measurement policies. In addition, we have audited the combined management report of Ringmetall SE for the financial year from January 1, 2023 to December 31, 2023. In accordance with the German legal requirements, we have not audited the content of the parts of the combined management report listed in section "OTHER INFORMATION".
+
+In our opinion, on the basis of the knowledge obtained in the audit,
+
+- the accompanying annual financial statements comply, in all material respects, with the requirements of German commercial law applicable to business corporations and give a true and fair view of the assets, liabilities and financial position of the company as at December 31, 2023 and of its financial performance for the financial year from January 1, 2023 to December, 31, 2023 in compliance with German Legally Required Accounting Principles, and
+- the accompanying combined management report as a whole provides an appropriate view of the company's position. In all material respects, this combined management report is consistent with the annual financial statements, complies with German legal requirements and appropriately presents the opportunities and risks of future development. Our audit opinion on the combined management report does not cover the content of those parts of the combined management report listed in section "OTHER INFORMATION".
+
+Pursuant to § 322 (3) sentence 1 HGB (German Commercial Code), we declare that our audit has not led to any reservations relating to the legal compliance of the annual financial statements and of the combined management report.
+
+#### **BASIS FOR THE AUDIT OPINIONS**
+
+We conducted our audit of the annual financial statements and of the combined management report in accordance with § 317 HGB and the EU Audit Regulation (No. 537/2014, referred to subsequently as "EU Audit Regulation") and in compliance with German Generally Accepted Standards for Financial Statement Audits promulgated by the Institut der Wirtschaftsprüfer [Institute of Public Auditors in Germany] (IDW). Our responsibilities under those requirements and principles are further described in the "AUDITOR'S RESPONSIBILITIES FOR THE AUDIT OF THE ANNUAL FINANCIAL STATEMENTS AND OF THE COMBINED MANAGEMENT REPORT" section of our auditor's report. We are independent of the company in accordance
+
+## Page 172
+
+with the requirements of European law and German commercial and professional law, and we have fulfilled our other German professional responsibilities in accordance with these requirements.
+
+In addition, in accordance with Article 10 (2) letter (f) of the EU Audit Regulation, we declare that we have not provided non-audit services prohibited under Article 5 (1) of the EU Audit Regulation.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions on the annual financial statements and on the combined management report.
+
+#### **KEY AUDIT MATTERS IN THE AUDIT OF THE ANNUAL FINANCIAL STATEMENTS**
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the annual financial statements for the financial year from January 1, 2023 to December 31, 2023. These matters were addressed in the context of our audit of the annual financial statements as a whole, and in forming our audit opinion thereon; we do not provide a separate audit opinion on these matters.
+
+We have identified the following matter as key audit matter to be disclosed in our auditor's report:
+
+#### **IMPAIRMENT OF SHARES IN AFFILIATED COMPANIE**
+
+#### **Matter**
+
+Within the caption "Finanzanlagen" of the financial statements of Ringmetall SE, shares in affiliated companies amounting to kEUR 44,336 (45% of total assets) are included. The assessment of an impairment of shares in affiliated companies includes multiple judgements and estimates to be made by management. Basis of the assessment of an impairment of shares in affiliated companies are the future cash flows, as presented in the business plans prepared by management and approved by the supervisory board for the respective subsidiaries. These budgets are based on assumptions on future market developments as well as revenue growth and cost trends. Fair values of shares in affiliated companies are determined using a discounted cashflow model. For this purpose, Ringmetall SE determines a fair value for the subsidiary based on a detailed budget for the following year, a simplified extrapolation over the next four years, followed by a terminal value. The book value is compared to the fair value less the carrying amount of liabilities. In addition to the estimates of future cashflows made by management the discount rate used and the underlying parameters used in the valuation have a significant impact.
+
+Due to uncertainties relating to these judgements and estimates made by management and the total amount of the line item we determined the impairment of shares in affiliated companies a key audit matter in our audit.
+
+Ringmetall SE disclosed information on "Finanzanlagen" in Sections II. "Accounting and valuation principles", III. "Long term assets" and in Section "Development of long term assets" in the annex to the financial statements.
+
+#### **Auditor's Response and Observations**
+
+As part of our audit we assessed the appropriateness of key assumptions and parameters involving judgment. Together with our valuation specialists, we also assessed the appropriateness of the valuation model used for the impairment test of shares in affiliated companies.
+
+We obtained an understanding of the planning approach and planning process. We also obtained an understanding of the key assumptions made by management on the future market development and for revenue growth and cost
+
+## Page 173
+
+trends. For the detailed planning phase we compared future cashflows to the business plans as approved by the supervisory board. Based on an analysis of deviations from the budgets in the past and for the current year we assessed the accuracy of the company´s budgeting process. We retraced the underlying assumptions of the business plan and the growth rates used for cashflows beyond the detailed planning phase by comparing these to historical trends and current industry specific expectations.
+
+In addition, we questioned the discount rates used by comparing those to average capital cost of a peer group. Using an own valuation model, we, together with our valuation specialists, made an own estimate of the fair values of the shares in affiliated companies and compared those with the estimates made by management. Regarding the impact of possible changes in capital cost and growth rates used for the terminal value, we conducted an own sensitivity analysis of the estimated fair values.
+
+We concluded that the impairment test for shares in affiliated companies as conducted by management and the related judgements and estimates can be retraced and that they are within an acceptable range of values.
+
+#### **OTHER INFORMATION**
+
+The executive directors or the supervisory board are responsible for the other information. The other information comprises:
+
+- the separately published corporate governance statement pursuant to § 289f and § 315d of the German Commercial Code (HGB), which is referred to in the section "Corporate governance and sustainability statement"
+- the insurance companies pursuant to §§ 264 (2) sentence 3, 289 (1) sentence 5, 315 (1) sentence 5 HGB to the annual financial statements, consolidated financial statements and combined management report
+- the representations identified separately in the section entitled "The Ringmetall Group', and marked as unaudited
+- the disclosures contained in the "Compliance and Sustainability Report" section of the Combined Management Report and in the Annex to the Combined Management Report "Annex EU Taxonomy", which is referred to in the "Compliance and Sustainability Report" section, are not part of the management report and have not been audited.
+- the disclosures on the combined non-financial statement contained in the "Compliance and Sustainability Report" section, subsection "Non-financial statement" of the combined management report,
+- the remaining parts of the annual report with the exception of the audited financial statements and combined management report as well as our auditor's report
+
+Our audit opinions on the annual financial statements and on the combined management report do not cover the other information, and consequently we do not express an audit opinion or any other form of assurance conclusion thereon.
+
+In connection with our audit, our responsibility is to read the other information and thereby acknowledge whether the other information
+
+## Page 174
+
+- is materially inconsistent with the annual financial statements, with the combined management report or our knowledge obtained in the audit, or
+- otherwise appears to be materially misstated.
+
+If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+# **RESPONSIBILITIES OF THE EXECUTIVE DIRECTORS AND THE SUPERVISORY BOARD FOR THE ANNUAL FINANCIAL STATEMENTS AND THE COMBINED MANAGEMENT REPORT**
+
+The executive directors are responsible for the preparation of the annual financial statements that comply, in all material respects, with the requirements of German commercial law applicable to business corporations, and that the annual financial statements give a true and fair view of the assets, liabilities, financial position and financial performance of the company in compliance with German Legally Required Accounting Principles. In addition, the executive directors are responsible for such internal control as they, in accordance with German Legally Required Accounting Principles, have determined necessary to enable the preparation of annual financial statements that are free from material misstatement, whether due to fraud (i.e. fraudulent financial reporting and misappropriation of assets) or error.
+
+In preparing the annual financial statements, the executive directors are responsible for assessing the company's ability to continue as a going concern. They also have the responsibility for disclosing, as applicable, matters related to going concern. In addition, they are responsible for financial reporting based on the going concern basis of accounting, provided no actual or legal circumstances conflict therewith.
+
+Furthermore, the executive directors are responsible for the preparation of the combined management report that as a whole provides an appropriate view of the company's position and is, in all material respects, consistent with the annual financial statements, complies with German legal requirements, and appropriately presents the opportunities and risks of future development. In addition, the executive directors are responsible for such arrangements and measures (systems) as they have considered necessary to enable the preparation of a combined management report that is in accordance with the applicable German legal requirements, and to be able to provide sufficient appropriate evidence for the assertions in the combined management report.
+
+The supervisory board is responsible for overseeing the company's financial reporting process for the preparation of the annual financial statements and of the combined management report.
+
+# **AUDITOR'S RESPONSIBILITIES FOR THE AUDIT OF THE ANNUAL FINANCIAL STATEMENTS AND OF THE COMBINED MANAGEMENT REPORT**
+
+Our objectives are to obtain reasonable assurance about whether the annual financial statements as a whole are free from material misstatement, whether due to fraud or error, and whether the combined management report as a whole provides an appropriate view of the company's position and, in all material respects, is consistent with the annual financial statements and the knowledge obtained in the audit, complies with the German legal requirements and appropriately presents the opportunities and risks of future development, as well as to issue an auditor's report that includes our audit opinions on the annual financial statements and on the combined management report.
+
+## Page 175
+
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with § 317 HGB and the EU Audit Regulation and in compliance with German Generally Accepted Standards for Financial Statement Audits promulgated by the Institut der Wirtschaftsprüfer (IDW) will always detect a material misstatement. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these annual financial statements and this combined management report.
+
+We exercise professional judgment and maintain professional skepticism throughout the audit. We also
+
+- identify and assess the risks of material misstatement of the annual financial statements and of the combined management report, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our audit opinions. The risk of not detecting a material misstatement resulting from fraud is higher than the risk of not detecting a material misstatement resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal controls.
+- obtain an understanding of internal control relevant to the audit of the annual financial statements and of arrangements and measures (systems) relevant to the audit of the combined management report in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an audit opinion on the effectiveness of these systems of the company.
+- evaluate the appropriateness of accounting policies used by the executive directors and the reasonableness of estimates made by the executive directors and related disclosures.
+- conclude on the appropriateness of the executive directors' use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the company's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in the auditor's report to the related disclosures in the annual financial statements and in the combined management report or, if such disclosures are inadequate, to modify our respective audit opinions. Our conclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events or conditions may cause the company to cease to be able to continue as a going concern.
+- evaluate the overall presentation, structure and content of the annual financial statements, including the disclosures, and whether the annual financial statements present the underlying transactions and events in a manner that the annual financial statements give a true and fair view of the assets, liabilities, financial position and financial performance of the company in compliance with German Legally Required Accounting Principles.
+- evaluate the consistency of the combined management report with the annual financial statements, its conformity with [German] law, and the view of the company's position it provides.
+- perform audit procedures on the prospective information presented by the executive directors in the combined management report. On the basis of sufficient appropriate audit evidence we evaluate, in particular, the significant assumptions used by the executive directors as a basis for the prospective information, and evaluate the proper derivation of the prospective information from these assumptions. We do not express a separate audit opinion on the prospective information and on the assumptions used as a basis. There is a substantial unavoidable risk that future events will differ materially from the prospective information.
+
+## Page 176
+
+We communicate with those charged with governance regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide those charged with governance with a statement that we have complied with the relevant independence requirements, and communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and, where applicable, the actions taken or safeguards applied to eliminate independence threats.
+
+From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the annual financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter.
+
+#### **OTHER LEGAL AND REGULATORY REQUIREMENTS**
+
+REPORT ON THE ASSURANCE ON THE ELECTRONIC RENDERING OF THE ANNUAL FINANCIAL STATEMENTS AND THE COMBINED MANAGEMENT REPORT, PREPARED FOR PUBLICATION PURPOSES IN ACCORDANCE WITH § 317 (3A) HGB
+
+#### **Assurance Opinion**
+
+We have performed assurance work in accordance with § 317 (3a) HGB to obtain reasonable assurance as to whether the rendering of the annual financial statements and the combined management report (hereinafter the "ESEF documents") contained in the electronic file "ringmetall-2023-12-31-DE.html" and prepared for publication purposes complies in all material respects with the requirements of § 328 (1) HGB for the electronic reporting format ("ESEF format"). In accordance with German legal requirements, this assurance work extends only to the conversion of the information contained in the annual financial statements and the combined management report into the ESEF format and therefore relates neither to the information contained within these renderings nor to any other information contained in the file identified above.
+
+In our opinion, the rendering of the annual financial statements and the combined management report contained in the electronic file identified above and prepared for publication purposes complies in all material respects with the requirements of § 328 (1) HGB for the electronic reporting format. Beyond this assurance opinion and our audit opinion on the accompanying annual financial statements and the accompanying combined management report for the financial year from January 1, 2023 to December 31, 2023 contained in the "Report on the audit of the annual financial statements and of the combined management report" above, we do not express any assurance opinion on the information contained within these renderings or on the other information contained in the file identified above.
+
+#### **Basis for the Assurance Opinion**
+
+We conducted our assurance work on the rendering of the annual financial statements and the combined management report contained in the file identified above in accordance with § 317 (3a) HGB and the IDW Assurance Standard: Assurance Work on the Electronic Rendering of Financial Statements and Management Reports, Prepared for Publication Purposes in Accordance with § 317 (3a) HGB (IDW AsS 410 (06.2022))*.* Our
+
+## Page 177
+
+responsibility in accordance therewith is further described in the "Auditor's Responsibilities for the Assurance Work on the ESEF Documents" section. Our audit firm has applied the requirements of the IDW Quality Management Standards, which implement the IAASB's International Standards on Quality Management.
+
+# **Responsibilities of the Executive Directors and the Supervisory Board for the ESEF Documents**
+
+The executive directors of the company are responsible for the preparation of the ESEF documents with the electronic renderings of the annual financial statements and the combined management report in accordance with § 328 (1) sentence 4 No. 1 HGB.
+
+In addition, the executive directors of the company are responsible for such internal controls that they have considered necessary to enable the preparation of ESEF documents that are free from material intentional or unintentional non-compliance with the requirements of § 328 (1) HGB for the electronic reporting format.
+
+The supervisory board is responsible for overseeing the process for preparing the ESEF documents as part of the financial reporting process.
+
+# **Auditor's Responsibilities for the Assurance Work on the ESEF documents**
+
+Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material intentional or unintentional non-compliance with the requirements of § 328 (1) HGB. We exercise professional judgment and maintain professional skepticism throughout the assurance work. We also
+
+- Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material intentional or unintentional non-compliance with the requirements of § 328 (1) HGB. We exercise professional judgment and maintain professional skepticism throughout the assurance work. We also
+- obtain an understanding of internal control relevant to the assurance on the ESEF documents in order to design assurance procedures that are appropriate in the circumstances, but not for the purpose of expressing an assurance opinion on the effectiveness of these controls.
+- evaluate the technical validity of the ESEF documents, i.e. whether the file containing the ESEF documents meets the requirements of the Delegated Regulation (EU) 2019/815, in the version in force at the date of the financial statements, on the technical specification for this electronic file.
+- evaluate whether the ESEF documents provide an XHTML rendering with content equivalent to the audited annual financial statements and to the audited combined management report.
+
+# **FURTHER INFORMATION PURSUANT TO ARTICLE 10 OF THE EU AUDIT REGULATION**
+
+We were elected as auditor by the annual general meeting on June 20, 2023. We were engaged by the supervisory board on december 15, 2023. We have been the auditor of the Ringmetall SE without interruption since the financial year 2023.
+
+We declare that the audit opinions expressed in this auditor's report are consistent with the additional report to the audit committee pursuant to Article 11 of the EU Audit Regulation (long-form audit report).
+
+## Page 178
+
+In addition to the financial statement audit, we have provided to the audited company or companies under that company's control the following services that are not disclosed in the annual financial statements or in the combined management report:
+
+- Review of the consolidated interim financial statements as of June 30, 2023 and the interim group management report for the period from January 1, 2023 to June 30, 2023
+- other verification services for compliance with covenants agreed with creditors,
+
+# **OTHER MATTER — USE OF THE AUDITOR'S REPORT**
+
+Our auditor's report must always be read together with the audited annual financial statements and the audited combined management report as well as the assured ESEF documents. The annual financial statements and the combined management report converted to the ESEF format — including the versions to be published in the German Federal Gazette — are merely electronic renderings of the audited annual financial statements and the audited combined management report and do not take their place. In particular, the ESEF report and our assurance opinion contained therein are to be used solely together with the assured ESEF documents provided in electronic form.
+
+# **GERMAN PUBLIC AUDITOR RESPONSIBLE FOR THE ENGAGEMENT**
+
+The German Public Auditor responsible for the engagement is Prof. Dr. Stefan Uebensee.
+
+Stuttgart, April 29, 2024
+
+BDO AG Wirtschaftsprüfungsgesellschaft
+
+Stratmann
+Wirtschaftsprüfer
+
+Stratmann Prof. Dr. Uebensee Wirtschaftsprüfer Wirtschaftsprüfer
+
+(German CPA)
+
+(German CPA) (German CPA)

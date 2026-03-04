@@ -1,0 +1,287 @@
+{
+  "company_slug": "enbw_energie_baden_w_rttemberg_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\enbw_energie_baden_w_rttemberg_ag\\2023\\enbw_energie_baden_w_rttemberg_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\enbw_energie_baden_w_rttemberg_ag\\2023\\focused\\enbw_energie_baden_w_rttemberg_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        6
+      ],
+      "start_page": 4,
+      "end_page": 11,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "6": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        17
+      ],
+      "start_page": 15,
+      "end_page": 22,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "17": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        28,
+        30,
+        34,
+        37,
+        39
+      ],
+      "start_page": 26,
+      "end_page": 44,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "28": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "30": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "34": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "37": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "39": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        79
+      ],
+      "start_page": 77,
+      "end_page": 84,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "79": [
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        108,
+        109,
+        110,
+        111,
+        115,
+        116,
+        117,
+        125,
+        126,
+        129
+      ],
+      "start_page": 106,
+      "end_page": 134,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "108": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "109": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I",
+                "Annex II"
+              ],
+              "110": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "111": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "115": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities"
+              ],
+              "116": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-aligned activities"
+              ],
+              "117": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "125": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "126": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "129": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        146,
+        148,
+        149,
+        150,
+        151
+      ],
+      "start_page": 144,
+      "end_page": 156,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "146": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "148": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "149": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "150": [
+                "Taxonomy-eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "151": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        297
+      ],
+      "start_page": 295,
+      "end_page": 302,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "297": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        317
+      ],
+      "start_page": 315,
+      "end_page": 322,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "317": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

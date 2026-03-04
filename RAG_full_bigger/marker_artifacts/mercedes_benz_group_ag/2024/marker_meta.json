@@ -1,0 +1,9 @@
+{
+  "company_name_full": "MERCEDES-BENZ GROUP AG",
+  "slug": "mercedes_benz_group_ag",
+  "report_year_source": "2024",
+  "report_year_output_folder": "2024",
+  "pdf_path": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\cache\\mercedes_benz_group_ag\\2024\\report.pdf",
+  "extraction_method": "text_only_full",
+  "marker_md_final": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\mercedes_benz_group_ag\\2024\\mercedes_benz_group_ag_2024_report.md"
+}

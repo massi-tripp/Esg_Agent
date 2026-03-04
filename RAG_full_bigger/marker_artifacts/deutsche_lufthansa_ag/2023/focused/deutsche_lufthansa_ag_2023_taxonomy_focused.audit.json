@@ -1,0 +1,182 @@
+{
+  "company_slug": "deutsche_lufthansa_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\deutsche_lufthansa_ag\\2023\\deutsche_lufthansa_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\deutsche_lufthansa_ag\\2023\\focused\\deutsche_lufthansa_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        17
+      ],
+      "start_page": 15,
+      "end_page": 22,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "17": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        73,
+        74
+      ],
+      "start_page": 71,
+      "end_page": 79,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "73": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "74": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "start_page": 118,
+      "end_page": 129,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "120": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "121": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "122": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "123": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "124": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        301,
+        306
+      ],
+      "start_page": 299,
+      "end_page": 311,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "301": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          },
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "306": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        315,
+        316
+      ],
+      "start_page": 313,
+      "end_page": 321,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "315": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "316": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        326
+      ],
+      "start_page": 324,
+      "end_page": 331,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "326": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

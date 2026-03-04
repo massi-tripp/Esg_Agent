@@ -1,0 +1,140 @@
+{
+  "company_slug": "koenig_bauer_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\koenig_bauer_ag\\2023\\koenig_bauer_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\koenig_bauer_ag\\2023\\focused\\koenig_bauer_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        141,
+        143
+      ],
+      "start_page": 139,
+      "end_page": 148,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "141": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "143": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        172,
+        173,
+        174,
+        175
+      ],
+      "start_page": 162,
+      "end_page": 180,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "164": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8",
+                "Annex I",
+                "Annex II"
+              ],
+              "165": [
+                "Annex I"
+              ],
+              "166": [
+                "Taxonomy-eligible activities"
+              ],
+              "167": [
+                "Taxonomy-eligible activities"
+              ],
+              "168": [
+                "Article 8",
+                "Annex I"
+              ],
+              "169": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8",
+                "Annex I"
+              ],
+              "170": [
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities"
+              ],
+              "172": [
+                "Taxonomy-eligible activities"
+              ],
+              "173": [
+                "Taxonomy-eligible activities"
+              ],
+              "174": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ],
+              "175": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Article 8"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        2023
+      ],
+      "start_page": 2021,
+      "end_page": 2023,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "2023": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

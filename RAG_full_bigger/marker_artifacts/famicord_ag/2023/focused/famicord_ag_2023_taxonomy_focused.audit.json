@@ -1,0 +1,171 @@
+{
+  "company_slug": "famicord_ag",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\famicord_ag\\2023\\famicord_ag_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\famicord_ag\\2023\\focused\\famicord_ag_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        5
+      ],
+      "start_page": 3,
+      "end_page": 10,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "5": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        15
+      ],
+      "start_page": 13,
+      "end_page": 20,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "15": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        41,
+        42
+      ],
+      "start_page": 39,
+      "end_page": 47,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "41": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "42": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        60,
+        61,
+        63
+      ],
+      "start_page": 51,
+      "end_page": 68,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "53": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy eligible activities",
+                "Taxonomy aligned activities"
+              ],
+              "54": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy eligible activities",
+                "Taxonomy aligned activities",
+                "Annex I"
+              ],
+              "55": [
+                "Annex I"
+              ],
+              "56": [
+                "Taxonomy eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "57": [
+                "Taxonomy eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "58": [
+                "Taxonomy eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "60": [
+                "Taxonomy eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "61": [
+                "Taxonomy eligible activities",
+                "Environmentally sustainable activities"
+              ],
+              "63": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        141
+      ],
+      "start_page": 139,
+      "end_page": 146,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "141": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

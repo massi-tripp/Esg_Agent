@@ -1,0 +1,373 @@
+## Page 58
+
+#### MERGERS AND ACQUISITIONS
+
+Active portfolio management has a high priority at Symrise and is an important instrument for implementing its strategy. Symrise has a systematic process in place to identify possible acquisition targets, assess possible transactions and implement the goals set after an acquisition has been made. The most important criteria are that the transaction fits the strategy, improves results and has future potential, on the one hand, and that it complies with legal, environmental and financial requirements on the other.
+
+Despite thorough and intensive due diligence, unforeseen and unexpected obligations may arise following acquisitions. Even in the case of value-creating acquisitions and consistent estimates of future business development, integration processes may take longer and require more resources than originally planned.
+
+In principle, all acquisitions involve the risk that the goals set cannot be achieved and that significant impairments will be necessary. The continuous monitoring of the implementation of the acquisition targets serves to identify potential problems in good time and enable necessary corrections to be made.
+
+#### RESEARCH AND DEVELOPMENT
+
+Opportunities for Symrise often arise from market-oriented research and development, which the company sees as one of the most important drivers of profitable growth. Symrise has a well-filled innovation pipeline with a balanced mix of short-, medium- and long-term projects. On the one hand, Symrise is continuously seeking process improvements to increase efficiency, and on the other hand, it is looking for new markets and technologies. The project portfolio is constantly reviewed with regard to the extent to which it conforms to the strategy. Likewise, aspects of digitalization are becoming ever more important (IBM research project for the development of fragrances with the help of artificial intelligence).
+
+Symrise closely monitors megatrends, for example, the naturalness of food and body care products or sustainability along the entire value chain. In cooperation with its customers and suppliers, Symrise constantly works toward fulfilling requirements as well as achieving the goals the company has set itself. This may result in opportunities and risks such as higher costs due to using new raw materials or the exploitation of a competitive advantage based on a time-limited unique market position with a natural preservative for personal care products.
+
+Opportunities and risks in the area of research and development are associated with the feasibility of planned product and process developments and their timely implementation. Symrise sees numerous further opportunities both in its existing product portfolio and in related areas.
+
+COMPLIANCE, LAW AND REGULATORY FRAMEWORK In its compliance management system, Symrise differentiates between technical compliance and legal compliance.
+
+Technical compliance activities focus on quality, environmental protection, health, occupational safety, energy, product safety and food safety. In nearly all of these areas, the Symrise products are subject to strict government supervision worldwide. It is a matter of course for Symrise that its products and processes comply with local regulations around the world. Comprehensive expertise in product-related regulatory affairs also makes it possible for Symrise to support customers in their regulatory issues and sell additional services. Furthermore, this expertise – also in combination with artificial intelligence applications – opens up further opportunities in the area of recipe optimization and complexity reduction. Symrise is committed to meeting internationally recognized standards for product safety, health, occupational safety and the environment at all its sites. Compliance is regularly checked by internal and external experts. This also applies to suppliers as part of regular audits. The fragrances, flavorings and additives from Symrise are generally processed in products that end consumers eat as food or apply to their skin or hair. Therefore, there is a fundamental risk that Symrise products could have a negative effect on consumers' health. To minimize this risk, the tolerability of the products is continually tested as part of our quality management on the basis of scientific research as well as tests based on international standards and internal safety regulations.
+
+Legal compliance activities concentrate on competition and antitrust law, anti-corruption and money laundering prevention efforts and export controls. Here, the focus of activity is on education and prevention. The implementation and further development of Group guidelines on these topics also fall into the category of legal compliance. Compliance with local laws and company guidelines is monitored via regular internal audits. Moreover, compliance with these requirements, which are based on international standards, is checked at regular intervals by external auditors. The initial training of new employees, together with subsequent further training, ensures that every employee observes corporate guidelines such as the
+
+## Page 59
+
+Code of Conduct. As early as 2008, the Symrise Group Compliance Office established an Integrity Hotline to ensure that Symrise employees can anonymously report violations of both legal regulations and internal company guidelines from anywhere in the world. Where necessary, investigations were carried out and corrective measures were applied on a case-bycase basis pursuant to the applicable legal system and internal Group regulations. These can include disciplinary measures under labor law.
+
+In March 2023, the European Commission initiated antitrust investigation against Symrise and some of its competitors. The actual review of the documents identified and retained in March 2023 was performed by the Commission in June 2023. In Symrise's opinion, these documents contain no clear evidence that Symrise was involved in antitrust practices. In May 2023, Symrise lodged an appeal at the General Court of the European Union against the search conducted by the European Commission. The company considers the search to have been unlawful on the grounds of various points of law.
+
+Moreover, Symrise does not believe that it is exposed to any legal risks that are not customary for the industry. These risks typically result from the areas of product liability, warranty claims and environmental law. To counter these risks in an appropriate way and early on, Symrise analyzes potential risks comprehensively and implements corresponding defensive measures by involving its legal department and, if necessary, by engaging external specialists. Despite these measures, the outcome of current or future legal proceedings cannot be predicted with certainty. At present, only a few Group companies are affected by ongoing legal proceedings.
+
+#### IT SECURITY
+
+A sophisticated and well-organized approach to IT security management plays an essential role in keeping our operations secure and protecting the company against incidents to ensure its long-term growth. It also has a vital role to play in ensuring a successful digital transformation. As data, systems and networks become more and more interconnected and expand into production, the attack surface of companies is growing. In order to realize and sustainably protect the opportunities and growth potential offered by digitalization, the Symrise ITand digitalization strategies place a high priority on IT and cybersecurity. The Symrise security strategy is reviewed on a continuous basis and adjusted to reflect the global threat situation for the entire industry.
+
+The continuous improvement of global security standards plays a key role in the protection of IT and communication systems. The ongoing assessment of threat scenarios and technical developments and the alignment of security measures and resources with overarching business goals and regulatory requirements are key criteria for the continuous improvement of IT security. Based on this approach, the technologies, processes and organizational structures used by Symrise are evaluated on a regular basis and assessed by independent third parties to achieve a sustainable and reliable level of security.
+
+To minimize the impact that an incident might have on operations, key operational and information assets are identified on an ongoing basis and appropriate contingency systems and procedures are updated. Implementing a comprehensive company-wide approach is also a critical ingredient in the effectiveness of security measures. This is achieved by streamlining governance structures and strengthening the global IT organization. Last but not least, employees are and always will be a significant security factor. That is why we regularly run training and awareness measures.
+
+#### TAXES
+
+Symrise gives the highest priority to complying with local and global regulations as well as legal requirements in the area of taxes. The optimization of the tax burden is a constant focus, without creating excessive complexity for operating business.
+
+Given the complex business models and global reach of Symrise, there are ongoing income tax-related matters that have not yet been reviewed and conclusively assessed by the relevant local tax authorities. In some cases, provisions for these risks were made in preparation for possible additional tax obligations. On the whole, Symrise feels that the necessary precautions have been taken for all known tax risks.
+
+#### ENVIRONMENT (SAFE T Y, HEALTH, ECOLOGY AND QUALITY)
+
+Environmental opportunities and risks in the areas of climate, water and forests are analyzed and measured annually as part of reporting to the British nongovernmental organization CDP and reported publicly to customers and investors. Global challenges in the area of the environment such as climate change, water shortages, soil erosion or the loss of biodiversity can have a negative impact on the productivity and functionality of the ecosystems managed by Symrise or by its suppliers and subsuppliers. This in turn can lead to decreasing raw material availability or increasing raw material prices within
+
+## Page 60
+
+the portfolio. Systematically analyzing and measuring relevant environmental risks and consistently taking these into consideration in research, product development, purchasing and supply chain management allows Symrise to initiate measures to minimize risks early on. This ranges from developing substitute solutions for crucial raw materials through to the reformulation of recipes in cooperation with customers and the identification of alternative suppliers and sourcing countries.
+
+As in the previous year, Symrise considers itself well prepared with regard to the disclosure rules under the new EU taxonomy that were expanded in the reporting year. The company does not expect any additional risks or any key opportunities. The disclosure requirements for this fiscal year include the disclosure of sales and investments for the EU environmental objectives of climate change mitigation and climate change adaptation with regard to taxonomy eligibility (meets taxonomy classification criteria) and taxonomy alignment (additional compliance with technical screening criteria without compromising other environmental targets while meeting minimum social standards), as well as the disclosure of sales and investments for the EU environmental objectives of sustainable use and protection of water and marine resources, the transition to a circular economy, pollution prevention and control and protection and restoration of biodiversity and ecosystems with regard to taxonomy eligibility. With its specific business operations, Symrise is largely unaffected by the EU taxonomy since the taxonomy primarily focuses on companies from sectors that generate the most CO2 emissions. Symrise does not belong to any of these sectors. Nevertheless, Symrise tries to manage its economic activities to the extent of its ability and thus makes efforts to help reduce greenhouse gas emissions in industry. Symrise aims to invest sustainably as well. To this end, the company will be including sustainability as a key element of the investment process from the start on the basis of system-side integration and employee training. All Symrise activities identified as taxonomy eligible or aligned in the 2023 fiscal year support the environmental objectives of climate change mitigation and pollution prevention and control. The associated share of taxonomy-aligned sales is 2% (2% taxonomy-eligible); the associated share of investments is 3% (9% taxonomy-eligible). For a detailed report on the EU taxonomy, please see the Symrise Sustainability Report 2023.
+
+[https://symrise.com/corporatereport/2023/company/](https://symrise.com/corporatereport/2023/company/sustainability-record/index.html) [sustainability-record/index.html.](https://symrise.com/corporatereport/2023/company/sustainability-record/index.html)
+
+Symrise has a complex supply chain and obtains products from more than 100 countries around the world. In connection with the German Act on Corporate Due Diligence Obligations in Supply Chains (LkSG), which came into force in 2023, Symrise prioritizes the development of responsible and transparent supply chains. The goal is to identify human rights and sustainability risks at an early stage and to work with business partners to implement preventive and remedial action. Symrise expects its business partners to comply with the requirements of the Symrise Responsible Sourcing Policy and Supplier Code of Conduct, which applies to all suppliers. To support the implementation of its own due diligence obligations, Symrise established the Responsible Sourcing Steering Committee (RSSC) back in 2021. This decision-making body is made up of representatives from the segments and from Corporate Sustainability. It defines the strategy for compliance with due diligence obligations and the processes for its implementation. The strategic elements developed by the RSSC include the company's Human Rights Policy, which also incorporates a complaints mechanism for business partners and their employees. In 2022, Symrise also created the position of Human Rights Officer within the Corporate Sustainability department, reporting directly to the Chief Sustainability Officer (CSO).
+
+#### PROCESS AND ORGANIZATIONAL RISKS
+
+Symrise sells a wide variety of products with different business models in numerous geographical markets. The dynamics of the sales and procurement markets may also require adjustments to internal processes or the organizational structure. The possible adjustments to internal structures can entail various opportunities and risks. In addition to efficiency gains through leaner structures or faster decision-making, there is also the risk that the intended improvement cannot be implemented technically or that the structural change may have a negative effect on the motivation of the workforce. Symrise is constantly striving to improve the efficiency of its organization and processes.
+
+## Page 61
+
+#### <span id="page-60-0"></span>**OVER ALL ASSESSMENT OF OPPORTUNIT Y AND RISK SITUATION**
+
+In a volatile market environment with challenging political and economic conditions, the main risks to Symrise are in the procurement and sales markets; some of these risks may interact. The measures to fight and curb inflationary pressure taken by central banks worldwide had a negative impact on global economic growth and private consumption because of rising interest rates. Although an easing of global energy markets can be observed, this – combined with declining inflationary pressure resulting from central bank action – could affect selling and procurement prices worldwide and, depending on further development, could influence Symrise's business success.
+
+However, the Symrise business model is characterized by above-average potential for opportunity compared to other sectors of industry and companies. Demand for Symrise products is driven in particular by rising global private consumption and growing prosperity. Many products serve to fulfill various basic human needs and desires, such as health and youthful appearance, which exist in every part of the world. Symrise's dynamic growth and high profitability show that these opportunities have been leveraged successfully. The acquisitions of recent years have broadened the company's category and technology base and increased backward integration. Above-average growth, good profitability and additional innovations are the result of the Group's expanded footprint. Symrise will continue to follow this strategy in the future. Symrise is convinced that proactive and systematic monitoring of potential risks and opportunities is an important component of successful corporate governance.
+
+## Page 62
+
+#### <span id="page-61-0"></span>**Essential features of the internal control and risk management system**
+
+#### **MAIN FEATURES AND OBJECTIVES**
+
+In accordance with the German Accounting Law Modernization Act (BilMoG), capital market-oriented corporations are obliged to describe the essential features of their internal accounting-related control and risk management system in the management report section of the annual report. In addition, the introduction of the Financial Market Integrity Strengthening Act (FISG) made it mandatory for capital market-oriented corporations to establish an adequate and effective internal control system and risk management system. The Executive Board and the Supervisory Board are responsible for monitoring the adequacy and efficacy of the internal control system and risk management.
+
+The amendments to the German Corporate Governance Code (DCGK) of June 27, 2022, included a recommendation to describe the other key features of the internal control and risk management system and to assess the appropriateness and effectiveness of these systems. In this context, Symrise has had other internal control and risk management systems in place for years alongside the accounting-related internal control system (ICS). These include systems used in the areas of compliance management and ITandcyber security as well as the areas of data protection and the European General Data Protection Regulation (GDPR).
+
+The accounting-related internal control system (ICS) guarantees proper and reliable financial reporting. By means of the accounting-related risk management system, measures are taken to identify and evaluate risks in order to ensure the preparation of consolidated financial statements in accordance with the regulations. The system includes the documentation and monitoring of possible risks and underlying processes as well as constant auditing of the processes. Opportunities are also documented within the framework of corporate planning. To guarantee that the ICS is adequate and effective, the Groupwide control mechanisms are constantly analyzed at the level of the individual companies and the Group for suitability and functionality. To achieve this, the Corporate Internal Audit department examines how effectively those responsible adhered to the planned control mechanisms at both the decentralized and centralized level. The efficiency of the ICS can be limited by unforeseen changes in the control environment, criminal activities or human error.
+
+To define existing control processes in the company and to expand them where necessary, Symrise has established a process to support documentation and analysis in the Group's organizational units and companies. The principles of the internal control system and the risk management system define requirements, document the process landscape and business processes, and regulate controls to be carried out. Additionally, employee training courses and collegial exchange help ensure that measures can be constantly adjusted to the changing risk environment.
+
+#### **ORGANIZATION AND PROCESS**
+
+The ICS in the Symrise Group comprises both centralized and decentralized areas of the company. It is geared to ISO 31000 and based on the COSO II Framework. An aggregate Group risk report based on reports issued by the Group's organizational units and companies is presented to the Executive Board twice a year. The Executive Board discusses the adequacy and efficacy of the ICS with the Supervisory Board or with the Auditing Committee of the Supervisory Board, as appropriate.
+
+The ICS is constantly monitored with respect to the up-todateness of the documentation and the suitability and functionality of the controls. In addition, any weaknesses in the control system are identified, evaluated and addressed through follow-up measures. The Auditing Committee discusses the ICS as well as the compliance and risk management system in detail at the annual system meeting in order to monitor and ensure the adequacy and effectiveness of the systems.
+
+Accounting-related risk management: Using a risk-oriented approach, the companies and processes which are essential for accounting are first identified. On the basis of the results, specific minimum requirements and objectives are defined to counteract the risks of financial reporting. The result is a centralized risk catalog that relates to financial reporting and that is simultaneously the basis of work for employees involved in financial reporting.
+
+## Page 63
+
+- Accounting-related internal control system: First, existing control activities in the essential companies are documented and updated. The controls defined by the accountingrelated ICS should guarantee adherence to global Group accounting guidelines, the accounting guidelines of the individual companies as well as the procedures and schedules of the individual accounting processes. The control mechanisms are regularly analyzed for their adequacy and effectiveness in preventing risks through continual audits by Corporate Internal Audit, among other things. Whenever deficiencies have been documented, the potential risks for the consolidated financial statements stemming from the reports from the Group's units and companies are evaluated. In another step, the individual risks are consolidated at the company level. The risks and their corresponding effects on financial reporting are reported to the Executive Board. These reports form the basis for reporting vis-à-vis the Supervisory Board's Auditing Committee. If control deficiencies are identified, appropriate measures for improvement are developed and executed. The adequacy and efficacy of the new control mechanisms are then analyzed in the next audit cycle.
+- The compliance management systems cover legal compliance, technical compliance, the tax compliance management system and treasury compliance.
+- The role of Legal Compliance is to guide and advise the operational and administrative areas of Symrise with regard to compliance with the relevant national legal regulations. Hints submitted through the Integrity Hotline are carefully reviewed and investigated consistently if there is suspicion of wrongdoing.
+- Technical compliance focuses on regulatory affairs, quality control and certifications. The role of Regulatory Affairs is to continuously monitor and ensure compliance with the requirements of national supervisory authorities, customer requirements and the requirements imposed by associations. Quality control ensures the consistency of the raw materials used in the production process and the consistently high quality of Symrise's end products. Symrise strives to improve on a continuous basis and is taking action to ensure compliance with the requirements of an ever-increasing number of international certification programs from a wide range of specialist areas, including the areas of sustainability and food security.
+- The tax compliance management system implemented by the company ensures that we are in compliance with financial due diligence and monitoring obligations and contributes to legal certainty related to adjustments pursuant to Section153 of the German Fiscal Code (AO) by being considered an indication of the absence of intent or recklessness.
+- Treasury compliance primarily involves monitoring compliance with the global treasury guideline as the basis for all treasury activities, with a particular focus on the management of powers of attorney and bank accounts. This system monitors compliance with the dual-control principle that applies for all payment transactions by Symrise and the relevant subsidiaries.
+- A large number of ITandcybersecurity measures have been implemented in recent years that have improved IT security across the Group. Additional measures for continuing the improvement in IT security are already being planned and will be implemented on an ongoing basis. Symrise is provided with advice on the topic of data protection and GDPR by a renowned law firm. This law firm reviews data protection-related agreements and documentation and conducts training sessions for relevant Symrise employees with regard to data protection and GDPR.
+- Ongoing audits by the Corporate Internal Audit department and external auditors and consultants are used to analyze the control and monitoring mechanisms implemented by the compliance management systems and in the area of IT and cybersecurity to make sure that they are adequate and effective from a risk perspective, along with the measures related to compliance with the GDPR and data protection requirements. Any deficiency that is identified is assessed based on the severity of the control and/or monitoring gap. The resulting risks are also analyzed. In a subsequent step, the individual compliance and IT security risks are aggregated at Group level. These risks are reported to the Executive Board along with information about their impact on the compliance management systems and how they relate to IT security, GDPR and data protection. These reports form the basis for reporting vis-à-vis the Supervisory Board's Auditing Committee. If control deficiencies are identified, appropriate measures for improvement are developed and executed. The adequacy and efficacy of the new control mechanisms are then analyzed in Corporate Internal Audit's next audit cycle and through the use of external auditors.
+
+## Page 64
+
+#### <span id="page-63-0"></span>**General statement on the adequacy and efficacy of the control systems at Symrise**
+
+Symrise has a comprehensive system of controls that the Executive Board regularly reviews and develops further. In one of its annual focus meetings, the Auditing Committee delegated by the Supervisory Board of Symrise AG looks into the control systems implemented at Symrise to ensure their adequacy and efficacy. The Executive Board is satisfied that the control systems implemented at Symrise are adequate and effective in their entirety.
+
+**Control systems at Symrise**
+
+Image /page/63/Figure/2 description: This image shows a diagram of control systems at Symrise. The diagram is divided into four sections. The top left section is orange and contains the text "Opportunities & risk management system". The bottom left section is maroon and contains the text "IT / cybersecurity". The top right section is red and contains the text "Internal controlling system (ICS)". The bottom right section is red and contains the text "Compliance management system". In the center of the diagram is a purple circle that contains the text "Control systems at Symrise". To the right of the red sections are gray sections. The top gray section contains the text "Group companies" and "Individual companies". The bottom gray section contains the text "Legal Compliance", "Technical Compliance", "Tax Compliance", "Treasury Compliance", and "Corporate Internal Audit". The image also contains the text "Overview" in the top left corner.
+
+## Page 65
+
+#### <span id="page-64-0"></span>**Disclosures pursuant to section 315a of the German Commercial Code (HGB)**
+
+- The share capital of Symrise AG amounts to € 139,772,054. It is divided into no-par-value bearer shares with a nominal value of € 1. The associated rights and duties are set forth in the relevant provisions of the German Stock Corporation Act (AktG). There are no different types of shares with different rights and obligations. Nor do any special rights or rights of control exist for any shareholders.
+- The appointment and removal of members of the Executive Board is based on Sections 84 and 85 AktG. Amendments to the articles of incorporation are based on Sections 133 and 179 AktG.
+- The Executive Board is authorized, subject to the consent of the Supervisory Board, to increase the share capital of the company until May 21, 2024, by up to € 25,000,000.00 through one or more issuances of new, no-par-value bearer shares against contributions in cash and/or in kind. The new shares may be underwritten by one or more financial institutions determined by the Executive Board in order for such shares to be offered to the shareholders (indirect subscription right). The Executive Board is authorized, subject to the consent of the Supervisory Board, to exclude the statutory subscription right of shareholders for an amount of up to 10% of the company's current share capital in the following cases:
+	- 1) In the case of capital increases in return for assets in kind to grant shares for the purpose of acquiring companies, parts of companies or share interests in companies;
+	- 2) For the purpose of issuing a maximum number of 1,000,000 new shares to employees of the company and affiliated companies, within the constraints imposed by law;
+	- 3) Insofar as this is necessary in order to grant holders of warrants and convertible bonds issued by the company or its subsidiaries a right to subscribe for new shares to the extent that they would be entitled to such a right when exercising the warrants or options or when meeting obligations arising from the warrants or options;
+	- 4)To exclude fractional amounts from subscription rights;
+
+5)In the event of a capital increase against cash contribution, if, at the time of the final determination of the issue price by the Executive Board, the issue price of the new shares is not significantly lower – within the meaning of Section 203 (1) and (2) and Section 186 (3) Sentence 4 AktG – than the market price of shares already traded on the stock exchange and the aggregate amount of the new shares for which subscription rights are excluded does not exceed 10% of the share capital neither at the time this authorization comes into force nor at the time this authorization is exercised. This restriction is to include shares that were sold or issued or will be issued without subscription rights during the period of validity of this authorization, up to the time of its exercise, by reason of other authorizations in direct or corresponding application of Section 186, (3) Sentence 4 AktG.
+
+The Executive Board is authorized, subject to the consent of the Supervisory Board, to determine the further particulars of the capital increase and its implementation including the scope of shareholder rights and the conditions for the issuing of shares.
+
+The company's share capital has been conditionally increased by up to € 15,650,000.00 through the issue of up to 15,650,000 new no-par value bearer shares (conditional capital 2019). The conditional capital increase shall only be implemented to the extent that the holders of convertible bonds issued for cash or of warrants from option bonds issued for cash by the company or a Group company up until May 21, 2024, on the basis of the authorization granted to the Executive Board by the Annual General Meeting of May 22, 2019, exercise their option/conversion rights, or fulfill their obligations for exercising the option/conversion rights, or the company exercises its right to grant bondholders shares in the company in full or partial settlement of the cash amount that has become due, and as long as no other forms of settlement are used. The new shares shall participate in the profits from the start of the fiscal year in which they are issued.
+
+The Executive Board is authorized, with the consent of the Supervisory Board, to determine the further details regarding the implementation of the conditional capital increase. The Supervisory Board is authorized to amend Section 4 (6) of the articles of incorporation in accordance with the utilization of the conditional capital. The same applies if the authorization to issue convertible and/or option bonds is not
+
+## Page 170
+
+<span id="page-169-0"></span>at an early stage and allowed us the time needed for making a decision. Wherever required by law or by the articles of incorporation, we submitted our vote on the reports and proposed resolutions of the Executive Board after thorough analysis and discussion. In urgent special cases, decisions were made in consultation with the Chairman of the Supervisory Board either by telephone or in writing.
+
+The Executive Board provided us with a monthly report on all of the key financial figures. When there were any deviations in the course of business from the set plans and objectives, we received detailed explanations in written and verbal form, enabling us to discuss the reasons for the deviations and targeted correction measures with the Executive Board.
+
+Additionally, outside the meetings of the Supervisory Board and its committees, the Chairman of the Supervisory Board and the Chairman of the Auditing Committee, in particular, were in close and continuous dialogue with the Executive Board. As in the previous year, conflicts of interest affecting members of the Executive and Supervisory Boards, which must be disclosed to the Supervisory Board without delay and reported to the Annual General Meeting along with their underlying circumstances and a report of how they will be handled, did not occur in 2023.
+
+#### **FULL SUPERVISORY BOARD MEETINGS**
+
+Section 8 (1) of the company's articles of incorporation in conjunction with Section 96 (1) of the German Stock Corporation Act (AktG) and Section 7 (1) Sentence 1 Number 1 of the German Codetermination Act of May 4, 1976 (MitbestG), requires the Supervisory Board to consist of twelve members. Six members are elected by the Annual General Meeting and six by the company's employees in accordance with the provisions of the Codetermination Act. The current members of the Supervisory Board of Symrise AG are:
+
+Michael König, Chief Executive Officer of Nobian Industrial Chemicals B.V., Amersfoort, Netherlands. Mr. König has been a member of the Supervisory Board since January 2020, and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2024 fiscal year. Mr. König has been Chairman of the Supervisory Board since June 2020. Mr. König is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+#### a) none
+
+b) Celanese Corporation, Irving/Texas, USA, Member of the Board of Directors (listed company)
+
+Ursula Buck, Managing Director at BC BuckConsult. Ms. Buck has been a member of the Supervisory Board since May 2016 and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2024 fiscal year. Ms. Buck is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none b) none
+
+Jeannette Chiarlitti, IG BCE regional manager for the South Lower Saxony region. Ms. Chiarlitti has been a member of the Supervisory Board since May 2016 and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2025 fiscal year. Ms. Chiarlitti is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of
+
+a) amedes-group, Göttingen, Member of the Supervisory Board b) none
+
+Harald Feist, Chairman of the works council and Chairman of the general works council at Symrise AG. Mr. Feist has been a member of the Supervisory Board since July 2013 and the Vice-Chairman of the Supervisory Board since September 2018. He was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2025 fiscal year. Mr. Feist is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none b) none
+
+Bernd Hirsch, Chief Financial Officer (CFO) of COFRA Holding AG, Zug, Switzerland. Mr. Hirsch has been a member of the Supervisory Board since May 2018 and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2024 fiscal year. Mr. Hirsch is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none b) none
+
+## Page 171
+
+André Kirchhoff, full-time member of the works council at Symrise AG. Mr. Kirchhoff has been a member of the Supervisory Board since May 2016, and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2025 fiscal year. Mr. Kirchhoff is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none b) none
+
+Dr. Jakob Ley, Director Research Biobased Ingredients, Research&Technology, Food&Beverage, Taste, Nutrition& Health at Symrise AG. Dr. Ley has been a member of the Supervisory Board since May 2021, and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2025 fiscal year. Dr. Ley is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none b) none
+
+Malte Lückert, Secretary of the IGBCE Executive Board responsible for Economic, Sectoral and Collective Bargaining Policy and HR. Mr. Lückert was appointed as a member of the Supervisory Board as directed by the Local Court of Hildesheim on June 13, 2023 in accordance with Section 104 of the German Stock Corporation Act (AktG). Mr. Lückert is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+- a) Rain Carbon Germany GmbH, Castrop-Rauxel, Member of the Supervisory Board
+- b) none
+
+Prof. Dr. Andrea Pfeifer, Chief Executive Officer at AC Immune S.A., Lausanne, Switzerland. Prof. Dr. Pfeifer has been a member of the Supervisory Board since May 2011, and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2024 fiscal year. Prof. Dr. Pfeifer is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body
+
+of the following domestic and foreign companies listed under b) below:
+
+a) none
+
+- b) Bio MedInvest AG, Basel, Switzerland, Chairwoman of the Board of Directors AB2 Bio SA, Lausanne, Switzerland, Chairwoman
+	- of the Board of Directors
+
+Andrea Püttcher, Vice Chairperson of the works council and Vice Chairperson of the general works council at Symrise AG. Ms. Püttcher has been a member of the Supervisory Board since September 2018 and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2025 fiscal year. Ms. Püttcher is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none
+
+b) none
+
+Peter Vanacker, Chief Executive Officer of LyondellBasell Industries N.V., Houston, TX, USA. Mr. Vanacker has been a member of the Supervisory Board since June 2020 and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2024 fiscal year. Mr. Vanacker is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none b) none
+
+Jan Zijderveld, professional supervisory board member. Mr. Zijderveld has been a member of the Supervisory Board since May 2023, and was elected to the Supervisory Board for the period lasting until the end of the Annual General Meeting that will decide on discharges for the 2024 fiscal year. Mr. Zijderveld is a member of the statutory Supervisory Board of the following German companies listed under a) below and of a comparable supervisory body of the following domestic and foreign companies listed under b) below:
+
+a) none
+
+b) Ahold Delhaize N.V., Netherlands, Member of the Supervisory Board Pandora, Denmark, Member of the Board of Directors (non-executive)
+
+## Page 172
+
+<span id="page-171-0"></span>In the 2023 reporting year, the members of the Supervisory Board took part in training measures on topics including investments in geopolitically difficult areas, the investor view of international investments, the impact of regional differences in inflation on global corporations, indicators of audit quality, sustainability reporting and the EU Taxonomy, implementation and measurement of ESG goals, cooperation between Supervisory Boards and auditors, the Supply Chain Act, demographic risk, risk-oriented financial statement analysis, and new developments in risk management.
+
+#### **TOPICS OF THE SUPERVISORY BOARD MEETINGS**
+
+Key focus areas of our work, which were discussed on a regular basis by the Supervisory Board, particularly included the impacts of geopolitical upheaval such as the war in Ukraine and the conflict between Israel and Hamas, as well as their effects on the price of energy and agricultural products. These conflicts also had a negative impact on global supply chains, leading to supply bottlenecks and delays in logistics, for example in Red Sea shipping traffic. The significant interest rate hikes imposed by leading central banks to counter rising inflation, and the impact of these on our business, were also an ongoing topic for the Supervisory Board.
+
+In light of these matters, we discussed with the Executive Board in detail the measures it had enacted, as well as those planned for the future. Regular deliberations within the Supervisory Board also covered the development of sales, earnings and employment at Symrise and its two segments in the individual regions given the economic conditions present there. The Supervisory Board also discussed the company's financial and liquidity situation, as well as important investment projects and their development as measured against the planned objectives. In the 2023 fiscal year, the Supervisory Board held five ordinary meetings, two of which focused on specific topics. If necessary, any meeting of the full Supervisory Board may be held even if no member of the Executive Board is present. The same is true for those specific topics about which the auditor reports to the Supervisory Board and is available to answer questions. The first meeting on a specific topic centered around the company's strategy, its monitoring in view of the changing economic environment and the state of its implementation, while the second such meeting focused on the annual planning for 2024. An extraordinary meeting was also held to discuss the expansion of the Executive Board from three to five members.
+
+In our extraordinary meeting on January 19, 2023, we addressed the expansion of the Executive Board from three to five members in detail along with the resulting change to the distribution of responsibilities within the Executive Board. Dr. Coßmann and Dr. Andreas presented themselves to the Supervisory Board at this meeting. Based on the preliminary work of its Personnel Committee and renowned recruitment consultancies, the Supervisory Board appointed Dr. Coßmann and Dr. Andreas as members of the Executive Board, each with a three-year term starting on February 1, 2023. Dr. Coßmann has been given responsibility for Human Resources and Legal& Compliance. She has also been appointed as Labor Director. Dr. Andreas has taken over the management of the S&C segment.
+
+At our meeting on March 2, 2023, we focused on the audit of the 2022 annual financial statements and consolidated financial statements. The auditor was present at this meeting. In addition to our own analysis and discussion, we received the detailed report from our auditors and discussed the respective financial statements in detail with them. As a result, we approved the 2022 annual financial statements and the 2022 consolidated financial statements. In addition, we had a detailed discussion about a major investment project in Spain for the S&C segment and issued our approval.
+
+At this meeting, we also discussed in detail the audit conducted by DQS CFS GmbH on behalf of the Supervisory Board of the separate non-financial report in accordance with Section 289b of the German Commercial Code (HGB) and its results. Based on the audit, DQS CFS GmbH found that the separate non-financial report of Symrise AG fulfills the legal requirements in accordance with Section 289b of the German Commercial Code (HGB), and also meets the requirements of the "Comprehensive" GRI standard. The audit also revealed that the quantitative disclosures with regard to the aspects specified by the CSR Directive Implementation Act are correct overall and do not contradict other information and evidence provided by the company. The data and disclosures in the report are reliable. They provide a fair and correct picture of the relevance of all activities.
+
+Together with the Executive Board, we also decided on the proposal to be submitted to the Annual General Meeting on the appropriation of accumulated profit, discussed and decided on the proposal to be submitted to the Annual General Meeting on the proposal of the Auditing Committee regarding the election of the auditor for the 2023 fiscal year, and discussed possible agenda items for the 2023 Annual General Meeting. At this meeting, we also discussed and approved the remuneration report prepared by the Executive Board and Supervisory Board in accordance with Section 162 of the German Stock Corporation Act (AktG) and submitted it for approval by the 2023 Annual General Meeting.
+
+## Page 173
+
+<span id="page-172-0"></span>At our meeting on May 9, 2023, the Executive Board's report on the company's performance during the first three months of the 2023 fiscal year and its outlook for the rest of the year represented the main focus of our meeting. We also received the report from the Audit Committee and discussed developments in various crisis-hit regions of the world and the possible impact on our business in detail with the Executive Board. This included a discussion of possible responses to substantial changes in the general conditions facing our business. The Executive Board also informed us of the status of various acquisition projects and gave us an update on the upcoming Annual General Meeting.
+
+Our meeting on July 26, 2023 focused on a detailed discussion of the course of business over the first six months of the 2023 fiscal year. Issues discussed included inflation and rising energy prices, as well as how all of these factors are impacting the performance of Symrise and its profit margins. As part of this meeting, the Auditing Committee provided a report on its work, focusing on the review of the interim financial statements for the first half of 2023 by our auditor. The Executive Board informed us of the status of various acquisition projects and gave us detailed information on the status of the proceedings/requests for information initiated by various competition authorities in Europe and the United States.
+
+At the strategy meeting on September 13 and 14, 2023, the Executive Board and the Supervisory Board intensively discussed the status of implementation and refinement of our corporate strategy. Both segments provided a detailed presentation of the strategic focus areas of their business plans. We assessed and verified the resilience of the strategy on the basis of what has been achieved so far. We also discussed the implementation of the strategy in future with the Executive Board, with a focus on the medium-term plan, the IT-related capital expenditure included in the medium-term plan and the magnitude of future investments relative to sales.
+
+The meeting on November 29, 2023, was again devoted to the corporate planning for the upcoming 2024 fiscal year. The Supervisory Board approved the corporate planning for the 2024 fiscal year in this meeting. The Supervisory Board was updated by the Executive Board regarding the 2023 annual financial statements, and received and discussed the report of the Auditing Committee and the risk report. The Executive Board and Supervisory Board also jointly issued a Declaration of Compliance in accordance with Section 161 of the German Stock Corporation Act (AktG). The Supervisory Board also renewed and confirmed its goals regarding its composition and its competence profile in this context.
+
+#### **SUPERVISORY BOARD COMMITTEES**
+
+The Supervisory Board has formed a total of four committees to fulfill its responsibilities efficiently. These committees draft the Supervisory Board's resolutions and prepare the agenda items to be addressed in the full meetings.
+
+To the extent that it was legally admissible, the Supervisory Board delegated decision-making to its committees in individual cases. The Supervisory Board has established an Auditing Committee, an Arbitration Committee pursuant to Section 27 (3) of the Codetermination Act (Mitbestimmungsgesetz), a Personnel Committee and a Nominations Committee as permanent committees. The Chairman of the Supervisory Board chairs all of the committees with the exception of the Auditing Committee. In the Supervisory Board meetings, the chairmen of the committees report regularly and extensively on the content and results of the committee meetings. As a result, the Supervisory Board always has a comprehensive basis of information for its consultations.
+
+The Auditing Committee met five times during the 2023 fiscal year. It mainly focused on matters relating to the annual financial statements and consolidated financial statements, which includes monitoring the accounting process, the effectiveness of the internal controlling system, the risk management system, the internal auditing system, the audit of the financial statements and the compliance management system. The Auditing Committee also regularly dealt in detail with issues relating to Group financing, liquidity planning and securing liquidity. It also monitors the independence and qualifications of the auditor as well as additional services provided by the auditor. Furthermore, the Auditing Committee discusses the interim reports in detail and approves them before they are published. The Auditing Committee also prepared the Supervisory Board's decision on the approval of the annual financial statements and its approval of the consolidated financial statements. To this end, it was responsible for pre-auditing the annual financial statements, the consolidated financial statements, the management report and the proposal regarding appropriation of earnings. Receipt of the report from Internal Auditing, the Group Compliance office and the risk report were also regular agenda items at Auditing Committee meetings. The Auditing Committee prepared the Supervisory Board's proposal to the Annual General Meeting to appoint an auditor for the new fiscal year. Furthermore, the Auditing Committee obtained the relevant statements of independence from the auditor, issued the audit engagement and agreed with the auditor on key audit matters, i.e., those particular focal points of the audit on which the auditor must expressly state an opinion. In addition, the Auditing Committee determined
+
+## Page 174
+
+further individual focal points of the audit for the following fiscal year. The basis for this was a risk-oriented audit approach. The Auditing Committee was also responsible for preparing the decision of the Supervisory Board regarding auditing fees. As a rule, any meeting of the Auditing Committee could be held even if no member of the Executive Board was present. The same was true for those specific topics about which the auditor reports to the Auditing Committee and is available to answer questions. The Auditing Committee currently has six members. Three members are chosen by the shareholder representatives on the Supervisory Board and three members are chosen by the employee representatives on the Supervisory Board. The Chairperson of the Auditing Committee must be independent and should not be the Chairperson of the Supervisory Board. One member – Mr. Hirsch – has particular expertise in the field of auditing. Another member – Mr. König – has particular expertise in the field of accounting. Both Mr. Hirsch and Mr. König are independent from the company, its shareholders and its Boards and Committees. The current members of the Auditing Committee are:
+
+- Bernd Hirsch has been a member and Chairman of the Auditing Committee since May 2018.
+- Ursula Buck has been a member of the Auditing Committee since May 2016.
+- Malte Lückert has been a member of the Auditing Committee since September 2023.
+- Harald Feist has been a member of the Auditing Committee since May 2016.
+- Michael König has been a member of the Auditing Committee since June 2020.
+- Andrea Püttcher has been a member of the Auditing Committee since August 2021.
+
+The Personnel Committee met five times during the 2023 fiscal year and is responsible for matters pertaining to the Executive Board. In particular, these matters include making resolution recommendations at full Supervisory Board meetings regarding the appointment of Executive Board members and components of Executive Board members' employment contracts. This also includes succession planning at the Executive Board level in accordance with Recommendation B 2 of the German Corporate Governance Code 2022. The Personnel Committee addresses succession planning for members of the Executive Board at least once a year (most recently at the Personnel Committee meeting on November 29, 2023). In particular, the terms of existing employment contacts and the age structure of the Executive Board are taken into account.
+
+The Supervisory Board and Executive Board are committed to ensuring internal talent development for employees at levels below the Executive Board for all Executive Board positions. Skill sets and diversity criteria are taken into account here. The evaluation for these is carried out by means of internal assessments, as well as external assessments. In this process, candidates who have the potential to take over a position on the Executive Board undergo an assessment that leads directly from an individual analysis to an individual development plan. The aim is to always be able to fill positions on the Executive Board internally even at short notice. In doing so, the Personnel Committee also takes into account the requirements of the Act to Supplement and Amend the Regulations for the Equal Participation of Women in Executive Positions in the Public and Private Sector ("FüPoG II"), which came into force on August 12, 2021. For this reason, when appointing new members to the Executive Board in the future, we will not only strive for diversity criteria, but also for appropriate consideration of women. The Personnel Committee deals with the development of the Executive Board remuneration system – specifying the amount of remuneration and the related target agreements and making corresponding recommendations at the full Supervisory Board meetings. The Personnel Committee currently has six members, of whom three members are chosen by the shareholder representatives and three are chosen by the employee representatives on the Supervisory Board. The current members of the Personnel Committee are:
+
+- Michael König has been a member and Chairman of the Personnel Committee since June 2020.
+- Jeanette Chiarlitti has been a member of the Personnel Committee since September 2023.
+- Harald Feist has been a member of the Personnel Committee since August 2014.
+- Dr. Jakob Ley has been a member of the Personnel Committee since August 2021.
+- Prof. Dr. Andrea Pfeifer has been a member of the Personnel Committee since September 2012.
+- Jan Zijderveld has been a member of the Personnel Committee since September 2023.
+
+Shareholders and employees are equally represented on the Arbitration Committee pursuant to Section 27 (3) of the Co-determination Act (MitbestG). In the event that the appointment of a member of the Executive Board is not approved by the two-thirds majority required by law, the Arbitration Committee is responsible for submitting an alternative proposal to the Supervisory Board. The Arbitration Committee has four members. It was not necessary to convene the Arbitration Committee during the 2023 fiscal year. The current members are:
+
+## Page 175
+
+- Michael König has been a member and Chairman of the Arbitration Committee since June 2020.
+- Ursula Buck has been a member of the Arbitration Committee since May 2016.
+- Harald Feist has been a member of the Arbitration Committee since September 2018.
+- André Kirchhoff has been a member of the Arbitration Committee since August 2021.
+
+The Nominations Committee consists exclusively of shareholder representatives from the Supervisory Board in accordance with Recommendation D 4 of the German Corporate Governance Code 2022. Its task is to recommend shareholder representatives to the Annual General Meeting who would be suitable Supervisory Board members for upcoming Supervisory Board elections. The Nominations Committee consists of three members. It was not necessary to convene the Nominations Committee during the 2023 fiscal year. The current members are:
+
+- Michael König has been a member and Chairman of the Nominations Committee since June 2020.
+- Prof. Dr. Andrea Pfeifer has been a member of the Nominations Committee since May 2011.
+- Jan Zijderveld has been a member of the Personnel Committee since September 2023.
+
+The members of the Supervisory Board and its Committees, the respective meeting dates of the Supervisory Board and its Committees, the format of the meeting and the individualized attendance of all members of the Supervisory Board and its Committees at the respective meetings of the Supervisory Board and its Committees are also shown in the following list:
+
+#### LIST OF SUPERVISORY BOARD MEETINGS
+
+#### **Attendance at Supervisory Board meetings**
+
+| Member name                                              | January 19, 2023 (EM) | March 2, 2023 | May 9, 2023 | July 26, 2023 | September 13, 2023 | September 14, 23 | November 29, 2023 |
+|----------------------------------------------------------|-----------------------|---------------|-------------|---------------|--------------------|------------------|-------------------|
+| Michael König (from January 15, 2020)                    |                      |              |            |              |                   |                 |                  |
+| Ursula Buck (from May 11, 2016)                          |                      |              |            |              |                   |                 |                  |
+| Harald Feist (from July 01, 2013)                        |                      |              |            |              |                   |                 |                  |
+| Horst-Otto Gerberding (until May 10, 2023)               |                      |              |            |              |                    |                  |                   |
+| Jeannette Chiarlitti (from May 11, 2016)                 |                      |              |            |              |                   |                 |                  |
+| Bernd Hirsch (from May 16, 2018)                         |                      |              |            |              |                   |                 |                  |
+| André Kirchhoff (from May 11, 2016)                      |                      |              |            |              |                   |                 |                  |
+| Dr. Jakob Ley (from May 05, 2021)                        |                      |              |            |              |                   |                 |                  |
+| Malte Lückert (from June 13, 2023)                       |                       |               |             |              |                   |                 |                  |
+| Prof. Dr. Andrea Pfeifer (May 18, 2011)                  |                      |              |            |              |                   |                 |                  |
+| Andrea Püttcher (from September 01, 2018)                |                      |              |            |              |                   |                 |                  |
+| Peter Winkelmann (from May 14, 2014)<br>(until 31.05.23) |                      |              |            |               |                    |                  |                   |
+| Peter Vanacker (from June 17, 2020)                      |                      |               |            |              |                   |                 |                  |
+| Jan Zijerderveld (from May 10, 2023)                     |                       |               |             |              |                   |                 |                  |
+
+#### **Participation in the Arbitration Committee (No meetings in 2023)**
+
+#### Member name
+
+| Michael König (Chairman) (from June 17, 2020) |
+|-----------------------------------------------|
+| Ursula Buck (from May 11, 2016)               |
+| Harald Feist (from September 20, 2018)        |
+| André Kirchhoff (from August 03, 2021)        |
+
+## Page 176
+
+#### **Participation in the Personnel Committee**
+
+| Member name                                                  | January 19, 2023 (EM) | March 2, 2023 | May 9, 2023 | September 13, 2023 | November 29, 2023 |
+|--------------------------------------------------------------|-----------------------|---------------|-------------|--------------------|-------------------|
+| Michael König (Chairman) (from June 17, 2020)                | ✓                     | ✓             | ✓           | ✓                  | ✓                 |
+| Harald Feist (from August 06, 2014)                          | ✓                     | ✓             | ✓           | ✓                  | ✓                 |
+| Horst Otto Gerberding (until May 10, 2023)                   | ✓                     | ✓             |             |                    |                   |
+| Dr. Jakob Ley (from August 03, 2021)                         | ✓                     | ✓             | ✓           | ✓                  | ✓                 |
+| Prof. Dr. Andrea Pfeifer (from September 20, 2012)           | ✓                     | ✓             | ✓           | ✓                  | ✓                 |
+| Peter Winkelmann (from May 11, 2016)<br>(until May 31, 2023) | ✓                     | ✓             | ✓           |                    |                   |
+| Jeannette Chiarlitti (from September 14, 2023)               |                       |               |             | ✓                  | ✓                 |
+| Jan Zijderveld (from September 14, 2023)                     |                       |               |             | ✓                  | ✓                 |
+
+#### **Participation in the Auditing Committee**
+
+| Member name                                                                  | February 8, 2023 | March 13, 2023 | April 24, 2023 | July 26, 2023 | October 23, 2023 |
+|------------------------------------------------------------------------------|------------------|----------------|----------------|---------------|------------------|
+| Bernd Hirsch (Chairman) (from May 16, 2018)                                  | ✓                | ✓              | ✓              | ✓             | ✓                |
+| Ursula Buck (from May 11, 2016)                                              | ✓                | ✓              | ✓              | ✓             | ✓                |
+| Harald Feist (from May 11, 2016)                                             | ✓                | ✓              | ✓              | ✓             | ✓                |
+| Jeannette Chiarlitti (from September 20, 2018)<br>(until September 13, 2023) | ✓                | ✓              | ✓              | ✓             | ✓                |
+| Michael König (from June 17, 2020)                                           | ✓                | ✓              | ✓              | ✓             | ✓                |
+| Andrea Püttcher (from August 03, 2021)                                       | ✓                | ✓              | ✓              | ✓             | ✓                |
+| Malte Lückert (from September 14, 2023)                                      |                  |                |                |               | ✓                |
+
+#### **Participation in the Nominations Committee (No meetings in 2023)**
+
+#### Member name
+
+| Michael König (Chairman) (from June 17, 2020)                       |  |  |  |  |  |  |  |
+|---------------------------------------------------------------------|--|--|--|--|--|--|--|
+| Horst-Otto Gerberding (until May 10, 2023 )<br>(until May 10, 2023) |  |  |  |  |  |  |  |
+| Prof. Dr. Andrea Pfeifer (from May 18, 2011)                        |  |  |  |  |  |  |  |
+| Jan Zijderveld (from September 14, 2023)                            |  |  |  |  |  |  |  |
+
+## Page 177
+
+#### <span id="page-176-0"></span>**ANNUAL AND CONSOLIDATED FINANCIAL STATEMENTS 2023**
+
+The auditor Ernst&Young GmbH Wirtschaftsprüfungsgesellschaft, Hanover, audited the annual financial statements for the fiscal year from January 1, 2023 to December 31, 2023, which were prepared by the Executive Board in accordance with the German Commercial Code (HGB), as well as the management report of Symrise AG. The Auditing Committee engaged the auditor to perform the audit in accordance with the May 10, 2023 resolution of the Annual General Meeting. It was agreed that the auditor would inform the Auditing Committee without delay of all findings and incidents of significance to the duties of the Auditing Committee identified during the audit, as well as any circumstances identified during the audit which would result in the declaration issued by the Executive Board and Supervisory Board in accordance with the German Corporate Governance Code being inaccurate. The auditor issued an unqualified audit opinion. The Symrise AG consolidated financial statements were prepared in accordance with Section 315a HGB on the basis of the International Financial Reporting Standards (IFRS), as applicable in the European Union. The auditor Ernst&Young also certified the consolidated financial statements and the Group management report without qualification.
+
+The auditor's report on these financial statements, as well as additional auditing reports and documentation, were delivered to all members of the Supervisory Board in a timely manner. They were discussed thoroughly in the meetings of the Auditing Committee of February 8 and February 28, 2024, and in the full meeting of the Supervisory Board of February 29, 2024. The auditors participated in the deliberations on the annual and consolidated financial statements in both committees. Here, they reported on the key audit results and were available to the Auditing Committee and the Supervisory Board to answer any questions and provide additional information. Following our own review of the annual financial statements, the consolidated financial statements, the management report and the Group management report, we accepted the findings of the auditor. In our meeting of February 29, 2024, we approved the annual financial statements and the consolidated financial statements upon the recommendation of the Auditing Committee. The annual financial statements are thereby approved. After careful examination, we endorsed the Executive Board's proposal for the appropriation of accumulated profit. The Supervisory Board considers the proposal regarding the use of profits to be appropriate.
+
+The content of the separate non-financial report prepared for the 2023 fiscal year was audited by DQS CFS GmbH. The audit did not lead to any reservations. The separate non-financial report is available on the Symrise website at:
+
+[https://symrise.com/corporatereport/2023/company/](https://symrise.com/corporatereport/2023/company/sustainability-record/index.html) [sustainability-record/index.html](https://symrise.com/corporatereport/2023/company/sustainability-record/index.html)
+
+#### **CORPORATE GOVERNANCE**
+
+In accordance with Principle 23 of the currently applicable version of the German Corporate Governance Code from April 28, 2022 ("DCGK 2022") published in the official section of the Federal Gazette by the German Federal Ministry of Justice and Consumer Protection on June 27, 2022, the Supervisory Board and Executive Board report annually on the corporate governance of the respective company in the Corporate Governance Statement pursuant to Sections 289f and 315d of the German Commercial Code (HGB).
+
+The Corporate Governance Statement includes the Declaration of Compliance pursuant to Section 161 of the German Stock Corporation Act (AktG), relevant disclosures on corporate governance practices, a description of the working methods of the Executive Board and the Supervisory Board, as well as the composition and working methods of their Committees, the target figures for the proportion of women in the Executive Board and for the two management levels below the Executive Board, together with deadlines for implementation, the status of implementation and a description of the diversity concept with regard to the composition of the Executive Board and Supervisory Board.
+
+Section 162 of the German Stock Corporation Act, newly introduced with the Act Implementing the Second Shareholders' Rights Directive (ARUG II), for the first time requires a separate remuneration report under stock corporation law for the fiscal years beginning after December 31, 2020. This replaced the previous remuneration report prepared in accordance with Sections 289a (2) Sentence 1, 315a (2) Sentence 1 of the German Commercial Code (HGB). The remuneration report under stock corporation law pursuant to Section 162 German Stock Corporation Act (AktG) is a separate report from the financial statements under commercial law. It is therefore neither part of the Corporate Governance Statement nor part of the management report. It is submitted to the Annual General Meeting for approval each year. The Corporate Governance Statement pursuant to Sections 289f and 315d of the German Commercial Code has been made publicly available on the Symrise website. It can be found at:
+
+<https://www.symrise.com/corporate-governance-statement>

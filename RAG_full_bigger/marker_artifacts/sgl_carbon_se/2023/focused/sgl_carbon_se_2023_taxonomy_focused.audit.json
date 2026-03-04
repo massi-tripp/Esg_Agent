@@ -1,0 +1,112 @@
+{
+  "company_slug": "sgl_carbon_se",
+  "year": "2023",
+  "source_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\sgl_carbon_se\\2023\\sgl_carbon_se_2023_full_report.md",
+  "focused_md": "C:\\Universita\\TESI\\esg_agent\\RAG_full_bigger\\marker_artifacts\\sgl_carbon_se\\2023\\focused\\sgl_carbon_se_2023_taxonomy_focused.md",
+  "status": "ok",
+  "params": {
+    "before_pages": 2,
+    "after_pages": 5,
+    "max_gap_between_hits": 2,
+    "weak_enabled": true,
+    "weak_threshold": 2,
+    "fallback_topn_enabled": true,
+    "fallback_topn_pages": 3,
+    "merge_overlapping_windows": true,
+    "overwrite_existing": true,
+    "include_page_headers": true,
+    "year_cfg_used": "2023"
+  },
+  "windows": [
+    {
+      "hit_pages": [
+        13
+      ],
+      "start_page": 11,
+      "end_page": 18,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "13": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hit_pages": [
+        27,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "start_page": 25,
+      "end_page": 40,
+      "reason": {
+        "merged_reasons": [
+          {
+            "type": "strong_phrase",
+            "matched_phrases_by_page": {
+              "27": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "29": [
+                "EU Taxonomy",
+                "EU taxonomy"
+              ],
+              "30": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Environmentally sustainable activities",
+                "Annex I",
+                "Annex II"
+              ],
+              "31": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I"
+              ],
+              "32": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Annex I",
+                "Annex II"
+              ],
+              "33": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "34": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ],
+              "35": [
+                "EU Taxonomy",
+                "EU taxonomy",
+                "Taxonomy-eligible activities",
+                "Taxonomy-aligned activities",
+                "Environmentally sustainable activities"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
