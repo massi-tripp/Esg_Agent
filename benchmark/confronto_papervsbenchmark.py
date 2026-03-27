@@ -51,7 +51,7 @@ df1= benchmark_long
 
 #print(df1)
 
-df2= pd.read_excel("benchmark\Copia_Benchmark_rag.xlsx", sheet_name="report_corretti")
+df2= pd.read_excel("benchmark\Copia_Benchmark_rag1.xlsx", sheet_name="benchmark")
 print("DF2 columns:", list(df2.columns))
 dfiniziale=df2.copy()
 df2=df2[['company_name', 'Sub_activity_label']]
@@ -194,5 +194,5 @@ dfiniziale[COL] = dfiniziale[COL].apply(normalize_sub_activity_code)
 # (opzionale) controllo veloce
 print(dfiniziale[COL].head(30))
 path= r'C:\Universita\TESI\esg_agent\benchmark\Copia_Benchmark_rag1.xlsx'
-dfiniziale.to_excel(path, index=False, sheet_name="benchmark")
-print("Saved XLSX to:", path)
+#dfiniziale.to_excel(path, index=False, sheet_name="benchmark")
+#print("Saved XLSX to:", path)

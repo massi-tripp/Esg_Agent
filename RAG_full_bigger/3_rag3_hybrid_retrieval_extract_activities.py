@@ -56,6 +56,13 @@ INDEX_DIR.mkdir(parents=True, exist_ok=True)
 OUT_JSONL = OUT_DIR / "activities_extracted.jsonl"
 OUT_CSV = OUT_DIR / "activities_extracted.csv"
 
+OUT_METRICS_JSONL = OUT_DIR / "activities_extracted_metrics.jsonl"
+OUT_METRICS_CSV = OUT_DIR / "activities_extracted_metrics.csv"
+OUT_METRICS_SUMMARY_JSON = OUT_DIR / "activities_extracted_metrics_summary.json"
+
+OUT_DOC_METRICS_JSONL = OUT_DIR / "retrieval_doc_metrics.jsonl"
+OUT_DOC_METRICS_CSV = OUT_DIR / "retrieval_doc_metrics.csv"
+OUT_DOC_METRICS_SUMMARY_JSON = OUT_DIR / "retrieval_doc_metrics_summary.json"
 
 # =========================
 # DATA STRUCTURES
@@ -88,6 +95,124 @@ def count_tokens(text: str) -> int:
         return len(ENCODER.encode(text))
     return max(1, len(text) // 4)
 
+def _usage_to_dict(resp: Any) -> Dict[str, Optional[int]]:
+    usage = getattr(resp, "usage", None)
+    if usage is None:
+        return {
+            "prompt_tokens": None,
+            "completion_tokens": None,
+            "total_tokens": None,
+        }
+
+    return {
+        "prompt_tokens": getattr(usage, "prompt_tokens", None),
+        "completion_tokens": getattr(usage, "completion_tokens", None),
+        "total_tokens": getattr(usage, "total_tokens", None),
+    }
+
+
+def _series_stats(s: pd.Series) -> Dict[str, Optional[float]]:
+    s = pd.to_numeric(s, errors="coerce").dropna()
+    if s.empty:
+        return {
+            "count": 0,
+            "min": None,
+            "q1": None,
+            "mean": None,
+            "median": None,
+            "q3": None,
+            "p90": None,
+            "p95": None,
+            "max": None,
+            "std": None,
+            "iqr": None,
+            "sum": None,
+        }
+
+    q1 = s.quantile(0.25)
+    q3 = s.quantile(0.75)
+
+    return {
+        "count": int(s.shape[0]),
+        "min": float(s.min()),
+        "q1": float(q1),
+        "mean": float(s.mean()),
+        "median": float(s.median()),
+        "q3": float(q3),
+        "p90": float(s.quantile(0.90)),
+        "p95": float(s.quantile(0.95)),
+        "max": float(s.max()),
+        "std": float(s.std(ddof=1)) if len(s) > 1 else 0.0,
+        "iqr": float(q3 - q1),
+        "sum": float(s.sum()),
+    }
+
+
+def build_metrics_summary(df_metrics: pd.DataFrame) -> Dict[str, Any]:
+    if df_metrics.empty:
+        return {"overall": {}, "by_year": {}}
+
+    ok = df_metrics[df_metrics["status"] == "ok"].copy()
+    if ok.empty:
+        return {"overall": {}, "by_year": {}}
+
+    summary = {
+        "overall": {
+            "elapsed_s": _series_stats(ok["elapsed_s"]),
+            "chunk_tokens_est": _series_stats(ok["chunk_tokens_est"]),
+            "prompt_tokens_est": _series_stats(ok["prompt_tokens_est"]),
+            "prompt_tokens_api": _series_stats(ok["prompt_tokens_api"]),
+            "completion_tokens_api": _series_stats(ok["completion_tokens_api"]),
+            "total_tokens_api": _series_stats(ok["total_tokens_api"]),
+            "n_rows_normalized": _series_stats(ok["n_rows_normalized"]),
+        },
+        "by_year": {},
+    }
+
+    for year, g in ok.groupby("report_year", dropna=False):
+        summary["by_year"][str(year)] = {
+            "n_calls": int(len(g)),
+            "elapsed_s": _series_stats(g["elapsed_s"]),
+            "completion_tokens_api": _series_stats(g["completion_tokens_api"]),
+            "total_tokens_api": _series_stats(g["total_tokens_api"]),
+            "n_rows_normalized": _series_stats(g["n_rows_normalized"]),
+        }
+
+    return summary
+
+
+def build_doc_metrics_summary(df_doc: pd.DataFrame) -> Dict[str, Any]:
+    if df_doc.empty:
+        return {"overall": {}, "by_year": {}}
+
+    ok = df_doc[df_doc["status"] == "ok"].copy()
+    if ok.empty:
+        return {"overall": {}, "by_year": {}}
+
+    summary = {
+        "overall": {
+            "index_elapsed_s": _series_stats(ok["index_elapsed_s"]),
+            "retrieval_elapsed_s": _series_stats(ok["retrieval_elapsed_s"]),
+            "extraction_elapsed_sum_s": _series_stats(ok["extraction_elapsed_sum_s"]),
+            "doc_total_elapsed_s": _series_stats(ok["doc_total_elapsed_s"]),
+            "n_index_chunks": _series_stats(ok["n_index_chunks"]),
+            "n_retrieved_chunks": _series_stats(ok["n_retrieved_chunks"]),
+            "n_llm_calls_ok": _series_stats(ok["n_llm_calls_ok"]),
+            "n_llm_calls_error": _series_stats(ok["n_llm_calls_error"]),
+        },
+        "by_year": {},
+    }
+
+    for year, g in ok.groupby("report_year", dropna=False):
+        summary["by_year"][str(year)] = {
+            "n_docs": int(len(g)),
+            "index_elapsed_s": _series_stats(g["index_elapsed_s"]),
+            "retrieval_elapsed_s": _series_stats(g["retrieval_elapsed_s"]),
+            "extraction_elapsed_sum_s": _series_stats(g["extraction_elapsed_sum_s"]),
+            "doc_total_elapsed_s": _series_stats(g["doc_total_elapsed_s"]),
+        }
+
+    return summary
 
 # =========================
 # JSON helpers
@@ -735,27 +860,49 @@ def _extract_first_json_object(text: str) -> str:
     raise ValueError("Unbalanced JSON braces in LLM output")
 
 
-def call_llm_extract(client: AzureOpenAI, developer: str, user: str, max_retries: int = 3) -> Dict[str, Any]:
+def call_llm_extract(
+    client: AzureOpenAI,
+    developer: str,
+    user: str,
+    max_retries: int = 3,
+) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     last_err: Optional[Exception] = None
+
     for attempt in range(1, max_retries + 1):
         try:
             resp = client.chat.completions.create(
                 model=CHAT_DEPLOYMENT,
-                messages=[{"role": "developer", "content": developer}, {"role": "user", "content": user}],
+                messages=[
+                    {"role": "developer", "content": developer},
+                    {"role": "user", "content": user},
+                ],
                 reasoning_effort=REASONING_EFFORT,
                 max_completion_tokens=MAX_COMPLETION_TOKENS,
             )
+
             content = resp.choices[0].message.content or ""
             json_text = _extract_first_json_object(content)
             data = json.loads(json_text)
+
             if not isinstance(data, dict):
                 raise ValueError("LLM output is not a JSON object")
             if "activities" not in data or not isinstance(data["activities"], list):
                 raise ValueError("LLM JSON missing 'activities' list")
-            return data
+
+            usage = _usage_to_dict(resp)
+            meta = {
+                "attempt_used": attempt,
+                "prompt_tokens": usage["prompt_tokens"],
+                "completion_tokens": usage["completion_tokens"],
+                "total_tokens": usage["total_tokens"],
+            }
+
+            return data, meta
+
         except Exception as e:
             last_err = e
             time.sleep(1.5 * attempt)
+
     raise RuntimeError(f"LLM extraction failed after {max_retries} retries: {last_err}")
 
 
@@ -880,14 +1027,30 @@ def run(
 
     queries = build_queries()
 
+    metrics_rows: List[Dict[str, Any]] = []
+    doc_metrics_rows: List[Dict[str, Any]] = []
+
     mode = "w" if no_append_jsonl else "a"
-    with OUT_JSONL.open(mode, encoding="utf-8") as w:
+    with (
+        OUT_JSONL.open(mode, encoding="utf-8") as w,
+        OUT_METRICS_JSONL.open(mode, encoding="utf-8") as w_metrics,
+        OUT_DOC_METRICS_JSONL.open(mode, encoding="utf-8") as w_doc_metrics,
+    ):
         print(f"[OUT] JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_JSONL}")
         print(f"[IDX] INDEX_DIR -> {INDEX_DIR}")
         print(f"[RET] top_k={top_k} | w_bm25={w_bm25} w_emb={w_emb} | emb_model(depl)={EMBEDDINGS_DEPLOYMENT}")
+        print(f"[OUT] METRICS JSONL -> {OUT_METRICS_JSONL}")
+        print(f"[OUT] DOC METRICS JSONL -> {OUT_DOC_METRICS_JSONL}")
 
         for i, doc in enumerate(docs, start=1):
             year = str(doc.report_year)
+
+            doc_t0 = time.perf_counter()
+            index_elapsed_s: Optional[float] = None
+            retrieval_elapsed_s: Optional[float] = None
+            extraction_elapsed_sum_s = 0.0
+            n_llm_calls_ok = 0
+            n_llm_calls_error = 0
 
             # nomenclatura azienda identica
             company_name_full = resolve_company_name_for_benchmark(MARKER_ARTIFACTS_DIR, doc.slug, year)
@@ -896,6 +1059,8 @@ def run(
             print(f"[{i}/{len(docs)}] {company_name} ({doc.slug}) {year} -> {doc.focused_md}")
 
             # 1) build/load index per doc-year
+
+            index_t0 = time.perf_counter()
             try:
                 index = build_or_load_doc_index(
                     client=client,
@@ -904,11 +1069,43 @@ def run(
                     target_chunk_tokens=retrieval_chunk_tokens,
                     max_chunk_tokens=retrieval_chunk_max_tokens,
                 )
+                index_elapsed_s = time.perf_counter() - index_t0
             except Exception as e:
+                index_elapsed_s = time.perf_counter() - index_t0
+
+                doc_metric = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "company_name_full": company_name_full,
+                    "report_year": year,
+                    "source_md": str(doc.focused_md),
+                    "status": "error",
+                    "error_stage": "index",
+                    "error_message": str(e),
+                    "rebuild_index": rebuild_index,
+                    "top_k_requested": top_k,
+                    "w_bm25": w_bm25,
+                    "w_emb": w_emb,
+                    "n_queries": len(queries),
+                    "n_index_chunks": None,
+                    "n_retrieved_chunks": None,
+                    "index_elapsed_s": round(index_elapsed_s, 6),
+                    "retrieval_elapsed_s": None,
+                    "extraction_elapsed_sum_s": 0.0,
+                    "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+                    "n_llm_calls_ok": 0,
+                    "n_llm_calls_error": 0,
+                }
+
+                w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+                doc_metrics_rows.append(doc_metric)
+
                 print(f"[SKIP] index error: {company_name} {year} -> {e}")
                 continue
 
             # 2) retrieval top-k
+
+            retrieval_t0 = time.perf_counter()
             try:
                 top_chunks = retrieve_topk_chunks_hybrid(
                     client=client,
@@ -918,11 +1115,68 @@ def run(
                     w_bm25=w_bm25,
                     w_emb=w_emb,
                 )
+                retrieval_elapsed_s = time.perf_counter() - retrieval_t0
             except Exception as e:
+                retrieval_elapsed_s = time.perf_counter() - retrieval_t0
+
+                doc_metric = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "company_name_full": company_name_full,
+                    "report_year": year,
+                    "source_md": str(doc.focused_md),
+                    "status": "error",
+                    "error_stage": "retrieval",
+                    "error_message": str(e),
+                    "rebuild_index": rebuild_index,
+                    "top_k_requested": top_k,
+                    "w_bm25": w_bm25,
+                    "w_emb": w_emb,
+                    "n_queries": len(queries),
+                    "n_index_chunks": len(index.get("chunks", [])) if isinstance(index, dict) else None,
+                    "n_retrieved_chunks": None,
+                    "index_elapsed_s": round(index_elapsed_s, 6) if index_elapsed_s is not None else None,
+                    "retrieval_elapsed_s": round(retrieval_elapsed_s, 6),
+                    "extraction_elapsed_sum_s": 0.0,
+                    "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+                    "n_llm_calls_ok": 0,
+                    "n_llm_calls_error": 0,
+                }
+
+                w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+                doc_metrics_rows.append(doc_metric)
+
                 print(f"[SKIP] retrieval error: {company_name} {year} -> {e}")
                 continue
 
             if not top_chunks:
+                doc_metric = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "company_name_full": company_name_full,
+                    "report_year": year,
+                    "source_md": str(doc.focused_md),
+                    "status": "empty",
+                    "error_stage": None,
+                    "error_message": None,
+                    "rebuild_index": rebuild_index,
+                    "top_k_requested": top_k,
+                    "w_bm25": w_bm25,
+                    "w_emb": w_emb,
+                    "n_queries": len(queries),
+                    "n_index_chunks": len(index.get("chunks", [])),
+                    "n_retrieved_chunks": 0,
+                    "index_elapsed_s": round(index_elapsed_s, 6) if index_elapsed_s is not None else None,
+                    "retrieval_elapsed_s": round(retrieval_elapsed_s, 6) if retrieval_elapsed_s is not None else None,
+                    "extraction_elapsed_sum_s": 0.0,
+                    "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+                    "n_llm_calls_ok": 0,
+                    "n_llm_calls_error": 0,
+                }
+
+                w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+                doc_metrics_rows.append(doc_metric)
+
                 print(f"[SKIP] nessun chunk recuperato per {company_name} {year}")
                 continue
 
@@ -944,45 +1198,150 @@ def run(
                         chunk_text = chunk_text[: max_input * 4]
 
                 developer, user = build_prompt(company_name, year, chunk_text, rank, len(top_chunks))
+                prompt_tokens_est = count_tokens(developer) + count_tokens(user)
 
+                t0 = time.perf_counter()
                 try:
-                    result = call_llm_extract(client, developer, user, max_retries=3)
+                    result, llm_meta = call_llm_extract(client, developer, user, max_retries=3)
+                    elapsed_s = time.perf_counter() - t0
                 except Exception as e:
+                    elapsed_s = time.perf_counter() - t0
+                    extraction_elapsed_sum_s += elapsed_s
+                    n_llm_calls_error += 1
+
+                    metric_row = {
+                        "slug": doc.slug,
+                        "company": company_name,
+                        "company_name_full": company_name_full,
+                        "report_year": year,
+                        "source_md": str(doc.focused_md),
+                        "retrieval_rank": rank,
+                        "retrieval_top_k": len(top_chunks),
+                        "chunk_id": ch.get("chunk_id"),
+                        "text_hash": ch.get("text_hash"),
+                        "start_page": ch.get("start_page"),
+                        "end_page": ch.get("end_page"),
+                        "chunk_tokens_est": ch.get("tokens"),
+                        "prompt_tokens_est": prompt_tokens_est,
+                        "elapsed_s": round(elapsed_s, 6),
+                        "status": "error",
+                        "error_message": str(e),
+                        "attempt_used": None,
+                        "prompt_tokens_api": None,
+                        "completion_tokens_api": None,
+                        "total_tokens_api": None,
+                        "n_activities_raw": None,
+                        "n_rows_normalized": None,
+                        "retrieval_score_hybrid": ch.get("_retrieval", {}).get("score_hybrid"),
+                        "retrieval_score_bm25_raw": ch.get("_retrieval", {}).get("score_bm25_raw"),
+                        "retrieval_score_emb_raw": ch.get("_retrieval", {}).get("score_emb_raw"),
+                        "embeddings_deployment": EMBEDDINGS_DEPLOYMENT,
+                        "chat_deployment": CHAT_DEPLOYMENT,
+                    }
+
+                    w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+                    metrics_rows.append(metric_row)
+
                     print(f"[SKIP] LLM error: {company_name} {year} retrieval_rank={rank}/{len(top_chunks)} -> {e}")
                     continue
+
+                normalized_rows = normalize_rows(result)
+                extraction_elapsed_sum_s += elapsed_s
+                n_llm_calls_ok += 1
 
                 result["_meta"] = {
                     "slug": doc.slug,
                     "company_name_full": company_name_full,
                     "year": year,
                     "source_md": str(doc.focused_md),
-                    # retrieval info
                     "retrieval_rank": rank,
                     "retrieval_top_k": len(top_chunks),
                     "retrieval_scores": ch.get("_retrieval", {}),
-                    # chunk provenance
                     "chunk_id": ch.get("chunk_id"),
                     "text_hash": ch.get("text_hash"),
                     "start_page": ch.get("start_page"),
                     "end_page": ch.get("end_page"),
                     "chunk_tokens_est": ch.get("tokens"),
-                    # query set (debug)
+                    "prompt_tokens_est": prompt_tokens_est,
+                    "elapsed_s": round(elapsed_s, 6),
+                    "attempt_used": llm_meta.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta.get("completion_tokens"),
+                    "total_tokens_api": llm_meta.get("total_tokens"),
                     "queries_used_preview": queries[:8],
                     "n_queries": len(queries),
-                    # model info
                     "embeddings_deployment": EMBEDDINGS_DEPLOYMENT,
                     "chat_deployment": CHAT_DEPLOYMENT,
                 }
 
-                # forza chunk_index coerente (rank)
                 result["company"] = company_name
                 result["report_year"] = year
                 result["chunk_index"] = rank
 
-                w.write(json.dumps(result, ensure_ascii=False) + "\n")
-                all_flat_rows.extend(normalize_rows(result))
-                time.sleep(SLEEP_BETWEEN_CALLS_S)
+                metric_row = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "company_name_full": company_name_full,
+                    "report_year": year,
+                    "source_md": str(doc.focused_md),
+                    "retrieval_rank": rank,
+                    "retrieval_top_k": len(top_chunks),
+                    "chunk_id": ch.get("chunk_id"),
+                    "text_hash": ch.get("text_hash"),
+                    "start_page": ch.get("start_page"),
+                    "end_page": ch.get("end_page"),
+                    "chunk_tokens_est": ch.get("tokens"),
+                    "prompt_tokens_est": prompt_tokens_est,
+                    "elapsed_s": round(elapsed_s, 6),
+                    "status": "ok",
+                    "error_message": None,
+                    "attempt_used": llm_meta.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta.get("completion_tokens"),
+                    "total_tokens_api": llm_meta.get("total_tokens"),
+                    "n_activities_raw": len(result.get("activities", [])) if isinstance(result.get("activities"), list) else None,
+                    "n_rows_normalized": len(normalized_rows),
+                    "retrieval_score_hybrid": ch.get("_retrieval", {}).get("score_hybrid"),
+                    "retrieval_score_bm25_raw": ch.get("_retrieval", {}).get("score_bm25_raw"),
+                    "retrieval_score_emb_raw": ch.get("_retrieval", {}).get("score_emb_raw"),
+                    "embeddings_deployment": EMBEDDINGS_DEPLOYMENT,
+                    "chat_deployment": CHAT_DEPLOYMENT,
+                }
 
+                w.write(json.dumps(result, ensure_ascii=False) + "\n")
+                w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+
+                metrics_rows.append(metric_row)
+                all_flat_rows.extend(normalized_rows)
+
+                time.sleep(SLEEP_BETWEEN_CALLS_S)
+            doc_metric = {
+                "slug": doc.slug,
+                "company": company_name,
+                "company_name_full": company_name_full,
+                "report_year": year,
+                "source_md": str(doc.focused_md),
+                "status": "ok",
+                "error_stage": None,
+                "error_message": None,
+                "rebuild_index": rebuild_index,
+                "top_k_requested": top_k,
+                "w_bm25": w_bm25,
+                "w_emb": w_emb,
+                "n_queries": len(queries),
+                "n_index_chunks": len(index.get("chunks", [])),
+                "n_retrieved_chunks": len(top_chunks),
+                "index_elapsed_s": round(index_elapsed_s, 6) if index_elapsed_s is not None else None,
+                "retrieval_elapsed_s": round(retrieval_elapsed_s, 6) if retrieval_elapsed_s is not None else None,
+                "extraction_elapsed_sum_s": round(extraction_elapsed_sum_s, 6),
+                "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+                "n_llm_calls_ok": n_llm_calls_ok,
+                "n_llm_calls_error": n_llm_calls_error,
+            }
+
+            w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+            doc_metrics_rows.append(doc_metric)
+            
     # =========================
     # CSV finale
     # =========================
@@ -1006,6 +1365,68 @@ def run(
         df.to_csv(OUT_CSV, index=False, encoding="utf-8", quoting=csv.QUOTE_MINIMAL)
         print(f"[WARN] Nessuna riga estratta. CSV vuoto scritto -> {OUT_CSV}")
 
+    if metrics_rows:
+        df_metrics = pd.DataFrame(metrics_rows)
+        df_metrics = df_metrics.sort_values(
+            ["company", "report_year", "retrieval_rank"],
+            na_position="last"
+        )
+        df_metrics.to_csv(OUT_METRICS_CSV, index=False, encoding="utf-8", quoting=csv.QUOTE_MINIMAL)
+
+        summary = build_metrics_summary(df_metrics)
+        OUT_METRICS_SUMMARY_JSON.write_text(
+            json.dumps(summary, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        print(f"[OUT] METRICS CSV     -> {OUT_METRICS_CSV} ({len(df_metrics)} righe)")
+        print(f"[OUT] METRICS SUMMARY -> {OUT_METRICS_SUMMARY_JSON}")
+
+        ok = df_metrics[df_metrics["status"] == "ok"].copy()
+        if not ok.empty:
+            print(
+                "[LLM TIME] "
+                f"n={len(ok)} | "
+                f"min={ok['elapsed_s'].min():.3f}s | "
+                f"q1={ok['elapsed_s'].quantile(0.25):.3f}s | "
+                f"mean={ok['elapsed_s'].mean():.3f}s | "
+                f"median={ok['elapsed_s'].median():.3f}s | "
+                f"q3={ok['elapsed_s'].quantile(0.75):.3f}s | "
+                f"max={ok['elapsed_s'].max():.3f}s"
+            )
+    else:
+        print("[WARN] Nessuna metrica LLM raccolta.")
+
+
+    if doc_metrics_rows:
+        df_doc_metrics = pd.DataFrame(doc_metrics_rows)
+        df_doc_metrics = df_doc_metrics.sort_values(
+            ["company", "report_year"],
+            na_position="last"
+        )
+        df_doc_metrics.to_csv(OUT_DOC_METRICS_CSV, index=False, encoding="utf-8", quoting=csv.QUOTE_MINIMAL)
+
+        doc_summary = build_doc_metrics_summary(df_doc_metrics)
+        OUT_DOC_METRICS_SUMMARY_JSON.write_text(
+            json.dumps(doc_summary, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        print(f"[OUT] DOC METRICS CSV     -> {OUT_DOC_METRICS_CSV} ({len(df_doc_metrics)} righe)")
+        print(f"[OUT] DOC METRICS SUMMARY -> {OUT_DOC_METRICS_SUMMARY_JSON}")
+
+        ok_doc = df_doc_metrics[df_doc_metrics["status"] == "ok"].copy()
+        if not ok_doc.empty:
+            print(
+                "[DOC TIME] "
+                f"n={len(ok_doc)} | "
+                f"doc_total_mean={ok_doc['doc_total_elapsed_s'].mean():.3f}s | "
+                f"index_mean={ok_doc['index_elapsed_s'].mean():.3f}s | "
+                f"retrieval_mean={ok_doc['retrieval_elapsed_s'].mean():.3f}s | "
+                f"llm_sum_mean={ok_doc['extraction_elapsed_sum_s'].mean():.3f}s"
+            )
+    else:
+        print("[WARN] Nessuna metrica documento raccolta.")
 
 def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser()

@@ -19,6 +19,7 @@ from openai import AzureOpenAI
 # =========================
 # Azure OpenAI ENV
 # =========================
+
 ENDPOINT_URL = os.getenv("ENDPOINT_URL", "https://maurinokeys.openai.azure.com/openai/v1").strip()
 
 API_KEY = os.getenv(
@@ -37,7 +38,6 @@ SLEEP_BETWEEN_CALLS_S = float(os.getenv("AZURE_SLEEP_S", "0.2"))
 
 AZURE_INPUT_MAX_TOKENS = int(os.getenv("AZURE_INPUT_MAX_TOKENS", "111616"))
 
-
 # =========================
 # PATHS
 # =========================
@@ -52,6 +52,13 @@ OUT_EVIDENCE_JSONL = OUT_DIR / "evidence_pass1.jsonl"
 OUT_FINAL_JSONL = OUT_DIR / "activities_extracted_pass2.jsonl"
 OUT_CSV = OUT_DIR / "activities_extracted.csv"
 
+OUT_METRICS_JSONL = OUT_DIR / "llm_metrics.jsonl"
+OUT_METRICS_CSV = OUT_DIR / "llm_metrics.csv"
+OUT_METRICS_SUMMARY_JSON = OUT_DIR / "llm_metrics_summary.json"
+
+OUT_DOC_METRICS_JSONL = OUT_DIR / "doc_metrics.jsonl"
+OUT_DOC_METRICS_CSV = OUT_DIR / "doc_metrics.csv"
+OUT_DOC_METRICS_SUMMARY_JSON = OUT_DIR / "doc_metrics_summary.json"
 
 # =========================
 # DATA STRUCTURES
@@ -84,6 +91,163 @@ def count_tokens(text: str) -> int:
         return len(ENCODER.encode(text))
     return max(1, len(text) // 4)
 
+def _usage_to_dict(resp: Any) -> Dict[str, Optional[int]]:
+    usage = getattr(resp, "usage", None)
+    if usage is None:
+        return {
+            "prompt_tokens": None,
+            "completion_tokens": None,
+            "total_tokens": None,
+        }
+
+    return {
+        "prompt_tokens": getattr(usage, "prompt_tokens", None),
+        "completion_tokens": getattr(usage, "completion_tokens", None),
+        "total_tokens": getattr(usage, "total_tokens", None),
+    }
+
+
+def _read_jsonl_rows(path: Path) -> List[Dict[str, Any]]:
+    if not path.exists():
+        return []
+
+    rows: List[Dict[str, Any]] = []
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rows.append(json.loads(line))
+            except Exception:
+                continue
+    return rows
+
+
+def _n0(x: Optional[int]) -> int:
+    return int(x) if isinstance(x, int) else 0
+
+
+def _series_stats(s: pd.Series) -> Dict[str, Optional[float]]:
+    s = pd.to_numeric(s, errors="coerce").dropna()
+    if s.empty:
+        return {
+            "count": 0,
+            "min": None,
+            "q1": None,
+            "mean": None,
+            "median": None,
+            "q3": None,
+            "p90": None,
+            "p95": None,
+            "max": None,
+            "std": None,
+            "iqr": None,
+            "sum": None,
+        }
+
+    q1 = s.quantile(0.25)
+    q3 = s.quantile(0.75)
+
+    return {
+        "count": int(s.shape[0]),
+        "min": float(s.min()),
+        "q1": float(q1),
+        "mean": float(s.mean()),
+        "median": float(s.median()),
+        "q3": float(q3),
+        "p90": float(s.quantile(0.90)),
+        "p95": float(s.quantile(0.95)),
+        "max": float(s.max()),
+        "std": float(s.std(ddof=1)) if len(s) > 1 else 0.0,
+        "iqr": float(q3 - q1),
+        "sum": float(s.sum()),
+    }
+
+
+def build_metrics_summary(df_metrics: pd.DataFrame) -> Dict[str, Any]:
+    if df_metrics.empty:
+        return {"overall": {}, "by_stage": {}, "by_year": {}}
+
+    ok = df_metrics[df_metrics["status"] == "ok"].copy()
+    if ok.empty:
+        return {"overall": {}, "by_stage": {}, "by_year": {}}
+
+    summary = {
+        "overall": {
+            "elapsed_s": _series_stats(ok["elapsed_s"]),
+            "prompt_tokens_est": _series_stats(ok["prompt_tokens_est"]),
+            "prompt_tokens_api": _series_stats(ok["prompt_tokens_api"]),
+            "completion_tokens_api": _series_stats(ok["completion_tokens_api"]),
+            "total_tokens_api": _series_stats(ok["total_tokens_api"]),
+        },
+        "by_stage": {},
+        "by_year": {},
+    }
+
+    for stage, g in ok.groupby("stage", dropna=False):
+        summary["by_stage"][str(stage)] = {
+            "n_calls": int(len(g)),
+            "elapsed_s": _series_stats(g["elapsed_s"]),
+            "prompt_tokens_est": _series_stats(g["prompt_tokens_est"]),
+            "prompt_tokens_api": _series_stats(g["prompt_tokens_api"]),
+            "completion_tokens_api": _series_stats(g["completion_tokens_api"]),
+            "total_tokens_api": _series_stats(g["total_tokens_api"]),
+            "n_evidence_rows_norm": _series_stats(g["n_evidence_rows_norm"]),
+            "n_rows_normalized": _series_stats(g["n_rows_normalized"]),
+        }
+
+    for year, g in ok.groupby("report_year", dropna=False):
+        summary["by_year"][str(year)] = {
+            "n_calls": int(len(g)),
+            "elapsed_s": _series_stats(g["elapsed_s"]),
+            "total_tokens_api": _series_stats(g["total_tokens_api"]),
+        }
+
+    return summary
+
+
+def build_doc_metrics_summary(df_doc: pd.DataFrame) -> Dict[str, Any]:
+    if df_doc.empty:
+        return {"overall": {}, "by_year": {}}
+
+    valid = df_doc[df_doc["status"] != "error"].copy()
+    if valid.empty:
+        return {"overall": {}, "by_year": {}}
+
+    summary = {
+        "overall": {
+            "pass1_elapsed_sum_s": _series_stats(valid["pass1_elapsed_sum_s"]),
+            "pass2_elapsed_sum_s": _series_stats(valid["pass2_elapsed_sum_s"]),
+            "llm_total_elapsed_sum_s": _series_stats(valid["llm_total_elapsed_sum_s"]),
+            "doc_total_elapsed_s": _series_stats(valid["doc_total_elapsed_s"]),
+            "pass1_prompt_tokens_api_sum": _series_stats(valid["pass1_prompt_tokens_api_sum"]),
+            "pass1_completion_tokens_api_sum": _series_stats(valid["pass1_completion_tokens_api_sum"]),
+            "pass1_total_tokens_api_sum": _series_stats(valid["pass1_total_tokens_api_sum"]),
+            "pass2_prompt_tokens_api_sum": _series_stats(valid["pass2_prompt_tokens_api_sum"]),
+            "pass2_completion_tokens_api_sum": _series_stats(valid["pass2_completion_tokens_api_sum"]),
+            "pass2_total_tokens_api_sum": _series_stats(valid["pass2_total_tokens_api_sum"]),
+            "total_prompt_tokens_api_sum": _series_stats(valid["total_prompt_tokens_api_sum"]),
+            "total_completion_tokens_api_sum": _series_stats(valid["total_completion_tokens_api_sum"]),
+            "total_tokens_api_sum": _series_stats(valid["total_tokens_api_sum"]),
+            "n_chunks": _series_stats(valid["n_chunks"]),
+            "n_evidence_rows_doc": _series_stats(valid["n_evidence_rows_doc"]),
+            "n_pass2_batches": _series_stats(valid["n_pass2_batches"]),
+        },
+        "by_year": {},
+    }
+
+    for year, g in valid.groupby("report_year", dropna=False):
+        summary["by_year"][str(year)] = {
+            "n_docs": int(len(g)),
+            "pass1_elapsed_sum_s": _series_stats(g["pass1_elapsed_sum_s"]),
+            "pass2_elapsed_sum_s": _series_stats(g["pass2_elapsed_sum_s"]),
+            "llm_total_elapsed_sum_s": _series_stats(g["llm_total_elapsed_sum_s"]),
+            "doc_total_elapsed_s": _series_stats(g["doc_total_elapsed_s"]),
+            "total_tokens_api_sum": _series_stats(g["total_tokens_api_sum"]),
+        }
+
+    return summary
 
 # =========================
 # JSON helpers
@@ -337,13 +501,22 @@ def get_client() -> AzureOpenAI:
     return AzureOpenAI(api_key=API_KEY, api_version=API_VERSION, azure_endpoint=azure_endpoint)
 
 
-def call_llm_json(client: AzureOpenAI, developer: str, user: str, max_retries: int = 3) -> Dict[str, Any]:
+def call_llm_json(
+    client: AzureOpenAI,
+    developer: str,
+    user: str,
+    max_retries: int = 3,
+) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     last_err: Optional[Exception] = None
+
     for attempt in range(1, max_retries + 1):
         try:
             resp = client.chat.completions.create(
                 model=CHAT_DEPLOYMENT,
-                messages=[{"role": "developer", "content": developer}, {"role": "user", "content": user}],
+                messages=[
+                    {"role": "developer", "content": developer},
+                    {"role": "user", "content": user},
+                ],
                 reasoning_effort=REASONING_EFFORT,
                 max_completion_tokens=MAX_COMPLETION_TOKENS,
             )
@@ -352,10 +525,21 @@ def call_llm_json(client: AzureOpenAI, developer: str, user: str, max_retries: i
             data = json.loads(json_text)
             if not isinstance(data, dict):
                 raise ValueError("LLM output is not a JSON object")
-            return data
+
+            usage = _usage_to_dict(resp)
+            meta = {
+                "attempt_used": attempt,
+                "prompt_tokens": usage["prompt_tokens"],
+                "completion_tokens": usage["completion_tokens"],
+                "total_tokens": usage["total_tokens"],
+            }
+
+            return data, meta
+
         except Exception as e:
             last_err = e
             time.sleep(1.5 * attempt)
+
     raise RuntimeError(f"LLM call failed after {max_retries} retries: {last_err}")
 
 
@@ -803,6 +987,7 @@ def dedup_rows(rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 # =========================
 # Main run (Two-pass true refactor)
 # =========================
+
 def run(
     only_first: bool = False,
     slug_filter: Optional[str] = None,
@@ -839,14 +1024,43 @@ def run(
 
     processed_company_years = set()
     all_flat_rows: List[Dict[str, Any]] = _rows_from_existing_final_jsonl(OUT_FINAL_JSONL) if not no_append_jsonl else []
+    metrics_rows: List[Dict[str, Any]] = _read_jsonl_rows(OUT_METRICS_JSONL) if not no_append_jsonl else []
+    doc_metrics_rows: List[Dict[str, Any]] = _read_jsonl_rows(OUT_DOC_METRICS_JSONL) if not no_append_jsonl else []
 
     mode = "w" if no_append_jsonl else "a"
-    with OUT_EVIDENCE_JSONL.open(mode, encoding="utf-8") as w_evi, OUT_FINAL_JSONL.open(mode, encoding="utf-8") as w_final:
+    with (
+        OUT_EVIDENCE_JSONL.open(mode, encoding="utf-8") as w_evi,
+        OUT_FINAL_JSONL.open(mode, encoding="utf-8") as w_final,
+        OUT_METRICS_JSONL.open(mode, encoding="utf-8") as w_metrics,
+        OUT_DOC_METRICS_JSONL.open(mode, encoding="utf-8") as w_doc_metrics,
+    ):
         print(f"[OUT] PASS1 EVIDENCE JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_EVIDENCE_JSONL}")
         print(f"[OUT] PASS2 FINAL    JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_FINAL_JSONL}")
+        print(f"[OUT] LLM METRICS JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_METRICS_JSONL}")
+        print(f"[OUT] DOC METRICS JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_DOC_METRICS_JSONL}")
 
         for i, doc in enumerate(docs, start=1):
             year = str(doc.report_year)
+            doc_t0 = time.perf_counter()
+
+            pass1_elapsed_sum_s = 0.0
+            pass2_elapsed_sum_s = 0.0
+
+            pass1_prompt_tokens_est_sum = 0
+            pass2_prompt_tokens_est_sum = 0
+
+            pass1_prompt_tokens_api_sum = 0
+            pass1_completion_tokens_api_sum = 0
+            pass1_total_tokens_api_sum = 0
+
+            pass2_prompt_tokens_api_sum = 0
+            pass2_completion_tokens_api_sum = 0
+            pass2_total_tokens_api_sum = 0
+
+            n_pass1_calls_ok = 0
+            n_pass1_calls_error = 0
+            n_pass2_calls_ok = 0
+            n_pass2_calls_error = 0
             company_name = resolve_company_name_for_benchmark(MARKER_ARTIFACTS_DIR, doc.slug, year)
             processed_company_years.add((company_name, year))
 
@@ -861,6 +1075,40 @@ def run(
 
             chunks = build_chunks_from_pages(pages=pages, target_chunk_tokens=target, max_chunk_tokens=max_chunk_tokens)
             if not chunks:
+                doc_metric = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "report_year": year,
+                    "status": "empty",
+                    "error_stage": "chunking",
+                    "error_message": None,
+                    "n_chunks": 0,
+                    "n_evidence_rows_doc": 0,
+                    "n_pass2_batches": 0,
+                    "pass1_elapsed_sum_s": 0.0,
+                    "pass2_elapsed_sum_s": 0.0,
+                    "llm_total_elapsed_sum_s": 0.0,
+                    "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+                    "pass1_prompt_tokens_est_sum": 0,
+                    "pass2_prompt_tokens_est_sum": 0,
+                    "total_prompt_tokens_est_sum": 0,
+                    "pass1_prompt_tokens_api_sum": 0,
+                    "pass1_completion_tokens_api_sum": 0,
+                    "pass1_total_tokens_api_sum": 0,
+                    "pass2_prompt_tokens_api_sum": 0,
+                    "pass2_completion_tokens_api_sum": 0,
+                    "pass2_total_tokens_api_sum": 0,
+                    "total_prompt_tokens_api_sum": 0,
+                    "total_completion_tokens_api_sum": 0,
+                    "total_tokens_api_sum": 0,
+                    "n_pass1_calls_ok": 0,
+                    "n_pass1_calls_error": 0,
+                    "n_pass2_calls_ok": 0,
+                    "n_pass2_calls_error": 0,
+                }
+                w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+                doc_metrics_rows.append(doc_metric)
+
                 print(f"[SKIP] nessun chunk creato per {company_name} {year}")
                 continue
 
@@ -881,10 +1129,47 @@ def run(
                         chunk_text = chunk_text[: max_chunk_tokens * 4]
 
                 developer, user = build_prompt_pass1(company_name, year, chunk_text, chunk_idx)
+                prompt_tokens_est = count_tokens(developer) + count_tokens(user)
 
+                t0 = time.perf_counter()
                 try:
-                    out1 = call_llm_json(client, developer, user, max_retries=3)
+                    out1, llm_meta1 = call_llm_json(client, developer, user, max_retries=3)
+                    elapsed_s = time.perf_counter() - t0
                 except Exception as e:
+                    elapsed_s = time.perf_counter() - t0
+
+                    pass1_elapsed_sum_s += elapsed_s
+                    pass1_prompt_tokens_est_sum += prompt_tokens_est
+                    n_pass1_calls_error += 1
+
+                    metric_row = {
+                        "stage": "pass1",
+                        "slug": doc.slug,
+                        "company": company_name,
+                        "report_year": year,
+                        "chunk_index": chunk_idx,
+                        "batch_index": None,
+                        "source_md": str(doc.focused_md),
+                        "n_chunks": n_chunks,
+                        "start_page": ch.get("start_page"),
+                        "end_page": ch.get("end_page"),
+                        "chunk_tokens_est": ch.get("tokens"),
+                        "n_evidence_lines_in_batch": None,
+                        "prompt_tokens_est": prompt_tokens_est,
+                        "elapsed_s": round(elapsed_s, 6),
+                        "status": "error",
+                        "error_message": str(e),
+                        "attempt_used": None,
+                        "prompt_tokens_api": None,
+                        "completion_tokens_api": None,
+                        "total_tokens_api": None,
+                        "n_evidence_rows_norm": None,
+                        "n_rows_normalized": None,
+                    }
+
+                    w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+                    metrics_rows.append(metric_row)
+
                     print(f"[SKIP] PASS1 LLM error: {company_name} {year} chunk={chunk_idx}/{n_chunks} -> {e}")
                     continue
 
@@ -894,6 +1179,13 @@ def run(
 
                 evi_norm = normalize_evidence_rows(out1)
                 doc_evidence_rows.extend(evi_norm)
+
+                pass1_elapsed_sum_s += elapsed_s
+                pass1_prompt_tokens_est_sum += prompt_tokens_est
+                pass1_prompt_tokens_api_sum += _n0(llm_meta1.get("prompt_tokens"))
+                pass1_completion_tokens_api_sum += _n0(llm_meta1.get("completion_tokens"))
+                pass1_total_tokens_api_sum += _n0(llm_meta1.get("total_tokens"))
+                n_pass1_calls_ok += 1
 
                 out1["_meta"] = {
                     "stage": "pass1_evidence",
@@ -906,11 +1198,45 @@ def run(
                     "start_page": ch.get("start_page"),
                     "end_page": ch.get("end_page"),
                     "chunk_tokens_est": ch.get("tokens"),
+                    "prompt_tokens_est": prompt_tokens_est,
+                    "elapsed_s": round(elapsed_s, 6),
+                    "attempt_used": llm_meta1.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta1.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta1.get("completion_tokens"),
+                    "total_tokens_api": llm_meta1.get("total_tokens"),
                     "n_evidence_rows_norm": len(evi_norm),
+                }
+
+                metric_row = {
+                    "stage": "pass1",
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "report_year": year,
+                    "chunk_index": chunk_idx,
+                    "batch_index": None,
+                    "source_md": str(doc.focused_md),
+                    "n_chunks": n_chunks,
+                    "start_page": ch.get("start_page"),
+                    "end_page": ch.get("end_page"),
+                    "chunk_tokens_est": ch.get("tokens"),
+                    "n_evidence_lines_in_batch": None,
+                    "prompt_tokens_est": prompt_tokens_est,
+                    "elapsed_s": round(elapsed_s, 6),
+                    "status": "ok",
+                    "error_message": None,
+                    "attempt_used": llm_meta1.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta1.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta1.get("completion_tokens"),
+                    "total_tokens_api": llm_meta1.get("total_tokens"),
+                    "n_evidence_rows_norm": len(evi_norm),
+                    "n_rows_normalized": None,
                 }
 
                 out1["evidence_rows"] = evi_norm
                 w_evi.write(json.dumps(out1, ensure_ascii=False) + "\n")
+                w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+
+                metrics_rows.append(metric_row)
                 time.sleep(SLEEP_BETWEEN_CALLS_S)
 
             # dedup a livello documento per raw_row
@@ -926,6 +1252,41 @@ def run(
 
             doc_evidence_dedup = list(dedup_map.values())
             if not doc_evidence_dedup:
+                doc_metric = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "report_year": year,
+                    "status": "empty",
+                    "error_stage": "pass1_to_pass2",
+                    "error_message": None,
+                    "n_chunks": n_chunks,
+                    "n_evidence_rows_doc": 0,
+                    "n_pass2_batches": 0,
+                    "pass1_elapsed_sum_s": round(pass1_elapsed_sum_s, 6),
+                    "pass2_elapsed_sum_s": 0.0,
+                    "llm_total_elapsed_sum_s": round(pass1_elapsed_sum_s, 6),
+                    "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+                    "pass1_prompt_tokens_est_sum": pass1_prompt_tokens_est_sum,
+                    "pass2_prompt_tokens_est_sum": 0,
+                    "total_prompt_tokens_est_sum": pass1_prompt_tokens_est_sum,
+                    "pass1_prompt_tokens_api_sum": pass1_prompt_tokens_api_sum,
+                    "pass1_completion_tokens_api_sum": pass1_completion_tokens_api_sum,
+                    "pass1_total_tokens_api_sum": pass1_total_tokens_api_sum,
+                    "pass2_prompt_tokens_api_sum": 0,
+                    "pass2_completion_tokens_api_sum": 0,
+                    "pass2_total_tokens_api_sum": 0,
+                    "total_prompt_tokens_api_sum": pass1_prompt_tokens_api_sum,
+                    "total_completion_tokens_api_sum": pass1_completion_tokens_api_sum,
+                    "total_tokens_api_sum": pass1_total_tokens_api_sum,
+                    "n_pass1_calls_ok": n_pass1_calls_ok,
+                    "n_pass1_calls_error": n_pass1_calls_error,
+                    "n_pass2_calls_ok": 0,
+                    "n_pass2_calls_error": 0,
+                }
+
+                w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+                doc_metrics_rows.append(doc_metric)
+
                 print(f"   -> [PASS2 SKIP] nessuna evidence row per {company_name} {year}")
                 continue
 
@@ -941,15 +1302,62 @@ def run(
                 evidence_doc = "\n".join(lines_batch)
 
                 developer2, user2 = build_prompt_pass2(company_name, year, evidence_doc, b_idx, len(batches))
+                prompt_tokens_est2 = count_tokens(developer2) + count_tokens(user2)
+
+                t0 = time.perf_counter()
                 try:
-                    out2 = call_llm_json(client, developer2, user2, max_retries=3)
+                    out2, llm_meta2 = call_llm_json(client, developer2, user2, max_retries=3)
+                    elapsed_s2 = time.perf_counter() - t0
                 except Exception as e:
+                    elapsed_s2 = time.perf_counter() - t0
+
+                    pass2_elapsed_sum_s += elapsed_s2
+                    pass2_prompt_tokens_est_sum += prompt_tokens_est2
+                    n_pass2_calls_error += 1
+
+                    metric_row = {
+                        "stage": "pass2",
+                        "slug": doc.slug,
+                        "company": company_name,
+                        "report_year": year,
+                        "chunk_index": None,
+                        "batch_index": b_idx,
+                        "source_md": str(doc.focused_md),
+                        "n_chunks": n_chunks,
+                        "start_page": None,
+                        "end_page": None,
+                        "chunk_tokens_est": count_tokens(evidence_doc),
+                        "n_evidence_lines_in_batch": len(lines_batch),
+                        "prompt_tokens_est": prompt_tokens_est2,
+                        "elapsed_s": round(elapsed_s2, 6),
+                        "status": "error",
+                        "error_message": str(e),
+                        "attempt_used": None,
+                        "prompt_tokens_api": None,
+                        "completion_tokens_api": None,
+                        "total_tokens_api": None,
+                        "n_evidence_rows_norm": None,
+                        "n_rows_normalized": None,
+                    }
+
+                    w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+                    metrics_rows.append(metric_row)
+
                     print(f"[SKIP] PASS2 LLM error: {company_name} {year} batch={b_idx}/{len(batches)} -> {e}")
                     continue
 
                 out2["company"] = company_name
                 out2["report_year"] = year
                 out2["batch_index"] = b_idx
+
+                rows_pass2 = normalize_rows_pass2(out2, company_forced=company_name, year_forced=year)
+
+                pass2_elapsed_sum_s += elapsed_s2
+                pass2_prompt_tokens_est_sum += prompt_tokens_est2
+                pass2_prompt_tokens_api_sum += _n0(llm_meta2.get("prompt_tokens"))
+                pass2_completion_tokens_api_sum += _n0(llm_meta2.get("completion_tokens"))
+                pass2_total_tokens_api_sum += _n0(llm_meta2.get("total_tokens"))
+                n_pass2_calls_ok += 1
 
                 out2["_meta"] = {
                     "stage": "pass2_final",
@@ -960,13 +1368,87 @@ def run(
                     "pass2_batch_index": b_idx,
                     "pass2_n_batches": len(batches),
                     "n_evidence_lines_in_batch": len(lines_batch),
+                    "prompt_tokens_est": prompt_tokens_est2,
+                    "elapsed_s": round(elapsed_s2, 6),
+                    "attempt_used": llm_meta2.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta2.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta2.get("completion_tokens"),
+                    "total_tokens_api": llm_meta2.get("total_tokens"),
                     "evidence_preview": lines_batch[:10],
                 }
 
-                w_final.write(json.dumps(out2, ensure_ascii=False) + "\n")
-                all_flat_rows.extend(normalize_rows_pass2(out2, company_forced=company_name, year_forced=year))
-                time.sleep(SLEEP_BETWEEN_CALLS_S)
+                metric_row = {
+                    "stage": "pass2",
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "report_year": year,
+                    "chunk_index": None,
+                    "batch_index": b_idx,
+                    "source_md": str(doc.focused_md),
+                    "n_chunks": n_chunks,
+                    "start_page": None,
+                    "end_page": None,
+                    "chunk_tokens_est": count_tokens(evidence_doc),
+                    "n_evidence_lines_in_batch": len(lines_batch),
+                    "prompt_tokens_est": prompt_tokens_est2,
+                    "elapsed_s": round(elapsed_s2, 6),
+                    "status": "ok",
+                    "error_message": None,
+                    "attempt_used": llm_meta2.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta2.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta2.get("completion_tokens"),
+                    "total_tokens_api": llm_meta2.get("total_tokens"),
+                    "n_evidence_rows_norm": None,
+                    "n_rows_normalized": len(rows_pass2),
+                }
 
+                w_final.write(json.dumps(out2, ensure_ascii=False) + "\n")
+                w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+
+                metrics_rows.append(metric_row)
+                all_flat_rows.extend(rows_pass2)
+                time.sleep(SLEEP_BETWEEN_CALLS_S)
+        if n_pass1_calls_ok > 0 and n_pass2_calls_ok > 0 and n_pass1_calls_error == 0 and n_pass2_calls_error == 0:
+            doc_status = "ok"
+        elif (n_pass1_calls_ok + n_pass2_calls_ok) > 0:
+            doc_status = "partial"
+        else:
+            doc_status = "error"
+
+        doc_metric = {
+            "slug": doc.slug,
+            "company": company_name,
+            "report_year": year,
+            "status": doc_status,
+            "error_stage": None,
+            "error_message": None,
+            "n_chunks": n_chunks,
+            "n_evidence_rows_doc": len(doc_evidence_dedup),
+            "n_pass2_batches": len(batches),
+            "pass1_elapsed_sum_s": round(pass1_elapsed_sum_s, 6),
+            "pass2_elapsed_sum_s": round(pass2_elapsed_sum_s, 6),
+            "llm_total_elapsed_sum_s": round(pass1_elapsed_sum_s + pass2_elapsed_sum_s, 6),
+            "doc_total_elapsed_s": round(time.perf_counter() - doc_t0, 6),
+            "pass1_prompt_tokens_est_sum": pass1_prompt_tokens_est_sum,
+            "pass2_prompt_tokens_est_sum": pass2_prompt_tokens_est_sum,
+            "total_prompt_tokens_est_sum": pass1_prompt_tokens_est_sum + pass2_prompt_tokens_est_sum,
+            "pass1_prompt_tokens_api_sum": pass1_prompt_tokens_api_sum,
+            "pass1_completion_tokens_api_sum": pass1_completion_tokens_api_sum,
+            "pass1_total_tokens_api_sum": pass1_total_tokens_api_sum,
+            "pass2_prompt_tokens_api_sum": pass2_prompt_tokens_api_sum,
+            "pass2_completion_tokens_api_sum": pass2_completion_tokens_api_sum,
+            "pass2_total_tokens_api_sum": pass2_total_tokens_api_sum,
+            "total_prompt_tokens_api_sum": pass1_prompt_tokens_api_sum + pass2_prompt_tokens_api_sum,
+            "total_completion_tokens_api_sum": pass1_completion_tokens_api_sum + pass2_completion_tokens_api_sum,
+            "total_tokens_api_sum": pass1_total_tokens_api_sum + pass2_total_tokens_api_sum,
+            "n_pass1_calls_ok": n_pass1_calls_ok,
+            "n_pass1_calls_error": n_pass1_calls_error,
+            "n_pass2_calls_ok": n_pass2_calls_ok,
+            "n_pass2_calls_error": n_pass2_calls_error,
+        }
+
+        w_doc_metrics.write(json.dumps(doc_metric, ensure_ascii=False) + "\n")
+        doc_metrics_rows.append(doc_metric)
     # =========================
     # CSV finale (sempre scritto + quoting)
     # =========================
@@ -1017,7 +1499,60 @@ def run(
         print(f"[OUT] CSV  -> {OUT_CSV} ({len(df)} righe, SOLO placeholder: nessuna attività estratta)")
     print("      Nota: 'chunk_index' nel CSV (RAG2) corrisponde a 'batch_index' del Pass2, non ai chunk originali.")
 
+    if metrics_rows:
+        df_metrics = pd.DataFrame(metrics_rows)
+        for c in ["chunk_index", "batch_index", "n_evidence_rows_norm", "n_rows_normalized"]:
+            if c not in df_metrics.columns:
+                df_metrics[c] = None
 
+        df_metrics = df_metrics.sort_values(
+            ["company", "report_year", "stage", "chunk_index", "batch_index"],
+            na_position="last"
+        )
+        df_metrics.to_csv(OUT_METRICS_CSV, index=False, encoding="utf-8", quoting=csv.QUOTE_MINIMAL)
+
+        metrics_summary = build_metrics_summary(df_metrics)
+        OUT_METRICS_SUMMARY_JSON.write_text(
+            json.dumps(metrics_summary, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        print(f"[OUT] LLM METRICS CSV     -> {OUT_METRICS_CSV} ({len(df_metrics)} righe)")
+        print(f"[OUT] LLM METRICS SUMMARY -> {OUT_METRICS_SUMMARY_JSON}")
+    else:
+        print("[WARN] Nessuna metrica LLM raccolta.")
+
+
+    if doc_metrics_rows:
+        df_doc_metrics = pd.DataFrame(doc_metrics_rows)
+        df_doc_metrics = df_doc_metrics.sort_values(
+            ["company", "report_year"],
+            na_position="last"
+        )
+        df_doc_metrics.to_csv(OUT_DOC_METRICS_CSV, index=False, encoding="utf-8", quoting=csv.QUOTE_MINIMAL)
+
+        doc_summary = build_doc_metrics_summary(df_doc_metrics)
+        OUT_DOC_METRICS_SUMMARY_JSON.write_text(
+            json.dumps(doc_summary, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        print(f"[OUT] DOC METRICS CSV     -> {OUT_DOC_METRICS_CSV} ({len(df_doc_metrics)} righe)")
+        print(f"[OUT] DOC METRICS SUMMARY -> {OUT_DOC_METRICS_SUMMARY_JSON}")
+
+        valid_doc = df_doc_metrics[df_doc_metrics["status"] != "error"].copy()
+        if not valid_doc.empty:
+            print(
+                "[DOC TIME] "
+                f"n={len(valid_doc)} | "
+                f"pass1_mean={valid_doc['pass1_elapsed_sum_s'].mean():.3f}s | "
+                f"pass2_mean={valid_doc['pass2_elapsed_sum_s'].mean():.3f}s | "
+                f"llm_total_mean={valid_doc['llm_total_elapsed_sum_s'].mean():.3f}s | "
+                f"doc_total_mean={valid_doc['doc_total_elapsed_s'].mean():.3f}s"
+            )
+    else:
+        print("[WARN] Nessuna metrica documento raccolta.")
+        
 def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only_first", action="store_true", help="Processa solo il primo documento (debug rapido).")
@@ -1045,4 +1580,4 @@ if __name__ == "__main__":
 # Esempi:
 # python 3_rag2_two_pass_extract_activities.py --only_first --no_append_jsonl
 # python 3_rag2_two_pass_extract_activities.py --slug a_p_moller_maersk_a_s --year 2024 --no_append_jsonl
-# python c:/Universita/TESI/esg_agent/RAG_full_bigger/3_rag2_two_pass_extract_activities.py --chunk_tokens 25000 --no_append_jsonl
+# python c:/Universita/TESI/esg_agent/RAG_full_bigger/3_rag2_two_pass_extract_activities.py --pass2_max_input_tokens 50000 --no_append_jsonl

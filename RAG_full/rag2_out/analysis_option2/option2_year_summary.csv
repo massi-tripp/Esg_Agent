@@ -1,0 +1,3 @@
+﻿report_year,n_success_calls,n_success_pass1,n_success_pass2,mean_elapsed_s,mean_total_tokens_api,sum_elapsed_s,sum_total_tokens_api,n_reports,reports_reaching_pass2,share_reports_reaching_pass2,total_evidence_rows,total_extracted_rows
+2023,296,165,131,13.279208037162162,7205.506756756757,3930.645579,2132830.0,149,131,0.8791946308724832,1872.0,1246.0
+2024,68,34,34,15.006578000000001,5347.338235294118,1020.447304,363619.0,34,34,1.0,544.0,389.0

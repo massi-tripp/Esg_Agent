@@ -1,0 +1,6 @@
+﻿category,count,definition
+"Correct code, missing or unstable label",201,Benchmark rows recovered at Step2 (code-only) after failing Step1.
+Missing subcode,90,Extracted rows with missing code_numeric in the evaluation set.
+Missing activity text / partial row,0,Extracted rows with empty activity text in the evaluation set.
+Over-generation or duplicate-like row,118,Raw extracted rows that become duplicates under the official evaluation deduplication key.
+Unmatched extracted activity,310,Evaluation-set extracted rows in common companies not linked to any benchmark row by the four-step protocol.

@@ -3,6 +3,7 @@
   "report_year": "2024",
   "link_report_original": "https://www.iberdrola.com/documents/20125/4778712/gsm25-sustainability-report-2024.pdf",
   "link_report_final": "https://www.iberdrola.com/documents/20125/4778712/gsm25-sustainability-report-2024.pdf",
-  "pdf_path": "C:\\Universita\\TESI\\esg_agent\\RAG_pdfs\\cache\\iberdrola_sa\\2024\\report.pdf",
-  "sha256": "284e2e8cd3361b0d53a441dec3e3a6ba709866eb968c797dc76eb3da12cc41ab"
+  "pdf_path": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\cache\\iberdrola_sa\\2024\\report.pdf",
+  "sha256": "284e2e8cd3361b0d53a441dec3e3a6ba709866eb968c797dc76eb3da12cc41ab",
+  "size_bytes": 15504846
 }

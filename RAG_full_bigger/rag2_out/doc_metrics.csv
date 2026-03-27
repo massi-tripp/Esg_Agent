@@ -1,0 +1,59 @@
+slug,company,report_year,status,error_stage,error_message,n_chunks,n_evidence_rows_doc,n_pass2_batches,pass1_elapsed_sum_s,pass2_elapsed_sum_s,llm_total_elapsed_sum_s,doc_total_elapsed_s,pass1_prompt_tokens_est_sum,pass2_prompt_tokens_est_sum,total_prompt_tokens_est_sum,pass1_prompt_tokens_api_sum,pass1_completion_tokens_api_sum,pass1_total_tokens_api_sum,pass2_prompt_tokens_api_sum,pass2_completion_tokens_api_sum,pass2_total_tokens_api_sum,total_prompt_tokens_api_sum,total_completion_tokens_api_sum,total_tokens_api_sum,n_pass1_calls_ok,n_pass1_calls_error,n_pass2_calls_ok,n_pass2_calls_error
+1_1_ag,1&1 AG,2023,empty,pass1_to_pass2,,7,0,0,28.356808,0.0,28.356808,30.65387,136417,0,136417,134879,244,135123,0,0,0,134879,244,135123,7,0,0,0
+abb_ltd,ABB LTD,2024,empty,pass1_to_pass2,,4,0,0,16.365516,0.0,16.365516,17.663886,75049,0,75049,72758,128,72886,0,0,0,72758,128,72886,4,0,0,0
+at_s_austria_tech_systemtech,AT&S Austria Tech.&Systemtech.,2023,empty,pass1_to_pass2,,1,0,0,2.916658,0.0,2.916658,3.252914,5871,0,5871,5858,37,5895,0,0,0,5858,37,5895,1,0,0,0
+acciona_s_a,"Acciona, S.A.",2023,empty,pass1_to_pass2,,1,0,0,3.034877,0.0,3.034877,3.306582,13264,0,13264,13095,35,13130,0,0,0,13095,35,13130,1,0,0,0
+acea_s_p_a,Acea S.p.A.,2023,empty,pass1_to_pass2,,2,0,0,8.685502,0.0,8.685502,9.328127,38283,0,38283,38037,76,38113,0,0,0,38037,76,38113,2,0,0,0
+addiko_bank_ag,Addiko Bank AG,2023,empty,pass1_to_pass2,,1,0,0,4.741413,0.0,4.741413,5.105625,9889,0,9889,9884,34,9918,0,0,0,9884,34,9918,1,0,0,0
+amadeus_fire_ag,Amadeus Fire AG,2023,empty,pass1_to_pass2,,1,0,0,2.968458,0.0,2.968458,3.333717,6103,0,6103,6053,35,6088,0,0,0,6053,35,6088,1,0,0,0
+andritz_ag,Andritz AG,2023,empty,pass1_to_pass2,,2,0,0,7.609771,0.0,7.609771,8.503944,26196,0,26196,25994,60,26054,0,0,0,25994,60,26054,2,0,0,0
+baywa_ag,BayWa AG,2023,empty,pass1_to_pass2,,1,0,0,1.22666,0.0,1.22666,1.637722,8518,0,8518,8421,33,8454,0,0,0,8421,33,8454,1,0,0,0
+caixabank_s_a,"CaixaBank, S.A.",2023,empty,pass1_to_pass2,,2,0,0,8.009431,0.0,8.009431,8.801882,25813,0,25813,25643,72,25715,0,0,0,25643,72,25715,2,0,0,0
+deutsche_bank_ag,Deutsche Bank AG,2023,empty,pass1_to_pass2,,1,0,0,3.492295,0.0,3.492295,4.056107,15263,0,15263,15167,34,15201,0,0,0,15167,34,15201,1,0,0,0
+deutsche_pfandbriefbank_ag,Deutsche Pfandbriefbank AG,2023,empty,pass1_to_pass2,,2,0,0,8.207718,0.0,8.207718,8.903495,25535,0,25535,25265,86,25351,0,0,0,25265,86,25351,2,0,0,0
+e_on_se,E.ON SE,2024,empty,pass1_to_pass2,,1,0,0,2.068836,0.0,2.068836,2.416619,13021,0,13021,12947,39,12986,0,0,0,12947,39,12986,1,0,0,0
+evn_ag,EVN AG,2023,empty,pass1_to_pass2,,8,0,0,27.140891,0.0,27.140891,30.300275,164401,0,164401,154046,294,154340,0,0,0,154046,294,154340,8,0,0,0
+erste_group_bank_ag,Erste Group Bank AG,2023,empty,pass1_to_pass2,,1,0,0,3.286474,0.0,3.286474,3.909626,15808,0,15808,15128,29,15157,0,0,0,15128,29,15157,1,0,0,0
+facc_ag,FACC AG,2023,empty,pass1_to_pass2,,6,0,0,84.122477,0.0,84.122477,93.801407,106726,0,106726,106201,210,106411,0,0,0,106201,210,106411,6,0,0,0
+hamborner_reit_ag_na_o_n,HAMBORNER REIT AG NA O.N.,2023,empty,pass1_to_pass2,,2,0,0,5.385076,0.0,5.385076,6.133913,24459,0,24459,24167,86,24253,0,0,0,24167,86,24253,2,0,0,0
+hochtief_ag,HOCHTIEF AG,2023,empty,pass1_to_pass2,,3,0,0,11.254912,0.0,11.254912,12.635412,50043,0,50043,49481,111,49592,0,0,0,49481,111,49592,3,0,0,0
+hapag_lloyd_ag,Hapag-Lloyd AG,2023,empty,pass1_to_pass2,,8,0,0,54.16691,0.0,54.16691,57.432599,163742,0,163742,161481,286,161767,0,0,0,161481,286,161767,8,0,0,0
+hugo_boss_ag,Hugo Boss AG,2023,empty,pass1_to_pass2,,3,0,0,43.491749,0.0,43.491749,44.674415,43208,0,43208,43076,166,43242,0,0,0,43076,166,43242,3,0,0,0
+ionos_group_se,IONOS Group SE,2023,empty,pass1_to_pass2,,1,0,0,1.942956,0.0,1.942956,2.443119,5550,0,5550,5521,34,5555,0,0,0,5521,34,5555,1,0,0,0
+iss_a_s,ISS A/S,2024,empty,pass1_to_pass2,,8,0,0,27.651924,0.0,27.651924,30.603467,154525,0,154525,153368,282,153650,0,0,0,153368,282,153650,8,0,0,0
+indus_holding_ag,Indus Holding AG,2023,empty,pass1_to_pass2,,1,0,0,2.361903,0.0,2.361903,2.688398,11142,0,11142,11063,40,11103,0,0,0,11063,40,11103,1,0,0,0
+instone_real_estate_group,Instone Real Estate Group,2023,empty,pass1_to_pass2,,4,0,0,45.849494,0.0,45.849494,48.127938,69008,0,69008,68639,134,68773,0,0,0,68639,134,68773,4,0,0,0
+kion_group_ag,KION GROUP AG,2023,empty,pass1_to_pass2,,1,0,0,3.151738,0.0,3.151738,3.588227,6409,0,6409,6378,34,6412,0,0,0,6378,34,6412,1,0,0,0
+kapsch_trafficcom_ag,Kapsch TrafficCom AG,2023,empty,pass1_to_pass2,,7,0,0,28.968189,0.0,28.968189,31.724032,129437,0,129437,128758,264,129022,0,0,0,128758,264,129022,7,0,0,0
+lacroix_group,LACROIX Group,2023,empty,pass1_to_pass2,,1,0,0,3.380098,0.0,3.380098,3.768092,15104,0,15104,15003,35,15038,0,0,0,15003,35,15038,1,0,0,0
+max_automation_se_na_o_n,MAX AUTOMATION SE NA O.N.,2023,empty,pass1_to_pass2,,1,0,0,4.580754,0.0,4.580754,5.120533,17632,0,17632,17481,49,17530,0,0,0,17481,49,17530,1,0,0,0
+mlp_se,MLP SE,2023,empty,pass1_to_pass2,,1,0,0,4.422698,0.0,4.422698,4.813869,3708,0,3708,3672,33,3705,0,0,0,3672,33,3705,1,0,0,0
+manz_ag,Manz AG,2023,empty,pass1_to_pass2,,5,0,0,23.788646,0.0,23.788646,25.543317,101989,0,101989,101295,171,101466,0,0,0,101295,171,101466,5,0,0,0
+mayr_melnhof_karton_ag,Mayr-Melnhof Karton AG,2023,empty,pass1_to_pass2,,1,0,0,3.031095,0.0,3.031095,3.601413,5101,0,5101,5055,50,5105,0,0,0,5055,50,5105,1,0,0,0
+minor_hotels_europe_americas_s_a,"Minor Hotels Europe & Americas, S.A.",2023,empty,pass1_to_pass2,,2,0,0,7.321593,0.0,7.321593,9.431644,33783,0,33783,33486,94,33580,0,0,0,33486,94,33580,2,0,0,0
+nemetschek_se,Nemetschek SE,2023,empty,pass1_to_pass2,,2,0,0,6.935836,0.0,6.935836,7.883806,39284,0,39284,39042,76,39118,0,0,0,39042,76,39118,2,0,0,0
+oesterreichische_post_ag,Oesterreichische Post AG,2023,empty,pass1_to_pass2,,1,0,0,2.192229,0.0,2.192229,2.777231,11029,0,11029,10949,36,10985,0,0,0,10949,36,10985,1,0,0,0
+pierer_mobility_ag,PIERER Mobility AG,2023,empty,pass1_to_pass2,,1,0,0,2.986836,0.0,2.986836,3.466396,5910,0,5910,5893,35,5928,0,0,0,5893,35,5928,1,0,0,0
+pva_tepla_ag,PVA TePla AG,2023,empty,pass1_to_pass2,,1,0,0,7.150156,0.0,7.150156,7.68047,17911,0,17911,17730,41,17771,0,0,0,17730,41,17771,1,0,0,0
+rhi_magnesita_n_v,RHI Magnesita N.V.,2023,empty,pass1_to_pass2,,5,0,0,17.665267,0.0,17.665267,19.647726,96886,0,96886,96223,197,96420,0,0,0,96223,197,96420,5,0,0,0
+rosenbauer_international_ag,Rosenbauer International AG,2023,empty,pass1_to_pass2,,1,0,0,2.159401,0.0,2.159401,2.663247,8863,0,8863,8734,47,8781,0,0,0,8734,47,8781,1,0,0,0
+schneider_electric_se,SCHNEIDER ELECTRIC SE,2024,empty,pass1_to_pass2,,1,0,0,2.022099,0.0,2.022099,2.458101,13030,0,13030,12900,42,12942,0,0,0,12900,42,12942,1,0,0,0
+sgl_carbon_se,SGL Carbon SE,2023,empty,pass1_to_pass2,,1,0,0,2.426669,0.0,2.426669,3.475949,21258,0,21258,21160,28,21188,0,0,0,21160,28,21188,1,0,0,0
+stratec_se,STRATEC SE,2023,empty,pass1_to_pass2,,2,0,0,4.59567,0.0,4.59567,5.491716,26359,0,26359,26250,86,26336,0,0,0,26250,86,26336,2,0,0,0
+salzgitter_ag,Salzgitter AG,2023,empty,pass1_to_pass2,,2,0,0,5.328523,0.0,5.328523,6.344916,31637,0,31637,31300,62,31362,0,0,0,31300,62,31362,2,0,0,0
+sartorius_ag_st,Sartorius AG St,2023,empty,pass1_to_pass2,,1,0,0,3.207042,0.0,3.207042,3.871074,19634,0,19634,19372,41,19413,0,0,0,19372,41,19413,1,0,0,0
+semperit_ag_holding,Semperit AG Holding,2023,empty,pass1_to_pass2,,1,0,0,1.761487,0.0,1.761487,2.347627,10234,0,10234,10202,47,10249,0,0,0,10202,47,10249,1,0,0,0
+symrise_ag,Symrise AG,2023,empty,pass1_to_pass2,,1,0,0,2.041626,0.0,2.041626,2.546192,14524,0,14524,14275,39,14314,0,0,0,14275,39,14314,1,0,0,0
+tag_immobilien_ag,TAG Immobilien AG,2023,empty,pass1_to_pass2,,1,0,0,2.045986,0.0,2.045986,2.565305,5076,0,5076,5049,33,5082,0,0,0,5049,33,5082,1,0,0,0
+telekom_austria_ag,Telekom Austria AG,2023,empty,pass1_to_pass2,,1,0,0,2.254181,0.0,2.254181,2.856757,19177,0,19177,19047,34,19081,0,0,0,19047,34,19081,1,0,0,0
+tubacex_s_a,"Tubacex, S.A.",2023,empty,pass1_to_pass2,,1,0,0,1.960379,0.0,1.960379,2.386479,4957,0,4957,4870,36,4906,0,0,0,4870,36,4906,1,0,0,0
+tubos_reunidos,Tubos Reunidos,2023,empty,pass1_to_pass2,,1,0,0,1.862295,0.0,1.862295,2.251664,3521,0,3521,3483,47,3530,0,0,0,3483,47,3530,1,0,0,0
+ubm_development_ag,UBM Development AG,2023,empty,pass1_to_pass2,,3,0,0,6.157001,0.0,6.157001,7.37906,42074,0,42074,41397,114,41511,0,0,0,41397,114,41511,3,0,0,0
+uniqa_insurance_group_ag,UNIQA Insurance Group AG,2023,empty,pass1_to_pass2,,2,0,0,4.524462,0.0,4.524462,5.527637,27811,0,27811,27557,80,27637,0,0,0,27557,80,27637,2,0,0,0
+united_internet_ag,United Internet AG,2023,empty,pass1_to_pass2,,1,0,0,1.867243,0.0,1.867243,2.255291,4054,0,4054,4031,45,4076,0,0,0,4031,45,4076,1,0,0,0
+verbund_ag,VERBUND AG,2023,empty,pass1_to_pass2,,3,0,0,6.723438,0.0,6.723438,9.200895,53469,0,53469,53154,96,53250,0,0,0,53154,96,53250,3,0,0,0
+volkswagen_ag_vz,Volkswagen AG Vz,2023,empty,pass1_to_pass2,,3,0,0,7.489679,0.0,7.489679,8.927971,50250,0,50250,49852,187,50039,0,0,0,49852,187,50039,3,0,0,0
+w_stenrot_w_rttembergische_ag,Wüstenrot & Württembergische AG,2023,empty,pass1_to_pass2,,2,0,0,4.540297,0.0,4.540297,5.808254,41573,0,41573,40930,72,41002,0,0,0,40930,72,41002,2,0,0,0
+zumtobel_group_ag,Zumtobel Group AG,2023,ok,,,2,36,1,11.264086,7.502675,18.766761,19.902728,29212,2472,31684,29022,2195,31217,2454,433,2887,31476,2628,34104,2,0,1,0
+q_beyond_ag,q.beyond AG,2023,empty,pass1_to_pass2,,1,0,0,2.187549,0.0,2.187549,2.641894,9084,0,9084,8999,34,9033,0,0,0,8999,34,9033,1,0,0,0
+voestalpine_ag,voestalpine AG,2023,empty,pass1_to_pass2,,1,0,0,1.81547,0.0,1.81547,2.338424,4677,0,4677,4631,34,4665,0,0,0,4631,34,4665,1,0,0,0

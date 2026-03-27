@@ -1,0 +1,3 @@
+﻿stage,n_calls,mean_elapsed_s,median_elapsed_s,mean_prompt_tokens_api,mean_completion_tokens_api,mean_total_tokens_api,sum_elapsed_s,sum_prompt_tokens_api,sum_completion_tokens_api,sum_total_tokens_api,mean_n_evidence_rows_norm,sum_n_evidence_rows_norm,mean_n_rows_normalized,sum_n_rows_normalized
+pass1,508,8.83978744488189,4.4253775,16319.183070866142,429.2696850393701,16748.452755905513,4490.612022,8290145.0,218069.0,8508214.0,5.387795275590551,2737.0,,
+pass2,163,10.592094061349693,9.189444,1345.8957055214723,551.6134969325153,1897.5092024539877,1726.511332,219381.0,89913.0,309294.0,,,11.233128834355828,1831.0

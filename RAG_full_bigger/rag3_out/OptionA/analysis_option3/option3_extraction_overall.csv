@@ -1,0 +1,2 @@
+raw_total_calls,successful_calls,failed_calls,success_share,failure_share,share_nonzero_chunks,total_rows_normalized,mean_rows_normalized,mean_rows_nonzero_only,total_tokens_api_sum,mean_total_tokens_api,mean_prompt_tokens_api,mean_completion_tokens_api,sum_elapsed_s,mean_elapsed_s,median_elapsed_s,mean_chunk_tokens_est,mean_prompt_tokens_est
+2391,2391,0,1.0,0.0,0.32496863237139273,4263,1.7829360100376412,5.486486486486487,4206685,1759.383103304057,1636.5257214554579,122.85738184859892,7442.896726,3.1128802701798413,2.460566,1209.909661229611,1635.6511919698871

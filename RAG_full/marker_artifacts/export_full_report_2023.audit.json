@@ -111,16 +111,6 @@
       "json_written": true
     },
     {
-      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AIXTRON SE.json",
-      "company_name": "AIXTRON SE",
-      "slug": "aixtron_se",
-      "year": "2023",
-      "status": "ok",
-      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\aixtron_se\\2023",
-      "md_written": true,
-      "json_written": true
-    },
-    {
       "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\AKWEL.json",
       "company_name": "AKWEL",
       "slug": "akwel",
@@ -217,16 +207,6 @@
       "year": "2023",
       "status": "ok",
       "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\azkoyen_s_a\\2023",
-      "md_written": true,
-      "json_written": true
-    },
-    {
-      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Banco Bilbao Vizcaya Argentaria, S.A..json",
-      "company_name": "Banco Bilbao Vizcaya Argentaria, S.A.",
-      "slug": "banco_bilbao_vizcaya_argentaria_s_a",
-      "year": "2023",
-      "status": "ok",
-      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\banco_bilbao_vizcaya_argentaria_s_a\\2023",
       "md_written": true,
       "json_written": true
     },
@@ -471,16 +451,6 @@
       "json_written": true
     },
     {
-      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Börse AG.json",
-      "company_name": "Deutsche Börse AG",
-      "slug": "deutsche_b_rse_ag",
-      "year": "2023",
-      "status": "ok",
-      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\deutsche_b_rse_ag\\2023",
-      "md_written": true,
-      "json_written": true
-    },
-    {
       "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Deutsche Lufthansa AG.json",
       "company_name": "Deutsche Lufthansa AG",
       "slug": "deutsche_lufthansa_ag",
@@ -537,16 +507,6 @@
       "year": "2023",
       "status": "ok",
       "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\do_co_ag\\2023",
-      "md_written": true,
-      "json_written": true
-    },
-    {
-      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\DWS Group GmbH & Co. KGaA.json",
-      "company_name": "DWS Group GmbH & Co. KGaA",
-      "slug": "dws_group_gmbh_co_kgaa",
-      "year": "2023",
-      "status": "ok",
-      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\dws_group_gmbh_co_kgaa\\2023",
       "md_written": true,
       "json_written": true
     },
@@ -1367,16 +1327,6 @@
       "year": "2023",
       "status": "ok",
       "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\r_stahl_ag\\2023",
-      "md_written": true,
-      "json_written": true
-    },
-    {
-      "input_file": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\data\\Raiffeisen Bank International.json",
-      "company_name": "Raiffeisen Bank International",
-      "slug": "raiffeisen_bank_international",
-      "year": "2023",
-      "status": "ok",
-      "out_dir": "C:\\Universita\\TESI\\esg_agent\\RAG_full\\marker_artifacts\\raiffeisen_bank_international\\2023",
       "md_written": true,
       "json_written": true
     },

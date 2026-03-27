@@ -1,0 +1,20 @@
+slug,company,report_year,status,error_stage,error_message,n_chunks,n_evidence_rows_doc,n_pass2_batches,pass1_elapsed_sum_s,pass2_elapsed_sum_s,llm_total_elapsed_sum_s,doc_total_elapsed_s,pass1_prompt_tokens_est_sum,pass2_prompt_tokens_est_sum,total_prompt_tokens_est_sum,pass1_prompt_tokens_api_sum,pass1_completion_tokens_api_sum,pass1_total_tokens_api_sum,pass2_prompt_tokens_api_sum,pass2_completion_tokens_api_sum,pass2_total_tokens_api_sum,total_prompt_tokens_api_sum,total_completion_tokens_api_sum,total_tokens_api_sum,n_pass1_calls_ok,n_pass1_calls_error,n_pass2_calls_ok,n_pass2_calls_error
+acs_actividades_de_construcci_n_y_servicios_s_a,"ACS, Actividades de Construcción y Servicios, S.A.",2023,empty,pass1_to_pass2,,1,0,0,3.291355,0.0,3.291355,3.787824,18411,0,18411,18163,48,18211,0,0,0,18163,48,18211,1,0,0,0
+agrana_beteiligungs_ag,Agrana Beteiligungs-AG,2023,empty,pass1_to_pass2,,1,0,0,33.267388,0.0,33.267388,33.57238,5898,0,5898,5816,48,5864,0,0,0,5816,48,5864,1,0,0,0
+bilfinger_se,Bilfinger SE,2023,empty,pass1_to_pass2,,1,0,0,6.876077,0.0,6.876077,7.48671,15242,0,15242,15163,27,15190,0,0,0,15163,27,15190,1,0,0,0
+covestro_ag,Covestro AG,2023,empty,pass1_to_pass2,,2,0,0,6.801607,0.0,6.801607,7.799358,23650,0,23650,23546,76,23622,0,0,0,23546,76,23622,2,0,0,0
+deutsche_post_ag,Deutsche Post AG,2023,empty,pass1_to_pass2,,1,0,0,2.23862,0.0,2.23862,2.76018,20219,0,20219,20115,28,20143,0,0,0,20115,28,20143,1,0,0,0
+e_on_se,E.ON SE,2023,empty,pass1_to_pass2,,1,0,0,3.275592,0.0,3.275592,3.902951,15316,0,15316,15186,27,15213,0,0,0,15186,27,15213,1,0,0,0
+enbw_energie_baden_w_rttemberg_ag,EnBW Energie Baden-Württemberg AG,2023,empty,pass1_to_pass2,,1,0,0,3.124221,0.0,3.124221,3.853001,12038,0,12038,11996,42,12038,0,0,0,11996,42,12038,1,0,0,0
+famicord_ag,FamiCord AG,2023,empty,pass1_to_pass2,,1,0,0,5.594185,0.0,5.594185,5.939219,3010,0,3010,3026,98,3124,0,0,0,3026,98,3124,1,0,0,0
+fraport_ag,Fraport AG,2023,empty,pass1_to_pass2,,1,0,0,3.060235,0.0,3.060235,3.566993,16268,0,16268,16237,40,16277,0,0,0,16237,40,16277,1,0,0,0
+hochtief_ag,HOCHTIEF AG,2023,empty,pass1_to_pass2,,1,0,0,6.660879,0.0,6.660879,7.267966,13703,0,13703,13665,41,13706,0,0,0,13665,41,13706,1,0,0,0
+hugo_boss_ag,Hugo Boss AG,2023,empty,pass1_to_pass2,,1,0,0,4.276895,0.0,4.276895,4.710693,6487,0,6487,6478,226,6704,0,0,0,6478,226,6704,1,0,0,0
+nemetschek_se,Nemetschek SE,2023,empty,pass1_to_pass2,,1,0,0,1.912709,0.0,1.912709,2.315438,6662,0,6662,6623,29,6652,0,0,0,6623,29,6652,1,0,0,0
+omv_ag,OMV AG,2023,empty,pass1_to_pass2,,1,0,0,4.074475,0.0,4.074475,4.633208,13081,0,13081,12915,39,12954,0,0,0,12915,39,12954,1,0,0,0
+rheinmetall_ag,Rheinmetall AG,2023,empty,pass1_to_pass2,,1,0,0,3.476506,0.0,3.476506,4.290547,16381,0,16381,16273,41,16314,0,0,0,16273,41,16314,1,0,0,0
+sma_solar_technology_ag,SMA Solar Technology AG,2023,empty,pass1_to_pass2,,1,0,0,4.244426,0.0,4.244426,5.011067,19203,0,19203,19175,41,19216,0,0,0,19175,41,19216,1,0,0,0
+strabag_se,STRABAG SE,2023,empty,pass1_to_pass2,,1,0,0,3.365134,0.0,3.365134,4.003108,12453,0,12453,12444,40,12484,0,0,0,12444,40,12484,1,0,0,0
+tubos_reunidos,Tubos Reunidos,2023,empty,pass1_to_pass2,,1,0,0,3.19125,0.0,3.19125,3.572436,2918,0,2918,2888,35,2923,0,0,0,2888,35,2923,1,0,0,0
+w_stenrot_w_rttembergische_ag,Wüstenrot & Württembergische AG,2023,empty,pass1_to_pass2,,1,0,0,2.182176,0.0,2.182176,2.792994,17087,0,17087,16902,45,16947,0,0,0,16902,45,16947,1,0,0,0
+zumtobel_group_ag,Zumtobel Group AG,2023,ok,,,1,23,1,28.489939,9.456423,37.946362,38.7067,7299,2352,9651,7275,2032,9307,2336,520,2856,9611,2552,12163,1,0,1,0

@@ -6,10 +6,10 @@ from typing import Tuple
 
 import pandas as pd
 
-IN_CSV = Path(r"C:\Universita\TESI\esg_agent\RAG_full\rag3_out\activities_extracted.csv")
+IN_CSV = Path(r"C:\Universita\TESI\esg_agent\RAG_full\rag3_out\optionB\activities_extracted.csv")
 
-OUT_CSV = Path(r"C:\Universita\TESI\esg_agent\RAG_full\rag3_out\activities_extracted_clean.csv")
-OUT_XLSX = Path(r"C:\Universita\TESI\esg_agent\RAG_full\rag3_out\activities_extracted_clean.xlsx")
+OUT_CSV = Path(r"C:\Universita\TESI\esg_agent\RAG_full\rag3_out\optionB\activities_extracted_clean.csv")
+OUT_XLSX = Path(r"C:\Universita\TESI\esg_agent\RAG_full\rag3_out\optionB\activities_extracted_clean.xlsx")
 
 # =========================
 # REGEX parsing Sub_activity_code

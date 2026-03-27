@@ -45,7 +45,9 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_JSONL = OUT_DIR / "activities_extracted.jsonl"
 OUT_CSV = OUT_DIR / "activities_extracted.csv"
 
-
+OUT_METRICS_JSONL = OUT_DIR / "activities_extracted_metrics.jsonl"
+OUT_METRICS_CSV = OUT_DIR / "activities_extracted_metrics.csv"
+OUT_METRICS_SUMMARY_JSON = OUT_DIR / "activities_extracted_metrics_summary.json"
 # =========================
 # DATA STRUCTURES
 # =========================
@@ -77,6 +79,90 @@ def count_tokens(text: str) -> int:
         return len(ENCODER.encode(text))
     return max(1, len(text) // 4)
 
+def _usage_to_dict(resp: Any) -> Dict[str, Optional[int]]:
+    usage = getattr(resp, "usage", None)
+    if usage is None:
+        return {
+            "prompt_tokens": None,
+            "completion_tokens": None,
+            "total_tokens": None,
+        }
+
+    return {
+        "prompt_tokens": getattr(usage, "prompt_tokens", None),
+        "completion_tokens": getattr(usage, "completion_tokens", None),
+        "total_tokens": getattr(usage, "total_tokens", None),
+    }
+
+
+def _series_stats(s: pd.Series) -> Dict[str, Optional[float]]:
+    s = pd.to_numeric(s, errors="coerce").dropna()
+    if s.empty:
+        return {
+            "count": 0,
+            "min": None,
+            "q1": None,
+            "mean": None,
+            "median": None,
+            "q3": None,
+            "p90": None,
+            "p95": None,
+            "max": None,
+            "std": None,
+            "iqr": None,
+            "sum": None,
+        }
+
+    q1 = s.quantile(0.25)
+    q3 = s.quantile(0.75)
+
+    return {
+        "count": int(s.shape[0]),
+        "min": float(s.min()),
+        "q1": float(q1),
+        "mean": float(s.mean()),
+        "median": float(s.median()),
+        "q3": float(q3),
+        "p90": float(s.quantile(0.90)),
+        "p95": float(s.quantile(0.95)),
+        "max": float(s.max()),
+        "std": float(s.std(ddof=1)) if len(s) > 1 else 0.0,
+        "iqr": float(q3 - q1),
+        "sum": float(s.sum()),
+    }
+
+
+def build_metrics_summary(df_metrics: pd.DataFrame) -> Dict[str, Any]:
+    if df_metrics.empty:
+        return {"overall": {}, "by_year": {}}
+
+    ok = df_metrics[df_metrics["status"] == "ok"].copy()
+    if ok.empty:
+        return {"overall": {}, "by_year": {}}
+
+    summary = {
+        "overall": {
+            "elapsed_s": _series_stats(ok["elapsed_s"]),
+            "chunk_tokens_est": _series_stats(ok["chunk_tokens_est"]),
+            "prompt_tokens_est": _series_stats(ok["prompt_tokens_est"]),
+            "prompt_tokens_api": _series_stats(ok["prompt_tokens_api"]),
+            "completion_tokens_api": _series_stats(ok["completion_tokens_api"]),
+            "total_tokens_api": _series_stats(ok["total_tokens_api"]),
+            "n_rows_normalized": _series_stats(ok["n_rows_normalized"]),
+        },
+        "by_year": {},
+    }
+
+    for year, g in ok.groupby("report_year", dropna=False):
+        summary["by_year"][str(year)] = {
+            "n_calls": int(len(g)),
+            "elapsed_s": _series_stats(g["elapsed_s"]),
+            "completion_tokens_api": _series_stats(g["completion_tokens_api"]),
+            "total_tokens_api": _series_stats(g["total_tokens_api"]),
+            "n_rows_normalized": _series_stats(g["n_rows_normalized"]),
+        }
+
+    return summary
 
 # =========================
 # JSON helpers
@@ -386,27 +472,49 @@ def get_client() -> AzureOpenAI:
     return AzureOpenAI(api_key=API_KEY, api_version=API_VERSION, azure_endpoint=azure_endpoint)
 
 
-def call_llm_extract(client: AzureOpenAI, developer: str, user: str, max_retries: int = 3) -> Dict[str, Any]:
+def call_llm_extract(
+    client: AzureOpenAI,
+    developer: str,
+    user: str,
+    max_retries: int = 3,
+) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     last_err: Optional[Exception] = None
+
     for attempt in range(1, max_retries + 1):
         try:
             resp = client.chat.completions.create(
                 model=CHAT_DEPLOYMENT,
-                messages=[{"role": "developer", "content": developer}, {"role": "user", "content": user}],
+                messages=[
+                    {"role": "developer", "content": developer},
+                    {"role": "user", "content": user},
+                ],
                 reasoning_effort=REASONING_EFFORT,
                 max_completion_tokens=MAX_COMPLETION_TOKENS,
             )
+
             content = resp.choices[0].message.content or ""
             json_text = _extract_first_json_object(content)
             data = json.loads(json_text)
+
             if not isinstance(data, dict):
                 raise ValueError("LLM output is not a JSON object")
             if "activities" not in data or not isinstance(data["activities"], list):
                 raise ValueError("LLM JSON missing 'activities' list")
-            return data
+
+            usage = _usage_to_dict(resp)
+            meta = {
+                "attempt_used": attempt,
+                "prompt_tokens": usage["prompt_tokens"],
+                "completion_tokens": usage["completion_tokens"],
+                "total_tokens": usage["total_tokens"],
+            }
+
+            return data, meta
+
         except Exception as e:
             last_err = e
             time.sleep(1.5 * attempt)
+
     raise RuntimeError(f"LLM extraction failed after {max_retries} retries: {last_err}")
 
 
@@ -517,10 +625,12 @@ def run(
 
     client = get_client()
     all_flat_rows: List[Dict[str, Any]] = _rows_from_existing_jsonl(OUT_JSONL) if not no_append_jsonl else []
+    metrics_rows: List[Dict[str, Any]] = []
 
     mode = "w" if no_append_jsonl else "a"
-    with OUT_JSONL.open(mode, encoding="utf-8") as w:
+    with OUT_JSONL.open(mode, encoding="utf-8") as w, OUT_METRICS_JSONL.open(mode, encoding="utf-8") as w_metrics:
         print(f"[OUT] JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_JSONL}")
+        print(f"[OUT] METRICS JSONL ({'overwrite' if no_append_jsonl else 'append'}) -> {OUT_METRICS_JSONL}")
 
         for i, doc in enumerate(docs, start=1):
             year = str(doc.report_year)
@@ -557,12 +667,45 @@ def run(
                         chunk_text = chunk_text[: max_chunk_tokens * 4]
 
                 developer, user = build_prompt(company_name, year, chunk_text, chunk_idx, n_chunks)
+                prompt_tokens_est = count_tokens(developer) + count_tokens(user)
 
+                t0 = time.perf_counter()
                 try:
-                    result = call_llm_extract(client, developer, user, max_retries=3)
+                    result, llm_meta = call_llm_extract(client, developer, user, max_retries=3)
+                    elapsed_s = time.perf_counter() - t0
                 except Exception as e:
+                    elapsed_s = time.perf_counter() - t0
+
+                    metric_row = {
+                        "slug": doc.slug,
+                        "company": company_name,
+                        "company_name_full": company_name_full,
+                        "report_year": year,
+                        "source_md": str(doc.focused_md),
+                        "chunk_index": chunk_idx,
+                        "n_chunks": n_chunks,
+                        "start_page": ch.get("start_page"),
+                        "end_page": ch.get("end_page"),
+                        "chunk_tokens_est": ch.get("tokens"),
+                        "prompt_tokens_est": prompt_tokens_est,
+                        "elapsed_s": round(elapsed_s, 6),
+                        "status": "error",
+                        "error_message": str(e),
+                        "attempt_used": None,
+                        "prompt_tokens_api": None,
+                        "completion_tokens_api": None,
+                        "total_tokens_api": None,
+                        "n_activities_raw": None,
+                        "n_rows_normalized": None,
+                    }
+
+                    w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+                    metrics_rows.append(metric_row)
+
                     print(f"[SKIP] LLM error: {company_name} {year} chunk={chunk_idx}/{n_chunks} -> {e}")
                     continue
+
+                normalized_rows = normalize_rows(result)
 
                 result["_meta"] = {
                     "slug": doc.slug,
@@ -574,10 +717,43 @@ def run(
                     "start_page": ch.get("start_page"),
                     "end_page": ch.get("end_page"),
                     "chunk_tokens_est": ch.get("tokens"),
+                    "prompt_tokens_est": prompt_tokens_est,
+                    "elapsed_s": round(elapsed_s, 6),
+                    "attempt_used": llm_meta.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta.get("completion_tokens"),
+                    "total_tokens_api": llm_meta.get("total_tokens"),
+                }
+
+                metric_row = {
+                    "slug": doc.slug,
+                    "company": company_name,
+                    "company_name_full": company_name_full,
+                    "report_year": year,
+                    "source_md": str(doc.focused_md),
+                    "chunk_index": chunk_idx,
+                    "n_chunks": n_chunks,
+                    "start_page": ch.get("start_page"),
+                    "end_page": ch.get("end_page"),
+                    "chunk_tokens_est": ch.get("tokens"),
+                    "prompt_tokens_est": prompt_tokens_est,
+                    "elapsed_s": round(elapsed_s, 6),
+                    "status": "ok",
+                    "error_message": None,
+                    "attempt_used": llm_meta.get("attempt_used"),
+                    "prompt_tokens_api": llm_meta.get("prompt_tokens"),
+                    "completion_tokens_api": llm_meta.get("completion_tokens"),
+                    "total_tokens_api": llm_meta.get("total_tokens"),
+                    "n_activities_raw": len(result.get("activities", [])) if isinstance(result.get("activities"), list) else None,
+                    "n_rows_normalized": len(normalized_rows),
                 }
 
                 w.write(json.dumps(result, ensure_ascii=False) + "\n")
-                all_flat_rows.extend(normalize_rows(result))
+                w_metrics.write(json.dumps(metric_row, ensure_ascii=False) + "\n")
+
+                metrics_rows.append(metric_row)
+                all_flat_rows.extend(normalized_rows)
+
                 time.sleep(SLEEP_BETWEEN_CALLS_S)
 
     if all_flat_rows:
@@ -590,7 +766,38 @@ def run(
     else:
         print("[WARN] Nessuna riga estratta, CSV non creato.")
 
+    if metrics_rows:
+        df_metrics = pd.DataFrame(metrics_rows)
+        df_metrics = df_metrics.sort_values(
+            ["company", "report_year", "chunk_index"],
+            na_position="last"
+        )
+        df_metrics.to_csv(OUT_METRICS_CSV, index=False, encoding="utf-8")
 
+        summary = build_metrics_summary(df_metrics)
+        OUT_METRICS_SUMMARY_JSON.write_text(
+            json.dumps(summary, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        print(f"[OUT] METRICS CSV     -> {OUT_METRICS_CSV} ({len(df_metrics)} righe)")
+        print(f"[OUT] METRICS SUMMARY -> {OUT_METRICS_SUMMARY_JSON}")
+
+        ok = df_metrics[df_metrics["status"] == "ok"].copy()
+        if not ok.empty:
+            print(
+                "[TIME] "
+                f"n={len(ok)} | "
+                f"min={ok['elapsed_s'].min():.3f}s | "
+                f"q1={ok['elapsed_s'].quantile(0.25):.3f}s | "
+                f"mean={ok['elapsed_s'].mean():.3f}s | "
+                f"median={ok['elapsed_s'].median():.3f}s | "
+                f"q3={ok['elapsed_s'].quantile(0.75):.3f}s | "
+                f"max={ok['elapsed_s'].max():.3f}s"
+            )
+    else:
+        print("[WARN] Nessuna metrica raccolta.")
+        
 def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only_first", action="store_true")
@@ -616,4 +823,4 @@ if __name__ == "__main__":
 # python c:/Universita/TESI/esg_agent/RAG_full_bigger/3_rag1_extract_activities.py --only_first
 # python 3_rag1_extract_activities.py --slug a_p_moller_maersk_a_s --year 2024
 # python 3_rag1_extract_activities.py --chunk_tokens 25000
-# python  c:/Universita/TESI/esg_agent/RAG_full_bigger/3_rag1_extract_activities.py --no_append_jsonl
+# python  c:/Universita/TESI/esg_agent/RAG_full_bigger/3_rag1_extract_activities.py --chunk_tokens 25000 --no_append_jsonl

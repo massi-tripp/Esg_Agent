@@ -1,0 +1,172 @@
+﻿company,bench_rows,rag_rows,matched_rows,unmatched_bench_rows,distinct_steps,step1,step2,step3,step4,score
+OMV AKTIENGESELLSCHAFT,30,32,30,0,1,30,0,0,0,40.5
+Bilfinger SE,26,29,26,0,2,24,2,0,0,36.8
+E.ON SE,23,32,23,0,2,22,0,1,0,32.9
+OMV AG,21,25,21,0,3,11,8,2,0,31.8
+STRABAG SE,20,22,20,0,3,16,3,1,0,30.5
+GEA Group Aktiengesellschaft,22,23,22,0,1,0,22,0,0,30.1
+"ACS, Actividades de Construcción y Servicios, S.A.",18,21,17,1,2,16,0,1,0,28.4
+SCHNEIDER ELECTRIC SE,19,19,19,0,1,19,0,0,0,26.2
+PORR AG,16,17,16,0,2,13,3,0,0,23.8
+REPSOL SA.,16,16,16,0,1,16,0,0,0,22.3
+PVA TePla AG,19,11,11,8,1,11,0,0,0,21.2
+Covestro AG,14,15,14,0,2,10,4,0,0,21.2
+ENI S.P.A.,15,21,15,0,1,15,0,0,0,21.0
+Savencia,13,14,13,0,2,0,12,1,0,19.9
+"Aena S.M.E., S.A.",12,12,12,0,2,10,2,0,0,18.6
+FUCHS SE,12,12,12,0,2,11,0,1,0,18.6
+SHELL PLC,13,13,13,0,1,0,13,0,0,18.4
+EnBW Energie Baden-Württemberg AG,10,11,9,1,2,8,0,1,0,18.0
+technotrans SE,11,11,10,1,1,10,0,0,0,17.8
+Ackermans & van Haaren,13,9,9,4,1,0,0,9,0,17.4
+AKZO NOBEL NV,11,11,11,0,2,10,1,0,0,17.3
+Beiersdorf AG,11,11,11,0,2,7,4,0,0,17.3
+Fraport AG,11,11,11,0,2,7,4,0,0,17.3
+SAFRAN,11,11,11,0,2,10,0,1,0,17.3
+Bayer AG,11,8,8,3,2,7,0,1,0,17.3
+KONINKLIJKE AHOLD DELHAIZE N.V.,12,12,12,0,1,12,0,0,0,17.1
+freenet AG,9,9,9,0,3,7,0,1,1,16.2
+Flughafen Wien AG,10,10,10,0,2,8,2,0,0,16.0
+HEINEKEN HOLDING N.V.,10,10,10,0,2,0,9,1,0,16.0
+HOCHTIEF AG,10,19,10,0,2,8,2,0,0,16.0
+Brenntag SE,11,11,11,0,1,11,0,0,0,15.8
+Compagnie de l'Odet SE,11,12,11,0,1,0,11,0,0,15.8
+Deutsche Post AG,11,14,11,0,1,11,0,0,0,15.8
+Rheinmetall AG,11,29,11,0,1,11,0,0,0,15.8
+ProSiebenSat.1 Media SE,10,8,8,2,1,8,0,0,0,15.5
+Alzchem Group AG,9,11,8,1,1,8,0,0,0,15.2
+Dürr AG,9,9,8,1,1,0,0,8,0,15.2
+Deutz AG,10,10,10,0,1,10,0,0,0,14.5
+GALP ENERGIA SGPS S.A.,10,10,10,0,1,10,0,0,0,14.5
+VERBUND AG,10,12,10,0,1,10,0,0,0,14.5
+Vonovia SE,10,10,10,0,1,10,0,0,0,14.5
+Zumtobel Group AG,10,10,10,0,1,10,0,0,0,14.5
+ARCELORMITTAL SA,7,6,7,0,3,5,0,1,1,13.6
+ASML HOLDING N.V.,8,8,8,0,2,6,2,0,0,13.4
+Lenzing AG,8,8,8,0,2,7,0,1,0,13.4
+RHÖN-KLINIKUM AG,8,9,8,0,2,0,7,1,0,13.4
+A P MOLLER-MAERSK A/S,9,9,9,0,1,9,0,0,0,13.2
+Andritz AG,9,9,9,0,1,9,0,0,0,13.2
+Grammer Aktiengesellschaft,9,9,9,0,1,9,0,0,0,13.2
+Jenoptik AG,9,9,9,0,1,9,0,0,0,13.2
+Jungheinrich AG,9,15,9,0,1,9,0,0,0,13.2
+Bechtle AG,7,6,5,2,2,0,4,0,1,13.1
+"Industria de Diseño Textil, S.A.",9,4,4,5,2,1,3,0,0,12.7
+LACROIX Group,9,13,5,4,1,5,0,0,0,12.2
+CEWE Stiftung & Co. KGaA,7,7,7,0,2,5,0,2,0,12.1
+DO & CO AG,7,12,7,0,2,6,1,0,0,12.1
+"Enagás, S.A.",7,9,7,0,2,6,1,0,0,12.1
+LANXESS AG,7,7,7,0,2,6,0,0,1,12.1
+"Azkoyen, S.A.",8,9,8,0,1,0,8,0,0,11.9
+CARREFOUR,8,14,8,0,1,8,0,0,0,11.9
+IBERDROLA SA,8,11,8,0,1,8,0,0,0,11.9
+Knorr-Bremse AG,8,12,8,0,1,8,0,0,0,11.9
+NORMA Group SE,8,10,8,0,1,8,0,0,0,11.9
+POLYTEC Holding AG,8,9,8,0,1,8,0,0,0,11.9
+RENAULT,8,8,8,0,1,8,0,0,0,11.9
+TELEFONICA SA,8,8,8,0,1,8,0,0,0,11.9
+Virbac,8,14,8,0,1,8,0,0,0,11.9
+Evonik Industries AG,8,5,5,3,1,5,0,0,0,11.9
+KSB SE & Co. KGaA Vz,7,7,5,2,1,5,0,0,0,11.6
+MTU Aero Engines AG,6,9,5,1,1,5,0,0,0,11.3
+Wienerberger AG,8,5,4,4,1,4,0,0,0,10.9
+AKWEL,7,7,7,0,1,0,7,0,0,10.6
+ElringKlinger AG,7,7,7,0,1,0,7,0,0,10.6
+HENKEL AG & CO. KGAA,7,7,7,0,1,7,0,0,0,10.6
+Klöckner & Co SE,7,7,7,0,1,7,0,0,0,10.6
+L'OREAL,7,7,7,0,1,7,0,0,0,10.6
+Palfinger AG,7,7,7,0,1,7,0,0,0,10.6
+VODAFONE GROUP PLC,7,7,7,0,1,7,0,0,0,10.6
+grenke AG,7,9,7,0,1,7,0,0,0,10.6
+RWE AG St,5,11,4,1,1,4,0,0,0,10.0
+LEG Immobilien SE,5,5,5,0,2,4,0,1,0,9.5
+PNE AG,5,5,5,0,2,4,0,1,0,9.5
+TeamViewer SE,5,4,5,0,2,4,0,1,0,9.5
+CHRISTIAN DIOR,6,6,6,0,1,6,0,0,0,9.3
+Fresenius SE & Co. KGaA,6,6,6,0,1,6,0,0,0,9.3
+JERONIMO MARTINS SGPS S.A.,6,6,6,0,1,6,0,0,0,9.3
+K+S Aktiengesellschaft,6,6,6,0,1,6,0,0,0,9.3
+Krones AG,6,8,6,0,1,6,0,0,0,9.3
+MBB SE,6,6,6,0,1,0,6,0,0,9.3
+MERCEDES-BENZ GROUP AG,6,6,6,0,1,6,0,0,0,9.3
+MediClin AG,6,6,6,0,1,6,0,0,0,9.3
+SCHOELLER-BLECKMANN AG,6,7,6,0,1,0,6,0,0,9.3
+STRATEC SE,6,9,6,0,1,6,0,0,0,9.3
+Sartorius AG St,6,6,6,0,1,6,0,0,0,9.3
+Sartorius AG Vz,6,6,6,0,1,6,0,0,0,9.3
+EQUINOR ASA,6,3,3,3,1,0,0,3,0,9.3
+Koenig & Bauer AG,6,3,3,3,1,0,3,0,0,9.3
+Wüstenrot & Württembergische AG,6,9,3,3,1,0,0,3,0,9.3
+"CIE Automotive, S.A.",5,3,3,2,1,3,0,0,0,9.0
+Daimler Truck Holding AG,4,4,4,0,2,3,1,0,0,8.2
+"Minor Hotels Europe & Americas, S.A.",4,5,4,0,2,3,1,0,0,8.2
+PSI Software SE,4,3,4,0,2,2,2,0,0,8.2
+AIRBUS SE,5,5,5,0,1,5,0,0,0,8.0
+DS SMITH LIMITED,5,5,5,0,1,0,0,5,0,8.0
+Friedrich Vorwerk Group SE,5,8,5,0,1,0,5,0,0,8.0
+Hamburger Hafen und Logistik AG,5,6,5,0,1,5,0,0,0,8.0
+Volkswagen AG St,5,10,5,0,1,5,0,0,0,8.0
+Volkswagen AG Vz,5,10,5,0,1,5,0,0,0,8.0
+WashTec AG,5,7,5,0,1,5,0,0,0,8.0
+CA Immobilien Anlagen AG,5,3,2,3,1,0,0,0,2,8.0
+BAWAG Group AG,7,6,1,6,1,0,0,0,1,7.6
+Elmos Semiconductor SE,3,2,2,1,1,2,0,0,0,7.4
+RINGMETALL SE  NA O.N.,3,3,2,1,1,0,2,0,0,7.4
+SUSS MicroTec SE,3,10,2,1,1,2,0,0,0,7.4
+Salzgitter AG,3,2,2,1,1,0,0,0,2,7.4
+Dassault Aviation,5,1,1,4,1,1,0,0,0,7.0
+Heidelberg Materials AG,3,3,3,0,2,2,0,0,1,6.9
+NOVO NORDISK A/S,3,3,3,0,2,2,1,0,0,6.9
+S IMMO AG,3,3,3,0,2,2,1,0,0,6.9
+Siltronic AG,3,4,3,0,2,2,0,0,1,6.9
+AB VOLVO,4,4,4,0,1,4,0,0,0,6.7
+Daimler AG,4,5,4,0,1,4,0,0,0,6.7
+Delivery Hero SE,4,4,4,0,1,4,0,0,0,6.7
+Deutsche Telekom AG,4,5,4,0,1,4,0,0,0,6.7
+Fresenius Medical Care AG,4,5,4,0,1,4,0,0,0,6.7
+HELLA GmbH & Co. KGaA,4,4,4,0,1,4,0,0,0,6.7
+INDUSTRIA DE DISENO TEXTIL S.A.,4,4,4,0,1,4,0,0,0,6.7
+SMA Solar Technology AG,4,4,4,0,1,4,0,0,0,6.7
+Scout24 SE,4,5,4,0,1,4,0,0,0,6.7
+VIENNA INSURANCE GROUP AG,4,4,4,0,1,4,0,0,0,6.7
+Viscom SE,4,4,4,0,1,4,0,0,0,6.7
+AIB Group plc,4,19,1,3,1,0,0,0,1,6.7
+Acerinox S.A.,4,2,1,3,1,1,0,0,0,6.7
+Instone Real Estate Group,2,1,1,1,1,0,1,0,0,6.1
+Medios AG,2,2,1,1,1,1,0,0,0,6.1
+Warimpex Finanz- und Bet. AG,2,1,1,1,1,0,1,0,0,6.1
+Zalando SE,2,1,1,1,1,1,0,0,0,6.1
+"Melia Hotels International, S.A.",2,2,2,0,2,0,0,1,1,5.6
+BMW AG Vz,3,3,3,0,1,3,0,0,0,5.4
+Continental AG,3,8,3,0,1,3,0,0,0,5.4
+"EDP Renováveis, S.A.",3,3,3,0,1,3,0,0,0,5.4
+Eckert & Ziegler SE,3,3,3,0,1,0,3,0,0,5.4
+INTERNATIONAL CONSOLIDATED AIRLINES GROUP S.A,3,3,3,0,1,3,0,0,0,5.4
+ISS A/S,3,3,3,0,1,0,3,0,0,5.4
+Immofinanz AG,3,3,3,0,1,3,0,0,0,5.4
+R. Stahl AG,3,7,3,0,1,0,3,0,0,5.4
+SGL Carbon SE,3,5,3,0,1,0,3,0,0,5.4
+TAKKT AG,3,8,3,0,1,0,3,0,0,5.4
+adidas AG,3,3,3,0,1,3,0,0,0,5.4
+secunet Security Networks AG,3,3,3,0,1,0,3,0,0,5.4
+Talanx Aktiengesellschaft,4,6,0,4,0,0,0,0,0,4.2
+"Audax Renovables, S.A.",2,2,2,0,1,0,2,0,0,4.1
+Bike24 Holding AG,2,2,2,0,1,0,0,2,0,4.1
+Deutsche Lufthansa AG,2,3,2,0,1,0,2,0,0,4.1
+"Gestamp Automoción, S.A.",2,4,2,0,1,2,0,0,0,4.1
+Porsche AG Vz,2,4,2,0,1,2,0,0,0,4.1
+"Prosegur Cash, S.A.",2,2,2,0,1,0,2,0,0,4.1
+SAP SE,2,2,2,0,1,2,0,0,0,4.1
+Syzygy AG,2,2,2,0,1,0,2,0,0,4.1
+Westwing Group SE,2,2,2,0,1,0,2,0,0,4.1
+"Banco Santander, S.A.",3,20,0,3,0,0,0,0,0,3.9
+Allianz SE,1,18,0,1,0,0,0,0,0,3.3
+PATRIZIA SE,1,13,0,1,0,0,0,0,0,3.3
+UNIQA Insurance Group AG,1,6,0,1,0,0,0,0,0,3.3
+AMAG Austria Metall AG,1,2,1,0,1,1,0,0,0,2.8
+ATOSS Software SE,1,8,1,0,1,1,0,0,0,2.8
+"Corporacion Financiera Alba, S.A.",1,1,1,0,1,1,0,0,0,2.8
+FREQUENTIS AG,1,1,1,0,1,1,0,0,0,2.8
+Hawesko Holding SE,1,1,1,0,1,0,0,0,1,2.8
+Mister Spex SE,1,1,1,0,1,0,0,1,0,2.8
+Vossloh AG,1,6,1,0,1,0,1,0,0,2.8

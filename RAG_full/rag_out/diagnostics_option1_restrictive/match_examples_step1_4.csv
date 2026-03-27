@@ -1,0 +1,6 @@
+﻿example_type,company,year,benchmark_activity,benchmark_code,benchmark_objective,rag_activity,rag_code_numeric,rag_label,matched_step,note
+Step1,A P MOLLER-MAERSK A/S,2024,sea and coastal freight water transport,6.10,CCM,Sea and coastal freight water transport,6.10,CCM,Step1,Same normalized sub-activity code and objective label.
+Step2,AKWEL,2023,manufacture of automotive and mobility components,3.18,CCM,Manufacture of automotive and mobility components,3.18,,Step2,"Same normalized sub-activity code, but no label+code match."
+Step3,"ACS, Actividades de Construcción y Servicios, S.A.",2023,renewal of waste water collection and treatment,2.2,WTR,Renewal of waste water collection and treatment,5.4,CCM,Step3,"Same normalized activity text, but no structured code match."
+Step4,AIB Group plc,2023,computer programming consultancy and related activities,8.2,CE,Computer programming activities,J62.0.1,,Step4,Fuzzy activity match (score=100.0) after failing Steps 1--3.
+Unmatched,"ACS, Actividades de Construcción y Servicios, S.A.",2023,flood risk prevention and protection infrastructure,14.2,CCA,Infrastructure for rail transport,6.14,CCM,Unmatched,No match across Steps 1--4. Best same-company activity similarity: 59.6.

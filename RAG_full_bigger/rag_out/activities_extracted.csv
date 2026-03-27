@@ -8,52 +8,31 @@ A P MOLLER-MAERSK A/S,2024,1,Freight transport services by road,CCM 6.6
 A P MOLLER-MAERSK A/S,2024,1,"Installation, maintenance and repair of charging stations",CCM 7.4
 A P MOLLER-MAERSK A/S,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 A P MOLLER-MAERSK A/S,2024,1,Acquisition and ownership of buildings,CCM 7.7
-AB VOLVO,2024,1,Manufacture of automotive parts and components,CCM 3.18
-AB VOLVO,2024,1,Manufacture of low carbon technology for transportation,CCM 3.3
-AB VOLVO,2024,1,Manufacturing of batteries,CCM 3.4
-AB VOLVO,2024,1,Manufacture of other low carbon technology*,CCM 3.6
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Flood risk prevention and protection infrastructures,14.2
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,construction and operation of electricity generation facilities using photovoltaic solar technology,4.1
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Storage of electricity,4.10
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,concentrated solar power technology,4.2
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Generation of electricity from gaseous fossil fuels,4.29
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,wind power,4.3
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,hydroelectric power,4.5
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Transmission and distribution of electricity,4.9
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"construction, extension and operation of water collection, treatment and distribution systems",5.1
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"renovation of water collection, treatment and distribution systems",5.2
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"construction, extension and operation of centralised waste water systems, including collection (sewer networks) and treatment",5.3
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,renovating wastewater collection and treatment,5.4
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"building, modernising, maintaining and operating infrastructure for personal mobility, including building roads, motorways, bridges and tunnels and other infrastructure for pedestrians and bicycles",6.13
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"Construction, modernisation, operation and maintenance of surface and underground railways, as well as railway bridges and tunnels, stations, terminals, service facilities and safety and traffic management systems",6.14
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"construction, modernisation, maintenance and operation of infrastructures for urban mobility and transport",6.15
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,infrastructure for maritime and river transport,6.16
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"construction, modernisation and operation of infrastructures necessary for airport operations",6.17
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"developing construction projects of residential and non-residential buildings, and building complete residential or non-residential buildings",7.1
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,construction and civil engineering works or preparation of renovation works for existing buildings,7.2
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Cells for green energy transmission grids,7.6
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Professional services related to the energy efficiency of buildings,9.3
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Flood risk prevention and protection infrastructure,CCA 14.2
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
+AB VOLVO,2024,1,3.18 Manufacture of automotive and mobility components (spare parts and components to trucks and buses),CCM 3.18
+AB VOLVO,2024,1,3.3 Manufacture of low-carbon technologies for transport (trucks and buses),CCM 3.3
+AB VOLVO,2024,1,3.4 Manufacture of batteries,CCM 3.4
+AB VOLVO,2024,1,3.6 Manufacture of other low-carbon technologies (construction machines and engines),CCM 3.6
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Flood risk prevention and protection infrastructure,CCA 14.2
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 "ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Storage of electricity,CCM 4.10
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Electricity generation using concentrated solar power (CSP) technology,CCM 4.2
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Electricity generation using concentrated solar power (CSP) technology,CCM 4.2
 "ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Electricity generation from fossil gaseous fuels,CCM 4.29
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Electricity generation from wind power,CCM 4.3
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Electricity generation from hydropower,CCM 4.5
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Transmission and distribution of electricity,CCM 4.9
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,"Construction, extension and operation of water collection, treatment and supply systems",CCM 5.1
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,"Renewal of water collection, treatment and supply systems",CCM 5.2
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,"Construction, extension and operation of waste water collection and treatment",CCM 5.3
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Renewal of waste water collection and treatment,CCM 5.4
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,"Infrastructure for personal mobility, cycle logistics",CCM 6.13
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Infrastructure for rail transport,CCM 6.14
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Infrastructure enabling low carbon water transport,CCM 6.16
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Low carbon airport infrastructure,CCM 6.17
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Construction of new buildings,CCM 7.1
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Renovation of existing buildings,CCM 7.2
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Electricity generation from wind power,CCM 4.3
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Electricity generation from hydropower,CCM 4.5
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Transmission and distribution of electricity,CCM 4.9
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"Construction, extension and operation of water collection, treatment and supply systems",CCM 5.1
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"Renewal of water collection, treatment and supply systems",CCM 5.2
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"Construction, extension and operation of waste water collection and treatment",CCM 5.3
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Renewal of waste water collection and treatment,CCM 5.4
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"Infrastructure for personal mobility, cycle logistics",CCM 6.13
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Infrastructure for rail transport,CCM 6.14
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Infrastructure enabling low carbon water transport,CCM 6.16
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Low carbon airport infrastructure,CCM 6.17
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Construction of new buildings,CCM 7.1
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,Renovation of existing buildings,CCM 7.2
 "ACS, Actividades de Construcción y Servicios, S.A.",2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
-"ACS, Actividades de Construcción y Servicios, S.A.",2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+"ACS, Actividades de Construcción y Servicios, S.A.",2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 "ACS, Actividades de Construcción y Servicios, S.A.",2023,2,Professional services related to energy performance of buildings,CCM 9.3
 AIB Group plc,2023,3,A1.6.2 – Support activities for animal production,A1.6.2
 AIB Group plc,2023,3,C17.1.2 – Manufacture of paper and paperboard,C17.1.2
@@ -74,12 +53,6 @@ AIB Group plc,2023,3,Q86.1.0 – Hospital activities,Q86.1.0
 AIB Group plc,2023,3,Q86.9.0 – Other human health activities,Q86.9.0
 AIB Group plc,2023,3,R92.0.0 – Gambling and betting activities,R92.0.0
 AIB Group plc,2023,3,S94.9.9 – Activities of other membership organisations,S94.9.9
-AIB Group plc,2023,4,"The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies.",
-AIB Group plc,2023,4,"The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.",
-AIB Group plc,2023,4,"The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat generation facilities that produce heat/cool using fossil gaseous fuels.",
-AIB Group plc,2023,4,"The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels.",
-AIB Group plc,2023,4,"The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.",
-AIB Group plc,2023,4,"The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades.",
 AIRBUS SE,2024,1,Manufacturing of aircraft,CCM 3.21
 AIRBUS SE,2024,1,Production of heat and cool from bioenergy,CCM 4.24 / CCA 4.24
 AIRBUS SE,2024,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3/ CCA 7.3
@@ -92,6 +65,16 @@ AKWEL,2023,1,"Transport by motorbikes, passenger cars and light commercial vehic
 AKWEL,2023,1,Renovation of existing buildings,7.2
 AKWEL,2023,1,"Installation, maintenance and repair of energy efficiency equipment",7.3
 AKWEL,2023,1,Acquisition and ownership of buildings,7.7
+AKZO NOBEL NV,2024,1,Manufacture of renewable energy technologies,3.1
+AKZO NOBEL NV,2024,1,Manufacture of low carbon technologies for transport,3.3
+AKZO NOBEL NV,2024,1,Manufacture of other low carbon technologies,3.6
+AKZO NOBEL NV,2024,1,Provision of IT/OT data-driven solutions,4.1
+AKZO NOBEL NV,2024,1,"Construction, extension and operation of waste water collection and treatment",5.3
+AKZO NOBEL NV,2024,1,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
+AKZO NOBEL NV,2024,1,Renovation of existing buildings,7.2
+AKZO NOBEL NV,2024,1,"Installation, maintenance and repair of renewable energy technologies",7.6
+AKZO NOBEL NV,2024,1,Acquisition and ownership of buildings,7.7
+AKZO NOBEL NV,2024,1,Data-driven solutions for GHG emissions reductions,8.2
 AKZO NOBEL NV,2024,1,Manufacture of renewable energy technologies,CCM 3.1
 AKZO NOBEL NV,2024,1,Manufacture of low carbon technologies for transport,CCM 3.3
 AKZO NOBEL NV,2024,1,Manufacture of other low carbon technologies,CCM 3.6
@@ -103,28 +86,30 @@ AKZO NOBEL NV,2024,1,Acquisition and ownership of buildings,CCM 7.7
 AKZO NOBEL NV,2024,1,Data-driven solutions for GHG emissions reductions,CCM 8.2
 AKZO NOBEL NV,2024,1,Provision of IT/OT data-driven solutions,CE 4.1
 AKZO NOBEL NV,2024,1,Remediation of contaminated sites and areas,PP 2.4
-AMAG Austria Metall AG,2023,2,Manufacture of aluminium through primary alumina (bauxite) process,CCM 3.8.
-AMAG Austria Metall AG,2023,2,Secondary aluminium recycling,CCM 3.8. CCA 3.8.
+AMAG Austria Metall AG,2023,1,Manufacture of aluminium through primary alumina (bauxite) process,CCM 3.8.
+AMAG Austria Metall AG,2023,1,Secondary aluminium recycling,CCM 3.8. CCA 3.8.
+AMAG Austria Metall AG,2023,2,Secondary aluminium recycling,CCM 3.8./CCA 3.8.
 ARCELORMITTAL SA,2024,1,Forest Management,CCM 1.3
 ARCELORMITTAL SA,2024,1,Manufacture of energy efficient equipment for buildings,CCM 3.5
 ARCELORMITTAL SA,2024,1,Manufacture of Iron and Steel,CCM 3.9
 ARCELORMITTAL SA,2024,1,Electricity Generation from wind power and solar photovoltaic technology,CCM 4.1/4.3
 ARCELORMITTAL SA,2024,1,Material recovery from non-hazardous waste,CCM 5.9
-ARCELORMITTAL SA,2024,1,Construction of new building,CCM 7.1
+ARCELORMITTAL SA,2024,1,Construction of new building,CCM 7 .1
+ASML HOLDING N.V.,2024,1,Renovation of existing buildings,CCA 7.2
+ASML HOLDING N.V.,2024,1,Acquisition and ownership of buildings,CCA 7.7
 ASML HOLDING N.V.,2024,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 ASML HOLDING N.V.,2024,1,Transmission & distribution of electricity,CCM 4.9
-ASML HOLDING N.V.,2024,1,Renovation of existing buildings,CCM 7.2 / CCA 7.2 / CE 3.2
+ASML HOLDING N.V.,2024,1,Renovation of existing buildings,CCM 7.2
 ASML HOLDING N.V.,2024,1,Acquisition and ownership of buildings,CCM 7.7
-ASML HOLDING N.V.,2024,1,Acquisition and ownership of buildings,CCM 7.7 / CCA 7.7
-ASML HOLDING N.V.,2024,1,Manufacturing of electrical equipment,CE 1.2
+ASML HOLDING N.V.,2024,1,Manufacturing of electrical and electronic equipment,CE 1.2
+ASML HOLDING N.V.,2024,1,Renovation of existing buildings,CE 3.2
 ASML HOLDING N.V.,2024,1,"Repair, refurbishment and remanufacturing",CE 5.1
 ASML HOLDING N.V.,2024,1,Sale of spare parts,CE 5.2
 ASML HOLDING N.V.,2024,1,Sale of second-hand goods,CE 5.4
 ATOSS Software SE,2023,1,"Carriage by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 ATOSS Software SE,2023,1,Manufacturer of electrical and electronic equipment,CE 1.2
-Acerinox S.A.,2023,1,Iron and steel manufacturing,3.9
 Acerinox S.A.,2023,2,Manufacture of iron and steel (CNAE 12.24) 3.9,"CCM 1,156"
-Acerinox S.A.,2023,2,Manufacture of iron and steel (CNAE 12.24),CCM 3.9
+Acerinox S.A.,2023,1,Manufacture of iron and steel (CNAE 12.24),CCM 3.9
 Ackermans & van Haaren,2023,2,Electricity generation from wind power,D35.11
 Ackermans & van Haaren,2023,2,Transmission and Distribution of Electricity,D35.12
 Ackermans & van Haaren,2023,2,Sorting and material recovery of non-hazardous waste,E38.32
@@ -135,34 +120,28 @@ Ackermans & van Haaren,2023,2,Infrastructure for rail transport,F42.12
 Ackermans & van Haaren,2023,2,Transmission and Distribution of Electricity,J62.01
 Ackermans & van Haaren,2023,2,Acquisition and ownership of buildings,L68
 Ackermans & van Haaren,2023,2,Remediation of contaminated sites and areas,
-"Aena S.M.E., S.A.",2023,3,Infrastructure that allows for low-carbon road transport and public transport,6.15
-"Aena S.M.E., S.A.",2023,3,Low-carbon airport infrastructures,6.17
-"Aena S.M.E., S.A.",2023,3,"Installation, maintenance and repair of energy-efficient equipment.",7.3
-"Aena S.M.E., S.A.",2023,3,"Installation, maintenance and repair of electric vehicle charging stations in buildings (and in parking spaces attached to buildings)",7.4
-"Aena S.M.E., S.A.",2023,3,"Installing, maintaining and repairing renewable energy technologies",7.6
-"Aena S.M.E., S.A.",2023,3,Acquisition and ownership of buildings,7.7
 "Aena S.M.E., S.A.",2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
 "Aena S.M.E., S.A.",2023,1,Low carbon airport infrastructure,CCM 6.17
-"Aena S.M.E., S.A.",2023,2,Air transport ground handling operations,CCM 6.20
+"Aena S.M.E., S.A.",2023,1,Air transport ground handling operations,CCM 6.20
 "Aena S.M.E., S.A.",2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 "Aena S.M.E., S.A.",2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 "Aena S.M.E., S.A.",2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
 "Aena S.M.E., S.A.",2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 "Aena S.M.E., S.A.",2023,1,Acquisition and ownership of buildings,CCM 7.7
-"Aena S.M.E., S.A.",2023,2,Production of alternative water resources for purposes other than human consumption,CE 2.2
-"Aena S.M.E., S.A.",2023,2,Maintenance of roads and motorways,CE 3.4
-"Aena S.M.E., S.A.",2023,2,Remediation of contaminated sites and areas,PPC 2.4
-"Aena S.M.E., S.A.",2023,2,Urban waste water treatment,WRT 2.2
-Agrana Beteiligungs-AG,2023,1,Manufacture of plastics in primary forms,3.17
-Agrana Beteiligungs-AG,2023,1,Production of biogas and biofuels for transport and liquid biofuels,4.13
-Agrana Beteiligungs-AG,2023,1,Production of heat/cool using waste heat,4.25
-Agrana Beteiligungs-AG,2023,1,"Construction, extension and operation of water collection, treatment and supply systems",5.1
-Agrana Beteiligungs-AG,2023,1,"Construction, extension and operation of wastewater collection and treatment systems",5.3
-Agrana Beteiligungs-AG,2023,1,Anaerobic digestion of biowaste,5.7
-Agrana Beteiligungs-AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
-Agrana Beteiligungs-AG,2023,1,Freight transport services by road,6.6
-Agrana Beteiligungs-AG,2023,1,"Installation, maintenance and repair of energy-efficiency equipment",7.3
-Agrana Beteiligungs-AG,2023,1,"Market-oriented research, development and innovation",9.1
+"Aena S.M.E., S.A.",2023,1,Production of alternative water resources for purposes other than human consumption,CE 2.2
+"Aena S.M.E., S.A.",2023,1,Maintenance of roads and motorways,CE 3.4
+"Aena S.M.E., S.A.",2023,1,Remediation of contaminated sites and areas,PPC 2.4
+"Aena S.M.E., S.A.",2023,1,Urban waste water treatment,WRT 2.2
+Agrana Beteiligungs-AG,2023,1,3.17. Manufacture of plastics in primary forms,3.17
+Agrana Beteiligungs-AG,2023,1,4.13. Production of biogas and biofuels for transport and liquid biofuels,4.13
+Agrana Beteiligungs-AG,2023,1,4.25. Production of heat/cool using waste heat,4.25
+Agrana Beteiligungs-AG,2023,1,"5.1. Construction, extension and operation of water collection, treatment and supply systems",5.1
+Agrana Beteiligungs-AG,2023,1,"5.3. Construction, extension and operation of wastewater collection and treatment systems",5.3
+Agrana Beteiligungs-AG,2023,1,5.7. Anaerobic digestion of biowaste,5.7
+Agrana Beteiligungs-AG,2023,1,"6.5. Transport by motorbikes, passenger cars and light commercial vehicles",6.5
+Agrana Beteiligungs-AG,2023,1,6.6. Freight transport services by road,6.6
+Agrana Beteiligungs-AG,2023,1,"7.3. Installation, maintenance and repair of energy efficiency equipment",7.3
+Agrana Beteiligungs-AG,2023,1,"9.1. Market-oriented research, development and innovation",9.1
 Agrana Beteiligungs-AG,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 Agrana Beteiligungs-AG,2023,1,Manufacture of biogas and biofuels for use in transport and of bioliquids,CCM 4.13
 Agrana Beteiligungs-AG,2023,1,Production of heat/cold using waste heat,CCM 4.25
@@ -173,15 +152,12 @@ Agrana Beteiligungs-AG,2023,1,"Transport by motorbikes, passenger cars and light
 Agrana Beteiligungs-AG,2023,1,Freight transport services by road,CCM 6.6
 Agrana Beteiligungs-AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 Agrana Beteiligungs-AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-Allianz SE,2023,3,"Investments funding Taxonomy-eligible, but not Taxonomy-aligned economic activities referred to 4.26",4.26
-Allianz SE,2023,3,"Investments funding Taxonomy-eligible, but not Taxonomy-aligned economic activities referred to 4.27",4.27
-Allianz SE,2023,3,"Investments funding Taxonomy-eligible, but not Taxonomy-aligned economic activities referred to 4.28",4.28
-Allianz SE,2023,3,"Investments funding Taxonomy-eligible, but not Taxonomy-aligned economic activities referred to 4.29",4.29
-Allianz SE,2023,3,"Investments funding Taxonomy-eligible, but not Taxonomy-aligned economic activities referred to 4.30",4.30
-Allianz SE,2023,3,"Investments funding Taxonomy-eligible, but not Taxonomy-aligned economic activities referred to 4.31",4.31
-Allianz SE,2023,3,Investments funding other Taxonomy non-eligible economic activities other than nuclear & gas related economic activities,
-Allianz SE,2023,3,Investments funding other Taxonomy-aligned economic activities other than nuclear & gas related economic activities,
-Allianz SE,2023,3,"Investments funding other Taxonomy-eligible, but not Taxonomy-aligned economic activities other than nuclear & gas related economic activities",
+Allianz SE,2023,2,"The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies.",
+Allianz SE,2023,2,"The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.",
+Allianz SE,2023,2,"The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat generation facilities that produce heat/cool using fossil gaseous fuels.",
+Allianz SE,2023,2,"The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels.",
+Allianz SE,2023,2,"The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.",
+Allianz SE,2023,2,"The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades.",
 Alzchem Group AG,2023,1,Power generation using photovoltaic technology,CCM 4.1
 Alzchem Group AG,2023,1,Transmission and distribution of electricity,CCM 4.9
 Alzchem Group AG,2023,1,"Construction, expansion and operation of water extraction, treatment and supply systems",CCM 5.1 WTR 2.1
@@ -193,7 +169,7 @@ Alzchem Group AG,2023,1,Freight transportation by rail,CCM 6.2
 Alzchem Group AG,2023,1,"Operation of devices for personal mobility, cycling logistics",CCM 6.4
 Alzchem Group AG,2023,1,"Data processing, hosting and related activities",CCM 8.1
 Alzchem Group AG,2023,1,"Market-oriented research, development and innovation",CCM 9.1
-Andritz AG,2023,1,Manufacture of renewable energy technologies,CCM 3.1.
+Andritz AG,2023,1,Manufacture of renewable energy,CCM 3.1.
 Andritz AG,2023,1,"Manufacture, installation, and servicing of high, medium and low voltage electrical equipment for electrical transmission and distribution that result in or enable a substantial contribution to climate change mitigation",CCM 3.20.
 Andritz AG,2023,1,Manufacture of other low carbon technologies,CCM 3.6.
 Andritz AG,2023,1,"Renewal of water collection, treatment, and supply systems",CCM 5.2.
@@ -202,27 +178,22 @@ Andritz AG,2023,1,Renovation of existing buildings,CCM 7.2.
 Andritz AG,2023,1,"Installation, maintenance, and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4.
 Andritz AG,2023,1,"Installation, maintenance, and repair of renewable energy technologies",CCM 7.6.
 Andritz AG,2023,1,"Repair, refurbishment and remanufacturing",CE 5.1.
-"Audax Renovables, S.A.",2023,2,Electricity generation through solar photovoltaic technology (Year 2022),4.1
-"Audax Renovables, S.A.",2023,2,Electricity generation from wind energy (Year 2022),4.3
-"Azkoyen, S.A.",2023,1,4.1. Soluciones basadas en datos TI/OT / IT/OT data-driven solutions,4.1.
-"Azkoyen, S.A.",2023,1,"5.1. Reparación, reacondicionamiento y remanufactura / Repair, refurbishment and remanufacturing",5.1.
-"Azkoyen, S.A.",2023,1,5.2. Venta de repuestos / Sales of spare parts,5.2.
-"Azkoyen, S.A.",2023,1,5.4. Venta de bienes de segunda mano / Sale of second-hand goods,5.4.
-"Azkoyen, S.A.",2023,1,5.5. Producto como servicio y otros modelos / Product-as-a-service and other models,5.5.
-"Azkoyen, S.A.",2023,1,"6.5. Transporte por motocicletas, turismos y vehículos comerciales / Transport by motorbikes, passenger cars and commercial vehicles",6.5.
-"Azkoyen, S.A.",2023,1,"7.3. Instalación, mantenimiento y reparación de equipos de eficiencia energética / Installation, maintenance and repair of energy efficiency equipment",7.3.
-"Azkoyen, S.A.",2023,1,"7.4. Instalación, mantenimiento y reparación de estaciones de recarga para vehículos eléctricos en edificios (y en las plazas de aparcamiento anexas a los edificios) / Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4.
-"Azkoyen, S.A.",2023,1,"7.6. Instalación, mantenimiento y reparación de tecnologías de energía renovable / Installation, maintenance and repair of renewable energy technologies",7.6.
-BMW AG Vz,2023,2,Manufacture of low carbon technologies for transport,"CCM 3.3, CCA 3.3"
-BMW AG Vz,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles","CCM 6.5, CCA 6.5"
+"Audax Renovables, S.A.",2023,1,Electricity generation through solar photovoltaic technology,4.1
+"Audax Renovables, S.A.",2023,1,Electricity generation from wind energy,4.3
+"Azkoyen, S.A.",2023,1,Soluciones basadas en datos TI/OT,4.1
+"Azkoyen, S.A.",2023,1,"Reparación, reacondicionamiento y remanufactura",5.1
+"Azkoyen, S.A.",2023,1,Venta de repuestos,5.2
+"Azkoyen, S.A.",2023,1,Venta de bienes de segunda mano,5.4
+"Azkoyen, S.A.",2023,1,Producto como servicio y otros modelos,5.5
+"Azkoyen, S.A.",2023,1,"Transporte por motocicletas, turismos y vehículos comerciales",6.5
+"Azkoyen, S.A.",2023,1,"Instalación, mantenimiento y reparación de equipos de eficiencia energética",7.3
+"Azkoyen, S.A.",2023,1,"Instalación, mantenimiento y reparación de estaciones de recarga para vehículos eléctricos en edificios (y en las plazas de aparcamiento anexas a los edificios)",7.4
+"Azkoyen, S.A.",2023,1,"Instalación, mantenimiento y reparación de tecnologías de energía renovable",7.6
+BMW AG Vz,2023,2,Manufacture of low carbon technologies for transport,CCA 3.3
+BMW AG Vz,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCA 6.5
+BMW AG Vz,2023,2,Manufacture of low carbon technologies for transport,CCM 3.3
+BMW AG Vz,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 BMW AG Vz,2023,2,Sale of second-hand goods,CE 5.4
-"Banco Santander, S.A.",2023,3,Amount and proportion of other taxonomy-eligible but not taxonomy-aligned economic activities not referred to in rows 1 to 6 above in the denominator of the applicable KPI,
-"Banco Santander, S.A.",2023,3,Amount and proportion of taxonomy- eligible but not taxonomy-aligned economic activity referred to in Section 4.26 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-"Banco Santander, S.A.",2023,3,Amount and proportion of taxonomy- eligible but not taxonomy-aligned economic activity referred to in Section 4.27 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-"Banco Santander, S.A.",2023,3,Amount and proportion of taxonomy- eligible but not taxonomy-aligned economic activity referred to in Section 4.28 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-"Banco Santander, S.A.",2023,3,Amount and proportion of taxonomy- eligible but not taxonomy-aligned economic activity referred to in Section 4.29 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-"Banco Santander, S.A.",2023,3,Amount and proportion of taxonomy- eligible but not taxonomy-aligned economic activity referred to in Section 4.30 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-"Banco Santander, S.A.",2023,3,Amount and proportion of taxonomy- eligible but not taxonomy-aligned economic activity referred to in Section 4.31 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
 Bayer AG,2023,1,"Construction, extension and operation of waste water collection and treatment",CCM 5.3
 Bayer AG,2023,1,Renewal of waste water collection and treatment,CCM 5.4
 Bayer AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
@@ -231,12 +202,12 @@ Bayer AG,2023,1,"Installation, maintenance and repair of energy efficiency equip
 Bayer AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
 Bayer AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Bayer AG,2023,1,Manufacture of medicinal products,PPC 1.2
-Bechtle AG,2023,1,Automobiles and lorries,6.5
-Bechtle AG,2023,1,Renovation of existing buildings,7.2
-Bechtle AG,2023,1,Energy-efficient equipment,7.3
-Bechtle AG,2023,1,Charging stations,7.4
-Bechtle AG,2023,1,Renewable energies,7.6
-Bechtle AG,2023,1,Buildings,7.7
+Bechtle AG,2023,1,6.5 Automobiles and lorries,6.5
+Bechtle AG,2023,1,7.2 Renovation of existing buildings,7.2
+Bechtle AG,2023,1,7.3 Energy-efficient equipment,7.3
+Bechtle AG,2023,1,7.4 Charging stations,7.4
+Bechtle AG,2023,1,7.6 Renewable energies,7.6
+Bechtle AG,2023,1,7.7 Buildings,7.7
 Beiersdorf AG,2023,1,Manufacture of batteries,CCM 3.4
 Beiersdorf AG,2023,1,Production of heat/cool using waste heat,CCM 4.25
 Beiersdorf AG,2023,1,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
@@ -248,11 +219,10 @@ Beiersdorf AG,2023,1,"Installation, maintenance and repair of renewable energy t
 Beiersdorf AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Beiersdorf AG,2023,1,"Data processing, hosting and related activities",CCM 8.1
 Beiersdorf AG,2023,1,Data-driven solutions for GHG emissions reductions,CCM 8.2
-Bike24 Holding AG,2023,1,"Operation of personal mobility devices, cycle logistics",6.4
-Bike24 Holding AG,2023,1,Acquisition and ownership of buildings,7.7
+Bike24 Holding AG,2023,1,Acquisition and ownership of buildings,
+Bike24 Holding AG,2023,1,"Operation of personal mobility devices, cycle logistics",
 Bilfinger SE,2023,2,Manufacture of renewable energy technologies,CCM 3.1
 Bilfinger SE,2023,2,Manufacture of equipment for the production and use of hydrogen,CCM 3.2
-Bilfinger SE,2023,2,Manufacture of low-carbon transport technologies,CCM 3.3
 Bilfinger SE,2023,2,Manufacture of other low-carbon technologies,CCM 3.6
 Bilfinger SE,2023,2,Storage of electricity,CCM 4.10
 Bilfinger SE,2023,2,Storage of hydrogen,CCM 4.12
@@ -271,15 +241,14 @@ Bilfinger SE,2023,2,Transport of CO2,CCM 5.11
 Bilfinger SE,2023,2,"Construction, extension and operation of waste water collection and treatment systems","CCM 5.3, WTR 2.2"
 Bilfinger SE,2023,2,"Infrastructure for personal mobility, cycle logistics",CCM 6.13
 Bilfinger SE,2023,2,Infrastructure for rail transport,CCM 6.14
-Bilfinger SE,2023,2,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
 Bilfinger SE,2023,2,Construction of new buildings,"CCM 7.1, CE 3.1"
 Bilfinger SE,2023,2,Renovation of existing buildings,"CCM 7.2, CE 3.2"
 Bilfinger SE,2023,2,"Installation, maintenance and repair of energy-efficiency equipment",CCM 7.3
 Bilfinger SE,2023,2,Professional services related to energy performance of buildings,CCM 9.3
 Bilfinger SE,2023,2,Maintenance of roads and motorways,CE 3.4
 Bilfinger SE,2023,2,Use of concrete in civil engineering,CE 3.5
-Brenntag SE,2023,1,Recycling of hazardous waste,2.4.
-Brenntag SE,2023,1,Manufacture of other low-carbon technologies,CCM 3.6.
+Brenntag SE,2023,1,Recycling of hazardous waste,2.4. TREATMENT OF HAZARDOUS WASTE
+Brenntag SE,2023,1,Manufacture of other low carbon technologies,CCM 3.6.
 Brenntag SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
 Brenntag SE,2023,1,Freight transport services by road,CCM 6.6.
 Brenntag SE,2023,1,Construction of new buildings,CCM 7.1.
@@ -291,25 +260,39 @@ Brenntag SE,2023,1,Treatment of hazardous waste,CE 2.4./PPC 2.2.
 Brenntag SE,2023,1,Construction of new buildings,CE 3.1.
 Brenntag SE,2023,1,Environmental remediation,PPC 2.4.
 Brenntag SE,2023,1,Installation and maintenance of water treatment facilities,WTR 2.2.
-CA Immobilien Anlagen AG,2023,2,7.1 Construction of new buildings,F.41.2
-CA Immobilien Anlagen AG,2023,2,6.5 Transport by passenger car,H.49.39
-CA Immobilien Anlagen AG,2023,2,7.7 Acquisition and ownership of buildings,L.68
-CARREFOUR,2024,8,Collection and transport of non‑hazardous waste in source segregated fractions,CCM 5.5
-CARREFOUR,2024,8,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-CARREFOUR,2024,8,Construction of new buildings,CCM 7.1
-CARREFOUR,2024,8,Renovation of existing buildings,CCM 7.2
-CARREFOUR,2024,8,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-CARREFOUR,2024,8,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
-CARREFOUR,2024,8,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4 AND CCA 7.4
-CARREFOUR,2024,8,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling the energy performance of buildings",CCM 7.5
-CARREFOUR,2024,8,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-CARREFOUR,2024,8,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6 AND CCA 7.6
-CARREFOUR,2024,8,Acquisition and ownership of buildings,CCM 7.7
-CARREFOUR,2024,8,"Manufacturing of electrical and electronic equipment for industrial, professional and consumer use",CE 1.2
-CARREFOUR,2024,8,Sorting and material recovery of non‑hazardous waste,CE 2.7
-CARREFOUR,2024,8,Provision of IT/OT data‑driven solutions,CE 4.1
-CARREFOUR,2024,8,Sale of second‑hand goods,CE 5.4
-CARREFOUR,2024,8,"Manufacture, installation and associated services for leakage control technologies enabling leakage reduction and prevention in water supply systems",WTR 1.1
+CA Immobilien Anlagen AG,2023,2,Transport by passenger car,6.5
+CA Immobilien Anlagen AG,2023,2,Construction of new buildings,7.1
+CA Immobilien Anlagen AG,2023,2,Acquisition and ownership of buildings,7.7
+CARREFOUR,2024,7,Capital expenditure on IT hardware.,1.2
+CARREFOUR,2024,7,Sorting and material recovery of non-hazardous waste,2.7
+CARREFOUR,2024,7,Providing IT/operational solutions based on data.,4.1
+CARREFOUR,2024,7,Sale of used goods.,5.4
+CARREFOUR,2024,7,Recycling and reusing plastic and cardboard.,5.5
+CARREFOUR,2024,7,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
+CARREFOUR,2024,7,Construction of new buildings,7.1
+CARREFOUR,2024,7,Renovation of existing buildings,7.2
+CARREFOUR,2024,7,"LED, lighting installations, reﬂective paint for roofs.",7.3
+CARREFOUR,2024,7,"Installation, maintenance and repair of charging stations for electric vehicules in buildings (and parking spaces attached to buildings)",7.4
+CARREFOUR,2024,7,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling energy performance of buildings",7.5
+CARREFOUR,2024,7,"Installation, maintenance and repair of renewable energy technologies",7.6
+CARREFOUR,2024,7,Acquisition and ownership of buildings,7.7
+CARREFOUR,2024,7,Collection and transport of non‑hazardous waste in source segregated fractions,CCM 5.5
+CARREFOUR,2024,7,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+CARREFOUR,2024,7,Construction of new buildings,CCM 7.1
+CARREFOUR,2024,7,Renovation of existing buildings,CCM 7.2
+CARREFOUR,2024,7,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+CARREFOUR,2024,7,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3 AND CCA 7.3
+CARREFOUR,2024,7,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
+CARREFOUR,2024,7,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4 AND CCA 7.4
+CARREFOUR,2024,7,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling the energy performance of buildings",CCM 7.5
+CARREFOUR,2024,7,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+CARREFOUR,2024,7,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6 AND CCA 7.6
+CARREFOUR,2024,7,Acquisition and ownership of buildings,CCM 7.7
+CARREFOUR,2024,7,"Manufacturing of electrical and electronic equipment for industrial, professional and consumer use",CE 1.2
+CARREFOUR,2024,7,Sorting and material recovery of non‑hazardous waste,CE 2.7
+CARREFOUR,2024,7,Provision of IT/OT data‑driven solutions,CE 4.1
+CARREFOUR,2024,7,Sale of second‑hand goods,CE 5.4
+CARREFOUR,2024,7,"Manufacture, installation and associated services for leakage control technologies enabling leakage reduction and prevention in water supply systems",WTR 1.1
 CEWE Stiftung & Co. KGaA,2023,1,"Operation of personal mobility devices, cycle logistics",CCM 6.4
 CEWE Stiftung & Co. KGaA,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 CEWE Stiftung & Co. KGaA,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.4
@@ -317,30 +300,16 @@ CEWE Stiftung & Co. KGaA,2023,1,"Installation, maintenance and repair of instrum
 CEWE Stiftung & Co. KGaA,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 CEWE Stiftung & Co. KGaA,2023,1,"Data processing, hosting and related activities",CCM 8.1
 CEWE Stiftung & Co. KGaA,2023,1,Professional services related to energy performance of buildings,CCM 9.31
-CHRISTIAN DIOR,2024,1,Renovation of existing buildings,CCA 7.2
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of energy efficiency equipment",CCA 7.3
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles",CCA 7.4
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCA 7.5
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCA 7.6
-CHRISTIAN DIOR,2024,1,Acquisition and ownership of buildings,CCA 7.7
-CHRISTIAN DIOR,2024,1,Renovation of existing buildings,CCM 7.2
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles",CCM 7.4
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+CHRISTIAN DIOR,2024,1,Renovation of existing buildings,CCM 7.2; CCA 7.2; CE 3.2
+CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3; CCA 7.3
+CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles",CCM 7.4; CCA 7.4
+CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5; CCA 7.5
+CHRISTIAN DIOR,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6; CCA 7.6
 CHRISTIAN DIOR,2024,1,Acquisition and ownership of buildings,CCM 7.7
-CHRISTIAN DIOR,2024,1,Renovation of existing buildings,CE 3.2
+CHRISTIAN DIOR,2024,1,Acquisition and ownership of buildings,CCM 7.7; CCA 7.7
 "CIE Automotive, S.A.",2023,1,Manufacturing of automotive and mobility components,CCM 3.18
 "CIE Automotive, S.A.",2023,1,"Installation, maintenance and repair of energy efficient equipment",CCM 7.3
 "CIE Automotive, S.A.",2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-Commerzbank AG,2023,3,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy non-eligible in accordance with Section 4.26 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,SECTION 4.26
-Commerzbank AG,2023,3,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy non-eligible in accordance with Section 4.27 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,SECTION 4.27
-Commerzbank AG,2023,3,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy non-eligible in accordance with Section 4.28 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,SECTION 4.28
-Commerzbank AG,2023,3,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy non-eligible in accordance with Section 4.29 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,SECTION 4.29
-Commerzbank AG,2023,3,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy non-eligible in accordance with Section 4.30 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,SECTION 4.30
-Commerzbank AG,2023,3,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy non-eligible in accordance with Section 4.31 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,SECTION 4.31
-Commerzbank AG,2023,3,Amount and proportion of other taxonomy-eligible but not taxonomy-aligned economic activities not referred to in rows 1 to 6 above in the denominator of the applicable KPI,
-Commerzbank AG,2023,3,Amount and proportion of other taxonomy-non-eligible economic activities not referred to in rows 1 to 6 above in the denominator of the applicable KPI,
 Compagnie de l'Odet SE,2023,1,Manufacture of plastic packaging,1.1
 Compagnie de l'Odet SE,2023,1,"Creative, artistic and live entertainment activities",13.1
 Compagnie de l'Odet SE,2023,1,"Production of cinematographic films, videos and television programs; sound recording and music publishing",13.3
@@ -350,9 +319,9 @@ Compagnie de l'Odet SE,2023,1,Provision of data-based IT/operational solutions,4
 Compagnie de l'Odet SE,2023,1,Electricity storage,4.10
 Compagnie de l'Odet SE,2023,1,Products as services and other circular service models focused on use and results,5.5
 Compagnie de l'Odet SE,2023,1,Road freight transport,6.6
+Compagnie de l'Odet SE,2023,1,Renovation of existing buildings,7.2
 Compagnie de l'Odet SE,2023,1,Acquisition and ownership of buildings,7.7
 Compagnie de l'Odet SE,2023,1,Programming and broadcasting activity,8.3
-Compagnie de l'Odet SE,2023,1,Renovation of existing buildings,CCM – 7.2/CCA – 7.2/CE – 3.2
 Continental AG,2023,2,Manufacture of automotive and mobility components,CCM 3.18
 Continental AG,2023,2,Manufacture of rail rolling stock constituents,CCM 3.19
 Continental AG,2023,2,Manufacture of low-carbon technologies for transport,CCM 3.3
@@ -361,7 +330,7 @@ Continental AG,2023,2,"Installation, maintenance and repair of energy efficiency
 Continental AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
 Continental AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
 Continental AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-"Corporacion Financiera Alba, S.A.",2023,2,Acquisition and ownership of buildings,CCM 7.7.
+"Corporacion Financiera Alba, S.A.",2023,1,Acquisition and ownership of buildings,CCM 7.7.
 Covestro AG,2023,1,Construction of new buildings,3.1
 Covestro AG,2023,1,Manufacture of hydrogen,3.10
 Covestro AG,2023,1,Manufacture of chlorine,3.13
@@ -378,38 +347,25 @@ Covestro AG,2023,1,"Transport by motorbikes, passenger cars and light commercial
 Covestro AG,2023,1,Inland freight water transport,6.8
 Covestro AG,2023,1,Construction of new buildings,7.1
 Covestro AG,2023,1,Acquisition and ownership of buildings,7.7
-Covestro AG,2023,2,Manufacture of hydrogen,CCM 3.10
-Covestro AG,2023,2,Manufacture of chlorine,CCM 3.13
-Covestro AG,2023,2,Manufacture of organic basic chemicals,CCM 3.14
-Covestro AG,2023,2,Manufacture of nitric acid,CCM 3.16
-Covestro AG,2023,2,Manufacture of plastics in primary form,CCM 3.17
-Covestro AG,2023,2,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
-Covestro AG,2023,2,"Sea and coastal freight water transport, vessels for port operations and auxiliary activities",CCM 6.10
-Covestro AG,2023,2,Freight rail transport,CCM 6.2
-Covestro AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-Covestro AG,2023,2,Inland freight water transport,CCM 6.8
-Covestro AG,2023,2,Construction of new buildings,CCM 7.1
-Covestro AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
-Covestro AG,2023,2,Demolition and wrecking of buildings and other structures,CE 3.3
-Covestro AG,2023,2,Maintenance of roads and motorways,CE 3.4
-Covestro AG,2023,2,Provision of IT/OT data-driven solutions and software,CE 4.1
-DO & CO AG,2023,1,"Activity 2.1 Hotels, holiday, camping grounds and similar accommodation",2.1
-DO & CO AG,2023,1,"Activity 6.5: Transport by motorbikes, passenger cars and light commercial vehicles",6.5
-DO & CO AG,2023,1,Activity 6.6 Freight transport services by road,6.6
-DO & CO AG,2023,1,"Activity 7.3: Installation, maintenance and repair of energy efficiency equipment",7.3
-DO & CO AG,2023,1,"Activity 7.4. Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4
-DO & CO AG,2023,1,"Activity 7.5. Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",7.5
-DO & CO AG,2023,1,"Activity 7.6: Installation, maintenance and repair of renewable energy technologies",7.6
-DO & CO AG,2023,1,Activity 7.7: Acquisition and ownership of buildings,7.7
-DO & CO AG,2023,1,Installation of solar panels for generation of renewable energy on-site,
-DO & CO AG,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings",
-DO & CO AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",
-DO & CO AG,2023,1,Short-term leases and maintenance of buildings for our production units,
-DS SMITH LIMITED,2024,4,Cogeneration of heat/cool and power from bioenergy,
-DS SMITH LIMITED,2024,4,Collection and transport of non-hazardous waste in source segregated fractions,
-DS SMITH LIMITED,2024,4,"Construction, extension and operation of waste water collection and treatment",
-DS SMITH LIMITED,2024,4,Forest management,
-DS SMITH LIMITED,2024,4,"Installation, maintenance and repair of energy efficiency equipment",
+Covestro AG,2023,2,"The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies.",
+Covestro AG,2023,2,"The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.",
+Covestro AG,2023,2,"The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat generation facilities that produce heat/cool using fossil gaseous fuels.",
+Covestro AG,2023,2,"The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels.",
+Covestro AG,2023,2,"The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.",
+Covestro AG,2023,2,"The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades.",
+DO & CO AG,2023,1,"Hotels, holiday, camping grounds and similar accommodation",BIO 2.1
+DO & CO AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+DO & CO AG,2023,1,Freight Transport Services by Road,CCM 6.6
+DO & CO AG,2023,1,"Installation, Maintenance and Repair of Energy Efficiency Equipment",CCM 7.3
+DO & CO AG,2023,1,"Installation, Maintenance and Repair of Charging Stations for Electric Vehicles in Buildings (and parking spaces attached to buildings)",CCM 7.4
+DO & CO AG,2023,1,"Installation, Maintenance and Repair of Instruments and Devices for Measuring, Regulation and Controlling Energy Performance of Buildings",CCM 7.5
+DO & CO AG,2023,1,"Installation, Maintenance and Repair of Renewable Energy Technologies",CCM 7.6
+DO & CO AG,2023,1,Acquisition and Ownership of Buildings,CCM 7.7
+DS SMITH LIMITED,2024,3,Forest management,A2
+DS SMITH LIMITED,2024,3,"Installation, maintenance and repair of energy efficiency equipment","C16, C17"
+DS SMITH LIMITED,2024,3,Cogeneration of heat/cool and power from bioenergy,"D35.11, D35.30"
+DS SMITH LIMITED,2024,3,"Construction, extension and operation of waste water collection and treatment",E37.00
+DS SMITH LIMITED,2024,3,Collection and transport of non-hazardous waste in source segregated fractions,E38.11
 Daimler AG,2023,1,Manufacture of low-carbon technologies for transport,CCM 3.3
 Daimler AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
 Daimler AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
@@ -419,41 +375,27 @@ Daimler Truck Holding AG,2023,1,Manufacture of low carbon technologies for trans
 Daimler Truck Holding AG,2023,1,"Urban and suburban transport, road passenger transport",CCM 6.3
 Daimler Truck Holding AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 Daimler Truck Holding AG,2023,1,Freight transport services by road,CCM 6.6
-Dassault Aviation,2022023,1,Manufacturing of aircraft,CCM 3.21
+Dassault Aviation,2023,1,Manufacturing of aircraft,CCM 3.21
 Delivery Hero SE,2023,1,"Operation of personal mobility devices, cycle logistics",CCM 6.4
 Delivery Hero SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 Delivery Hero SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Delivery Hero SE,2023,1,"Data processing, hosting and related activities",CCM 8.1
-Deutsche Lufthansa AG,2023,1,Manufacturing of aircraft,3.21
-Deutsche Lufthansa AG,2023,1,Passenger and freight air transport,6.19
-Deutsche Lufthansa AG,2023,1,Acquisition and ownership of buildings,7.7
-Deutsche Post AG,2023,1,"Sea and coastal freight water transport, vessels for port operations and auxiliary activities",6.10
-Deutsche Post AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,6.15
-Deutsche Post AG,2023,1,Passenger and freight air transport,6.19
-Deutsche Post AG,2023,1,Freight rail transport,6.2
-Deutsche Post AG,2023,1,Air transport ground handling operations,6.20
-Deutsche Post AG,2023,1,"Operation of personal mobility devices, cycle logistics: devices not subject to permits",6.4
-Deutsche Post AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles: Light commercial vehicles1",6.5
-Deutsche Post AG,2023,1,Freight transport services by road3: Heavy-duty vehicles4,6.6
-Deutsche Post AG,2023,1,Construction of new buildings: Office and administration buildings as well as warehouses,7.1
-Deutsche Post AG,2023,1,Renovation of existing buildings: Office and administration buildings as well as warehouses,7.2
-Deutsche Post AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",7.3
-Deutsche Post AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",7.6
-Deutsche Post AG,2023,1,Acquisition and ownership of buildings: Office and administration buildings as well as warehouses,7.7
-Deutsche Post AG,2023,1,"Data processing, hosting and related activities",8.1
-Deutsche Post AG,2023,2,"Sea and coastal freight water transport, vessels for port operations and auxiliary activities",CCM 6.10
-Deutsche Post AG,2023,2,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
-Deutsche Post AG,2023,2,Passenger and freight air transport,CCM 6.19
-Deutsche Post AG,2023,2,Freight rail transport,CCM 6.2
-Deutsche Post AG,2023,2,Air transport ground handling operations,CCM 6.20
-Deutsche Post AG,2023,2,"Operation of personal mobility devices, cycle logistics",CCM 6.4
-Deutsche Post AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-Deutsche Post AG,2023,2,Freight transport services by road,CCM 6.6
-Deutsche Post AG,2023,2,Construction of new buildings,CCM 7.1
+Deutsche Lufthansa AG,2023,1,3.21 Manufacturing of aircraft,3.21
+Deutsche Lufthansa AG,2023,1,6.19 Passenger and freight air transport,6.19
+Deutsche Lufthansa AG,2023,1,7.7 Acquisition and ownership of buildings,7.7
+Deutsche Post AG,2023,1,"Sea and coastal freight water transport, vessels for port operations and auxiliary activities",CCM 6.10
+Deutsche Post AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
+Deutsche Post AG,2023,1,Passenger and freight air transport,CCM 6.19
+Deutsche Post AG,2023,1,Freight rail transport,CCM 6.2
+Deutsche Post AG,2023,1,Air transport ground handling operations,CCM 6.20
+Deutsche Post AG,2023,1,"Operation of personal mobility devices, cycle logistics",CCM 6.4
+Deutsche Post AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+Deutsche Post AG,2023,1,Freight transport services by road,CCM 6.6
+Deutsche Post AG,2023,1,Construction of new buildings,CCM 7.1
 Deutsche Post AG,2023,2,Renovation of existing buildings,CCM 7.2
 Deutsche Post AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-Deutsche Post AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-Deutsche Post AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
+Deutsche Post AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+Deutsche Post AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Deutsche Post AG,2023,2,"Data processing, hosting and related activities",CCM 8.1
 Deutsche Telekom AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
 Deutsche Telekom AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
@@ -471,16 +413,11 @@ Deutz AG,2023,2,"Installation, maintenance and repair of instruments and devices
 Deutz AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 Deutz AG,2023,2,"Close to market research, development and innovation",CCM 9.1
 Deutz AG,2023,2,Renovation of existing buildings,CE 3.2
-Dürr AG,2023,2,"Transport by motorbikes, passenger cars, and light commercial vehicles",6.5
-Dürr AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",7.3
-Dürr AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4
-Dürr AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",7.6
-Dürr AG,2023,2,Acquisition and ownership of buildings,7.7
-Dürr AG,2023,2,Manufacture of renewable energy technologies,CCM 5 3.1; CCA6 3.1
-Dürr AG,2023,2,Manufacture of aircraft,CCM 5 3.21; CCA6 3.21
-Dürr AG,2023,2,Manufacture of other low carbon technologies,CCM 5 3.6
-Dürr AG,2023,2,Manufacture of other low carbon technologies,CCM 5 3.6; CCA6 3.6
-Dürr AG,2023,2,Storage of thermal energy,CCM 5 4.11; CCA6 4.11
+Dürr AG,2023,1,Manufacture of renewable energy technologies,CCM 5 3.1; CCA6 3.1
+Dürr AG,2023,1,Manufacture of aircraft,CCM 5 3.21; CCA6 3.21
+Dürr AG,2023,1,Manufacture of other low carbon technologies,CCM 5 3.6
+Dürr AG,2023,1,Manufacture of other low carbon technologies,CCM 5 3.6; CCA6 3.6
+Dürr AG,2023,1,Storage of thermal energy,CCM 5 4.11; CCA6 4.11
 Dürr AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 5 6.5
 Dürr AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 5 6.5; CCA6 6.5
 Dürr AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 5 7.3; CCA6 7.3
@@ -501,62 +438,53 @@ E.ON SE,2023,2,Production of heating/cooling from bioenergy,4.24
 E.ON SE,2023,2,Electricity generation from wind power,4.3
 E.ON SE,2023,2,Electricity generation from hydropower,4.5
 E.ON SE,2023,2,Transmission and distribution of electricity,4.9
-E.ON SE,2023,3,"Construction, extension, and operation of water collection, treatment, and supply systems (and/or 2.1 water supply)",5.1
-E.ON SE,2023,3,"Infrastructure for personal mobility, cycle logistics",6.13
-E.ON SE,2023,3,Infrastructure enabling low-carbon road transport and public transport,6.15
-E.ON SE,2023,3,"Installation, maintenance, and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4
-E.ON SE,2023,3,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",7.5
-E.ON SE,2023,3,Data-driven solutions for GHG emissions reductions,8.2
-E.ON SE,2023,5,Electricity generation using solar photovoltaic technology,CCM 4.1
-E.ON SE,2023,5,Storage of electricity,CCM 4.10
-E.ON SE,2023,5,Transmission and distribution networks for renewable and low-carbon gases,CCM 4.14
-E.ON SE,2023,5,District heating/cooling distribution,CCM 4.15
-E.ON SE,2023,5,Installation and operation of electric heat pumps,CCM 4.16
-E.ON SE,2023,5,Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels,CCM 4.19
-E.ON SE,2023,5,Cogeneration of heat/cool and power from bioenergy,CCM 4.20
-E.ON SE,2023,5,Production of heat/cool from solar thermal heating,CCM 4.21
-E.ON SE,2023,5,Production of heat/cool from geothermal energy,CCM 4.22
-E.ON SE,2023,5,Production of heat/cool from renewable non-fossil gaseous and liquid fuels,CCM 4.23
-E.ON SE,2023,5,Production of heat/cool from bioenergy,CCM 4.24
-E.ON SE,2023,5,Electricity generation from wind power,CCM 4.3
-E.ON SE,2023,5,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
-E.ON SE,2023,5,Production of heat/cool from fossil gaseous fuels in an efficient district heating and cooling system,CCM 4.31
-E.ON SE,2023,5,Electricity generation from hydropower,CCM 4.5
-E.ON SE,2023,5,Electricity generation from geothermal energy,CCM 4.6
-E.ON SE,2023,5,Electricity generation from renewable non-fossil gaseous and liquid fuels,CCM 4.7
-E.ON SE,2023,5,Electricity generation from bioenergy,CCM 4.8
-E.ON SE,2023,5,Transmission and distribution of electricity,CCM 4.9
-E.ON SE,2023,5,"Construction, extension and operation of water collection, treatment and supply systems / Water supply",CCM 5.1 / WTR 2.1
-E.ON SE,2023,5,"Renewal of water collection, treatment and supply systems / Water supply",CCM 5.2 / WTR 2.1
-E.ON SE,2023,5,"Construction, extension and operation of waste water collection and treatment / Urban waste water treatment",CCM 5.3 / WTR 2.2
-E.ON SE,2023,5,"Infrastructure for personal mobility, cycle logistics",CCM 6.13
-E.ON SE,2023,5,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
-E.ON SE,2023,5,"Installation, maintenance and repair of charging stations for electric vehicles in buildings",CCM 7.4
-E.ON SE,2023,5,"Installation, maintenance and repair of instruments and devices for measuring, regulation and contr. energy performance of buildings",CCM 7.5
-E.ON SE,2023,5,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-E.ON SE,2023,5,"Data processing, hosting and related activities",CCM 8.1
-E.ON SE,2023,5,Data-driven solutions for GHG emissions reductions,CCM 8.2
-E.ON SE,2023,5,Professional services related to energy performance of buildings,CCM 9.3
-E.ON SE,2023,6,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy-non-eligible in accordance with Section 4.26 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy-non-eligible in accordance with Section 4.27 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy-non-eligible in accordance with Section 4.28 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy-non-eligible in accordance with Section 4.29 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy-non-eligible in accordance with Section 4.30 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of economic activity referred to in row 1 of Template 1 that is taxonomy-non-eligible in accordance with Section 4.31 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of other taxonomy-eligible but not taxonomy-aligned economic activities not referred to in rows 1 to 6 above in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of other taxonomy-non-eligible economic activities not referred to in rows 1 to 6 above in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.26 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.27 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.28 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.29 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.30 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.31 of Annexes I and II to Delegated Regulation 2021/2139 in the denominator of the applicable KPI,
-E.ON SE,2023,6,"The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies.",
-E.ON SE,2023,6,"The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.",
-E.ON SE,2023,6,"The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat generation facilities that produce heat/cool using fossil gaseous fuels.",
-E.ON SE,2023,6,"The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels.",
-E.ON SE,2023,6,"The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.",
-E.ON SE,2023,6,"The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades.",
+E.ON SE,2023,2,"Construction, extension, and operation of water collection, treatment, and supply systems",5.1
+E.ON SE,2023,2,"Infrastructure for personal mobility, cycle logistics",6.13
+E.ON SE,2023,2,Infrastructure enabling low-carbon road transport and public transport,6.15
+E.ON SE,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4
+E.ON SE,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",7.5
+E.ON SE,2023,2,Data-driven solutions for GHG emissions reductions,8.2
+E.ON SE,2023,4,Electricity generation using solar photovoltaic technology,CCM 4.1
+E.ON SE,2023,4,Storage of electricity,CCM 4.10
+E.ON SE,2023,4,Transmission and distribution networks for renewable and low-carbon gases,CCM 4.14
+E.ON SE,2023,4,District heating/cooling distribution,CCM 4.15
+E.ON SE,2023,4,Installation and operation of electric heat pumps,CCM 4.16
+E.ON SE,2023,4,Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels,CCM 4.19
+E.ON SE,2023,4,Cogeneration of heat/cool and power from bioenergy,CCM 4.20
+E.ON SE,2023,4,Production of heat/cool from solar thermal heating,CCM 4.21
+E.ON SE,2023,4,Production of heat/cool from geothermal energy,CCM 4.22
+E.ON SE,2023,4,Production of heat/cool from renewable non-fossil gaseous and liquid fuels,CCM 4.23
+E.ON SE,2023,4,Production of heat/cool from bioenergy,CCM 4.24
+E.ON SE,2023,4,Electricity generation from wind power,CCM 4.3
+E.ON SE,2023,4,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
+E.ON SE,2023,4,Production of heat/cool from fossil gaseous fuels in an efficient district heating and cooling system,CCM 4.31
+E.ON SE,2023,4,Electricity generation from hydropower,CCM 4.5
+E.ON SE,2023,4,Electricity generation from geothermal energy,CCM 4.6
+E.ON SE,2023,4,Electricity generation from renewable non-fossil gaseous and liquid fuels,CCM 4.7
+E.ON SE,2023,4,Electricity generation from bioenergy,CCM 4.8
+E.ON SE,2023,4,Transmission and distribution of electricity,CCM 4.9
+E.ON SE,2023,4,"Construction, extension and operation of water collection, treatment and supply systems / Water supply",CCM 5.1 / WTR 2.1
+E.ON SE,2023,4,"Renewal of water collection, treatment and supply systems / Water supply",CCM 5.2 / WTR 2.1
+E.ON SE,2023,4,"Construction, extension and operation of waste water collection and treatment / Urban waste water treatment",CCM 5.3 / WTR 2.2
+E.ON SE,2023,4,"Infrastructure for personal mobility, cycle logistics",CCM 6.13
+E.ON SE,2023,4,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
+E.ON SE,2023,4,"Installation, maintenance and repair of charging stations for electric vehicles in buildings",CCM 7.4
+E.ON SE,2023,4,"Installation, maintenance and repair of instruments and devices for measuring, regulation and contr. energy performance of buildings",CCM 7.5
+E.ON SE,2023,4,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+E.ON SE,2023,4,"Data processing, hosting and related activities",CCM 8.1
+E.ON SE,2023,4,Data-driven solutions for GHG emissions reductions,CCM 8.2
+E.ON SE,2023,4,Professional services related to energy performance of buildings,CCM 9.3
+E.ON SE,2023,4,"Construction, extension and operation of water collection, treatment and supply systems / Water supply",WTR 2.1
+E.ON SE,2023,2,Cogeneration of heat/cool and power from bioenergy,
+E.ON SE,2023,2,"Construction, extension and operation of water collection, treatment and supply systems",
+E.ON SE,2023,2,Data-driven solutions for GHG emissions reductions,
+E.ON SE,2023,2,Distribution networks for renewable and low-carbon gases,
+E.ON SE,2023,2,Distribution of electricity,
+E.ON SE,2023,2,District-heating distribution,
+E.ON SE,2023,2,Generation of heat/cooling from renewable non-fossil gaseous and liquid fuels,
+E.ON SE,2023,2,Infrastructure for personal mobility,
+E.ON SE,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",
+E.ON SE,2023,2,Power generation by means of photovoltaic technology,
 E.ON SE,2024,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 E.ON SE,2024,1,Storage of electricity,CCM 4.10
 E.ON SE,2024,1,Transmission and distribution networks for renewable and low-carbon gases,CCM 4.14
@@ -590,9 +518,9 @@ E.ON SE,2024,1,Professional services related to energy performance of buildings,
 "EDP Renováveis, S.A.",2023,1,Electricity generation using solar photovoltaic technology,4.1
 "EDP Renováveis, S.A.",2023,1,Electricity generation from wind power,4.3
 "EDP Renováveis, S.A.",2023,1,"Installation, maintenance and repair of renewable energy technologies",7.6
-"EDP Renováveis, S.A.",2023,3,Electricity generation using solar photovoltaic technology,CCM 4.1
-"EDP Renováveis, S.A.",2023,3,Electricity generation from wind power,CCM 4.3
-"EDP Renováveis, S.A.",2023,3,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+"EDP Renováveis, S.A.",2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
+"EDP Renováveis, S.A.",2023,2,Electricity generation from wind power,CCM 4.3
+"EDP Renováveis, S.A.",2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 ENI S.P.A.,2024,1,Manufacture of hydrogen,CCM 3.10
 ENI S.P.A.,2024,1,Manufacture of organic basic chemicals,CCM 3.14
 ENI S.P.A.,2024,1,Manufacture of plastics in primary form,CCM 3.17
@@ -629,29 +557,30 @@ ElringKlinger AG,2023,1,"Transport by motorbikes, passenger cars and light comme
 ElringKlinger AG,2023,1,Renovation of existing buildings,7.2
 ElringKlinger AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",7.6
 ElringKlinger AG,2023,1,Acquisition and ownership of buildings,7.7
-EnBW Energie Baden-Württemberg AG,2023,3,4.1 Electricity generation via photovoltaic technology → Construction and operation of solar parks to generate electricity 4.3 Electricity generation from wind power → Construction and operation of wind farms to generate electricity,4.1 / 4.3
-EnBW Energie Baden-Württemberg AG,2023,3,4.10 Storage of electricity → Construction and operation of pumped storage power plants for the storage of electricity,4.10
-EnBW Energie Baden-Württemberg AG,2023,3,4.13 Manufacture of biogas and biofuels for use in transport and of bioliquids → Manufacture of biogas for feeding into the gas grid and operation of CHP power plants with bioenergy,4.13
-EnBW Energie Baden-Württemberg AG,2023,3,4.14 Transmission and distribution networks for renewable and low-carbon gases → Construction and operation of gas grids,4.14
-EnBW Energie Baden-Württemberg AG,2023,3,4.15 District heating/cooling distribution → Construction and operation of district heating grids,4.15
-EnBW Energie Baden-Württemberg AG,2023,3,4.20 Cogeneration of heat/cool and power from bioenergy → Operation of biogas CHP power plants to generate electricity and heat,4.20
-EnBW Energie Baden-Württemberg AG,2023,3,4.29 Electricity generation from fossil gaseous fuels → Construction and operation of gas power plants to generate electricity,4.29
-EnBW Energie Baden-Württemberg AG,2023,3,4.30 High-efficiency co-generation of heat/cool and power from fossil gaseous fuels → Construction and operation of CHP power plants,4.30
-EnBW Energie Baden-Württemberg AG,2023,3,4.5 Electricity generation from hydropower → Construction and operation of run-of-river power plants to generate electricity,4.5
-EnBW Energie Baden-Württemberg AG,2023,3,4.9 Transmission and distribution of electricity → Construction and operation of transmission and distribution grids for electricity,4.9
-EnBW Energie Baden-Württemberg AG,2023,3,"5.1 Construction, extension and operation of water collection, treatment and supply systems → Construction and operation of water grids",5.1
-EnBW Energie Baden-Württemberg AG,2023,3,6.15 Infrastructure enabling low-carbon road transport and public transport → Construction and operation of charging infrastructure for e-vehicles,6.15
-EnBW Energie Baden-Württemberg AG,2023,4,Electricity generation via photovoltaic technology,CCM 4.1
-EnBW Energie Baden-Württemberg AG,2023,4,Storage of electricity,CCM 4.10
-EnBW Energie Baden-Württemberg AG,2023,4,Production of biogas and biofuels for the transport sector and liquid biofuels,CCM 4.13
-EnBW Energie Baden-Württemberg AG,2023,4,Transmission and distribution networks for renewable and low-carbon gases,CCM 4.14
-EnBW Energie Baden-Württemberg AG,2023,4,District heating/cooling distribution,CCM 4.15
-EnBW Energie Baden-Württemberg AG,2023,4,Electricity generation from fossil gaseous fuels,CCM 4.29
-EnBW Energie Baden-Württemberg AG,2023,4,Electricity generation via wind power,CCM 4.3
-EnBW Energie Baden-Württemberg AG,2023,4,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
-EnBW Energie Baden-Württemberg AG,2023,4,Transmission and distribution of electricity,CCM 4.9
-EnBW Energie Baden-Württemberg AG,2023,4,"Construction, expansion and operation of systems to extract, treat and supply water",CCM 5.1
-EnBW Energie Baden-Württemberg AG,2023,4,Infrastructure for low-carbon road traffic and public transport,CCM 6.15
+EnBW Energie Baden-Württemberg AG,2023,2,Electricity generation via photovoltaic technology,4.1
+EnBW Energie Baden-Württemberg AG,2023,2,Storage of electricity,4.10
+EnBW Energie Baden-Württemberg AG,2023,2,Manufacture of biogas and biofuels for use in transport and of bioliquids,4.13
+EnBW Energie Baden-Württemberg AG,2023,2,Transmission and distribution networks for renewable and low-carbon gases,4.14
+EnBW Energie Baden-Württemberg AG,2023,2,District heating/cooling distribution,4.15
+EnBW Energie Baden-Württemberg AG,2023,2,Cogeneration of heat/cool and power from bioenergy,4.20
+EnBW Energie Baden-Württemberg AG,2023,2,Electricity generation from fossil gaseous fuels,4.29
+EnBW Energie Baden-Württemberg AG,2023,2,Electricity generation from wind power,4.3
+EnBW Energie Baden-Württemberg AG,2023,2,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,4.30
+EnBW Energie Baden-Württemberg AG,2023,2,Electricity generation from hydropower,4.5
+EnBW Energie Baden-Württemberg AG,2023,2,Transmission and distribution of electricity,4.9
+EnBW Energie Baden-Württemberg AG,2023,2,"Construction, extension and operation of water collection, treatment and supply systems",5.1
+EnBW Energie Baden-Württemberg AG,2023,2,Infrastructure enabling low-carbon road transport and public transport,6.15
+EnBW Energie Baden-Württemberg AG,2023,3,Electricity generation via photovoltaic technology,CCM 4.1
+EnBW Energie Baden-Württemberg AG,2023,3,Storage of electricity,CCM 4.10
+EnBW Energie Baden-Württemberg AG,2023,3,Production of biogas and biofuels for the transport sector and liquid biofuels,CCM 4.13
+EnBW Energie Baden-Württemberg AG,2023,3,Transmission and distribution networks for renewable and low-carbon gases,CCM 4.14
+EnBW Energie Baden-Württemberg AG,2023,3,District heating/cooling distribution,CCM 4.15
+EnBW Energie Baden-Württemberg AG,2023,3,Electricity generation from fossil gaseous fuels,CCM 4.29
+EnBW Energie Baden-Württemberg AG,2023,3,Electricity generation via wind power,CCM 4.3
+EnBW Energie Baden-Württemberg AG,2023,3,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
+EnBW Energie Baden-Württemberg AG,2023,3,Transmission and distribution of electricity,CCM 4.9
+EnBW Energie Baden-Württemberg AG,2023,3,"Construction, expansion and operation of systems to extract, treat and supply water",CCM 5.1
+EnBW Energie Baden-Württemberg AG,2023,3,Infrastructure for low-carbon road traffic and public transport,CCM 6.15
 "Enagás, S.A.",2023,1,Manufacture of hydrogen,3.10 CCM
 "Enagás, S.A.",2023,1,Manufacture of hydrogen,3.10 CCM / 3.10 CCA
 "Enagás, S.A.",2023,1,Demolition and wrecking of buildings and other structures,3.3 CE
@@ -667,21 +596,15 @@ Evonik Industries AG,2023,2,Manufacture of plastics in primary form,CCM 3.17
 Evonik Industries AG,2023,2,Manufacture of energy efficiency equipment for buildings,CCM 3.5
 Evonik Industries AG,2023,2,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
 Evonik Industries AG,2023,2,Manufacture of active pharmaceutical ingredients,PPC 1.1
-Evonik Industries AG,2023,3,"The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies.",
-Evonik Industries AG,2023,3,"The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.",
-Evonik Industries AG,2023,3,"The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat generation facilities that produce heat/cool using fossil gaseous fuels.",
-Evonik Industries AG,2023,3,"The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels.",
-Evonik Industries AG,2023,3,"The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.",
-Evonik Industries AG,2023,3,"The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades.",
 FREQUENTIS AG,2023,1,"Data processing, hosting and related activities",CCM 8.1
-FUCHS SE,2023,1,Manufacture of other low carbon technologies,CCM 3.6
-FUCHS SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+FUCHS SE,2023,1,Manufacture of other low-carbon technologies,CCM 3.6
+FUCHS SE,2023,1,"Transport by motorcycles, passenger cars and light commercial vehicles",CCM 6.5
 FUCHS SE,2023,1,Freight transport services by road,CCM 6.6
 FUCHS SE,2023,1,Construction of new buildings,CCM 7.1/CE 3.1
 FUCHS SE,2023,1,Renovation of existing buildings,CCM 7.2/CE 3.2
-FUCHS SE,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-FUCHS SE,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
-FUCHS SE,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
+FUCHS SE,2023,1,"Installation, maintenance and repair of energy-efficient equipment",CCM 7.3
+FUCHS SE,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings and in parking lots attached to buildings",CCM 7.4
+FUCHS SE,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling energy performance of buildings",CCM 7.5
 FUCHS SE,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 FUCHS SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 FUCHS SE,2024,1,Manufacture of other low carbon technologies,CCM 3.6
@@ -696,12 +619,9 @@ FUCHS SE,2024,1,"Installation, maintenance and repair of instruments and devices
 FUCHS SE,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 FUCHS SE,2024,1,Acquisition and ownership of buildings,CCM 7.7
 FUCHS SE,2024,1,Production of alternative water resources for purposes other than human consumption,CE 2.2
-FamiCord AG,2023,1,"Transportation by motorcycles, passenger cars and light commercial vehicles (vehicle fleet)",6.5
-FamiCord AG,2023,1,Transportation of goods by road (courier transport of samples),6.6
-FamiCord AG,2023,1,Acquisition and ownership of buildings,7.7
-FamiCord AG,2023,2,"Transportation with motorcycles, passenger cars and light commercial vehicles",CCM 6.5
-FamiCord AG,2023,2,Transportation of goods by road,CCM 6.6
-FamiCord AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
+FamiCord AG,2023,1,"Transportation with motorcycles, passenger cars and light commercial vehicles",CCM 6.5
+FamiCord AG,2023,1,Transportation of goods by road,CCM 6.6
+FamiCord AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Flughafen Wien AG,2023,1,"Creative, arts and entertainment activities",CCA 13.1
 Flughafen Wien AG,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 Flughafen Wien AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
@@ -712,54 +632,50 @@ Flughafen Wien AG,2023,1,"Installation, maintenance and repair of energy efficie
 Flughafen Wien AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
 Flughafen Wien AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Flughafen Wien AG,2023,1,Maintenance of roads and motorways,CE 3.4
-Fraport AG,2023,1,Maintenance of roads and motorways,3.4
-Fraport AG,2023,1,Electricity generation using solar photovoltaic technology,4.1
-Fraport AG,2023,1,Low carbon airport infrastructure,6.17
-Fraport AG,2023,1,Air transport ground handling operations,6.20
-Fraport AG,2023,1,"Urban and suburban transport, road passenger transport",6.3
-Fraport AG,2023,1,Construction of new buildings,7.1
-Fraport AG,2023,1,Renovation of existing buildings,7.2
-Fraport AG,2023,1,"Installation, maintenance, and repair of energy efficiency equipment",7.3
-Fraport AG,2023,1,"Installation, maintenance, and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4
-Fraport AG,2023,1,"Installation, maintenance, and repair of instruments and devices for measuring, regulating, and controlling energy performance of buildings",7.5
-Fraport AG,2023,1,Acquisition and ownership of buildings,7.7
-Fraport AG,2023,2,Electricity generation using solar photovoltaic technology,CCA 4.1
-Fraport AG,2023,2,"Urban and suburban transport, road passenger transport",CCA 6.3
-Fraport AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCA 7.4
-Fraport AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCA 7.5
-Fraport AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
-Fraport AG,2023,2,Low carbon airport infrastructure,CCM 6.17
-Fraport AG,2023,2,Air transport ground handling operations,CCM 6.20
-Fraport AG,2023,2,"Urban and suburban transport, road passenger transport",CCM 6.3
-Fraport AG,2023,2,Construction of new buildings,CCM 7.1
-Fraport AG,2023,2,Renovation of existing buildings,CCM 7.2
-Fraport AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-Fraport AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
-Fraport AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-Fraport AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
-Fraport AG,2023,2,Maintenance of roads and motorways,CE 3.4
-Fresenius Medical Care AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+Fraport AG,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1 / CCA 4.1
+Fraport AG,2023,1,Low carbon airport infrastructure,CCM 6.17
+Fraport AG,2023,1,Air transport ground handling operations,CCM 6.20
+Fraport AG,2023,1,"Urban and suburban transport, road passenger transport",CCM 6.3
+Fraport AG,2023,1,"Urban and suburban transport, road passenger transport",CCM 6.3 / CCA 6.3
+Fraport AG,2023,1,Construction of new buildings,CCM 7.1
+Fraport AG,2023,1,Renovation of existing buildings,CCM 7.2
+Fraport AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+Fraport AG,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4 / CCA 7.4
+Fraport AG,2023,2,performance of buildings,CCM 7.5
+Fraport AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5 / CCA 7.5
+Fraport AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
+Fraport AG,2023,2,Acquisition and ownership of buildings,CCM 7.7 / CCA 7.7
+Fraport AG,2023,1,Maintenance of roads and motorways,CE 3.4
+Fraport AG,2023,2,Electricity generation using solar photovoltaic technology,
+Fraport AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",
+Fraport AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",
+Fraport AG,2023,2,"Urban and suburban transport, road passenger transport",
+Fresenius Medical Care AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 Fresenius Medical Care AG,2023,2,"Installation, maintenance & repair of charging stations for electric vehicles",CCM 7.4
-Fresenius Medical Care AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-Fresenius Medical Care AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-Fresenius Medical Care AG,2023,2,Manufacture of medicinal products,PPC 1.2
+Fresenius Medical Care AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
+Fresenius Medical Care AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+Fresenius Medical Care AG,2023,1,Manufacture of medicinal products,PPC 1.2
 Fresenius SE & Co. KGaA,2023,1,Construction of new buildings,CCM 7.1/CE 3.1
 Fresenius SE & Co. KGaA,2023,1,Renovation of existing buildings,CCM 7.2/CE 3.2
 Fresenius SE & Co. KGaA,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Fresenius SE & Co. KGaA,2023,1,Manufacture of electrical and electronic equipment,CE 1.2
-Fresenius SE & Co. KGaA,2023,1,Manufacture of active pharmaceutical ingredients (API) or active substances,PPC 1.1
+Fresenius SE & Co. KGaA,2023,2,Manufacture of active pharmaceutical ingredients (API) or active substances,PPC 1.1
 Fresenius SE & Co. KGaA,2023,1,Manufacture of medicinal products,PPC 1.2
-Fresenius SE & Co. KGaA,2023,1,Acquisition and ownership of buildings,
-Fresenius SE & Co. KGaA,2023,1,Construction of new buildings,
-Fresenius SE & Co. KGaA,2023,1,Manufacture of active pharmaceutical ingredients,
-Fresenius SE & Co. KGaA,2023,1,Manufacture of electrical and electronic equipment,
-Fresenius SE & Co. KGaA,2023,1,Manufacture of medicinal products,
-Fresenius SE & Co. KGaA,2023,1,Renovation of existing buildings,
 Friedrich Vorwerk Group SE,2023,1,Production of technologies for renewable energy,3.1
 Friedrich Vorwerk Group SE,2023,1,Transmission and distribution networks for renewable low-CO2 gases,4.14
 Friedrich Vorwerk Group SE,2023,1,District heating / cooling distribution,4.15
 Friedrich Vorwerk Group SE,2023,1,Transmission and distribution of electricity,4.9
 Friedrich Vorwerk Group SE,2023,1,"Construction, expansion and operation of water extraction, treatment and supply systems",5.1
+GALP ENERGIA SGPS S.A.,2024,1,Manufacture of hydrogen,3.10.
+GALP ENERGIA SGPS S.A.,2024,1,Electricity generation using solar photovoltaic technology,4.1.
+GALP ENERGIA SGPS S.A.,2024,1,Storage of electricity,4.10.
+GALP ENERGIA SGPS S.A.,2024,1,Manufacture of biogas and biofuels for use in transport of bio-liquids,4.13.
+GALP ENERGIA SGPS S.A.,2024,1,Electricity generation from wind power,4.3.
+GALP ENERGIA SGPS S.A.,2024,1,"Repair, refurbishment and remanufacturing",5.1.
+GALP ENERGIA SGPS S.A.,2024,1,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5.
+GALP ENERGIA SGPS S.A.,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",7.4.
+GALP ENERGIA SGPS S.A.,2024,1,"Installation, maintenance and repair of renewable energy technologies",7.6.
+GALP ENERGIA SGPS S.A.,2024,1,Professional services related to energy performance of buildings,9.3.
 GALP ENERGIA SGPS S.A.,2024,1,Manufacture of hydrogen,CCM 3.10.
 GALP ENERGIA SGPS S.A.,2024,1,Electricity generation using solar photovoltaic technology,CCM 4.1.
 GALP ENERGIA SGPS S.A.,2024,1,Storage of electricity,CCM 4.10
@@ -793,24 +709,31 @@ GEA Group Aktiengesellschaft,2023,1,"Repair, refurbishment and remanufacturing",
 GEA Group Aktiengesellschaft,2023,1,Sale of spare parts,CE_5.2
 GEA Group Aktiengesellschaft,2023,1,Product-as-a-service and other circular use- and result-oriented service models,CE_5.5
 GEA Group Aktiengesellschaft,2023,1,Urban waste water treatment,WTR_2.2
+GEA Group Aktiengesellschaft,2023,2,"The undertaking carries out, funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies",
+GEA Group Aktiengesellschaft,2023,2,"The undertaking carries out, funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels",
+GEA Group Aktiengesellschaft,2023,2,"The undertaking carries out, funds or has exposures to construction, refurbishment and operation of heat generation facilities that produce heat/cool using fossil gaseous fuels",
+GEA Group Aktiengesellschaft,2023,2,"The undertaking carries out, funds or has exposures to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels",
+GEA Group Aktiengesellschaft,2023,2,"The undertaking carries out, funds or has exposures to research, development, demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle",
+GEA Group Aktiengesellschaft,2023,2,"The undertaking carries out, funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades",
+"Gestamp Automoción, S.A.",2023,1,3.3. Manufacturing of low-carbon technologies for transport,3.3
+"Gestamp Automoción, S.A.",2023,1,3.6. Manufacturing of other low-carbon technologies,3.6
 "Gestamp Automoción, S.A.",2023,1,Manufacturing of automotive and mobility components,CCM 3.18
 "Gestamp Automoción, S.A.",2023,1,"Manufacture of batteries, cells and accumulators",CCM 3.4
-Grammer Aktiengesellschaft,2023,1,Manufacture of automotive and mobility components,CCM 3.18
-Grammer Aktiengesellschaft,2023,1,Manufacture of rail constituents,CCM 3.19
-Grammer Aktiengesellschaft,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-Grammer Aktiengesellschaft,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-Grammer Aktiengesellschaft,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings",CCM 7.4
-Grammer Aktiengesellschaft,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-Grammer Aktiengesellschaft,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-Grammer Aktiengesellschaft,2023,1,Acquisition and ownership of buildings,CCM 7.7
-Grammer Aktiengesellschaft,2023,1,"Close to market research, development and innovation",CCM 9.1
+Grammer Aktiengesellschaft,2023,1,3.18. Manufacture of automotive and mobility components,3.18
+Grammer Aktiengesellschaft,2023,1,3.19. Manufacture of rail rolling stock constituents,3.19
+Grammer Aktiengesellschaft,2023,1,"6.5. Transport by motorbikes, passenger cars and light commercial vehicles",6.5
+Grammer Aktiengesellschaft,2023,1,"7.3. Installation, maintenance and repair of energy efficiency equipment",7.3
+Grammer Aktiengesellschaft,2023,1,"7.4. Installation, maintenance and repair of charging stations for electric vehicles in buildings (and on parking spaces attached to buildings)",7.4
+Grammer Aktiengesellschaft,2023,1,"7.5 Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",7.5
+Grammer Aktiengesellschaft,2023,1,"7.6. Installation, maintenance and repair of renewable energy technologies",7.6
+Grammer Aktiengesellschaft,2023,1,7.7. Acquisition and ownership of buildings,7.7
+Grammer Aktiengesellschaft,2023,1,"9.1. Close to market research, development and innovation",9.1
 HEINEKEN HOLDING N.V.,2024,1,Production of heat/cool from bioenergy,4.24
 HEINEKEN HOLDING N.V.,2024,1,"Construction, extension and operation of water collection, treatment and supply systems",5.1
 HEINEKEN HOLDING N.V.,2024,1,"Construction, extension and operation of wastewater collection and treatment",5.3
 HEINEKEN HOLDING N.V.,2024,1,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
 HEINEKEN HOLDING N.V.,2024,1,Freight transport services by road,6.6
-HEINEKEN HOLDING N.V.,2024,1,Construction of new buildings,7.1
-HEINEKEN HOLDING N.V.,2024,1,Renovation of existing buildings,7.2
+HEINEKEN HOLDING N.V.,2024,1,Construction of new buildings Renovation of existing buildings,7.1 7.2
 HEINEKEN HOLDING N.V.,2024,1,"Installation, maintenance and repair of energy efficiency equipment",7.3
 HEINEKEN HOLDING N.V.,2024,1,"Installation, maintenance and repair of renewable energy technologies",7.6
 HEINEKEN HOLDING N.V.,2024,1,Acquisition and ownership of buildings,7.7
@@ -825,34 +748,38 @@ HENKEL AG & CO. KGAA,2024,1,"Installation, maintenance and repair of instruments
 HENKEL AG & CO. KGAA,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 HENKEL AG & CO. KGAA,2024,1,Acquisition and ownership of buildings,CCM 7.7
 HENKEL AG & CO. KGAA,2024,1,Manufacture of electrical and electronic equipment,CE 1.2
-HOCHTIEF AG,2023,2,Flood risk prevention and protection infrastructure,CCA 14.2
-HOCHTIEF AG,2023,2,"Construction, extension and operation of water collection, treatment and supply systems",CCA 5.1.
-HOCHTIEF AG,2023,2,"Renewal of water collection, treatment and supply systems",CCA 5.2.
-HOCHTIEF AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
-HOCHTIEF AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1./CCA 4.1.
-HOCHTIEF AG,2023,2,Storage of electricity,CCM 4.10./CCA 4.10.
-HOCHTIEF AG,2023,2,Electricity generation from fossil gaseous fuels,CCM 4.29./CCA 4.29.
-HOCHTIEF AG,2023,2,Electricity generation from wind power,CCM 4.3./CCA 4.3.
-HOCHTIEF AG,2023,2,Electricity generation from hydropower,CCM 4.5.
-HOCHTIEF AG,2023,2,Electricity generation from hydropower,CCM 4.5./CCA 4.5.
-HOCHTIEF AG,2023,2,Transmission and distribution of electricity,CCM 4.9
-HOCHTIEF AG,2023,2,Transmission and distribution of electricity,CCM 4.9./CCA 4.9.
-HOCHTIEF AG,2023,2,"Construction, extension and operation of water collection, treatment and supply systems",CCM 5.1./CCA 5.1.
-HOCHTIEF AG,2023,2,"Renewal of water collection, treatment and supply systems",CCM 5.2./CCA 5.2.
-HOCHTIEF AG,2023,2,"Construction, extension and operation of waste water collection and treatment",CCM 5.3./CCA 5.3.
-HOCHTIEF AG,2023,2,"Infrastructure for personal mobility, cycle logistics",CCM 6.13.
-HOCHTIEF AG,2023,2,"Infrastructure for personal mobility, cycle logistics",CCM 6.13./CCA 6.13.
-HOCHTIEF AG,2023,2,Infrastructure for rail transport,CCM 6.14.
-HOCHTIEF AG,2023,2,Infrastructure for rail transport,CCM 6.14./CCA 6.14.
-HOCHTIEF AG,2023,2,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15./CCA 6.15.
-HOCHTIEF AG,2023,2,Infrastructure enabling low carbon water transport,CCM 6.16./CCA 6.16.
-HOCHTIEF AG,2023,2,Low carbon airport infrastructure,CCM 6.17./CCA 6.17.
-HOCHTIEF AG,2023,2,Construction of new buildings,CCM 7.1./CCA 7.1.
-HOCHTIEF AG,2023,2,Construction of new buildings,CCM 7.1./CCA 7.1./CE 3.1.
-HOCHTIEF AG,2023,2,Renovation of existing buildings,CCM 7.2.
-HOCHTIEF AG,2023,2,Renovation of existing buildings,CCM 7.2./CCA 7.2./CE 3.2.
+HOCHTIEF AG,2023,1,Flood risk prevention and protection infrastructure,CCA 14.2
+HOCHTIEF AG,2023,1,"Construction, extension and operation of water collection, treatment and supply systems",CCA 5.1.
+HOCHTIEF AG,2023,1,"Renewal of water collection, treatment and supply systems",CCA 5.2.
+HOCHTIEF AG,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
+HOCHTIEF AG,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1./CCA 4.1.
+HOCHTIEF AG,2023,1,Storage of electricity,CCM 4.10./CCA 4.10.
+HOCHTIEF AG,2023,1,Electricity generation from fossil gaseous fuels,CCM 4.29./CCA 4.29.
+HOCHTIEF AG,2023,1,Electricity generation from wind power,CCM 4.3./CCA 4.3.
+HOCHTIEF AG,2023,1,Electricity generation from hydropower,CCM 4.5.
+HOCHTIEF AG,2023,1,Electricity generation from hydropower,CCM 4.5./CCA 4.5.
+HOCHTIEF AG,2023,1,Transmission and distribution of electricity,CCM 4.9
+HOCHTIEF AG,2023,1,Transmission and distribution of electricity,CCM 4.9./CCA 4.9.
+HOCHTIEF AG,2023,1,"Construction, extension and operation of water collection, treatment and supply systems",CCM 5.1./CCA 5.1.
+HOCHTIEF AG,2023,1,"Renewal of water collection, treatment and supply systems",CCM 5.2./CCA 5.2.
+HOCHTIEF AG,2023,1,"Construction, extension and operation of waste water collection and treatment",CCM 5.3./CCA 5.3.
+HOCHTIEF AG,2023,1,"Infrastructure for personal mobility, cycle logistics",CCM 6.13.
+HOCHTIEF AG,2023,1,"Infrastructure for personal mobility, cycle logistics",CCM 6.13./CCA 6.13.
+HOCHTIEF AG,2023,1,Infrastructure for rail transport,CCM 6.14.
+HOCHTIEF AG,2023,1,Infrastructure for rail transport,CCM 6.14./CCA 6.14.
+HOCHTIEF AG,2023,2,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15. / CCA 6.15.
+HOCHTIEF AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15./CCA 6.15.
+HOCHTIEF AG,2023,2,Infrastructure enabling low-carbon water transport,CCM 6.16. /CCA 6.16.
+HOCHTIEF AG,2023,1,Infrastructure enabling low carbon water transport,CCM 6.16./CCA 6.16.
+HOCHTIEF AG,2023,1,Low carbon airport infrastructure,CCM 6.17./CCA 6.17.
+HOCHTIEF AG,2023,2,Low-carbon airport infrastructure,CCM 6.17/ CCA 6.17.
+HOCHTIEF AG,2023,1,Construction of new buildings,CCM 7.1./CCA 7.1.
+HOCHTIEF AG,2023,1,Construction of new buildings,CCM 7.1./CCA 7.1./CE 3.1.
+HOCHTIEF AG,2023,1,Renovation of existing buildings,CCM 7.2.
+HOCHTIEF AG,2023,1,Renovation of existing buildings,CCM 7.2./CCA 7.2./CE 3.2.
 HOCHTIEF AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4/CCA 7.4
-HOCHTIEF AG,2023,2,Professional services related to energy performance of buildings,CCM 9.3.
+HOCHTIEF AG,2023,2,Professional services related to energy performance of buildings,CCM 9.3
+HOCHTIEF AG,2023,1,Professional services related to energy performance of buildings,CCM 9.3.
 Hamburger Hafen und Logistik AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
 Hamburger Hafen und Logistik AG,2023,2,Infrastructure for rail transport,CCM 6.14
 Hamburger Hafen und Logistik AG,2023,2,Infrastructure enabling low carbon water transport,CCM 6.16
@@ -862,7 +789,7 @@ Hamburger Hafen und Logistik AG,2023,2,Acquisition and ownership of buildings,CC
 Hawesko Holding SE,2023,1,7.7 Acquisition and ownership of buildings,L68
 Heidelberg Materials AG,2023,2,Manufacture of Cement,CCM 3.7
 Heidelberg Materials AG,2023,2,Material recovery from non-hazardous waste,CCM 5.9
-Heidelberg Materials AG,2023,2,Material recovery from non-hazardous waste / Sorting and material recovery of non-hazardous waste,CCM 5.9 / CE 2.7
+Heidelberg Materials AG,2023,2,Sorting and material recovery of non-hazardous waste,CE 2.7
 IBERDROLA SA,2024,1,Manufacture of hydrogen,CCM 3.10./CCA 3.10.
 IBERDROLA SA,2024,1,Electricity generation using solar photovoltaic technology,CCM 4.1./CCA 4.1.
 IBERDROLA SA,2024,1,Storage of electricity,CCM 4.10./CCA 4.10.
@@ -881,7 +808,12 @@ INDUSTRIA DE DISENO TEXTIL S.A.,2024,1,Acquisition and ownership of buildings,CC
 INTERNATIONAL CONSOLIDATED AIRLINES GROUP S.A,2024,1,Manufacturing of aircraft,CCM 3.21
 INTERNATIONAL CONSOLIDATED AIRLINES GROUP S.A,2024,1,Passenger and freight air transport,CCM 6.19
 INTERNATIONAL CONSOLIDATED AIRLINES GROUP S.A,2024,1,Air transport ground handling operations,CCM 6.20
-IVU Traffic Technologies AG,2023,1,A.1. Taxonomy-aligned revenue,8.2
+ISS A/S,2024,4,vehicles,6.5
+ISS A/S,2024,4,"installation, maintenance and repair of energy efficiency equipment",7.3
+ISS A/S,2024,4,"installation, maintenance and repair of instruments and devices for measuring, regulating and controlling energy performance of buildings",7.5
+ISS A/S,2024,4,real property,7.7
+ISS A/S,2024,4,energy management services,9.3
+IVU Traffic Technologies AG,2023,1,A.2. Taxonomy-eligible but not taxonomy aligned revenue,8.2
 Immofinanz AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 Immofinanz AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 Immofinanz AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
@@ -889,9 +821,7 @@ Immofinanz AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
 "Industria de Diseño Textil, S.A.",2023,3,Renovation of existing buildings,CCM 7.2.
 "Industria de Diseño Textil, S.A.",2023,3,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3.
 "Industria de Diseño Textil, S.A.",2023,3,Acquisition and ownership of buildings,CCM 7.7.
-Instone Real Estate Group,2023,2,Activity 1: 7.1. Construction of new buildings,CCA 7.1
-Instone Real Estate Group,2023,2,Activity 1: 7.1. Construction of new buildings,CCM 7.1
-Instone Real Estate Group,2023,2,Activity 1: 7.1. Construction of new buildings,CE 3.1
+Instone Real Estate Group,2023,2,Activity 1: 7.1. Construction of new buildings,"CCM 7.1, CCA 7.1, CE 3.1"
 JERONIMO MARTINS SGPS S.A.,2024,1,"Transport by motorbikes, passenger cars and light-duty vehicles",CCM 6.5 / CCA 6.5
 JERONIMO MARTINS SGPS S.A.,2024,1,Renovation of existing buildings,CCM 7.2 / CCA 7.2 / CE 3.2
 JERONIMO MARTINS SGPS S.A.,2024,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
@@ -909,8 +839,6 @@ Jenoptik AG,2023,1,"Repair, refurbishment and remanufacturing",CE 5.1
 Jenoptik AG,2023,1,Sale of spare parts,CE 5.2
 Jenoptik AG,2023,1,Sale of second-hand goods,CE 5.4
 Jenoptik AG,2023,1,Product-as-a-service and other circular use- and result-oriented service models,CE 5.5
-Jungheinrich AG,2023,2,Manufacture of batteries,3.4.
-Jungheinrich AG,2023,2,Manufacture of other low carbon technologies,3.6.
 Jungheinrich AG,2023,2,"Repair, refurbishment and remanufacturing",5.1.
 Jungheinrich AG,2023,2,Sale of second-hand goods,5.4.
 Jungheinrich AG,2023,2,Product-as-a-service and other circular use- and result-oriented service models,5.5.
@@ -923,38 +851,31 @@ Jungheinrich AG,2023,2,"Installation, maintenance and repair of instruments and 
 Jungheinrich AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",7.6.
 Jungheinrich AG,2023,2,Acquisition and ownership of buildings,7.7.
 Jungheinrich AG,2023,2,"Data processing, hosting and related activities",8.1.
-Jungheinrich AG,2023,3,3.4. Manufacture of batteries,CCA 3.4
-Jungheinrich AG,2023,3,3.6. Manufacture of other low carbon technologies,CCA 3.6
-Jungheinrich AG,2023,3,"6.5. Transport by motorbikes, passenger cars and light commercial vehicles",CCA 6.5
-Jungheinrich AG,2023,3,7.2. Renovation of existing buildings,CCA 7.2
-Jungheinrich AG,2023,3,"7.3. Installation, maintenance and repair of energy efficiency equipment",CCA 7.3
-Jungheinrich AG,2023,3,"7.4. Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCA 7.4
-Jungheinrich AG,2023,3,"7.5. Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCA 7.5
-Jungheinrich AG,2023,3,"7.6. Installation, maintenance and repair of renewable energy technologies",CCA 7.6
-Jungheinrich AG,2023,3,7.7. Acquisition and ownership of buildings,CCA 7.7
-Jungheinrich AG,2023,3,"8.1. Data processing, hosting and related activities",CCA 8.1
-Jungheinrich AG,2023,3,3.4. Manufacture of batteries,CCM 3.4
-Jungheinrich AG,2023,3,3.6. Manufacture of other low carbon technologies,CCM 3.6
-Jungheinrich AG,2023,3,"6.5. Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-Jungheinrich AG,2023,3,7.2. Renovation of existing buildings,CCM 7.2
-Jungheinrich AG,2023,3,"7.3. Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-Jungheinrich AG,2023,3,"7.4. Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
-Jungheinrich AG,2023,3,"7.5. Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-Jungheinrich AG,2023,3,"7.6. Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-Jungheinrich AG,2023,3,7.7. Acquisition and ownership of buildings,CCM 7.7
-Jungheinrich AG,2023,3,"8.1. Data processing, hosting and related activities",CCM 8.1
-Jungheinrich AG,2023,3,7.2. Renovation of existing buildings,CE 3.2
-Jungheinrich AG,2023,3,"5.1. Repair, refurbishment and remanufacturing",CE 5.1
-K+S Aktiengesellschaft,2023,1,"Activity 1.1 ""Manufacture of active pharmaceutical ingredients (API) or active substances""",1.1
-K+S Aktiengesellschaft,2023,1,"Activity 2.4 ""Treatment of hazardous waste""",2.4
-K+S Aktiengesellschaft,2023,1,"Activity 3.3 ""Manufacture of low carbon technologies for transport""",3.3
-K+S Aktiengesellschaft,2023,1,"Activity 4.25 ""Production of heat/cool using waste heat""",4.25
-K+S Aktiengesellschaft,2023,1,"Activity 4.30 ""High-efficiency co-generation of heat/cool and power from fossil gaseous fuels""",4.30
-K+S Aktiengesellschaft,2023,1,"Activity 9.1 ""Close to market research, development and innovation""",9.1
-K+S Aktiengesellschaft,2023,2,Manufacture of low carbon technologies for transport,CCM 3.3
-K+S Aktiengesellschaft,2023,2,Production of heat/cool using waste heat,CCM 4.25
-K+S Aktiengesellschaft,2023,2,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
-K+S Aktiengesellschaft,2023,2,"Close to market research, development and innovation",CCM 9.1
+Jungheinrich AG,2023,2,Manufacture of batteries,CCA 3.4
+Jungheinrich AG,2023,2,Manufacture of other low carbon technologies,CCA 3.6
+Jungheinrich AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCA 6.5
+Jungheinrich AG,2023,2,Freight transport services by road,CCA 6.6
+Jungheinrich AG,2023,2,Construction of new buildings,CCA 7.1
+Jungheinrich AG,2023,2,Renovation of existing buildings,CCA 7.2
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCA 7.3
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCA 7.4
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCA 7.5
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCA 7.6
+Jungheinrich AG,2023,2,Acquisition and ownership of buildings,CCA 7.7
+Jungheinrich AG,2023,2,Manufacture of batteries,CCM 3.4
+Jungheinrich AG,2023,2,Manufacture of other low carbon technologies,CCM 3.6
+Jungheinrich AG,2023,2,Construction of new buildings,CCM 7.1
+Jungheinrich AG,2023,2,Renovation of existing buildings,CCM 7.2
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
+Jungheinrich AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+Jungheinrich AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
+Jungheinrich AG,2023,2,"Data processing, hosting and related activities",CCM 8.1
+K+S Aktiengesellschaft,2023,1,Manufacture of low carbon technologies for transport,CCM 3.3
+K+S Aktiengesellschaft,2023,1,Production of heat/cool using waste heat,CCM 4.25
+K+S Aktiengesellschaft,2023,1,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
+K+S Aktiengesellschaft,2023,1,"Close to market research, development and innovation",CCM 9.1
 K+S Aktiengesellschaft,2023,1,Treatment of hazardous waste,CE 2.4
 K+S Aktiengesellschaft,2023,1,Manufacture of active pharmaceutical ingredients (API) or active substances,PPC 1.1
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,"Water supply, sewage, waste management & remediation (WM): Collect/transport non-hazardous waste",CCM 5.5
@@ -965,18 +886,18 @@ KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,"Installation, maintenance and repair of 
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,Acquisition and ownership of buildings,CCM 7.7
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,"Data processing, hosting and related activities",CCM 8.1
-KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,Data-driven solutions for GHG-emissions,CCM 8.2
+KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,Data-driven solutions for GHG-emissions reduction,CCM 8.2
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,Collection and transport of non-hazardous and hazardous waste,CE2.3
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,WM: Recovery of bio-waste by anaerobic digestion or composting,CE2.5
 KONINKLIJKE AHOLD DELHAIZE N.V.,2024,1,IC: Provision of IT/OT data-driven solutions,CE4.1
-KSB SE & Co. KGaA Vz,2023,2,Manufacturing of iron and steel,CCM 3.9
-KSB SE & Co. KGaA Vz,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+KSB SE & Co. KGaA Vz,2023,1,Manufacturing of iron and steel,CCM 3.9
+KSB SE & Co. KGaA Vz,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 KSB SE & Co. KGaA Vz,2023,2,Renovation of existing buildings,CCM 7.2
-KSB SE & Co. KGaA Vz,2023,2,Renovation of existing buildings,CCM 7.2 / CE 3.2
-KSB SE & Co. KGaA Vz,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-KSB SE & Co. KGaA Vz,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
-KSB SE & Co. KGaA Vz,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-KSB SE & Co. KGaA Vz,2023,2,Acquisition and ownership of buildings,CCM 7.7
+KSB SE & Co. KGaA Vz,2023,1,Renovation of existing buildings,CCM 7.2 / CE 3.2
+KSB SE & Co. KGaA Vz,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+KSB SE & Co. KGaA Vz,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
+KSB SE & Co. KGaA Vz,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+KSB SE & Co. KGaA Vz,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Klöckner & Co SE,2023,1,"Transport by motorbikes, passenger cars and commercial vehicles",CCM 6.5
 Klöckner & Co SE,2023,1,Freight transport services by road,CCM 6.6
 Klöckner & Co SE,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
@@ -986,22 +907,25 @@ Klöckner & Co SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Klöckner & Co SE,2023,1,Data-driven solutions for GHG emissions reductions,CCM 8.2
 Knorr-Bremse AG,2023,1,Manufacture of automotive and mobility components,CCM 3.18
 Knorr-Bremse AG,2023,1,Manufacture of rail rolling stock constituents,CCM 3.19
+Knorr-Bremse AG,2023,1,Manufacture of low carbon technologies for transport,CCM 3.3
 Knorr-Bremse AG,2023,1,Infrastructure for rail transport,CCM 6.14
 Knorr-Bremse AG,2023,1,"Transport by motorbikes, passenger cars, and light commercial vehicles",CCM 6.5
+Knorr-Bremse AG,2023,1,Renovation of existing buildings,CCM 7.2
 Knorr-Bremse AG,2023,1,"Installation, maintenance, and repair of energy efficiency equipment",CCM 7.3
 Knorr-Bremse AG,2023,1,"Installation, maintenance, and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
 Knorr-Bremse AG,2023,1,"Installation, maintenance, and repair of instruments and devices for measuring, regulation, and controlling energy performance of buildings",CCM 7.5
 Knorr-Bremse AG,2023,1,"Installation, maintenance, and repair of renewable energy technologies",CCM 7.6
 Knorr-Bremse AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
+Knorr-Bremse AG,2023,1,"Close to market research, development, and innovation",CCM 9.1
 Koenig & Bauer AG,2023,1,Production of other low-carbon technologies,3.6
 Koenig & Bauer AG,2023,1,"Installation, maintenance and repair of energy-efficient equipment",7.3
 Koenig & Bauer AG,2023,1,"Installation, maintenance and repair of technologies for renewable energies",7.6
 Krones AG,2023,1,Manufacture of other low carbon technologies,CCM 3.6
-Krones AG,2023,2,4.30 High-efficiency cogeneration of heat/cool and power from fossil gaseous fuels,CCM 4.30
-Krones AG,2023,2,"Installation, maintenance and repair of energy efficient equipment",CCM 7.3
-Krones AG,2023,2,Installation and maintenance of charging stations for electric vehicles,CCM 7.4
-Krones AG,2023,2,"Installation, maintenance and repair of renewable energy technologies on site",CCM 7.6
-Krones AG,2023,2,"8.1 Data processing, hosting and related activities",CCM 8.1
+Krones AG,2023,1,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30
+Krones AG,2023,1,"Installation, maintenance and repair of energy efficient equipment",CCM 7.3
+Krones AG,2023,1,Installation and maintenance of charging stations for electric vehicles,CCM 7.4
+Krones AG,2023,1,"Installation, maintenance and repair of renewable energy technologies on site",CCM 7.6
+Krones AG,2023,1,"Data processing, hosting and related activities",CCM 8.1
 Krones AG,2023,1,Sale of spare parts,CE 5.2
 Krones AG,2023,1,Sale of second-hand goods,CE 5.4
 L'OREAL,2024,1,Flood prevention and protection infrastructure,CCA 14.2
@@ -1012,12 +936,6 @@ L'OREAL,2024,1,"Installation, maintenance and repair of energy efficiency equipm
 L'OREAL,2024,1,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling the energy performance of buildings",CCM 7.5
 L'OREAL,2024,1,Acquisition and ownership of buildings,CCM 7.7
 L'OREAL,2024,1,Production of alternative water resources for purposes other than human consumption,CE 2.2
-LANXESS AG,2023,1,Manufacture of other organic basic chemicals,CCM 1) 3.14.
-LANXESS AG,2023,1,Manufacture of plastics in primary form,CCM 1) 3.17.
-LANXESS AG,2023,1,Manufacture of batteries,CCM 1) 3.4.
-LANXESS AG,2023,1,"Renewal of water collection, treatment and supply systems",CCM 1) 5.4.
-LANXESS AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 1) 6.5.
-LANXESS AG,2023,1,Acquisition and ownership of buildings,CCM 1) 7.7.
 LANXESS AG,2023,1,Manufacture of other organic basic chemicals,CCM 3.14.
 LANXESS AG,2023,1,Manufacture of plastics in primary form,CCM 3.17.
 LANXESS AG,2023,1,Manufacture of batteries,CCM 3.4.
@@ -1025,16 +943,11 @@ LANXESS AG,2023,1,"Renewal of water collection, treatment and supply systems",CC
 LANXESS AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
 LANXESS AG,2023,1,Acquisition and ownership of buildings,CCM 7.7.
 LANXESS AG,2023,1,Remediation of contaminated sites and areas,PPC 2.4.
-LANXESS AG,2023,1,Remediation of contaminated sites and areas,PPC2) 2.4.
-LEG Immobilien SE,2023,1,Electricity generation using solar photovoltaic technology,4.1
-LEG Immobilien SE,2023,1,Installation and operation of electric heat pumps,4.16
-LEG Immobilien SE,2023,1,Cogeneration of heat/cool and power from bioenergy,4.20
-LEG Immobilien SE,2023,1,Acquisition and ownership of buildings,7.7
-LEG Immobilien SE,2023,1,"Close to market research, development and innovation",9.1
-LEG Immobilien SE,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
-LEG Immobilien SE,2023,2,Installation and operation of electric heat pumps,CCM 4.16
-LEG Immobilien SE,2023,2,Cogeneration of heat/cool and power from bioenergy,CCM 4.20
-LEG Immobilien SE,2023,2,Acquisition and ownership of buildings,CCM 7.7/CCA 7.7
+LEG Immobilien SE,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
+LEG Immobilien SE,2023,1,Installation and operation of electric heat pumps,CCM 4.16
+LEG Immobilien SE,2023,1,Cogeneration of heat/cool and power from bioenergy,CCM 4.20
+LEG Immobilien SE,2023,2,Acquisition and ownership of buildings,CCM 7.7/ CCA 7.7
+LEG Immobilien SE,2023,1,Acquisition and ownership of buildings,CCM 7.7/CCA 7.7
 LEG Immobilien SE,2023,2,"Close to market research, development and innovation",CCM 9.1
 Lenzing AG,2023,1,Manufacture of soda ash,CCM 3.12.
 Lenzing AG,2023,1,Cogeneration of heat/cool and power from renewable non-fossil gaseous and liquid fuels,CCM 4.19.
@@ -1071,96 +984,85 @@ MTU Aero Engines AG,2023,1,Renovation of existing buildings,CCM 7.2.
 MTU Aero Engines AG,2023,1,Acquisition and ownership of buildings,CCM 7.7.
 MTU Aero Engines AG,2023,1,"Data processing, hosting and related activities",CCM 8.1.
 MTU Aero Engines AG,2023,1,"Close to market research, development and innovation",CCM 9.1.
+MediClin AG,2023,1,High-efficiency co-generation of power and heat/ cool from fossil gaseous fuels,CCM 4.30
 MediClin AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-MediClin AG,2023,1,Construction of new buildings,CCM 7.1<BR>CCA 7.1<BR>CE 3.1
-MediClin AG,2023,1,Renovation of existing buildings,CCM 7.2<BR>CCA 7.2<BR>CE 3.2
+MediClin AG,2023,1,Construction of new buildings,CCM 7.1 CCA 7.1 CE 3.1
+MediClin AG,2023,1,Renovation of existing buildings,CCM 7.2 CCA 7.2 CE 3.2
 MediClin AG,2023,1,"Installation, maintenance or repair of energy efficiency equipment",CCM 7.3
 MediClin AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-MediClin AG,2023,1,High-efficiency co-generation of power and heat/ cool from fossil gaseous fuels,CCM<BR>4.30
 Medios AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Medios AG,2023,1,Compounding of drugs,PPC 1.2
+"Melia Hotels International, S.A.",2023,1,"Hotels, holiday resorts, camping grounds and similar accommodation",2.1
 "Melia Hotels International, S.A.",2023,2,Hotels and similar accommodation,I-55
 "Melia Hotels International, S.A.",2023,2,Acquisition and ownership of buildings,L-68
-"Minor Hotels Europe & Americas, S.A.",2023,1,"Hotels, holiday, camping grounds and similar accommodation",2.1
+"Minor Hotels Europe & Americas, S.A.",2023,1,"Hotels, Resorts, Campsites and Similar Accommodation",2.1
 "Minor Hotels Europe & Americas, S.A.",2023,1,"Installation, maintenance and repair of energy efficient equipment",7.3
 "Minor Hotels Europe & Americas, S.A.",2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling the energy performance of buildings",7.5
 "Minor Hotels Europe & Americas, S.A.",2023,1,"Installation, maintenance and repair of renewable energy technologies",7.6
 Mister Spex SE,2023,1,Sale of spare parts,"5,2"
-NORMA Group SE,2023,3,Sustainable urban drainage systems (SUDS),2.3
-NORMA Group SE,2023,3,Manufacture of automotive and mobility components,3.18
-NORMA Group SE,2023,3,Electricity generation using solar photovoltaic technology,4.1
-NORMA Group SE,2023,3,"Construction, extension and operation of water collection, treatment and supply systems",5.1
-NORMA Group SE,2023,3,"Infrastructure for personal mobility, cycling logistics",6.13
-NORMA Group SE,2023,3,"Operation of personal mobility devices, cycle logistics",6.4
-NORMA Group SE,2023,3,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
-NORMA Group SE,2023,3,Renovation of existing buildings,7.2
-NORMA Group SE,2023,3,"Installation, maintenance and repair of energy efficiency equipment",7.3
-NORMA Group SE,2023,4,3.18 Manufacture of automotive and mobility components,CCM 3.18
-NORMA Group SE,2023,4,4.1 Electricity generation using solar photovoltaic technology,CCM 4.1
-NORMA Group SE,2023,4,"5.1 Construction, extension and operation of water collection, treatment and supply systems",CCM 5.1
-NORMA Group SE,2023,4,"6.13 Infrastructure for personal mobility, cycle logistics",CCM 6.13
-NORMA Group SE,2023,4,"6.4 Operation of personal mobility devices, cycle logistics",CCM 6.4
-NORMA Group SE,2023,4,"6.5 Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-NORMA Group SE,2023,4,7.2 / 3.2 Renovation of existing buildings,CCM 7.2/CE 3.2
-NORMA Group SE,2023,4,"7.3 Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
-NORMA Group SE,2023,4,2.3 Sustainable urban drainage systems (SUDS),WTR 2.3
+NORMA Group SE,2023,3,Manufacture of automotive and mobility components,CCM 3.18
+NORMA Group SE,2023,3,Electricity generation using solar photovoltaic technology,CCM 4.1
+NORMA Group SE,2023,3,"Construction, extension and operation of water collection, treatment and supply systems",CCM 5.1
+NORMA Group SE,2023,3,"Infrastructure for personal mobility, cycling logistics",CCM 6.13
+NORMA Group SE,2023,3,"Operation of personal mobility devices, cycle logistics",CCM 6.4
+NORMA Group SE,2023,3,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+NORMA Group SE,2023,3,Renovation of existing buildings,CCM 7.2
+NORMA Group SE,2023,3,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+NORMA Group SE,2023,3,Sustainable urban drainage systems (SUDS),WTR 2.3
 NOVO NORDISK A/S,2024,1,Construction on new buildings,CCM 7.1
 NOVO NORDISK A/S,2024,1,Renovation of buildings,CCM 7.2
 NOVO NORDISK A/S,2024,1,Manufacture of medicinal products,P 1.2
 NOVO NORDISK A/S,2024,1,Manufacture of medicinal products,PPC 1.2
 Nemetschek SE,2023,1,Data-driven solutions for GHG emissions reductions,8.2
 Nemetschek SE,2023,1,Professional services related to energy performance of buildings,9.3
-OMV AG,2023,1,2.7 Sorting and material recovery of non-hazardous waste,2.7
-OMV AG,2023,1,3.10 Manufacture of hydrogen,3.10
-OMV AG,2023,1,3.14 Manufacture of organic basic chemicals,3.14
-OMV AG,2023,1,3.17 Manufacture of plastics in primary form,3.17
-OMV AG,2023,1,4.1 Electricity generation using solar photovoltaic technology,4.1
-OMV AG,2023,1,4.13 Manufacture of biogas and biofuels for use in transport and of bioliquids,4.13
-OMV AG,2023,1,4.25 Production of heat/cool using waste heat,4.25
-OMV AG,2023,1,4.29 Electricity generation from fossil gaseous fuels,4.29
-OMV AG,2023,1,4.3 Electricity generation from wind power,4.3
-OMV AG,2023,1,4.30 High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,4.30
-OMV AG,2023,1,4.9 Transmission and distribution of electricity,4.9
-OMV AG,2023,1,5.12 Underground permanent geological storage of CO2,5.12
-OMV AG,2023,1,5.9 Material recovery from non-hazardous waste,5.9
-OMV AG,2023,1,6.15 Infrastructure enabling low-carbon road transport and public transport,6.15
-OMV AG,2023,1,7.2 Renovation of existing buildings,7.2
-OMV AG,2023,1,"7.3 Installation, maintenance, and repair of energy efficiency equipment",7.3
-OMV AG,2023,1,"7.6 Installation, maintenance, and repair of renewable energy technologies",7.6
-OMV AG,2023,1,"9.1 Close to market research, development, and innovation",9.1
-OMV AG,2023,3,Manufacture of hydrogen,CCM 3.10.
+OMV AG,2023,1,Sorting and material recovery of non-hazardous waste,2.7
+OMV AG,2023,1,Manufacture of hydrogen,3.10
+OMV AG,2023,1,Manufacture of organic basic chemicals,3.14
+OMV AG,2023,1,Manufacture of plastics in primary form,3.17
+OMV AG,2023,1,Electricity generation using solar photovoltaic technology,4.1
+OMV AG,2023,1,Manufacture of biogas and biofuels for use in transport and of bioliquids,4.13
+OMV AG,2023,1,Production of heat/cool using waste heat,4.25
+OMV AG,2023,1,Electricity generation from fossil gaseous fuels,4.29
+OMV AG,2023,1,Electricity generation from wind power,4.3
+OMV AG,2023,1,High‑efficiency co‑generation of heat/cool and power from fossil gaseous fuels,4.30
+OMV AG,2023,1,Transmission and distribution of electricity,4.9
+OMV AG,2023,1,Underground permanent geological storage of CO2,5.12
+OMV AG,2023,1,Material recovery from non-hazardous waste,5.9
+OMV AG,2023,1,Infrastructure enabling low-carbon road transport and public transport,6.15
+OMV AG,2023,1,Renovation of existing buildings,7.2
+OMV AG,2023,1,"Installation, maintenance, and repair of energy efficiency equipment",7.3
+OMV AG,2023,1,"Installation, maintenance, and repair of renewable energy technologies",7.6
+OMV AG,2023,1,"Close to market research, development, and innovation",9.1
+OMV AG,2023,2,Manufacture of hydrogen,CCM 3.10.
 OMV AG,2023,2,Manufacture of organic basic chemicals,CCM 3.14.
 OMV AG,2023,2,Manufacture of plastics in primary form,CCM 3.17.
-OMV AG,2023,3,Electricity generation from solar photovoltaic technology,CCM 4.1.
+OMV AG,2023,2,Electricity generation from solar photovoltaic technology,CCM 4.1.
 OMV AG,2023,2,Manufacture of biogas and biofuels for transport,CCM 4.13.
 OMV AG,2023,2,Production of heat/cool using waste heat,CCM 4.25.
 OMV AG,2023,2,Electricity generation from fossil gaseous fuels,CCM 4.29.
-OMV AG,2023,3,Electricity generation from wind power,CCM 4.3.
+OMV AG,2023,2,Electricity generation from wind power,CCM 4.3.
 OMV AG,2023,2,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30.
 OMV AG,2023,2,Transmission and distribution of electricity,CCM 4.9.
 OMV AG,2023,2,Material recovery from non-hazardous waste,CCM 5.9.
 OMV AG,2023,2,Infrastructure for low-carbon road transport,CCM 6.15.
-OMV AG,2023,3,"Installation, maintenance, and repair of energy efficiency equipment",CCM 7.3.
-OMV AG,2023,3,"Installation, maintenance, and repair of renewable energy technologies",CCM 7.6.
-OMV AG,2023,3,"Close to market research, development, and innovation",CCM 9.1.
-OMV AG,2023,3,Manufacture of hydrogen,CCM/CCA 3.10.
-OMV AG,2023,3,Manufacture of organic basic chemicals,CCM/CCA 3.14.
-OMV AG,2023,3,Manufacture of plastics in primary form,CCM/CCA 3.17.
-OMV AG,2023,3,Electricity generation from solar photovoltaic technology,CCM/CCA 4.1.
-OMV AG,2023,3,Manufacture of biogas and biofuels for transport,CCM/CCA 4.13.
-OMV AG,2023,3,Production of heat/cool from geothermal energy,CCM/CCA 4.22.
-OMV AG,2023,3,Electricity generation from fossil gaseous fuels,CCM/CCA 4.29.
-OMV AG,2023,3,Transmission and distribution of electricity,CCM/CCA 4.9.
-OMV AG,2023,3,Underground permanent geological storage of CO2,CCM/CCA 5.12.
-OMV AG,2023,3,"Sea and coastal freight water transport, vessels for port operations, and auxiliary activities",CCM/CCA 6.10.
-OMV AG,2023,3,Infrastructure for rail transport,CCM/CCA 6.14.
-OMV AG,2023,3,Freight rail transport,CCM/CCA 6.2.
-OMV AG,2023,3,"Transport by motorbikes, passenger cars, and light commercial vehicles",CCM/CCA 6.5.
-OMV AG,2023,3,Renovation of existing buildings,CCM/CCA 7.2.
-OMV AG,2023,3,Acquisition and ownership of buildings,CCM/CCA 7.7.
-OMV AG,2023,3,"Data processing, hosting, and related activities",CCM/CCA 8.1.
-OMV AG,2023,3,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM/CCM 4.30.
-OMV AG,2023,3,Sorting and material recovery of non-hazardous waste,CE 2.7.
+OMV AG,2023,2,"Installation, maintenance, and repair of energy efficiency equipment",CCM 7.3.
+OMV AG,2023,2,"Installation, maintenance, and repair of renewable energy technologies",CCM 7.6.
+OMV AG,2023,2,"Close to market research, development, and innovation",CCM 9.1.
+OMV AG,2023,2,Production of heat/cool from geothermal energy,CCM/CCA 4.22.
+OMV AG,2023,2,Underground permanent geological storage of CO2,CCM/CCA 5.12.
+OMV AG,2023,2,"Sea and coastal freight water transport, vessels for port operations, and auxiliary activities",CCM/CCA 6.10.
+OMV AG,2023,2,Infrastructure for rail transport,CCM/CCA 6.14.
+OMV AG,2023,2,Freight rail transport,CCM/CCA 6.2.
+OMV AG,2023,2,"Transport by motorbikes, passenger cars, and light commercial vehicles",CCM/CCA 6.5.
+OMV AG,2023,2,Renovation of existing buildings,CCM/CCA 7.2.
+OMV AG,2023,2,Acquisition and ownership of buildings,CCM/CCA 7.7.
+OMV AG,2023,2,"Data processing, hosting, and related activities",CCM/CCA 8.1.
+OMV AG,2023,2,Sorting and material recovery of non-hazardous waste,CE 2.7.
+OMV AG,2023,3,"The undertaking carries out, funds, or has exposure to construction and safe operation of new nuclear installations to produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production, as well as their safety upgrades, using best available technologies.",
+OMV AG,2023,3,"The undertaking carries out, funds, or has exposure to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.",
+OMV AG,2023,3,"The undertaking carries out, funds, or has exposure to construction, refurbishment, and operation of combined heat/cool and power generation facilities using fossil gaseous fuels.",
+OMV AG,2023,3,"The undertaking carries out, funds, or has exposure to research, development, demonstration, and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.",
+OMV AG,2023,3,"The undertaking carries out, funds, or has exposure to safe operation of existing nuclear installations that produce electricity or process heat, including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy, as well as their safety upgrades.",
 OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of hydrogen,3.10
 OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of organic basic chemicals,3.14
 OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of plastics in primary form,3.17
@@ -1174,10 +1076,16 @@ OMV AKTIENGESELLSCHAFT,2024,1,"Installation, maintenance, and repair of energy e
 OMV AKTIENGESELLSCHAFT,2024,1,"Installation, maintenance, and repair of renewable energy technologies",7.6
 OMV AKTIENGESELLSCHAFT,2024,1,Data-driven solutions for GHG emissions reductions,8.2
 OMV AKTIENGESELLSCHAFT,2024,1,"Close to market research, development, and innovation",9.1
+OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of organic basic chemicals,CCM 3.14.
+OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of plastics in primary form,CCM 3.17.
+OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of biogas and biofuels for transport,CCM 4.13.
 OMV AKTIENGESELLSCHAFT,2024,1,Heat generation from geothermal energy,CCM 4.22.
+OMV AKTIENGESELLSCHAFT,2024,1,Production of heat/cool using waste heat,CCM 4.25.
 OMV AKTIENGESELLSCHAFT,2024,1,Electricity generation from fossil gaseous fuels,CCM 4.29.
 OMV AKTIENGESELLSCHAFT,2024,1,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM 4.30.
+OMV AKTIENGESELLSCHAFT,2024,1,Transmission and distribution of electricity,CCM 4.9.
 OMV AKTIENGESELLSCHAFT,2024,1,Material recovery from non-hazardous waste,CCM 5.9.
+OMV AKTIENGESELLSCHAFT,2024,1,Infrastructure for low-carbon road transport,CCM 6.15.
 OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of hydrogen,CCM/CCA 3.10.
 OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of organic basic chemicals,CCM/CCA 3.14.
 OMV AKTIENGESELLSCHAFT,2024,1,Manufacture of plastics in primary form,CCM/CCA 3.17.
@@ -1204,6 +1112,11 @@ OMV AKTIENGESELLSCHAFT,2024,1,"Close to market research, development and innovat
 OMV AKTIENGESELLSCHAFT,2024,1,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,CCM/CCM 4.30.
 OMV AKTIENGESELLSCHAFT,2024,1,Sorting and material recovery of non-hazardous waste,CE 2.7.
 OMV AKTIENGESELLSCHAFT,2024,1,Provision of IT/OT data-driven solutions,CE 4.1.
+PNE AG,2023,1,Electricity generation using photovoltaic technology,4.1.
+PNE AG,2023,1,"Combined heat, power and cooling with bioenergy",4.20.
+PNE AG,2023,1,Power generation from wind power,4.3.
+PNE AG,2023,1,Transmission and distribution of electricity,4.9.
+PNE AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",7.6.
 PNE AG,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 PNE AG,2023,1,Cogeneration of heat/cool and power from bioenergy,CCM 4.20
 PNE AG,2023,1,Electricity generation from wind power,CCM 4.3
@@ -1218,27 +1131,28 @@ POLYTEC Holding AG,2023,1,"Urban, suburban and road passenger transport",CCM 6.3
 POLYTEC Holding AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 POLYTEC Holding AG,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings",CCM 7.4
 POLYTEC Holding AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
-PORR AG,2023,2,Storage of electricity,CCM 4.10
+PORR AG,2023,3,Renovation of existing buildings,"CCA 7.2, CE 3.2, CCM 7.2"
+PORR AG,2023,2,4.10 Storage of electricity,CCM 4.10
 PORR AG,2023,3,Storage of electricity,"CCM 4.10, CCA 4.10"
-PORR AG,2023,2,Electricity generation from hydropower,CCM 4.5
+PORR AG,2023,2,4.5 Electricity generation from hydropower,CCM 4.5
 PORR AG,2023,3,Electricity generation from hydropower,"CCM 4.5, CCA 4.5"
-PORR AG,2023,2,Collection and transport of non-hazardous waste in source-segregated fractions,CCM 5.5
-PORR AG,2023,2,Material recovery from non-hazardous waste,CCM 5.9
-PORR AG,2023,2,"Infrastructure for personal mobility, cycle logistics",CCM 6.13
+PORR AG,2023,2,5.5 Collection and transport of non-hazardous waste in source-segregated fractions,CCM 5.5
+PORR AG,2023,2,5.9 Material recovery from non-hazardous waste,CCM 5.9
+PORR AG,2023,2,"6.13 Infrastructure for personal mobility, cycle logistics",CCM 6.13
 PORR AG,2023,3,"Infrastructure for personal mobility, cycle logistics","CCM 6.13, CCA 6.13"
-PORR AG,2023,2,Infrastructure for rail transport,CCM 6.14
+PORR AG,2023,2,6.14 Infrastructure for rail transport,CCM 6.14
 PORR AG,2023,3,Infrastructure for rail transport,"CCM 6.14, CCA 6.14"
-PORR AG,2023,2,Construction of new buildings,CCM 7.1
+PORR AG,2023,2,7.1 Construction of new buildings,CCM 7.1
 PORR AG,2023,3,Construction of new buildings,"CCM 7.1, CCA 7.1, CE 3.1"
-PORR AG,2023,2,Renovation of existing buildings,CCM 7.2
+PORR AG,2023,2,7.2 Renovation of existing buildings,CCM 7.2
 PORR AG,2023,3,Renovation of existing buildings,"CCM 7.2, CCA 7.2, CE 3.2"
-PORR AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
+PORR AG,2023,2,"7.3 Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 PORR AG,2023,3,"Installation, maintenance and repair of energy efficiency equipment","CCM 7.3, CCA 7.3"
-PORR AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
+PORR AG,2023,2,"7.4 Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
 PORR AG,2023,3,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)","CCM 7.4, CCA 7.4"
-PORR AG,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
+PORR AG,2023,2,"7.5 Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
 PORR AG,2023,3,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings","CCM 7.5, CCA 7.5"
-PORR AG,2023,2,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+PORR AG,2023,2,"7.6 Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 PORR AG,2023,3,"Installation, maintenance and repair of renewable energy technologies","CCM 7.6, CCA 7.6"
 PORR AG,2023,2,3.3 Demolition and wrecking of buildings and other structures,CE 3.3
 PORR AG,2023,2,3.4 Maintenance of roads and motorways,CE 3.4
@@ -1264,12 +1178,17 @@ Palfinger AG,2023,1,"Installation, maintenance and repair of charging stations f
 Palfinger AG,2023,1,"Installation, maintenance and repair of equipment for measuring, regulating and controlling the overall energy efficiency of buildings",CCM 7.5
 Palfinger AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
 Palfinger AG,2023,1,"Repair, refurbishment and reconditioning",CE 5.1
+Palfinger AG,2023,1,"Repair, refurbishment and remanufacturing",CE 5.1.
 Palfinger AG,2023,1,Sale of spare parts,CE 5.2
 Palfinger AG,2023,1,Product as a service and other circular usage and result-orientated service models,CE 5.5
-Porsche AG Vz,2023,3,Manufacture of automotive and mobility components,3.18
-Porsche AG Vz,2023,3,Manufacture of low-carbon technologies for transport,3.3
+Palfinger AG,2023,1,Preparation for re-use of end-of-life products and product components,CE 5.5.
+Porsche AG Vz,2023,2,3.18 Manufacture of automotive and mobility components,3.18
+Porsche AG Vz,2023,2,3.3 Manufacture of low-carbon technologies for transport,3.3
 Porsche AG Vz,2023,3,Manufacture of automotive and mobility components,CCM 3.18
 Porsche AG Vz,2023,3,Manufacture of low-carbon technologies for transport,CCM 3.3
+Porsche AG Vz,2023,3,Manufacture of low-carbon technologies for transport,"CCM 3.3 33,932"
+Porsche AG Vz,2023,3,3.18 Manufacture of automotive and mobility components,
+Porsche AG Vz,2023,3,3.3 Manufacture of low-carbon technologies for transport,
 ProSiebenSat.1 Media SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
 ProSiebenSat.1 Media SE,2023,1,Construction of new buildings,CCM 7.1./ CE 3.1.
 ProSiebenSat.1 Media SE,2023,1,Renovation of existing buildings,CCM 7.2./ CE 3.2.
@@ -1287,12 +1206,13 @@ R. Stahl AG,2023,2,4.1 Electricity generation using solar photovoltaic technolog
 R. Stahl AG,2023,2,"6.5 Transport by motorbikes, passenger cars and light commercial vehicles",6.5
 R. Stahl AG,2023,2,"7.3 Installation, maintenance and repair of energy-efficient equipment; (d) Installation and replacement of energy-efficient lighting sources",7.3
 R. Stahl AG,2023,2,7.7 Acquisition and ownership of buildings,7.7
-R. Stahl AG,2023,3,Manufacture of energy efficiency equipment for buildings,CCM 3.5
-R. Stahl AG,2023,3,Manufacture of other low carbon technologies,CCM 3.6
-R. Stahl AG,2023,3,Electricity generation using solar photovoltaic technology,CCM 4.1
-R. Stahl AG,2023,3,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-R. Stahl AG,2023,3,"Installation, maintenance and repair of energy efficientcy equipment",CCM 7.3
-R. Stahl AG,2023,3,Acquisition and ownership of buildings,CCM 7.7
+R. Stahl AG,2023,2,Manufacture of equipment for the production and use of hydrogen,CCM 3.2
+R. Stahl AG,2023,2,Manufacture of energy efficiency equipment for buildings,CCM 3.5
+R. Stahl AG,2023,2,Manufacture of other low carbon technologies,CCM 3.6
+R. Stahl AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
+R. Stahl AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
+R. Stahl AG,2023,2,"Installation, maintenance and repair of energy efficientcy equipment",CCM 7.3
+R. Stahl AG,2023,2,Acquisition and ownership of buildings,CCM 7.7
 RENAULT,2024,1,Manufacture of automotive and mobility components,CCM 3.18
 RENAULT,2024,1,Low carbon-intensity manufacturing technologies for transport,CCM 3.3
 RENAULT,2024,1,Manufacture of batteries,CCM 3.4
@@ -1301,20 +1221,20 @@ RENAULT,2024,1,"Installation, maintenance and repair of equipment improving ener
 RENAULT,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles",CCM 7.4
 RENAULT,2024,1,Depollution and dismantling of end-of-life products,CE 2.6
 RENAULT,2024,1,Sale of second-hand goods,CE 5.4
-REPSOL SA.,2024,1,Hydrogen production,3.10.
+REPSOL SA.,2024,1,Manufacture of hydrogen,3.10.
 REPSOL SA.,2024,1,Manufacture of basic chemical products,3.14.
 REPSOL SA.,2024,1,Manufacture of plastics in primary forms (recycled polyols and polyolefins),3.17.
 REPSOL SA.,2024,1,Generation of electricity using solar photovoltaic technology,4.1.
-REPSOL SA.,2024,1,Electricity storage,4.10.
+REPSOL SA.,2024,1,Storage of electricity,4.10.
 REPSOL SA.,2024,1,Production of biogas and biofuels for the transport and production of bioliquids,4.13.
 REPSOL SA.,2024,1,Generation of electricity from gaseous fossil fuels,4.29.
 REPSOL SA.,2024,1,Generation of electricity from wind power,4.3.
-REPSOL SA.,2024,1,High-efficiency cogeneration of heat/cold and power from gaseous fossil fuels,4.30.
+REPSOL SA.,2024,1,High-efficiency co-generation of heat/cool and power from fossil gaseous fuels,4.30.
 REPSOL SA.,2024,1,Generation of electricity from hydroelectric power,4.5.
 REPSOL SA.,2024,1,Permanent underground geological storage of CO2,5.12.
 REPSOL SA.,2024,1,Infrastructure enabling road transport and low-carbon public transport,6.15.
 REPSOL SA.,2024,1,"Installation, maintenance and repair of renewable energy technologies",7.6.
-REPSOL SA.,2024,1,Data-driven solutions to reduce GHG emissions,8.2.
+REPSOL SA.,2024,1,Data-driven solutions for GHG emissions reductions,8.2.
 REPSOL SA.,2024,1,"Close to market research, development and innovation",9.1.
 REPSOL SA.,2024,1,"Research, development and innovation for direct capture of CO2 from the atmosphere",9.2.
 RHÖN-KLINIKUM AG,2023,1,Creation of low-carbon transportation technologies,3.3
@@ -1340,137 +1260,33 @@ RWE AG St,2023,2,Electricity generation from wind energy,CCM 4.3
 RWE AG St,2023,2,CHP with fossil gaseous fuels,CCM 4.30
 RWE AG St,2023,2,Electricity generation from hydropower,CCM 4.5
 RWE AG St,2023,2,Electricity generation from bioenergy,CCM 4.8
-"Renta 4 Banco, S.A.",2023,4,1621-Fabricación de chapas y tableros de madera,
-"Renta 4 Banco, S.A.",2023,4,1622-Fabricación de suelos de madera ensamblados,
-"Renta 4 Banco, S.A.",2023,4,1623-Fabricación de otras estructuras de madera y piezas de carpintería y ebanistería para la construcción,
-"Renta 4 Banco, S.A.",2023,4,"1629-Fabricación de otros productos de madera; artículos de corcho, cestería y espartería",
-"Renta 4 Banco, S.A.",2023,4,1712-Fabricación de papel y cartón,
-"Renta 4 Banco, S.A.",2023,4,"2221-Fabricación de placas, hojas, tubos y perfiles de plástico",
-"Renta 4 Banco, S.A.",2023,4,2229-Fabricación de otros productos de plástico,
-"Renta 4 Banco, S.A.",2023,4,2331-Fabricación de azulejos y baldosas de cerámica,
-"Renta 4 Banco, S.A.",2023,4,"2332-Fabricación de ladrillos, tejas y productos de tierras cocidas para la construcción",
-"Renta 4 Banco, S.A.",2023,4,2361-Fabricación de elementos de hormigón para la construcción,
-"Renta 4 Banco, S.A.",2023,4,2363-Fabricación de hormigón fresco,
-"Renta 4 Banco, S.A.",2023,4,"2370-Corte, tallado y acabado de la piedra",
-"Renta 4 Banco, S.A.",2023,4,"2420-Fabricación de tubos, tuberías, perfiles huecos y sus accesorios, de acero",
-"Renta 4 Banco, S.A.",2023,4,2453-Fundición de metales ligeros,
-"Renta 4 Banco, S.A.",2023,4,2511-Fabricación de estructuras metálicas y sus componentes,
-"Renta 4 Banco, S.A.",2023,4,2512-Fabricación de carpintería metálica,
-"Renta 4 Banco, S.A.",2023,4,2561-Tratamiento y revestimiento de metales,
-"Renta 4 Banco, S.A.",2023,4,2571-Fabricación de artículos de cuchillería y cubertería,
-"Renta 4 Banco, S.A.",2023,4,2572-Fabricación de cerraduras y herrajes,
-"Renta 4 Banco, S.A.",2023,4,2573-Fabricación de herramientas,
-"Renta 4 Banco, S.A.",2023,4,2611-Fabricación de componentes electrónicos,
-"Renta 4 Banco, S.A.",2023,4,2630-Fabricación de equipos de telecomunicaciones,
-"Renta 4 Banco, S.A.",2023,4,2670-Fabricación de instrumentos de óptica y equipo fotográfico,
-"Renta 4 Banco, S.A.",2023,4,2680-Fabricación de soportes magnéticos y ópticos,
-"Renta 4 Banco, S.A.",2023,4,2733-Fabricación de dispositivos de cableado,
-"Renta 4 Banco, S.A.",2023,4,2740-Fabricación de lámparas y aparatos eléctricos de iluminación,
-"Renta 4 Banco, S.A.",2023,4,2790-Fabricación de otro material y equipo eléctrico,
-"Renta 4 Banco, S.A.",2023,4,2822-Fabricación de maquinaria de elevación y manipulación,
-"Renta 4 Banco, S.A.",2023,4,2824-Fabricación de herramientas eléctricas manuales,
-"Renta 4 Banco, S.A.",2023,4,2825-Fabricación de maquinaria de ventilación y refrigeración no doméstica,
-"Renta 4 Banco, S.A.",2023,4,2829-Fabricación de otra maquinaria de uso general n.c.o.p.,
-"Renta 4 Banco, S.A.",2023,4,2891-Fabricación de maquinaria para la industria metalúrgica,
-"Renta 4 Banco, S.A.",2023,4,2910-Fabricación de vehículos de motor,
-"Renta 4 Banco, S.A.",2023,4,3011-Construcción de barcos y estructuras flotantes,
-"Renta 4 Banco, S.A.",2023,4,3512-Transporte de energía eléctrica,
-"Renta 4 Banco, S.A.",2023,4,3513-Distribución de energía eléctrica,
-"Renta 4 Banco, S.A.",2023,4,3530-Suministro de vapor y aire acondicionado,
-"Renta 4 Banco, S.A.",2023,4,"3600-Captación, depuración y distribución de agua",
-"Renta 4 Banco, S.A.",2023,4,3811-Recogida de residuos no peligrosos,
-"Renta 4 Banco, S.A.",2023,4,3900-Actividades de descontaminación y otros servicios de gestión de residuos,
-"Renta 4 Banco, S.A.",2023,4,4110-Promoción inmobiliaria,
-"Renta 4 Banco, S.A.",2023,4,4121-Construcción de edificios residenciales,
-"Renta 4 Banco, S.A.",2023,4,4122-Construcción de edificios no residenciales,
-"Renta 4 Banco, S.A.",2023,4,4211-Construcción de carreteras y autopistas,
-"Renta 4 Banco, S.A.",2023,4,4213-Construcción de puentes y túneles,
-"Renta 4 Banco, S.A.",2023,4,4299-Construcción de otros proyectos de ingeniería civil n.c.o.p.,
-"Renta 4 Banco, S.A.",2023,4,4311-Demolición,
-"Renta 4 Banco, S.A.",2023,4,4312-Preparación de terrenos,
-"Renta 4 Banco, S.A.",2023,4,4321-Instalaciones eléctricas,
-"Renta 4 Banco, S.A.",2023,4,"4322-Fontanería, instalaciones de sistemas de calefacción y aire acondicionado",
-"Renta 4 Banco, S.A.",2023,4,4329-Otras instalaciones en obras de construcción,
-"Renta 4 Banco, S.A.",2023,4,4331-Revocamiento,
-"Renta 4 Banco, S.A.",2023,4,4332-Instalación de carpintería,
-"Renta 4 Banco, S.A.",2023,4,4333-Revestimiento de suelos y paredes,
-"Renta 4 Banco, S.A.",2023,4,4334-Pintura y acristalamiento,
-"Renta 4 Banco, S.A.",2023,4,4339-Otro acabado de edificios,
-"Renta 4 Banco, S.A.",2023,4,4391-Construcción de cubiertas,
-"Renta 4 Banco, S.A.",2023,4,4399-Otras actividades de construcción especializada n.c.o.p.,
-"Renta 4 Banco, S.A.",2023,4,4910-Transporte interurbano de pasajeros por ferrocarril,
-"Renta 4 Banco, S.A.",2023,4,4931-Transporte terrestre urbano y suburbano de pasajeros,
-"Renta 4 Banco, S.A.",2023,4,4932-Transporte por taxi,
-"Renta 4 Banco, S.A.",2023,4,4939-tipos de transporte terrestre de pasajeros n.c.o.p.,
-"Renta 4 Banco, S.A.",2023,4,4941-Transporte de mercancías por carretera,
-"Renta 4 Banco, S.A.",2023,4,5010-Transporte marítimo de pasajeros,
-"Renta 4 Banco, S.A.",2023,4,5020-Transporte marítimo de mercancías,
-"Renta 4 Banco, S.A.",2023,4,5221-Actividades anexas al transporte terrestre,
-"Renta 4 Banco, S.A.",2023,4,5320-Otras actividades postales y de correos,
-"Renta 4 Banco, S.A.",2023,4,"5912-Actividades de postproducción cinematográfica, de vídeo y de programas de televisión",
-"Renta 4 Banco, S.A.",2023,4,5915-Actividades de producción cinematográfica y de vídeo,
-"Renta 4 Banco, S.A.",2023,4,5916-Actividades de producciones de programas de televisión,
-"Renta 4 Banco, S.A.",2023,4,5920-Actividades de grabación de sonido y edición musical,
-"Renta 4 Banco, S.A.",2023,4,6010-Actividades de radiodifusión,
-"Renta 4 Banco, S.A.",2023,4,6020-Actividades de programación y emisión de televisión,
-"Renta 4 Banco, S.A.",2023,4,6110-Telecomunicaciones por cable,
-"Renta 4 Banco, S.A.",2023,4,6120-Telecomunicaciones inalámbricas,
-"Renta 4 Banco, S.A.",2023,4,6190-Otras actividades de telecomunicaciones,
-"Renta 4 Banco, S.A.",2023,4,6201-Actividades de programación informática,
-"Renta 4 Banco, S.A.",2023,4,6202-Actividades de consultoría informática,
-"Renta 4 Banco, S.A.",2023,4,6203-Gestión de recursos informáticos,
-"Renta 4 Banco, S.A.",2023,4,6209-Otros servicios relacionados con las tecnologías de la información y la informática,
-"Renta 4 Banco, S.A.",2023,4,"6311-Proceso de datos, hosting y actividades relacionadas",
-"Renta 4 Banco, S.A.",2023,4,6512-Seguros distintos de los seguros de vida,
-"Renta 4 Banco, S.A.",2023,4,6810-Compraventa de bienes inmobiliarios por cuenta propia,
-"Renta 4 Banco, S.A.",2023,4,6820-Alquiler de bienes inmobiliarios por cuenta propia,
-"Renta 4 Banco, S.A.",2023,4,6831-Agentes de la propiedad inmobiliaria,
-"Renta 4 Banco, S.A.",2023,4,6832-Gestión y administración de la propiedad inmobiliaria,
-"Renta 4 Banco, S.A.",2023,4,7111-Servicios técnicos de arquitectura,
-"Renta 4 Banco, S.A.",2023,4,7112-Servicios técnicos de ingeniería y otras actividades relacionadas con el asesoramiento técnico,
-"Renta 4 Banco, S.A.",2023,4,7120-Ensayos y análisis técnicos,
-"Renta 4 Banco, S.A.",2023,4,7211-Investigación y desarrollo experimental en biotecnología,
-"Renta 4 Banco, S.A.",2023,4,7219-Otra investigación y desarrollo experimental en ciencias naturales y técnicas,
-"Renta 4 Banco, S.A.",2023,4,7711-Alquiler de automóviles y vehículos de motor ligeros,
-"Renta 4 Banco, S.A.",2023,4,8520-Educación primaria,
-"Renta 4 Banco, S.A.",2023,4,8531-Educación secundaria general,
-"Renta 4 Banco, S.A.",2023,4,8532-Educación secundaria técnica y profesional,
-"Renta 4 Banco, S.A.",2023,4,8543-Educación universitaria,
-"Renta 4 Banco, S.A.",2023,4,8551-Educación deportiva y recreativa,
-"Renta 4 Banco, S.A.",2023,4,8552-Educación cultural,
-"Renta 4 Banco, S.A.",2023,4,8553-Actividades de las escuelas de conducción y pilotaje,
-"Renta 4 Banco, S.A.",2023,4,8559-Otra educación n.c.o.p.,
-"Renta 4 Banco, S.A.",2023,4,8560-Actividades auxiliares a la educación,
-"Renta 4 Banco, S.A.",2023,4,8710-Asistencia en establecimientos residenciales con cuidados sanitarios,
-"Renta 4 Banco, S.A.",2023,4,"8720-Asistencia en establecimientos residenciales para personas con discapacidad intelectual, enfermedad mental y drogodependencia",
-"Renta 4 Banco, S.A.",2023,4,8731-Asistencia en establecimientos residenciales para personas mayores,
-"Renta 4 Banco, S.A.",2023,4,9001-Artes escénicas,
-"Renta 4 Banco, S.A.",2023,4,9002-Actividades auxiliares a las artes escénicas,
-"Renta 4 Banco, S.A.",2023,4,9003-Creación artística y literaria,
-"Renta 4 Banco, S.A.",2023,4,9004-Gestión de salas de espectáculos,
-"Renta 4 Banco, S.A.",2023,4,9106-Actividades de archivos,
-"Renta 4 Banco, S.A.",2023,4,9521-Reparación de aparatos electrónicos de audio y vídeo de uso doméstico,
-"Renta 4 Banco, S.A.",2023,4,9522-Reparación de aparatos electrodomésticos y de equipos para el hogar y el jardin,
-Rheinmetall AG,2023,3,Manufacture of renewable energy technologies,3.1
-Rheinmetall AG,2023,3,Manufacture of automotive and mobility components,3.18
-Rheinmetall AG,2023,3,Equipment for the production and use of hydrogen,3.2
-Rheinmetall AG,2023,3,Energy-efficient equipment for buildings,3.5
-Rheinmetall AG,2023,3,Other low carbon technologies,3.6
-Rheinmetall AG,2023,3,Transmission and distribution of electricity,4.9
+Rheinmetall AG,2023,1,Depollution and dismantling of end-of-life products,2.6
+Rheinmetall AG,2023,1,Manufacture of renewable energy technologies,3.1
+Rheinmetall AG,2023,1,Manufacture of automotive and mobility components,3.18
+Rheinmetall AG,2023,1,Manufacture of equipment for the production and use of hydrogen,3.2
+Rheinmetall AG,2023,1,Manufacture of aircraft,3.21
+Rheinmetall AG,2023,1,Manufacture of low carbon technologies for transport,3.3
+Rheinmetall AG,2023,1,Manufacture of energy efficient equipment for buildings,3.5
+Rheinmetall AG,2023,1,Manufacture of other low carbon technologies.,3.6
+Rheinmetall AG,2023,1,Preparation for reuse of end-of-life products and product components,5.3
+Rheinmetall AG,2023,1,Construction of new buildings,7.1
+Rheinmetall AG,2023,1,Acquisition and ownership of buildings,7.7
 Rheinmetall AG,2023,2,Afforestation,CCM 1.1.
 Rheinmetall AG,2023,2,Forest management,CCM 1.3.
 Rheinmetall AG,2023,2,Manufacture of renewable energy technologies,CCM 3.1.
 Rheinmetall AG,2023,2,Manufacture of automotive and mobility components,CCM 3.18.
 Rheinmetall AG,2023,2,Manufacture of equipment for the production and use of hydrogen,CCM 3.2.
-Rheinmetall AG,2023,2,Manufacture of aircraft,CCM 3.21.
+Rheinmetall AG,2023,2,Manufacturing of aircraft,CCM 3.21.
 Rheinmetall AG,2023,2,Manufacture of low carbon technologies for transport,CCM 3.3.
-Rheinmetall AG,2023,2,Manufacture of energy efficient equipment for buildings,CCM 3.5.
+Rheinmetall AG,2023,2,Manufacture of energy efficiency equipment for buildings,CCM 3.5.
 Rheinmetall AG,2023,2,Manufacture of other low carbon technologies,CCM 3.6.
 Rheinmetall AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1.
 Rheinmetall AG,2023,2,Production of heat/cool from bioenergy,CCM 4.24.
+Rheinmetall AG,2023,2,Transmission and distribution of electricity,CCM 4.9.
 Rheinmetall AG,2023,2,"Renewal of water collection, treatment and supply systems",CCM 5.2.
 Rheinmetall AG,2023,2,"Construction, extension and operation of waste water collection and treatment",CCM 5.3.
 Rheinmetall AG,2023,2,Renewal of waste water collection and treatment,CCM 5.4.
+Rheinmetall AG,2023,2,Collection and transport of non-hazardous waste in source segregated fractions,CCM 5.5.
 Rheinmetall AG,2023,2,Infrastructure for rail transport,CCM 6.14.
 Rheinmetall AG,2023,2,Low carbon airport infrastructure,CCM 6.17.
 Rheinmetall AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
@@ -1483,12 +1299,13 @@ Rheinmetall AG,2023,2,Acquisition and ownership of buildings,CCM 7.7.
 Rheinmetall AG,2023,2,"Data processing, hosting and related activities",CCM 8.1.
 Rheinmetall AG,2023,2,Depollution and dismantling of end-of-life products,CE 2.6.
 Rheinmetall AG,2023,2,Maintenance of roads and motorways,CE 3.4.
-Rheinmetall AG,2023,2,Preparation for reuse of end-of-life products and product components,CE 5.3.
+Rheinmetall AG,2023,2,Preparation for re-use of end-of-life products and product components,CE 5.3.
 Rheinmetall AG,2023,2,Remediation of contaminated sites and areas,PPC 2.4.
-S IMMO AG,2023,1,"Hotels, holiday, camping grounds and similar accommo- dation",BIO 2.1
+S IMMO AG,2023,1,"Hotels, holiday, camping grounds and similar accommodation",BIO 2.1
 S IMMO AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 S IMMO AG,2023,1,Acquisition and ownership of buildings,CCM 7.7
-SAFRAN,2024,1,Manufacturing of aircraft,"CCM 3.21, CE 1.2,CE 5.1,CE 5.2"
+SAFRAN,2024,1,Manufacturing of aircraft,"CCM 3.21, CE 1.2"
+SAFRAN,2024,1,Manufacturing of aircraft,"CCM 3.21, CE 1.2, CE 5.1, CE 5.2"
 SAFRAN,2024,1,Electricity generation using solar photovoltaic technology,CCM 4.1
 SAFRAN,2024,1,Production of heat/cool from geothermal energy,CCM 4.22
 SAFRAN,2024,1,Production of heat/cool using waste heat,CCM 4.24
@@ -1515,7 +1332,7 @@ SCHNEIDER ELECTRIC SE,2024,1,Data-driven solutions for GHG emissions reductions,
 SCHNEIDER ELECTRIC SE,2024,1,Professional services related to energy performance of buildings,CCM 9.3
 SCHNEIDER ELECTRIC SE,2024,1,Manufacture of electrical and electronic equipment,CE 1.2
 SCHNEIDER ELECTRIC SE,2024,1,Provision of IT/OT data-driven solutions,CE 4.1
-SCHNEIDER ELECTRIC SE,2024,1,"Repair, refurbishment and remanufacturing",CE 5.1
+SCHNEIDER ELECTRIC SE,2024,1,"Repair, refurbishment, and remanufacturing",CE 5.1
 SCHNEIDER ELECTRIC SE,2024,1,Sale of spare parts,CE 5.2
 SCHNEIDER ELECTRIC SE,2024,1,Product-as-a-service and other circular use- and result-oriented service models,CE 5.5
 SCHNEIDER ELECTRIC SE,2024,1,"Manufacture, installation and associated services for leakage control technologies enabling leakage reduction and prevention in water supply systems",WTR 1.1
@@ -1542,17 +1359,26 @@ SHELL PLC,2024,1,Storage of electricity,4.10
 SHELL PLC,2024,1,Manufacture of biogas and biofuels for use in transport and of bioliquids,4.13
 SHELL PLC,2024,1,Electricity generation from fossil gaseous fuels,4.29
 SHELL PLC,2024,1,Electricity generation from wind power,4.3
-SHELL PLC,2024,1,Transport of CO2,5.11
-SHELL PLC,2024,1,Underground permanent geological storage of CO2,5.12
+SHELL PLC,2024,1,Transport of CO₂,5.11
+SHELL PLC,2024,1,Underground permanent geological storage of CO₂,5.12
 SHELL PLC,2024,1,Infrastructure enabling low-carbon road transport and public transport,6.15
 SHELL PLC,2024,1,"Installation, maintenance and repair of renewable energy technologies",7.6
-SMA Solar Technology AG,2023,1,manufacture of renewable energy technologies,3.1
-SMA Solar Technology AG,2023,1,"manufacture, installation and servicing of high, medium and low voltage electrical equipment for electrical transmission and distribution that result in or enable a substantial contribution to climate change mitigation",3.20
-SMA Solar Technology AG,2023,1,sale of spare parts,5.2
-SMA Solar Technology AG,2023,1,"installation, maintenance and repair of renewable energy technologies",7.6
-SMA Solar Technology AG,2023,2,3.1 Manufacture of renewable energy technologies,CCM 3.1
-SMA Solar Technology AG,2023,2,3.20 Manufacture of technical equipment 3,CCM 3.20
-SMA Solar Technology AG,2023,2,"7.6 Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+SHELL PLC,2024,1,Conservation forestry,CCM 1.4
+SHELL PLC,2024,1,Manufacture of hydrogen,CCM 3.10
+SHELL PLC,2024,1,Manufacture of organic basic chemicals,CCM 3.14
+SHELL PLC,2024,1,Manufacture of plastics in primary form,CCM 3.17
+SHELL PLC,2024,1,Electricity generation using solar photovoltaic technology,CCM 4.1
+SHELL PLC,2024,1,Storage of electricity,CCM 4.10
+SHELL PLC,2024,1,Manufacture of biogas and biofuels for use in transport and of bioliquids,CCM 4.13
+SHELL PLC,2024,1,Electricity generation from fossil gaseous fuels,CCM 4.29
+SHELL PLC,2024,1,Electricity generation from wind power,CCM 4.3
+SHELL PLC,2024,1,Transport of CO₂,CCM 5.11
+SHELL PLC,2024,1,Underground permanent geological storage of CO₂,CCM 5.12
+SHELL PLC,2024,1,Infrastructure enabling low-carbon road transport and public transport,CCM 6.15
+SHELL PLC,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
+SMA Solar Technology AG,2023,2,3.1 Manufacture of<br>renewable energy<br>technologies,CCM 3.1
+SMA Solar Technology AG,2023,2,3.20 Manufacture of<br>technical equipment 3,CCM 3.20
+SMA Solar Technology AG,2023,2,"7.6 Installation, mainte-<br>nance and repair of<br>renewable energy<br>technologies",CCM 7.6
 SMA Solar Technology AG,2023,2,5.2 Sale of spare parts 3,CE 5.2
 STRABAG SE,2023,1,Flood risk prevention and protection infrastructure,CCA 14.12
 STRABAG SE,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
@@ -1560,7 +1386,7 @@ STRABAG SE,2023,1,District heating/cooling distribution,CCM 4.15
 STRABAG SE,2023,1,Electricity generation from wind power,CCM 4.3
 STRABAG SE,2023,1,Electricity generation from hydropower,CCM 4.5
 STRABAG SE,2023,1,Electricity generation from geothermal energy,CCM 4.6
-STRABAG SE,2023,1,Electricity generation from biogas,CCM 4.7
+STRABAG SE,2023,1,Electricity generation from renewable non-fossil gaseous and liquid fuels,CCM 4.7
 STRABAG SE,2023,1,Electricity generation from bioenergy,CCM 4.8
 STRABAG SE,2023,1,Transmission and distribution of electricity,CCM 4.9
 STRABAG SE,2023,1,Construction and extension of water supply systems,CCM 5.1 / WTR 2.1
@@ -1570,11 +1396,8 @@ STRABAG SE,2023,1,Infrastructure for rail transport,CCM 6.14
 STRABAG SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 STRABAG SE,2023,1,Construction of new buildings (as general contractor),CCM 7.1 / CE 3.1
 STRABAG SE,2023,1,Renovation of existing buildings,CCM 7.2 / CE 3.2
-STRABAG SE,2023,2,Renovation of existing buildings,CCM 7.2 /CE 3.2
 STRABAG SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 STRABAG SE,2023,1,Sorting and material recovery of non-hazardous wastes,CE 2.7
-STRABAG SE,2023,2,Construction of new buildings (as general contractor),CE 3.1
-STRABAG SE,2023,2,Renovation of existing buildings,CE 3.2
 STRABAG SE,2023,1,Demolition and wrecking of buildings and other structures,CE 3.3
 STRABAG SE,2023,1,Maintenance of roads and motorways,CE 3.4
 STRABAG SE,2023,1,Use of concrete in civil engineering,CE 3.5
@@ -1598,9 +1421,9 @@ SUSS MicroTec SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 SUSS MicroTec SE,2023,1,Freelance services related to the energy performance of buildings,CCM 9.3
 SUSS MicroTec SE,2023,1,Extension of service life of products through repair or remanufacturing,CE 5.1
 SUSS MicroTec SE,2023,1,Sale of used goods,CE 5.4
-Salzgitter AG,2023,1,2.7 Sorting and material recovery of non-hazardous waste,2.7
-Salzgitter AG,2023,1,3.9 Manufacture of iron and steel,3.9
-Salzgitter AG,2023,1,6.2 Freight rail transport,6.2
+Salzgitter AG,2023,1,Sorting and material recovery of non-hazardous waste,2.7
+Salzgitter AG,2023,1,Manufacture of iron and steel,3.9
+Salzgitter AG,2023,1,Freight rail transport,6.2
 Sartorius AG St,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 Sartorius AG St,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Sartorius AG St,2023,1,Manufacture of electrical and electronic equipment,CE 1.2
@@ -1629,6 +1452,11 @@ Savencia,2023,1,"Installation, maintenance, and repair of energy-efficient equip
 Savencia,2023,1,"Installation, maintenance, and repair of charging stations for electric vehicles inside buildings (and in parking lots attached to buildings)",7.4
 Savencia,2023,1,"Installation, maintenance, and repair of renewable energy technologies",7.6
 Savencia,2023,1,Acquisition and ownership of buildings,7.7
+Scout24 SE,2023,1,Manufacture of electrical and electronic equipment,1.2
+Scout24 SE,2023,1,"Transportation by motorcycles, passenger cars and light commercial vehicles",6.5
+Scout24 SE,2023,1,"Installation, maintenance and repair of equipment for measuring, regulating and controlling the overall energy efficiency of buildings",7.5
+Scout24 SE,2023,1,Acquisition and ownership of buildings: acquisition of real estate and exercise of ownership of such real estate,7.7
+Scout24 SE,2023,1,creation and sale of energy efficiency certificates,9.3
 Scout24 SE,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 Scout24 SE,2023,2,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",CCM 7.5
 Scout24 SE,2023,2,Acquisition and ownership of buildings,CCM 7.7
@@ -1648,17 +1476,25 @@ TAKKT AG,2023,1,"Installation, maintenance and repair of charging stations for e
 TAKKT AG,2023,1,"Installation, maintenance and repair of instruments and devices for measuring, regulation and controlling energy performance of buildings",7.5
 TAKKT AG,2023,1,Acquisition and ownership of buildings,7.7
 TAKKT AG,2023,1,"Data processing, hosting and related activities",8.1
-TELEFONICA SA,2024,1,"Installation, maintenance and repair of energy efficiency equipment (individual measure).",7.3.
-TELEFONICA SA,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (individual measure).",7.4.
-TELEFONICA SA,2024,1,"Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling energy performance of buildings (individual measure).",7.5.
-TELEFONICA SA,2024,1,"Transport by motorbikes, passenger cars and light commercial vehicles.",CCM 6.5.
-TELEFONICA SA,2024,1,"Installation, maintenance and repair of renewable energy technologies.",CCM 7.6.
-TELEFONICA SA,2024,1,Acquisition and ownership of buildings.,CCM 7.7.
-TELEFONICA SA,2024,1,"Data processing, hosting and related activities.",CCM 8.1.
-TELEFONICA SA,2024,1,Data-driven solutions for GHG emissions reductions.,CCM 8.2.
-TELEFONICA SA,2024,1,"Repair, refurbishment and remanufacturing.",CE 5.1.
-TELEFONICA SA,2024,1,Sale of second-hand goods.,CE 5.4.
-TELEFONICA SA,2024,1,Product-as-a-service and other circular use- and result-oriented service models.,CE 5.5.
+TELEFONICA SA,2024,1,"Activity 5.1. Repair, refurbishment and remanufacturing.",5.1.
+TELEFONICA SA,2024,1,Activity 5.4. Sale of second-hand goods.,5.4.
+TELEFONICA SA,2024,1,Activity 5.5. Product-as-a-service and other circular use- and result-oriented service models.,5.5.
+TELEFONICA SA,2024,1,"Activity 6.5. Transport by motorbikes, passenger cars and light commercial vehicles.",6.5.
+TELEFONICA SA,2024,1,"Activity 7.3. Installation, maintenance and repair of energy efficiency equipment (individual measure).",7.3.
+TELEFONICA SA,2024,1,"Activity 7.4. Installation, maintenance and repair of charging stations for electric vehicles in buildings (individual measure).",7.4.
+TELEFONICA SA,2024,1,"Activity 7.5. Installation, maintenance and repair of instruments and devices for measuring, regulating and controlling energy performance of buildings (individual measure).",7.5.
+TELEFONICA SA,2024,1,"Activity 7.6. Installation, maintenance and repair of renewable energy technologies.",7.6.
+TELEFONICA SA,2024,1,Activity 7.7. Acquisition and ownership of buildings.,7.7.
+TELEFONICA SA,2024,1,"Activity 8.1. Data processing, hosting and related activities.",8.1.
+TELEFONICA SA,2024,1,Activity 8.2. Data-driven solutions for GHG emissions reductions.,8.2.
+TELEFONICA SA,2024,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
+TELEFONICA SA,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6.
+TELEFONICA SA,2024,1,Acquisition and ownership of buildings,CCM 7.7.
+TELEFONICA SA,2024,1,"Data processing, hosting and related activities",CCM 8.1.
+TELEFONICA SA,2024,1,Data-driven solutions for GHG emissions reductions,CCM 8.2
+TELEFONICA SA,2024,1,"Repair, refurbishment and remanufacturing",CE 5.1.
+TELEFONICA SA,2024,1,Sale of second-hand goods,CE 5.4.
+TELEFONICA SA,2024,1,Product-as-a-service and other circular use- and result-oriented service models,CE 5.5.
 TeamViewer SE,2023,1,Electricity generation from hydropower,CCM 4.5
 TeamViewer SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 TeamViewer SE,2023,1,"Data processing, hosting and related activities",CCM 8.1
@@ -1669,27 +1505,6 @@ UNIQA Insurance Group AG,2023,1,A.1.1 Of which reinsured,
 UNIQA Insurance Group AG,2023,1,A.1.2 Of which stemming from reinsurance activity,
 UNIQA Insurance Group AG,2023,1,A.1.2.1 Of which reinsured (retrocession),
 UNIQA Insurance Group AG,2023,1,A.2 Non-life insurance and reinsurance underwriting Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities),
-UNIQA Insurance Group AG,2023,1,Amount and proportion of other taxonomy-aligned economic activities not referred to in rows 1 to 6 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of other taxonomy-aligned economic activities not referred to in rows 1 to 6 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of other taxonomy-eligible but not taxonomy-aligned economic activities not referred to in rows 1 to 6 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.26 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.26 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.27 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.27 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.28 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.28 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.29 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.29 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.30 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.30 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.31 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-aligned economic activity referred to in Section 4.31 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the numerator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.26 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.27 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.28 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.29 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.30 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
-UNIQA Insurance Group AG,2023,1,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.31 of Annexes I and II to Delegated Regulation (EU) 2021/2139 in the denominator of the applicable KPI,
 UNIQA Insurance Group AG,2023,1,B. Non-life insurance and reinsurance underwriting Taxonomy-non-eligible activities,
 VERBUND AG,2023,2,Electricity generation using solar photovoltaic technology,CCM 4.1
 VERBUND AG,2023,2,Storage of electricity,CCM 4.10
@@ -1711,10 +1526,6 @@ VERBUND AG,2024,1,Transmission and distribution of electricity,CCM 4.9/CCA 4.9
 VERBUND AG,2024,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5/CCA 6.5
 VERBUND AG,2024,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4/CCA 7.4
 VERBUND AG,2024,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6/CCA 7.6
-VIENNA INSURANCE GROUP AG,2023,1,Manufacture of automotive and mobility components,3.18.
-VIENNA INSURANCE GROUP AG,2023,1,Manufacture of iron and steel,3.9.
-VIENNA INSURANCE GROUP AG,2023,1,Infrastructure for rail transport,6.14.
-VIENNA INSURANCE GROUP AG,2023,1,Freight rail transport,6.2.
 VIENNA INSURANCE GROUP AG,2023,1,Manufacture of automotive and mobility components,CCM 3.18
 VIENNA INSURANCE GROUP AG,2023,1,Manufacture of iron and steel,CCM 3.9
 VIENNA INSURANCE GROUP AG,2023,1,Manufacture of iron and steel,CCM 3.9/<BR>CCA 3.9
@@ -1737,26 +1548,17 @@ VODAFONE GROUP PLC,2024,1,Data-driven solutions for GHG emissions reductions,CCM
 VODAFONE GROUP PLC,2024,1,"Repair, refurbishment and remanufacturing",CE 5.1
 VODAFONE GROUP PLC,2024,1,Product-as-a-service and other circular use- and result-oriented service models,CE 5.5
 Virbac,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles","CCM 6.5, CCA 6.5"
-Virbac,2023,1,Renovation of existing buildings,"CCM 7.2, CCA 7.2, CE 3.2"
 Virbac,2023,1,Renovation of production site of active pharmaceutical ingredients,"CCM 7.2, CCA 7.2, CE 3.2, PPC 1.1"
 Virbac,2023,1,Renovation of production site of medicinal product,"CCM 7.2, CCA 7.2, CE 3.2, PPC 1.2"
+Virbac,2023,1,Renovation of existing buildings,"CCM 7.2, CCA, 7.2, CE 3.2"
 Virbac,2023,1,"Installation, maintenance and repair of energy efficiency equipment","CCM 7.3, CCA 7.3"
 Virbac,2023,1,Acquisition and ownership of buildings,"CCM 7.7, CCA 7.7"
-Virbac,2023,1,"transport by motorcycles, private cars and light utility vehicles",CCM/CCA 6.5
-Virbac,2023,1,renovation of existing buildings,"CCM/CCA 7.2, CE 3.2"
-Virbac,2023,1,"installation, maintenance and repair of energy efficiency equipment",CCM/CCA 7.3
-Virbac,2023,1,"installation, maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings",CCM/CCA 7.4
-Virbac,2023,1,"installation, maintenance and repair of instruments and devices for the measurement, regulation and control of the energy performance of buildings",CCM/CCA 7.5
-Virbac,2023,1,"installation, maintenance and repair of renewable energy technologies",CCM/CCA 7.6
-Virbac,2023,1,acquisition and ownership of buildings,CCM/CCA 7.7
-Virbac,2023,1,data-based solutions for reducing GHG emissions,CCM/CCA 8.2
-Virbac,2023,1,manufacture of pharmaceutical active ingredients (API) or active substances,PPC 1.1
+Virbac,2023,1,Manufacture of active pharmaceutical ingredients (API) or active substances,PPC 1.1
 Virbac,2023,1,Manufacture of medicinal products,PPC 1.2
-Virbac,2023,1,"manufacturing, installation and associated services for leak-control technologies to reduce and prevent leaks in water supply systems",WTR 1.1
-Viscom SE,2023,1,Renovation of existing buildings,3.2
+Virbac,2023,1,"Manufacture, installation and associated services for leakage control technologies enabling leakage reduction and prevention in water supply systems",WTR 1.1
 Viscom SE,2023,1,Electricity generation using solar photovoltaic technology,4.1
 Viscom SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
-Viscom SE,2023,1,Renovation of existing buildings,7.2
+Viscom SE,2023,1,Renovation of existing buildings,7.2 / 3.2
 Viscom SE,2023,1,Acquisition and ownership of buildings,7.7
 Volkswagen AG St,2023,2,Manufacture of automotive and mobility components,3.18
 Volkswagen AG St,2023,2,Manufacture of equipment for the production and use of hydrogen,3.2
@@ -1775,7 +1577,9 @@ Volkswagen AG Vz,2023,2,Manufacture of other low-carbon technologies,CCM 3.6
 Volkswagen AG Vz,2023,2,"Close to market research, development and innovation",CCM 9.1
 Vonovia SE,2023,1,Manufacture of low carbon technologies for transport,CCM 3.3
 Vonovia SE,2023,1,Electricity generation using solar photovoltaic technology,CCM 4.1
+Vonovia SE,2023,1,Construction of new buildings,CCM 7.1
 Vonovia SE,2023,1,Construction of new buildings,CCM 7.1/CE 3.1
+Vonovia SE,2023,1,Renovation of existing buildings,CCM 7.2
 Vonovia SE,2023,1,Renovation of existing buildings,CCM 7.2/CE 3.2
 Vonovia SE,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 Vonovia SE,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
@@ -1789,11 +1593,9 @@ Vossloh AG,2023,1,"Installation, maintenance and repair of energy-efficient appl
 Vossloh AG,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and in parking lots belonging to buildings)",7.4
 Vossloh AG,2023,1,"Installation, maintenance and repair of devices for measuring, regulating and controlling the overall energy efficiency of buildings",7.5
 Vossloh AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",7.6
-Warimpex Finanz- und Bet. AG,2023,2,Acquisition and ownership of buildings,CCA 7.7
+Warimpex Finanz- und Bet. AG,2023,1,Acquisition and ownership of buildings,CCA 7.7
 Warimpex Finanz- und Bet. AG,2023,1,Others,L41 CONSTRUCTION OF BUILDINGS
 Warimpex Finanz- und Bet. AG,2023,1,"Airport City Carpark, St. Petersburg",L68 REAL ESTATE ACTIVITIES
-Warimpex Finanz- und Bet. AG,2023,1,"Airportcity Plaza, St. Petersburg",
-Warimpex Finanz- und Bet. AG,2023,1,"greet hotel, Darmstadt",
 WashTec AG,2023,1,Manufacture of other low-carbon technologies,CCM 3.6
 WashTec AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
 WashTec AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
@@ -1807,9 +1609,20 @@ Wienerberger AG,2023,1,"Transport by motorbikes, passenger cars and light commer
 Wienerberger AG,2023,1,"Installation, maintenance and repair of energy efficiency equipment",CCM 7.3
 Wienerberger AG,2023,1,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4
 Wienerberger AG,2023,1,"Installation, maintenance and repair of renewable energy technologies",CCM 7.6
-Wüstenrot & Württembergische AG,2023,2,Acquisition and ownership of buildings,
-Wüstenrot & Württembergische AG,2023,2,Non-life insurance: underwriting of climate-related perils,
-Wüstenrot & Württembergische AG,2023,2,Renovation of existing buildings,
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.26 of Annexes I and II to Delegated Regulation (EU) 2021/2139,4.26
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.27 of Annexes I and II to Delegated Regulation (EU) 2021/2139,4.27
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.28 of Annexes I and II to Delegated Regulation (EU) 2021/2139,4.28
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.29 of Annexes I and II to Delegated Regulation (EU) 2021/2139,4.29
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.30 of Annexes I and II to Delegated Regulation (EU) 2021/2139,4.30
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of taxonomy-eligible but not taxonomy-aligned economic activity referred to in Section 4.31 of Annexes I and II to Delegated Regulation (EU) 2021/2139,4.31
+Wüstenrot & Württembergische AG,2023,2,A.1. Non-life insurance and reinsurance underwriting Taxonomy-aligned activities,
+Wüstenrot & Württembergische AG,2023,2,A.1.1. Of which reinsured,
+Wüstenrot & Württembergische AG,2023,2,A.1.2. Of which stemming from reinsurance activities,
+Wüstenrot & Württembergische AG,2023,2,A.1.2.1. Of which reinsured (retrocession),
+Wüstenrot & Württembergische AG,2023,2,A.2. Non-life insurance and reinsurance underwriting Taxonomy-eligible but not environmentally sustainable activities,
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of other taxonomy-aligned economic activities not referred to in rows 1 to 6,
+Wüstenrot & Württembergische AG,2023,2,Amount and proportion of other taxonomy-eligible but not taxonomy-aligned economic activities not referred to in rows 1 to 6,
+Wüstenrot & Württembergische AG,2023,2,B. Non-life insurance and reinsurance underwriting Taxonomy-non-eligible activities,
 Zalando SE,2023,1,Acquisition and ownership of buildings,CCM 7.7
 Zumtobel Group AG,2023,1,Manufacture of energy efficiency equipment for buildings,CCM-3.5
 Zumtobel Group AG,2023,1,"Operation of personal mobility devices, cycle logistics",CCM-6.4
@@ -1824,9 +1637,9 @@ Zumtobel Group AG,2023,1,Provision of IT/OT data-driven solutions,CE-4.1
 adidas AG,2023,1,"Transport by motorbikes, passenger cars, and light commercial vehicles (including company car leases)",6.5
 adidas AG,2023,1,"Installation, maintenance, and repair of energy-efficient equipment (e.g., LED lighting in retail stores)",7.3
 adidas AG,2023,1,Acquisition and ownership of buildings (including building leases),7.7
-adidas AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5
-adidas AG,2023,2,"Installation, maintenance, and repair of energy efficiency equipment",CCM 7.3
-adidas AG,2023,2,Acquisition and ownership of buildings (building leases),CCM 7.7
+adidas AG,2023,2,"6.5. Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
+adidas AG,2023,2,"7.3. Installation, maintenance, and repair of energy efficiency equipment",CCM 7.3.
+adidas AG,2023,2,7.7. Acquisition and ownership of buildings (building leases),CCM 7.7.
 freenet AG,2023,2,"Transport by motorbikes, passenger cars and light commercial vehicles","CCM 6.5, CCA 6.5"
 freenet AG,2023,2,Renovation of existing buildings,"CCM 7.2, CCA 7.2, CE 3.2"
 freenet AG,2023,2,"Installation, maintenance and repair of energy efficiency equipment","CCM 7.3, CCA 7.3"
@@ -1836,6 +1649,15 @@ freenet AG,2023,2,"Data processing, hosting and related activities","CCM 8.1, CC
 freenet AG,2023,2,"Repair, refurbishment and remanufacturing",CE 5.1
 freenet AG,2023,2,Sale of second-hand goods,CE 5.4
 freenet AG,2023,2,Product as a service and other cycle- and result-orientated service models,CE 5.5
+grenke AG,2023,1,Manufacture of batteries,CCM 3.4.
+grenke AG,2023,1,Electricity generation using concentrated solar power (CSP) technology,CCM 4.2.
+grenke AG,2023,1,"Operation of personal mobility devices, cycle logistics",CCM 6.4.
+grenke AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",CCM 6.5.
+grenke AG,2023,1,Renovation of existing buildings,CCM 7.2 / CE 3.2.
+grenke AG,2023,2,"Installation, maintenance and repair of charging stations for electric vehicles in buildings (and parking spaces attached to buildings)",CCM 7.4.
+grenke AG,2023,2,Acquisition and ownership of buildings,CCM 7.7.
+grenke AG,2023,2,Manufacture of electrical and electronic equipment,CE 1.2.
+grenke AG,2023,1,Product-as-a-service and other circular use- and result-oriented service models,CE 5.5.
 secunet Security Networks AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles","6,5"
 secunet Security Networks AG,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",6.5
 secunet Security Networks AG,2023,1,Acquisition and ownership of buildings,"7,7"
@@ -1853,4 +1675,5 @@ technotrans SE,2023,1,"stallation, maintenance and repair of charging stations f
 technotrans SE,2023,1,"stallation, maintenance and repair of struments and devices for measuring, gulation and controlling energy erformance of buildings",CCM 7.5
 technotrans SE,2023,1,"Repair, refurbishment and remanufacturing",CE 5.1
 technotrans SE,2023,1,Sale of second-hand goods,CE 5.4
+technotrans SE,2023,1,"Close to market research, development and innovation",
 technotrans SE,2023,1,"Transport by motorbikes, passenger cars and light commercial vehicles",

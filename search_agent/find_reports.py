@@ -11,11 +11,48 @@ from langchain_tavily import TavilySearch
 from langchain_openai import AzureChatOpenAI
 from openai import AzureOpenAI
 
+import statistics
+from time import perf_counter
+from collections import defaultdict
+
 INPUT_FILE = "search_agent/data/input/test_next.csv"
 OUTPUT_FILE = "search_agent/data/output/sustainability_reports_next_2024.csv"
 
 TARGET_YEAR = "2024"
 
+# =========================
+# TIMING / PROFILING
+# =========================
+TIMINGS = defaultdict(list)  # key -> list of seconds
+COUNTS = defaultdict(int)    # key -> int
+
+def _t0() -> float:
+    return perf_counter()
+
+def _t1(t_start: float) -> float:
+    return perf_counter() - t_start
+
+def record_timing(key: str, seconds: float) -> None:
+    TIMINGS[key].append(seconds)
+
+def summarize_timings() -> None:
+    print("\n=== TIMING SUMMARY (seconds) ===")
+    if not TIMINGS:
+        print("No timing data collected.")
+        return
+
+    def _fmt(vals: list[float]) -> str:
+        if not vals:
+            return "-"
+        vals_sorted = sorted(vals)
+        mean = statistics.mean(vals_sorted)
+        p50 = vals_sorted[len(vals_sorted)//2]
+        p90 = vals_sorted[int(0.9*(len(vals_sorted)-1))]
+        mx = max(vals_sorted)
+        return f"n={len(vals_sorted)} mean={mean:.3f} p50={p50:.3f} p90={p90:.3f} max={mx:.3f}"
+
+    for k in sorted(TIMINGS.keys()):
+        print(f"{k:28s} {_fmt(TIMINGS[k])}")
 
 # ===================================================================
 # QUERY se non dovessero funzionare quelle generate da GPT
@@ -157,7 +194,7 @@ def choose_best(candidates: List[str]) -> str:  # fallback se GPT non decide
 llm = AzureChatOpenAI(
     azure_endpoint=os.getenv("ENDPOINT_URL"),
     api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-    deployment_name=os.getenv("AZURE_DEPLOYMENT", "gpt-5-mini"),
+    deployment_name=os.getenv("AZURE_DEPLOYMENT", "gpt-5.1-chat"),
     api_version=os.getenv("AZURE_OPENAI_API_VERSION", "2025-01-01-preview"),
     temperature=1.0,
     max_tokens=None,
@@ -195,13 +232,14 @@ def ask_llm_build_queries(
     )
 
     try:
+        t = _t0()
         resp = llm.invoke(
             [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ]
         )
-
+        record_timing("llm_query_1_invoke", _t1(t))
         raw = (resp.content or "").strip()
 
         if not raw:
@@ -266,13 +304,14 @@ def ask_llm_build_alternative_query(
     )
 
     try:
+        t = _t0()
         resp = llm.invoke(
             [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ]
         )
-
+        record_timing("llm_query_2_invoke", _t1(t))
         raw = (resp.content or "").strip()
         print("\n[DEBUG LLM RAW ALT-QUERY RESPONSE]")
         print(raw)
@@ -331,13 +370,14 @@ def ask_llm_build_third_query(
     )
 
     try:
+        t = _t0()
         resp = llm.invoke(
             [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ]
         )
-
+        record_timing("llm_query_3_invoke", _t1(t))
         raw = (resp.content or "").strip()
         print("\n[DEBUG LLM RAW THIRD-QUERY RESPONSE]")
         print(raw)
@@ -382,12 +422,14 @@ def ask_llm_pick_one(company: str, domain: str, candidates: List[str]) -> str:
     )
 
     try:
+        t = _t0()
         resp = llm.invoke(
             [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ]
         )
+        record_timing("llm_pick_one_invoke", _t1(t))
         text = (resp.content or "").strip()
         m = re.search(r"https?://\S+?\.pdf(?:[?#]\S*)?", text, flags=re.I)
         return m.group(0) if m else ("NONE" if text.upper() == "NONE" else "")
@@ -417,8 +459,9 @@ class ESGPDFSearcherLLM:
             payload["include_domains"] = include_domains
 
         try:
+            t = _t0()
             res = self.tavily.invoke(payload)
-
+            record_timing("tavily_invoke", _t1(t))
             if isinstance(res, list):
                 return res
             if isinstance(res, dict):
@@ -467,9 +510,12 @@ class ESGPDFSearcherLLM:
                     html_site_raw.append(url)
 
         def recompute_candidates() -> List[str]:
+            t = _t0()
             pdfs_site.sort(key=lambda x: x.get("score", 0), reverse=True)
             links_site_scored = [x["url"] for x in pdfs_site if x.get("score", 0) >= 0]
-            return filter_pdf_links(links_site_scored, domain)
+            out = filter_pdf_links(links_site_scored, domain)
+            record_timing("filter_recompute_candidates", _t1(t))
+            return out
 
         # =========================
         # STEP 1: GPT QUERY #1
@@ -626,7 +672,7 @@ def main():
                 continue
 
             domain = site.replace("https://", "").replace("http://", "").split("/")[0]
-
+            t_company = _t0()
             try:
                 candidates, stats = searcher.search(company, domain)
 
@@ -645,7 +691,13 @@ def main():
 
                 if best_link == "NONE":
                     print(f"[DEBUG] {company} | fallback-candidates (prime 5): {candidates[:5]}")
-
+                record_timing("company_total", _t1(t_company))
+                COUNTS["companies_processed"] += 1
+                if best_link and best_link != "NONE":
+                    COUNTS["companies_success"] += 1
+                else:
+                    COUNTS["companies_none"] += 1
+                COUNTS[f"source_{stats['site_query_source']}"] += 1
                 writer.writerow({
                     "company_id": company,
                     "domain": domain,
@@ -684,6 +736,16 @@ def main():
             time.sleep(1.5)
 
     print("\n=== Ricerca completata ===")
+    print("\n=== RUN SUMMARY ===")
+    print(f"companies_processed: {COUNTS['companies_processed']}")
+    print(f"companies_success:   {COUNTS['companies_success']}")
+    print(f"companies_none:      {COUNTS['companies_none']}")
+    print("\n=== site_query_source counts ===")
+    for k in sorted([k for k in COUNTS.keys() if k.startswith("source_")]):
+        print(f"{k.replace('source_',''):24s} {COUNTS[k]}")
+
+    summarize_timings()
+
     print(f"Risultati salvati in: {OUTPUT_FILE}")
 
 
@@ -696,10 +758,10 @@ if __name__ == "__main__":
 # (C:\Users\massi\anaconda3\shell\condabin\conda-hook.ps1) ; (conda activate esg_agent)
 '''
 # === CREDENZIALI AZURE OPENAI ===
-$env:AZURE_OPENAI_API_KEY="wLPBFmPkwquNFwn5IKDR3W8mv1ZKb95FGnxLZ0RgUiEl32D9qFaGJQQJ99BHACI8hq2XJ3w3AAABACOGyD04"
-$env:ENDPOINT_URL="https://openaimaurino2.openai.azure.com/"
+$env:AZURE_OPENAI_API_KEY="FsEzVtCW88IklIn1gdtodRT8at2wzo84YubWnvQ9eZNxiCnl4CXfJQQJ99CBACI8hq2XJ3w3AAABACOGWjK9"
+$env:ENDPOINT_URL="https://maurinokeys.openai.azure.com/"
 $env:AZURE_OPENAI_API_VERSION="2025-01-01-preview"
-$env:AZURE_DEPLOYMENT="gpt-5-mini"
+$env:AZURE_DEPLOYMENT="gpt-5.1-chat"
 
 # === CREDENZIALI TAVILY ===
 $env:TAVILY_API_KEY="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"
